@@ -1,0 +1,25 @@
+{
+  "dateCreated": "2024-03-28T07:45:52.810Z",
+  "tracks": [
+    {
+      "trackId": "D39V_180601_operons",
+      "attributesIndexed": [
+        "Name"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon"
+      ],
+      "adapterConf": {
+        "type": "Gff3Adapter",
+        "gffLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/D39V_annotation_operons_sorted.gff.gz"
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "D39V"
+  ]
+}

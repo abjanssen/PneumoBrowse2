@@ -1,0 +1,27 @@
+D39V	Ori-Finder	origin_of_replication	1363	1520	.	+	.	ID=origin_of_replication.1;Name=oriC;Supporting_literature=18237442;Function=Predicted origin of replication
+D39V	Motif scan	protein_binding_site	1365	1373	.	-	.	ID=protein_binding_site.1;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	1394	1402	.	+	.	ID=protein_binding_site.2;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	1405	1413	.	+	.	ID=protein_binding_site.3;Name=DnaA-binding;Note=1 mismatch with consensus;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	1449	1457	.	+	.	ID=protein_binding_site.4;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	1471	1485	.	+	.	ID=protein_binding_site.5;Name=DnaA-trios;Supporting_literature=27281207;Function=Predicted DnaA-trios;Bound_moiety=DnaA
+D39V	Literature	protein_binding_site	11357	11372	.	+	.	ID=protein_binding_site.6;Name=parS;Supporting_literature=17905987;Function=Predicted ParB recognition site;Bound_moiety=ParB
+D39V	Literature	protein_binding_site	1937700	1937715	.	-	.	ID=protein_binding_site.7;Name=parS;Supporting_literature=17905987;Function=Predicted ParB recognition site;Bound_moiety=ParB
+D39V	Literature	protein_binding_site	2025787	2025802	.	-	.	ID=protein_binding_site.8;Name=parS;Supporting_literature=17905987;Function=Predicted ParB recognition site;Bound_moiety=ParB
+D39V	Literature	protein_binding_site	2036987	2037002	.	-	.	ID=protein_binding_site.9;Name=parS;Supporting_literature=17905987%2C21651626;Function=Predicted ParB recognition site;Bound_moiety=ParB
+D39V	Motif scan	protein_binding_site	2044206	2044214	.	+	.	ID=protein_binding_site.10;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	2044217	2044225	.	+	.	ID=protein_binding_site.11;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	2044272	2044280	.	+	.	ID=protein_binding_site.12;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	2044284	2044292	.	-	.	ID=protein_binding_site.13;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	2044297	2044305	.	-	.	ID=protein_binding_site.14;Name=DnaA-binding;Note=1 mismatch with consensus;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	2046444	2046452	.	+	.	ID=protein_binding_site.15;Name=DnaA-binding;Note=1 mismatch with consensus;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	2046456	2046464	.	-	.	ID=protein_binding_site.16;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	2046478	2046486	.	-	.	ID=protein_binding_site.17;Name=DnaA-binding;Note=1 mismatch with consensus;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	2046487	2046495	.	+	.	ID=protein_binding_site.18;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	Motif scan	protein_binding_site	2046499	2046507	.	-	.	ID=protein_binding_site.19;Name=DnaA-binding;Supporting_literature=7615570;Function=Predicted DnaA-box;Bound_moiety=DnaA
+D39V	RAST	classifier_predicted_region	71538	71568	.	+	.	ID=classifier_predicted_region.1;Function=Co-trimoxazole resistance predicted region
+D39V	RAST	classifier_predicted_region	90201	90231	.	+	.	ID=classifier_predicted_region.2;Note=Contained in BOX element;Function=Beta-lactam resistance predicted region
+D39V	RAST	classifier_predicted_region	137664	137694	.	+	.	ID=classifier_predicted_region.3;Function=Co-trimoxazole resistance predicted region
+D39V	RAST	classifier_predicted_region	1423721	1423756	.	+	.	ID=classifier_predicted_region.4;Function=Co-trimoxazole resistance predicted region
+D39V	RAST	classifier_predicted_region	1455063	1455098	.	+	.	ID=classifier_predicted_region.5;Function=Co-trimoxazole resistance predicted region
+D39V	Literature	specific_recombination_site	917063	917093	.	-	.	ID=specific_recombination_site.1;Name=difSL;Note=Not predicted by RAST;Supporting_literature=22092814%2C17630835;Function=XerS cleavage site
+D39V	RAST	sequence_feature	1491498	1491614	.	-	.	ID=sequence_feature.1;Function=Remnant of original divIVA gene

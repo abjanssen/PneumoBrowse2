@@ -1,0 +1,37 @@
+{
+  "dateCreated": "2024-03-28T07:45:52.388Z",
+  "tracks": [
+    {
+      "trackId": "D39V_annotation_coding_features_sorted.gff",
+      "attributesIndexed": [
+        "Name",
+        "Old_locus_tag",
+        "Locus_tag",
+        "R6_locus",
+        "TIGR4_locus",
+        "NCBI_locus",
+        "Alias"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/D39V_annotation_coding_features_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/D39V/D39V_annotation_coding_features_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "D39V"
+  ]
+}

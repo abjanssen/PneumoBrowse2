@@ -1,0 +1,28 @@
+ATCC_700905	FIMO	TF_binding_site	31834	31849	94.9	+	.	Name=ParS;Alias=;ID=tf.0001;pvalue=3.2e-10;qvalue=0.000669;sequence=TGTTTCACGTGAAACA;Function=Predicted ParB binding site
+ATCC_700905	FIMO	TF_binding_site	31834	31849	94.9	-	.	Name=ParS;Alias=;ID=tf.0002;pvalue=3.2e-10;qvalue=0.000669;sequence=TGTTTCACGTGAAACA;Function=Predicted ParB binding site
+ATCC_700905	FIMO	TF_binding_site	2092087	2092102	80.9	+	.	Name=ParS;Alias=;ID=tf.0003;pvalue=8.18e-09;qvalue=0.00856;sequence=CGTTTCACGTGAAACG;Function=Predicted ParB binding site
+ATCC_700905	FIMO	TF_binding_site	2092087	2092102	80.9	-	.	Name=ParS;Alias=;ID=tf.0004;pvalue=8.18e-09;qvalue=0.00856;sequence=CGTTTCACGTGAAACG;Function=Predicted ParB binding site
+ATCC_700905	FIMO	TF_binding_site	44605	44632	120	+	.	Name=ComX binding site;Alias=;ID=tf.0005;pvalue=9.94e-13;qvalue=3.35e-06;sequence=TTTTTCGTGCTTTTTCCGAATAAATAAG;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	220907	220934	117	+	.	Name=ComX binding site;Alias=;ID=tf.0006;pvalue=1.95e-12;qvalue=3.35e-06;sequence=TTTTTCTTGTCTTTTACGAATAGAAAGA;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	1645127	1645154	116	+	.	Name=ComX binding site;Alias=;ID=tf.0007;pvalue=2.74e-12;qvalue=3.35e-06;sequence=TTTCTCCCATTTTTTACGAATAGATAAG;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	1749102	1749129	112	-	.	Name=ComX binding site;Alias=;ID=tf.0008;pvalue=5.92e-12;qvalue=4.39e-06;sequence=TTTTTTTGATTTCCTACGAATAGATAAG;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	51155	51182	112	-	.	Name=ComX binding site;Alias=;ID=tf.0009;pvalue=5.98e-12;qvalue=4.39e-06;sequence=TTTTTCAAACTTTTTCCGAATAAATAGA;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	49561	49588	107	+	.	Name=ComX binding site;Alias=;ID=tf.0010;pvalue=2.03e-11;qvalue=1.24e-05;sequence=TTTTTCGTCTTTTTTCCGAATAAATAGA;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	154898	154925	104	-	.	Name=ComX binding site;Alias=;ID=tf.0011;pvalue=3.79e-11;qvalue=1.99e-05;sequence=TTTTCCTTTTCTTTTCCGAATATAAAAG;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	907761	907788	100	+	.	Name=ComX binding site;Alias=;ID=tf.0012;pvalue=9.28e-11;qvalue=4.13e-05;sequence=TTTTTACGAACTTTTACGAATAGATAGA;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	1191456	1191483	99.9	-	.	Name=ComX binding site;Alias=;ID=tf.0013;pvalue=1.01e-10;qvalue=4.13e-05;sequence=TTTTTTCTTCCTCTTACGAATAATCTAA;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	1907019	1907046	98.7	-	.	Name=ComX binding site;Alias=;ID=tf.0014;pvalue=1.33e-10;qvalue=4.87e-05;sequence=TTTTTCTAACTCTTTGCGAATAGTATAG;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	2074626	2074653	97.5	-	.	Name=ComX binding site;Alias=;ID=tf.0015;pvalue=1.77e-10;qvalue=5.49e-05;sequence=CTTTTTCTTTTTTCTCCGAATAATTTAG;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	1877540	1877567	97.4	-	.	Name=ComX binding site;Alias=;ID=tf.0016;pvalue=1.8e-10;qvalue=5.49e-05;sequence=TTTTTATTTTTCATTACGAATAATATAG;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	1071043	1071070	95.3	+	.	Name=ComX binding site;Alias=;ID=tf.0017;pvalue=2.92e-10;qvalue=8.23e-05;sequence=TTTTCCATCCTTCTCACGAATAATAAAG;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	1169750	1169777	93.1	-	.	Name=ComX binding site;Alias=;ID=tf.0018;pvalue=4.91e-10;qvalue=0.000129;sequence=TCTTTTTTCTTTTTTACGAATGATATAG;Function=Predicted ComX binding site
+ATCC_700905	FIMO	TF_binding_site	2109276	2109315	159	-	.	Name=ComE binding site;Alias=;ID=tf.0019;pvalue=1.19e-16;qvalue=4.4e-10;sequence=AAAAAAGTACACTTTGGGAGAAAAAAATGACAGTTGAGAG;Function=Predicted ComE binding site
+ATCC_700905	FIMO	TF_binding_site	1581376	1581415	141	-	.	Name=ComE binding site;Alias=;ID=tf.0020;pvalue=8.13e-15;qvalue=1.5e-08;sequence=CTCAAATAACAATTCAGGATTAAAAATAGACAGTTGAGGA;Function=Predicted ComE binding site
+ATCC_700905	FIMO	TF_binding_site	1085276	1085315	122	+	.	Name=ComE binding site;Alias=;ID=tf.0021;pvalue=6.1e-13;qvalue=7.53e-07;sequence=AAACAGGTACACTTCATGTGAAAAAAACAACATTTCAGAT;Function=Predicted ComE binding site
+ATCC_700905	FIMO	TF_binding_site	2020942	2020981	116	-	.	Name=ComE binding site;Alias=;ID=tf.0022;pvalue=2.57e-12;qvalue=2.38e-06;sequence=ACAATAGGACAATTCACCTCTAATTATTGACATTTCAGGA;Function=Predicted ComE binding site
+ATCC_700905	FIMO	TF_binding_site	60119	60158	96.1	+	.	Name=ComE binding site;Alias=;ID=tf.0023;pvalue=2.45e-10;qvalue=0.000182;sequence=CAAAAAGTGCAGTTGGGAGGGAGATAGGCGCATTTGGGAA;Function=Predicted ComE binding site
+ATCC_700905	FIMO	TF_binding_site	430093	430132	94.1	+	.	Name=ComE binding site;Alias=;ID=tf.0024;pvalue=3.91e-10;qvalue=0.000241;sequence=GGAAAAATGCAATTCAGGTTGAAAAATTGACAGTTGAGGA;Function=Predicted ComE binding site
+ATCC_700905	FIMO	TF_binding_site	1421301	1421340	89.9	-	.	Name=ComE binding site;Alias=;ID=tf.0025;pvalue=1.01e-09;qvalue=0.000533;sequence=AAAAAGTCATCTTCGGATGGCTTTTTGCTACAGTTGAGGG;Function=Predicted ComE binding site
+ATCC_700905	FIMO	TF_binding_site	41960	41999	88.1	+	.	Name=ComE binding site;Alias=;ID=tf.0026;pvalue=1.55e-09;qvalue=0.000719;sequence=ATTTTTATCTTGTTGAGGCTGGTATTTTAACAATTCAGGA;Function=Predicted ComE binding site
+ATCC_700905	FIMO	TF_binding_site	1349906	1349945	86.6	+	.	Name=ComE binding site;Alias=;ID=tf.0027;pvalue=2.17e-09;qvalue=0.000892;sequence=CAAACAATGCAGTTCAGATGGAAATAATGGCAGTTCAGGA;Function=Predicted ComE binding site
+ATCC_700905	FIMO	TF_binding_site	1783625	1783664	86.1	-	.	Name=ComE binding site;Alias=;ID=tf.0028;pvalue=2.45e-09;qvalue=0.000908;sequence=CTCTCGTGTTTGTTTAGCGTCTTAAAAAGACATTTGGGAA;Function=Predicted ComE binding site

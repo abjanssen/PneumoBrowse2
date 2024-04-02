@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[2398],{22398:(e,s,l)=>{l.r(s),l.d(s,{default:()=>a.A,formControlLabelClasses:()=>b.A,getFormControlLabelUtilityClasses:()=>b.u});var a=l(33371),b=l(18095)}}]);
