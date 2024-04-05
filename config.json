@@ -1172,7 +1172,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/Control.plus.bw"
             },
-            "source": "Control (plus strand)"
+            "source": "Plus strand"
           },
           {
             "type": "BigWigAdapter",
@@ -1180,7 +1180,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/Control.minus.bw"
             },
-            "source": "Control (minus strand)"
+            "source": "Minus strand"
           }
         ]
       },
@@ -1212,7 +1212,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/Lefamulin.plus.bw"
             },
-            "source": "Lefamulin (plus strand)"
+            "source": "Plus strand"
           },
           {
             "type": "BigWigAdapter",
@@ -1220,7 +1220,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/Lefamulin.minus.bw"
             },
-            "source": "Lefamulin (minus strand)"
+            "source": "Minus strand"
           }
         ]
       },
@@ -1252,7 +1252,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/Retapamulin.plus.bw"
             },
-            "source": "Retapamulin (plus strand)"
+            "source": "Plus strand"
           },
           {
             "type": "BigWigAdapter",
@@ -1260,7 +1260,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/Retapamulin.minus.bw"
             },
-            "source": "Retapamulin (minus strand)"
+            "source": "Minus strand"
           }
         ]
       },
@@ -1293,7 +1293,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_cont_coverage.plus.bw"
             },
-            "source": "Control coverage (paired end, plus strand)"
+            "source": "Plus strand"
           },
           {
             "type": "BigWigAdapter",
@@ -1301,7 +1301,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_cont_coverage.minus.bw"
             },
-            "source": "Control coverage (paired end, minus strand)"
+            "source": "Minus strand"
           }
         ]
       },
@@ -1334,7 +1334,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_cont_start_count.plus.bw"
             },
-            "source": "Control start base (plus strand)"
+            "source": "Plus strand"
           },
           {
             "type": "BigWigAdapter",
@@ -1342,7 +1342,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_cont_start_count.minus.bw"
             },
-            "source": "Control start base (minus strand)"
+            "source": "Minus strand"
           }
         ]
       },
@@ -1375,7 +1375,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_cont_end_count.plus.bw"
             },
-            "source": "Control last base (plus strand)"
+            "source": "Plus strand"
           },
           {
             "type": "BigWigAdapter",
@@ -1383,7 +1383,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_cont_end_count.minus.bw"
             },
-            "source": "Control last base (minus strand)"
+            "source": "Minus strand"
           }
         ]
       },
@@ -1462,7 +1462,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_5pr_coverage.plus.bw"
             },
-            "source": "5'-enriched coverage (single-end, plus strand)"
+            "source": "Plus strand"
           },
           {
             "type": "BigWigAdapter",
@@ -1470,7 +1470,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_5pr_coverage.minus.bw"
             },
-            "source": "5'-enriched coverage (single-end, minus strand)"
+            "source": "Minus strand"
           }
         ]
       },
@@ -1503,7 +1503,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_5pr_start_count.plus.bw"
             },
-            "source": "5-enriched start base (plus strand)"
+            "source": "Plus strand"
           },
           {
             "type": "BigWigAdapter",
@@ -1511,7 +1511,7 @@
               "locationType": "UriLocation",
               "uri": "data/D39V/norm_5pr_start_count.minus.bw"
             },
-            "source": "5-enriched start base (minus strand)"
+            "source": "Minus strand"
           }
         ]
       },
