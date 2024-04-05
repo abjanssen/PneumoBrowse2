@@ -5478,7 +5478,6 @@
       "hierarchicalTrackSelector": {
         "id": "hierarchicalTrackSelector",
         "type": "HierarchicalTrackSelectorWidget",
-        "initialized": true,
         "collapsed": {},
         "view": "BGqBniRRjHVp_2s_V4lxj",
         "faceted": {
@@ -5495,14 +5494,14 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2.0 28/03/2024, 08:42:23 28/03/2024, 08:46:32 28/03/2024, 08:51:42",
+    "name": "PneumoBrowse 2.0",
     "margin": 0,
     "views": [
       {
         "id": "BGqBniRRjHVp_2s_V4lxj",
         "minimized": false,
         "type": "LinearGenomeView",
-        "offsetPx": -8,
+        "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
@@ -5574,7 +5573,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1551.755763688761,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "TIGR4",
@@ -5632,7 +5631,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1510.4423631123918,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "EF3030_1",
@@ -5690,7 +5689,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1030.2945269016698,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "ATCC_700669",
@@ -5748,7 +5747,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1550.3912103746397,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "SN75752",
@@ -5806,7 +5805,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 849.3602362204724,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "ATCC_BAA-611",
@@ -5864,7 +5863,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1023.5069573283859,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "ATCC_BAA-341",
@@ -5922,7 +5921,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1504.8134005763688,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "SN36255",
@@ -5980,7 +5979,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1521.093659942363,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "ATCC_700905_1",
@@ -6038,7 +6037,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 988.6094619666048,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "ATCC_700671",
@@ -6096,7 +6095,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 997.5987940630798,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "PJ755-1",
@@ -6154,7 +6153,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1050.7458256029684,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "ATCC_700670",
@@ -6212,7 +6211,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 945.1196660482375,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "M264-3",
@@ -6270,7 +6269,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1063.8937847866418,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "BM6001_1",
@@ -6328,7 +6327,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 971.8107606679035,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "DP1322",
@@ -6386,7 +6385,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 888.051968503937,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "JC19F_1",
@@ -6444,7 +6443,7 @@
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 1000.4568645640074,
+        "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
             "refName": "ATCC_BAA-340_1",
