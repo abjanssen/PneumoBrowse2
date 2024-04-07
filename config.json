@@ -713,72 +713,6 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "D39V_annotation_other_sorted.gff",
-      "name": "Other features",
-      "assemblyNames": [
-        "D39V"
-      ],
-      "category": [
-        "Annotation"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/D39V_annotation_other_sorted.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "data/D39V/D39V_annotation_other_sorted.gff.gz.tbi"
-          }
-        }
-      },
-      "textSearching": {
-        "textSearchAdapter": {
-          "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "D39V_annotation_other_sorted.gff-index",
-          "ixFilePath": {
-            "locationType": "UriLocation",
-            "uri": "trix/D39V_annotation_other_sorted.gff.ix"
-          },
-          "ixxFilePath": {
-            "locationType": "UriLocation",
-            "uri": "trix/D39V_annotation_other_sorted.gff.ixx"
-          },
-          "metaFilePath": {
-            "locationType": "UriLocation",
-            "uri": "trix/D39V_annotation_other_sorted.gff_meta.json"
-          },
-          "assemblyNames": [
-            "D39V"
-          ]
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "D39V_annotation_other_sorted.gff-LinearBasicDisplay",
-          "renderer": {
-            "type": "SvgFeatureRenderer",
-            "color1": "rgb(55, 126, 184)",
-            "labels": {
-              "name": "jexl:get(feature,'name') ",
-              "description": "jexl:get(feature,'function') || get(feature,'description')"
-            }
-          }
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "D39V_annotation_other_sorted.gff-LinearArcDisplay"
-        }
-      ],
-      "formatDetails": {
-        "feature": "jexl:{type:replaceuc(feature.type), Source:feature.source, source:undefined, Function:feature.function, function:undefined, Bound_moiety: feature.bound_moiety, bound_moiety:undefined, phase:undefined, id:undefined, supporting_literature:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, note:undefined, Note:feature.note}"
-      }
-    },
-    {
-      "type": "FeatureTrack",
       "trackId": "D39V_180601_operons",
       "name": "Putative operons",
       "assemblyNames": [
@@ -962,6 +896,72 @@
       "formatDetails": {
         "feature": "jexl:{type:replaceuc(feature.type), Regulon:feature.regulon, regulon:undefined, TIGR4_locus:feature.tigr4_locus, tigr4_locus:undefined, phase:undefined, id:undefined, Source:feature.source, source:undefined, isfinder:undefined, ISFinder: feature.isfinder != null ? '<a href=https://isfinder.biotoul.fr/scripts/ficheIS.php?name='+feature.isfinder+'>'+'ISFinder Database Entry'+'</a>' : null, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined, Function:feature.function, function:undefined, Note:feature.note, note:undefined}",
         "subfeatures": "jexl:{Function:feature.function, function:undefined, phase:undefined, id:undefined, Source:feature.source, source:undefined, Parent:feature.parent, parent:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined, note:undefined, Note:feature.note}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "D39V_annotation_other_sorted.gff",
+      "name": "Other features",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "Annotation"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/D39V_annotation_other_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/D39V/D39V_annotation_other_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "D39V_annotation_other_sorted.gff-index",
+          "ixFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/D39V_annotation_other_sorted.gff.ix"
+          },
+          "ixxFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/D39V_annotation_other_sorted.gff.ixx"
+          },
+          "metaFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/D39V_annotation_other_sorted.gff_meta.json"
+          },
+          "assemblyNames": [
+            "D39V"
+          ]
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "D39V_annotation_other_sorted.gff-LinearBasicDisplay",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(55, 126, 184)",
+            "labels": {
+              "name": "jexl:get(feature,'name') ",
+              "description": "jexl:get(feature,'function') || get(feature,'description')"
+            }
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "D39V_annotation_other_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{type:replaceuc(feature.type), Source:feature.source, source:undefined, Function:feature.function, function:undefined, Bound_moiety: feature.bound_moiety, bound_moiety:undefined, phase:undefined, id:undefined, supporting_literature:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, note:undefined, Note:feature.note}"
       }
     },
     {
@@ -1527,13 +1527,13 @@
     {
       "type": "HicTrack",
       "trackId": "D39V",
-      "name": "HiC Interaction ",
+      "name": "Hi-C Interaction ",
       "assemblyNames": [
         "D39V"
       ],
       "category": [
         "Genome characteristics",
-        "HiC"
+        "Hi-C"
       ],
       "adapter": {
         "type": "HicAdapter",
