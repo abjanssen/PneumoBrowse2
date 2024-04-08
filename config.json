@@ -5478,6 +5478,7 @@
       "hierarchicalTrackSelector": {
         "id": "hierarchicalTrackSelector",
         "type": "HierarchicalTrackSelectorWidget",
+        "initialized": true,
         "collapsed": {},
         "view": "BGqBniRRjHVp_2s_V4lxj",
         "faceted": {
@@ -5494,7 +5495,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2.0",
+    "name": "PneumoBrowse 2.0 08/04/2024, 19:25:18 08/04/2024, 19:27:29",
     "margin": 0,
     "views": [
       {
@@ -5694,7 +5695,7 @@
           {
             "refName": "ATCC_700669",
             "start": 0,
-            "end": 2221315,
+            "end": 2185927,
             "reversed": false,
             "assemblyName": "ATCC 700669"
           }
@@ -6042,7 +6043,7 @@
           {
             "refName": "ATCC_700671",
             "start": 0,
-            "end": 2131442,
+            "end": 2156500,
             "reversed": false,
             "assemblyName": "ATCC 700671"
           }
