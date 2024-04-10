@@ -14,7 +14,7 @@
 
         // Step 3 & 4: Test each part if it starts with "SPV_" or a capital letter
         const formattedParts = trimmedParts.map(part => {
-          if (part.startsWith("SPV_") || part.startsWith("tRNA") || part.startsWith("tmRNA") || part.startsWith("rRNA") || /^[A-Z]/.test(part)) {
+          if (part.startsWith("SPV_") || part.startsWith("tRNA") || part.startsWith("tmRNA") || part.startsWith("rRNA") || part.startsWith("pPEP") ||/^[A-Z]/.test(part)) {
             // If it starts with "SPV_" or a capital letter, return it normally
             return part;
           } else {
