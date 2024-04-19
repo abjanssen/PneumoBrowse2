@@ -542,6 +542,38 @@
       }
     },
     {
+      "name": "BHN418",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "BHN418.fna-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/BHN418/BHN418.fna"
+          },
+          "faiLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/BHN418/BHN418.fna.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
+          }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "BHN418.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "BHN418.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
+      }
+    },
+    {
       "name": "DP1322",
       "sequence": {
         "type": "ReferenceSequenceTrack",
@@ -4711,6 +4743,210 @@
     },
     {
       "type": "FeatureTrack",
+      "trackId": "BHN418_sorted.gff",
+      "name": "Coding features",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Annotation"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/BHN418/BHN418_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/BHN418/BHN418_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "BHN418_sorted.gff-index",
+          "ixFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/BHN418_sorted.gff.ix"
+          },
+          "ixxFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/BHN418_sorted.gff.ixx"
+          },
+          "metaFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/BHN418_sorted.gff_meta.json"
+          },
+          "assemblyNames": [
+            "BHN418"
+          ]
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "BHN418_sorted.gff-LinearBasicDisplay",
+          "mouseover": "jexl:italics(get(feature,'name'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
+            "labels": {
+              "name": "jexl:get(feature,'name') || get(feature,'locus_tag')"
+            }
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "BHN418_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{name:italics(feature.name), type:replaceuc(feature.type), Source:replaceuc(feature.source), source:undefined, phase: undefined, id:undefined, Gene:italics(feature.gene), gene:undefined, Locus_tag:feature.locus_tag, locus_tag:undefined}",
+        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "BHN418_terminators.gff",
+      "name": "Predicted Terminators",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Annotation"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/BHN418/BHN418_terminators_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/BHN418/BHN418_terminators_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "BHN418_terminators.gff-LinearBasicDisplay",
+          "mouseover": "jexl:capital(get(feature,'type'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(5, 148, 0)",
+            "labels": {
+              "name": "jexl:get(feature,'function') ",
+              "description": ""
+            }
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "BHN418_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "BHN418_TFs.gff",
+      "name": "Predicted transcription factor binding sites",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Annotation"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/BHN418/BHN418_TF_binding_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/BHN418/BHN418_TF_binding_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "BHN418_TFs.gff-LinearBasicDisplay",
+          "mouseover": "jexl:capital(get(feature,'function'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(116, 213, 255)",
+            "labels": {
+              "name": "jexl:get(feature,'name')",
+              "description": "jexl:get(feature,'function')"
+            }
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "BHN418_terminators.gff-LinearArcDisplay",
+          "mouseover": "jexl:get(feature,'function')"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      }
+    },
+    {
+      "type": "NucContentTrack",
+      "trackId": "gc_content_dynamic_BHN418",
+      "name": "GC content",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Miscellaneous"
+      ],
+      "adapter": {
+        "type": "NucContentAdapter",
+        "sequenceAdapter": {
+          "type": "BgzipFastaAdapter",
+          "fastaLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/BHN418/BHN418.fna.gz"
+          },
+          "faiLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/BHN418/BHN418.fna.gz.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
+          },
+          "gziLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/BHN418/BHN418.fna.gz.gzi"
+          }
+        },
+        "windowSize": 200,
+        "windowOverlap": 10
+      },
+      "displays": [
+        {
+          "type": "NucContentDisplay",
+          "displayId": "gc_content_dynamic_BHN418-NucContentDisplay",
+          "minScore": 0,
+          "maxScore": 0.8
+        }
+      ]
+    },
+    {
+      "type": "FeatureTrack",
       "trackId": "DP1322_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
@@ -5474,7 +5710,6 @@
       "hierarchicalTrackSelector": {
         "id": "hierarchicalTrackSelector",
         "type": "HierarchicalTrackSelectorWidget",
-        "initialized": true,
         "collapsed": {},
         "view": "BGqBniRRjHVp_2s_V4lxj",
         "faceted": {
@@ -5491,7 +5726,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2.0",
+    "name": "PneumoBrowse 2.0 19/04/2024, 14:42:56",
     "margin": 0,
     "views": [
       {
@@ -6478,6 +6713,64 @@
                 "id": "VJUhkokYVroVuV_lNhjEm",
                 "type": "LinearBasicDisplay",
                 "configuration": "ATCCBAA340_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "uydw-gfd4pVjvzGqXlJJ-",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "BHN418",
+            "start": 0,
+            "end": 2114355,
+            "reversed": false,
+            "assemblyName": "BHN418"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "s9tl7Dmv_O9VbJwdGaLEF",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "BHN418.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "xGBBzD6028GUaaXLwFRLF",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 50,
+                "configuration": "BHN418.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "xgSWnPnJ9lF8Cq77Y2zw2",
+            "type": "FeatureTrack",
+            "configuration": "BHN418_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "VjRigjYe-oHTLS56ei6tp",
+                "type": "LinearBasicDisplay",
+                "configuration": "BHN418_sorted.gff-LinearBasicDisplay"
               }
             ]
           }
