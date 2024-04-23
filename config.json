@@ -3954,6 +3954,52 @@
       }
     },
     {
+      "type": "FeatureTrack",
+      "trackId": "TW31_methylation",
+      "name": "Methylation",
+      "assemblyNames": [
+        "TW31"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Epigenetic modifications"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/TW31/TW31_methylation_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/TW31/TW31_methylation_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "TW31_methylation-LinearBasicDisplay",
+          "mouseover": "jexl:qvscore(get(feature,'identificationqv'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "labels": {
+              "name": "jexl:get(feature,'type') || get(feature,'id')"
+            }
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "TW31_methylation-LinearArcDisplay",
+          "mouseover": "jexl:get(feature,'identificationqv')"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      }
+    },
+    {
       "type": "NucContentTrack",
       "trackId": "gc_content_dynamic_TW31",
       "name": "GC content",
