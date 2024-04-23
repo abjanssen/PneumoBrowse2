@@ -1,5 +1,5 @@
 {
-  "dateCreated": "2024-04-19T12:42:37.110Z",
+  "dateCreated": "2024-04-23T13:29:43.691Z",
   "tracks": [
     {
       "trackId": "PJ7551_sorted.gff",
@@ -29,6 +29,6 @@
     }
   ],
   "assemblyNames": [
-    "PJ755-1"
+    "PJ755/1"
   ]
 }

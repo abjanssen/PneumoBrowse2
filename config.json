@@ -196,19 +196,19 @@
       }
     },
     {
-      "name": "ATCC 700669",
+      "name": "SP264",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "ATCC700669.fna-ReferenceSequenceTrack",
+        "trackId": "SP264.fna-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700669/ATCC700669.fna"
+            "uri": "data/SP264/SP264.fna"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700669/ATCC700669.fna.fai"
+            "uri": "data/SP264/SP264.fna.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -218,11 +218,11 @@
         "displays": [
           {
             "type": "LinearReferenceSequenceDisplay",
-            "displayId": "ATCC700669.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+            "displayId": "SP264.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "ATCC700669.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+            "displayId": "SP264.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
@@ -260,19 +260,19 @@
       }
     },
     {
-      "name": "ATCC BAA-611",
+      "name": "DCC1476",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "ATCCBAA611.fna-ReferenceSequenceTrack",
+        "trackId": "DCC1476.fna-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA611/ATCCBAA611.fna"
+            "uri": "data/DCC1476/DCC1476.fna"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA611/ATCCBAA611.fna.fai"
+            "uri": "data/DCC1476/DCC1476.fna.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -282,29 +282,29 @@
         "displays": [
           {
             "type": "LinearReferenceSequenceDisplay",
-            "displayId": "ATCCBAA611.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+            "displayId": "DCC1476.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "ATCCBAA611.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+            "displayId": "DCC1476.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
     },
     {
-      "name": "ATCC BAA-341",
+      "name": "Spn1439-106",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "ATCCBAA341.fna-ReferenceSequenceTrack",
+        "trackId": "Spn1439-106.fna-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA341/ATCCBAA341.fna"
+            "uri": "data/Spn1439-106/Spn1439-106.fna"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA341/ATCCBAA341.fna.fai"
+            "uri": "data/Spn1439-106/Spn1439-106.fna.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -314,11 +314,11 @@
         "displays": [
           {
             "type": "LinearReferenceSequenceDisplay",
-            "displayId": "ATCCBAA341.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+            "displayId": "Spn1439-106.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "ATCCBAA341.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+            "displayId": "Spn1439-106.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
@@ -356,19 +356,19 @@
       }
     },
     {
-      "name": "ATCC 700905",
+      "name": "TW31",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "ATCC700905.fna-ReferenceSequenceTrack",
+        "trackId": "TW31.fna-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700905/ATCC700905.fna"
+            "uri": "data/TW31/TW31.fna"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700905/ATCC700905.fna.fai"
+            "uri": "data/TW31/TW31.fna.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -378,29 +378,29 @@
         "displays": [
           {
             "type": "LinearReferenceSequenceDisplay",
-            "displayId": "ATCC700905.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+            "displayId": "TW31.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "ATCC700905.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+            "displayId": "TW31.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
     },
     {
-      "name": "ATCC 700671",
+      "name": "TL7/1993",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "ATCC700671.fna-ReferenceSequenceTrack",
+        "trackId": "TL7_1993.fna-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700671/ATCC700671.fna"
+            "uri": "data/TL7_1993/TL7_1993.fna"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700671/ATCC700671.fna.fai"
+            "uri": "data/TL7_1993/TL7_1993.fna.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -410,17 +410,17 @@
         "displays": [
           {
             "type": "LinearReferenceSequenceDisplay",
-            "displayId": "ATCC700671.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+            "displayId": "TL7_1993.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "ATCC700671.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+            "displayId": "TL7_1993.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
     },
     {
-      "name": "PJ755-1",
+      "name": "PJ755/1",
       "sequence": {
         "type": "ReferenceSequenceTrack",
         "trackId": "PJ7551.fna-ReferenceSequenceTrack",
@@ -452,19 +452,19 @@
       }
     },
     {
-      "name": "ATCC 700670",
+      "name": "GM17",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "ATCC700670.fna-ReferenceSequenceTrack",
+        "trackId": "GM17.fna-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700670/ATCC700670.fna"
+            "uri": "data/GM17/GM17.fna"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700670/ATCC700670.fna.fai"
+            "uri": "data/GM17/GM17.fna.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -474,11 +474,11 @@
         "displays": [
           {
             "type": "LinearReferenceSequenceDisplay",
-            "displayId": "ATCC700670.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+            "displayId": "GM17.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "ATCC700670.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+            "displayId": "GM17.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
@@ -612,19 +612,19 @@
       }
     },
     {
-      "name": "JC19F",
+      "name": "LILPNEUHC 19F",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "JC19F.fna-ReferenceSequenceTrack",
+        "trackId": "LILPNEUHC_19F.fna-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/JC19F/JC19F.fna"
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F.fna"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/JC19F/JC19F.fna.fai"
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F.fna.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -634,29 +634,29 @@
         "displays": [
           {
             "type": "LinearReferenceSequenceDisplay",
-            "displayId": "JC19F.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+            "displayId": "LILPNEUHC_19F.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "JC19F.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+            "displayId": "LILPNEUHC_19F.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
     },
     {
-      "name": "ATCC BAA-340",
+      "name": "4954-98",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "ATCCBAA340.fna-ReferenceSequenceTrack",
+        "trackId": "4954-98.fna-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA340/ATCCBAA340.fna"
+            "uri": "data/4954-98/4954-98.fna"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA340/ATCCBAA340.fna.fai"
+            "uri": "data/4954-98/4954-98.fna.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -666,11 +666,11 @@
         "displays": [
           {
             "type": "LinearReferenceSequenceDisplay",
-            "displayId": "ATCCBAA340.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+            "displayId": "4954-98.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "ATCCBAA340.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+            "displayId": "4954-98.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
@@ -2091,10 +2091,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700669_sorted.gff",
+      "trackId": "SP264_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "ATCC 700669"
+        "SP264"
       ],
       "category": [
         "Annotation"
@@ -2103,40 +2103,40 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700669/ATCC700669_sorted.gff.gz"
+          "uri": "data/SP264/SP264_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700669/ATCC700669_sorted.gff.gz.tbi"
+            "uri": "data/SP264/SP264_sorted.gff.gz.tbi"
           }
         }
       },
       "textSearching": {
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "ATCC700669_sorted.gff-index",
+          "textSearchAdapterId": "SP264_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700669_sorted.gff.ix"
+            "uri": "trix/SP264_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700669_sorted.gff.ixx"
+            "uri": "trix/SP264_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700669_sorted.gff_meta.json"
+            "uri": "trix/SP264_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "ATCC 700669"
+            "SP264"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700669_sorted.gff-LinearBasicDisplay",
+          "displayId": "SP264_sorted.gff-LinearBasicDisplay",
           "mouseover": "jexl:italics(get(feature,'name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -2148,7 +2148,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700669_sorted.gff-LinearArcDisplay"
+          "displayId": "SP264_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -2158,10 +2158,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700669_terminators.gff",
+      "trackId": "SP264_terminators.gff",
       "name": "Predicted Terminators",
       "assemblyNames": [
-        "ATCC 700669"
+        "SP264"
       ],
       "category": [
         "Annotation"
@@ -2170,19 +2170,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700669/ATCC700669_terminators_sorted.gff.gz"
+          "uri": "data/SP264/SP264_terminators_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700669/ATCC700669_terminators_sorted.gff.gz.tbi"
+            "uri": "data/SP264/SP264_terminators_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700669_terminators.gff-LinearBasicDisplay",
+          "displayId": "SP264_terminators.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'type'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -2195,7 +2195,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700669_sorted.gff-LinearArcDisplay"
+          "displayId": "SP264_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -2204,10 +2204,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700669_TFs.gff",
+      "trackId": "SP264_TFs.gff",
       "name": "Predicted transcription factor binding sites",
       "assemblyNames": [
-        "ATCC 700669"
+        "SP264"
       ],
       "category": [
         "Annotation"
@@ -2216,19 +2216,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700669/ATCC700669_TF_binding_sorted.gff.gz"
+          "uri": "data/SP264/SP264_TF_binding_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700669/ATCC700669_TF_binding_sorted.gff.gz.tbi"
+            "uri": "data/SP264/SP264_TF_binding_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700669_TFs.gff-LinearBasicDisplay",
+          "displayId": "SP264_TFs.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'function'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -2241,7 +2241,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700669_terminators.gff-LinearArcDisplay",
+          "displayId": "SP264_terminators.gff-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'function')"
         }
       ],
@@ -2251,10 +2251,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700669_methylation",
+      "trackId": "SP264_methylation",
       "name": "Methylation",
       "assemblyNames": [
-        "ATCC 700669"
+        "SP264"
       ],
       "category": [
         "Genome characteristics",
@@ -2264,19 +2264,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700669/ATCC700669_methylation_sorted.gff.gz"
+          "uri": "data/SP264/SP264_methylation_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700669/ATCC700669_methylation_sorted.gff.gz.tbi"
+            "uri": "data/SP264/SP264_methylation_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700669_methylation-LinearBasicDisplay",
+          "displayId": "SP264_methylation-LinearBasicDisplay",
           "mouseover": "jexl:qvscore(get(feature,'identificationqv'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -2287,7 +2287,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700669_methylation-LinearArcDisplay",
+          "displayId": "SP264_methylation-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'identificationqv')"
         }
       ],
@@ -2297,10 +2297,10 @@
     },
     {
       "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_ATCC700669",
+      "trackId": "gc_content_dynamic_SP264",
       "name": "GC content",
       "assemblyNames": [
-        "ATCC 700669"
+        "SP264"
       ],
       "category": [
         "Genome characteristics",
@@ -2312,11 +2312,11 @@
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700669/ATCC700669.fna.gz"
+            "uri": "data/SP264/SP264.fna.gz"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700669/ATCC700669.fna.gz.fai"
+            "uri": "data/SP264/SP264.fna.gz.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -2324,7 +2324,7 @@
           },
           "gziLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700669/ATCC700669.fna.gz.gzi"
+            "uri": "data/SP264/SP264.fna.gz.gzi"
           }
         },
         "windowSize": 200,
@@ -2333,7 +2333,7 @@
       "displays": [
         {
           "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_ATCC700669-NucContentDisplay",
+          "displayId": "gc_content_dynamic_SP264-NucContentDisplay",
           "minScore": 0,
           "maxScore": 0.8
         }
@@ -2341,10 +2341,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700670_sorted.gff",
+      "trackId": "GM17_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "ATCC 700670"
+        "GM17"
       ],
       "category": [
         "Annotation"
@@ -2353,40 +2353,40 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700670/ATCC700670_sorted.gff.gz"
+          "uri": "data/GM17/GM17_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700670/ATCC700670_sorted.gff.gz.tbi"
+            "uri": "data/GM17/GM17_sorted.gff.gz.tbi"
           }
         }
       },
       "textSearching": {
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "ATCC700670_sorted.gff-index",
+          "textSearchAdapterId": "GM17_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700670_sorted.gff.ix"
+            "uri": "trix/GM17_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700670_sorted.gff.ixx"
+            "uri": "trix/GM17_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700670_sorted.gff_meta.json"
+            "uri": "trix/GM17_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "ATCC 700670"
+            "GM17"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700670_sorted.gff-LinearBasicDisplay",
+          "displayId": "GM17_sorted.gff-LinearBasicDisplay",
           "mouseover": "jexl:italics(get(feature,'name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -2398,7 +2398,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700670_sorted.gff-LinearArcDisplay"
+          "displayId": "GM17_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -2408,10 +2408,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700670_terminators.gff",
+      "trackId": "GM17_terminators.gff",
       "name": "Predicted Terminators",
       "assemblyNames": [
-        "ATCC 700670"
+        "GM17"
       ],
       "category": [
         "Annotation"
@@ -2420,19 +2420,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700670/ATCC700670_terminators_sorted.gff.gz"
+          "uri": "data/GM17/GM17_terminators_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700670/ATCC700670_terminators_sorted.gff.gz.tbi"
+            "uri": "data/GM17/GM17_terminators_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700670_terminators.gff-LinearBasicDisplay",
+          "displayId": "GM17_terminators.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'type'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -2445,7 +2445,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700670_sorted.gff-LinearArcDisplay"
+          "displayId": "GM17_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -2454,10 +2454,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700670_TFs.gff",
+      "trackId": "GM17_TFs.gff",
       "name": "Predicted transcription factor binding sites",
       "assemblyNames": [
-        "ATCC 700670"
+        "GM17"
       ],
       "category": [
         "Annotation"
@@ -2466,19 +2466,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700670/ATCC700670_TF_binding_sorted.gff.gz"
+          "uri": "data/GM17/GM17_TF_binding_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700670/ATCC700670_TF_binding_sorted.gff.gz.tbi"
+            "uri": "data/GM17/GM17_TF_binding_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700670_TFs.gff-LinearBasicDisplay",
+          "displayId": "GM17_TFs.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'function'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -2491,7 +2491,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700670_terminators.gff-LinearArcDisplay",
+          "displayId": "GM17_terminators.gff-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'function')"
         }
       ],
@@ -2501,10 +2501,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700670_methylation",
+      "trackId": "GM17_methylation",
       "name": "Methylation",
       "assemblyNames": [
-        "ATCC 700670"
+        "GM17"
       ],
       "category": [
         "Genome characteristics",
@@ -2514,19 +2514,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700670/ATCC700670_methylation_sorted.gff.gz"
+          "uri": "data/GM17/GM17_methylation_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700670/ATCC700670_methylation_sorted.gff.gz.tbi"
+            "uri": "data/GM17/GM17_methylation_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700670_methylation-LinearBasicDisplay",
+          "displayId": "GM17_methylation-LinearBasicDisplay",
           "mouseover": "jexl:qvscore(get(feature,'identificationqv'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -2537,7 +2537,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700670_methylation-LinearArcDisplay",
+          "displayId": "GM17_methylation-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'identificationqv')"
         }
       ],
@@ -2547,10 +2547,10 @@
     },
     {
       "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_ATCC700670",
+      "trackId": "gc_content_dynamic_GM17",
       "name": "GC content",
       "assemblyNames": [
-        "ATCC 700670"
+        "GM17"
       ],
       "category": [
         "Genome characteristics",
@@ -2562,11 +2562,11 @@
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700670/ATCC700670.fna.gz"
+            "uri": "data/GM17/GM17.fna.gz"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700670/ATCC700670.fna.gz.fai"
+            "uri": "data/GM17/GM17.fna.gz.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -2574,7 +2574,7 @@
           },
           "gziLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700670/ATCC700670.fna.gz.gzi"
+            "uri": "data/GM17/GM17.fna.gz.gzi"
           }
         },
         "windowSize": 200,
@@ -2583,7 +2583,7 @@
       "displays": [
         {
           "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_ATCC700670-NucContentDisplay",
+          "displayId": "gc_content_dynamic_GM17-NucContentDisplay",
           "minScore": 0,
           "maxScore": 0.8
         }
@@ -3045,10 +3045,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA611_sorted.gff",
+      "trackId": "DCC1476_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "ATCC BAA-611"
+        "DCC1476"
       ],
       "category": [
         "Annotation"
@@ -3057,40 +3057,40 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA611/ATCCBAA611_sorted.gff.gz"
+          "uri": "data/DCC1476/DCC1476_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA611/ATCCBAA611_sorted.gff.gz.tbi"
+            "uri": "data/DCC1476/DCC1476_sorted.gff.gz.tbi"
           }
         }
       },
       "textSearching": {
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "ATCCBAA611_sorted.gff-index",
+          "textSearchAdapterId": "DCC1476_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCCBAA611_sorted.gff.ix"
+            "uri": "trix/DCC1476_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCCBAA611_sorted.gff.ixx"
+            "uri": "trix/DCC1476_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCCBAA611_sorted.gff_meta.json"
+            "uri": "trix/DCC1476_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "ATCC BAA-611"
+            "DCC1476"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA611_sorted.gff-LinearBasicDisplay",
+          "displayId": "DCC1476_sorted.gff-LinearBasicDisplay",
           "mouseover": "jexl:italics(get(feature,'name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3102,7 +3102,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA611_sorted.gff-LinearArcDisplay"
+          "displayId": "DCC1476_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -3112,10 +3112,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA611_terminators.gff",
+      "trackId": "DCC1476_terminators.gff",
       "name": "Predicted Terminators",
       "assemblyNames": [
-        "ATCC BAA-611"
+        "DCC1476"
       ],
       "category": [
         "Annotation"
@@ -3124,19 +3124,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA611/ATCCBAA611_terminators_sorted.gff.gz"
+          "uri": "data/DCC1476/DCC1476_terminators_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA611/ATCCBAA611_terminators_sorted.gff.gz.tbi"
+            "uri": "data/DCC1476/DCC1476_terminators_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA611_terminators.gff-LinearBasicDisplay",
+          "displayId": "DCC1476_terminators.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'type'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3149,7 +3149,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA611_sorted.gff-LinearArcDisplay"
+          "displayId": "DCC1476_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -3158,10 +3158,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA611_TFs.gff",
+      "trackId": "DCC1476_TFs.gff",
       "name": "Predicted transcription factor binding sites",
       "assemblyNames": [
-        "ATCC BAA-611"
+        "DCC1476"
       ],
       "category": [
         "Annotation"
@@ -3170,19 +3170,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA611/ATCCBAA611_TF_binding_sorted.gff.gz"
+          "uri": "data/DCC1476/DCC1476_TF_binding_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA611/ATCCBAA611_TF_binding_sorted.gff.gz.tbi"
+            "uri": "data/DCC1476/DCC1476_TF_binding_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA611_TFs.gff-LinearBasicDisplay",
+          "displayId": "DCC1476_TFs.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'function'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3195,7 +3195,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA611_terminators.gff-LinearArcDisplay",
+          "displayId": "DCC1476_terminators.gff-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'function')"
         }
       ],
@@ -3205,10 +3205,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA611_methylation",
+      "trackId": "DCC1476_methylation",
       "name": "Methylation",
       "assemblyNames": [
-        "ATCC BAA-611"
+        "DCC1476"
       ],
       "category": [
         "Genome characteristics",
@@ -3218,19 +3218,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA611/ATCCBAA611_methylation_sorted.gff.gz"
+          "uri": "data/DCC1476/DCC1476_methylation_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA611/ATCCBAA611_methylation_sorted.gff.gz.tbi"
+            "uri": "data/DCC1476/DCC1476_methylation_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA611_methylation-LinearBasicDisplay",
+          "displayId": "DCC1476_methylation-LinearBasicDisplay",
           "mouseover": "jexl:qvscore(get(feature,'identificationqv'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3241,7 +3241,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA611_methylation-LinearArcDisplay",
+          "displayId": "DCC1476_methylation-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'identificationqv')"
         }
       ],
@@ -3251,10 +3251,10 @@
     },
     {
       "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_ATCCBAA611",
+      "trackId": "gc_content_dynamic_DCC1476",
       "name": "GC content",
       "assemblyNames": [
-        "ATCC BAA-611"
+        "DCC1476"
       ],
       "category": [
         "Genome characteristics",
@@ -3266,11 +3266,11 @@
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA611/ATCCBAA611.fna.gz"
+            "uri": "data/DCC1476/DCC1476.fna.gz"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA611/ATCCBAA611.fna.gz.fai"
+            "uri": "data/DCC1476/DCC1476.fna.gz.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -3278,7 +3278,7 @@
           },
           "gziLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA611/ATCCBAA611.fna.gz.gzi"
+            "uri": "data/DCC1476/DCC1476.fna.gz.gzi"
           }
         },
         "windowSize": 200,
@@ -3287,7 +3287,7 @@
       "displays": [
         {
           "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_ATCCBAA611-NucContentDisplay",
+          "displayId": "gc_content_dynamic_DCC1476-NucContentDisplay",
           "minScore": 0,
           "maxScore": 0.8
         }
@@ -3295,10 +3295,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA341_sorted.gff",
+      "trackId": "Spn1439-106_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "ATCC BAA-341"
+        "Spn1439-106"
       ],
       "category": [
         "Annotation"
@@ -3307,40 +3307,40 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA341/ATCCBAA341_sorted.gff.gz"
+          "uri": "data/Spn1439-106/Spn1439-106_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA341/ATCCBAA341_sorted.gff.gz.tbi"
+            "uri": "data/Spn1439-106/Spn1439-106_sorted.gff.gz.tbi"
           }
         }
       },
       "textSearching": {
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "ATCCBAA341_sorted.gff-index",
+          "textSearchAdapterId": "Spn1439-106_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCCBAA341_sorted.gff.ix"
+            "uri": "trix/Spn1439-106_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCCBAA341_sorted.gff.ixx"
+            "uri": "trix/Spn1439-106_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCCBAA341_sorted.gff_meta.json"
+            "uri": "trix/Spn1439-106_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "ATCC BAA-341"
+            "Spn1439-106"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA341_sorted.gff-LinearBasicDisplay",
+          "displayId": "Spn1439-106_sorted.gff-LinearBasicDisplay",
           "mouseover": "jexl:italics(get(feature,'name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3352,7 +3352,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA341_sorted.gff-LinearArcDisplay"
+          "displayId": "Spn1439-106_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -3362,10 +3362,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA341_terminators.gff",
+      "trackId": "Spn1439-106_terminators.gff",
       "name": "Predicted Terminators",
       "assemblyNames": [
-        "ATCC BAA-341"
+        "Spn1439-106"
       ],
       "category": [
         "Annotation"
@@ -3374,19 +3374,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA341/ATCCBAA341_terminators_sorted.gff.gz"
+          "uri": "data/Spn1439-106/Spn1439-106_terminators_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA341/ATCCBAA341_terminators_sorted.gff.gz.tbi"
+            "uri": "data/Spn1439-106/Spn1439-106_terminators_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA341_terminators.gff-LinearBasicDisplay",
+          "displayId": "Spn1439-106_terminators.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'type'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3399,7 +3399,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA341_sorted.gff-LinearArcDisplay"
+          "displayId": "Spn1439-106_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -3408,10 +3408,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA341_TFs.gff",
+      "trackId": "Spn1439-106_TFs.gff",
       "name": "Predicted transcription factor binding sites",
       "assemblyNames": [
-        "ATCC BAA-341"
+        "Spn1439-106"
       ],
       "category": [
         "Annotation"
@@ -3420,19 +3420,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA341/ATCCBAA341_TF_binding_sorted.gff.gz"
+          "uri": "data/Spn1439-106/Spn1439-106_TF_binding_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA341/ATCCBAA341_TF_binding_sorted.gff.gz.tbi"
+            "uri": "data/Spn1439-106/Spn1439-106_TF_binding_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA341_TFs.gff-LinearBasicDisplay",
+          "displayId": "Spn1439-106_TFs.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'function'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3445,7 +3445,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA341_terminators.gff-LinearArcDisplay",
+          "displayId": "Spn1439-106_terminators.gff-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'function')"
         }
       ],
@@ -3455,10 +3455,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA341_methylation",
+      "trackId": "Spn1439-106_methylation",
       "name": "Methylation",
       "assemblyNames": [
-        "ATCC BAA-341"
+        "Spn1439-106"
       ],
       "category": [
         "Genome characteristics",
@@ -3468,19 +3468,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA341/ATCCBAA341_methylation_sorted.gff.gz"
+          "uri": "data/Spn1439-106/Spn1439-106_methylation_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA341/ATCCBAA341_methylation_sorted.gff.gz.tbi"
+            "uri": "data/Spn1439-106/Spn1439-106_methylation_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA341_methylation-LinearBasicDisplay",
+          "displayId": "Spn1439-106_methylation-LinearBasicDisplay",
           "mouseover": "jexl:qvscore(get(feature,'identificationqv'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3491,7 +3491,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA341_methylation-LinearArcDisplay",
+          "displayId": "Spn1439-106_methylation-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'identificationqv')"
         }
       ],
@@ -3501,10 +3501,10 @@
     },
     {
       "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_ATCCBAA341",
+      "trackId": "gc_content_dynamic_Spn1439-106",
       "name": "GC content",
       "assemblyNames": [
-        "ATCC BAA-341"
+        "Spn1439-106"
       ],
       "category": [
         "Genome characteristics",
@@ -3516,11 +3516,11 @@
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA341/ATCCBAA341.fna.gz"
+            "uri": "data/Spn1439-106/Spn1439-106.fna.gz"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA341/ATCCBAA341.fna.gz.fai"
+            "uri": "data/Spn1439-106/Spn1439-106.fna.gz.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -3528,7 +3528,7 @@
           },
           "gziLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA341/ATCCBAA341.fna.gz.gzi"
+            "uri": "data/Spn1439-106/Spn1439-106.fna.gz.gzi"
           }
         },
         "windowSize": 200,
@@ -3537,7 +3537,7 @@
       "displays": [
         {
           "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_ATCCBAA341-NucContentDisplay",
+          "displayId": "gc_content_dynamic_Spn1439-106-NucContentDisplay",
           "minScore": 0,
           "maxScore": 0.8
         }
@@ -3795,10 +3795,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700905_sorted.gff",
+      "trackId": "TW31_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "ATCC 700905"
+        "TW31"
       ],
       "category": [
         "Annotation"
@@ -3807,40 +3807,40 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700905/ATCC700905_sorted.gff.gz"
+          "uri": "data/TW31/TW31_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700905/ATCC700905_sorted.gff.gz.tbi"
+            "uri": "data/TW31/TW31_sorted.gff.gz.tbi"
           }
         }
       },
       "textSearching": {
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "ATCC700905_sorted.gff-index",
+          "textSearchAdapterId": "TW31_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700905_sorted.gff.ix"
+            "uri": "trix/TW31_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700905_sorted.gff.ixx"
+            "uri": "trix/TW31_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700905_sorted.gff_meta.json"
+            "uri": "trix/TW31_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "ATCC 700905"
+            "TW31"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700905_sorted.gff-LinearBasicDisplay",
+          "displayId": "TW31_sorted.gff-LinearBasicDisplay",
           "mouseover": "jexl:italics(get(feature,'name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3852,7 +3852,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700905_sorted.gff-LinearArcDisplay"
+          "displayId": "TW31_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -3862,10 +3862,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700905_terminators.gff",
+      "trackId": "TW31_terminators.gff",
       "name": "Predicted Terminators",
       "assemblyNames": [
-        "ATCC 700905"
+        "TW31"
       ],
       "category": [
         "Annotation"
@@ -3874,19 +3874,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700905/ATCC700905_terminators_sorted.gff.gz"
+          "uri": "data/TW31/TW31_terminators_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700905/ATCC700905_terminators_sorted.gff.gz.tbi"
+            "uri": "data/TW31/TW31_terminators_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700905_terminators.gff-LinearBasicDisplay",
+          "displayId": "TW31_terminators.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'type'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3899,7 +3899,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700905_sorted.gff-LinearArcDisplay"
+          "displayId": "TW31_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -3908,10 +3908,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700905_TFs.gff",
+      "trackId": "TW31_TFs.gff",
       "name": "Predicted transcription factor binding sites",
       "assemblyNames": [
-        "ATCC 700905"
+        "TW31"
       ],
       "category": [
         "Annotation"
@@ -3920,19 +3920,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700905/ATCC700905_TF_binding_sorted.gff.gz"
+          "uri": "data/TW31/TW31_TF_binding_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700905/ATCC700905_TF_binding_sorted.gff.gz.tbi"
+            "uri": "data/TW31/TW31_TF_binding_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700905_TFs.gff-LinearBasicDisplay",
+          "displayId": "TW31_TFs.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'function'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -3945,7 +3945,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700905_terminators.gff-LinearArcDisplay",
+          "displayId": "TW31_terminators.gff-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'function')"
         }
       ],
@@ -3955,10 +3955,10 @@
     },
     {
       "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_ATCC700905",
+      "trackId": "gc_content_dynamic_TW31",
       "name": "GC content",
       "assemblyNames": [
-        "ATCC 700905"
+        "TW31"
       ],
       "category": [
         "Genome characteristics",
@@ -3970,11 +3970,11 @@
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700905/ATCC700905.fna.gz"
+            "uri": "data/TW31/TW31.fna.gz"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700905/ATCC700905.fna.gz.fai"
+            "uri": "data/TW31/TW31.fna.gz.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -3982,7 +3982,7 @@
           },
           "gziLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700905/ATCC700905.fna.gz.gzi"
+            "uri": "data/TW31/TW31.fna.gz.gzi"
           }
         },
         "windowSize": 200,
@@ -3991,7 +3991,7 @@
       "displays": [
         {
           "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_ATCC700905-NucContentDisplay",
+          "displayId": "gc_content_dynamic_TW31-NucContentDisplay",
           "minScore": 0,
           "maxScore": 0.8
         }
@@ -3999,10 +3999,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700671_sorted.gff",
+      "trackId": "TL7_1993_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "ATCC 700671"
+        "TL7/1993"
       ],
       "category": [
         "Annotation"
@@ -4011,40 +4011,40 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700671/ATCC700671_sorted.gff.gz"
+          "uri": "data/TL7_1993/TL7_1993_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700671/ATCC700671_sorted.gff.gz.tbi"
+            "uri": "data/TL7_1993/TL7_1993_sorted.gff.gz.tbi"
           }
         }
       },
       "textSearching": {
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "ATCC700671_sorted.gff-index",
+          "textSearchAdapterId": "TL7_1993_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700671_sorted.gff.ix"
+            "uri": "trix/TL7_1993_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700671_sorted.gff.ixx"
+            "uri": "trix/TL7_1993_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCC700671_sorted.gff_meta.json"
+            "uri": "trix/TL7_1993_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "ATCC 700671"
+            "TL7/1993"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700671_sorted.gff-LinearBasicDisplay",
+          "displayId": "TL7_1993_sorted.gff-LinearBasicDisplay",
           "mouseover": "jexl:italics(get(feature,'name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -4056,7 +4056,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700671_sorted.gff-LinearArcDisplay"
+          "displayId": "TL7_1993_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -4066,10 +4066,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700671_terminators.gff",
+      "trackId": "TL7_1993_terminators.gff",
       "name": "Predicted Terminators",
       "assemblyNames": [
-        "ATCC 700671"
+        "TL7/1993"
       ],
       "category": [
         "Annotation"
@@ -4078,19 +4078,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700671/ATCC700671_terminators_sorted.gff.gz"
+          "uri": "data/TL7_1993/TL7_1993_terminators_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700671/ATCC700671_terminators_sorted.gff.gz.tbi"
+            "uri": "data/TL7_1993/TL7_1993_terminators_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700671_terminators.gff-LinearBasicDisplay",
+          "displayId": "TL7_1993_terminators.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'type'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -4103,7 +4103,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700671_sorted.gff-LinearArcDisplay"
+          "displayId": "TL7_1993_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -4112,10 +4112,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700671_TFs.gff",
+      "trackId": "TL7_1993_TFs.gff",
       "name": "Predicted transcription factor binding sites",
       "assemblyNames": [
-        "ATCC 700671"
+        "TL7/1993"
       ],
       "category": [
         "Annotation"
@@ -4124,19 +4124,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700671/ATCC700671_TF_binding_sorted.gff.gz"
+          "uri": "data/TL7_1993/TL7_1993_TF_binding_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700671/ATCC700671_TF_binding_sorted.gff.gz.tbi"
+            "uri": "data/TL7_1993/TL7_1993_TF_binding_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700671_TFs.gff-LinearBasicDisplay",
+          "displayId": "TL7_1993_TFs.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'function'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -4149,7 +4149,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700671_terminators.gff-LinearArcDisplay",
+          "displayId": "TL7_1993_terminators.gff-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'function')"
         }
       ],
@@ -4159,10 +4159,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCC700671_methylation",
+      "trackId": "TL7_1993_methylation",
       "name": "Methylation",
       "assemblyNames": [
-        "ATCC 700671"
+        "TL7/1993"
       ],
       "category": [
         "Genome characteristics",
@@ -4172,19 +4172,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCC700671/ATCC700671_methylation_sorted.gff.gz"
+          "uri": "data/TL7_1993/TL7_1993_methylation_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700671/ATCC700671_methylation_sorted.gff.gz.tbi"
+            "uri": "data/TL7_1993/TL7_1993_methylation_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCC700671_methylation-LinearBasicDisplay",
+          "displayId": "TL7_1993_methylation-LinearBasicDisplay",
           "mouseover": "jexl:qvscore(get(feature,'identificationqv'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -4195,7 +4195,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCC700671_methylation-LinearArcDisplay",
+          "displayId": "TL7_1993_methylation-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'identificationqv')"
         }
       ],
@@ -4205,10 +4205,10 @@
     },
     {
       "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_ATCC700671",
+      "trackId": "gc_content_dynamic_TL7_1993",
       "name": "GC content",
       "assemblyNames": [
-        "ATCC 700671"
+        "TL7/1993"
       ],
       "category": [
         "Genome characteristics",
@@ -4220,11 +4220,11 @@
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700671/ATCC700671.fna.gz"
+            "uri": "data/TL7_1993/TL7_1993.fna.gz"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700671/ATCC700671.fna.gz.fai"
+            "uri": "data/TL7_1993/TL7_1993.fna.gz.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -4232,7 +4232,7 @@
           },
           "gziLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCC700671/ATCC700671.fna.gz.gzi"
+            "uri": "data/TL7_1993/TL7_1993.fna.gz.gzi"
           }
         },
         "windowSize": 200,
@@ -4241,7 +4241,7 @@
       "displays": [
         {
           "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_ATCC700671-NucContentDisplay",
+          "displayId": "gc_content_dynamic_TL7_1993-NucContentDisplay",
           "minScore": 0,
           "maxScore": 0.8
         }
@@ -4252,7 +4252,7 @@
       "trackId": "PJ7551_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "PJ755-1"
+        "PJ755/1"
       ],
       "category": [
         "Annotation"
@@ -4287,7 +4287,7 @@
             "uri": "trix/PJ7551_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "PJ755-1"
+            "PJ755/1"
           ]
         }
       },
@@ -4319,7 +4319,7 @@
       "trackId": "PJ7551_terminators.gff",
       "name": "Predicted Terminators",
       "assemblyNames": [
-        "PJ755-1"
+        "PJ755/1"
       ],
       "category": [
         "Annotation"
@@ -4365,7 +4365,7 @@
       "trackId": "PJ7551_TFs.gff",
       "name": "Predicted transcription factor binding sites",
       "assemblyNames": [
-        "PJ755-1"
+        "PJ755/1"
       ],
       "category": [
         "Annotation"
@@ -4412,7 +4412,7 @@
       "trackId": "PJ7551_methylation",
       "name": "Methylation",
       "assemblyNames": [
-        "PJ755-1"
+        "PJ755/1"
       ],
       "category": [
         "Genome characteristics",
@@ -4458,7 +4458,7 @@
       "trackId": "gc_content_dynamic_PJ7551",
       "name": "GC content",
       "assemblyNames": [
-        "PJ755-1"
+        "PJ755/1"
       ],
       "category": [
         "Genome characteristics",
@@ -5249,10 +5249,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "JC19F_sorted.gff",
+      "trackId": "LILPNEUHC_19F_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "JC19F"
+        "LILPNEUHC 19F"
       ],
       "category": [
         "Annotation"
@@ -5261,40 +5261,40 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/JC19F/JC19F_sorted.gff.gz"
+          "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/JC19F/JC19F_sorted.gff.gz.tbi"
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_sorted.gff.gz.tbi"
           }
         }
       },
       "textSearching": {
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "JC19F_sorted.gff-index",
+          "textSearchAdapterId": "LILPNEUHC_19F_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/JC19F_sorted.gff.ix"
+            "uri": "trix/LILPNEUHC_19F_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/JC19F_sorted.gff.ixx"
+            "uri": "trix/LILPNEUHC_19F_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/JC19F_sorted.gff_meta.json"
+            "uri": "trix/LILPNEUHC_19F_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "JC19F"
+            "LILPNEUHC 19F"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "JC19F_sorted.gff-LinearBasicDisplay",
+          "displayId": "LILPNEUHC_19F_sorted.gff-LinearBasicDisplay",
           "mouseover": "jexl:italics(get(feature,'name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -5306,7 +5306,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "JC19F_sorted.gff-LinearArcDisplay"
+          "displayId": "LILPNEUHC_19F_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -5316,10 +5316,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "JC19F_terminators.gff",
+      "trackId": "LILPNEUHC_19F_terminators.gff",
       "name": "Predicted Terminators",
       "assemblyNames": [
-        "JC19F"
+        "LILPNEUHC 19F"
       ],
       "category": [
         "Annotation"
@@ -5328,19 +5328,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/JC19F/JC19F_terminators_sorted.gff.gz"
+          "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_terminators_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/JC19F/JC19F_terminators_sorted.gff.gz.tbi"
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_terminators_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "JC19F_terminators.gff-LinearBasicDisplay",
+          "displayId": "LILPNEUHC_19F_terminators.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'type'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -5353,7 +5353,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "JC19F_sorted.gff-LinearArcDisplay"
+          "displayId": "LILPNEUHC_19F_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -5362,10 +5362,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "JC19F_TFs.gff",
+      "trackId": "LILPNEUHC_19F_TFs.gff",
       "name": "Predicted transcription factor binding sites",
       "assemblyNames": [
-        "JC19F"
+        "LILPNEUHC 19F"
       ],
       "category": [
         "Annotation"
@@ -5374,19 +5374,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/JC19F/JC19F_TF_binding_sorted.gff.gz"
+          "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_TF_binding_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/JC19F/JC19F_TF_binding_sorted.gff.gz.tbi"
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_TF_binding_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "JC19F_TFs.gff-LinearBasicDisplay",
+          "displayId": "LILPNEUHC_19F_TFs.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'function'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -5399,7 +5399,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "JC19F_terminators.gff-LinearArcDisplay",
+          "displayId": "LILPNEUHC_19F_terminators.gff-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'function')"
         }
       ],
@@ -5409,10 +5409,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "JC19F_methylation",
+      "trackId": "LILPNEUHC_19F_methylation",
       "name": "Methylation",
       "assemblyNames": [
-        "JC19F"
+        "LILPNEUHC 19F"
       ],
       "category": [
         "Genome characteristics",
@@ -5422,19 +5422,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/JC19F/JC19F_methylation_sorted.gff.gz"
+          "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_methylation_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/JC19F/JC19F_methylation_sorted.gff.gz.tbi"
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_methylation_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "JC19F_methylation-LinearBasicDisplay",
+          "displayId": "LILPNEUHC_19F_methylation-LinearBasicDisplay",
           "mouseover": "jexl:qvscore(get(feature,'identificationqv'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -5445,7 +5445,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "JC19F_methylation-LinearArcDisplay",
+          "displayId": "LILPNEUHC_19F_methylation-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'identificationqv')"
         }
       ],
@@ -5455,10 +5455,10 @@
     },
     {
       "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_JC19F",
+      "trackId": "gc_content_dynamic_LILPNEUHC_19F",
       "name": "GC content",
       "assemblyNames": [
-        "JC19F"
+        "LILPNEUHC 19F"
       ],
       "category": [
         "Genome characteristics",
@@ -5470,11 +5470,11 @@
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/JC19F/JC19F.fna.gz"
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F.fna.gz"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/JC19F/JC19F.fna.gz.fai"
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F.fna.gz.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -5482,7 +5482,7 @@
           },
           "gziLocation": {
             "locationType": "UriLocation",
-            "uri": "data/JC19F/JC19F.fna.gz.gzi"
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F.fna.gz.gzi"
           }
         },
         "windowSize": 200,
@@ -5491,7 +5491,7 @@
       "displays": [
         {
           "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_JC19F-NucContentDisplay",
+          "displayId": "gc_content_dynamic_LILPNEUHC_19F-NucContentDisplay",
           "minScore": 0,
           "maxScore": 0.8
         }
@@ -5499,10 +5499,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA340_sorted.gff",
+      "trackId": "4954-98_sorted.gff",
       "name": "Coding features",
       "assemblyNames": [
-        "ATCC BAA-340"
+        "4954-98"
       ],
       "category": [
         "Annotation"
@@ -5511,40 +5511,40 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA340/ATCCBAA340_sorted.gff.gz"
+          "uri": "data/4954-98/4954-98_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA340/ATCCBAA340_sorted.gff.gz.tbi"
+            "uri": "data/4954-98/4954-98_sorted.gff.gz.tbi"
           }
         }
       },
       "textSearching": {
         "textSearchAdapter": {
           "type": "TrixTextSearchAdapter",
-          "textSearchAdapterId": "ATCCBAA340_sorted.gff-index",
+          "textSearchAdapterId": "4954-98_sorted.gff-index",
           "ixFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCCBAA340_sorted.gff.ix"
+            "uri": "trix/4954-98_sorted.gff.ix"
           },
           "ixxFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCCBAA340_sorted.gff.ixx"
+            "uri": "trix/4954-98_sorted.gff.ixx"
           },
           "metaFilePath": {
             "locationType": "UriLocation",
-            "uri": "trix/ATCCBAA340_sorted.gff_meta.json"
+            "uri": "trix/4954-98_sorted.gff_meta.json"
           },
           "assemblyNames": [
-            "ATCC BAA-340"
+            "4954-98"
           ]
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA340_sorted.gff-LinearBasicDisplay",
+          "displayId": "4954-98_sorted.gff-LinearBasicDisplay",
           "mouseover": "jexl:italics(get(feature,'name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -5556,7 +5556,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA340_sorted.gff-LinearArcDisplay"
+          "displayId": "4954-98_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -5566,10 +5566,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA340_terminators.gff",
+      "trackId": "4954-98_terminators.gff",
       "name": "Predicted Terminators",
       "assemblyNames": [
-        "ATCC BAA-340"
+        "4954-98"
       ],
       "category": [
         "Annotation"
@@ -5578,19 +5578,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA340/ATCCBAA340_terminators_sorted.gff.gz"
+          "uri": "data/4954-98/4954-98_terminators_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA340/ATCCBAA340_terminators_sorted.gff.gz.tbi"
+            "uri": "data/4954-98/4954-98_terminators_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA340_terminators.gff-LinearBasicDisplay",
+          "displayId": "4954-98_terminators.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'type'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -5603,7 +5603,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA340_sorted.gff-LinearArcDisplay"
+          "displayId": "4954-98_sorted.gff-LinearArcDisplay"
         }
       ],
       "formatDetails": {
@@ -5612,10 +5612,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA340_TFs.gff",
+      "trackId": "4954-98_TFs.gff",
       "name": "Predicted transcription factor binding sites",
       "assemblyNames": [
-        "ATCC BAA-340"
+        "4954-98"
       ],
       "category": [
         "Annotation"
@@ -5624,19 +5624,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA340/ATCCBAA340_TF_binding_sorted.gff.gz"
+          "uri": "data/4954-98/4954-98_TF_binding_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA340/ATCCBAA340_TF_binding_sorted.gff.gz.tbi"
+            "uri": "data/4954-98/4954-98_TF_binding_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA340_TFs.gff-LinearBasicDisplay",
+          "displayId": "4954-98_TFs.gff-LinearBasicDisplay",
           "mouseover": "jexl:capital(get(feature,'function'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -5649,7 +5649,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA340_terminators.gff-LinearArcDisplay",
+          "displayId": "4954-98_terminators.gff-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'function')"
         }
       ],
@@ -5659,10 +5659,10 @@
     },
     {
       "type": "FeatureTrack",
-      "trackId": "ATCCBAA340_methylation",
+      "trackId": "4954-98_methylation",
       "name": "Methylation",
       "assemblyNames": [
-        "ATCC BAA-340"
+        "4954-98"
       ],
       "category": [
         "Genome characteristics",
@@ -5672,19 +5672,19 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/ATCCBAA340/ATCCBAA340_methylation_sorted.gff.gz"
+          "uri": "data/4954-98/4954-98_methylation_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA340/ATCCBAA340_methylation_sorted.gff.gz.tbi"
+            "uri": "data/4954-98/4954-98_methylation_sorted.gff.gz.tbi"
           }
         }
       },
       "displays": [
         {
           "type": "LinearBasicDisplay",
-          "displayId": "ATCCBAA340_methylation-LinearBasicDisplay",
+          "displayId": "4954-98_methylation-LinearBasicDisplay",
           "mouseover": "jexl:qvscore(get(feature,'identificationqv'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
@@ -5695,7 +5695,7 @@
         },
         {
           "type": "LinearArcDisplay",
-          "displayId": "ATCCBAA340_methylation-LinearArcDisplay",
+          "displayId": "4954-98_methylation-LinearArcDisplay",
           "mouseover": "jexl:get(feature,'identificationqv')"
         }
       ],
@@ -5705,10 +5705,10 @@
     },
     {
       "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_ATCCBAA340",
+      "trackId": "gc_content_dynamic_4954-98",
       "name": "GC content",
       "assemblyNames": [
-        "ATCC BAA-340"
+        "4954-98"
       ],
       "category": [
         "Genome characteristics",
@@ -5720,11 +5720,11 @@
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA340/ATCCBAA340.fna.gz"
+            "uri": "data/4954-98/4954-98.fna.gz"
           },
           "faiLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA340/ATCCBAA340.fna.gz.fai"
+            "uri": "data/4954-98/4954-98.fna.gz.fai"
           },
           "metadataLocation": {
             "locationType": "UriLocation",
@@ -5732,7 +5732,7 @@
           },
           "gziLocation": {
             "locationType": "UriLocation",
-            "uri": "data/ATCCBAA340/ATCCBAA340.fna.gz.gzi"
+            "uri": "data/4954-98/4954-98.fna.gz.gzi"
           }
         },
         "windowSize": 200,
@@ -5741,7 +5741,7 @@
       "displays": [
         {
           "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_ATCCBAA340-NucContentDisplay",
+          "displayId": "gc_content_dynamic_4954-98-NucContentDisplay",
           "minScore": 0,
           "maxScore": 0.8
         }
@@ -5778,9 +5778,251 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2.0 19/04/2024, 14:42:56",
+    "name": "PneumoBrowse 2.0",
     "margin": 0,
     "views": [
+      {
+        "id": "uydw-gfd4pVjvzGqXlJJ-",
+        "displayName": "BHN418 (minimized)",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "BHN418",
+            "start": 0,
+            "end": 2114355,
+            "reversed": false,
+            "assemblyName": "BHN418"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "s9tl7Dmv_O9VbJwdGaLEF",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "BHN418.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "xGBBzD6028GUaaXLwFRLF",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "BHN418.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "xgSWnPnJ9lF8Cq77Y2zw2",
+            "type": "FeatureTrack",
+            "configuration": "BHN418_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "VjRigjYe-oHTLS56ei6tp",
+                "type": "LinearBasicDisplay",
+                "configuration": "BHN418_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "et1bx53hofs27NMcFnmwF",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "BM6001_1",
+            "start": 0,
+            "end": 2293755,
+            "reversed": false,
+            "assemblyName": "BM6001"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "D95ut9QfdnoP2KJ-unpiG",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "BM6001.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "VVmhT5zk8PKvFqZGJfwxP",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "BM6001.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "-d6E7qA8yI87yiAf5O-qj",
+            "type": "FeatureTrack",
+            "configuration": "BM6001_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "zmf8XvQYmHVQyqkJZswtl",
+                "type": "LinearBasicDisplay",
+                "configuration": "BM6001_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "livZU8pZD5iebZK2GZlE0",
+        "displayName": "DCC1476 (PMEN25 reference clone) (minimized)",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "DCC1476",
+            "start": 0,
+            "end": 2157375,
+            "reversed": false,
+            "assemblyName": "DCC1476"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "JHDp7qqAfBl-WInVfSVjz",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "DCC1476.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "bb6EdNHIp_N8emyVpjq4H",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "DCC1476.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "DbtGZw_X8eSlkxBebEx4N",
+            "type": "FeatureTrack",
+            "configuration": "DCC1476_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "jb9HTiKvGAihw3CvVfheN",
+                "type": "LinearBasicDisplay",
+                "configuration": "DCC1476_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "qptliEO1HiKXce1me7sZ0",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "DP1322",
+            "start": 0,
+            "end": 2095224,
+            "reversed": false,
+            "assemblyName": "DP1322"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "au1vf-z7L2nPI-9ghV1K4",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "DP1322.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "B9bNd0laW9RTNmgWJnpSH",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "DP1322.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "_LLsmPunhX3ku8xBS4bj_",
+            "type": "FeatureTrack",
+            "configuration": "DP1322_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "tu1PLVZHQLvQ7clwGLgib",
+                "type": "LinearBasicDisplay",
+                "configuration": "DP1322_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
       {
         "id": "BGqBniRRjHVp_2s_V4lxj",
         "minimized": false,
@@ -5806,7 +6048,7 @@
               {
                 "id": "DsfGSJoCg2aajkYHU0erD",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
+                "heightPreConfig": 120,
                 "configuration": "D39V.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -5849,64 +6091,8 @@
         "showCytobandsSetting": true,
         "trackLabels": "",
         "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "AKFbbuC9BF64zlEX9FabX",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "TIGR4",
-            "start": 0,
-            "end": 2153837,
-            "reversed": false,
-            "assemblyName": "TIGR4"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "poyS65Vi9nvU3RS6pyNR0",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "TIGR4.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "i4y7GZ7oddce4dYySoKpw",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "TIGR4.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "QQCn9rKK883VCNarQuGhh",
-            "type": "FeatureTrack",
-            "configuration": "TIGR4_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "8QzN62QNVrGXvFFNviLTP",
-                "type": "LinearBasicDisplay",
-                "configuration": "TIGR4_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
       },
@@ -5935,7 +6121,7 @@
               {
                 "id": "rHcIZIJ7vZYULNxheyoU0",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
+                "heightPreConfig": 120,
                 "configuration": "EF3030.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -5965,500 +6151,39 @@
         "showCytobandsSetting": true,
         "trackLabels": "",
         "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "UMFsrvWVM0fURo1Mg1jb6",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "ATCC_700669",
-            "start": 0,
-            "end": 2185927,
-            "reversed": false,
-            "assemblyName": "ATCC 700669"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "ZSQXN9RxqRI4WboFjSsun",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "ATCC700669.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "zv9ImZgdqA0rIHhOI5Cb3",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "ATCC700669.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "RcVSguzTam8cyxPq40MmY",
-            "type": "FeatureTrack",
-            "configuration": "ATCC700669_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "nVF9oDxEKQqUf1DgVyRyV",
-                "type": "LinearBasicDisplay",
-                "configuration": "ATCC700669_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "moGJ_Y1CHiJXqnVitY1-C",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "SN75752",
-            "start": 0,
-            "end": 2151943,
-            "reversed": false,
-            "assemblyName": "SN75752"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "dIF49tfewYKfd2M37kSzT",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "SN75752.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "HEdreltteJAObl6wDHNxz",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "SN75752.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "tIYeKF1Ltw1L09FMEKZ7W",
-            "type": "FeatureTrack",
-            "configuration": "SN75752_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "ATlnLxqQHJM044uki53Ec",
-                "type": "LinearBasicDisplay",
-                "configuration": "SN75752_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "livZU8pZD5iebZK2GZlE0",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "ATCC_BAA-611",
-            "start": 0,
-            "end": 2157375,
-            "reversed": false,
-            "assemblyName": "ATCC BAA-611"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "JHDp7qqAfBl-WInVfSVjz",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "ATCCBAA611.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "bb6EdNHIp_N8emyVpjq4H",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "ATCCBAA611.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "DbtGZw_X8eSlkxBebEx4N",
-            "type": "FeatureTrack",
-            "configuration": "ATCCBAA611_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "jb9HTiKvGAihw3CvVfheN",
-                "type": "LinearBasicDisplay",
-                "configuration": "ATCCBAA611_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "b24PEzTNEdBtVwKB2VHYb",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "ATCC_BAA-341",
-            "start": 0,
-            "end": 2206681,
-            "reversed": false,
-            "assemblyName": "ATCC BAA-341"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "bJ7_48Po_m295qDfQEMxp",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "ATCCBAA341.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "sVN1Rmq23aEpo0TS1tHsT",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "ATCCBAA341.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "Y0WPghItTqHAr7wsGfSPE",
-            "type": "FeatureTrack",
-            "configuration": "ATCCBAA341_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "4qjcdjYQXuMvpJqDpl95m",
-                "type": "LinearBasicDisplay",
-                "configuration": "ATCCBAA341_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "yyQ1Jm8p7NYDi05eLYvv6",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "SN36255",
-            "start": 0,
-            "end": 2088681,
-            "reversed": false,
-            "assemblyName": "SN36255"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "QNl_uVqJF7wKlc804F4Hu",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "SN36255.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "EOGLtbqihULKRaoeEh8ny",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "SN36255.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "bcBt8y2rK8f4Pf91kSSIK",
-            "type": "FeatureTrack",
-            "configuration": "SN36255_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "H3vJlcIPemlnlGhJ6E-ao",
-                "type": "LinearBasicDisplay",
-                "configuration": "SN36255_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "LQIZzXNo1OC2KFomBJziy",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "ATCC_700905_1",
-            "start": 0,
-            "end": 2111278,
-            "reversed": false,
-            "assemblyName": "ATCC 700905"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "yyM-eoVFOBvba4uKQUy3G",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "ATCC700905.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "kjO2AZme06muZIIIE_zPX",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "ATCC700905.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "hZYygfRw7Rma7o9PjLw5g",
-            "type": "FeatureTrack",
-            "configuration": "ATCC700905_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "VDUfLxgoYf3gk3_61n62t",
-                "type": "LinearBasicDisplay",
-                "configuration": "ATCC700905_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "QkhARC71fXoJH336u4_tx",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "ATCC_700671",
-            "start": 0,
-            "end": 2156500,
-            "reversed": false,
-            "assemblyName": "ATCC 700671"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "mYhCfwm5Yakr1CDx_-v7k",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "ATCC700671.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "BRTf3XyDCgL3uhAGCK4nc",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "ATCC700671.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "Ldph4O1jWtTuyKXmGKkQe",
-            "type": "FeatureTrack",
-            "configuration": "ATCC700671_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "Os_POYzSoTyDDpXFUWePW",
-                "type": "LinearBasicDisplay",
-                "configuration": "ATCC700671_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "qqqgobGsFmkZYP36nGQe-",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "PJ755-1",
-            "start": 0,
-            "end": 2150823,
-            "reversed": false,
-            "assemblyName": "PJ755-1"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "WO602TvTugnJK4FQCysmd",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "PJ7551.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "RZwuAexN0nyimXwOL2C3q",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "PJ7551.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "U1PkTbwvpFl53zAX5e0hu",
-            "type": "FeatureTrack",
-            "configuration": "PJ7551_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "BSSN4MmOvq1H_suk8E5W-",
-                "type": "LinearBasicDisplay",
-                "configuration": "PJ7551_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
       },
       {
         "id": "G0ozicfahw0hv7A4FRn4x",
+        "displayName": "GM17 (PMEN2 reference clone) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "ATCC_700670",
+            "refName": "GM17",
             "start": 0,
             "end": 2265408,
             "reversed": false,
-            "assemblyName": "ATCC 700670"
+            "assemblyName": "GM17"
           }
         ],
         "tracks": [
           {
             "id": "4UuDRI9zBRjhkpyLk8CCr",
             "type": "ReferenceSequenceTrack",
-            "configuration": "ATCC700670.fna-ReferenceSequenceTrack",
+            "configuration": "GM17.fna-ReferenceSequenceTrack",
             "minimized": false,
             "displays": [
               {
                 "id": "LVvJLLiTs15FCZRTZ7qp-",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "ATCC700670.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "GM17.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
                 "showTranslation": true
@@ -6468,13 +6193,13 @@
           {
             "id": "m1GitKqTC68hJxnqvj2Rq",
             "type": "FeatureTrack",
-            "configuration": "ATCC700670_sorted.gff",
+            "configuration": "GM17_sorted.gff",
             "minimized": false,
             "displays": [
               {
                 "id": "KO2J4d5I_B007tGmBvD37",
                 "type": "LinearBasicDisplay",
-                "configuration": "ATCC700670_sorted.gff-LinearBasicDisplay"
+                "configuration": "GM17_sorted.gff-LinearBasicDisplay"
               }
             ]
           }
@@ -6487,11 +6212,14 @@
         "showCytobandsSetting": true,
         "trackLabels": "",
         "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
       },
       {
         "id": "OoZ64KkBwtkJWOMrP2Rt3",
+        "displayName": "M264-3 (PMEN31 reference clone) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -6515,7 +6243,7 @@
               {
                 "id": "4MyYep9k6pAtrFv-ae371",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
+                "heightPreConfig": 120,
                 "configuration": "M2643.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -6545,152 +6273,38 @@
         "showCytobandsSetting": true,
         "trackLabels": "",
         "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
       },
       {
-        "id": "et1bx53hofs27NMcFnmwF",
+        "id": "OVqJIY8KONcCg_mUTclIc",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "BM6001_1",
-            "start": 0,
-            "end": 2293755,
-            "reversed": false,
-            "assemblyName": "BM6001"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "D95ut9QfdnoP2KJ-unpiG",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "BM6001.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "VVmhT5zk8PKvFqZGJfwxP",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "BM6001.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "-d6E7qA8yI87yiAf5O-qj",
-            "type": "FeatureTrack",
-            "configuration": "BM6001_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "zmf8XvQYmHVQyqkJZswtl",
-                "type": "LinearBasicDisplay",
-                "configuration": "BM6001_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "qptliEO1HiKXce1me7sZ0",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "DP1322",
-            "start": 0,
-            "end": 2095224,
-            "reversed": false,
-            "assemblyName": "DP1322"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "au1vf-z7L2nPI-9ghV1K4",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "DP1322.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "B9bNd0laW9RTNmgWJnpSH",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "DP1322.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "_LLsmPunhX3ku8xBS4bj_",
-            "type": "FeatureTrack",
-            "configuration": "DP1322_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "tu1PLVZHQLvQ7clwGLgib",
-                "type": "LinearBasicDisplay",
-                "configuration": "DP1322_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "C4gZe0cKnCKan2zN19tnc",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "JC19F_1",
+            "refName": "LILPNEUHC_19F_1",
             "start": 0,
             "end": 2255652,
             "reversed": false,
-            "assemblyName": "JC19F"
+            "assemblyName": "LILPNEUHC 19F"
           }
         ],
         "tracks": [
           {
-            "id": "DETh_rP0eszQtuRieGw3w",
+            "id": "ot4vh8Abu7XgNfE2AJ9_P",
             "type": "ReferenceSequenceTrack",
-            "configuration": "JC19F.fna-ReferenceSequenceTrack",
+            "configuration": "LILPNEUHC_19F.fna-ReferenceSequenceTrack",
             "minimized": false,
             "displays": [
               {
-                "id": "hr5gi9f02b4pqTIEzgsje",
+                "id": "XAr76qawEyamfD754LknO",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "JC19F.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "LILPNEUHC_19F.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
                 "showTranslation": true
@@ -6698,15 +6312,15 @@
             ]
           },
           {
-            "id": "v0ffLQSRyEr-qSYdo74aV",
+            "id": "-IWZ_s9eUFme2ScpScxTP",
             "type": "FeatureTrack",
-            "configuration": "JC19F_sorted.gff",
+            "configuration": "LILPNEUHC_19F_sorted.gff",
             "minimized": false,
             "displays": [
               {
-                "id": "3ZDuWkM8EnF1tNrGKigxB",
+                "id": "W5Bt-FFqDiYe4XsF77DQH",
                 "type": "LinearBasicDisplay",
-                "configuration": "JC19F_sorted.gff-LinearBasicDisplay"
+                "configuration": "LILPNEUHC_19F_sorted.gff-LinearBasicDisplay"
               }
             ]
           }
@@ -6719,36 +6333,524 @@
         "showCytobandsSetting": true,
         "trackLabels": "",
         "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "qqqgobGsFmkZYP36nGQe-",
+        "displayName": "PJ755/1 (PMEN28 reference clone) (minimized)",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "PJ755/1",
+            "start": 0,
+            "end": 2150823,
+            "reversed": false,
+            "assemblyName": "PJ755/1"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "WO602TvTugnJK4FQCysmd",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "PJ7551.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "RZwuAexN0nyimXwOL2C3q",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "PJ7551.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "U1PkTbwvpFl53zAX5e0hu",
+            "type": "FeatureTrack",
+            "configuration": "PJ7551_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "BSSN4MmOvq1H_suk8E5W-",
+                "type": "LinearBasicDisplay",
+                "configuration": "PJ7551_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "moGJ_Y1CHiJXqnVitY1-C",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "SN75752",
+            "start": 0,
+            "end": 2151943,
+            "reversed": false,
+            "assemblyName": "SN75752"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "dIF49tfewYKfd2M37kSzT",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "SN75752.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "HEdreltteJAObl6wDHNxz",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "SN75752.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "tIYeKF1Ltw1L09FMEKZ7W",
+            "type": "FeatureTrack",
+            "configuration": "SN75752_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "ATlnLxqQHJM044uki53Ec",
+                "type": "LinearBasicDisplay",
+                "configuration": "SN75752_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "yyQ1Jm8p7NYDi05eLYvv6",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "SN36255",
+            "start": 0,
+            "end": 2088681,
+            "reversed": false,
+            "assemblyName": "SN36255"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "QNl_uVqJF7wKlc804F4Hu",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "SN36255.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "EOGLtbqihULKRaoeEh8ny",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "SN36255.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "bcBt8y2rK8f4Pf91kSSIK",
+            "type": "FeatureTrack",
+            "configuration": "SN36255_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "H3vJlcIPemlnlGhJ6E-ao",
+                "type": "LinearBasicDisplay",
+                "configuration": "SN36255_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "b24PEzTNEdBtVwKB2VHYb",
+        "displayName": "Spn1439-106 (PMEN19 reference clone) (minimized)",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "Spn1439-106",
+            "start": 0,
+            "end": 2206681,
+            "reversed": false,
+            "assemblyName": "Spn1439-106"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "bJ7_48Po_m295qDfQEMxp",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "Spn1439-106.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "sVN1Rmq23aEpo0TS1tHsT",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "Spn1439-106.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "Y0WPghItTqHAr7wsGfSPE",
+            "type": "FeatureTrack",
+            "configuration": "Spn1439-106_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "4qjcdjYQXuMvpJqDpl95m",
+                "type": "LinearBasicDisplay",
+                "configuration": "Spn1439-106_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "UMFsrvWVM0fURo1Mg1jb6",
+        "displayName": "SP264 (PMEN11 reference clone) (minimized)",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "SP264",
+            "start": 0,
+            "end": 2185927,
+            "reversed": false,
+            "assemblyName": "SP264"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "ZSQXN9RxqRI4WboFjSsun",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "SP264.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "zv9ImZgdqA0rIHhOI5Cb3",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "SP264.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "RcVSguzTam8cyxPq40MmY",
+            "type": "FeatureTrack",
+            "configuration": "SP264_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "nVF9oDxEKQqUf1DgVyRyV",
+                "type": "LinearBasicDisplay",
+                "configuration": "SP264_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "AKFbbuC9BF64zlEX9FabX",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "TIGR4",
+            "start": 0,
+            "end": 2153837,
+            "reversed": false,
+            "assemblyName": "TIGR4"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "poyS65Vi9nvU3RS6pyNR0",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "TIGR4.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "i4y7GZ7oddce4dYySoKpw",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "TIGR4.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "QQCn9rKK883VCNarQuGhh",
+            "type": "FeatureTrack",
+            "configuration": "TIGR4_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "8QzN62QNVrGXvFFNviLTP",
+                "type": "LinearBasicDisplay",
+                "configuration": "TIGR4_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "QkhARC71fXoJH336u4_tx",
+        "displayName": "TL7/1993 (PMEN3 reference clone) (minimized)",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "TL7/1993",
+            "start": 0,
+            "end": 2156500,
+            "reversed": false,
+            "assemblyName": "TL7/1993"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "mYhCfwm5Yakr1CDx_-v7k",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "TL7_1993.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "BRTf3XyDCgL3uhAGCK4nc",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "TL7_1993.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "Ldph4O1jWtTuyKXmGKkQe",
+            "type": "FeatureTrack",
+            "configuration": "TL7_1993_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "Os_POYzSoTyDDpXFUWePW",
+                "type": "LinearBasicDisplay",
+                "configuration": "TL7_1993_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "LQIZzXNo1OC2KFomBJziy",
+        "displayName": "TW31 (PMEN14 reference clone) (minimized)",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "TW31_1",
+            "start": 0,
+            "end": 2111278,
+            "reversed": false,
+            "assemblyName": "TW31"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "yyM-eoVFOBvba4uKQUy3G",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "TW31.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "kjO2AZme06muZIIIE_zPX",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "TW31.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "hZYygfRw7Rma7o9PjLw5g",
+            "type": "FeatureTrack",
+            "configuration": "TW31_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "VDUfLxgoYf3gk3_61n62t",
+                "type": "LinearBasicDisplay",
+                "configuration": "TW31_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
       },
       {
         "id": "iWNwf111cJScnFK2Hxg6H",
+        "displayName": "4954-98 (PMEN18 reference clone) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "ATCC_BAA-340_1",
+            "refName": "4954-98_1",
             "start": 0,
             "end": 2156985,
             "reversed": false,
-            "assemblyName": "ATCC BAA-340"
+            "assemblyName": "4954-98"
           }
         ],
         "tracks": [
           {
             "id": "2ckY8aKmW5CM1phN-pIhr",
             "type": "ReferenceSequenceTrack",
-            "configuration": "ATCCBAA340.fna-ReferenceSequenceTrack",
+            "configuration": "4954-98.fna-ReferenceSequenceTrack",
             "minimized": false,
             "displays": [
               {
                 "id": "6mQeTClup09WStQN9IY_C",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "ATCCBAA340.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "4954-98.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
                 "showTranslation": true
@@ -6758,13 +6860,13 @@
           {
             "id": "FiV4K4YHVjERRbMd7qgME",
             "type": "FeatureTrack",
-            "configuration": "ATCCBAA340_sorted.gff",
+            "configuration": "4954-98_sorted.gff",
             "minimized": false,
             "displays": [
               {
                 "id": "VJUhkokYVroVuV_lNhjEm",
                 "type": "LinearBasicDisplay",
-                "configuration": "ATCCBAA340_sorted.gff-LinearBasicDisplay"
+                "configuration": "4954-98_sorted.gff-LinearBasicDisplay"
               }
             ]
           }
@@ -6777,64 +6879,8 @@
         "showCytobandsSetting": true,
         "trackLabels": "",
         "showGridlines": true,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "uydw-gfd4pVjvzGqXlJJ-",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "BHN418",
-            "start": 0,
-            "end": 2114355,
-            "reversed": false,
-            "assemblyName": "BHN418"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "s9tl7Dmv_O9VbJwdGaLEF",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "BHN418.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "xGBBzD6028GUaaXLwFRLF",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 50,
-                "configuration": "BHN418.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "xgSWnPnJ9lF8Cq77Y2zw2",
-            "type": "FeatureTrack",
-            "configuration": "BHN418_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "VjRigjYe-oHTLS56ei6tp",
-                "type": "LinearBasicDisplay",
-                "configuration": "BHN418_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
       }

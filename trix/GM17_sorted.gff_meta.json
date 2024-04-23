@@ -1,0 +1,34 @@
+{
+  "dateCreated": "2024-04-23T13:29:44.243Z",
+  "tracks": [
+    {
+      "trackId": "GM17_sorted.gff",
+      "attributesIndexed": [
+        "name",
+        "gene",
+        "locus_tag"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon",
+        "id"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/GM17/GM17_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/GM17/GM17_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "GM17"
+  ]
+}
