@@ -5830,7 +5830,7 @@
     "views": [
       {
         "id": "iWNwf111cJScnFK2Hxg6H",
-        "displayName": "4954-98 (PMEN18 reference clone) (minimized)",
+        "displayName": "4954-98 (PMEN18 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -6085,7 +6085,7 @@
       },
       {
         "id": "livZU8pZD5iebZK2GZlE0",
-        "displayName": "DCC1476 (PMEN25 reference clone) (minimized)",
+        "displayName": "DCC1476 (PMEN25 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -6266,7 +6266,7 @@
       },
       {
         "id": "G0ozicfahw0hv7A4FRn4x",
-        "displayName": "GM17 (PMEN2 reference clone) (minimized)",
+        "displayName": "GM17 (PMEN2 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -6387,7 +6387,7 @@
       },
       {
         "id": "OoZ64KkBwtkJWOMrP2Rt3",
-        "displayName": "M264-3 (PMEN31 reference clone) (minimized)",
+        "displayName": "M264-3 (PMEN31 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -6448,7 +6448,7 @@
       },
       {
         "id": "qqqgobGsFmkZYP36nGQe-",
-        "displayName": "PJ755/1 (PMEN28 reference clone) (minimized)",
+        "displayName": "PJ755/1 (PMEN28 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -6629,7 +6629,7 @@
       },
       {
         "id": "UMFsrvWVM0fURo1Mg1jb6",
-        "displayName": "SP264 (PMEN11 reference clone) (minimized)",
+        "displayName": "SP264 (PMEN11 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -6690,7 +6690,7 @@
       },
       {
         "id": "b24PEzTNEdBtVwKB2VHYb",
-        "displayName": "Spn1439-106 (PMEN19 reference clone) (minimized)",
+        "displayName": "Spn1439-106 (PMEN19 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -6811,7 +6811,7 @@
       },
       {
         "id": "QkhARC71fXoJH336u4_tx",
-        "displayName": "TL7/1993 (PMEN3 reference clone) (minimized)",
+        "displayName": "TL7/1993 (PMEN3 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
@@ -6872,7 +6872,7 @@
       },
       {
         "id": "LQIZzXNo1OC2KFomBJziy",
-        "displayName": "TW31 (PMEN14 reference clone) (minimized)",
+        "displayName": "TW31 (PMEN14 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
