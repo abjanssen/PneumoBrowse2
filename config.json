@@ -4996,7 +4996,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, Fraction_modified:feature.fractionmodified, fractionmodified:undefined, id:undefined}"
+        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, Percentage_modified:feature.fractionmodified, fractionmodified:undefined, id:undefined}"
       }
     },
     {
