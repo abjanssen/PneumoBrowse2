@@ -1063,7 +1063,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Source: 'X. Liu', source:undefined, phase:undefined, id:undefined, Target_SPV_number:feature.target_spv, target_spv:undefined, Target_names:feature.target_names, target_names:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined}"
+        "feature": "jexl:{Source: 'X. Liu', source:undefined, phase:undefined, id:undefined, Target_SPV_number:feature.target_spv, target_spv:undefined, Target_names:italics(feature.target_names), target_names:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined}"
       }
     },
     {
