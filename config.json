@@ -674,6 +674,38 @@
           }
         ]
       }
+    },
+    {
+      "name": "R1501",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "R1501.fna-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/R1501/R1501.fna"
+          },
+          "faiLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/R1501/R1501.fna.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
+          }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "R1501.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "R1501.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
+      }
     }
   ],
   "tracks": [
@@ -5792,6 +5824,210 @@
           "maxScore": 0.8
         }
       ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "R1501_sorted.gff",
+      "name": "Coding features",
+      "assemblyNames": [
+        "R1501"
+      ],
+      "category": [
+        "Annotation"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/R1501/R1501_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/R1501/R1501_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "R1501_sorted.gff-index",
+          "ixFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/R1501_sorted.gff.ix"
+          },
+          "ixxFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/R1501_sorted.gff.ixx"
+          },
+          "metaFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/R1501_sorted.gff_meta.json"
+          },
+          "assemblyNames": [
+            "R1501"
+          ]
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "R1501_sorted.gff-LinearBasicDisplay",
+          "mouseover": "jexl:italics(get(feature,'name'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
+            "labels": {
+              "name": "jexl:get(feature,'name') || get(feature,'locus_tag')"
+            }
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "R1501_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{name:italics(feature.name), type:replaceuc(feature.type), Source:replaceuc(feature.source), source:undefined, phase: undefined, id:undefined, Gene:italics(feature.gene), gene:undefined, Locus_tag:feature.locus_tag, locus_tag:undefined}",
+        "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "R1501_terminators.gff",
+      "name": "Predicted Terminators",
+      "assemblyNames": [
+        "R1501"
+      ],
+      "category": [
+        "Annotation"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/R1501/R1501_terminators_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/R1501/R1501_terminators_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "R1501_terminators.gff-LinearBasicDisplay",
+          "mouseover": "jexl:capital(get(feature,'type'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(5, 148, 0)",
+            "labels": {
+              "name": "jexl:get(feature,'function') ",
+              "description": ""
+            }
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "R1501_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "R1501_TFs.gff",
+      "name": "Predicted transcription factor binding sites",
+      "assemblyNames": [
+        "R1501"
+      ],
+      "category": [
+        "Annotation"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/R1501/R1501_TF_binding_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/R1501/R1501_TF_binding_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "R1501_TFs.gff-LinearBasicDisplay",
+          "mouseover": "jexl:capital(get(feature,'function'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(116, 213, 255)",
+            "labels": {
+              "name": "jexl:get(feature,'name')",
+              "description": "jexl:get(feature,'function')"
+            }
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "R1501_terminators.gff-LinearArcDisplay",
+          "mouseover": "jexl:get(feature,'function')"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      }
+    },
+    {
+      "type": "NucContentTrack",
+      "trackId": "gc_content_dynamic_R1501",
+      "name": "GC content",
+      "assemblyNames": [
+        "R1501"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Miscellaneous"
+      ],
+      "adapter": {
+        "type": "NucContentAdapter",
+        "sequenceAdapter": {
+          "type": "BgzipFastaAdapter",
+          "fastaLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/R1501/R1501.fna.gz"
+          },
+          "faiLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/R1501/R1501.fna.gz.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
+          },
+          "gziLocation": {
+            "locationType": "UriLocation",
+            "uri": "data/R1501/R1501.fna.gz.gzi"
+          }
+        },
+        "windowSize": 200,
+        "windowOverlap": 10
+      },
+      "displays": [
+        {
+          "type": "NucContentDisplay",
+          "displayId": "gc_content_dynamic_R1501-NucContentDisplay",
+          "minScore": 0,
+          "maxScore": 0.8
+        }
+      ]
     }
   ],
   "internetAccounts": [],
@@ -5808,7 +6044,6 @@
       "hierarchicalTrackSelector": {
         "id": "hierarchicalTrackSelector",
         "type": "HierarchicalTrackSelectorWidget",
-        "initialized": true,
         "collapsed": {},
         "view": "BGqBniRRjHVp_2s_V4lxj",
         "faceted": {
@@ -5825,7 +6060,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2.0",
+    "name": "PneumoBrowse 2.0 14/05/2024, 10:35:33",
     "margin": 0,
     "views": [
       {
@@ -6490,6 +6725,66 @@
                 "id": "BSSN4MmOvq1H_suk8E5W-",
                 "type": "LinearBasicDisplay",
                 "configuration": "PJ7551_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "E_cT7cMSssJGUQNfalzSc",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "R1501",
+            "start": 0,
+            "end": 2039791,
+            "reversed": false,
+            "assemblyName": "R1501"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "9qeXCc1qaAQpQufWhiNR8",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "R1501.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "rYExiMMJfsZ3bBpyUy-1G",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "R1501.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "j3e121ShNUFcX5qAQy__d",
+            "type": "FeatureTrack",
+            "configuration": "R1501_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "otPbXcyI07KxwCnCQ8FlT",
+                "type": "LinearBasicDisplay",
+                "configuration": "R1501_sorted.gff-LinearBasicDisplay"
               }
             ]
           }
