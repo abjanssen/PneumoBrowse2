@@ -94,6 +94,12 @@
       "umdLoc": {
         "uri": "plugins/NanoporeScore.js"
       }
+    },
+    {
+      "name": "FoldEnriched",
+      "umdLoc": {
+        "uri": "plugins/FoldEnriched.js"
+      }
     }
   ],
   "assemblies": [
@@ -1100,30 +1106,65 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "ChIP_seq",
-      "name": "Normalized HlpA binding",
+      "trackId": "HU_ChIP_seq",
+      "name": "HU binding",
       "assemblyNames": [
         "D39V"
       ],
       "category": [
         "Genome characteristics",
-        "ChIP-Seq"
+        "ChIP-Seq",
+        "Coverage data"
       ],
       "adapter": {
         "type": "BigWigAdapter",
         "bigWigLocation": {
           "locationType": "UriLocation",
-          "uri": "data/D39V/ChIP_seq.bw"
+          "uri": "data/D39V/HU_ipoverinput_average.bw"
         }
       },
       "displays": [
         {
           "type": "LinearWiggleDisplay",
-          "displayId": "ChIP_seq-LinearWiggleDisplay",
+          "displayId": "HU_ChIP_seq-LinearWiggleDisplay",
           "renderers": {
             "XYPlotRenderer": {
               "type": "XYPlotRenderer",
-              "posColor": "rgb(27, 158, 119)"
+              "posColor": "rgb(27, 158, 119)",
+              "negColor": "rgb(158,27,66)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "RpoB_ChIP_seq",
+      "name": "RpoB binding",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "Genome characteristics",
+        "ChIP-Seq",
+        "Coverage data"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/RpoB_ipoverinput_average.bw"
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearWiggleDisplay",
+          "displayId": "RpoB_ChIP_seq-LinearWiggleDisplay",
+          "renderers": {
+            "XYPlotRenderer": {
+              "type": "XYPlotRenderer",
+              "posColor": "rgb(27, 158, 119)",
+              "negColor": "rgb(158,27,66)"
             }
           }
         }
@@ -1620,6 +1661,84 @@
           }
         }
       ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "D39V_HU_peaks",
+      "name": "HU Peaks",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "Genome characteristics",
+        "ChIP-Seq",
+        "Called Peaks"
+      ],
+      "adapter": {
+        "type": "BedAdapter",
+        "bedLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/D39V/D39V_HU_peaks.bed"
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "D39V_HU_peaks-LinearBasicDisplay",
+          "mouseover": "jexl:foldenriched(get(feature,'score'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(27, 158, 119)"
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "D39V_HU_peaks-LinearArcDisplay",
+          "mouseover": "jexl:foldenriched(get(feature,'score'))"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{score:undefined, Fold_enriched:feature.score}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "D39V_RpoB_peaks",
+      "name": "RpoB Peaks",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "Genome characteristics",
+        "ChIP-Seq",
+        "Called Peaks"
+      ],
+      "adapter": {
+        "type": "BedAdapter",
+        "bedLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/D39V/D39V_RpoB_peaks.bed"
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "D39V_RpoB_peaks-LinearBasicDisplay",
+          "mouseover": "jexl:foldenriched(get(feature,'score'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(27, 158, 119)"
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "D39V_RpoB_peaks-LinearArcDisplay",
+          "mouseover": "jexl:foldenriched(get(feature,'score'))"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{score:undefined, Fold_enriched:feature.score}"
+      }
     },
     {
       "type": "FeatureTrack",
