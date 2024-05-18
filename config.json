@@ -1653,11 +1653,11 @@
         {
           "type": "LinearHicDisplay",
           "displayId": "D39V-LinearHicDisplay",
-          "height": 1350,
+          "height": 800,
           "renderer": {
             "type": "HicRenderer",
-            "color": "jexl:colorString(hsl(alpha(baseColor,min(1,count/(maxScore/1000)))))",
-            "maxHeight": 1300
+            "color": "jexl:colorString(hsl(alpha(baseColor,min(1,count/(maxScore/10000)))))",
+            "maxHeight": 800
           }
         }
       ]
@@ -1688,7 +1688,8 @@
           "mouseover": "jexl:foldenriched(get(feature,'score'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
-            "color1": "rgb(27, 158, 119)"
+            "color1": "rgb(27, 158, 119)",
+            "height": 11
           }
         },
         {
