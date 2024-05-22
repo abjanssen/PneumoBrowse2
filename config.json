@@ -6164,7 +6164,6 @@
       "hierarchicalTrackSelector": {
         "id": "hierarchicalTrackSelector",
         "type": "HierarchicalTrackSelectorWidget",
-        "collapsed": {},
         "view": "BGqBniRRjHVp_2s_V4lxj",
         "faceted": {
           "filterText": "",
@@ -6923,66 +6922,6 @@
         "showBookmarkLabels": true
       },
       {
-        "id": "moGJ_Y1CHiJXqnVitY1-C",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "SN75752",
-            "start": 0,
-            "end": 2151943,
-            "reversed": false,
-            "assemblyName": "SN75752"
-          }
-        ],
-        "tracks": [
-          {
-            "id": "dIF49tfewYKfd2M37kSzT",
-            "type": "ReferenceSequenceTrack",
-            "configuration": "SN75752.fna-ReferenceSequenceTrack",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "HEdreltteJAObl6wDHNxz",
-                "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
-                "configuration": "SN75752.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
-              }
-            ]
-          },
-          {
-            "id": "tIYeKF1Ltw1L09FMEKZ7W",
-            "type": "FeatureTrack",
-            "configuration": "SN75752_sorted.gff",
-            "minimized": false,
-            "displays": [
-              {
-                "id": "ATlnLxqQHJM044uki53Ec",
-                "type": "LinearBasicDisplay",
-                "configuration": "SN75752_sorted.gff-LinearBasicDisplay"
-              }
-            ]
-          }
-        ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
         "id": "yyQ1Jm8p7NYDi05eLYvv6",
         "minimized": true,
         "type": "LinearGenomeView",
@@ -7025,6 +6964,66 @@
                 "id": "H3vJlcIPemlnlGhJ6E-ao",
                 "type": "LinearBasicDisplay",
                 "configuration": "SN36255_sorted.gff-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showBookmarkHighlights": true,
+        "showBookmarkLabels": true
+      },
+      {
+        "id": "moGJ_Y1CHiJXqnVitY1-C",
+        "minimized": true,
+        "type": "LinearGenomeView",
+        "offsetPx": 0,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "SN75752",
+            "start": 0,
+            "end": 2151943,
+            "reversed": false,
+            "assemblyName": "SN75752"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "dIF49tfewYKfd2M37kSzT",
+            "type": "ReferenceSequenceTrack",
+            "configuration": "SN75752.fna-ReferenceSequenceTrack",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "HEdreltteJAObl6wDHNxz",
+                "type": "LinearReferenceSequenceDisplay",
+                "heightPreConfig": 120,
+                "configuration": "SN75752.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
+                "showForward": true,
+                "showReverse": true,
+                "showTranslation": true
+              }
+            ]
+          },
+          {
+            "id": "tIYeKF1Ltw1L09FMEKZ7W",
+            "type": "FeatureTrack",
+            "configuration": "SN75752_sorted.gff",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "ATlnLxqQHJM044uki53Ec",
+                "type": "LinearBasicDisplay",
+                "configuration": "SN75752_sorted.gff-LinearBasicDisplay"
               }
             ]
           }
