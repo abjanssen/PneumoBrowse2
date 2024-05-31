@@ -1789,7 +1789,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "TIGR4_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -2039,7 +2039,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "EF3030_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -2289,7 +2289,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "SP264_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -2539,7 +2539,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "GM17_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -2789,7 +2789,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "M2643_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -3039,7 +3039,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "SN75752_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -3243,7 +3243,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "DCC1476_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -3493,7 +3493,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "Spn1439-106_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -3743,7 +3743,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "SN36255_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -3993,7 +3993,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "TW31_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -4243,7 +4243,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "TL7_1993_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -4493,7 +4493,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "PJ7551_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -4743,7 +4743,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "BM6001_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -4993,7 +4993,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "BHN418_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -5243,7 +5243,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "DP1322_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -5493,7 +5493,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "LILPNEUHC_19F_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -5508,7 +5508,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{name:italics(feature.name), type:replaceuc(feature.type), Source:replaceuc(feature.source), source:undefined, phase: undefined, id:undefined, Gene:italics(feature.gene), gene:undefined, Locus_tag:feature.locus_tag, locus_tag:undefined}",
+        "feature": "jexl:{name:italics(feature.name), type:replaceuc(feature.type), Source:replaceuc(feature.source), source:undefined, phase: undefined, id:undefined, Gene:italics(feature.gene), gene:undefined, Locus_tag:feature.locus_tag, locus_tag:undefined, Repeat_family: feature.rpt_family, rpt_family:undefined, Repeat_type: capital(feature.rpt_type), rpt_type:undefined, Repeat_Unit_Seq: feature.rpt_unit_seq, rpt_unit_seq:undefined, Note: feature.note, note:undefined}",
         "subfeatures": "jexl:{accession:undefined, name:italics(feature.name), type:capital(feature.type), Source:replaceuc(feature.source), source:undefined, phase:undefined, id:undefined, parent:undefined, EC_number: feature.ec_number != null ? '<a href=https://enzyme.expasy.org/EC/'+feature.ec_number+'>'+feature.ec_number+'</a>' : null , ec_number:undefined, Gene:italics(feature.gene), gene:undefined, Inference:feature.inference != null ? capital(inference(feature.inference)) : null, inference:undefined, locus_tag:undefined, Product:capital(feature.product), product:undefined, protein_id:undefined, RFAM: feature.accession != null ? '<a href=https://rfam.org/family/'+feature.accession+'>'+feature.accession+'</a>' : null, note:undefined, Note: feature.note != null ? removequotes(feature.note): null}"
       }
     },
@@ -5743,7 +5743,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "4954-98_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
@@ -5993,7 +5993,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "R1501_sorted.gff-LinearBasicDisplay",
-          "mouseover": "jexl:italics(get(feature,'name'))",
+          "mouseover": "jexl:italics(get(feature,'name')) || get(feature,'locus_tag')",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "jexl:get(feature,'type')=='tRNA'?'rgb(45, 41, 138)': get(feature,'type')=='tmRNA'?'rgb(45, 41, 138)': get(feature,'type')=='rRNA'?'rgb(136, 184, 77)' : get(feature,'type')=='mRNA_region'?'grey':'rgb(215, 163, 32)'",
