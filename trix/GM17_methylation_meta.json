@@ -1,0 +1,31 @@
+{
+  "dateCreated": "2024-06-21T17:27:02.272Z",
+  "tracks": [
+    {
+      "trackId": "GM17_methylation",
+      "attributesIndexed": [
+        "Name"
+      ],
+      "excludedTypes": [
+        "ribosome_entry_site",
+        "transcription_regulatory_region"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/GM17/GM17_methylation_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/GM17/GM17_methylation_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "GM17"
+  ]
+}

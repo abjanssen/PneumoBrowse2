@@ -1,0 +1,31 @@
+{
+  "dateCreated": "2024-06-21T17:27:01.631Z",
+  "tracks": [
+    {
+      "trackId": "EF3030_methylation",
+      "attributesIndexed": [
+        "Name"
+      ],
+      "excludedTypes": [
+        "ribosome_entry_site",
+        "transcription_regulatory_region"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/EF3030/EF3030_methylation_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/EF3030/EF3030_methylation_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "EF3030"
+  ]
+}

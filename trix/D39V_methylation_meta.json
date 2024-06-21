@@ -1,0 +1,31 @@
+{
+  "dateCreated": "2024-06-21T17:27:00.953Z",
+  "tracks": [
+    {
+      "trackId": "D39V_methylation",
+      "attributesIndexed": [
+        "Name"
+      ],
+      "excludedTypes": [
+        "ribosome_entry_site",
+        "transcription_regulatory_region"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/D39V_methylation_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/D39V/D39V_methylation_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "D39V"
+  ]
+}

@@ -881,6 +881,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:replaceuc(feature.type), Source:feature.source, source:undefined, Function: feature.function, Note: feature.note, note:undefined, function:undefined, phase:undefined, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "D39V_annotation_TSS_Term_sorted.gff-index",
+          "ixFilePath": {
+            "uri": "trix/D39V_annotation_TSS_Term_sorted.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/D39V_annotation_TSS_Term_sorted.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/D39V_annotation_TSS_Term_sorted.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "D39V"
+          ]
+        }
       }
     },
     {
@@ -922,6 +943,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:replaceuc(feature.type), Alias:feature.alias, alias:undefined, Source:feature.source, source:undefined, phase:undefined, id:undefined, Bound_moiety:feature.bound_moiety, bound_moiety:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "D39V_annotation_regulatory_features_sorted.gff-index",
+          "ixFilePath": {
+            "uri": "trix/D39V_annotation_regulatory_features_sorted.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/D39V_annotation_regulatory_features_sorted.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/D39V_annotation_regulatory_features_sorted.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "D39V"
+          ]
+        }
       }
     },
     {
@@ -968,6 +1010,27 @@
       "formatDetails": {
         "feature": "jexl:{type:replaceuc(feature.type), Regulon:feature.regulon, regulon:undefined, TIGR4_locus:feature.tigr4_locus, tigr4_locus:undefined, phase:undefined, id:undefined, Source:feature.source, source:undefined, isfinder:undefined, ISFinder: feature.isfinder != null ? '<a href=https://isfinder.biotoul.fr/scripts/ficheIS.php?name='+feature.isfinder+'>'+'ISFinder Database Entry'+'</a>' : null, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined, Function:feature.function, function:undefined, Note:feature.note, note:undefined}",
         "subfeatures": "jexl:{Function:feature.function, function:undefined, phase:undefined, id:undefined, Source:feature.source, source:undefined, Parent:feature.parent, parent:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined, note:undefined, Note:feature.note}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "D39V_annotation_repeat_regions_sorted.gff-index",
+          "ixFilePath": {
+            "uri": "trix/D39V_annotation_repeat_regions_sorted.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/D39V_annotation_repeat_regions_sorted.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/D39V_annotation_repeat_regions_sorted.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "D39V"
+          ]
+        }
       }
     },
     {
@@ -1214,6 +1277,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "D39V_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/D39V_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/D39V_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/D39V_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "D39V"
+          ]
+        }
       }
     },
     {
@@ -1547,6 +1631,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:replaceuc(feature.type),Source:feature.source, source:undefined, phase:undefined, id:undefined, Score:feature.score2, score2:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "D39V_annotation_termination_peaks.gff-index",
+          "ixFilePath": {
+            "uri": "trix/D39V_annotation_termination_peaks.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/D39V_annotation_termination_peaks.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/D39V_annotation_termination_peaks.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "D39V"
+          ]
+        }
       }
     },
     {
@@ -1852,6 +1957,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TIGR4_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/TIGR4_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TIGR4_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TIGR4_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TIGR4"
+          ]
+        }
       }
     },
     {
@@ -1942,6 +2068,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TIGR4_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/TIGR4_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TIGR4_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TIGR4_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TIGR4"
+          ]
+        }
       }
     },
     {
@@ -1989,6 +2136,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TIGR4_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/TIGR4_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TIGR4_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TIGR4_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TIGR4"
+          ]
+        }
       }
     },
     {
@@ -2102,6 +2270,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "EF3030_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/EF3030_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/EF3030_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/EF3030_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "EF3030"
+          ]
+        }
       }
     },
     {
@@ -2192,6 +2381,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "EF3030_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/EF3030_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/EF3030_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/EF3030_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "EF3030"
+          ]
+        }
       }
     },
     {
@@ -2239,6 +2449,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "EF3030_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/EF3030_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/EF3030_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/EF3030_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "EF3030"
+          ]
+        }
       }
     },
     {
@@ -2352,6 +2583,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SP264_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/SP264_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SP264_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SP264_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SP264"
+          ]
+        }
       }
     },
     {
@@ -2399,6 +2651,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SP264_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/SP264_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SP264_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SP264_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SP264"
+          ]
+        }
       }
     },
     {
@@ -2445,6 +2718,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SP264_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/SP264_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SP264_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SP264_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SP264"
+          ]
+        }
       }
     },
     {
@@ -2602,6 +2896,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "GM17_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/GM17_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/GM17_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/GM17_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "GM17"
+          ]
+        }
       }
     },
     {
@@ -2649,6 +2964,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "GM17_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/GM17_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/GM17_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/GM17_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "GM17"
+          ]
+        }
       }
     },
     {
@@ -2695,6 +3031,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "GM17_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/GM17_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/GM17_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/GM17_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "GM17"
+          ]
+        }
       }
     },
     {
@@ -2852,6 +3209,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "M2643_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/M2643_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/M2643_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/M2643_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "M264-3"
+          ]
+        }
       }
     },
     {
@@ -2899,6 +3277,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "M2643_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/M2643_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/M2643_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/M2643_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "M264-3"
+          ]
+        }
       }
     },
     {
@@ -2945,6 +3344,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "M2643_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/M2643_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/M2643_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/M2643_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "M264-3"
+          ]
+        }
       }
     },
     {
@@ -3102,6 +3522,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SN75752_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/SN75752_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SN75752_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SN75752_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SN75752"
+          ]
+        }
       }
     },
     {
@@ -3149,6 +3590,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SN75752_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/SN75752_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SN75752_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SN75752_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SN75752"
+          ]
+        }
       }
     },
     {
@@ -3306,6 +3768,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "DCC1476_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/DCC1476_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/DCC1476_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/DCC1476_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "DCC1476"
+          ]
+        }
       }
     },
     {
@@ -3353,6 +3836,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "DCC1476_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/DCC1476_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/DCC1476_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/DCC1476_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "DCC1476"
+          ]
+        }
       }
     },
     {
@@ -3399,6 +3903,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "DCC1476_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/DCC1476_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/DCC1476_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/DCC1476_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "DCC1476"
+          ]
+        }
       }
     },
     {
@@ -3556,6 +4081,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "Spn1439-106_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/Spn1439-106_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/Spn1439-106_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/Spn1439-106_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "Spn1439-106"
+          ]
+        }
       }
     },
     {
@@ -3603,6 +4149,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "Spn1439-106_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/Spn1439-106_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/Spn1439-106_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/Spn1439-106_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "Spn1439-106"
+          ]
+        }
       }
     },
     {
@@ -3649,6 +4216,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "Spn1439-106_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/Spn1439-106_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/Spn1439-106_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/Spn1439-106_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "Spn1439-106"
+          ]
+        }
       }
     },
     {
@@ -3806,6 +4394,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SN36255_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/SN36255_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SN36255_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SN36255_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SN36255"
+          ]
+        }
       }
     },
     {
@@ -3853,6 +4462,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SN36255_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/SN36255_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SN36255_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SN36255_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SN36255"
+          ]
+        }
       }
     },
     {
@@ -3899,6 +4529,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SN36255_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/SN36255_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SN36255_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SN36255_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SN36255"
+          ]
+        }
       }
     },
     {
@@ -4056,6 +4707,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TW31_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/TW31_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TW31_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TW31_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TW31"
+          ]
+        }
       }
     },
     {
@@ -4103,6 +4775,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TW31_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/TW31_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TW31_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TW31_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TW31"
+          ]
+        }
       }
     },
     {
@@ -4149,6 +4842,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TW31_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/TW31_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TW31_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TW31_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TW31"
+          ]
+        }
       }
     },
     {
@@ -4306,6 +5020,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TL7_1993_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/TL7_1993_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TL7_1993_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TL7_1993_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TL7/1993"
+          ]
+        }
       }
     },
     {
@@ -4353,6 +5088,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TL7_1993_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/TL7_1993_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TL7_1993_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TL7_1993_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TL7/1993"
+          ]
+        }
       }
     },
     {
@@ -4399,6 +5155,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TL7_1993_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/TL7_1993_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TL7_1993_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TL7_1993_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TL7/1993"
+          ]
+        }
       }
     },
     {
@@ -4556,6 +5333,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "PJ7551_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/PJ7551_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/PJ7551_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/PJ7551_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "PJ755/1"
+          ]
+        }
       }
     },
     {
@@ -4603,6 +5401,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "PJ7551_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/PJ7551_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/PJ7551_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/PJ7551_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "PJ755/1"
+          ]
+        }
       }
     },
     {
@@ -4649,6 +5468,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "PJ7551_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/PJ7551_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/PJ7551_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/PJ7551_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "PJ755/1"
+          ]
+        }
       }
     },
     {
@@ -4806,6 +5646,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "BM6001_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/BM6001_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/BM6001_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/BM6001_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "BM6001"
+          ]
+        }
       }
     },
     {
@@ -4853,6 +5714,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "BM6001_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/BM6001_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/BM6001_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/BM6001_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "BM6001"
+          ]
+        }
       }
     },
     {
@@ -4899,6 +5781,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "BM6001_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/BM6001_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/BM6001_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/BM6001_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "BM6001"
+          ]
+        }
       }
     },
     {
@@ -5056,6 +5959,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "BHN418_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/BHN418_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/BHN418_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/BHN418_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "BHN418"
+          ]
+        }
       }
     },
     {
@@ -5103,6 +6027,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "BHN418_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/BHN418_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/BHN418_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/BHN418_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "BHN418"
+          ]
+        }
       }
     },
     {
@@ -5149,6 +6094,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, Percentage_modified:feature.fractionmodified, fractionmodified:undefined, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "BHN418_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/BHN418_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/BHN418_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/BHN418_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "BHN418"
+          ]
+        }
       }
     },
     {
@@ -5306,6 +6272,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "DP1322_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/DP1322_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/DP1322_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/DP1322_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "DP1322"
+          ]
+        }
       }
     },
     {
@@ -5353,6 +6340,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "DP1322_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/DP1322_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/DP1322_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/DP1322_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "DP1322"
+          ]
+        }
       }
     },
     {
@@ -5399,6 +6407,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "DP1322_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/DP1322_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/DP1322_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/DP1322_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "DP1322"
+          ]
+        }
       }
     },
     {
@@ -5556,6 +6585,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "LILPNEUHC_19F_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/LILPNEUHC_19F_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/LILPNEUHC_19F_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/LILPNEUHC_19F_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "LILPNEUHC 19F"
+          ]
+        }
       }
     },
     {
@@ -5603,6 +6653,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "LILPNEUHC_19F_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/LILPNEUHC_19F_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/LILPNEUHC_19F_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/LILPNEUHC_19F_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "LILPNEUHC 19F"
+          ]
+        }
       }
     },
     {
@@ -5649,6 +6720,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "LILPNEUHC_19F_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/LILPNEUHC_19F_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/LILPNEUHC_19F_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/LILPNEUHC_19F_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "LILPNEUHC 19F"
+          ]
+        }
       }
     },
     {
@@ -5806,6 +6898,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "4954-98_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/4954-98_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/4954-98_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/4954-98_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "4954-98"
+          ]
+        }
       }
     },
     {
@@ -5853,6 +6966,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "4954-98_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/4954-98_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/4954-98_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/4954-98_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "4954-98"
+          ]
+        }
       }
     },
     {
@@ -5899,6 +7033,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undeinfed, id:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "4954-98_methylation-index",
+          "ixFilePath": {
+            "uri": "trix/4954-98_methylation.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/4954-98_methylation.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/4954-98_methylation_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "4954-98"
+          ]
+        }
       }
     },
     {
@@ -6056,6 +7211,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{type:capital(feature.type), name:undefined, Source:feature.source, source:undefined, phase:undefined, score:feature.score, id:undefined, Function:feature.function, function:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "R1501_terminators.gff-index",
+          "ixFilePath": {
+            "uri": "trix/R1501_terminators.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/R1501_terminators.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/R1501_terminators.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "R1501"
+          ]
+        }
       }
     },
     {
@@ -6103,6 +7279,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "R1501_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/R1501_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/R1501_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/R1501_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "R1501"
+          ]
+        }
       }
     },
     {
@@ -6179,7 +7376,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.1.8)",
+    "name": "PneumoBrowse 2 (v1.1.9)",
     "margin": 0,
     "views": [
       {

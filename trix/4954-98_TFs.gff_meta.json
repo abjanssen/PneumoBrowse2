@@ -1,0 +1,31 @@
+{
+  "dateCreated": "2024-06-21T17:27:05.348Z",
+  "tracks": [
+    {
+      "trackId": "4954-98_TFs.gff",
+      "attributesIndexed": [
+        "Name"
+      ],
+      "excludedTypes": [
+        "ribosome_entry_site",
+        "transcription_regulatory_region"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/4954-98/4954-98_TF_binding_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/4954-98/4954-98_TF_binding_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "4954-98"
+  ]
+}
