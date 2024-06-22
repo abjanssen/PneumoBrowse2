@@ -1,5 +1,5 @@
 {
-  "dateCreated": "2024-06-21T17:27:00.608Z",
+  "dateCreated": "2024-06-22T18:56:00.009Z",
   "tracks": [
     {
       "trackId": "D39V_180601_operons",
@@ -7,8 +7,8 @@
         "Name"
       ],
       "excludedTypes": [
-        "ribosome_entry_site",
-        "transcription_regulatory_region"
+        "CDS",
+        "exon"
       ],
       "adapterConf": {
         "type": "Gff3Adapter",

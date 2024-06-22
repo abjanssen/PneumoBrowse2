@@ -1,2 +1,0 @@
-terminator000000000000
-terminator07000000F7C0
