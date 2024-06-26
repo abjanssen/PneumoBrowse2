@@ -1,5 +1,5 @@
 /**
- * @mui/x-data-grid v7.6.1
+ * @mui/x-data-grid v7.7.0
  *
  * @license MIT
  * This source code is licensed under the MIT license found in the
