@@ -1,0 +1,32 @@
+{
+  "dateCreated": "2024-07-15T13:53:02.440Z",
+  "tracks": [
+    {
+      "trackId": "LILPNEUHC_19F_TFs.gff",
+      "attributesIndexed": [
+        "Name"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon",
+        "id"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_TF_binding_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F_TF_binding_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "LILPNEUHC 19F"
+  ]
+}

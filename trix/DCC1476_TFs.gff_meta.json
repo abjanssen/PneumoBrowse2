@@ -1,0 +1,32 @@
+{
+  "dateCreated": "2024-07-15T13:52:53.869Z",
+  "tracks": [
+    {
+      "trackId": "DCC1476_TFs.gff",
+      "attributesIndexed": [
+        "Name"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon",
+        "id"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/DCC1476/DCC1476_TF_binding_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/DCC1476/DCC1476_TF_binding_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "DCC1476"
+  ]
+}

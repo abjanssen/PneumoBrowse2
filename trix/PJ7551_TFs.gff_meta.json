@@ -1,0 +1,32 @@
+{
+  "dateCreated": "2024-07-15T13:52:58.134Z",
+  "tracks": [
+    {
+      "trackId": "PJ7551_TFs.gff",
+      "attributesIndexed": [
+        "Name"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon",
+        "id"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/PJ7551/PJ7551_TF_binding_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/PJ7551/PJ7551_TF_binding_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "PJ755/1"
+  ]
+}

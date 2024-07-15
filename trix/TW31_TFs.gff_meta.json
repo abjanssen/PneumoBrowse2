@@ -1,0 +1,32 @@
+{
+  "dateCreated": "2024-07-15T13:52:56.428Z",
+  "tracks": [
+    {
+      "trackId": "TW31_TFs.gff",
+      "attributesIndexed": [
+        "Name"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon",
+        "id"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/TW31/TW31_TF_binding_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/TW31/TW31_TF_binding_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "TW31"
+  ]
+}

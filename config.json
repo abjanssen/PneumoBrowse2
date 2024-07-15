@@ -2010,6 +2010,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TIGR4_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/TIGR4_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TIGR4_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TIGR4_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TIGR4"
+          ]
+        }
       }
     },
     {
@@ -2260,6 +2281,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "EF3030_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/EF3030_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/EF3030_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/EF3030_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "EF3030"
+          ]
+        }
       }
     },
     {
@@ -2420,6 +2462,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SP264_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/SP264_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SP264_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SP264_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SP264"
+          ]
+        }
       }
     },
     {
@@ -2670,6 +2733,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "GM17_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/GM17_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/GM17_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/GM17_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "GM17"
+          ]
+        }
       }
     },
     {
@@ -2920,6 +3004,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "M2643_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/M2643_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/M2643_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/M2643_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "M264-3"
+          ]
+        }
       }
     },
     {
@@ -3170,6 +3275,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SN75752_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/SN75752_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SN75752_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SN75752_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SN75752"
+          ]
+        }
       }
     },
     {
@@ -3374,6 +3500,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "DCC1476_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/DCC1476_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/DCC1476_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/DCC1476_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "DCC1476"
+          ]
+        }
       }
     },
     {
@@ -3624,6 +3771,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "Spn1439-106_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/Spn1439-106_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/Spn1439-106_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/Spn1439-106_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "Spn1439-106"
+          ]
+        }
       }
     },
     {
@@ -3874,6 +4042,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "SN36255_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/SN36255_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/SN36255_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/SN36255_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "SN36255"
+          ]
+        }
       }
     },
     {
@@ -4124,6 +4313,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TW31_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/TW31_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TW31_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TW31_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TW31"
+          ]
+        }
       }
     },
     {
@@ -4374,6 +4584,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "TL7_1993_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/TL7_1993_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/TL7_1993_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/TL7_1993_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "TL7/1993"
+          ]
+        }
       }
     },
     {
@@ -4624,6 +4855,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "PJ7551_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/PJ7551_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/PJ7551_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/PJ7551_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "PJ755/1"
+          ]
+        }
       }
     },
     {
@@ -4874,6 +5126,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "BM6001_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/BM6001_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/BM6001_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/BM6001_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "BM6001"
+          ]
+        }
       }
     },
     {
@@ -5124,6 +5397,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "BHN418_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/BHN418_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/BHN418_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/BHN418_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "BHN418"
+          ]
+        }
       }
     },
     {
@@ -5374,6 +5668,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "DP1322_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/DP1322_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/DP1322_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/DP1322_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "DP1322"
+          ]
+        }
       }
     },
     {
@@ -5624,6 +5939,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "LILPNEUHC_19F_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/LILPNEUHC_19F_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/LILPNEUHC_19F_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/LILPNEUHC_19F_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "LILPNEUHC 19F"
+          ]
+        }
       }
     },
     {
@@ -5874,6 +6210,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "4954-98_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/4954-98_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/4954-98_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/4954-98_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "4954-98"
+          ]
+        }
       }
     },
     {
@@ -6124,6 +6481,27 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "R1501_TFs.gff-index",
+          "ixFilePath": {
+            "uri": "trix/R1501_TFs.gff.ix",
+            "locationType": "UriLocation"
+          },
+          "ixxFilePath": {
+            "uri": "trix/R1501_TFs.gff.ixx",
+            "locationType": "UriLocation"
+          },
+          "metaFilePath": {
+            "uri": "trix/R1501_TFs.gff_meta.json",
+            "locationType": "UriLocation"
+          },
+          "assemblyNames": [
+            "R1501"
+          ]
+        }
       }
     },
     {
@@ -6200,7 +6578,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.1.16)",
+    "name": "PneumoBrowse 2 (v1.1.17)",
     "margin": 0,
     "views": [
       {
