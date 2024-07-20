@@ -1105,7 +1105,7 @@
         {
           "type": "LinearBasicDisplay",
           "displayId": "sgRNA_D39V_Liu-LinearBasicDisplay",
-          "mouseover": "jexl:sgrnatarget(get(feature,'target_names'))",
+          "mouseover": "jexl:sgrnatarget(get(feature,'target_gene_name'))",
           "renderer": {
             "type": "SvgFeatureRenderer",
             "color1": "rgb(53, 112, 137)",
@@ -1118,7 +1118,7 @@
         {
           "type": "LinearArcDisplay",
           "displayId": "sgRNA_D39V_Liu-LinearArcDisplay",
-          "mouseover": "jexl:sgrnatarget(get(feature,'target_names'))"
+          "mouseover": "jexl:sgrnatarget(get(feature,'target_gene_name'))"
         }
       ],
       "formatDetails": {
@@ -6578,7 +6578,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.1.23)",
+    "name": "PneumoBrowse 2 (v1.1.24)",
     "margin": 0,
     "views": [
       {
