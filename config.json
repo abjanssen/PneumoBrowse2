@@ -779,7 +779,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{type:replaceuc(feature.type), name:italics(feature.name), Alias:italics(feature.alias), alias:undefined, Regulon: feature.regulon, regulon:undefined, Source: feature.source, source:undefined, isfinder:undefined, ISFinder: feature.isfinder != null ? '<a href=https://isfinder.biotoul.fr/scripts/ficheIS.php?name='+feature.isfinder+'>'+'ISFinder Database Entry'+'</a>' : null , id:undefined, R6_locus_tag:feature.r6_locus, r6_locus:undefined, TIGR4_locus_tag:feature.tigr4_locus, tigr4_locus:undefined, D39V_locus_tag:feature.locus_tag, locus_tag:undefined,D39_locus_tag: feature.old_locus_tag, old_locus_tag:undefined, NCBI_locus_tag: feature.ncbi_locus, ncbi_locus:undefined, phase:undefined, Essentiality_in_CY_media:feature.essentiality_in_cy_media, essentiality_in_cy_media:undefined, KEGG: feature.old_locus_tag != null ? '<a href=https://www.genome.jp/entry/spd:'+feature.old_locus_tag+'>'+'KEGG Database Entry'+'</a>' : null ,PneumoWiki: feature.pneumowiki != null ? '<a href=https://pneumowiki.med.uni-greifswald.de/'+feature.pneumowiki+'>' + feature.pneumowiki + '</a>' : null, pneumowiki:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined, PneumoExpress_co_express: feature.locus_tag != null ? '<a href=https://veeninglab.com/pneumoexpress-app/index.php/compendium/c0-expression-matrix?selectedgene='+feature.locus_tag+'>'+'Co-expressed genes'+'</a>' : null ,PneumoExpress_expression: feature.locus_tag != null ? '<a href=https://veeninglab.com/pneumoexpress-app/?selectedgene='+feature.locus_tag+'>'+'Expression across conditions'+'</a>' : null , NCBI: feature.protein_d39v != null ? '<a href=https://www.ncbi.nlm.nih.gov/protein/'+feature.protein_d39v+'>'+feature.protein_d39v+'</a>' : null, protein_d39v:undefined, PaperBLAST: feature.paperblast != null ? '<a href=https://papers.genomics.lbl.gov/cgi-bin/litSearch.cgi?query='+feature.paperblast+'>'+'PaperBLAST'+'</a>': null, paperblast:undefined, UniProt: feature.uniprot != null ? '<a href=https://www.uniprot.org/uniprotkb/'+feature.uniprot+'>'+feature.uniprot+'</a>' : null, AlphaFold: feature.uniprot != null ? '<a href=https://alphafold.ebi.ac.uk/entry/'+feature.uniprot+'>'+'AlphaFold'+'</a>' : null, Foldseek: feature.uniprot != null ? '<a href=https://search.foldseek.com/search?accession='+feature.uniprot+'&source=AlphaFoldDB>'+'Foldseek'+'</a>' : null,  uniprot:undefined, function:undefined, Function: feature.function != null ? capital(feature.function): null, bound_moiety:undefined, Bound_moiety: feature.bound_moiety != null ? capital(feature.bound_moiety): null, Note:feature.note, note:undefined, product:undefined, Product: feature.product != null ? capital(feature.product): null, essential_vdb:undefined, Essentiality: feature.essential_vdb != null ? jsonparse(feature.essential_vdb): null, Gene_expression: feature.tpm_ppm_vdb != null ? jsonparse(feature.tpm_ppm_vdb): null, tpm_ppm_vdb:undefined}",
+        "feature": "jexl:{type:replaceuc(feature.type), name:italics(feature.name), Alias:italics(feature.alias), alias:undefined, Regulon: feature.regulon, regulon:undefined, Source: feature.source, source:undefined, isfinder:undefined, ISFinder: feature.isfinder != null ? '<a href=https://isfinder.biotoul.fr/scripts/ficheIS.php?name='+feature.isfinder+'>'+'ISFinder Database Entry'+'</a>' : null , id:undefined, R6_locus_tag:feature.r6_locus, r6_locus:undefined, TIGR4_locus_tag:feature.tigr4_locus, tigr4_locus:undefined, D39V_locus_tag:feature.locus_tag, locus_tag:undefined,D39_locus_tag: feature.old_locus_tag, old_locus_tag:undefined, NCBI_locus_tag: feature.ncbi_locus, ncbi_locus:undefined, phase:undefined, Essentiality_in_CY_media:feature.essentiality_in_cy_media, essentiality_in_cy_media:undefined, KEGG: feature.old_locus_tag != null ? '<a href=https://www.genome.jp/entry/spd:'+feature.old_locus_tag+'>'+'KEGG Database Entry'+'</a>' : null ,PneumoWiki: feature.pneumowiki != null ? '<a href=https://pneumowiki.med.uni-greifswald.de/'+feature.pneumowiki+'>' + feature.pneumowiki + '</a>' : null, pneumowiki:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined, PneumoExpress_co_express: feature.locus_tag != null ? '<a href=https://veeninglab.com/pneumoexpress-app/index.php/compendium/c0-expression-matrix?selectedgene='+feature.locus_tag+'>'+'Co-expressed genes'+'</a>' : null ,PneumoExpress_expression: feature.locus_tag != null ? '<a href=https://veeninglab.com/pneumoexpress-app/?selectedgene='+feature.locus_tag+'>'+'Expression across conditions'+'</a>' : null , NCBI: feature.protein_d39v != null ? '<a href=https://www.ncbi.nlm.nih.gov/protein/'+feature.protein_d39v+'>'+feature.protein_d39v+'</a>' : null, protein_d39v:undefined, PaperBLAST: feature.paperblast != null ? '<a href=https://papers.genomics.lbl.gov/cgi-bin/litSearch.cgi?query='+feature.paperblast+'>'+'PaperBLAST'+'</a>': null, paperblast:undefined, UniProt: feature.uniprot != null ? '<a href=https://www.uniprot.org/uniprotkb/'+feature.uniprot+'>'+feature.uniprot+'</a>' : null, AlphaFold: feature.uniprot != null ? '<a href=https://alphafold.ebi.ac.uk/entry/'+feature.uniprot+'>'+'AlphaFold'+'</a>' : null, Foldseek: feature.uniprot != null ? '<a href=https://search.foldseek.com/search?accession='+feature.uniprot+'&source=AlphaFoldDB>'+'Foldseek'+'</a>' : null,  STRING: feature.r6_locus != null ? '<a href=https://string-db.org/cgi/network?identifiers=171101.'+feature.r6_locus+'>'+'STRING'+'</a>' : null, uniprot:undefined, function:undefined, Function: feature.function != null ? capital(feature.function): null, bound_moiety:undefined, Bound_moiety: feature.bound_moiety != null ? capital(feature.bound_moiety): null, Note:feature.note, note:undefined, product:undefined, Product: feature.product != null ? capital(feature.product): null, essential_vdb:undefined, Essentiality: feature.essential_vdb != null ? jsonparse(feature.essential_vdb): null, Gene_expression: feature.tpm_ppm_vdb != null ? jsonparse(feature.tpm_ppm_vdb): null, tpm_ppm_vdb:undefined}",
         "subfeatures": "jexl:{Product:capital(feature.product), anticodon:undefined, Anticodon: feature.anticodon != null ? feature.anticodon: null, product:undefined, Source:feature.source, source:undefined, Note:capital(feature.note), note:undefined, ontology_term:undefined, Protein_ID:feature.protein_id, protein_id:undefined, Gene_ontology: feature.ontology_term != null ? '<a href=https://www.ebi.ac.uk/QuickGO/search/'+replacespaces(feature.ontology_term)+'>'+'QuickGO Database Entry'+'</a>' : null, id:undefined, parent: undefined, phase: undefined, essential_vdb:undefined, uniprot:undefined, Gene_essentiality: feature.essential_vdb != null ? jsonparse(feature.essential_vdb): null, Gene_expression: feature.tpm_ppm_vdb != null ? jsonparse(feature.tpm_ppm_vdb): null, tpm_ppm_vdb:undefined}"
       }
     },
@@ -1674,11 +1674,11 @@
         {
           "type": "LinearHicDisplay",
           "displayId": "D39V-LinearHicDisplay",
-          "height": 800,
+          "height": 1100,
           "renderer": {
             "type": "HicRenderer",
             "color": "jexl:colorString(hsl(alpha(baseColor,min(1,count/(maxScore/10000)))))",
-            "maxHeight": 800
+            "maxHeight": 1200
           }
         }
       ]
@@ -6621,8 +6621,7 @@
         {
           "type": "LGVSyntenyDisplay",
           "displayId": "Synteny_all_v_all-LGVSyntenyDisplay",
-          "height": 500,
-          "mouseover": ""
+          "height": 500
         }
       ]
     },
@@ -20334,7 +20333,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.1.26)",
+    "name": "PneumoBrowse 2 (v1.2.1)",
     "margin": 0,
     "views": [
       {
@@ -20523,7 +20522,7 @@
         "id": "BGqBniRRjHVp_2s_V4lxj",
         "minimized": false,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
+        "offsetPx": -3,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
@@ -21499,6 +21498,54 @@
         "colorByCDS": false,
         "showBookmarkHighlights": true,
         "showBookmarkLabels": true
+      },
+      {
+        "id": "CZpm5bOQYP2oDT4z3QJ8D",
+        "displayName": "Linear synteny alignment view",
+        "minimized": true,
+        "type": "LinearSyntenyView",
+        "trackSelectorType": "hierarchical",
+        "showIntraviewLinks": true,
+        "interactToggled": false,
+        "middleComparativeHeight": 100,
+        "tracks": [],
+        "views": [],
+        "viewTrackConfigs": [],
+        "drawCIGAR": true,
+        "drawCurves": false
+      },
+      {
+        "id": "YBr2cqOxvjNbmRlufG-bf",
+        "displayName": "Dotplot alignment view",
+        "minimized": true,
+        "type": "DotplotView",
+        "height": 600,
+        "borderSize": 20,
+        "tickSize": 5,
+        "vtextRotation": 0,
+        "htextRotation": -90,
+        "fontSize": 15,
+        "trackSelectorType": "hierarchical",
+        "assemblyNames": [],
+        "drawCigar": true,
+        "hview": {
+          "id": "_h3YrumHE9YKD76byyQ0X",
+          "displayedRegions": [],
+          "bpPerPx": 0.02,
+          "offsetPx": -1053,
+          "interRegionPaddingWidth": 0,
+          "minimumBlockWidth": 0
+        },
+        "vview": {
+          "id": "OmO0YuETnWkDAs0XvOgB6",
+          "displayedRegions": [],
+          "bpPerPx": 0.02,
+          "offsetPx": -275,
+          "interRegionPaddingWidth": 0,
+          "minimumBlockWidth": 0
+        },
+        "tracks": [],
+        "viewTrackConfigs": []
       }
     ],
     "sessionTracks": [],
