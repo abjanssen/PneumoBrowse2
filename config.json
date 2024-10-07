@@ -1654,26 +1654,88 @@
     },
     {
       "type": "HicTrack",
-      "trackId": "D39V",
-      "name": "Hi-C Interaction ",
+      "trackId": "D39V_WT_HiC",
+      "name": "Wild type Hi-C interactions",
       "assemblyNames": [
         "D39V"
       ],
       "category": [
         "Genome characteristics",
-        "Hi-C"
+        "Hi-C interaction"
       ],
       "adapter": {
         "type": "HicAdapter",
         "hicLocation": {
           "locationType": "UriLocation",
-          "uri": "data/D39V/D39V.hic"
+          "uri": "data/D39V/D39V_WT.hic"
         }
       },
       "displays": [
         {
           "type": "LinearHicDisplay",
-          "displayId": "D39V-LinearHicDisplay",
+          "displayId": "D39V-LinearHicDisplay-WT",
+          "height": 1100,
+          "renderer": {
+            "type": "HicRenderer",
+            "color": "jexl:colorString(hsl(alpha(baseColor,min(1,count/(maxScore/10000)))))",
+            "maxHeight": 1200
+          }
+        }
+      ]
+    },
+    {
+      "type": "HicTrack",
+      "trackId": "D39V_HU_HiC",
+      "name": "HU depleted Hi-C interactions",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Hi-C interaction"
+      ],
+      "adapter": {
+        "type": "HicAdapter",
+        "hicLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/D39V_HU_depleted.hic"
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearHicDisplay",
+          "displayId": "D39V-LinearHicDisplay-HU",
+          "height": 1100,
+          "renderer": {
+            "type": "HicRenderer",
+            "color": "jexl:colorString(hsl(alpha(baseColor,min(1,count/(maxScore/10000)))))",
+            "maxHeight": 1200
+          }
+        }
+      ]
+    },
+    {
+      "type": "HicTrack",
+      "trackId": "D39V_SMC_HiC",
+      "name": "SMC depleted Hi-C interactions",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "Genome characteristics",
+        "Hi-C interaction"
+      ],
+      "adapter": {
+        "type": "HicAdapter",
+        "hicLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/D39V_SMC_depleted.hic"
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearHicDisplay",
+          "displayId": "D39V-LinearHicDisplay-SMC",
           "height": 1100,
           "renderer": {
             "type": "HicRenderer",
@@ -21362,7 +21424,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.2.4)",
+    "name": "PneumoBrowse 2 (v1.2.5)",
     "margin": 0,
     "views": [
       {
