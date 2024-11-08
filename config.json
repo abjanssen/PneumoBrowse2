@@ -21424,7 +21424,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.2.8)",
+    "name": "PneumoBrowse 2 (v1.2.9)",
     "margin": 0,
     "views": [
       {
@@ -22288,7 +22288,7 @@
       },
       {
         "id": "UMFsrvWVM0fURo1Mg1jb6",
-        "displayName": "SP264 (PMEN11 reference strain) (minimized)",
+        "displayName": "SP264 (PMEN1 reference strain) (minimized)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
