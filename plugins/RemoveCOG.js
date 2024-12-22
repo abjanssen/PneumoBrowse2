@@ -1,20 +1,20 @@
-// RemoveQuotes.js
+// RemoveCOG.js
 ;(function () {
   class MyPlugin {
     name = 'TextFormattingPlugin'
-    version = 'QuotesFormatting'
-      
+    version = 'COGFormatting'
+    
     install() {}
     configure(pluginManager) {
-      pluginManager.jexl.addFunction('removequotes', feature => {
-        return feature.replace(/"/g, ""); 
+      pluginManager.jexl.addFunction('removecog', feature => {
+        return feature.replace(/COG:/g, ""); 
       })
     }
   }
 
   // the plugin will be included in both the main thread and web worker, so
   // install plugin to either window or self (webworker global scope)
-  ;(typeof self !== 'undefined' ? self : window).JBrowsePluginRemoveQuotes = {
+  ;(typeof self !== 'undefined' ? self : window).JBrowsePluginRemoveCOG = {
     default: MyPlugin,
   }
 })()

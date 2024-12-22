@@ -1,6 +1,9 @@
 // QVScore.js
 ;(function () {
   class MyPlugin {
+     name = 'DataFormattingPlugin'
+    version = 'QVScoreFormatting'
+          
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('qvscore', feature => {

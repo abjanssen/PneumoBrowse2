@@ -1,6 +1,9 @@
 // NanoporeScore.js
 ;(function () {
   class MyPlugin {
+          name = 'DataFormattingPlugin'
+          version = 'NanoporeScoreFormatting'
+  
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('nanoscore', feature => {

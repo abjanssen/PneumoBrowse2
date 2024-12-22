@@ -1,6 +1,8 @@
 // FoldEnriched.js
 ;(function () {
   class MyPlugin {
+          name = 'DataFormattingPlugin'
+          version = 'FoldEnrichedFormatting'
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('foldenriched', feature => {

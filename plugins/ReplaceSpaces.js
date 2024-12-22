@@ -1,6 +1,9 @@
 // ReplaceSpaces.js
 ;(function () {
   class MyPlugin {
+    name = 'TextFormattingPlugin'
+    version = 'SpacesFormatting'
+    
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('replacespaces', feature => {

@@ -1,6 +1,9 @@
 // JSONParse.js
 ;(function () {
   class MyPlugin {
+    name = 'DataFormattingPlugin'
+    version = 'JSONParseFormatting'
+
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('jsonparse', feature => {

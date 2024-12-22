@@ -1,6 +1,9 @@
 // sgRNATarget.js
 ;(function () {
   class MyPlugin {
+    name = 'DataFormattingPlugin'
+    version = 'sgRNATargetFormatting'
+            
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('sgrnatarget', feature => {

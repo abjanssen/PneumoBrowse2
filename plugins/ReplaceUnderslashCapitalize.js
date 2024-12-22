@@ -1,6 +1,9 @@
 // ReplaceUnderslashCapitalize.js
 ;(function () {
   class MyPlugin {
+    name = 'TextFormattingPlugin'
+    version = 'ReplaceUnderslashFormatting'    
+  
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('replaceuc', feature => {

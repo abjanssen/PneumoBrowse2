@@ -1,14 +1,17 @@
 // Inference.js
 ;(function () {
   class MyPlugin {
+    name = 'DataFormattingPlugin'
+    version = 'InferenceFormatting'
+      
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('inference', feature => {    
       if (feature.includes("COORDINATES:")) {
-        // Replace "COORDINATES: " with an empty string
+        // Replace "COORDINATES:" with an empty string
         return feature.replace("COORDINATES:", "Coordinates:");
     } else {
-        // If "COORDINATES: " is not found, return the input string as is
+        // If "COORDINATES:" is not found, return the input string as is
         return feature;
     }
       });

@@ -1,6 +1,9 @@
 // Capital.js
 ;(function () {
   class MyPlugin {
+    name = 'TextFormattingPlugin'
+    version = 'CapitalFormatting'
+    
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('capital', feature => {

@@ -1,6 +1,9 @@
 // Italicize.js
 ;(function () {
   class MyPlugin {
+  name = 'TextFormattingPlugin'
+  version = 'ItalicFormatting'
+
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('italics', feature => {
