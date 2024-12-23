@@ -30,6 +30,12 @@
   },
   "plugins": [
     {
+      "name": "ReferenceContactsWidget",
+      "esmLoc": {
+        "uri": "plugins/ReferenceContactsWidget.js"
+      }
+    },    
+    {
       "name": "NucContent",
       "umdLoc": {
         "uri": "plugins/jbrowsepluginnuccontent.umd.production.min.js"
@@ -21430,7 +21436,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.2.22)",
+    "name": "PneumoBrowse 2 (v1.2.23)",
     "margin": 0,
     "views": [
       {
