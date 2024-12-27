@@ -53,7 +53,7 @@ export default class MyPlugin {
       'div', 
       null, 
       React.createElement('h1', null, 'Data Availability'),
-      React.createElement('p', null, 'Data within PneumoBrowse is available from the NCBI.'),
+      React.createElement('p', null, 'Data within PneumoBrowse are available from the NCBI.'),
       React.createElement('p', null, 'All long-read sequencing data, assembled genomic sequences, and base modification files for PacBio sequenced genomes (except for D39V), are available in the NCBI Sequence Read Archive under BioProject accession code ', React.createElement("a", {href: "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103744"}, "PRJNA1103744"), '. Genome sequence and methylation data from D39V are available under BioProject accession code ', React.createElement("a", {href: "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA295913/"}, "PRJNA295913"), '. The SN75752 genomic sequence is available under accession code ' ,React.createElement("a", {href: "https://www.ncbi.nlm.nih.gov/nuccore/CP089949.1/"}, "CP089949.1"), '.'))
       return React.createElement('div', null, [availabilitycontent])
     }
