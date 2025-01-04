@@ -42,7 +42,8 @@ export default class MyPlugin {
       React.createElement('h1', null, 'Contact and feedback'),
       React.createElement('p', null, 'Thank you for visiting! This genome browser was developed by the Veening lab at the University of Lausanne, Switzerland. If you have any questions or feedback, please contact us via email, or fill in the online form.'),
       React.createElement('p', null, 'Email: ', React.createElement("a", {href: "mailto:Veening.lab@gmail.com"}, "Veening.lab@gmail.com" )),
-      React.createElement('p', null, 'Online form: ', React.createElement("a", {href: "https://forms.gle/wp8gEPFE1thpL69A9"}, "link" )))
+      React.createElement('p', null, 'Online form: ', React.createElement("a", {href: "https://forms.gle/wp8gEPFE1thpL69A9"}, "link" )),
+      React.createElement('p', null, 'For more genome browsers developed by the Veening lab, please visit: ', React.createElement("a", {href: "https://www.veeninglab.com/resources"}, "https://www.veeninglab.com/resources" ), "."))
       return React.createElement('div', null, [contactcontent])
     }
     const DataaAvailabilityWidget = props => {
