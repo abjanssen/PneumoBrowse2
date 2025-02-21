@@ -1,0 +1,34 @@
+{
+  "dateCreated": "2025-02-21T19:20:15.354Z",
+  "tracks": [
+    {
+      "trackId": "TW31_sgRNA",
+      "attributesIndexed": [
+        "Name",
+        "ID",
+        "name"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon",
+        "id"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/TW31/TW31_sgRNA_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/TW31/TW31_sgRNA_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "TW31"
+  ]
+}

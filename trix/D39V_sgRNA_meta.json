@@ -1,0 +1,34 @@
+{
+  "dateCreated": "2025-02-21T19:20:06.228Z",
+  "tracks": [
+    {
+      "trackId": "D39V_sgRNA",
+      "attributesIndexed": [
+        "Name",
+        "ID",
+        "name"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon",
+        "id"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/D39V_sgRNA_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/D39V/D39V_sgRNA_sorted.gff.gz.tbi"
+          }
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "D39V"
+  ]
+}
