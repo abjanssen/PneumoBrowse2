@@ -1138,6 +1138,74 @@
       }
     },
     {
+      "type": "FeatureTrack",
+      "trackId": "D39V_sgRNA",
+      "name": "Gene level",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "CRISPRi"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/D39V_sgRNA_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/D39V/D39V_sgRNA_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "textSearching": {
+        "indexingAttributes": [
+          "Name",
+          "ID",
+          "name"
+        ],
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "D39V_sgRNA_sorted.gff-index",
+          "ixFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/D39V_sgRNA.ix"
+          },
+          "ixxFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/D39V_sgRNA.ixx"
+          },
+          "metaFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/D39V_sgRNA_meta.json"
+          },
+          "assemblyNames": [
+            "D39V"
+          ]
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "D39V_sgRNA_sorted.gff-LinearBasicDisplay",
+          "mouseover": "jexl:sgrnatarget(get(feature,'target_gene_name'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(53, 112, 137)"
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "D39V_sgRNA_sorted.gff-LinearArcDisplay"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{Source:'V. de Bakker', score:undefined, source:undefined, id:undefined, phase:undefined, Target_locus_tag:feature.target_locus_tag, target_locus_tag:undefined, Target_gene_name: feature.target_gene_name != feature.target_locus_tag ? italics(feature.target_gene_name) : null, target_gene_name:undefined}"
+      }
+    },
+    {
       "type": "QuantitativeTrack",
       "trackId": "HU_ChIP_seq",
       "name": "HU binding",
@@ -21436,7 +21504,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.2.26)",
+    "name": "PneumoBrowse 2 (v1.2.27)",
     "margin": 0,
     "views": [
       {
