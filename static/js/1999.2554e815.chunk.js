@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[1999],{11999:(s,a,e)=>{e.r(a),e.d(a,{backdropClasses:()=>l.A,default:()=>b.A,getBackdropUtilityClass:()=>l.R});var b=e(19937),l=e(32049)}}]);
