@@ -456,6 +456,7 @@ faka ["D39V%3A403475..405142"|"D39V_annotation_coding_features_sorted.gff"|"fakA
 fakb1 ["D39V%3A1410169..1411017"|"D39V_annotation_coding_features_sorted.gff"|"fakB1"|"SPD_1388"|"SPV_1388"|"spr1415"|"SP_1557"|"SPV_RS07375"],1
 fakb2 ["D39V%3A958527..959366"|"D39V_annotation_coding_features_sorted.gff"|"fakB2"|"SPD_0996"|"SPV_0996"|"spr1019"|"SP_1112"|"SPV_RS04995"],1
 fakb3 ["D39V%3A666519..667364"|"D39V_annotation_coding_features_sorted.gff"|"fakB3"|"SPD_0646"|"SPV_0646"|"spr0652"|"SP_0742"|"SPV_RS03470"],1
+fasr ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"fasR"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
 fatb ["D39V%3A1666776..1667741"|"D39V_annotation_coding_features_sorted.gff"|"piuA"|"SPD_1652"|"SPV_1652"|"spr1687"|"SP_1872"|"SPV_RS08805"|"fatB"],1
 fatc ["D39V%3A1664975..1665931"|"D39V_annotation_coding_features_sorted.gff"|"piuC"|"SPD_1650"|"SPV_1650"|"spr1685"|"SP_1870"|"SPV_RS08795"|"fatC"],1
 fatd ["D39V%3A1664026..1664985"|"D39V_annotation_coding_features_sorted.gff"|"piuB"|"SPD_1649"|"SPV_1649"|"spr1684"|"SP_1869"|"SPV_RS08790"|"fatD"],1
@@ -580,7 +581,7 @@ glpd ["D39V%3A1988305..1990131"|"D39V_annotation_coding_features_sorted.gff"|"gl
 glpf ["D39V%3A1337070..1337939"|"D39V_annotation_coding_features_sorted.gff"|"Pn-aqpC"|"SPD_1320"|"SPV_1320"|"spr1344"|"SP_1491"|"SPV_RS07020"|"glpF%20%20aqpC"],1 ["D39V%3A1987531..1988235"|"D39V_annotation_coding_features_sorted.gff"|"Pn-aqpB"|"SPD_2011"|"SPV_2011"|"spr1988"|"SP_2184"|"SPV_RS10640"|"aqpB%20%20glpF"],2
 glpk ["D39V%3A1990173..1991681"|"D39V_annotation_coding_features_sorted.gff"|"glpK"|"SPD_2013"|"SPV_2013"|"spr1991"|"SP_2186"|"SPV_RS10650"],1
 glpo ["D39V%3A1988305..1990131"|"D39V_annotation_coding_features_sorted.gff"|"glpO"|"SPD_2012"|"SPV_2012"|"spr1989"|"SP_2185"|"SPV_RS10645"|"glpD"],1
-gls24 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"],1
+gls24 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"|"spbhp-22"],1
 gltx ["D39V%3A1865536..1866996"|"D39V_annotation_coding_features_sorted.gff"|"gltX"|"SPD_1896"|"SPV_1896"|"spr1881"|"SP_2069"|"SPV_RS10055"],1
 glxk ["D39V%3A939373..940488"|"D39V_annotation_coding_features_sorted.gff"|"glxK"|"SPD_1011"|"SPV_1011"|"spr1034"|"SP_1126"|"SPV_RS04925"],1
 glya ["D39V%3A1042548..1043804"|"D39V_annotation_coding_features_sorted.gff"|"glyA"|"SPD_0910"|"SPV_0910"|"spr0928"|"SP_1024"|"SPV_RS05450"],1
@@ -1044,7 +1045,7 @@ pnp ["D39V%3A523797..526010"|"D39V_annotation_coding_features_sorted.gff"|"pnp"|
 pnpa ["D39V%3A523797..526010"|"D39V_annotation_coding_features_sorted.gff"|"pnp"|"SPD_0512"|"SPV_0512"|"spr0516"|"SP_0588"|"SPV_RS02750"|"pnpA"],1
 pnpr ["D39V%3A1880159..1880866"|"D39V_annotation_coding_features_sorted.gff"|"pnpR"|"SPD_1908"|"SPV_1908"|"spr1893"|"SP_2082"|"SPV_RS10115"|"phoP_pnpR"],1
 pnps ["D39V%3A1880867..1882198"|"D39V_annotation_coding_features_sorted.gff"|"pnpS"|"SPD_1909"|"SPV_1909"|"spr1894"|"SP_2083"|"SPV_RS10120"|"phoR-pnpS"],1
-pnra ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"],1
+pnra ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"|"spbhp-37"],1
 pnrb ["D39V%3A752078..753613"|"D39V_annotation_coding_features_sorted.gff"|"pnrB"|"SPD_0740"|"SPV_0740"|"spr0748"|"SP_0846"|"SPV_RS03980"],1
 pnrc ["D39V%3A753606..754664"|"D39V_annotation_coding_features_sorted.gff"|"pnrC"|"SPD_0741"|"SPV_0741"|"spr0749"|"SP_0847"|"SPV_RS03985"],1
 pnrd ["D39V%3A754667..755623"|"D39V_annotation_coding_features_sorted.gff"|"pnrD"|"SPD_0742"|"SPV_0742"|"spr0750"|"SP_0848"|"SPV_RS03990"],1
@@ -2197,7 +2198,7 @@ sp_0739 ["D39V%3A664036..664781"|"D39V_annotation_coding_features_sorted.gff"|"S
 sp_0740 ["D39V%3A664810..665265"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0644"|"SPD_0644"|"SPV_0644"|"spr0650"|"SP_0740"|"SPV_RS03460"],1
 sp_0741 ["D39V%3A665285..666460"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0645"|"SPD_0645"|"SPV_0645"|"spr0651"|"SP_0741"|"SPV_RS03465"],1
 sp_0742 ["D39V%3A666519..667364"|"D39V_annotation_coding_features_sorted.gff"|"fakB3"|"SPD_0646"|"SPV_0646"|"spr0652"|"SP_0742"|"SPV_RS03470"],1
-sp_0743 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0647"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
+sp_0743 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"fasR"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
 sp_0744 ["D39V%3A668065..668532"|"D39V_annotation_coding_features_sorted.gff"|"comEB"|"SPD_0648"|"SPV_0648"|"spr0654"|"SP_0744"|"SPV_RS03480"],1
 sp_0745 ["D39V%3A668600..669250"|"D39V_annotation_coding_features_sorted.gff"|"upp"|"SPD_0649"|"SPV_0649"|"spr0655"|"SP_0745"|"SPV_RS03485"],1
 sp_0746 ["D39V%3A669424..670014"|"D39V_annotation_coding_features_sorted.gff"|"clpP"|"SPD_0650"|"SPV_0650"|"spr0656"|"SP_0746"|"SPV_RS03490"],1
@@ -2285,7 +2286,7 @@ sp_0841 ["D39V%3A747872..748462"|"D39V_annotation_coding_features_sorted.gff"|"S
 sp_0842 ["D39V%3A748459..749736"|"D39V_annotation_coding_features_sorted.gff"|"pdp"|"SPD_0736"|"SPV_0736"|"spr0744"|"SP_0842"|"SPV_RS03960"],1
 sp_0843 ["D39V%3A749754..750416"|"D39V_annotation_coding_features_sorted.gff"|"deoC"|"SPD_0737"|"SPV_0737"|"spr0745"|"SP_0843"|"SPV_RS03965"],1
 sp_0844 ["D39V%3A750403..750792"|"D39V_annotation_coding_features_sorted.gff"|"cdd-1"|"SPD_0738"|"SPV_0738"|"spr0746"|"SP_0844"|"SPV_RS03970"|"cdd1"],1
-sp_0845 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"],1
+sp_0845 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"|"spbhp-37"],1
 sp_0846 ["D39V%3A752078..753613"|"D39V_annotation_coding_features_sorted.gff"|"pnrB"|"SPD_0740"|"SPV_0740"|"spr0748"|"SP_0846"|"SPV_RS03980"],1
 sp_0847 ["D39V%3A753606..754664"|"D39V_annotation_coding_features_sorted.gff"|"pnrC"|"SPD_0741"|"SPV_0741"|"spr0749"|"SP_0847"|"SPV_RS03985"],1
 sp_0848 ["D39V%3A754667..755623"|"D39V_annotation_coding_features_sorted.gff"|"pnrD"|"SPD_0742"|"SPV_0742"|"spr0750"|"SP_0848"|"SPV_RS03990"],1
@@ -3078,7 +3079,7 @@ sp_1800 ["D39V%3A1604777..1606258"|"D39V_annotation_coding_features_sorted.gff"|
 sp_1801 ["D39V%3A1606619..1606864"|"D39V_annotation_coding_features_sorted.gff"|"SPV_2393"|"SPV_2393"|"SP_1801"|"SPV_RS08460"],1
 sp_1802 ["D39V%3A1606948..1607514"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1588"|"SPD_1588"|"SPV_1588"|"spr1623"|"SP_1802"|"SPV_RS08465"],1
 sp_1803 ["D39V%3A1607526..1607696"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1589"|"SPD_1589"|"SPV_1589"|"spr1624"|"SP_1803"|"SPV_RS08470"],1
-sp_1804 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"],1
+sp_1804 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"|"spbhp-22"],1
 sp_1805 ["D39V%3A1608374..1608577"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1591"|"SPD_1591"|"SPV_1591"|"spr1626"|"SP_1805"|"SPV_RS08480"],1
 sp_1807 ["D39V%3A1609104..1609550"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1592"|"SPD_1592"|"SPV_1592"|"spr1627"|"SP_1807"|"SPV_RS08490"],1
 sp_1808 ["D39V%3A1609620..1610279"|"D39V_annotation_coding_features_sorted.gff"|"cclA"|"SPD_1593"|"SPV_1593"|"spr1628"|"SP_1808"|"SPV_RS08495"|"pilD%20%20cilC"],1
@@ -3562,6 +3563,8 @@ sp_rrnac5s ["D39V%3A1797830..1797945"|"D39V_annotation_coding_features_sorted.gf
 sp_rrnad16s ["D39V%3A1863094..1864655"|"D39V_annotation_coding_features_sorted.gff"|"rrsD"|"SPD_1893"|"SPV_1893"|"sprr12"|"SP_rrnaD16S"|"SPV_RS10040"],1
 sp_rrnad23s ["D39V%3A1859947..1862850"|"D39V_annotation_coding_features_sorted.gff"|"rrlD"|"SPD_1891"|"SPV_1891"|"sprr11"|"SP_rrnaD23S"|"SPV_RS10030"],1
 sp_rrnad5s ["D39V%3A1859755..1859870"|"D39V_annotation_coding_features_sorted.gff"|"rrfD"|"SPD_1890"|"SPV_1890"|"sprr10"|"SP_rrnaD5S"|"SPV_RS10025"],1
+spbhp-22 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"|"spbhp-22"],1
+spbhp-37 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"|"spbhp-37"],1
 spd-sr96 ["D39V%3A1759778..1759868"|"D39V_annotation_coding_features_sorted.gff"|"RNAswitch-29"|"Spd-sr96"],1
 spd_0001 ["D39V%3A1..1362"|"D39V_annotation_coding_features_sorted.gff"|"dnaA"|"SPD_0001"|"SPV_0001"|"spr0001"|"SP_0001"|"SPV_RS00005"],1
 spd_0002 ["D39V%3A1521..2657"|"D39V_annotation_coding_features_sorted.gff"|"dnaN"|"SPD_0002"|"SPV_0002"|"spr0002"|"SP_0002"|"SPV_RS00010"],1
@@ -4159,7 +4162,7 @@ spd_0643 ["D39V%3A664036..664781"|"D39V_annotation_coding_features_sorted.gff"|"
 spd_0644 ["D39V%3A664810..665265"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0644"|"SPD_0644"|"SPV_0644"|"spr0650"|"SP_0740"|"SPV_RS03460"],1
 spd_0645 ["D39V%3A665285..666460"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0645"|"SPD_0645"|"SPV_0645"|"spr0651"|"SP_0741"|"SPV_RS03465"],1
 spd_0646 ["D39V%3A666519..667364"|"D39V_annotation_coding_features_sorted.gff"|"fakB3"|"SPD_0646"|"SPV_0646"|"spr0652"|"SP_0742"|"SPV_RS03470"],1
-spd_0647 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0647"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
+spd_0647 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"fasR"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
 spd_0648 ["D39V%3A668065..668532"|"D39V_annotation_coding_features_sorted.gff"|"comEB"|"SPD_0648"|"SPV_0648"|"spr0654"|"SP_0744"|"SPV_RS03480"],1
 spd_0649 ["D39V%3A668600..669250"|"D39V_annotation_coding_features_sorted.gff"|"upp"|"SPD_0649"|"SPV_0649"|"spr0655"|"SP_0745"|"SPV_RS03485"],1
 spd_0650 ["D39V%3A669424..670014"|"D39V_annotation_coding_features_sorted.gff"|"clpP"|"SPD_0650"|"SPV_0650"|"spr0656"|"SP_0746"|"SPV_RS03490"],1
@@ -4244,7 +4247,7 @@ spd_0735 ["D39V%3A747872..748462"|"D39V_annotation_coding_features_sorted.gff"|"
 spd_0736 ["D39V%3A748459..749736"|"D39V_annotation_coding_features_sorted.gff"|"pdp"|"SPD_0736"|"SPV_0736"|"spr0744"|"SP_0842"|"SPV_RS03960"],1
 spd_0737 ["D39V%3A749754..750416"|"D39V_annotation_coding_features_sorted.gff"|"deoC"|"SPD_0737"|"SPV_0737"|"spr0745"|"SP_0843"|"SPV_RS03965"],1
 spd_0738 ["D39V%3A750403..750792"|"D39V_annotation_coding_features_sorted.gff"|"cdd-1"|"SPD_0738"|"SPV_0738"|"spr0746"|"SP_0844"|"SPV_RS03970"|"cdd1"],1
-spd_0739 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"],1
+spd_0739 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"|"spbhp-37"],1
 spd_0740 ["D39V%3A752078..753613"|"D39V_annotation_coding_features_sorted.gff"|"pnrB"|"SPD_0740"|"SPV_0740"|"spr0748"|"SP_0846"|"SPV_RS03980"],1
 spd_0741 ["D39V%3A753606..754664"|"D39V_annotation_coding_features_sorted.gff"|"pnrC"|"SPD_0741"|"SPV_0741"|"spr0749"|"SP_0847"|"SPV_RS03985"],1
 spd_0742 ["D39V%3A754667..755623"|"D39V_annotation_coding_features_sorted.gff"|"pnrD"|"SPD_0742"|"SPV_0742"|"spr0750"|"SP_0848"|"SPV_RS03990"],1
@@ -5022,7 +5025,7 @@ spd_1586 ["D39V%3A1603420..1604415"|"D39V_annotation_coding_features_sorted.gff"
 spd_1587 ["D39V%3A1604777..1606258"|"D39V_annotation_coding_features_sorted.gff"|"mga2"|"SPD_1587"|"SPV_1587"|"spr1622"|"SP_1800"|"SPV_RS08455"],1
 spd_1588 ["D39V%3A1606948..1607514"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1588"|"SPD_1588"|"SPV_1588"|"spr1623"|"SP_1802"|"SPV_RS08465"],1
 spd_1589 ["D39V%3A1607526..1607696"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1589"|"SPD_1589"|"SPV_1589"|"spr1624"|"SP_1803"|"SPV_RS08470"],1
-spd_1590 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"],1
+spd_1590 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"|"spbhp-22"],1
 spd_1591 ["D39V%3A1608374..1608577"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1591"|"SPD_1591"|"SPV_1591"|"spr1626"|"SP_1805"|"SPV_RS08480"],1
 spd_1592 ["D39V%3A1609104..1609550"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1592"|"SPD_1592"|"SPV_1592"|"spr1627"|"SP_1807"|"SPV_RS08490"],1
 spd_1593 ["D39V%3A1609620..1610279"|"D39V_annotation_coding_features_sorted.gff"|"cclA"|"SPD_1593"|"SPV_1593"|"spr1628"|"SP_1808"|"SPV_RS08495"|"pilD%20%20cilC"],1
@@ -6100,7 +6103,7 @@ spr0648 ["D39V%3A662568..663953"|"D39V_annotation_coding_features_sorted.gff"|"S
 spr0650 ["D39V%3A664810..665265"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0644"|"SPD_0644"|"SPV_0644"|"spr0650"|"SP_0740"|"SPV_RS03460"],1
 spr0651 ["D39V%3A665285..666460"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0645"|"SPD_0645"|"SPV_0645"|"spr0651"|"SP_0741"|"SPV_RS03465"],1
 spr0652 ["D39V%3A666519..667364"|"D39V_annotation_coding_features_sorted.gff"|"fakB3"|"SPD_0646"|"SPV_0646"|"spr0652"|"SP_0742"|"SPV_RS03470"],1
-spr0653 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0647"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
+spr0653 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"fasR"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
 spr0654 ["D39V%3A668065..668532"|"D39V_annotation_coding_features_sorted.gff"|"comEB"|"SPD_0648"|"SPV_0648"|"spr0654"|"SP_0744"|"SPV_RS03480"],1
 spr0655 ["D39V%3A668600..669250"|"D39V_annotation_coding_features_sorted.gff"|"upp"|"SPD_0649"|"SPV_0649"|"spr0655"|"SP_0745"|"SPV_RS03485"],1
 spr0656 ["D39V%3A669424..670014"|"D39V_annotation_coding_features_sorted.gff"|"clpP"|"SPD_0650"|"SPV_0650"|"spr0656"|"SP_0746"|"SPV_RS03490"],1
@@ -6186,7 +6189,7 @@ spr0743 ["D39V%3A747872..748462"|"D39V_annotation_coding_features_sorted.gff"|"S
 spr0744 ["D39V%3A748459..749736"|"D39V_annotation_coding_features_sorted.gff"|"pdp"|"SPD_0736"|"SPV_0736"|"spr0744"|"SP_0842"|"SPV_RS03960"],1
 spr0745 ["D39V%3A749754..750416"|"D39V_annotation_coding_features_sorted.gff"|"deoC"|"SPD_0737"|"SPV_0737"|"spr0745"|"SP_0843"|"SPV_RS03965"],1
 spr0746 ["D39V%3A750403..750792"|"D39V_annotation_coding_features_sorted.gff"|"cdd-1"|"SPD_0738"|"SPV_0738"|"spr0746"|"SP_0844"|"SPV_RS03970"|"cdd1"],1
-spr0747 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"],1
+spr0747 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"|"spbhp-37"],1
 spr0748 ["D39V%3A752078..753613"|"D39V_annotation_coding_features_sorted.gff"|"pnrB"|"SPD_0740"|"SPV_0740"|"spr0748"|"SP_0846"|"SPV_RS03980"],1
 spr0749 ["D39V%3A753606..754664"|"D39V_annotation_coding_features_sorted.gff"|"pnrC"|"SPD_0741"|"SPV_0741"|"spr0749"|"SP_0847"|"SPV_RS03985"],1
 spr0750 ["D39V%3A754667..755623"|"D39V_annotation_coding_features_sorted.gff"|"pnrD"|"SPD_0742"|"SPV_0742"|"spr0750"|"SP_0848"|"SPV_RS03990"],1
@@ -6957,7 +6960,7 @@ spr1621 ["D39V%3A1603420..1604415"|"D39V_annotation_coding_features_sorted.gff"|
 spr1622 ["D39V%3A1604777..1606258"|"D39V_annotation_coding_features_sorted.gff"|"mga2"|"SPD_1587"|"SPV_1587"|"spr1622"|"SP_1800"|"SPV_RS08455"],1
 spr1623 ["D39V%3A1606948..1607514"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1588"|"SPD_1588"|"SPV_1588"|"spr1623"|"SP_1802"|"SPV_RS08465"],1
 spr1624 ["D39V%3A1607526..1607696"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1589"|"SPD_1589"|"SPV_1589"|"spr1624"|"SP_1803"|"SPV_RS08470"],1
-spr1625 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"],1
+spr1625 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"|"spbhp-22"],1
 spr1626 ["D39V%3A1608374..1608577"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1591"|"SPD_1591"|"SPV_1591"|"spr1626"|"SP_1805"|"SPV_RS08480"],1
 spr1627 ["D39V%3A1609104..1609550"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1592"|"SPD_1592"|"SPV_1592"|"spr1627"|"SP_1807"|"SPV_RS08490"],1
 spr1628 ["D39V%3A1609620..1610279"|"D39V_annotation_coding_features_sorted.gff"|"cclA"|"SPD_1593"|"SPV_1593"|"spr1628"|"SP_1808"|"SPV_RS08495"|"pilD%20%20cilC"],1
@@ -8015,7 +8018,7 @@ spv_0643 ["D39V%3A664036..664781"|"D39V_annotation_coding_features_sorted.gff"|"
 spv_0644 ["D39V%3A664810..665265"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0644"|"SPD_0644"|"SPV_0644"|"spr0650"|"SP_0740"|"SPV_RS03460"],1
 spv_0645 ["D39V%3A665285..666460"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0645"|"SPD_0645"|"SPV_0645"|"spr0651"|"SP_0741"|"SPV_RS03465"],1
 spv_0646 ["D39V%3A666519..667364"|"D39V_annotation_coding_features_sorted.gff"|"fakB3"|"SPD_0646"|"SPV_0646"|"spr0652"|"SP_0742"|"SPV_RS03470"],1
-spv_0647 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0647"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
+spv_0647 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"fasR"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
 spv_0648 ["D39V%3A668065..668532"|"D39V_annotation_coding_features_sorted.gff"|"comEB"|"SPD_0648"|"SPV_0648"|"spr0654"|"SP_0744"|"SPV_RS03480"],1
 spv_0649 ["D39V%3A668600..669250"|"D39V_annotation_coding_features_sorted.gff"|"upp"|"SPD_0649"|"SPV_0649"|"spr0655"|"SP_0745"|"SPV_RS03485"],1
 spv_0650 ["D39V%3A669424..670014"|"D39V_annotation_coding_features_sorted.gff"|"clpP"|"SPD_0650"|"SPV_0650"|"spr0656"|"SP_0746"|"SPV_RS03490"],1
@@ -8100,7 +8103,7 @@ spv_0735 ["D39V%3A747872..748462"|"D39V_annotation_coding_features_sorted.gff"|"
 spv_0736 ["D39V%3A748459..749736"|"D39V_annotation_coding_features_sorted.gff"|"pdp"|"SPD_0736"|"SPV_0736"|"spr0744"|"SP_0842"|"SPV_RS03960"],1
 spv_0737 ["D39V%3A749754..750416"|"D39V_annotation_coding_features_sorted.gff"|"deoC"|"SPD_0737"|"SPV_0737"|"spr0745"|"SP_0843"|"SPV_RS03965"],1
 spv_0738 ["D39V%3A750403..750792"|"D39V_annotation_coding_features_sorted.gff"|"cdd-1"|"SPD_0738"|"SPV_0738"|"spr0746"|"SP_0844"|"SPV_RS03970"|"cdd1"],1
-spv_0739 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"],1
+spv_0739 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"|"spbhp-37"],1
 spv_0740 ["D39V%3A752078..753613"|"D39V_annotation_coding_features_sorted.gff"|"pnrB"|"SPD_0740"|"SPV_0740"|"spr0748"|"SP_0846"|"SPV_RS03980"],1
 spv_0741 ["D39V%3A753606..754664"|"D39V_annotation_coding_features_sorted.gff"|"pnrC"|"SPD_0741"|"SPV_0741"|"spr0749"|"SP_0847"|"SPV_RS03985"],1
 spv_0742 ["D39V%3A754667..755623"|"D39V_annotation_coding_features_sorted.gff"|"pnrD"|"SPD_0742"|"SPV_0742"|"spr0750"|"SP_0848"|"SPV_RS03990"],1
@@ -8878,7 +8881,7 @@ spv_1586 ["D39V%3A1603420..1604415"|"D39V_annotation_coding_features_sorted.gff"
 spv_1587 ["D39V%3A1604777..1606258"|"D39V_annotation_coding_features_sorted.gff"|"mga2"|"SPD_1587"|"SPV_1587"|"spr1622"|"SP_1800"|"SPV_RS08455"],1
 spv_1588 ["D39V%3A1606948..1607514"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1588"|"SPD_1588"|"SPV_1588"|"spr1623"|"SP_1802"|"SPV_RS08465"],1
 spv_1589 ["D39V%3A1607526..1607696"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1589"|"SPD_1589"|"SPV_1589"|"spr1624"|"SP_1803"|"SPV_RS08470"],1
-spv_1590 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"],1
+spv_1590 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"|"spbhp-22"],1
 spv_1591 ["D39V%3A1608374..1608577"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1591"|"SPD_1591"|"SPV_1591"|"spr1626"|"SP_1805"|"SPV_RS08480"],1
 spv_1592 ["D39V%3A1609104..1609550"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1592"|"SPD_1592"|"SPV_1592"|"spr1627"|"SP_1807"|"SPV_RS08490"],1
 spv_1593 ["D39V%3A1609620..1610279"|"D39V_annotation_coding_features_sorted.gff"|"cclA"|"SPD_1593"|"SPV_1593"|"spr1628"|"SP_1808"|"SPV_RS08495"|"pilD%20%20cilC"],1
@@ -10289,7 +10292,7 @@ spv_rs03455 ["D39V%3A664036..664781"|"D39V_annotation_coding_features_sorted.gff
 spv_rs03460 ["D39V%3A664810..665265"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0644"|"SPD_0644"|"SPV_0644"|"spr0650"|"SP_0740"|"SPV_RS03460"],1
 spv_rs03465 ["D39V%3A665285..666460"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0645"|"SPD_0645"|"SPV_0645"|"spr0651"|"SP_0741"|"SPV_RS03465"],1
 spv_rs03470 ["D39V%3A666519..667364"|"D39V_annotation_coding_features_sorted.gff"|"fakB3"|"SPD_0646"|"SPV_0646"|"spr0652"|"SP_0742"|"SPV_RS03470"],1
-spv_rs03475 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0647"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
+spv_rs03475 ["D39V%3A667489..668046"|"D39V_annotation_coding_features_sorted.gff"|"fasR"|"SPD_0647"|"SPV_0647"|"spr0653"|"SP_0743"|"SPV_RS03475"],1
 spv_rs03480 ["D39V%3A668065..668532"|"D39V_annotation_coding_features_sorted.gff"|"comEB"|"SPD_0648"|"SPV_0648"|"spr0654"|"SP_0744"|"SPV_RS03480"],1
 spv_rs03485 ["D39V%3A668600..669250"|"D39V_annotation_coding_features_sorted.gff"|"upp"|"SPD_0649"|"SPV_0649"|"spr0655"|"SP_0745"|"SPV_RS03485"],1
 spv_rs03490 ["D39V%3A669424..670014"|"D39V_annotation_coding_features_sorted.gff"|"clpP"|"SPD_0650"|"SPV_0650"|"spr0656"|"SP_0746"|"SPV_RS03490"],1
@@ -10375,7 +10378,7 @@ spv_rs03955 ["D39V%3A747872..748462"|"D39V_annotation_coding_features_sorted.gff
 spv_rs03960 ["D39V%3A748459..749736"|"D39V_annotation_coding_features_sorted.gff"|"pdp"|"SPD_0736"|"SPV_0736"|"spr0744"|"SP_0842"|"SPV_RS03960"],1
 spv_rs03965 ["D39V%3A749754..750416"|"D39V_annotation_coding_features_sorted.gff"|"deoC"|"SPD_0737"|"SPV_0737"|"spr0745"|"SP_0843"|"SPV_RS03965"],1
 spv_rs03970 ["D39V%3A750403..750792"|"D39V_annotation_coding_features_sorted.gff"|"cdd-1"|"SPD_0738"|"SPV_0738"|"spr0746"|"SP_0844"|"SPV_RS03970"|"cdd1"],1
-spv_rs03975 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"],1
+spv_rs03975 ["D39V%3A750882..751934"|"D39V_annotation_coding_features_sorted.gff"|"pnrA"|"SPD_0739"|"SPV_0739"|"spr0747"|"SP_0845"|"SPV_RS03975"|"spbhp-37"],1
 spv_rs03980 ["D39V%3A752078..753613"|"D39V_annotation_coding_features_sorted.gff"|"pnrB"|"SPD_0740"|"SPV_0740"|"spr0748"|"SP_0846"|"SPV_RS03980"],1
 spv_rs03985 ["D39V%3A753606..754664"|"D39V_annotation_coding_features_sorted.gff"|"pnrC"|"SPD_0741"|"SPV_0741"|"spr0749"|"SP_0847"|"SPV_RS03985"],1
 spv_rs03990 ["D39V%3A754667..755623"|"D39V_annotation_coding_features_sorted.gff"|"pnrD"|"SPD_0742"|"SPV_0742"|"spr0750"|"SP_0848"|"SPV_RS03990"],1
@@ -11165,7 +11168,7 @@ spv_rs08455 ["D39V%3A1604777..1606258"|"D39V_annotation_coding_features_sorted.g
 spv_rs08460 ["D39V%3A1606619..1606864"|"D39V_annotation_coding_features_sorted.gff"|"SPV_2393"|"SPV_2393"|"SP_1801"|"SPV_RS08460"],1
 spv_rs08465 ["D39V%3A1606948..1607514"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1588"|"SPD_1588"|"SPV_1588"|"spr1623"|"SP_1802"|"SPV_RS08465"],1
 spv_rs08470 ["D39V%3A1607526..1607696"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1589"|"SPD_1589"|"SPV_1589"|"spr1624"|"SP_1803"|"SPV_RS08470"],1
-spv_rs08475 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"],1
+spv_rs08475 ["D39V%3A1607735..1608343"|"D39V_annotation_coding_features_sorted.gff"|"gls24"|"SPD_1590"|"SPV_1590"|"spr1625"|"SP_1804"|"SPV_RS08475"|"spbhp-22"],1
 spv_rs08480 ["D39V%3A1608374..1608577"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1591"|"SPD_1591"|"SPV_1591"|"spr1626"|"SP_1805"|"SPV_RS08480"],1
 spv_rs08490 ["D39V%3A1609104..1609550"|"D39V_annotation_coding_features_sorted.gff"|"SPV_1592"|"SPD_1592"|"SPV_1592"|"spr1627"|"SP_1807"|"SPV_RS08490"],1
 spv_rs08495 ["D39V%3A1609620..1610279"|"D39V_annotation_coding_features_sorted.gff"|"cclA"|"SPD_1593"|"SPV_1593"|"spr1628"|"SP_1808"|"SPV_RS08495"|"pilD%20%20cilC"],1
