@@ -7116,7 +7116,7 @@
         "PJ755/1",
         "R1501",
         "SN36255",
-        "N75752",
+        "SN75752",
         "SP264",
         "Spn1439-106",
         "TIGR4",
@@ -7143,7 +7143,7 @@
           "PJ755/1",
           "R1501",
           "SN36255",
-          "N75752",
+          "SN75752",
           "SP264",
           "Spn1439-106",
           "TIGR4",
@@ -21912,7 +21912,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.3.10)",
+    "name": "PneumoBrowse 2 (v1.3.11)",
     "margin": 0,
     "views": [
       {
