@@ -1,6 +1,6 @@
 # Welcome to PneumoBrowse!
 
-Github repository for the PneumoBrowse genome browser of the Veening laboratory at the University of Lausanne, in Lausanne, Switzerland.
+Github repository for the PneumoBrowse genome browser for _Streptococcus pneumoniae_ of the Veening laboratory at the University of Lausanne, in Lausanne, Switzerland.
 Please visit the browser at https://pneumobrowse2.veeninglab.com/.
 A short manual can be found on the Veening lab website: https://veeninglab.com/pneumobrowse2.
 
