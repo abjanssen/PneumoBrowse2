@@ -29,7 +29,7 @@ export default class MyPlugin {
       React.createElement('p', null, 'PneumoBrowse 2: an integrated visual platform for curated genome annotation and multiomics data analysis of ',  React.createElement('i', null, 'Streptococcus pneumoniae'), "."),
       React.createElement('p', null, 'Axel B Janssen, Paddy S Gibson, Afonso M Bravo, Vincent de Bakker, Jelle Slager, Jan-Willem Veening'),
       React.createElement('p', null, 'Nucleic Acids Research, 2025, gkae923'),
-      React.createElement("span", null, React.createElement("a", {href: "https://doi.org/10.1093/nar/gkae923"}, "https://doi.org/10.1093/nar/gkae923" )))
+      React.createElement("span", null, React.createElement("a", {href: "https://doi.org/10.1093/nar/gkae923", target: "_blank", rel: "noopener noreferrer"}, "https://doi.org/10.1093/nar/gkae923" )))
       return React.createElement('div', null, [citecontent])
     }
     const ContactWidget = props => {
