@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[414],{60414(a,e,s){s.d(e,{executeClusterScoreMatrix:()=>n});var r=s(63678),t=s(74045);async function n({pluginManager:a,args:e}){const s=await(0,t.G)({pluginManager:a,args:e});return(0,r.D)({data:Object.values(s),stopToken:e.stopToken,onProgress:a=>{e.statusCallback?.(a)}})}}}]);
+//# sourceMappingURL=414.65056e48.chunk.js.map

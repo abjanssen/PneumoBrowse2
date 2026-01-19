@@ -1,2 +1,0 @@
-(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[5156,6235],{12598:function(b,e,o){b.exports=o(17753).enc.Utf8},25156:()=>{}}]);
-//# sourceMappingURL=6235.66cb8bd8.chunk.js.map

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[4646],{74646:(s,e,t)=>{t.r(e),t.d(e,{buttonClasses:()=>a.A,default:()=>b.A,getButtonUtilityClass:()=>a.B});var b=t(69092),a=t(39358)}}]);
