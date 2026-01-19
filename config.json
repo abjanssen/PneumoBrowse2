@@ -30,7 +30,6 @@
   },
   "plugins": [
   { "name": "MsaView", "umdLoc": { "uri": "plugins/jbrowse-plugin-msaview.umd.production.min.js" } },
-  { "name": "NucContent", "umdLoc": { "uri": "plugins/jbrowsepluginnuccontent.umd.production.min.js" } },
   { "name": "Protein3d", "umdLoc": { "uri": "plugins/jbrowse-plugin-protein3d.umd.production.min.js" } },
   { "name": "ReferenceContactsWidget", "esmLoc": { "uri": "plugins/ReferenceContactsWidget.js" } },
   { "name": "FoldEnriched", "umdLoc": { "uri": "plugins/FoldEnriched.js" } },
@@ -74,9 +73,7 @@
           },
           {
             "type": "LinearGCContentDisplay",
-            "displayId": "D39V.fna-ReferenceSequenceTrack-LinearGCContentDisplay",
-            "fetchSizeLimit": 999999,
-            "windowSize": 1000
+            "displayId": "D39V.fna-ReferenceSequenceTrack-LinearGCContentDisplay"
           }
         ]
       }
@@ -1250,8 +1247,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_D39V",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_D39V",
       "name": "GC content",
       "assemblyNames": [
         "D39V"
@@ -1261,37 +1258,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/D39V/D39V.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/D39V/D39V.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/D39V/D39V.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/D39V/D39V.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/D39V/D39V.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_D39V-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_D39V-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "MultiQuantitativeTrack",
@@ -2018,8 +2009,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_TIGR4",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_TIGR4",
       "name": "GC content",
       "assemblyNames": [
         "TIGR4"
@@ -2029,37 +2020,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/TIGR4/TIGR4.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/TIGR4/TIGR4.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/TIGR4/TIGR4.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/TIGR4/TIGR4.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/TIGR4/TIGR4.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_TIGR4-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_TIGR4-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -2357,8 +2342,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_EF3030",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_EF3030",
       "name": "GC content",
       "assemblyNames": [
         "EF3030"
@@ -2368,37 +2353,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/EF3030/EF3030.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/EF3030/EF3030.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/EF3030/EF3030.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/EF3030/EF3030.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/EF3030/EF3030.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_EF3030-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_EF3030-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -2742,8 +2721,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_SP264",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_SP264",
       "name": "GC content",
       "assemblyNames": [
         "SP264"
@@ -2753,37 +2732,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/SP264/SP264.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/SP264/SP264.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/SP264/SP264.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/SP264/SP264.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/SP264/SP264.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_SP264-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_SP264-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -3013,8 +2986,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_GM17",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_GM17",
       "name": "GC content",
       "assemblyNames": [
         "GM17"
@@ -3024,37 +2997,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/GM17/GM17.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/GM17/GM17.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/GM17/GM17.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/GM17/GM17.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/GM17/GM17.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_GM17-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_GM17-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -3284,8 +3251,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_M2643",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_M2643",
       "name": "GC content",
       "assemblyNames": [
         "M264-3"
@@ -3295,37 +3262,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/M2643/M2643.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/M2643/M2643.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/M2643/M2643.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/M2643/M2643.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/M2643/M2643.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_M2643-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_M2643-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -3577,8 +3538,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_SN75752",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_SN75752",
       "name": "GC content",
       "assemblyNames": [
         "SN75752"
@@ -3588,37 +3549,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/SN75752/SN75752.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/SN75752/SN75752.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/SN75752/SN75752.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/SN75752/SN75752.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/SN75752/SN75752.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_SN75752-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_SN75752-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -3848,8 +3803,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_DCC1476",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_DCC1476",
       "name": "GC content",
       "assemblyNames": [
         "DCC1476"
@@ -3859,37 +3814,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/DCC1476/DCC1476.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/DCC1476/DCC1476.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/DCC1476/DCC1476.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/DCC1476/DCC1476.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/DCC1476/DCC1476.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_DCC1476-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_DCC1476-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -4187,8 +4136,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_Spn1439-106",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_Spn1439-106",
       "name": "GC content",
       "assemblyNames": [
         "Spn1439-106"
@@ -4198,37 +4147,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/Spn1439-106/Spn1439-106.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/Spn1439-106/Spn1439-106.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/Spn1439-106/Spn1439-106.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/Spn1439-106/Spn1439-106.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/Spn1439-106/Spn1439-106.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_Spn1439-106-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_Spn1439-106-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -4458,8 +4401,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_SN36255",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_SN36255",
       "name": "GC content",
       "assemblyNames": [
         "SN36255"
@@ -4469,37 +4412,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/SN36255/SN36255.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/SN36255/SN36255.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/SN36255/SN36255.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/SN36255/SN36255.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/SN36255/SN36255.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_SN36255-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_SN36255-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -4797,8 +4734,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_TW31",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_TW31",
       "name": "GC content",
       "assemblyNames": [
         "TW31"
@@ -4808,37 +4745,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/TW31/TW31.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/TW31/TW31.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/TW31/TW31.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/TW31/TW31.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/TW31/TW31.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_TW31-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_TW31-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -5068,8 +4999,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_TL7_1993",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_TL7_1993",
       "name": "GC content",
       "assemblyNames": [
         "TL7/1993"
@@ -5079,37 +5010,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/TL7_1993/TL7_1993.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/TL7_1993/TL7_1993.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/TL7_1993/TL7_1993.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/TL7_1993/TL7_1993.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/TL7_1993/TL7_1993.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_TL7_1993-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_TL7_1993-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -5339,8 +5264,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_PJ7551",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_PJ7551",
       "name": "GC content",
       "assemblyNames": [
         "PJ755/1"
@@ -5350,37 +5275,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/PJ7551/PJ7551.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/PJ7551/PJ7551.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/PJ7551/PJ7551.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/PJ7551/PJ7551.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/PJ7551/PJ7551.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_PJ7551-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_PJ7551-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -5610,8 +5529,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_BM6001",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_BM6001",
       "name": "GC content",
       "assemblyNames": [
         "BM6001"
@@ -5621,37 +5540,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/BM6001/BM6001.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/BM6001/BM6001.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/BM6001/BM6001.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/BM6001/BM6001.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/BM6001/BM6001.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_BM6001-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_BM6001-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -5949,8 +5862,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_BHN418",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_BHN418",
       "name": "GC content",
       "assemblyNames": [
         "BHN418"
@@ -5960,37 +5873,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/BHN418/BHN418.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/BHN418/BHN418.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/BHN418/BHN418.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/BHN418/BHN418.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/BHN418/BHN418.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_BHN418-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_BHN418-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -6220,8 +6127,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_DP1322",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_DP1322",
       "name": "GC content",
       "assemblyNames": [
         "DP1322"
@@ -6231,37 +6138,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/DP1322/DP1322.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/DP1322/DP1322.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/DP1322/DP1322.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/DP1322/DP1322.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/DP1322/DP1322.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_DP1322-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_DP1322-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -6491,8 +6392,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_LILPNEUHC_19F",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_LILPNEUHC_19F",
       "name": "GC content",
       "assemblyNames": [
         "LILPNEUHC 19F"
@@ -6502,37 +6403,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/LILPNEUHC_19F/LILPNEUHC_19F.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/LILPNEUHC_19F/LILPNEUHC_19F.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_LILPNEUHC_19F-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_LILPNEUHC_19F-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -6762,8 +6657,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_4954-98",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_4954-98",
       "name": "GC content",
       "assemblyNames": [
         "4954-98"
@@ -6773,37 +6668,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/4954-98/4954-98.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/4954-98/4954-98.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/4954-98/4954-98.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/4954-98/4954-98.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/4954-98/4954-98.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_4954-98-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_4954-98-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "FeatureTrack",
@@ -6987,8 +6876,8 @@
       }
     },
     {
-      "type": "NucContentTrack",
-      "trackId": "gc_content_dynamic_R1501",
+      "type": "GCContentTrack",
+      "trackId": "gc_content_R1501",
       "name": "GC content",
       "assemblyNames": [
         "R1501"
@@ -6998,37 +6887,31 @@
         "Miscellaneous"
       ],
       "adapter": {
-        "type": "NucContentAdapter",
-        "sequenceAdapter": {
-          "type": "BgzipFastaAdapter",
-          "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/R1501/R1501.fna.gz"
-          },
-          "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/R1501/R1501.fna.gz.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
-          },
-          "gziLocation": {
-            "locationType": "UriLocation",
-            "uri": "data/R1501/R1501.fna.gz.gzi"
-          }
+        "type": "IndexedFastaAdapter",
+        "fastaLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/R1501/R1501.fna"
         },
-        "windowSize": 200,
-        "windowOverlap": 10
+        "faiLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/R1501/R1501.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
+        }
       },
       "displays": [
-        {
-          "type": "NucContentDisplay",
-          "displayId": "gc_content_dynamic_R1501-NucContentDisplay",
-          "minScore": 0,
-          "maxScore": 0.8
-        }
-      ]
+          {
+              "id": "j4N3EAiK2tC1KfjZwIiX-",
+              "type": "LinearGCContentTrackDisplay",
+              "configuration": "gc_content_R1501-LinearGCContentTrackDisplay",
+              "selectedRendering": "",
+              "resolution": 1,
+              "windowSize": 200,
+              "windowDelta": 20
+              }
+            ]
     },
     {
       "type": "SyntenyTrack",
@@ -21844,7 +21727,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.3.27)",
+    "name": "PneumoBrowse 2 (v1.4.0)",
     "margin": 0,
     "views": [
       {
