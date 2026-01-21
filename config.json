@@ -29,22 +29,97 @@
     }
   },
   "plugins": [
-  { "name": "MsaView", "umdLoc": { "uri": "plugins/jbrowse-plugin-msaview.umd.production.min.js" } },
-  { "name": "Protein3d", "umdLoc": { "uri": "plugins/jbrowse-plugin-protein3d.umd.production.min.js" } },
-  { "name": "ReferenceContactsWidget", "esmLoc": { "uri": "plugins/ReferenceContactsWidget.js" } },
-  { "name": "FoldEnriched", "umdLoc": { "uri": "plugins/FoldEnriched.js" } },
-  { "name": "Inference", "umdLoc": { "uri": "plugins/Inference.js" } },
-  { "name": "JSONParse", "umdLoc": { "uri": "plugins/JSONParse.js" } },
-  { "name": "NanoporeScore", "umdLoc": { "uri": "plugins/NanoporeScore.js" } },
-  { "name": "QVScore", "umdLoc": { "uri": "plugins/QVScore.js" } },
-  { "name": "sgRNATarget", "umdLoc": { "uri": "plugins/sgRNATarget.js" } },
-  { "name": "Capital", "umdLoc": { "uri": "plugins/Capital.js" } },
-  { "name": "Italicize", "umdLoc": { "uri": "plugins/Italicize.js" } },
-  { "name": "RemoveCOG", "umdLoc": { "uri": "plugins/RemoveCOG.js" } },
-  { "name": "RemoveQuotes", "umdLoc": { "uri": "plugins/RemoveQuotes.js" } },
-  { "name": "ReplaceSpaces", "umdLoc": { "uri": "plugins/ReplaceSpaces.js" } },
-  { "name": "ReplaceUnderslashCapitalize", "umdLoc": { "uri": "plugins/ReplaceUnderslashCapitalize.js" } }
-],
+    {
+      "name": "MsaView",
+      "umdLoc": {
+        "uri": "plugins/jbrowse-plugin-msaview.umd.production.min.js"
+      }
+    },
+    {
+      "name": "Protein3d",
+      "umdLoc": {
+        "uri": "plugins/jbrowse-plugin-protein3d.umd.production.min.js"
+      }
+    },
+    {
+      "name": "ReferenceContactsWidget",
+      "esmLoc": {
+        "uri": "plugins/ReferenceContactsWidget.js"
+      }
+    },
+    {
+      "name": "FoldEnriched",
+      "umdLoc": {
+        "uri": "plugins/FoldEnriched.js"
+      }
+    },
+    {
+      "name": "Inference",
+      "umdLoc": {
+        "uri": "plugins/Inference.js"
+      }
+    },
+    {
+      "name": "JSONParse",
+      "umdLoc": {
+        "uri": "plugins/JSONParse.js"
+      }
+    },
+    {
+      "name": "NanoporeScore",
+      "umdLoc": {
+        "uri": "plugins/NanoporeScore.js"
+      }
+    },
+    {
+      "name": "QVScore",
+      "umdLoc": {
+        "uri": "plugins/QVScore.js"
+      }
+    },
+    {
+      "name": "sgRNATarget",
+      "umdLoc": {
+        "uri": "plugins/sgRNATarget.js"
+      }
+    },
+    {
+      "name": "Capital",
+      "umdLoc": {
+        "uri": "plugins/Capital.js"
+      }
+    },
+    {
+      "name": "Italicize",
+      "umdLoc": {
+        "uri": "plugins/Italicize.js"
+      }
+    },
+    {
+      "name": "RemoveCOG",
+      "umdLoc": {
+        "uri": "plugins/RemoveCOG.js"
+      }
+    },
+    {
+      "name": "RemoveQuotes",
+      "umdLoc": {
+        "uri": "plugins/RemoveQuotes.js"
+      }
+    },
+    {
+      "name": "ReplaceSpaces",
+      "umdLoc": {
+        "uri": "plugins/ReplaceSpaces.js"
+      }
+    },
+    {
+      "name": "ReplaceUnderslashCapitalize",
+      "umdLoc": {
+        "uri": "plugins/ReplaceUnderslashCapitalize.js"
+      }
+    }
+  ],
   "assemblies": [
     {
       "name": "D39V",
@@ -1273,16 +1348,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_D39V-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_D39V-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "MultiQuantitativeTrack",
@@ -2035,16 +2110,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_TIGR4-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_TIGR4-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -2368,16 +2443,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_EF3030-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_EF3030-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -2747,16 +2822,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_SP264-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_SP264-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -3012,16 +3087,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_GM17-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_GM17-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -3277,16 +3352,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_M2643-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_M2643-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -3564,16 +3639,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_SN75752-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_SN75752-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -3829,16 +3904,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_DCC1476-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_DCC1476-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -4162,16 +4237,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_Spn1439-106-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_Spn1439-106-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -4427,16 +4502,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_SN36255-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_SN36255-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -4760,16 +4835,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_TW31-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_TW31-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -5025,16 +5100,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_TL7_1993-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_TL7_1993-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -5290,16 +5365,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_PJ7551-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_PJ7551-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -5555,16 +5630,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_BM6001-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_BM6001-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -5888,16 +5963,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_BHN418-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_BHN418-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -6153,16 +6228,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_DP1322-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_DP1322-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -6418,16 +6493,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_LILPNEUHC_19F-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_LILPNEUHC_19F-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -6683,16 +6758,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_4954-98-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_4954-98-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -6902,16 +6977,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_R1501-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_R1501-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "SyntenyTrack",
@@ -21696,71 +21771,948 @@
       "formatDetails": {
         "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
       }
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 2, forward",
+      "name": "VL5571, liquid, replicate 2, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/10_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 2, reverse",
+      "name": "VL5571, liquid, replicate 2, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/10_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 2, all reads",
+      "name": "VL5571, liquid, replicate 2, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/10_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 3, forward",
+      "name": "VL5571, liquid, replicate 3, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/11_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 3, reverse",
+      "name": "VL5571, liquid, replicate 3, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/11_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 3, all reads",
+      "name": "VL5571, liquid, replicate 3, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/11_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 4, forward",
+      "name": "VL5571, liquid, replicate 4, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/12_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 4, reverse",
+      "name": "VL5571, liquid, replicate 4, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/12_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 4, all reads",
+      "name": "VL5571, liquid, replicate 4, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/12_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 1, forward",
+      "name": "VL7416, liquid, replicate 1, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/13_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 1, reverse",
+      "name": "VL7416, liquid, replicate 1, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/13_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 1, all reads",
+      "name": "VL7416, liquid, replicate 1, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/13_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 2, forward",
+      "name": "VL7416, liquid, replicate 2, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/14_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 2, reverse",
+      "name": "VL7416, liquid, replicate 2, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/14_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 2, all reads",
+      "name": "VL7416, liquid, replicate 2, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/14_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 3, forward",
+      "name": "VL7416, liquid, replicate 3, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/15_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 3, reverse",
+      "name": "VL7416, liquid, replicate 3, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/15_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 3, all reads",
+      "name": "VL7416, liquid, replicate 3, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/15_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 4, forward",
+      "name": "VL7416, liquid, replicate 4, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/16_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 4, reverse",
+      "name": "VL7416, liquid, replicate 4, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/16_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, liquid, replicate 4, all reads",
+      "name": "VL7416, liquid, replicate 4, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/16_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 1, forward",
+      "name": "VL5571, plate, replicate 1, forward",
+      "assemblyNames": [
+        "DP1322"
+      ],
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "./data/DP1322/1_forward.bw"
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearWiggleDisplay",
+          "displayId": "VL5571, plate, replicate 1, forward-LinearWiggleDisplay"
+        }
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 1, reverse",
+      "name": "VL5571, plate, replicate 1, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/1_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 1, all reads",
+      "name": "VL5571, plate, replicate 1, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/1_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 2, forward",
+      "name": "VL5571, plate, replicate 2, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/2_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 2, reverse",
+      "name": "VL5571, plate, replicate 2, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/2_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 2, all reads",
+      "name": "VL5571, plate, replicate 2, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/2_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 3, forward",
+      "name": "VL5571, plate, replicate 3, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/3_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 3, reverse",
+      "name": "VL5571, plate, replicate 3, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/3_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 3, all reads",
+      "name": "VL5571, plate, replicate 3, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/3_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 4, forward",
+      "name": "VL5571, plate, replicate 4, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/4_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 4, reverse",
+      "name": "VL5571, plate, replicate 4, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/4_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, plate, replicate 4, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "name": "VL5571, plate, replicate 4, all reads",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/4_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 1, forward",
+      "name": "VL7416, plate, replicate 1, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/5_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 1, reverse",
+      "name": "VL7416, plate, replicate 1, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/5_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 1, all reads",
+      "name": "VL7416, plate, replicate 1, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/5_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 2, forward",
+      "name": "VL7416, plate, replicate 2, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/6_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 2, reverse",
+      "name": "VL7416, plate, replicate 2, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/6_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 2, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "name": "VL7416, plate, replicate 2, all reads",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/6_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 3, forward",
+      "name": "VL7416, plate, replicate 3, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/7_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 3, reverse",
+      "name": "VL7416, plate, replicate 3, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/7_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 3, all reads",
+      "name": "VL7416, plate, replicate 3, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/7_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 4, forward",
+      "name": "VL7416, plate, replicate 4, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/8_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 4, reverse",
+      "name": "VL7416, plate, replicate 4, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/8_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL7416, plate, replicate 4, all reads",
+      "name": "VL7416, plate, replicate 4, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/8_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 1, forward",
+      "name": "VL5571, liquid, replicate 1, forward",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/9_forward.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 1, reverse",
+      "name": "VL5571, liquid, replicate 1, reverse",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/9_reverse.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "VL5571, liquid, replicate 1, all reads",
+      "name": "VL5571, liquid, replicate 1, all reads",
+      "category": [
+        "Genome characteristics",
+        "RNA Sequencing"
+      ],
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "./data/DP1322/9_sorted.bw",
+          "locationType": "UriLocation"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ]
     }
   ],
   "internetAccounts": [],
   "aggregateTextSearchAdapters": [],
   "connections": [],
   "defaultSession": {
-    "drawerPosition": "left",
-    "drawerWidth": 384,
-    "widgets": {
-      "GridBookmark": {
-        "id": "GridBookmark",
-        "type": "GridBookmarkWidget"
-      },
-      "hierarchicalTrackSelector": {
-        "id": "hierarchicalTrackSelector",
-        "type": "HierarchicalTrackSelectorWidget",
-        "view": "BGqBniRRjHVp_2s_V4lxj",
-        "faceted": {
-          "filterText": "",
-          "showSparse": false,
-          "showFilters": true,
-          "showOptions": false,
-          "panelWidth": 400
-        }
-      }
-    },
-    "activeWidgets": {
-      "hierarchicalTrackSelector": "hierarchicalTrackSelector"
-    },
-    "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.4.0)",
-    "margin": 0,
+    "name": "PneumoBrowse 2 (v1.4.0:Jesus) 21/01/2026, 17:15:48",
     "views": [
       {
         "id": "iWNwf111cJScnFK2Hxg6H",
         "displayName": "4954-98 (PMEN18 reference strain) (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "4954-98_1",
-            "start": 0,
-            "end": 2156985,
-            "reversed": false,
-            "assemblyName": "4954-98"
-          }
-        ],
         "tracks": [
           {
             "id": "2ckY8aKmW5CM1phN-pIhr",
             "type": "ReferenceSequenceTrack",
             "configuration": "4954-98.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "6mQeTClup09WStQN9IY_C",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "4954-98.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "4954-98.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -21768,7 +22720,6 @@
             "id": "FiV4K4YHVjERRbMd7qgME",
             "type": "FeatureTrack",
             "configuration": "4954-98_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "VJUhkokYVroVuV_lNhjEm",
@@ -21778,50 +22729,33 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "4954-98_1",
+            "start": 0,
+            "end": 2156985,
+            "reversed": false,
+            "assemblyName": "4954-98"
+          }
+        ]
       },
       {
         "id": "uydw-gfd4pVjvzGqXlJJ-",
         "displayName": "BHN418 (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "BHN418",
-            "start": 0,
-            "end": 2114355,
-            "reversed": false,
-            "assemblyName": "BHN418"
-          }
-        ],
         "tracks": [
           {
             "id": "s9tl7Dmv_O9VbJwdGaLEF",
             "type": "ReferenceSequenceTrack",
             "configuration": "BHN418.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "xGBBzD6028GUaaXLwFRLF",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "BHN418.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "BHN418.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -21829,7 +22763,6 @@
             "id": "xgSWnPnJ9lF8Cq77Y2zw2",
             "type": "FeatureTrack",
             "configuration": "BHN418_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "VjRigjYe-oHTLS56ei6tp",
@@ -21839,49 +22772,32 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "et1bx53hofs27NMcFnmwF",
         "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "BM6001_1",
+            "refName": "BHN418",
             "start": 0,
-            "end": 2293755,
+            "end": 2114355,
             "reversed": false,
-            "assemblyName": "BM6001"
+            "assemblyName": "BHN418"
           }
-        ],
+        ]
+      },
+      {
+        "id": "et1bx53hofs27NMcFnmwF",
+        "type": "LinearGenomeView",
         "tracks": [
           {
             "id": "D95ut9QfdnoP2KJ-unpiG",
             "type": "ReferenceSequenceTrack",
             "configuration": "BM6001.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "VVmhT5zk8PKvFqZGJfwxP",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "BM6001.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "BM6001.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -21889,7 +22805,6 @@
             "id": "-d6E7qA8yI87yiAf5O-qj",
             "type": "FeatureTrack",
             "configuration": "BM6001_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "zmf8XvQYmHVQyqkJZswtl",
@@ -21899,49 +22814,32 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "BGqBniRRjHVp_2s_V4lxj",
-        "minimized": false,
-        "type": "LinearGenomeView",
-        "offsetPx": -3,
+        "minimized": true,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "D39V",
+            "refName": "BM6001_1",
             "start": 0,
-            "end": 2046572,
+            "end": 2293755,
             "reversed": false,
-            "assemblyName": "D39V"
+            "assemblyName": "BM6001"
           }
-        ],
+        ]
+      },
+      {
+        "id": "BGqBniRRjHVp_2s_V4lxj",
+        "type": "LinearGenomeView",
         "tracks": [
           {
             "id": "NbAQ602mxmwpDB5nQ1L5D",
             "type": "ReferenceSequenceTrack",
             "configuration": "D39V.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "DsfGSJoCg2aajkYHU0erD",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "D39V.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "D39V.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -21949,7 +22847,6 @@
             "id": "5jFZHSelCBjxFomiWucqR",
             "type": "FeatureTrack",
             "configuration": "D39V_180601_operons",
-            "minimized": false,
             "displays": [
               {
                 "id": "tvWRLUrV0ynRLE8Nl7eDa",
@@ -21962,7 +22859,6 @@
             "id": "yEkL4XXCiq-jkPoablcnh",
             "type": "FeatureTrack",
             "configuration": "D39V_annotation_coding_features_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "-X2blMfJpqSHcL12y0VBY",
@@ -21972,50 +22868,34 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "offsetPx": -3,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "D39V",
+            "start": 0,
+            "end": 2046572,
+            "reversed": false,
+            "assemblyName": "D39V"
+          }
+        ]
       },
       {
         "id": "livZU8pZD5iebZK2GZlE0",
         "displayName": "DCC1476 (PMEN25 reference strain) (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "DCC1476",
-            "start": 0,
-            "end": 2157375,
-            "reversed": false,
-            "assemblyName": "DCC1476"
-          }
-        ],
         "tracks": [
           {
             "id": "JHDp7qqAfBl-WInVfSVjz",
             "type": "ReferenceSequenceTrack",
             "configuration": "DCC1476.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "bb6EdNHIp_N8emyVpjq4H",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "DCC1476.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "DCC1476.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22023,7 +22903,6 @@
             "id": "DbtGZw_X8eSlkxBebEx4N",
             "type": "FeatureTrack",
             "configuration": "DCC1476_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "jb9HTiKvGAihw3CvVfheN",
@@ -22033,49 +22912,32 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "qptliEO1HiKXce1me7sZ0",
         "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "DP1322",
+            "refName": "DCC1476",
             "start": 0,
-            "end": 2095224,
+            "end": 2157375,
             "reversed": false,
-            "assemblyName": "DP1322"
+            "assemblyName": "DCC1476"
           }
-        ],
+        ]
+      },
+      {
+        "id": "qptliEO1HiKXce1me7sZ0",
+        "type": "LinearGenomeView",
         "tracks": [
           {
             "id": "au1vf-z7L2nPI-9ghV1K4",
             "type": "ReferenceSequenceTrack",
             "configuration": "DP1322.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "B9bNd0laW9RTNmgWJnpSH",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "DP1322.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "DP1322.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22083,7 +22945,6 @@
             "id": "_LLsmPunhX3ku8xBS4bj_",
             "type": "FeatureTrack",
             "configuration": "DP1322_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "tu1PLVZHQLvQ7clwGLgib",
@@ -22093,49 +22954,32 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "164lrja1PhtK8f0Ohms6H",
-        "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
+        "offsetPx": 4.333333421636516,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "EF3030_1",
+            "refName": "DP1322",
             "start": 0,
-            "end": 2096494,
+            "end": 2095224,
             "reversed": false,
-            "assemblyName": "EF3030"
+            "assemblyName": "DP1322"
           }
-        ],
+        ]
+      },
+      {
+        "id": "164lrja1PhtK8f0Ohms6H",
+        "type": "LinearGenomeView",
         "tracks": [
           {
             "id": "D6Ualf_mYeWMLTQgCNtKw",
             "type": "ReferenceSequenceTrack",
             "configuration": "EF3030.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "rHcIZIJ7vZYULNxheyoU0",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "EF3030.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "EF3030.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22143,7 +22987,6 @@
             "id": "WfzW0Zp-xPJxsf2iVN53_",
             "type": "FeatureTrack",
             "configuration": "EF3030_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "D2iksgUzVG1yR8vHifdhm",
@@ -22153,50 +22996,33 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "EF3030_1",
+            "start": 0,
+            "end": 2096494,
+            "reversed": false,
+            "assemblyName": "EF3030"
+          }
+        ]
       },
       {
         "id": "G0ozicfahw0hv7A4FRn4x",
         "displayName": "GM17 (PMEN2 reference strain) (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "GM17",
-            "start": 0,
-            "end": 2265408,
-            "reversed": false,
-            "assemblyName": "GM17"
-          }
-        ],
         "tracks": [
           {
             "id": "4UuDRI9zBRjhkpyLk8CCr",
             "type": "ReferenceSequenceTrack",
             "configuration": "GM17.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "LVvJLLiTs15FCZRTZ7qp-",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "GM17.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "GM17.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22204,7 +23030,6 @@
             "id": "m1GitKqTC68hJxnqvj2Rq",
             "type": "FeatureTrack",
             "configuration": "GM17_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "KO2J4d5I_B007tGmBvD37",
@@ -22214,49 +23039,32 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "OVqJIY8KONcCg_mUTclIc",
         "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "LILPNEUHC_19F_1",
+            "refName": "GM17",
             "start": 0,
-            "end": 2255652,
+            "end": 2265408,
             "reversed": false,
-            "assemblyName": "LILPNEUHC 19F"
+            "assemblyName": "GM17"
           }
-        ],
+        ]
+      },
+      {
+        "id": "OVqJIY8KONcCg_mUTclIc",
+        "type": "LinearGenomeView",
         "tracks": [
           {
             "id": "ot4vh8Abu7XgNfE2AJ9_P",
             "type": "ReferenceSequenceTrack",
             "configuration": "LILPNEUHC_19F.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "XAr76qawEyamfD754LknO",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "LILPNEUHC_19F.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "LILPNEUHC_19F.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22264,7 +23072,6 @@
             "id": "-IWZ_s9eUFme2ScpScxTP",
             "type": "FeatureTrack",
             "configuration": "LILPNEUHC_19F_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "W5Bt-FFqDiYe4XsF77DQH",
@@ -22274,50 +23081,33 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "LILPNEUHC_19F_1",
+            "start": 0,
+            "end": 2255652,
+            "reversed": false,
+            "assemblyName": "LILPNEUHC 19F"
+          }
+        ]
       },
       {
         "id": "OoZ64KkBwtkJWOMrP2Rt3",
         "displayName": "M264-3 (PMEN31 reference strain) (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "M264-3",
-            "start": 0,
-            "end": 2037678,
-            "reversed": false,
-            "assemblyName": "M264-3"
-          }
-        ],
         "tracks": [
           {
             "id": "V7ci19h0EFHIsjiFoDnrc",
             "type": "ReferenceSequenceTrack",
             "configuration": "M2643.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "4MyYep9k6pAtrFv-ae371",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "M2643.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "M2643.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22325,7 +23115,6 @@
             "id": "6nKY1VfhZm11m7Abwxu4p",
             "type": "FeatureTrack",
             "configuration": "M2643_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "1IHAZeu1kEQP9raY-OmO-",
@@ -22335,50 +23124,33 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "M264-3",
+            "start": 0,
+            "end": 2037678,
+            "reversed": false,
+            "assemblyName": "M264-3"
+          }
+        ]
       },
       {
         "id": "qqqgobGsFmkZYP36nGQe-",
         "displayName": "PJ755/1 (PMEN28 reference strain) (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "PJ755/1",
-            "start": 0,
-            "end": 2150823,
-            "reversed": false,
-            "assemblyName": "PJ755/1"
-          }
-        ],
         "tracks": [
           {
             "id": "WO602TvTugnJK4FQCysmd",
             "type": "ReferenceSequenceTrack",
             "configuration": "PJ7551.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "RZwuAexN0nyimXwOL2C3q",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "PJ7551.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "PJ7551.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22386,7 +23158,6 @@
             "id": "U1PkTbwvpFl53zAX5e0hu",
             "type": "FeatureTrack",
             "configuration": "PJ7551_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "BSSN4MmOvq1H_suk8E5W-",
@@ -22396,49 +23167,32 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "E_cT7cMSssJGUQNfalzSc",
         "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "R1501",
+            "refName": "PJ755/1",
             "start": 0,
-            "end": 2039791,
+            "end": 2150823,
             "reversed": false,
-            "assemblyName": "R1501"
+            "assemblyName": "PJ755/1"
           }
-        ],
+        ]
+      },
+      {
+        "id": "E_cT7cMSssJGUQNfalzSc",
+        "type": "LinearGenomeView",
         "tracks": [
           {
             "id": "9qeXCc1qaAQpQufWhiNR8",
             "type": "ReferenceSequenceTrack",
             "configuration": "R1501.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "rYExiMMJfsZ3bBpyUy-1G",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "R1501.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "R1501.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22446,7 +23200,6 @@
             "id": "j3e121ShNUFcX5qAQy__d",
             "type": "FeatureTrack",
             "configuration": "R1501_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "otPbXcyI07KxwCnCQ8FlT",
@@ -22456,49 +23209,32 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "yyQ1Jm8p7NYDi05eLYvv6",
         "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "SN36255",
+            "refName": "R1501",
             "start": 0,
-            "end": 2088681,
+            "end": 2039791,
             "reversed": false,
-            "assemblyName": "SN36255"
+            "assemblyName": "R1501"
           }
-        ],
+        ]
+      },
+      {
+        "id": "yyQ1Jm8p7NYDi05eLYvv6",
+        "type": "LinearGenomeView",
         "tracks": [
           {
             "id": "QNl_uVqJF7wKlc804F4Hu",
             "type": "ReferenceSequenceTrack",
             "configuration": "SN36255.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "EOGLtbqihULKRaoeEh8ny",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "SN36255.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "SN36255.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22506,7 +23242,6 @@
             "id": "bcBt8y2rK8f4Pf91kSSIK",
             "type": "FeatureTrack",
             "configuration": "SN36255_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "H3vJlcIPemlnlGhJ6E-ao",
@@ -22516,49 +23251,32 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "moGJ_Y1CHiJXqnVitY1-C",
         "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "SN75752",
+            "refName": "SN36255",
             "start": 0,
-            "end": 2151943,
+            "end": 2088681,
             "reversed": false,
-            "assemblyName": "SN75752"
+            "assemblyName": "SN36255"
           }
-        ],
+        ]
+      },
+      {
+        "id": "moGJ_Y1CHiJXqnVitY1-C",
+        "type": "LinearGenomeView",
         "tracks": [
           {
             "id": "dIF49tfewYKfd2M37kSzT",
             "type": "ReferenceSequenceTrack",
             "configuration": "SN75752.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "HEdreltteJAObl6wDHNxz",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "SN75752.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "SN75752.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22566,7 +23284,6 @@
             "id": "tIYeKF1Ltw1L09FMEKZ7W",
             "type": "FeatureTrack",
             "configuration": "SN75752_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "ATlnLxqQHJM044uki53Ec",
@@ -22576,50 +23293,33 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "SN75752",
+            "start": 0,
+            "end": 2151943,
+            "reversed": false,
+            "assemblyName": "SN75752"
+          }
+        ]
       },
       {
         "id": "UMFsrvWVM0fURo1Mg1jb6",
         "displayName": "SP264 (PMEN1 reference strain) (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "SP264",
-            "start": 0,
-            "end": 2185927,
-            "reversed": false,
-            "assemblyName": "SP264"
-          }
-        ],
         "tracks": [
           {
             "id": "ZSQXN9RxqRI4WboFjSsun",
             "type": "ReferenceSequenceTrack",
             "configuration": "SP264.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "zv9ImZgdqA0rIHhOI5Cb3",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "SP264.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "SP264.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22627,7 +23327,6 @@
             "id": "RcVSguzTam8cyxPq40MmY",
             "type": "FeatureTrack",
             "configuration": "SP264_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "nVF9oDxEKQqUf1DgVyRyV",
@@ -22637,50 +23336,33 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "SP264",
+            "start": 0,
+            "end": 2185927,
+            "reversed": false,
+            "assemblyName": "SP264"
+          }
+        ]
       },
       {
         "id": "b24PEzTNEdBtVwKB2VHYb",
         "displayName": "Spn1439-106 (PMEN19 reference strain) (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "Spn1439-106",
-            "start": 0,
-            "end": 2206681,
-            "reversed": false,
-            "assemblyName": "Spn1439-106"
-          }
-        ],
         "tracks": [
           {
             "id": "bJ7_48Po_m295qDfQEMxp",
             "type": "ReferenceSequenceTrack",
             "configuration": "Spn1439-106.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "sVN1Rmq23aEpo0TS1tHsT",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "Spn1439-106.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "Spn1439-106.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22688,7 +23370,6 @@
             "id": "Y0WPghItTqHAr7wsGfSPE",
             "type": "FeatureTrack",
             "configuration": "Spn1439-106_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "4qjcdjYQXuMvpJqDpl95m",
@@ -22698,49 +23379,32 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
-      },
-      {
-        "id": "AKFbbuC9BF64zlEX9FabX",
         "minimized": true,
-        "type": "LinearGenomeView",
-        "offsetPx": 0,
         "bpPerPx": 2.3191094619666046,
         "displayedRegions": [
           {
-            "refName": "TIGR4",
+            "refName": "Spn1439-106",
             "start": 0,
-            "end": 2153837,
+            "end": 2206681,
             "reversed": false,
-            "assemblyName": "TIGR4"
+            "assemblyName": "Spn1439-106"
           }
-        ],
+        ]
+      },
+      {
+        "id": "AKFbbuC9BF64zlEX9FabX",
+        "type": "LinearGenomeView",
         "tracks": [
           {
             "id": "poyS65Vi9nvU3RS6pyNR0",
             "type": "ReferenceSequenceTrack",
             "configuration": "TIGR4.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "i4y7GZ7oddce4dYySoKpw",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "TIGR4.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "TIGR4.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22748,7 +23412,6 @@
             "id": "QQCn9rKK883VCNarQuGhh",
             "type": "FeatureTrack",
             "configuration": "TIGR4_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "8QzN62QNVrGXvFFNviLTP",
@@ -22758,50 +23421,33 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "TIGR4",
+            "start": 0,
+            "end": 2153837,
+            "reversed": false,
+            "assemblyName": "TIGR4"
+          }
+        ]
       },
       {
         "id": "QkhARC71fXoJH336u4_tx",
         "displayName": "TL7/1993 (PMEN3 reference strain) (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "TL7/1993",
-            "start": 0,
-            "end": 2156500,
-            "reversed": false,
-            "assemblyName": "TL7/1993"
-          }
-        ],
         "tracks": [
           {
             "id": "mYhCfwm5Yakr1CDx_-v7k",
             "type": "ReferenceSequenceTrack",
             "configuration": "TL7_1993.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "BRTf3XyDCgL3uhAGCK4nc",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "TL7_1993.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "TL7_1993.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22809,7 +23455,6 @@
             "id": "Ldph4O1jWtTuyKXmGKkQe",
             "type": "FeatureTrack",
             "configuration": "TL7_1993_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "Os_POYzSoTyDDpXFUWePW",
@@ -22819,50 +23464,33 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "TL7/1993",
+            "start": 0,
+            "end": 2156500,
+            "reversed": false,
+            "assemblyName": "TL7/1993"
+          }
+        ]
       },
       {
         "id": "LQIZzXNo1OC2KFomBJziy",
         "displayName": "TW31 (PMEN14 reference strain) (minimized)",
-        "minimized": true,
         "type": "LinearGenomeView",
-        "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
-        "displayedRegions": [
-          {
-            "refName": "TW31_1",
-            "start": 0,
-            "end": 2111278,
-            "reversed": false,
-            "assemblyName": "TW31"
-          }
-        ],
         "tracks": [
           {
             "id": "yyM-eoVFOBvba4uKQUy3G",
             "type": "ReferenceSequenceTrack",
             "configuration": "TW31.fna-ReferenceSequenceTrack",
-            "minimized": false,
             "displays": [
               {
                 "id": "kjO2AZme06muZIIIE_zPX",
                 "type": "LinearReferenceSequenceDisplay",
                 "heightPreConfig": 120,
-                "configuration": "TW31.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
-                "showForward": true,
-                "showReverse": true,
-                "showTranslation": true
+                "configuration": "TW31.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
               }
             ]
           },
@@ -22870,7 +23498,6 @@
             "id": "hZYygfRw7Rma7o9PjLw5g",
             "type": "FeatureTrack",
             "configuration": "TW31_sorted.gff",
-            "minimized": false,
             "displays": [
               {
                 "id": "VDUfLxgoYf3gk3_61n62t",
@@ -22880,53 +23507,43 @@
             ]
           }
         ],
-        "hideHeader": false,
-        "hideHeaderOverview": false,
-        "hideNoTracksActive": false,
-        "trackSelectorType": "hierarchical",
-        "showCenterLine": false,
-        "showCytobandsSetting": true,
-        "trackLabels": "",
-        "showGridlines": true,
-        "highlight": [],
-        "colorByCDS": false,
-        "showBookmarkHighlights": true,
-        "showBookmarkLabels": true
+        "minimized": true,
+        "bpPerPx": 2.3191094619666046,
+        "displayedRegions": [
+          {
+            "refName": "TW31_1",
+            "start": 0,
+            "end": 2111278,
+            "reversed": false,
+            "assemblyName": "TW31"
+          }
+        ]
       },
       {
         "id": "CZpm5bOQYP2oDT4z3QJ8D",
         "displayName": "Linear synteny alignment view",
-        "minimized": true,
         "type": "LinearSyntenyView",
-        "trackSelectorType": "hierarchical",
-        "showIntraviewLinks": true,
-        "interactToggled": false,
-        "middleComparativeHeight": 100,
-        "tracks": [],
+        "levels": [
+          {
+            "id": "6ysP8HRCBC",
+            "type": "LinearSyntenyViewHelper",
+            "tracks": [],
+            "height": 100,
+            "level": 0
+          }
+        ],
         "views": [],
-        "viewTrackConfigs": [],
-        "drawCIGAR": true,
-        "drawCurves": false
+        "minimized": true
       },
       {
         "id": "YBr2cqOxvjNbmRlufG-bf",
         "displayName": "Dotplot alignment view",
-        "minimized": true,
         "type": "DotplotView",
-        "height": 600,
-        "borderSize": 20,
-        "tickSize": 5,
-        "vtextRotation": 0,
-        "htextRotation": -90,
-        "fontSize": 15,
-        "trackSelectorType": "hierarchical",
-        "assemblyNames": [],
-        "drawCigar": true,
         "hview": {
           "id": "_h3YrumHE9YKD76byyQ0X",
           "displayedRegions": [],
           "bpPerPx": 0.02,
-          "offsetPx": -1053,
+          "offsetPx": -1199.234375,
           "interRegionPaddingWidth": 0,
           "minimumBlockWidth": 0
         },
@@ -22939,15 +23556,37 @@
           "minimumBlockWidth": 0
         },
         "tracks": [],
-        "viewTrackConfigs": []
+        "minimized": true
       }
     ],
-    "sessionTracks": [],
-    "sessionAssemblies": [],
-    "temporaryAssemblies": [],
-    "connectionInstances": [],
-    "sessionConnections": [],
-    "focusedViewId": "BGqBniRRjHVp_2s_V4lxj",
-    "sessionPlugins": []
-  }
+    "focusedViewId": "qptliEO1HiKXce1me7sZ0",
+    "sessionPlugins": [],
+    "drawerPosition": "left",
+    "widgets": {
+      "GridBookmark": {
+        "id": "GridBookmark",
+        "type": "GridBookmarkWidget"
+      },
+      "hierarchicalTrackSelector": {
+        "id": "hierarchicalTrackSelector",
+        "type": "HierarchicalTrackSelectorWidget",
+        "view": "qptliEO1HiKXce1me7sZ0",
+        "faceted": {}
+      },
+      "addTrackWidget": {
+        "id": "addTrackWidget",
+        "type": "AddTrackWidget",
+        "view": "qptliEO1HiKXce1me7sZ0"
+      },
+      "configEditor": {
+        "id": "configEditor",
+        "type": "ConfigurationEditorWidget"
+      }
+    },
+    "activeWidgets": {
+      "hierarchicalTrackSelector": "hierarchicalTrackSelector"
+    }
+  },
+  "preConfiguredSessions": [],
+  "msa": {}
 }
