@@ -21773,408 +21773,9 @@
       }
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 2, forward",
-      "name": "VL5571, liquid, replicate 2, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/10_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 2, reverse",
-      "name": "VL5571, liquid, replicate 2, reverse",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/10_reverse.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 2, all reads",
-      "name": "VL5571, liquid, replicate 2, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/10_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 3, forward",
-      "name": "VL5571, liquid, replicate 3, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/11_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 3, reverse",
-      "name": "VL5571, liquid, replicate 3, reverse",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/11_reverse.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 3, all reads",
-      "name": "VL5571, liquid, replicate 3, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/11_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 4, forward",
-      "name": "VL5571, liquid, replicate 4, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/12_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 4, reverse",
-      "name": "VL5571, liquid, replicate 4, reverse",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/12_reverse.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 4, all reads",
-      "name": "VL5571, liquid, replicate 4, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/12_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 1, forward",
-      "name": "VL7416, liquid, replicate 1, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/13_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 1, reverse",
-      "name": "VL7416, liquid, replicate 1, reverse",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/13_reverse.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 1, all reads",
-      "name": "VL7416, liquid, replicate 1, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/13_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 2, forward",
-      "name": "VL7416, liquid, replicate 2, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/14_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 2, reverse",
-      "name": "VL7416, liquid, replicate 2, reverse",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/14_reverse.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 2, all reads",
-      "name": "VL7416, liquid, replicate 2, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/14_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 3, forward",
-      "name": "VL7416, liquid, replicate 3, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/15_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 3, reverse",
-      "name": "VL7416, liquid, replicate 3, reverse",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/15_reverse.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 3, all reads",
-      "name": "VL7416, liquid, replicate 3, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/15_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 4, forward",
-      "name": "VL7416, liquid, replicate 4, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/16_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 4, reverse",
-      "name": "VL7416, liquid, replicate 4, reverse",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/16_reverse.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, liquid, replicate 4, all reads",
-      "name": "VL7416, liquid, replicate 4, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/16_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 1, forward",
-      "name": "VL5571, plate, replicate 1, forward",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL5571_liquid_rep1",
+      "name": "VL5571, liquid, replicate 1",
       "assemblyNames": [
         "DP1322"
       ],
@@ -22183,511 +21784,648 @@
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "./data/DP1322/1_forward.bw"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/9_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/9_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
       "displays": [
         {
-          "type": "LinearWiggleDisplay",
-          "displayId": "VL5571, plate, replicate 1, forward-LinearWiggleDisplay"
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL5571_liquid_rep1",
+          "height": 100,
+          "defaultRendering": "xyplot"
         }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 1, reverse",
-      "name": "VL5571, plate, replicate 1, reverse",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL5571_liquid_rep2",
+      "name": "VL5571, liquid, replicate 2",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/1_reverse.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/10_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/10_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL5571_liquid_rep2",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 1, all reads",
-      "name": "VL5571, plate, replicate 1, all reads",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL5571_liquid_rep3",
+      "name": "VL5571, liquid, replicate 3",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/1_sorted.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/11_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/11_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL5571_liquid_rep4",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 2, forward",
-      "name": "VL5571, plate, replicate 2, forward",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL5571_liquid_rep4",
+      "name": "VL5571, liquid, replicate 4",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/2_forward.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/12_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/12_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL5571_liquid_rep4",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 2, reverse",
-      "name": "VL5571, plate, replicate 2, reverse",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL7416_liquid_rep1",
+      "name": "VL7416, liquid, replicate 1",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/2_reverse.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/13_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/13_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL7416_liquid_rep1",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 2, all reads",
-      "name": "VL5571, plate, replicate 2, all reads",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL7416_liquid_rep2",
+      "name": "VL7416, liquid, replicate 2",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/2_sorted.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/14_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/14_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL7416_liquid_rep2",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 3, forward",
-      "name": "VL5571, plate, replicate 3, forward",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL7416_liquid_rep3",
+      "name": "VL7416, liquid, replicate 3",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/3_forward.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/15_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/15_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL7416_liquid_rep4",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 3, reverse",
-      "name": "VL5571, plate, replicate 3, reverse",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL7416_liquid_rep4",
+      "name": "VL7416, liquid, replicate 4",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/3_reverse.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/16_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/16_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL7416_liquid_rep4",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 3, all reads",
-      "name": "VL5571, plate, replicate 3, all reads",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL5571_plate_rep1",
+      "name": "VL5571, plate, replicate 1",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/3_sorted.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/1_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/1_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL5571_plate_rep1",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 4, forward",
-      "name": "VL5571, plate, replicate 4, forward",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL5571_plate_rep2",
+      "name": "VL5571, plate, replicate 2",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/4_forward.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/2_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/2_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL5571_plate_rep2",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 4, reverse",
-      "name": "VL5571, plate, replicate 4, reverse",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL5571_plate_rep3",
+      "name": "VL5571, plate, replicate 3",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/4_reverse.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/3_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/3_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL5571_plate_rep4",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, plate, replicate 4, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL5571_plate_rep4",
+      "name": "VL5571, plate, replicate 4",
+      "assemblyNames": [
+        "DP1322"
       ],
-      "name": "VL5571, plate, replicate 4, all reads",
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/4_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 1, forward",
-      "name": "VL7416, plate, replicate 1, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/5_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 1, reverse",
-      "name": "VL7416, plate, replicate 1, reverse",
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/5_reverse.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/4_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/4_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL5571_plate_rep4",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 1, all reads",
-      "name": "VL7416, plate, replicate 1, all reads",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL7416_plate_rep1",
+      "name": "VL7416, plate, replicate 1",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/5_sorted.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/5_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/5_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL7416_plate_rep1",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 2, forward",
-      "name": "VL7416, plate, replicate 2, forward",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL7416_plate_rep2",
+      "name": "VL7416, plate, replicate 2",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/6_forward.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/6_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/6_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL7416_plate_rep2",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 2, reverse",
-      "name": "VL7416, plate, replicate 2, reverse",
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL7416_plate_rep3",
+      "name": "VL7416, plate, replicate 3",
+      "assemblyNames": [
+        "DP1322"
+      ],
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/6_reverse.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/7_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/7_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL7416_plate_rep4",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
       ]
     },
     {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 2, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "VL7416_plate_rep4",
+      "name": "VL7416, plate, replicate 4",
+      "assemblyNames": [
+        "DP1322"
       ],
-      "name": "VL7416, plate, replicate 2, all reads",
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/6_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 3, forward",
-      "name": "VL7416, plate, replicate 3, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/7_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 3, reverse",
-      "name": "VL7416, plate, replicate 3, reverse",
       "category": [
         "Genome characteristics",
         "RNA Sequencing"
       ],
       "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/7_reverse.bw",
-          "locationType": "UriLocation"
-        }
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/8_forward.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/DP1322/8_reverse.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 3, all reads",
-      "name": "VL7416, plate, replicate 3, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/7_sorted.bw",
-          "locationType": "UriLocation"
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "VL7416_plate_rep4",
+          "height": 100,
+          "defaultRendering": "xyplot"
         }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 4, forward",
-      "name": "VL7416, plate, replicate 4, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/8_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 4, reverse",
-      "name": "VL7416, plate, replicate 4, reverse",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/8_reverse.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL7416, plate, replicate 4, all reads",
-      "name": "VL7416, plate, replicate 4, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/8_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 1, forward",
-      "name": "VL5571, liquid, replicate 1, forward",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/9_forward.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 1, reverse",
-      "name": "VL5571, liquid, replicate 1, reverse",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/9_reverse.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
-      ]
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "VL5571, liquid, replicate 1, all reads",
-      "name": "VL5571, liquid, replicate 1, all reads",
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "./data/DP1322/9_sorted.bw",
-          "locationType": "UriLocation"
-        }
-      },
-      "assemblyNames": [
-        "DP1322"
       ]
     }
   ],
@@ -22696,7 +22434,7 @@
   "connections": [],
   "defaultSession": {
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.4.0:Jesus) 21/01/2026, 17:15:48",
+    "name": "PneumoBrowse 2 (v1.4.0:Jesus)",
     "views": [
       {
         "id": "iWNwf111cJScnFK2Hxg6H",
