@@ -44,7 +44,7 @@
   { "name": "RemoveQuotes", "umdLoc": { "uri": "plugins/RemoveQuotes.js" } },
   { "name": "ReplaceSpaces", "umdLoc": { "uri": "plugins/ReplaceSpaces.js" } },
   { "name": "ReplaceUnderslashCapitalize", "umdLoc": { "uri": "plugins/ReplaceUnderslashCapitalize.js" } }
-],
+    ],
   "assemblies": [
     {
       "name": "D39V",
@@ -1273,16 +1273,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_D39V-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_D39V-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "MultiQuantitativeTrack",
@@ -2035,16 +2035,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_TIGR4-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_TIGR4-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -2368,16 +2368,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_EF3030-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_EF3030-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -2747,16 +2747,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_SP264-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_SP264-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -3012,16 +3012,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_GM17-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_GM17-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -3277,16 +3277,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_M2643-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_M2643-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -3564,16 +3564,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_SN75752-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_SN75752-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -3829,16 +3829,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_DCC1476-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_DCC1476-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -4162,16 +4162,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_Spn1439-106-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_Spn1439-106-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -4427,16 +4427,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_SN36255-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_SN36255-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -4760,16 +4760,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_TW31-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_TW31-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -5025,16 +5025,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_TL7_1993-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_TL7_1993-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -5290,16 +5290,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_PJ7551-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_PJ7551-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -5555,16 +5555,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_BM6001-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_BM6001-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -5888,16 +5888,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_BHN418-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_BHN418-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -6153,16 +6153,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_DP1322-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_DP1322-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -6418,16 +6418,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_LILPNEUHC_19F-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_LILPNEUHC_19F-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -6683,16 +6683,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_4954-98-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_4954-98-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "FeatureTrack",
@@ -6902,16 +6902,16 @@
         }
       },
       "displays": [
-          {
-              "id": "j4N3EAiK2tC1KfjZwIiX-",
-              "type": "LinearGCContentTrackDisplay",
-              "configuration": "gc_content_R1501-LinearGCContentTrackDisplay",
-              "selectedRendering": "",
-              "resolution": 1,
-              "windowSize": 200,
-              "windowDelta": 20
-              }
-            ]
+        {
+          "id": "j4N3EAiK2tC1KfjZwIiX-",
+          "type": "LinearGCContentTrackDisplay",
+          "configuration": "gc_content_R1501-LinearGCContentTrackDisplay",
+          "selectedRendering": "",
+          "resolution": 1,
+          "windowSize": 200,
+          "windowDelta": 20
+        }
+      ]
     },
     {
       "type": "SyntenyTrack",
@@ -21727,7 +21727,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.4.2)",
+    "name": "PneumoBrowse 2 (v1.4.3)",
     "margin": 0,
     "views": [
       {
