@@ -2124,7 +2124,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "TIGR4_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "TIGR4"
       ],
@@ -2457,7 +2457,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "EF3030_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "EF3030"
       ],
@@ -2638,7 +2638,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "SP264_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "SP264"
       ],
@@ -2903,7 +2903,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "GM17_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "GM17"
       ],
@@ -3168,7 +3168,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "M2643_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "M264-3"
       ],
@@ -3433,7 +3433,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "SN75752_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "SN75752"
       ],
@@ -3720,7 +3720,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "DCC1476_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "DCC1476"
       ],
@@ -3985,7 +3985,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "Spn1439-106_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "Spn1439-106"
       ],
@@ -4318,7 +4318,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "SN36255_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "SN36255"
       ],
@@ -4583,7 +4583,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "TW31_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "TW31"
       ],
@@ -4916,7 +4916,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "TL7_1993_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "TL7/1993"
       ],
@@ -5181,7 +5181,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "PJ7551_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "PJ755/1"
       ],
@@ -5446,7 +5446,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "BM6001_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "BM6001"
       ],
@@ -5711,7 +5711,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "BHN418_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "BHN418"
       ],
@@ -6044,7 +6044,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "DP1322_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "DP1322"
       ],
@@ -6309,7 +6309,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "LILPNEUHC_19F_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "LILPNEUHC 19F"
       ],
@@ -6574,7 +6574,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "4954-98_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "4954-98"
       ],
@@ -6839,7 +6839,7 @@
     {
       "type": "FeatureTrack",
       "trackId": "R1501_terminators.gff",
-      "name": "Predicted Terminators",
+      "name": "Predicted terminators",
       "assemblyNames": [
         "R1501"
       ],
@@ -22427,6 +22427,84 @@
           "defaultRendering": "xyplot"
         }
       ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "Jesus_predicted_promoters_DP1322_sorted.gff",
+      "name": "Predicted promoters",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "./data/DP1322/Jesus_predicted_promoters_DP1322_sorted.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "./data/DP1322/Jesus_predicted_promoters_DP1322_sorted.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ],
+            "category": [
+              "Annotation"
+            ],
+                                          "displays": [
+                                            {
+                                              "type": "LinearBasicDisplay",
+                                              "displayId": "Jesus_predicted_promoters_DP1322_sorted.gff-LinearBasicDisplay",
+                                              "renderer": {
+                                                "type": "SvgFeatureRenderer",
+                                                "color1": "rgb(5, 148, 0)"
+                                              }
+                                            },
+                                            {
+                                              "type": "LinearArcDisplay",
+                                              "displayId": "Jesus_predicted_promoters_DP1322_sorted.gff-LinearArcDisplay"
+                                            }
+                                          ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "Jesus_predicted_operons_DP1322_sorted.gff",
+      "name": "Predicted operons",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "./data/DP1322/Jesus_predicted_operons_DP1322_sorted.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "./data/DP1322/Jesus_predicted_operons_DP1322_sorted.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "DP1322"
+      ],
+            "category": [
+              "Annotation"
+            ],
+                              "displays": [
+                                {
+                                  "type": "LinearBasicDisplay",
+                                  "displayId": "Jesus_predicted_operons_DP1322_sorted.gff-LinearBasicDisplay",
+                                  "renderer": {
+                                    "type": "SvgFeatureRenderer",
+                                    "color1": "rgb(215, 66, 93)"
+                                  }
+                                },
+                                {
+                                  "type": "LinearArcDisplay",
+                                  "displayId": "Jesus_predicted_operons_DP1322_sorted.gff-LinearArcDisplay"
+                                }
+                              ]
     }
   ],
   "internetAccounts": [],
@@ -22682,15 +22760,27 @@
           {
             "id": "_LLsmPunhX3ku8xBS4bj_",
             "type": "FeatureTrack",
-            "configuration": "DP1322_sorted.gff",
+            "configuration": "Jesus_predicted_operons_DP1322_sorted.gff",
             "displays": [
               {
                 "id": "tu1PLVZHQLvQ7clwGLgib",
                 "type": "LinearBasicDisplay",
-                "configuration": "DP1322_sorted.gff-LinearBasicDisplay"
+                "configuration": "Jesus_predicted_operons_DP1322_sorted.gff-LinearBasicDisplay"
               }
             ]
-          }
+          },
+              {
+                "id": "_LLsmPunhX3ku8xBS4bD_",
+                "type": "FeatureTrack",
+                "configuration": "DP1322_sorted.gff",
+                "displays": [
+                  {
+                    "id": "tu1PLVZHQLvQ7clwGLgiZ",
+                    "type": "LinearBasicDisplay",
+                    "configuration": "DP1322_sorted.gff-LinearBasicDisplay"
+                  }
+                ]
+              }
         ],
         "offsetPx": 4.333333421636516,
         "bpPerPx": 2.3191094619666046,
