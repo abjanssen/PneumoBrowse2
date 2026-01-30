@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[4917],{94917(e,s,t){t.r(s),t.d(s,{autocompleteClasses:()=>o.A,createFilterOptions:()=>a.Z,default:()=>l.A,getAutocompleteUtilityClass:()=>o.r});var l=t(85441),a=t(59863),o=t(36209)}}]);
