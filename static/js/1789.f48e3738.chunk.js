@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[1789],{21789(e,s,t){t.r(s),t.d(s,{default:()=>a.A,dialogContentTextClasses:()=>l.A,getDialogContentTextUtilityClass:()=>l.D});var a=t(35951),l=t(94715)}}]);
