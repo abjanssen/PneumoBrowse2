@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[1720],{1720(s,a,b){b.r(a),b.d(a,{default:()=>e.A,getSnackbarUtilityClass:()=>l.W,snackbarClasses:()=>l.A});var e=b(97120),l=b(29773)}}]);

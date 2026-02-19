@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[4974],{14974(e,o,s){s.r(o),s.d(o,{PopoverPaper:()=>t.IJ,PopoverRoot:()=>t.yt,default:()=>t.Ay,getOffsetLeft:()=>t.fB,getOffsetTop:()=>t.Dy,getPopoverUtilityClass:()=>p.K,popoverClasses:()=>p.A});var t=s(32879),p=s(52603)}}]);

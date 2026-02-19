@@ -1,2 +1,0 @@
-"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[9939],{9939(e,b,s){s.r(b),s.d(b,{default:()=>u});const u=function(){return null}}}]);
-//# sourceMappingURL=9939.ea03e921.chunk.js.map

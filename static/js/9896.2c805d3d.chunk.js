@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[9896],{69896(b,e,s){s.r(e),s.d(e,{default:()=>a.A});var a=s(59597)}}]);
