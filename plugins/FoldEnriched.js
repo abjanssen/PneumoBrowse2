@@ -6,7 +6,7 @@
     install() {}
     configure(pluginManager) {
       pluginManager.jexl.addFunction('foldenriched', feature => {
-       return "Fold Enriched: " + feature;
+       return "Fold enriched: " + feature;
       })
     }
   }

@@ -1318,7 +1318,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined,score:undefined}"
       }
     },
     {
@@ -1826,14 +1826,14 @@
     {
       "type": "FeatureTrack",
       "trackId": "D39V_HU_peaks",
-      "name": "HU peaks",
+      "name": "HU enriched bound loci",
       "assemblyNames": [
         "D39V"
       ],
       "category": [
         "Genome characteristics",
         "ChIP-Seq",
-        "Called peaks"
+        "Enriched bound loci"
       ],
       "adapter": {
         "type": "BedAdapter",
@@ -1860,20 +1860,20 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{score:undefined, Fold_enriched:feature.score}"
+        "feature": "jexl:{name:undefined, Name:replaceuc(feature.name), score:undefined, Fold_enriched:feature.score, }"
       }
     },
     {
       "type": "FeatureTrack",
       "trackId": "D39V_RpoB_peaks",
-      "name": "RpoB peaks",
+      "name": "RpoB enriched bound loci",
       "assemblyNames": [
         "D39V"
       ],
       "category": [
         "Genome characteristics",
         "ChIP-Seq",
-        "Called peaks"
+        "Enriched bound loci"
       ],
       "adapter": {
         "type": "BedAdapter",
@@ -1899,7 +1899,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{score:undefined, Fold_enriched:feature.score}"
+        "feature": "jexl:{name:undefined, Name:replaceuc(feature.name), score:undefined, Fold_enriched:feature.score}"
       }
     },
     {
@@ -2080,7 +2080,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -2413,7 +2413,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -2792,7 +2792,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -3057,7 +3057,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, ength:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -3322,7 +3322,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -3874,7 +3874,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -4207,7 +4207,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -4472,7 +4472,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -4805,7 +4805,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -5070,7 +5070,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -5335,7 +5335,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -5600,7 +5600,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -5933,7 +5933,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, Percentage_modified:feature.fractionmodified, fractionmodified:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, Percentage_modified:feature.fractionmodified, fractionmodified:undefined, id:undefined}"
       }
     },
     {
@@ -6198,7 +6198,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -6463,7 +6463,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -6728,7 +6728,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
+        "feature": "jexl:{score:undefined, Length:undefined, Source:feature.source, source:undefined, phase:undefined, Coverage:feature.coverage, coverage:undefined, context:undefined, IPD_Ratio:feature.ipdratio, ipdratio:undefined, IdentificationQV:feature.identificationqv, identificationqv:undefined, motif:undefined, id:undefined}"
       }
     },
     {
@@ -21802,7 +21802,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.4.12)",
+    "name": "PneumoBrowse 2 (v1.4.13)",
     "margin": 0,
     "views": [
       {
