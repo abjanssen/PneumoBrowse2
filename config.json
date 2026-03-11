@@ -19,7 +19,7 @@
           "main": "#699600"
         },
         "quaternary": {
-          "main": "#96001E"
+          "main": "#3c00c7"
         }
       }
     },
@@ -135,10 +135,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/D39V/D39V.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -167,10 +163,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/TIGR4/TIGR4.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -199,10 +191,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/EF3030/EF3030.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -231,10 +219,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/SP264/SP264.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -263,10 +247,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/SN75752/SN75752.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -295,10 +275,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/DCC1476/DCC1476.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -327,10 +303,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/Spn1439-106/Spn1439-106.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -359,10 +331,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/SN36255/SN36255.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -391,10 +359,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/TW31/TW31.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -423,10 +387,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/TL7_1993/TL7_1993.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -455,10 +415,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/PJ7551/PJ7551.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -487,10 +443,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/GM17/GM17.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -519,10 +471,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/M2643/M2643.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -551,10 +499,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/BM6001/BM6001.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -583,10 +527,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/BHN418/BHN418.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -615,10 +555,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/DP1322/DP1322.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -647,10 +583,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/LILPNEUHC_19F/LILPNEUHC_19F.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -679,10 +611,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/4954-98/4954-98.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -711,10 +639,6 @@
           "faiLocation": {
             "locationType": "UriLocation",
             "uri": "data/R1501/R1501.fna.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
           }
         },
         "displays": [
@@ -1341,10 +1265,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/D39V/D39V.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -2103,10 +2023,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/TIGR4/TIGR4.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -2436,10 +2352,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/EF3030/EF3030.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -2815,10 +2727,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/SP264/SP264.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -3080,10 +2988,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/GM17/GM17.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -3345,10 +3249,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/M2643/M2643.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -3632,10 +3532,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/SN75752/SN75752.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -3897,10 +3793,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/DCC1476/DCC1476.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -4230,10 +4122,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/Spn1439-106/Spn1439-106.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -4495,10 +4383,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/SN36255/SN36255.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -4828,10 +4712,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/TW31/TW31.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -5093,10 +4973,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/TL7_1993/TL7_1993.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -5358,10 +5234,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/PJ7551/PJ7551.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -5623,10 +5495,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/BM6001/BM6001.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -5956,10 +5824,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/BHN418/BHN418.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -6221,10 +6085,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/DP1322/DP1322.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -6486,10 +6346,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/LILPNEUHC_19F/LILPNEUHC_19F.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -6751,10 +6607,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/4954-98/4954-98.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -6970,10 +6822,6 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/R1501/R1501.fna.fai"
-        },
-        "metadataLocation": {
-          "locationType": "UriLocation",
-          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
@@ -21802,16 +21650,16 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.4.14)",
+    "name": "PneumoBrowse 2 (v1.4.15)",
     "margin": 0,
     "views": [
       {
         "id": "iWNwf111cJScnFK2Hxg6H",
-        "displayName": "4954-98 (PMEN18 reference strain) (minimized)",
+        "displayName": "4954-98 (PMEN18 reference strain)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "4954-98_1",
@@ -21831,7 +21679,7 @@
               {
                 "id": "6mQeTClup09WStQN9IY_C",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "4954-98.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -21848,6 +21696,7 @@
               {
                 "id": "VJUhkokYVroVuV_lNhjEm",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "4954-98_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -21868,11 +21717,11 @@
       },
       {
         "id": "uydw-gfd4pVjvzGqXlJJ-",
-        "displayName": "BHN418 (minimized)",
+        "displayName": "BHN418",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "BHN418",
@@ -21892,7 +21741,7 @@
               {
                 "id": "xGBBzD6028GUaaXLwFRLF",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "BHN418.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -21909,6 +21758,7 @@
               {
                 "id": "VjRigjYe-oHTLS56ei6tp",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "BHN418_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -21929,10 +21779,11 @@
       },
       {
         "id": "et1bx53hofs27NMcFnmwF",
+        "displayName": "BM6001",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "BM6001_1",
@@ -21952,7 +21803,7 @@
               {
                 "id": "VVmhT5zk8PKvFqZGJfwxP",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "BM6001.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -21969,6 +21820,7 @@
               {
                 "id": "zmf8XvQYmHVQyqkJZswtl",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "BM6001_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -21989,10 +21841,11 @@
       },
       {
         "id": "BGqBniRRjHVp_2s_V4lxj",
+        "displayName": "D39V",
         "minimized": false,
         "type": "LinearGenomeView",
         "offsetPx": -3,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "D39V",
@@ -22012,7 +21865,7 @@
               {
                 "id": "DsfGSJoCg2aajkYHU0erD",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "D39V.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22029,6 +21882,7 @@
               {
                 "id": "tvWRLUrV0ynRLE8Nl7eDa",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 100,
                 "configuration": "D39V_180601_operons-LinearBasicDisplay"
               }
             ]
@@ -22042,6 +21896,7 @@
               {
                 "id": "-X2blMfJpqSHcL12y0VBY",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "D39V_annotation_coding_features_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22062,11 +21917,11 @@
       },
       {
         "id": "livZU8pZD5iebZK2GZlE0",
-        "displayName": "DCC1476 (PMEN25 reference strain) (minimized)",
+        "displayName": "DCC1476 (PMEN25 reference strain)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "DCC1476",
@@ -22086,7 +21941,7 @@
               {
                 "id": "bb6EdNHIp_N8emyVpjq4H",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "DCC1476.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22103,6 +21958,7 @@
               {
                 "id": "jb9HTiKvGAihw3CvVfheN",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "DCC1476_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22123,10 +21979,11 @@
       },
       {
         "id": "qptliEO1HiKXce1me7sZ0",
+        "displayName": "DP1322",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "DP1322",
@@ -22146,7 +22003,7 @@
               {
                 "id": "B9bNd0laW9RTNmgWJnpSH",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "DP1322.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22163,6 +22020,7 @@
               {
                 "id": "tu1PLVZHQLvQ7clwGLgib",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "DP1322_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22183,10 +22041,11 @@
       },
       {
         "id": "164lrja1PhtK8f0Ohms6H",
+        "displayName": "EF3030",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "EF3030_1",
@@ -22206,7 +22065,7 @@
               {
                 "id": "rHcIZIJ7vZYULNxheyoU0",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "EF3030.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22223,6 +22082,7 @@
               {
                 "id": "D2iksgUzVG1yR8vHifdhm",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "EF3030_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22243,11 +22103,11 @@
       },
       {
         "id": "G0ozicfahw0hv7A4FRn4x",
-        "displayName": "GM17 (PMEN2 reference strain) (minimized)",
+        "displayName": "GM17 (PMEN2 reference strain)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "GM17",
@@ -22260,6 +22120,7 @@
         "tracks": [
           {
             "id": "4UuDRI9zBRjhkpyLk8CCr",
+            "displayName": "GM17",
             "type": "ReferenceSequenceTrack",
             "configuration": "GM17.fna-ReferenceSequenceTrack",
             "minimized": false,
@@ -22267,7 +22128,7 @@
               {
                 "id": "LVvJLLiTs15FCZRTZ7qp-",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "GM17.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22284,6 +22145,7 @@
               {
                 "id": "KO2J4d5I_B007tGmBvD37",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "GM17_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22304,10 +22166,11 @@
       },
       {
         "id": "OVqJIY8KONcCg_mUTclIc",
+        "displayName": "LILPNEUHC 19F",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "LILPNEUHC_19F_1",
@@ -22327,7 +22190,7 @@
               {
                 "id": "XAr76qawEyamfD754LknO",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "LILPNEUHC_19F.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22344,6 +22207,7 @@
               {
                 "id": "W5Bt-FFqDiYe4XsF77DQH",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "LILPNEUHC_19F_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22364,11 +22228,11 @@
       },
       {
         "id": "OoZ64KkBwtkJWOMrP2Rt3",
-        "displayName": "M264-3 (PMEN31 reference strain) (minimized)",
+        "displayName": "M264-3 (PMEN31 reference strain)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "M264-3",
@@ -22388,7 +22252,7 @@
               {
                 "id": "4MyYep9k6pAtrFv-ae371",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "M2643.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22405,6 +22269,7 @@
               {
                 "id": "1IHAZeu1kEQP9raY-OmO-",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "M2643_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22425,11 +22290,11 @@
       },
       {
         "id": "qqqgobGsFmkZYP36nGQe-",
-        "displayName": "PJ755/1 (PMEN28 reference strain) (minimized)",
+        "displayName": "PJ755/1 (PMEN28 reference strain)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "PJ755/1",
@@ -22449,7 +22314,7 @@
               {
                 "id": "RZwuAexN0nyimXwOL2C3q",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "PJ7551.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22466,6 +22331,7 @@
               {
                 "id": "BSSN4MmOvq1H_suk8E5W-",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "PJ7551_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22486,10 +22352,11 @@
       },
       {
         "id": "E_cT7cMSssJGUQNfalzSc",
+        "displayName": "R1501",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "R1501",
@@ -22509,7 +22376,7 @@
               {
                 "id": "rYExiMMJfsZ3bBpyUy-1G",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "R1501.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22526,6 +22393,7 @@
               {
                 "id": "otPbXcyI07KxwCnCQ8FlT",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "R1501_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22546,10 +22414,11 @@
       },
       {
         "id": "yyQ1Jm8p7NYDi05eLYvv6",
+        "displayName": "SN36255",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "SN36255",
@@ -22569,7 +22438,7 @@
               {
                 "id": "EOGLtbqihULKRaoeEh8ny",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "SN36255.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22586,6 +22455,7 @@
               {
                 "id": "H3vJlcIPemlnlGhJ6E-ao",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "SN36255_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22606,10 +22476,11 @@
       },
       {
         "id": "moGJ_Y1CHiJXqnVitY1-C",
+        "displayName": "SN75752",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "SN75752",
@@ -22629,7 +22500,7 @@
               {
                 "id": "HEdreltteJAObl6wDHNxz",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "SN75752.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22646,6 +22517,7 @@
               {
                 "id": "ATlnLxqQHJM044uki53Ec",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "SN75752_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22666,11 +22538,11 @@
       },
       {
         "id": "UMFsrvWVM0fURo1Mg1jb6",
-        "displayName": "SP264 (PMEN1 reference strain) (minimized)",
+        "displayName": "SP264 (PMEN1 reference strain)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "SP264",
@@ -22683,6 +22555,7 @@
         "tracks": [
           {
             "id": "ZSQXN9RxqRI4WboFjSsun",
+            "displayName": "SP264",
             "type": "ReferenceSequenceTrack",
             "configuration": "SP264.fna-ReferenceSequenceTrack",
             "minimized": false,
@@ -22690,7 +22563,7 @@
               {
                 "id": "zv9ImZgdqA0rIHhOI5Cb3",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "SP264.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22707,6 +22580,7 @@
               {
                 "id": "nVF9oDxEKQqUf1DgVyRyV",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "SP264_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22727,11 +22601,11 @@
       },
       {
         "id": "b24PEzTNEdBtVwKB2VHYb",
-        "displayName": "Spn1439-106 (PMEN19 reference strain) (minimized)",
+        "displayName": "Spn1439-106 (PMEN19 reference strain)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "Spn1439-106",
@@ -22751,7 +22625,7 @@
               {
                 "id": "sVN1Rmq23aEpo0TS1tHsT",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "Spn1439-106.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22768,6 +22642,7 @@
               {
                 "id": "4qjcdjYQXuMvpJqDpl95m",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "Spn1439-106_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22788,10 +22663,11 @@
       },
       {
         "id": "AKFbbuC9BF64zlEX9FabX",
+        "displayName": "TIGR4",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "TIGR4",
@@ -22811,7 +22687,7 @@
               {
                 "id": "i4y7GZ7oddce4dYySoKpw",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "TIGR4.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22828,6 +22704,7 @@
               {
                 "id": "8QzN62QNVrGXvFFNviLTP",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "TIGR4_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22848,11 +22725,11 @@
       },
       {
         "id": "QkhARC71fXoJH336u4_tx",
-        "displayName": "TL7/1993 (PMEN3 reference strain) (minimized)",
+        "displayName": "TL7/1993 (PMEN3 reference strain)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "TL7/1993",
@@ -22872,7 +22749,7 @@
               {
                 "id": "BRTf3XyDCgL3uhAGCK4nc",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "TL7_1993.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22889,6 +22766,7 @@
               {
                 "id": "Os_POYzSoTyDDpXFUWePW",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "TL7_1993_sorted.gff-LinearBasicDisplay"
               }
             ]
@@ -22909,11 +22787,11 @@
       },
       {
         "id": "LQIZzXNo1OC2KFomBJziy",
-        "displayName": "TW31 (PMEN14 reference strain) (minimized)",
+        "displayName": "TW31 (PMEN14 reference strain)",
         "minimized": true,
         "type": "LinearGenomeView",
         "offsetPx": 0,
-        "bpPerPx": 2.3191094619666046,
+        "bpPerPx": 2.31033020718,
         "displayedRegions": [
           {
             "refName": "TW31_1",
@@ -22933,7 +22811,7 @@
               {
                 "id": "kjO2AZme06muZIIIE_zPX",
                 "type": "LinearReferenceSequenceDisplay",
-                "heightPreConfig": 120,
+                "heightPreConfig": 100,
                 "configuration": "TW31.fna-ReferenceSequenceTrack-LinearReferenceSequenceDisplay",
                 "showForward": true,
                 "showReverse": true,
@@ -22950,6 +22828,7 @@
               {
                 "id": "VDUfLxgoYf3gk3_61n62t",
                 "type": "LinearBasicDisplay",
+                "heightPreConfig": 200,
                 "configuration": "TW31_sorted.gff-LinearBasicDisplay"
               }
             ]
