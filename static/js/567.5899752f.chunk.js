@@ -1,2 +1,0 @@
-"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[567],{70567(a,e,t){t.d(e,{makeImageData:()=>r});var s=t(46940),n=t(90978),i=t(88925);async function r(a,e){const{sessionId:r,adapterConfig:o,regions:b}=a,{dataAdapter:w}=await(0,s.cK)(e,r,o),c=b[0],d=await(0,n._)(w.getFeatures(c,a).pipe((0,i.$)())),{renderXYPlot:p}=await t.e(9250).then(t.bind(t,69250));return p(a,d)}}}]);
-//# sourceMappingURL=567.5899752f.chunk.js.map

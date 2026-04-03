@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[1187],{66425(s,r,e){e.r(r),e.d(r,{circularProgressClasses:()=>l.A,default:()=>a.A,getCircularProgressUtilityClass:()=>l.b});var a=e(70103),l=e(6627)}}]);
