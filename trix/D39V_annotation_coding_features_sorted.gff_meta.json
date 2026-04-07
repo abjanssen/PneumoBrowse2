@@ -1,10 +1,11 @@
 {
-  "dateCreated": "2026-03-20T17:01:45.581Z",
+  "dateCreated": "2026-04-07T13:26:46.082Z",
   "tracks": [
     {
       "trackId": "D39V_annotation_coding_features_sorted.gff",
       "attributesIndexed": [
         "Name",
+        "pan_locus_tag",
         "Old_locus_tag",
         "Locus_tag",
         "R6_locus",
