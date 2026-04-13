@@ -1401,6 +1401,949 @@
     },
     {
       "type": "MultiQuantitativeTrack",
+      "trackId": "C+Y_MK_RNA_seq",
+      "name": "C+Y",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Kjos_Miller_et_al_PlosPathogens_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C+Y_MK_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C+Y_MK_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "CY_MK",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "Cip_MK_RNA_seq",
+      "name": "Ciprofloxacin",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Kjos_Miller_et_al_PlosPathogens_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Cipro_MK_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Cipro_MK_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "Cipro_MK",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "HPUra_MK_RNA_seq",
+      "name": "6-(p-hydroxyphenylazo)-uracil",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Kjos_Miller_et_al_PlosPathogens_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Hpura_MK_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Hpura_MK_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "HPUra_MK",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "Hxu_MK_RNA_seq",
+      "name": "Hydroxyurea",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Kjos_Miller_et_al_PlosPathogens_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Hxu_MK_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Hxu_MK_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "Hxu_MK",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "Kan_MK_RNA_seq",
+      "name": "Kanamycin",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Kjos_Miller_et_al_PlosPathogens_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Kan_MK_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Kan_MK_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "Kan_MK",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "Rif_MK_RNA_seq",
+      "name": "Rifampicin",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Kjos_Miller_et_al_PlosPathogens_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Rif_MK_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Rif_MK_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "Rif_MK",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "BEP_RA_RNA_seq",
+  "name": "Blood-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/BEP_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/BEP_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "BMC_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "FEP_RA_RNA_seq",
+  "name": "CSF-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/FEP_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/FEP_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "CSF_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "CEP_RA_RNA_seq",
+  "name": "C+Y",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/CEP_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/CEP_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "CEP_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "LEP_RA_RNA_seq",
+  "name": "Lung-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/LEP_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/LEP_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "LEP_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "NEP_RA_RNA_seq",
+  "name": "Nose-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/NEP_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/NEP_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "NEP_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "B2C_RA_RNA_seq",
+  "name": "Blood-mimicking medium to C+Y",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/B2C_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/B2C_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "B2C_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "C03_RA_RNA_seq",
+  "name": "C+Y with CSP-1 (3 minutes)",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/C03_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/C03_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "C03_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "C10_RA_RNA_seq",
+  "name": "C+Y with CSP-1 (10 minutes)",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/C10_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/C10_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "C10_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "C20_RA_RNA_seq",
+  "name": "C+Y with CSP-1 (20 minutes)",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/C20_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/C20_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "C20_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "C2N_RA_RNA_seq",
+  "name": "C+Y to nose-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/C2N_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/C2N_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "C2N_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "F40_RA_RNA_seq",
+  "name": "CSF-mimicking to fever-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/F40_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/F40_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "F40_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "N2B_RA_RNA_seq",
+  "name": "Nose-mimicking to blood-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/N2B_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/N2B_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "N2B_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "N2F_RA_RNA_seq",
+  "name": "Nose-mimicking to CSF-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/N2F_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/N2F_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "N2F_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "N2L_RA_RNA_seq",
+  "name": "Nose-mimicking to lung-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/N2L_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/N2L_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "N2L_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "ND5_RA_RNA_seq",
+  "name": "Nose-mimicking to transmission-mimicking medium (5 minutes)",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/ND5_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/ND5_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "ND5_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "ND6_RA_RNA_seq",
+  "name": "Nose-mimicking to transmission-mimicking medium (60 minutes)" ,
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/ND6_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/ND6_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "ND6_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+{
+  "type": "MultiQuantitativeTrack",
+  "trackId": "NDN_RA_RNA_seq",
+  "name": "Nose-mimicking to transmission-mimicking to nose-mimicking medium",
+  "assemblyNames": [
+    "D39V"
+  ],
+  "category": [
+    "RNA-seq",
+    "Aprianto_et_al_NAR_2018"
+  ],
+  "adapter": {
+    "type": "MultiWiggleAdapter",
+    "subadapters": [
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/NDN_RA_plus.bw"
+        },
+        "source": "Plus strand"
+      },
+      {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/D39V/NDN_RA_min.bw"
+        },
+        "source": "Minus strand"
+      }
+    ]
+  },
+  "displays": [
+    {
+      "type": "MultiLinearWiggleDisplay",
+      "displayId": "ND6_RA",
+      "height": 100,
+      "defaultRendering": "xyplot"
+    }
+  ]
+},
+    {
+      "type": "MultiQuantitativeTrack",
       "trackId": "RNA_enriched_end",
       "name": "Unenriched control coverage (paired-end)",
       "assemblyNames": [
@@ -1658,703 +2601,6 @@
     },
 {
   "type": "MultiQuantitativeTrack",
-  "trackId": "BEP_RNA_seq",
-  "name": "Blood-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/BEP_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/BEP_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "BMC",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "FEP_RNA_seq",
-  "name": "CSF-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/FEP_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/FEP_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "CSF",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "CEP_RNA_seq",
-  "name": "C+Y",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/CEP_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/CEP_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "CEP",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "LEP_RNA_seq",
-  "name": "Lung-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/LEP_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/LEP_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "LEP",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "NEP_RNA_seq",
-  "name": "Nose-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/NEP_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/NEP_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "NEP",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "B2C_RNA_seq",
-  "name": "Blood-mimicking medium to C+Y",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/B2C_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/B2C_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "B2C",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "C03_RNA_seq",
-  "name": "C+Y with CSP-1 (3 minutes)",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/C03_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/C03_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "C03",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "C10_RNA_seq",
-  "name": "C+Y with CSP-1 (10 minutes)",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/C10_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/C10_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "C10",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "C20_RNA_seq",
-  "name": "C+Y with CSP-1 (20 minutes)",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/C20_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/C20_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "C20",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "C2N_RNA_seq",
-  "name": "C+Y to nose-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/C2N_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/C2N_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "C2N",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "F40_RNA_seq",
-  "name": "CSF-mimicking to fever-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/F40_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/F40_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "F40",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "N2B_RNA_seq",
-  "name": "Nose-mimicking to blood-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/N2B_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/N2B_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "N2B",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "N2F_RNA_seq",
-  "name": "Nose-mimicking to CSF-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/N2F_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/N2F_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "N2F",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "N2L_RNA_seq",
-  "name": "Nose-mimicking to lung-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/N2L_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/N2L_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "N2L",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "ND5_RNA_seq",
-  "name": "Nose-mimicking to transmission-mimicking medium (5 minutes)",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/ND5_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/ND5_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "ND5",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "ND6_RNA_seq",
-  "name": "Nose-mimicking to transmission-mimicking medium (60 minutes)" ,
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/ND6_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/ND6_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "ND6",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "NDN_RNA_seq",
-  "name": "Nose-mimicking to transmission-mimicking to nose-mimicking medium",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Aprianto_et_al_NAR_2018"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/NDN_plus.bw"
-        },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "locationType": "UriLocation",
-          "uri": "data/D39V/NDN_min.bw"
-        },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "ND6",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
   "trackId": "CSFMC_VdB_RNA_seq",
   "name": "CSF-mimicking medium",
   "assemblyNames": [
@@ -2599,7 +2845,6 @@
     }
   ]
 },
-
     {
       "type": "HicTrack",
       "trackId": "D39V_WT_HiC",
@@ -22600,7 +22845,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.4.24)",
+    "name": "PneumoBrowse 2 (v1.4.25)",
     "margin": 0,
     "views": [
       {
