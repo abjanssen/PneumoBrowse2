@@ -21772,10 +21772,10 @@
         "feature": "jexl:{assemblyName: undefined, MashMap_mapping_quality:feature.mappingQual, Kmer_complexity_score:feature.kc, mappingQual:undefined, Identity:feature.id, id:undefined,  kc:undefined, syntenyId:undefined, identity:undefined, numMatches:undefined, blockLen:undefined, mate:{refName:mate.start}}"
       }
     },
-    {
+  {
       "type": "MultiQuantitativeTrack",
-      "trackId": "VL6124_rep1",
-      "name": "VL6124, replicate 1",
+      "trackId": "VL6124_MJ",
+      "name": "VL6124",
       "assemblyNames": [
         "DP1322"
       ],
@@ -21790,7 +21790,7 @@
             "type": "BigWigAdapter",
             "bigWigLocation": {
               "locationType": "UriLocation",
-              "uri": "data/DP1322/1_plus.bw"
+              "uri": "data/DP1322/VL6124_MJ_plus.bw"
             },
             "source": "Plus strand"
           },
@@ -21798,7 +21798,7 @@
             "type": "BigWigAdapter",
             "bigWigLocation": {
               "locationType": "UriLocation",
-              "uri": "data/DP1322/1_min.bw"
+              "uri": "data/DP1322/VL6124_MJ_min.bw"
             },
             "source": "Minus strand"
           }
@@ -21807,16 +21807,16 @@
       "displays": [
         {
           "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL6124_rep1",
+          "displayId": "VL6124_MJ",
           "height": 100,
           "defaultRendering": "xyplot"
         }
       ]
     },
-    {
+  {
       "type": "MultiQuantitativeTrack",
-      "trackId": "VL6124_rep2",
-      "name": "VL6124, replicate 2",
+      "trackId": "VL7288_MJ",
+      "name": "VL7288",
       "assemblyNames": [
         "DP1322"
       ],
@@ -21831,7 +21831,7 @@
             "type": "BigWigAdapter",
             "bigWigLocation": {
               "locationType": "UriLocation",
-              "uri": "data/DP1322/2_plus.bw"
+              "uri": "data/DP1322/VL7288_MJ_plus.bw"
             },
             "source": "Plus strand"
           },
@@ -21839,7 +21839,7 @@
             "type": "BigWigAdapter",
             "bigWigLocation": {
               "locationType": "UriLocation",
-              "uri": "data/DP1322/2_min.bw"
+              "uri": "data/DP1322/VL7288_MJ_min.bw"
             },
             "source": "Minus strand"
           }
@@ -21848,16 +21848,16 @@
       "displays": [
         {
           "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL6124_rep2",
+          "displayId": "VL7288_MJ",
           "height": 100,
           "defaultRendering": "xyplot"
         }
       ]
     },
-    {
+  {
       "type": "MultiQuantitativeTrack",
-      "trackId": "VL6124_rep3",
-      "name": "VL6124, replicate 3",
+      "trackId": "VL8061_MJ",
+      "name": "VL8061",
       "assemblyNames": [
         "DP1322"
       ],
@@ -21872,7 +21872,7 @@
             "type": "BigWigAdapter",
             "bigWigLocation": {
               "locationType": "UriLocation",
-              "uri": "data/DP1322/3_plus.bw"
+              "uri": "data/DP1322/VL8061_MJ_plus.bw"
             },
             "source": "Plus strand"
           },
@@ -21880,7 +21880,7 @@
             "type": "BigWigAdapter",
             "bigWigLocation": {
               "locationType": "UriLocation",
-              "uri": "data/DP1322/3_min.bw"
+              "uri": "data/DP1322/VL8061_MJ_min.bw"
             },
             "source": "Minus strand"
           }
@@ -21889,16 +21889,16 @@
       "displays": [
         {
           "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL6124_rep3",
+          "displayId": "VL8061_MJ",
           "height": 100,
           "defaultRendering": "xyplot"
         }
       ]
     },
-    {
+{
       "type": "MultiQuantitativeTrack",
-      "trackId": "VL7288_rep1",
-      "name": "VL7288, replicate 1",
+      "trackId": "VL8065_MJ",
+      "name": "VL8065",
       "assemblyNames": [
         "DP1322"
       ],
@@ -21913,7 +21913,7 @@
             "type": "BigWigAdapter",
             "bigWigLocation": {
               "locationType": "UriLocation",
-              "uri": "data/DP1322/4_plus.bw"
+              "uri": "data/DP1322/VL8065_MJ_plus.bw"
             },
             "source": "Plus strand"
           },
@@ -21921,7 +21921,7 @@
             "type": "BigWigAdapter",
             "bigWigLocation": {
               "locationType": "UriLocation",
-              "uri": "data/DP1322/4_min.bw"
+              "uri": "data/DP1322/VL8065_MJ_min.bw"
             },
             "source": "Minus strand"
           }
@@ -21930,335 +21930,7 @@
       "displays": [
         {
           "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL7288_rep1",
-          "height": 100,
-          "defaultRendering": "xyplot"
-        }
-      ]
-    },
-    {
-      "type": "MultiQuantitativeTrack",
-      "trackId": "VL7288_rep2",
-      "name": "VL7288, replicate 2",
-      "assemblyNames": [
-        "DP1322"
-      ],
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "MultiWiggleAdapter",
-        "subadapters": [
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/5_plus.bw"
-            },
-            "source": "Plus strand"
-          },
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/5_min.bw"
-            },
-            "source": "Minus strand"
-          }
-        ]
-      },
-      "displays": [
-        {
-          "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL7288_rep2",
-          "height": 100,
-          "defaultRendering": "xyplot"
-        }
-      ]
-    },
-    {
-      "type": "MultiQuantitativeTrack",
-      "trackId": "VL7288_rep3",
-      "name": "VL7288, replicate 3",
-      "assemblyNames": [
-        "DP1322"
-      ],
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "MultiWiggleAdapter",
-        "subadapters": [
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/6_plus.bw"
-            },
-            "source": "Plus strand"
-          },
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/6_min.bw"
-            },
-            "source": "Minus strand"
-          }
-        ]
-      },
-      "displays": [
-        {
-          "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL7288_rep3",
-          "height": 100,
-          "defaultRendering": "xyplot"
-        }
-      ]
-    },
-    {
-      "type": "MultiQuantitativeTrack",
-      "trackId": "VL8061_rep1",
-      "name": "VL8061, replicate 1",
-      "assemblyNames": [
-        "DP1322"
-      ],
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "MultiWiggleAdapter",
-        "subadapters": [
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/7_plus.bw"
-            },
-            "source": "Plus strand"
-          },
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/7_min.bw"
-            },
-            "source": "Minus strand"
-          }
-        ]
-      },
-      "displays": [
-        {
-          "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL8061_rep1",
-          "height": 100,
-          "defaultRendering": "xyplot"
-        }
-      ]
-    },
-    {
-      "type": "MultiQuantitativeTrack",
-      "trackId": "VL8061_rep2",
-      "name": "VL8061, replicate 2",
-      "assemblyNames": [
-        "DP1322"
-      ],
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "MultiWiggleAdapter",
-        "subadapters": [
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/8_plus.bw"
-            },
-            "source": "Plus strand"
-          },
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/8_min.bw"
-            },
-            "source": "Minus strand"
-          }
-        ]
-      },
-      "displays": [
-        {
-          "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL8061_rep2",
-          "height": 100,
-          "defaultRendering": "xyplot"
-        }
-      ]
-    },
-    {
-      "type": "MultiQuantitativeTrack",
-      "trackId": "VL8061_rep3",
-      "name": "VL8061, replicate 3",
-      "assemblyNames": [
-        "DP1322"
-      ],
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "MultiWiggleAdapter",
-        "subadapters": [
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/9_plus.bw"
-            },
-            "source": "Plus strand"
-          },
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/9_min.bw"
-            },
-            "source": "Minus strand"
-          }
-        ]
-      },
-      "displays": [
-        {
-          "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL8061_rep3",
-          "height": 100,
-          "defaultRendering": "xyplot"
-        }
-      ]
-    },
-    {
-      "type": "MultiQuantitativeTrack",
-      "trackId": "VL8065_rep1",
-      "name": "VL8065, replicate 1",
-      "assemblyNames": [
-        "DP1322"
-      ],
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "MultiWiggleAdapter",
-        "subadapters": [
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/10_plus.bw"
-            },
-            "source": "Plus strand"
-          },
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/10_min.bw"
-            },
-            "source": "Minus strand"
-          }
-        ]
-      },
-      "displays": [
-        {
-          "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL8065_rep1",
-          "height": 100,
-          "defaultRendering": "xyplot"
-        }
-      ]
-    },
-    {
-      "type": "MultiQuantitativeTrack",
-      "trackId": "VL8065_rep2",
-      "name": "VL8065, replicate 2",
-      "assemblyNames": [
-        "DP1322"
-      ],
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "MultiWiggleAdapter",
-        "subadapters": [
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/11_plus.bw"
-            },
-            "source": "Plus strand"
-          },
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/11_min.bw"
-            },
-            "source": "Minus strand"
-          }
-        ]
-      },
-      "displays": [
-        {
-          "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL8065_rep2",
-          "height": 100,
-          "defaultRendering": "xyplot"
-        }
-      ]
-    },
-    {
-      "type": "MultiQuantitativeTrack",
-      "trackId": "VL8065_rep3",
-      "name": "VL8065, replicate 3",
-      "assemblyNames": [
-        "DP1322"
-      ],
-      "category": [
-        "Genome characteristics",
-        "RNA Sequencing"
-      ],
-      "adapter": {
-        "type": "MultiWiggleAdapter",
-        "subadapters": [
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/12_plus.bw"
-            },
-            "source": "Plus strand"
-          },
-          {
-            "type": "BigWigAdapter",
-            "bigWigLocation": {
-              "locationType": "UriLocation",
-              "uri": "data/DP1322/12_min.bw"
-            },
-            "source": "Minus strand"
-          }
-        ]
-      },
-      "displays": [
-        {
-          "type": "MultiLinearWiggleDisplay",
-          "displayId": "VL8065_rep3",
+          "displayId": "VL8065_MJ",
           "height": 100,
           "defaultRendering": "xyplot"
         }
