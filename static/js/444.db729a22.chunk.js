@@ -1,2 +1,0 @@
-"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[444],{444(e,a,s){s.d(a,{renderMultiWiggle:()=>n});var t=s(93280),i=s(62192),r=s(35873);async function n(e,a,s){const{sessionId:n,adapterConfig:o,regions:b}=a,{dataAdapter:u}=await(0,t.cK)(e,n,o),w=b[0];return s(a,await(0,i._)(u.getFeatures(w,a).pipe((0,r.$)())))}}}]);
-//# sourceMappingURL=444.db729a22.chunk.js.map

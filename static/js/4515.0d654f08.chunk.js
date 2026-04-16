@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[4515],{44515(e,s,l){l.r(s),l.d(s,{default:()=>a.A,getSelectUtilityClasses:()=>b.T,selectClasses:()=>b.A});var a=l(77737),b=l(26771)}}]);
