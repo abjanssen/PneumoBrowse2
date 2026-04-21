@@ -1,8 +1,8 @@
 {
-  "dateCreated": "2026-04-21T07:52:00.486Z",
+  "dateCreated": "2026-04-21T07:51:17.268Z",
   "tracks": [
     {
-      "trackId": "DCC1476_TFs.gff",
+      "trackId": "DP1322_additional.gff",
       "attributesIndexed": [
         "Name"
       ],
@@ -15,18 +15,18 @@
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/DCC1476/DCC1476_TF_binding_sorted.gff.gz"
+          "uri": "data/DP1322/DP1322_additional_annotations_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/DCC1476/DCC1476_TF_binding_sorted.gff.gz.tbi"
+            "uri": "data/DP1322/DP1322_additional_annotations_sorted.gff.gz.tbi"
           }
         }
       }
     }
   ],
   "assemblyNames": [
-    "DCC1476"
+    "DP1322"
   ]
 }

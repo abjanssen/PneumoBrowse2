@@ -1355,68 +1355,110 @@
         }
       ]
     },
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "All_Ribosome_profiling",
-  "name": "All datasets",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "Ribosome profiling"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Control.plus.bw" },
-        "source": "Unexposed control (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Control.minus.bw" },
-        "source": "Unexposed control (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Lefamulin.plus.bw" },
-        "source": "Lefamulin (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Lefamulin.minus.bw" },
-        "source": "Lefamulin (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Retapamulin.plus.bw" },
-        "source": "Retapamulin (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Retapamulin.minus.bw" },
-        "source": "Retapamulin (-)"
-      }
-    ]
-  },
-  "displays": [
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "All_Ribosome_profiling",
-      "height": 300,
-      "defaultRendering": "multiline",
-      "layout": [
-        { "source": "Unexposed control (+)", "name": "Unexposed control (+)", "color": "#1f77b4" },
-        { "source": "Unexposed control (-)", "name": "Unexposed control (-)", "color": "#1f77b4" },
-        { "source": "Lefamulin (+)",         "name": "Lefamulin (+)",         "color": "#ff7f0e" },
-        { "source": "Lefamulin (-)",         "name": "Lefamulin (-)",         "color": "#ff7f0e" },
-        { "source": "Retapamulin (+)",       "name": "Retapamulin (+)",       "color": "#2ca02c" },
-        { "source": "Retapamulin (-)",       "name": "Retapamulin (-)",       "color": "#2ca02c" }
+      "type": "MultiQuantitativeTrack",
+      "trackId": "All_Ribosome_profiling",
+      "name": "All datasets",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "Ribosome profiling"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Control.plus.bw"
+            },
+            "source": "Unexposed control (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Control.minus.bw"
+            },
+            "source": "Unexposed control (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Lefamulin.plus.bw"
+            },
+            "source": "Lefamulin (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Lefamulin.minus.bw"
+            },
+            "source": "Lefamulin (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Retapamulin.plus.bw"
+            },
+            "source": "Retapamulin (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Retapamulin.minus.bw"
+            },
+            "source": "Retapamulin (-)"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "All_Ribosome_profiling",
+          "height": 300,
+          "defaultRendering": "multiline",
+          "layout": [
+            {
+              "source": "Unexposed control (+)",
+              "name": "Unexposed control (+)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "Unexposed control (-)",
+              "name": "Unexposed control (-)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "Lefamulin (+)",
+              "name": "Lefamulin (+)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "Lefamulin (-)",
+              "name": "Lefamulin (-)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "Retapamulin (+)",
+              "name": "Retapamulin (+)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "Retapamulin (-)",
+              "name": "Retapamulin (-)",
+              "color": "#2ca02c"
+            }
+          ]
+        }
       ]
-    }
-  ]
-},
+    },
     {
       "type": "MultiQuantitativeTrack",
       "trackId": "Ribosome_profiling_Control",
@@ -1537,105 +1579,189 @@
         }
       ]
     },
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "All_MK_RNA_seq",
-  "name": "All datasets",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Kjos_Miller_et_al_PlosPathogens_2016"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/C+Y_MK_plus.bw" },
-        "source": "C+Y (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/C+Y_MK_min.bw" },
-        "source": "C+Y (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Cipro_MK_plus.bw" },
-        "source": "Ciprofloxacin (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Cipro_MK_min.bw" },
-        "source": "Ciprofloxacin (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Hpura_MK_plus.bw" },
-        "source": "6-(p-hydroxyphenylazo)-uracil (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Hpura_MK_min.bw" },
-        "source": "6-(p-hydroxyphenylazo)-uracil (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Hxu_MK_plus.bw" },
-        "source": "Hydroxyurea (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Hxu_MK_min.bw" },
-        "source": "Hydroxyurea (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Kan_MK_plus.bw" },
-        "source": "Kanamycin (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Kan_MK_min.bw" },
-        "source": "Kanamycin (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Rif_MK_plus.bw" },
-        "source": "Rifampicin (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/Rif_MK_min.bw" },
-        "source": "Rifampicin (-)"
-      }
-    ]
-  },
-  "displays": [
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "All_MK_RNA_seq",
-      "height": 300,
-      "defaultRendering": "multiline",
-      "layout": [
-        { "source": "C+Y (+)",           "name": "C+Y (+)",           "color": "#1f77b4" },
-        { "source": "C+Y (-)",           "name": "C+Y (-)",           "color": "#1f77b4" },
-        { "source": "Ciprofloxacin (+)", "name": "Ciprofloxacin (+)", "color": "#ff7f0e" },
-        { "source": "Ciprofloxacin (-)", "name": "Ciprofloxacin (-)", "color": "#ff7f0e" },
-        { "source": "6-(p-hydroxyphenylazo)-uracil (+)",         "name": "6-(p-hydroxyphenylazo)-uracil (+)",         "color": "#2ca02c" },
-        { "source": "6-(p-hydroxyphenylazo)-uracil (-)",         "name": "6-(p-hydroxyphenylazo)-uracil (-)",         "color": "#2ca02c" },
-        { "source": "Hydroxyurea (+)",   "name": "Hydroxyurea (+)",   "color": "#d62728" },
-        { "source": "Hydroxyurea (-)",   "name": "Hydroxyurea (-)",   "color": "#d62728" },
-        { "source": "Kanamycin (+)",     "name": "Kanamycin (+)",     "color": "#9467bd" },
-        { "source": "Kanamycin (-)",     "name": "Kanamycin (-)",     "color": "#9467bd" },
-        { "source": "Rifampicin (+)",    "name": "Rifampicin (+)",    "color": "#8c564b" },
-        { "source": "Rifampicin (-)",    "name": "Rifampicin (-)",    "color": "#8c564b" }
+      "type": "MultiQuantitativeTrack",
+      "trackId": "All_MK_RNA_seq",
+      "name": "All datasets",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Kjos_Miller_et_al_PlosPathogens_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C+Y_MK_plus.bw"
+            },
+            "source": "C+Y (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C+Y_MK_min.bw"
+            },
+            "source": "C+Y (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Cipro_MK_plus.bw"
+            },
+            "source": "Ciprofloxacin (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Cipro_MK_min.bw"
+            },
+            "source": "Ciprofloxacin (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Hpura_MK_plus.bw"
+            },
+            "source": "6-(p-hydroxyphenylazo)-uracil (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Hpura_MK_min.bw"
+            },
+            "source": "6-(p-hydroxyphenylazo)-uracil (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Hxu_MK_plus.bw"
+            },
+            "source": "Hydroxyurea (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Hxu_MK_min.bw"
+            },
+            "source": "Hydroxyurea (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Kan_MK_plus.bw"
+            },
+            "source": "Kanamycin (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Kan_MK_min.bw"
+            },
+            "source": "Kanamycin (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Rif_MK_plus.bw"
+            },
+            "source": "Rifampicin (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/Rif_MK_min.bw"
+            },
+            "source": "Rifampicin (-)"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "All_MK_RNA_seq",
+          "height": 300,
+          "defaultRendering": "multiline",
+          "layout": [
+            {
+              "source": "C+Y (+)",
+              "name": "C+Y (+)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "C+Y (-)",
+              "name": "C+Y (-)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "Ciprofloxacin (+)",
+              "name": "Ciprofloxacin (+)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "Ciprofloxacin (-)",
+              "name": "Ciprofloxacin (-)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "6-(p-hydroxyphenylazo)-uracil (+)",
+              "name": "6-(p-hydroxyphenylazo)-uracil (+)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "6-(p-hydroxyphenylazo)-uracil (-)",
+              "name": "6-(p-hydroxyphenylazo)-uracil (-)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "Hydroxyurea (+)",
+              "name": "Hydroxyurea (+)",
+              "color": "#d62728"
+            },
+            {
+              "source": "Hydroxyurea (-)",
+              "name": "Hydroxyurea (-)",
+              "color": "#d62728"
+            },
+            {
+              "source": "Kanamycin (+)",
+              "name": "Kanamycin (+)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "Kanamycin (-)",
+              "name": "Kanamycin (-)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "Rifampicin (+)",
+              "name": "Rifampicin (+)",
+              "color": "#8c564b"
+            },
+            {
+              "source": "Rifampicin (-)",
+              "name": "Rifampicin (-)",
+              "color": "#8c564b"
+            }
+          ]
+        }
       ]
-    }
-  ]
-},
+    },
     {
       "type": "MultiQuantitativeTrack",
       "trackId": "C+Y_MK_RNA_seq",
@@ -1882,448 +2008,703 @@
         }
       ]
     },
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "All_RA_RNA_seq_2",
-  "name": "All datasets",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_0_RA_plus.bw" },
-        "source": "WT (0 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_0_RA_min.bw" },
-        "source": "WT (0 min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_30_RA_plus.bw" },
-        "source": "WT (30 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_30_RA_min.bw" },
-        "source": "WT (30 min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_60_RA_plus.bw" },
-        "source": "WT (60 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_60_RA_min.bw" },
-        "source": "WT (60 min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_120_RA_plus.bw" },
-        "source": "WT (120 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_120_RA_min.bw" },
-        "source": "WT (120 min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_240_RA_plus.bw" },
-        "source": "WT (240 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_240_RA_min.bw" },
-        "source": "WT (240 min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_0_RA_plus.bw" },
-        "source": "Capsule KO (0 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_0_RA_min.bw" },
-        "source": "Capsule KO (0 min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_30_RA_plus.bw" },
-        "source": "Capsule KO (30 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_30_RA_min.bw" },
-        "source": "Capsule KO (30 min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_60_RA_plus.bw" },
-        "source": "Capsule KO (60 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_60_RA_min.bw" },
-        "source": "Capsule KO (60 min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_120_RA_plus.bw" },
-        "source": "Capsule KO (120 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_120_RA_min.bw" },
-        "source": "Capsule KO (120 min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_240_RA_plus.bw" },
-        "source": "Capsule KO (240 min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_240_RA_min.bw" },
-        "source": "Capsule KO (240 min) (-)"
-      }
-    ]
-  },
-  "displays": [
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "All_RA_RNA_seq_2",
-      "height": 300,
-      "defaultRendering": "multiline",
-      "layout": [
-        { "source": "WT (0 min) (+)",    "name": "WT (0 min) (+)",    "color": "#1f77b4" },
-        { "source": "WT (0 min) (-)",    "name": "WT (0 min) (-)",    "color": "#1f77b4" },
-        { "source": "WT (30 min) (+)",   "name": "WT (30 min) (+)",   "color": "#ff7f0e" },
-        { "source": "WT (30 min) (-)",   "name": "WT (30 min) (-)",   "color": "#ff7f0e" },
-        { "source": "WT (60 min) (+)",   "name": "WT (60 min) (+)",   "color": "#2ca02c" },
-        { "source": "WT (60 min) (-)",   "name": "WT (60 min) (-)",   "color": "#2ca02c" },
-        { "source": "WT (120 min) (+)",  "name": "WT (120 min) (+)",  "color": "#d62728" },
-        { "source": "WT (120 min) (-)",  "name": "WT (120 min) (-)",  "color": "#d62728" },
-        { "source": "WT (240 min) (+)",  "name": "WT (240 min) (+)",  "color": "#9467bd" },
-        { "source": "WT (240 min) (-)",  "name": "WT (240 min) (-)",  "color": "#9467bd" },
-        { "source": "Capsule KO (0 min) (+)",  "name": "Capsule KO (0 min) (+)",  "color": "#8c564b" },
-        { "source": "Capsule KO (0 min) (-)",  "name": "Capsule KO (0 min) (-)",  "color": "#8c564b" },
-        { "source": "Capsule KO (30 min) (+)", "name": "Capsule KO (30 min) (+)", "color": "#e377c2" },
-        { "source": "Capsule KO (30 min) (-)", "name": "Capsule KO (30 min) (-)", "color": "#e377c2" },
-        { "source": "Capsule KO (60 min) (+)", "name": "Capsule KO (60 min) (+)", "color": "#7f7f7f" },
-        { "source": "Capsule KO (60 min) (-)", "name": "Capsule KO (60 min) (-)", "color": "#7f7f7f" },
-        { "source": "Capsule KO (120 min) (+)","name": "Capsule KO (120 min) (+)","color": "#bcbd22" },
-        { "source": "Capsule KO (120 min) (-)","name": "Capsule KO (120 min) (-)","color": "#bcbd22" },
-        { "source": "Capsule KO (240 min) (+)","name": "Capsule KO (240 min) (+)","color": "#17becf" },
-        { "source": "Capsule KO (240 min) (-)","name": "Capsule KO (240 min) (-)","color": "#17becf" }
+      "type": "MultiQuantitativeTrack",
+      "trackId": "All_RA_RNA_seq_2",
+      "name": "All datasets",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_0_RA_plus.bw"
+            },
+            "source": "WT (0 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_0_RA_min.bw"
+            },
+            "source": "WT (0 min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_30_RA_plus.bw"
+            },
+            "source": "WT (30 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_30_RA_min.bw"
+            },
+            "source": "WT (30 min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_60_RA_plus.bw"
+            },
+            "source": "WT (60 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_60_RA_min.bw"
+            },
+            "source": "WT (60 min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_120_RA_plus.bw"
+            },
+            "source": "WT (120 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_120_RA_min.bw"
+            },
+            "source": "WT (120 min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_240_RA_plus.bw"
+            },
+            "source": "WT (240 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_240_RA_min.bw"
+            },
+            "source": "WT (240 min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_0_RA_plus.bw"
+            },
+            "source": "Capsule KO (0 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_0_RA_min.bw"
+            },
+            "source": "Capsule KO (0 min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_30_RA_plus.bw"
+            },
+            "source": "Capsule KO (30 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_30_RA_min.bw"
+            },
+            "source": "Capsule KO (30 min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_60_RA_plus.bw"
+            },
+            "source": "Capsule KO (60 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_60_RA_min.bw"
+            },
+            "source": "Capsule KO (60 min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_120_RA_plus.bw"
+            },
+            "source": "Capsule KO (120 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_120_RA_min.bw"
+            },
+            "source": "Capsule KO (120 min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_240_RA_plus.bw"
+            },
+            "source": "Capsule KO (240 min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_240_RA_min.bw"
+            },
+            "source": "Capsule KO (240 min) (-)"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "All_RA_RNA_seq_2",
+          "height": 300,
+          "defaultRendering": "multiline",
+          "layout": [
+            {
+              "source": "WT (0 min) (+)",
+              "name": "WT (0 min) (+)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "WT (0 min) (-)",
+              "name": "WT (0 min) (-)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "WT (30 min) (+)",
+              "name": "WT (30 min) (+)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "WT (30 min) (-)",
+              "name": "WT (30 min) (-)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "WT (60 min) (+)",
+              "name": "WT (60 min) (+)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "WT (60 min) (-)",
+              "name": "WT (60 min) (-)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "WT (120 min) (+)",
+              "name": "WT (120 min) (+)",
+              "color": "#d62728"
+            },
+            {
+              "source": "WT (120 min) (-)",
+              "name": "WT (120 min) (-)",
+              "color": "#d62728"
+            },
+            {
+              "source": "WT (240 min) (+)",
+              "name": "WT (240 min) (+)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "WT (240 min) (-)",
+              "name": "WT (240 min) (-)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "Capsule KO (0 min) (+)",
+              "name": "Capsule KO (0 min) (+)",
+              "color": "#8c564b"
+            },
+            {
+              "source": "Capsule KO (0 min) (-)",
+              "name": "Capsule KO (0 min) (-)",
+              "color": "#8c564b"
+            },
+            {
+              "source": "Capsule KO (30 min) (+)",
+              "name": "Capsule KO (30 min) (+)",
+              "color": "#e377c2"
+            },
+            {
+              "source": "Capsule KO (30 min) (-)",
+              "name": "Capsule KO (30 min) (-)",
+              "color": "#e377c2"
+            },
+            {
+              "source": "Capsule KO (60 min) (+)",
+              "name": "Capsule KO (60 min) (+)",
+              "color": "#7f7f7f"
+            },
+            {
+              "source": "Capsule KO (60 min) (-)",
+              "name": "Capsule KO (60 min) (-)",
+              "color": "#7f7f7f"
+            },
+            {
+              "source": "Capsule KO (120 min) (+)",
+              "name": "Capsule KO (120 min) (+)",
+              "color": "#bcbd22"
+            },
+            {
+              "source": "Capsule KO (120 min) (-)",
+              "name": "Capsule KO (120 min) (-)",
+              "color": "#bcbd22"
+            },
+            {
+              "source": "Capsule KO (240 min) (+)",
+              "name": "Capsule KO (240 min) (+)",
+              "color": "#17becf"
+            },
+            {
+              "source": "Capsule KO (240 min) (-)",
+              "name": "Capsule KO (240 min) (-)",
+              "color": "#17becf"
+            }
+          ]
+        }
       ]
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "WT_0_RA_RNA_seq",
-  "name": "WT (0 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_0_RA_plus.bw" },
-        "source": "Plus strand"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_0_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "WT_0_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "WT_30_RA_RNA_seq",
-  "name": "WT (30 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_30_RA_plus.bw" },
-        "source": "Plus strand"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "WT_0_RA_RNA_seq",
+      "name": "WT (0 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_0_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_0_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_30_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "WT_0_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "WT_30_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "WT_60_RA_RNA_seq",
-  "name": "WT (60 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_60_RA_plus.bw" },
-        "source": "Plus strand"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "WT_30_RA_RNA_seq",
+      "name": "WT (30 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_30_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_30_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_60_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "WT_30_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "WT_60_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "WT_120_RA_RNA_seq",
-  "name": "WT (120 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_120_RA_plus.bw" },
-        "source": "Plus strand"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "WT_60_RA_RNA_seq",
+      "name": "WT (60 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_60_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_60_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_120_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "WT_60_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "WT_120_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "WT_240_RA_RNA_seq",
-  "name": "WT (240 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_240_RA_plus.bw" },
-        "source": "Plus strand"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "WT_120_RA_RNA_seq",
+      "name": "WT (120 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_120_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_120_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_240_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "WT_120_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "WT_240_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "dCPS_0_RA_RNA_seq",
-  "name": "Capsule KO (0 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_0_RA_plus.bw" },
-        "source": "Plus strand"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "WT_240_RA_RNA_seq",
+      "name": "WT (240 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_240_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_240_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_0_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "WT_240_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "dCPS_0_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "dCPS_30_RA_RNA_seq",
-  "name": "Capsule KO (30 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_30_RA_plus.bw" },
-        "source": "Plus strand"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "dCPS_0_RA_RNA_seq",
+      "name": "Capsule KO (0 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_0_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_0_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_30_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "dCPS_0_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "dCPS_30_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "dCPS_60_RA_RNA_seq",
-  "name": "Capsule KO (60 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_60_RA_plus.bw" },
-        "source": "Plus strand"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "dCPS_30_RA_RNA_seq",
+      "name": "Capsule KO (30 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_30_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_30_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_60_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "dCPS_30_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "dCPS_60_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "dCPS_120_RA_RNA_seq",
-  "name": "Capsule KO (120 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_120_RA_plus.bw" },
-        "source": "Plus strand"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "dCPS_60_RA_RNA_seq",
+      "name": "Capsule KO (60 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_60_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_60_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_120_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "dCPS_60_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "dCPS_120_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "dCPS_240_RA_RNA_seq",
-  "name": "Capsule KO (240 min)",
-  "assemblyNames": ["D39V"],
-  "category": ["RNA-seq", "Aprianto_et_al_GenomeBiol_2016"],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_240_RA_plus.bw" },
-        "source": "Plus strand"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "dCPS_120_RA_RNA_seq",
+      "name": "Capsule KO (120 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_120_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_120_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/dCPS_240_RA_min.bw" },
-        "source": "Minus strand"
-      }
-    ]
-  },
-  "displays": [
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "dCPS_120_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "dCPS_240_RA",
-      "height": 100,
-      "defaultRendering": "xyplot"
-    }
-  ]
-},
+      "type": "MultiQuantitativeTrack",
+      "trackId": "dCPS_240_RA_RNA_seq",
+      "name": "Capsule KO (240 min)",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Aprianto_et_al_GenomeBiol_2016"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_240_RA_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/dCPS_240_RA_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "dCPS_240_RA",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
     {
       "type": "MultiQuantitativeTrack",
       "trackId": "All_RA_RNA_seq_1",
@@ -2612,188 +2993,188 @@
           }
         ]
       },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "All_RA_RNA_seq_1",
-      "height": 300,
-      "configuration": "All_RA_RNA_seq_1",
-      "defaultRendering": "multiline",
-      "layout": [
+      "displays": [
         {
-          "source": "BMC (+)",
-          "name": "BMC (+)",
-          "color": "#1f77b4"
-        },
-        {
-          "source": "BMC (-)",
-          "name": "BMC (-)",
-          "color": "#1f77b4"
-        },
-        {
-          "source": "CSFMC (+)",
-          "name": "CSFMC (+)",
-          "color": "#ff7f0e"
-        },
-        {
-          "source": "CSFMC (-)",
-          "name": "CSFMC (-)",
-          "color": "#ff7f0e"
-        },
-        {
-          "source": "C+Y (+)",
-          "name": "C+Y (+)",
-          "color": "#2ca02c"
-        },
-        {
-          "source": "C+Y (-)",
-          "name": "C+Y (-)",
-          "color": "#2ca02c"
-        },
-        {
-          "source": "LMC (+)",
-          "name": "LMC (+)",
-          "color": "#d62728"
-        },
-        {
-          "source": "LMC (-)",
-          "name": "LMC (-)",
-          "color": "#d62728"
-        },
-        {
-          "source": "NMC (+)",
-          "name": "NMC (+)",
-          "color": "#9467bd"
-        },
-        {
-          "source": "NMC (-)",
-          "name": "NMC (-)",
-          "color": "#9467bd"
-        },
-        {
-          "source": "BMC → C+Y (+)",
-          "name": "BMC → C+Y (+)",
-          "color": "#8c564b"
-        },
-        {
-          "source": "BMC → C+Y (-)",
-          "name": "BMC → C+Y (-)",
-          "color": "#8c564b"
-        },
-        {
-          "source": "C+Y + CSP (3min) (+)",
-          "name": "C+Y + CSP (3min) (+)",
-          "color": "#e377c2"
-        },
-        {
-          "source": "C+Y + CSP (3min) (-)",
-          "name": "C+Y + CSP (3min) (-)",
-          "color": "#e377c2"
-        },
-        {
-          "source": "C+Y + CSP (10min) (+)",
-          "name": "C+Y + CSP (10min) (+)",
-          "color": "#7f7f7f"
-        },
-        {
-          "source": "C+Y + CSP (10min) (-)",
-          "name": "C+Y + CSP (10min) (-)",
-          "color": "#7f7f7f"
-        },
-        {
-          "source": "C+Y + CSP (20min) (+)",
-          "name": "C+Y + CSP (20min) (+)",
-          "color": "#bcbd22"
-        },
-        {
-          "source": "C+Y + CSP (20min) (-)",
-          "name": "C+Y + CSP (20min) (-)",
-          "color": "#bcbd22"
-        },
-        {
-          "source": "C+Y → NMC (+)",
-          "name": "C+Y → NMC (+)",
-          "color": "#11a8a4"
-        },
-        {
-          "source": "C+Y → NMC (-)",
-          "name": "C+Y → NMC (-)",
-          "color": "#11a8a4"
-        },
-        {
-          "source": "CSFMC → Fever (+)",
-          "name": "CSFMC → Fever (+)",
-          "color": "#9f81ff"
-        },
-        {
-          "source": "CSFMC → Fever (-)",
-          "name": "CSFMC → Fever (-)",
-          "color": "#9f81ff"
-        },
-        {
-          "source": "NMC → BMC (+)",
-          "name": "NMC → BMC (+)",
-          "color": "#0a3c43"
-        },
-        {
-          "source": "NMC → BMC (-)",
-          "name": "NMC → BMC (-)",
-          "color": "#0a3c43"
-        },
-        {
-          "source": "NMC → CSFMC (+)",
-          "name": "NMC → CSFMC (+)",
-          "color": "#c01206"
-        },
-        {
-          "source": "NMC → CSFMC (-)",
-          "name": "NMC → CSFMC (-)",
-          "color": "#c01206"
-        },
-        {
-          "source": "NMC → LMC (+)",
-          "name": "NMC → LMC (+)",
-          "color": "#1974bf"
-        },
-        {
-          "source": "NMC → LMC (-)",
-          "name": "NMC → LMC (-)",
-          "color": "#1974bf"
-        },
-        {
-          "source": "NMC → TMC (5min) (+)",
-          "name": "NMC → TMC (5min) (+)",
-          "color": "#863db0"
-        },
-        {
-          "source": "NMC → TMC (5min) (-)",
-          "name": "NMC → TMC (5min) (-)",
-          "color": "#863db0"
-        },
-        {
-          "source": "NMC → TMC (60min) (+)",
-          "name": "NMC → TMC (60min) (+)",
-          "color": "#938ed3"
-        },
-        {
-          "source": "NMC → TMC (60min) (-)",
-          "name": "NMC → TMC (60min) (-)",
-          "color": "#938ed3"
-        },
-        {
-          "source": "NMC → TMC → NMC (+)",
-          "name": "NMC → TMC → NMC (+)",
-          "color": "#961fff"
-        },
-        {
-          "source": "NMC → TMC → NMC (-)",
-          "name": "NMC → TMC → NMC (-)",
-          "color": "#961fff"
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "All_RA_RNA_seq_1",
+          "height": 300,
+          "configuration": "All_RA_RNA_seq_1",
+          "defaultRendering": "multiline",
+          "layout": [
+            {
+              "source": "BMC (+)",
+              "name": "BMC (+)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "BMC (-)",
+              "name": "BMC (-)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "CSFMC (+)",
+              "name": "CSFMC (+)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "CSFMC (-)",
+              "name": "CSFMC (-)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "C+Y (+)",
+              "name": "C+Y (+)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "C+Y (-)",
+              "name": "C+Y (-)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "LMC (+)",
+              "name": "LMC (+)",
+              "color": "#d62728"
+            },
+            {
+              "source": "LMC (-)",
+              "name": "LMC (-)",
+              "color": "#d62728"
+            },
+            {
+              "source": "NMC (+)",
+              "name": "NMC (+)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "NMC (-)",
+              "name": "NMC (-)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "BMC → C+Y (+)",
+              "name": "BMC → C+Y (+)",
+              "color": "#8c564b"
+            },
+            {
+              "source": "BMC → C+Y (-)",
+              "name": "BMC → C+Y (-)",
+              "color": "#8c564b"
+            },
+            {
+              "source": "C+Y + CSP (3min) (+)",
+              "name": "C+Y + CSP (3min) (+)",
+              "color": "#e377c2"
+            },
+            {
+              "source": "C+Y + CSP (3min) (-)",
+              "name": "C+Y + CSP (3min) (-)",
+              "color": "#e377c2"
+            },
+            {
+              "source": "C+Y + CSP (10min) (+)",
+              "name": "C+Y + CSP (10min) (+)",
+              "color": "#7f7f7f"
+            },
+            {
+              "source": "C+Y + CSP (10min) (-)",
+              "name": "C+Y + CSP (10min) (-)",
+              "color": "#7f7f7f"
+            },
+            {
+              "source": "C+Y + CSP (20min) (+)",
+              "name": "C+Y + CSP (20min) (+)",
+              "color": "#bcbd22"
+            },
+            {
+              "source": "C+Y + CSP (20min) (-)",
+              "name": "C+Y + CSP (20min) (-)",
+              "color": "#bcbd22"
+            },
+            {
+              "source": "C+Y → NMC (+)",
+              "name": "C+Y → NMC (+)",
+              "color": "#11a8a4"
+            },
+            {
+              "source": "C+Y → NMC (-)",
+              "name": "C+Y → NMC (-)",
+              "color": "#11a8a4"
+            },
+            {
+              "source": "CSFMC → Fever (+)",
+              "name": "CSFMC → Fever (+)",
+              "color": "#9f81ff"
+            },
+            {
+              "source": "CSFMC → Fever (-)",
+              "name": "CSFMC → Fever (-)",
+              "color": "#9f81ff"
+            },
+            {
+              "source": "NMC → BMC (+)",
+              "name": "NMC → BMC (+)",
+              "color": "#0a3c43"
+            },
+            {
+              "source": "NMC → BMC (-)",
+              "name": "NMC → BMC (-)",
+              "color": "#0a3c43"
+            },
+            {
+              "source": "NMC → CSFMC (+)",
+              "name": "NMC → CSFMC (+)",
+              "color": "#c01206"
+            },
+            {
+              "source": "NMC → CSFMC (-)",
+              "name": "NMC → CSFMC (-)",
+              "color": "#c01206"
+            },
+            {
+              "source": "NMC → LMC (+)",
+              "name": "NMC → LMC (+)",
+              "color": "#1974bf"
+            },
+            {
+              "source": "NMC → LMC (-)",
+              "name": "NMC → LMC (-)",
+              "color": "#1974bf"
+            },
+            {
+              "source": "NMC → TMC (5min) (+)",
+              "name": "NMC → TMC (5min) (+)",
+              "color": "#863db0"
+            },
+            {
+              "source": "NMC → TMC (5min) (-)",
+              "name": "NMC → TMC (5min) (-)",
+              "color": "#863db0"
+            },
+            {
+              "source": "NMC → TMC (60min) (+)",
+              "name": "NMC → TMC (60min) (+)",
+              "color": "#938ed3"
+            },
+            {
+              "source": "NMC → TMC (60min) (-)",
+              "name": "NMC → TMC (60min) (-)",
+              "color": "#938ed3"
+            },
+            {
+              "source": "NMC → TMC → NMC (+)",
+              "name": "NMC → TMC → NMC (+)",
+              "color": "#961fff"
+            },
+            {
+              "source": "NMC → TMC → NMC (-)",
+              "name": "NMC → TMC → NMC (-)",
+              "color": "#961fff"
+            }
+          ]
         }
       ]
-    }
-  ]
-},
+    },
     {
       "type": "MultiQuantitativeTrack",
       "trackId": "BEP_RA_RNA_seq",
@@ -3748,87 +4129,86 @@
         }
       ]
     },
-        {
-          "type": "MultiQuantitativeTrack",
-          "trackId": "All_JS_RNA_seq_1",
-          "name": "All datasets",
-          "assemblyNames": [
-            "D39V"
-          ],
-          "category": [
-            "RNA-seq",
-            "Slager_et_al_JBac_2019"
-          ],
-          "adapter": {
-            "type": "MultiWiggleAdapter",
-            "subadapters": [
-
-              {
-                "type": "BigWigAdapter",
-                "bigWigLocation": {
-                  "locationType": "UriLocation",
-                  "uri": "data/D39V/CEP_RA_plus.bw"
-                },
-                "source": "C+Y (+)"
-              },
-              {
-                "type": "BigWigAdapter",
-                "bigWigLocation": {
-                  "locationType": "UriLocation",
-                  "uri": "data/D39V/CEP_RA_min.bw"
-                },
-                "source": "C+Y (-)"
-              },
-              {
-                "type": "BigWigAdapter",
-                "bigWigLocation": {
-                  "locationType": "UriLocation",
-                  "uri": "data/D39V/C03_RA_plus.bw"
-                },
-                "source": "C+Y + CSP (3min) (+)"
-              },
-              {
-                "type": "BigWigAdapter",
-                "bigWigLocation": {
-                  "locationType": "UriLocation",
-                  "uri": "data/D39V/C03_RA_min.bw"
-                },
-                "source": "C+Y + CSP (3min) (-)"
-              },
-              {
-                "type": "BigWigAdapter",
-                "bigWigLocation": {
-                  "locationType": "UriLocation",
-                  "uri": "data/D39V/C10_RA_plus.bw"
-                },
-                "source": "C+Y + CSP (10min) (+)"
-              },
-              {
-                "type": "BigWigAdapter",
-                "bigWigLocation": {
-                  "locationType": "UriLocation",
-                  "uri": "data/D39V/C10_RA_min.bw"
-                },
-                "source": "C+Y + CSP (10min) (-)"
-              },
-              {
-                "type": "BigWigAdapter",
-                "bigWigLocation": {
-                  "locationType": "UriLocation",
-                  "uri": "data/D39V/C20_RA_plus.bw"
-                },
-                "source": "C+Y + CSP (20min) (+)"
-              },
-              {
-                "type": "BigWigAdapter",
-                "bigWigLocation": {
-                  "locationType": "UriLocation",
-                  "uri": "data/D39V/C20_RA_min.bw"
-                },
-                "source": "C+Y + CSP (20min) (-)"
-              }
-            ]
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "All_JS_RNA_seq_1",
+      "name": "All datasets",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Slager_et_al_JBac_2019"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/CEP_RA_plus.bw"
+            },
+            "source": "C+Y (+)"
           },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/CEP_RA_min.bw"
+            },
+            "source": "C+Y (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C03_RA_plus.bw"
+            },
+            "source": "C+Y + CSP (3min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C03_RA_min.bw"
+            },
+            "source": "C+Y + CSP (3min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C10_RA_plus.bw"
+            },
+            "source": "C+Y + CSP (10min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C10_RA_min.bw"
+            },
+            "source": "C+Y + CSP (10min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C20_RA_plus.bw"
+            },
+            "source": "C+Y + CSP (20min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C20_RA_min.bw"
+            },
+            "source": "C+Y + CSP (20min) (-)"
+          }
+        ]
+      },
       "displays": [
         {
           "type": "MultiLinearWiggleDisplay",
@@ -4045,57 +4425,85 @@
         }
       ]
     },
-{
-  "type": "MultiQuantitativeTrack",
-  "trackId": "All_BS_RNA_seq",
-  "name": "All datasets",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "Sewgoolam_et_al_NatComms_2025"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_BS_plus.bw" },
-        "source": "WT (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/WT_BS_min.bw" },
-        "source": "WT (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/vraS_BS_plus.bw" },
-        "source": "vraS KO (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/vraS_BS_min.bw" },
-        "source": "vraS KO (-)"
-      }
-    ]
-  },
-  "displays": [
     {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "All_BS_RNA_seq",
-      "height": 300,
-      "defaultRendering": "multiline",
-      "layout": [
-        { "source": "WT (+)",       "name": "WT (+)",       "color": "#1f77b4" },
-        { "source": "WT (-)",       "name": "WT (-)",       "color": "#1f77b4" },
-        { "source": "vraS KO (+)",  "name": "vraS KO (+)",  "color": "#ff7f0e" },
-        { "source": "vraS KO (-)",  "name": "vraS KO (-)",  "color": "#ff7f0e" }
+      "type": "MultiQuantitativeTrack",
+      "trackId": "All_BS_RNA_seq",
+      "name": "All datasets",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "Sewgoolam_et_al_NatComms_2025"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_BS_plus.bw"
+            },
+            "source": "WT (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/WT_BS_min.bw"
+            },
+            "source": "WT (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/vraS_BS_plus.bw"
+            },
+            "source": "vraS KO (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/vraS_BS_min.bw"
+            },
+            "source": "vraS KO (-)"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "All_BS_RNA_seq",
+          "height": 300,
+          "defaultRendering": "multiline",
+          "layout": [
+            {
+              "source": "WT (+)",
+              "name": "WT (+)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "WT (-)",
+              "name": "WT (-)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "vraS KO (+)",
+              "name": "vraS KO (+)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "vraS KO (-)",
+              "name": "vraS KO (-)",
+              "color": "#ff7f0e"
+            }
+          ]
+        }
       ]
-    }
-  ]
-},
+    },
     {
       "type": "MultiQuantitativeTrack",
       "trackId": "WT_BS_RNA_seq",
@@ -4179,104 +4587,188 @@
       ]
     },
     {
-  "type": "MultiQuantitativeTrack",
-  "trackId": "All_VdB_RNA_seq",
-  "name": "All datasets",
-  "assemblyNames": [
-    "D39V"
-  ],
-  "category": [
-    "RNA-seq",
-    "de_Bakker_et_al_NatComms_2025"
-  ],
-  "adapter": {
-    "type": "MultiWiggleAdapter",
-    "subadapters": [
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/CSFMC_VdB_plus.bw" },
-        "source": "CSF-mimicking medium (+)"
+      "type": "MultiQuantitativeTrack",
+      "trackId": "All_VdB_RNA_seq",
+      "name": "All datasets",
+      "assemblyNames": [
+        "D39V"
+      ],
+      "category": [
+        "RNA-seq",
+        "de_Bakker_et_al_NatComms_2025"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/CSFMC_VdB_plus.bw"
+            },
+            "source": "CSF-mimicking medium (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/CSFMC_VdB_min.bw"
+            },
+            "source": "CSF-mimicking medium (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C+Y_VdB_plus.bw"
+            },
+            "source": "C+Y (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/C+Y_VdB_min.bw"
+            },
+            "source": "C+Y (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/CSP_VdB_plus.bw"
+            },
+            "source": "C+Y with CSP-1 (20min) (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/CSP_VdB_min.bw"
+            },
+            "source": "C+Y with CSP-1 (20min) (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/FEVER_VdB_plus.bw"
+            },
+            "source": "Fever and CSF-mimicking medium (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/FEVER_VdB_min.bw"
+            },
+            "source": "Fever and CSF-mimicking medium (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/LUMC_VdB_plus.bw"
+            },
+            "source": "Lung-mimicking medium (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/LUMC_VdB_min.bw"
+            },
+            "source": "Lung-mimicking medium (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/NMC_VdB_plus.bw"
+            },
+            "source": "Nose-mimicking medium (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/D39V/NMC_VdB_min.bw"
+            },
+            "source": "Nose-mimicking medium (-)"
+          }
+        ]
       },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/CSFMC_VdB_min.bw" },
-        "source": "CSF-mimicking medium (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/C+Y_VdB_plus.bw" },
-        "source": "C+Y (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/C+Y_VdB_min.bw" },
-        "source": "C+Y (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/CSP_VdB_plus.bw" },
-        "source": "C+Y with CSP-1 (20min) (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/CSP_VdB_min.bw" },
-        "source": "C+Y with CSP-1 (20min) (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/FEVER_VdB_plus.bw" },
-        "source": "Fever and CSF-mimicking medium (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/FEVER_VdB_min.bw" },
-        "source": "Fever and CSF-mimicking medium (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/LUMC_VdB_plus.bw" },
-        "source": "Lung-mimicking medium (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/LUMC_VdB_min.bw" },
-        "source": "Lung-mimicking medium (-)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/NMC_VdB_plus.bw" },
-        "source": "Nose-mimicking medium (+)"
-      },
-      {
-        "type": "BigWigAdapter",
-        "bigWigLocation": { "locationType": "UriLocation", "uri": "data/D39V/NMC_VdB_min.bw" },
-        "source": "Nose-mimicking medium (-)"
-      }
-    ]
-  },
-  "displays": [
-    {
-      "type": "MultiLinearWiggleDisplay",
-      "displayId": "All_VdB_RNA_seq",
-      "height": 300,
-      "defaultRendering": "multiline",
-      "layout": [
-        { "source": "CSF-mimicking medium (+)",        "name": "CSF-mimicking medium (+)",        "color": "#1f77b4" },
-        { "source": "CSF-mimicking medium (-)",        "name": "CSF-mimicking medium (-)",        "color": "#1f77b4" },
-        { "source": "C+Y (+)",                         "name": "C+Y (+)",                         "color": "#ff7f0e" },
-        { "source": "C+Y (-)",                         "name": "C+Y (-)",                         "color": "#ff7f0e" },
-        { "source": "C+Y with CSP-1 (20min) (+)",      "name": "C+Y with CSP-1 (20min) (+)",      "color": "#2ca02c" },
-        { "source": "C+Y with CSP-1 (20min) (-)",      "name": "C+Y with CSP-1 (20min) (-)",      "color": "#2ca02c" },
-        { "source": "Fever and CSF-mimicking medium (+)", "name": "Fever and CSF-mimicking medium (+)", "color": "#d62728" },
-        { "source": "Fever and CSF-mimicking medium (-)", "name": "Fever and CSF-mimicking medium (-)", "color": "#d62728" },
-        { "source": "Lung-mimicking medium (+)",       "name": "Lung-mimicking medium (+)",       "color": "#9467bd" },
-        { "source": "Lung-mimicking medium (-)",       "name": "Lung-mimicking medium (-)",       "color": "#9467bd" },
-        { "source": "Nose-mimicking medium (+)",       "name": "Nose-mimicking medium (+)",       "color": "#8c564b" },
-        { "source": "Nose-mimicking medium (-)",       "name": "Nose-mimicking medium (-)",       "color": "#8c564b" }
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "All_VdB_RNA_seq",
+          "height": 300,
+          "defaultRendering": "multiline",
+          "layout": [
+            {
+              "source": "CSF-mimicking medium (+)",
+              "name": "CSF-mimicking medium (+)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "CSF-mimicking medium (-)",
+              "name": "CSF-mimicking medium (-)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "C+Y (+)",
+              "name": "C+Y (+)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "C+Y (-)",
+              "name": "C+Y (-)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "C+Y with CSP-1 (20min) (+)",
+              "name": "C+Y with CSP-1 (20min) (+)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "C+Y with CSP-1 (20min) (-)",
+              "name": "C+Y with CSP-1 (20min) (-)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "Fever and CSF-mimicking medium (+)",
+              "name": "Fever and CSF-mimicking medium (+)",
+              "color": "#d62728"
+            },
+            {
+              "source": "Fever and CSF-mimicking medium (-)",
+              "name": "Fever and CSF-mimicking medium (-)",
+              "color": "#d62728"
+            },
+            {
+              "source": "Lung-mimicking medium (+)",
+              "name": "Lung-mimicking medium (+)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "Lung-mimicking medium (-)",
+              "name": "Lung-mimicking medium (-)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "Nose-mimicking medium (+)",
+              "name": "Nose-mimicking medium (+)",
+              "color": "#8c564b"
+            },
+            {
+              "source": "Nose-mimicking medium (-)",
+              "name": "Nose-mimicking medium (-)",
+              "color": "#8c564b"
+            }
+          ]
+        }
       ]
-    }
-  ]
-},
+    },
     {
       "type": "MultiQuantitativeTrack",
       "trackId": "CSFMC_VdB_RNA_seq",
@@ -8890,6 +9382,73 @@
       ],
       "formatDetails": {
         "feature": "jexl:{phase:undefined, id:undefined, pvalue:undefined, qvalue:undefined, sequence:undefined, Function:feature.function, function:undefined, Source:toUpperCase(feature.source), source:undefined, type:replaceuc(feature.type)}"
+      }
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "DP1322_additional.gff",
+      "name": "Additional annotations",
+      "assemblyNames": [
+        "DP1322"
+      ],
+      "category": [
+        "Annotation"
+      ],
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "locationType": "UriLocation",
+          "uri": "data/DP1322/DP1322_additional_annotations_sorted.gff.gz"
+        },
+        "index": {
+          "location": {
+            "locationType": "UriLocation",
+            "uri": "data/DP1322/DP1322_additional_annotations_sorted.gff.gz.tbi"
+          }
+        }
+      },
+      "textSearching": {
+        "textSearchAdapter": {
+          "type": "TrixTextSearchAdapter",
+          "textSearchAdapterId": "DP1322_additional.gff-index",
+          "ixFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/DP1322_additional.gff.ix"
+          },
+          "ixxFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/DP1322_additional.gff.ixx"
+          },
+          "metaFilePath": {
+            "locationType": "UriLocation",
+            "uri": "trix/DP1322_additional.gff_meta.json"
+          },
+          "assemblyNames": [
+            "DP1322"
+          ]
+        }
+      },
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "DP1322_additional_annotations_sorted.gff-LinearBasicDisplay",
+          "mouseover": "jexl:capital(get(feature,'name'))",
+          "renderer": {
+            "type": "SvgFeatureRenderer",
+            "color1": "rgb(27, 158, 119)",
+            "labels": {
+              "name": "jexl:get(feature,'name')"
+            }
+          }
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "DP1322_additional_annotations_sorted.gff-LinearArcDisplay",
+          "mouseover": "jexl:get(feature,'name')"
+        }
+      ],
+      "formatDetails": {
+        "feature": "jexl:{type:undefined, Type:capital(feature.type), source:undefined, Source:feature.name}"
       }
     },
     {
@@ -24523,7 +25082,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse 2 (v1.4.28)",
+    "name": "PneumoBrowse 2 (v1.4.29)",
     "margin": 0,
     "views": [
       {
