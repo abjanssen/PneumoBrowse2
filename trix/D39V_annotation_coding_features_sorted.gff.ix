@@ -200,9 +200,9 @@ celc ["D39V%3A279283..279597"|"D39V_annotation_coding_features_sorted.gff"|"celC
 celd ["D39V%3A280202..281548"|"D39V_annotation_coding_features_sorted.gff"|"celD"|"PNEUPAN001060000"|"SPD_0283"|"SPV_0283"|"spr0282"|"SP_0310"|"SPV_RS01545"],1
 celq ["D39V%3A425055..426278"|"D39V_annotation_coding_features_sorted.gff"|"xylR"|"PNEUPAN001330000"|"SPD_0423"|"SPV_0423"|"spr0420"|"SP_0473"|"SPV_RS02280"|"celQ%20%20rokA"],1
 celr ["D39V%3A277300..279273"|"D39V_annotation_coding_features_sorted.gff"|"celR"|"PNEUPAN001056000"|"SPD_0280"|"SPV_0280"|"spr0279"|"SP_0306%20%20SP_0307"|"SPV_RS01530"],1
-cesf ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"vraT"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"liaF%20%20cesF"],1
-cesr ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
-cess ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
+cesf ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"liaF"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"VraT%20%20cesF"],1
+cesr ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
+cess ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
 cfla ["D39V%3A2013913..2015211"|"D39V_annotation_coding_features_sorted.gff"|"comFA"|"PNEUPAN003915000"|"SPD_2035"|"SPV_2035"|"spr2013"|"SP_2208"|"SPV_RS10765"|"cflA"],1
 cflb ["D39V%3A2013254..2013916"|"D39V_annotation_coding_features_sorted.gff"|"comFC"|"PNEUPAN003914000"|"SPD_2034"|"SPV_2034"|"spr2012"|"SP_2207"|"SPV_RS10760"|"cflB"],1
 cfr ["D39V%3A689342..690427"|"D39V_annotation_coding_features_sorted.gff"|"rlmN"|"PNEUPAN001707000"|"SPD_0669"|"SPV_0669"|"spr0676"|"SP_0768"|"SPV_RS03595"|"yfgB%20%20cfr"],1
@@ -639,7 +639,7 @@ hiss ["D39V%3A1919660..1920949"|"D39V_annotation_coding_features_sorted.gff"|"hi
 hist ["D39V%3A1442730..1443479"|"D39V_annotation_coding_features_sorted.gff"|"truA"|"PNEUPAN003000000"|"SPD_1424"|"SPV_1424"|"spr1451"|"SP_1599"|"SPV_RS07560"|"hisT"],1
 hk01 ["D39V%3A1461859..1462833"|"D39V_annotation_coding_features_sorted.gff"|"sirH"|"PNEUPAN003041000"|"SPD_1445"|"SPV_1445"|"spr1473"|"SP_1632"|"SPV_RS07680"|"HK01%20%20TCS01"],1
 hk02 ["D39V%3A1114251..1115600"|"D39V_annotation_coding_features_sorted.gff"|"vicK"|"PNEUPAN002465000"|"SPD_1084"|"SPV_1084"|"spr1106"|"SP_1226"|"SPV_RS05790"|"walK%20%20yycG%20%20micB%20%20HK02%20%20TCS02"],1
-hk03 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
+hk03 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
 hk04 ["D39V%3A1880867..1882198"|"D39V_annotation_coding_features_sorted.gff"|"pnpS"|"PNEUPAN003748000"|"SPD_1909"|"SPV_1909"|"spr1894"|"SP_2083"|"SPV_RS10120"|"phoR%20%20HK04%20%20TCS04"],1
 hk05 ["D39V%3A715944..717278"|"D39V_annotation_coding_features_sorted.gff"|"ciaH"|"PNEUPAN001750000"|"SPD_0702"|"SPV_0702"|"spr0708"|"SP_0799"|"SPV_RS03775"|"HK05%20%20TCS05"],1
 hk06 ["D39V%3A1998295..1999626"|"D39V_annotation_coding_features_sorted.gff"|"SPV_2019"|"PNEUPAN003900000"|"SPD_2019"|"SPV_2019"|"spr1997"|"SP_2192"|"SPV_RS10680"|"HK06%20%20TCS06"],1
@@ -728,9 +728,9 @@ leub ["D39V%3A1145644..1146681"|"D39V_annotation_coding_features_sorted.gff"|"le
 leus ["D39V%3A227726..230227"|"D39V_annotation_coding_features_sorted.gff"|"leuS"|"PNEUPAN000987000"|"SPD_0238"|"SPV_0238"|"spr0235"|"SP_0254"|"SPV_RS01295"],1
 lgt ["D39V%3A1272161..1272949"|"D39V_annotation_coding_features_sorted.gff"|"lgt"|"PNEUPAN002687000"|"SPD_1243"|"SPV_1243"|"spr1269"|"SP_1412"|"SPV_RS06635"],1
 lgul ["D39V%3A864538..864918"|"D39V_annotation_coding_features_sorted.gff"|"gloA"|"PNEUPAN001959000"|"SPD_0850"|"SPV_0850"|"spr0864"|"SP_0962"|"SPV_RS04565"|"lguL"],1
-liaf ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"vraT"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"liaF%20%20cesF"],1
-liar ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
-lias ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
+liaf ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"liaF"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"VraT%20%20cesF"],1
+liar ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
+lias ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
 lica ["D39V%3A1156396..1157265"|"D39V_annotation_coding_features_sorted.gff"|"licA"|"PNEUPAN002522000"|"SPD_1125"|"SPV_1125"|"spr1147"|"SP_1269"|"SPV_RS06000"|"pck%20%20choA"],1
 licb ["D39V%3A1155528..1156406"|"D39V_annotation_coding_features_sorted.gff"|"licB"|"PNEUPAN002521000"|"SPD_1124"|"SPV_1124"|"spr1146"|"SP_1268"|"SPV_RS05995"|"choT"],1
 licc ["D39V%3A1154827..1155516"|"D39V_annotation_coding_features_sorted.gff"|"licC"|"PNEUPAN002520000"|"SPD_1123"|"SPV_1123"|"spr1145"|"SP_1267"|"SPV_RS05990"|"choB"],1
@@ -1456,9 +1456,9 @@ pneupan001220000 ["D39V%3A351080..351958"|"D39V_annotation_coding_features_sorte
 pneupan001221000 ["D39V%3A351940..352893"|"D39V_annotation_coding_features_sorted.gff"|"mvaD"|"PNEUPAN001221000"|"SPD_0347"|"SPV_0347"|"spr0339"|"SP_0382"|"SPV_RS01885"|"mvd1"],1
 pneupan001222000 ["D39V%3A352880..353887"|"D39V_annotation_coding_features_sorted.gff"|"mvaK2"|"PNEUPAN001222000"|"SPD_0348"|"SPV_0348"|"spr0340"|"SP_0383"|"SPV_RS01890"],1
 pneupan001223000 ["D39V%3A353871..354881"|"D39V_annotation_coding_features_sorted.gff"|"fni"|"PNEUPAN001223000"|"SPD_0349"|"SPV_0349"|"spr0341"|"SP_0384"|"SPV_RS01895"],1
-pneupan001224000 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"vraT"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"liaF%20%20cesF"],1
-pneupan001225000 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
-pneupan001226000 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
+pneupan001224000 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"liaF"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"VraT%20%20cesF"],1
+pneupan001225000 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
+pneupan001226000 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
 pneupan001229000 ["D39V%3A357296..358065"|"D39V_annotation_coding_features_sorted.gff"|"alkD"|"PNEUPAN001229000"|"SPV_2148"|"SP_0388"|"SPV_RS11505"],1
 pneupan001231000 ["D39V%3A358215..358409"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0355"|"PNEUPAN001231000"|"SPD_0355"|"SPV_0355"|"spr0348"|"SP_0389"|"SPV_RS01930"],1
 pneupan001232000 ["D39V%3A358499..359360"|"D39V_annotation_coding_features_sorted.gff"|"cbpG"|"PNEUPAN001232000"|"SPD_0356"|"SPV_0356"|"spr0349"|"SP_0390"|"SPV_RS01935"],1
@@ -3473,7 +3473,7 @@ rpst ["D39V%3A745803..746039"|"D39V_annotation_coding_features_sorted.gff"|"rpsT
 rpsu ["D39V%3A1274007..1274183"|"D39V_annotation_coding_features_sorted.gff"|"rpsU"|"PNEUPAN002689000"|"SPD_1245"|"SPV_1245"|"spr1271"|"SP_1414"|"SPV_RS06645"],1
 rr01 ["D39V%3A1462826..1463503"|"D39V_annotation_coding_features_sorted.gff"|"sirR"|"PNEUPAN003042000"|"SPD_1446"|"SPV_1446"|"spr1474"|"SP_1633"|"SPV_RS07685"|"RR01%20%20TCS01"],1
 rr02 ["D39V%3A1115593..1116297"|"D39V_annotation_coding_features_sorted.gff"|"vicR"|"PNEUPAN002466000"|"SPD_1085"|"SPV_1085"|"spr1107"|"SP_1227"|"SPV_RS05795"|"walR%20%20yycF%20%20micA%20%20RR02%20%20TCS02"],1
-rr03 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
+rr03 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
 rr04 ["D39V%3A1880159..1880866"|"D39V_annotation_coding_features_sorted.gff"|"pnpR"|"PNEUPAN003747000"|"SPD_1908"|"SPV_1908"|"spr1893"|"SP_2082"|"SPV_RS10115"|"phoP%20%20RR04%20%20TCS04"],1
 rr05 ["D39V%3A715280..715954"|"D39V_annotation_coding_features_sorted.gff"|"ciaR"|"PNEUPAN001749000"|"SPD_0701"|"SPV_0701"|"spr0707"|"SP_0798"|"SPV_RS03770"|"RR05%20%20TCS05"],1
 rr06 ["D39V%3A1999623..2000276"|"D39V_annotation_coding_features_sorted.gff"|"SPV_2020"|"PNEUPAN003901000"|"SPD_2020"|"SPV_2020"|"spr1998"|"SP_2193"|"SPV_RS10685"|"RR06%20%20TCS06"],1
@@ -3937,9 +3937,9 @@ sp_0381 ["D39V%3A351080..351958"|"D39V_annotation_coding_features_sorted.gff"|"m
 sp_0382 ["D39V%3A351940..352893"|"D39V_annotation_coding_features_sorted.gff"|"mvaD"|"PNEUPAN001221000"|"SPD_0347"|"SPV_0347"|"spr0339"|"SP_0382"|"SPV_RS01885"|"mvd1"],1
 sp_0383 ["D39V%3A352880..353887"|"D39V_annotation_coding_features_sorted.gff"|"mvaK2"|"PNEUPAN001222000"|"SPD_0348"|"SPV_0348"|"spr0340"|"SP_0383"|"SPV_RS01890"],1
 sp_0384 ["D39V%3A353871..354881"|"D39V_annotation_coding_features_sorted.gff"|"fni"|"PNEUPAN001223000"|"SPD_0349"|"SPV_0349"|"spr0341"|"SP_0384"|"SPV_RS01895"],1
-sp_0385 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"vraT"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"liaF%20%20cesF"],1
-sp_0386 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
-sp_0387 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
+sp_0385 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"liaF"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"VraT%20%20cesF"],1
+sp_0386 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
+sp_0387 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
 sp_0388 ["D39V%3A357296..358065"|"D39V_annotation_coding_features_sorted.gff"|"alkD"|"PNEUPAN001229000"|"SPV_2148"|"SP_0388"|"SPV_RS11505"],1
 sp_0389 ["D39V%3A358215..358409"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0355"|"PNEUPAN001231000"|"SPD_0355"|"SPV_0355"|"spr0348"|"SP_0389"|"SPV_RS01930"],1
 sp_0390 ["D39V%3A358499..359360"|"D39V_annotation_coding_features_sorted.gff"|"cbpG"|"PNEUPAN001232000"|"SPD_0356"|"SPV_0356"|"spr0349"|"SP_0390"|"SPV_RS01935"],1
@@ -5935,9 +5935,9 @@ spd_0346 ["D39V%3A351080..351958"|"D39V_annotation_coding_features_sorted.gff"|"
 spd_0347 ["D39V%3A351940..352893"|"D39V_annotation_coding_features_sorted.gff"|"mvaD"|"PNEUPAN001221000"|"SPD_0347"|"SPV_0347"|"spr0339"|"SP_0382"|"SPV_RS01885"|"mvd1"],1
 spd_0348 ["D39V%3A352880..353887"|"D39V_annotation_coding_features_sorted.gff"|"mvaK2"|"PNEUPAN001222000"|"SPD_0348"|"SPV_0348"|"spr0340"|"SP_0383"|"SPV_RS01890"],1
 spd_0349 ["D39V%3A353871..354881"|"D39V_annotation_coding_features_sorted.gff"|"fni"|"PNEUPAN001223000"|"SPD_0349"|"SPV_0349"|"spr0341"|"SP_0384"|"SPV_RS01895"],1
-spd_0350 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"vraT"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"liaF%20%20cesF"],1
-spd_0351 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
-spd_0352 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
+spd_0350 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"liaF"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"VraT%20%20cesF"],1
+spd_0351 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
+spd_0352 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
 spd_0355 ["D39V%3A358215..358409"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0355"|"PNEUPAN001231000"|"SPD_0355"|"SPV_0355"|"spr0348"|"SP_0389"|"SPV_RS01930"],1
 spd_0356 ["D39V%3A358499..359360"|"D39V_annotation_coding_features_sorted.gff"|"cbpG"|"PNEUPAN001232000"|"SPD_0356"|"SPV_0356"|"spr0349"|"SP_0390"|"SPV_RS01935"],1
 spd_0357 ["D39V%3A359379..360263"|"D39V_annotation_coding_features_sorted.gff"|"cbpK"|"PNEUPAN001233000"|"SPD_0357"|"SPV_0357"|"spr0351"|"SP_0391"|"SPV_RS01940"|"cbpF%20%20pcpC"],1
@@ -7884,9 +7884,9 @@ spr0338 ["D39V%3A351080..351958"|"D39V_annotation_coding_features_sorted.gff"|"m
 spr0339 ["D39V%3A351940..352893"|"D39V_annotation_coding_features_sorted.gff"|"mvaD"|"PNEUPAN001221000"|"SPD_0347"|"SPV_0347"|"spr0339"|"SP_0382"|"SPV_RS01885"|"mvd1"],1
 spr0340 ["D39V%3A352880..353887"|"D39V_annotation_coding_features_sorted.gff"|"mvaK2"|"PNEUPAN001222000"|"SPD_0348"|"SPV_0348"|"spr0340"|"SP_0383"|"SPV_RS01890"],1
 spr0341 ["D39V%3A353871..354881"|"D39V_annotation_coding_features_sorted.gff"|"fni"|"PNEUPAN001223000"|"SPD_0349"|"SPV_0349"|"spr0341"|"SP_0384"|"SPV_RS01895"],1
-spr0342 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"vraT"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"liaF%20%20cesF"],1
-spr0343 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
-spr0344 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
+spr0342 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"liaF"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"VraT%20%20cesF"],1
+spr0343 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
+spr0344 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
 spr0348 ["D39V%3A358215..358409"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0355"|"PNEUPAN001231000"|"SPD_0355"|"SPV_0355"|"spr0348"|"SP_0389"|"SPV_RS01930"],1
 spr0349 ["D39V%3A358499..359360"|"D39V_annotation_coding_features_sorted.gff"|"cbpG"|"PNEUPAN001232000"|"SPD_0356"|"SPV_0356"|"spr0349"|"SP_0390"|"SPV_RS01935"],1
 spr0351 ["D39V%3A359379..360263"|"D39V_annotation_coding_features_sorted.gff"|"cbpK"|"PNEUPAN001233000"|"SPD_0357"|"SPV_0357"|"spr0351"|"SP_0391"|"SPV_RS01940"|"cbpF%20%20pcpC"],1
@@ -9815,9 +9815,9 @@ spv_0346 ["D39V%3A351080..351958"|"D39V_annotation_coding_features_sorted.gff"|"
 spv_0347 ["D39V%3A351940..352893"|"D39V_annotation_coding_features_sorted.gff"|"mvaD"|"PNEUPAN001221000"|"SPD_0347"|"SPV_0347"|"spr0339"|"SP_0382"|"SPV_RS01885"|"mvd1"],1
 spv_0348 ["D39V%3A352880..353887"|"D39V_annotation_coding_features_sorted.gff"|"mvaK2"|"PNEUPAN001222000"|"SPD_0348"|"SPV_0348"|"spr0340"|"SP_0383"|"SPV_RS01890"],1
 spv_0349 ["D39V%3A353871..354881"|"D39V_annotation_coding_features_sorted.gff"|"fni"|"PNEUPAN001223000"|"SPD_0349"|"SPV_0349"|"spr0341"|"SP_0384"|"SPV_RS01895"],1
-spv_0350 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"vraT"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"liaF%20%20cesF"],1
-spv_0351 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
-spv_0352 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
+spv_0350 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"liaF"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"VraT%20%20cesF"],1
+spv_0351 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
+spv_0352 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
 spv_0355 ["D39V%3A358215..358409"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0355"|"PNEUPAN001231000"|"SPD_0355"|"SPV_0355"|"spr0348"|"SP_0389"|"SPV_RS01930"],1
 spv_0356 ["D39V%3A358499..359360"|"D39V_annotation_coding_features_sorted.gff"|"cbpG"|"PNEUPAN001232000"|"SPD_0356"|"SPV_0356"|"spr0349"|"SP_0390"|"SPV_RS01935"],1
 spv_0357 ["D39V%3A359379..360263"|"D39V_annotation_coding_features_sorted.gff"|"cbpK"|"PNEUPAN001233000"|"SPD_0357"|"SPV_0357"|"spr0351"|"SP_0391"|"SPV_RS01940"|"cbpF%20%20pcpC"],1
@@ -12089,9 +12089,9 @@ spv_rs01880 ["D39V%3A351080..351958"|"D39V_annotation_coding_features_sorted.gff
 spv_rs01885 ["D39V%3A351940..352893"|"D39V_annotation_coding_features_sorted.gff"|"mvaD"|"PNEUPAN001221000"|"SPD_0347"|"SPV_0347"|"spr0339"|"SP_0382"|"SPV_RS01885"|"mvd1"],1
 spv_rs01890 ["D39V%3A352880..353887"|"D39V_annotation_coding_features_sorted.gff"|"mvaK2"|"PNEUPAN001222000"|"SPD_0348"|"SPV_0348"|"spr0340"|"SP_0383"|"SPV_RS01890"],1
 spv_rs01895 ["D39V%3A353871..354881"|"D39V_annotation_coding_features_sorted.gff"|"fni"|"PNEUPAN001223000"|"SPD_0349"|"SPV_0349"|"spr0341"|"SP_0384"|"SPV_RS01895"],1
-spv_rs01900 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"vraT"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"liaF%20%20cesF"],1
-spv_rs01905 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
-spv_rs01910 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
+spv_rs01900 ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"liaF"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"VraT%20%20cesF"],1
+spv_rs01905 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
+spv_rs01910 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
 spv_rs01930 ["D39V%3A358215..358409"|"D39V_annotation_coding_features_sorted.gff"|"SPV_0355"|"PNEUPAN001231000"|"SPD_0355"|"SPV_0355"|"spr0348"|"SP_0389"|"SPV_RS01930"],1
 spv_rs01935 ["D39V%3A358499..359360"|"D39V_annotation_coding_features_sorted.gff"|"cbpG"|"PNEUPAN001232000"|"SPD_0356"|"SPV_0356"|"spr0349"|"SP_0390"|"SPV_RS01935"],1
 spv_rs01940 ["D39V%3A359379..360263"|"D39V_annotation_coding_features_sorted.gff"|"cbpK"|"PNEUPAN001233000"|"SPD_0357"|"SPV_0357"|"spr0351"|"SP_0391"|"SPV_RS01940"|"cbpF%20%20pcpC"],1
@@ -13863,7 +13863,7 @@ tarq ["D39V%3A1226021..1227055"|"D39V_annotation_coding_features_sorted.gff"|"ta
 tatd ["D39V%3A1784050..1784823"|"D39V_annotation_coding_features_sorted.gff"|"tatD"|"PNEUPAN003610000"|"SPD_1788"|"SPV_1788"|"spr1805"|"SP_1991"|"SPV_RS09515"|"ycfH"],1
 tcs01 ["D39V%3A1461859..1462833"|"D39V_annotation_coding_features_sorted.gff"|"sirH"|"PNEUPAN003041000"|"SPD_1445"|"SPV_1445"|"spr1473"|"SP_1632"|"SPV_RS07680"|"HK01%20%20TCS01"],1 ["D39V%3A1462826..1463503"|"D39V_annotation_coding_features_sorted.gff"|"sirR"|"PNEUPAN003042000"|"SPD_1446"|"SPV_1446"|"spr1474"|"SP_1633"|"SPV_RS07685"|"RR01%20%20TCS01"],2
 tcs02 ["D39V%3A1114251..1115600"|"D39V_annotation_coding_features_sorted.gff"|"vicK"|"PNEUPAN002465000"|"SPD_1084"|"SPV_1084"|"spr1106"|"SP_1226"|"SPV_RS05790"|"walK%20%20yycG%20%20micB%20%20HK02%20%20TCS02"],1 ["D39V%3A1115593..1116297"|"D39V_annotation_coding_features_sorted.gff"|"vicR"|"PNEUPAN002466000"|"SPD_1085"|"SPV_1085"|"spr1107"|"SP_1227"|"SPV_RS05795"|"walR%20%20yycF%20%20micA%20%20RR02%20%20TCS02"],2
-tcs03 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],2
+tcs03 ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1 ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],2
 tcs04 ["D39V%3A1880159..1880866"|"D39V_annotation_coding_features_sorted.gff"|"pnpR"|"PNEUPAN003747000"|"SPD_1908"|"SPV_1908"|"spr1893"|"SP_2082"|"SPV_RS10115"|"phoP%20%20RR04%20%20TCS04"],1 ["D39V%3A1880867..1882198"|"D39V_annotation_coding_features_sorted.gff"|"pnpS"|"PNEUPAN003748000"|"SPD_1909"|"SPV_1909"|"spr1894"|"SP_2083"|"SPV_RS10120"|"phoR%20%20HK04%20%20TCS04"],2
 tcs05 ["D39V%3A715280..715954"|"D39V_annotation_coding_features_sorted.gff"|"ciaR"|"PNEUPAN001749000"|"SPD_0701"|"SPV_0701"|"spr0707"|"SP_0798"|"SPV_RS03770"|"RR05%20%20TCS05"],1 ["D39V%3A715944..717278"|"D39V_annotation_coding_features_sorted.gff"|"ciaH"|"PNEUPAN001750000"|"SPD_0702"|"SPV_0702"|"spr0708"|"SP_0799"|"SPV_RS03775"|"HK05%20%20TCS05"],2
 tcs06 ["D39V%3A1998295..1999626"|"D39V_annotation_coding_features_sorted.gff"|"SPV_2019"|"PNEUPAN003900000"|"SPD_2019"|"SPV_2019"|"spr1997"|"SP_2192"|"SPV_RS10680"|"HK06%20%20TCS06"],1 ["D39V%3A1999623..2000276"|"D39V_annotation_coding_features_sorted.gff"|"SPV_2020"|"PNEUPAN003901000"|"SPD_2020"|"SPV_2020"|"spr1998"|"SP_2193"|"SPV_RS10685"|"RR06%20%20TCS06"],2
@@ -14059,9 +14059,9 @@ vp1 ["D39V%3A151109..151342"|"D39V_annotation_coding_features_sorted.gff"|"vp1"|
 vpob ["D39V%3A152053..152718"|"D39V_annotation_coding_features_sorted.gff"|"vpoB"|"PNEUPAN000837000"|"SPD_0147"|"SPV_0147"|"spr0143"|"SP_0144"|"SPV_RS00825"],1
 vpoc ["D39V%3A152790..154016"|"D39V_annotation_coding_features_sorted.gff"|"vpoC"|"PNEUPAN000839000"|"SPD_0148"|"SPV_0148"|"spr0144"|"SP_0145"|"SPV_RS00830"],1
 vpod ["D39V%3A154226..154822"|"D39V_annotation_coding_features_sorted.gff"|"vpoD"|"SPD_0149"|"SPV_0149"|"spr0145"|"SP_0146%20%20SP_0147"|"azlC"],1
-vrar ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"vraR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"liaR%20%20cesR%20%20RR03%20%20TCS03"],1
-vras ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"vraS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"liaS%20%20cesS%20%20HK03%20%20TCS03"],1
-vrat ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"vraT"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"liaF%20%20cesF"],1
+vrar ["D39V%3A356663..357295"|"D39V_annotation_coding_features_sorted.gff"|"liaR"|"PNEUPAN001226000"|"SPD_0352"|"SPV_0352"|"spr0344"|"SP_0387"|"SPV_RS01910"|"VraR%20%20cesR%20%20RR03%20%20TCS03"],1
+vras ["D39V%3A355654..356649"|"D39V_annotation_coding_features_sorted.gff"|"liaS"|"PNEUPAN001225000"|"SPD_0351"|"SPV_0351"|"spr0343"|"SP_0386"|"SPV_RS01905"|"VraS%20%20cesS%20%20HK03%20%20TCS03"],1
+vrat ["D39V%3A354959..355657"|"D39V_annotation_coding_features_sorted.gff"|"liaF"|"PNEUPAN001224000"|"SPD_0350"|"SPV_0350"|"spr0342"|"SP_0385"|"SPV_RS01900"|"VraT%20%20cesF"],1
 waal ["D39V%3A1687648..1688841"|"D39V_annotation_coding_features_sorted.gff"|"tacL"|"PNEUPAN003418000"|"SPD_1672"|"SPV_1672"|"spr1708"|"SP_1893"|"SPV_RS08915"|"waaL%20%20rafX"],1
 walk ["D39V%3A1114251..1115600"|"D39V_annotation_coding_features_sorted.gff"|"vicK"|"PNEUPAN002465000"|"SPD_1084"|"SPV_1084"|"spr1106"|"SP_1226"|"SPV_RS05790"|"walK%20%20yycG%20%20micB%20%20HK02%20%20TCS02"],1
 walr ["D39V%3A1115593..1116297"|"D39V_annotation_coding_features_sorted.gff"|"vicR"|"PNEUPAN002466000"|"SPD_1085"|"SPV_1085"|"spr1107"|"SP_1227"|"SPV_RS05795"|"walR%20%20yycF%20%20micA%20%20RR02%20%20TCS02"],1
