@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[6857],{89238(e,r,n){n.d(r,{renderSvg:()=>b});var s=n(99322),t=n(90621),a=n(62986);async function b(e,r){const n=(0,t.I)(e),b=await(0,t.$)({...n,exportSVG:r,theme:r.theme||n.renderProps.theme});return(0,a.jsx)(s.aE,{rendering:b})}}}]);
+//# sourceMappingURL=6857.bc20b399.chunk.js.map

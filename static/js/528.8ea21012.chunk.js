@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[528],{528(e,n,t){async function a(e,n){const{renderMultiWiggle:a}=await t.e(9620).then(t.bind(t,87239));return a(n,e,async(e,n)=>{const{renderMultiXYPlot:a}=await t.e(3302).then(t.bind(t,83302));return a(e,n)})}t.d(n,{makeImageData:()=>a})}}]);
+//# sourceMappingURL=528.8ea21012.chunk.js.map

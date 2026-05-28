@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_jbrowse_web=globalThis.webpackChunk_jbrowse_web||[]).push([[1399],{21399(e,a,r){r.d(a,{executeClusterScoreMatrix:()=>c});var s=r(14269),t=r(25492),n=r(88953),o=r(26946);async function c({pluginManager:e,args:a}){const r=(0,n.jL)(a.stopToken),c=await(0,o.G)({pluginManager:e,args:{...a,stopTokenCheck:r}}),l=await(0,s.I)({data:c,onProgress:e=>{a.statusCallback?.(e)},checkCancellation:()=>{(0,n.As)(r)}});return{order:l.order,tree:(0,t.B3)(l.tree)}}}}]);
+//# sourceMappingURL=1399.3d762ca3.chunk.js.map
