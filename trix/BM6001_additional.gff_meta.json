@@ -1,31 +1,32 @@
 {
-  "dateCreated": "2026-06-04T09:18:51.422Z",
+  "dateCreated": "2026-06-04T09:19:09.331Z",
   "tracks": [
     {
-      "trackId": "D39V_annotation_other_sorted.gff",
+      "trackId": "BM6001_additional.gff",
       "attributesIndexed": [
         "Name"
       ],
       "excludedTypes": [
         "CDS",
-        "exon"
+        "exon",
+        "id"
       ],
       "adapterConf": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
           "locationType": "UriLocation",
-          "uri": "data/D39V/D39V_annotation_other_sorted.gff.gz"
+          "uri": "data/BM6001/BM6001_additional_annotations_sorted.gff.gz"
         },
         "index": {
           "location": {
             "locationType": "UriLocation",
-            "uri": "data/D39V/D39V_annotation_other_sorted.gff.gz.tbi"
+            "uri": "data/BM6001/BM6001_additional_annotations_sorted.gff.gz.tbi"
           }
         }
       }
     }
   ],
   "assemblyNames": [
-    "D39V"
+    "BM6001"
   ]
 }
