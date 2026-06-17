@@ -1,12 +1,13 @@
 {
-  "dateCreated": "2026-06-04T09:18:53.551Z",
+  "dateCreated": "2026-06-17T11:55:08.171Z",
   "tracks": [
     {
       "trackId": "TIGR4_sorted.gff",
       "attributesIndexed": [
         "name",
         "gene",
-        "locus_tag"
+        "locus_tag",
+        "TIGR4_locus_tag"
       ],
       "excludedTypes": [
         "CDS",
