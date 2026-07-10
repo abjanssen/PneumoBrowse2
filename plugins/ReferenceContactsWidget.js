@@ -23,13 +23,54 @@ export default class MyPlugin {
       // We write out raw React.createElement code because JSX requires a build
       // step and can't be used very easily in the no build plugin context
     const citecontent = React.createElement(
-      'div', 
-      null, 
-      React.createElement('h1', null, 'Citing PneumoBrowse'),
-      React.createElement('p', null, 'PneumoBrowse 2: an integrated visual platform for curated genome annotation and multiomics data analysis of ',  React.createElement('i', null, 'Streptococcus pneumoniae'), "."),
-      React.createElement('p', null, 'Axel B. Janssen, Paddy S. Gibson, Afonso M. Bravo, Vincent de Bakker, Jelle Slager, Jan-Willem Veening'),
-      React.createElement('p', null, 'Nucleic Acids Research, 2025, gkae923'),
-      React.createElement("span", null, React.createElement("a", {href: "https://doi.org/10.1093/nar/gkae923", target: "_blank", rel: "noopener noreferrer"}, "https://doi.org/10.1093/nar/gkae923" )))
+      'div',
+      null,
+    
+      React.createElement(
+        'div',
+        { style: { paddingLeft: '10px', paddingRight: '10px' } },
+        React.createElement('h1', null, 'Citing PneumoBrowse'),
+        React.createElement('p', null, 'Deep genome annotation of the opportunistic human pathogen ', React.createElement('i', null, 'Streptococcus pneumoniae'), ' D39'),
+        React.createElement('p', null, 'Jelle Slager, Rieza Aprianto, Jan-Willem Veening'),
+        React.createElement('p', null, 'Nucleic Acids Research, 2018, gky725'),
+        React.createElement(
+          'span',
+          null,
+          React.createElement(
+            'a',
+            {
+              href: 'https://doi.org/10.1093/nar/gky725',
+              target: '_blank',
+              rel: 'noopener noreferrer'
+            },
+            'https://doi.org/10.1093/nar/gky725'
+          )
+        )
+      ),
+    
+      React.createElement('hr', null),
+    
+      React.createElement(
+        'div',
+        { style: { paddingLeft: '10px', paddingRight: '10px'  } },
+        React.createElement('p', null, 'PneumoBrowse 2: an integrated visual platform for curated genome annotation and multiomics data analysis of ', React.createElement('i', null, 'Streptococcus pneumoniae')),
+        React.createElement('p', null, 'Axel B. Janssen, Paddy S. Gibson, Afonso M. Bravo, Vincent de Bakker, Jelle Slager, Jan-Willem Veening'),
+        React.createElement('p', null, 'Nucleic Acids Research, 2025, gkae923'),
+        React.createElement(
+          'span',
+          null,
+          React.createElement(
+            'a',
+            {
+              href: 'https://doi.org/10.1093/nar/gkae923',
+              target: '_blank',
+              rel: 'noopener noreferrer'
+            },
+            'https://doi.org/10.1093/nar/gkae923'
+          )
+        )
+      )
+    );
       return React.createElement('div', null, [citecontent])
     }
     const ContactWidget = props => {
@@ -37,13 +78,58 @@ export default class MyPlugin {
       // We write out raw React.createElement code because JSX requires a build
       // step and can't be used very easily in the no build plugin context
     const contactcontent = React.createElement(
-      'div', 
-      null, 
-      React.createElement('h1', null, 'Contact and feedback'),
-      React.createElement('p', null, 'Thank you for visiting! This genome browser was developed by the Veening lab at the University of Lausanne, Switzerland. If you have any questions or feedback, please contact us via email, or fill in the online form.'),
-      React.createElement('p', null, 'Email: ', React.createElement("a", {href: "mailto:Veening.lab@gmail.com?subject=PneumoBrowse"}, "Veening.lab@gmail.com" )),
-      React.createElement('p', null, 'Online form: ', React.createElement("a", {href: "https://forms.gle/wp8gEPFE1thpL69A9", target: "_blank", rel: "noopener noreferrer"}, "link" )),
-      React.createElement('p', null, 'For more genome browsers developed by the Veening lab, please visit: ', React.createElement("a", {href: "https://www.veeninglab.com/resources", target: "_blank", rel: "noopener noreferrer"}, "https://www.veeninglab.com/resources" ), "."))
+      'div',
+      null,
+      React.createElement(
+        'div',
+        { style: { paddingLeft: '10px', paddingRight: '10px'  } },
+        React.createElement('h1', null, 'Contact and feedback'),
+        React.createElement(
+          'p',
+          null,
+          'Thank you for visiting! This genome browser was developed by the Veening lab at the University of Lausanne, Switzerland. If you have any questions or feedback, please contact us via email, or fill in the online form.'
+        ),
+        React.createElement(
+          'p',
+          null,
+          'Email: ',
+          React.createElement(
+            'a',
+            { href: 'mailto:Veening.lab@gmail.com?subject=PneumoBrowse' },
+            'Veening.lab@gmail.com'
+          )
+        ),
+        React.createElement(
+          'p',
+          null,
+          'Online form: ',
+          React.createElement(
+            'a',
+            {
+              href: 'https://forms.gle/wp8gEPFE1thpL69A9',
+              target: '_blank',
+              rel: 'noopener noreferrer'
+            },
+            'link'
+          )
+        ),
+        React.createElement(
+          'p',
+          null,
+          'For more genome browsers developed by the Veening lab, please visit: ',
+          React.createElement(
+            'a',
+            {
+              href: 'https://www.veeninglab.com/resources',
+              target: '_blank',
+              rel: 'noopener noreferrer'
+            },
+            'https://www.veeninglab.com/resources'
+          ),
+          '.'
+        )
+      )
+    );
       return React.createElement('div', null, [contactcontent])
     }
     const DataaAvailabilityWidget = props => {
@@ -51,11 +137,54 @@ export default class MyPlugin {
       // We write out raw React.createElement code because JSX requires a build
       // step and can't be used very easily in the no build plugin context
     const availabilitycontent = React.createElement(
-      'div', 
-      null, 
-      React.createElement('h1', null, 'Data Availability'),
-      React.createElement('p', null, 'Data within PneumoBrowse are available from the NCBI.'),
-      React.createElement('p', null, 'All long-read sequencing data, assembled genomic sequences, and base modification files for PacBio sequenced genomes (except for D39V), are available in the NCBI Sequence Read Archive under BioProject accession code ', React.createElement("a", {href: "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103744", target: "_blank", rel: "noopener noreferrer"}, "PRJNA1103744"), '. Genome sequence and methylation data from D39V are available under BioProject accession code ', React.createElement("a", {href: "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA295913/", target: "_blank", rel: "noopener noreferrer"}, "PRJNA295913"), '. The SN75752 genomic sequence is available under accession code ' ,React.createElement("a", {href: "https://www.ncbi.nlm.nih.gov/nuccore/CP089949.1/", target: "_blank", rel: "noopener noreferrer"}, "CP089949.1"), '.'))
+      'div',
+      null,
+      React.createElement(
+        'div',
+        { style: { padding: '0 10px' } },
+        React.createElement('h1', null, 'Data Availability'),
+        React.createElement(
+          'p',
+          null,
+          'Data within PneumoBrowse are available from the NCBI.'
+        ),
+        React.createElement(
+          'p',
+          null,
+          'All long-read sequencing data, assembled genomic sequences, and base modification files for PacBio sequenced genomes (except for D39V), are available in the NCBI Sequence Read Archive under BioProject accession code ',
+          React.createElement(
+            'a',
+            {
+              href: 'https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1103744',
+              target: '_blank',
+              rel: 'noopener noreferrer'
+            },
+            'PRJNA1103744'
+          ),
+          '. Genome sequence and methylation data from D39V are available under BioProject accession code ',
+          React.createElement(
+            'a',
+            {
+              href: 'https://www.ncbi.nlm.nih.gov/bioproject/PRJNA295913/',
+              target: '_blank',
+              rel: 'noopener noreferrer'
+            },
+            'PRJNA295913'
+          ),
+          '. The SN75752 genomic sequence is available under accession code ',
+          React.createElement(
+            'a',
+            {
+              href: 'https://www.ncbi.nlm.nih.gov/nuccore/CP089949.1/',
+              target: '_blank',
+              rel: 'noopener noreferrer'
+            },
+            'CP089949.1'
+          ),
+          '.'
+        )
+      )
+    );
       return React.createElement('div', null, [availabilitycontent])
     }
 
