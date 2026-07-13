@@ -1144,7 +1144,7 @@
         }
       ],
       "formatDetails": {
-        "feature": "jexl:{Source: 'X. Liu', score:undefined, source:undefined, phase:undefined, id:undefined, Target_SPV_number:feature.target_locus_tag, target_locus_tag:undefined, Target_names:italics(feature.target_gene_name), target_gene_name:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined}"
+        "feature": "jexl:{Source: 'X. Liu', score:undefined, source:undefined, phase:undefined, id:undefined, Target_locus_tag:feature.target_locus_tag, target_locus_tag:undefined, Target_names: feature.target_gene_name != feature.target_locus_tag ? italics(feature.target_gene_name) : null, target_gene_name:undefined, References: feature.supporting_literature != null ? '<a href=https://pubmed.ncbi.nlm.nih.gov/?term='+feature.supporting_literature+'>'+'PubMed'+'</a>' : null, supporting_literature:undefined}"
       }
     },
     {
@@ -1347,15 +1347,16 @@
         "faiLocation": {
           "locationType": "UriLocation",
           "uri": "./data/D39V/D39V.fna.fai"
+        },
+        "metadataLocation": {
+          "locationType": "UriLocation",
+          "uri": "/path/to/fa.metadata.yaml"
         }
       },
       "displays": [
         {
-          "id": "j4N3EAiK2tC1KfjZwIiX-",
           "type": "LinearGCContentTrackDisplay",
-          "configuration": "gc_content_D39V-LinearGCContentTrackDisplay",
-          "selectedRendering": "",
-          "resolution": 1,
+          "displayId": "gc_content_D39V-LinearGCContentTrackDisplay",
           "windowSize": 200,
           "windowDelta": 20
         }
@@ -25885,7 +25886,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse (v2.5.8)",
+    "name": "PneumoBrowse (v2.5.9)",
     "margin": 0,
     "views": [
       {
