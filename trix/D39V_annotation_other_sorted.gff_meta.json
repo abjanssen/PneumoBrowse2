@@ -1,5 +1,5 @@
 {
-  "dateCreated": "2026-07-10T06:58:52.725Z",
+  "dateCreated": "2026-08-01T17:12:41.829Z",
   "tracks": [
     {
       "trackId": "D39V_annotation_other_sorted.gff",
@@ -7,7 +7,6 @@
         "Name"
       ],
       "excludedTypes": [
-        "CDS",
         "exon"
       ],
       "adapterConf": {

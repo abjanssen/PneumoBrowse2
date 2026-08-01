@@ -1,5 +1,5 @@
 {
-  "dateCreated": "2026-07-10T06:58:52.349Z",
+  "dateCreated": "2026-08-01T17:12:41.452Z",
   "tracks": [
     {
       "trackId": "D39V_180601_operons",
@@ -7,7 +7,6 @@
         "Name"
       ],
       "excludedTypes": [
-        "CDS",
         "exon"
       ],
       "adapterConf": {

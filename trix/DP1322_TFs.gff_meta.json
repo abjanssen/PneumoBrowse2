@@ -1,5 +1,5 @@
 {
-  "dateCreated": "2026-07-10T06:59:11.764Z",
+  "dateCreated": "2026-08-01T17:13:00.359Z",
   "tracks": [
     {
       "trackId": "DP1322_TFs.gff",
@@ -7,7 +7,6 @@
         "Name"
       ],
       "excludedTypes": [
-        "CDS",
         "exon",
         "id"
       ],

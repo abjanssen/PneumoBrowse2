@@ -1,0 +1,8578 @@
+[
+  {
+    "uniprot": "A0AA44S615",
+    "locus": "OIJFJHOI_00001"
+  },
+  {
+    "uniprot": "A0AA86Y265",
+    "locus": "OIJFJHOI_00002"
+  },
+  {
+    "uniprot": "Q8DRQ3",
+    "locus": "OIJFJHOI_00003"
+  },
+  {
+    "uniprot": "A0A0I7I3D7",
+    "locus": "OIJFJHOI_00004"
+  },
+  {
+    "uniprot": "A0A4N2RES5",
+    "locus": "OIJFJHOI_00005"
+  },
+  {
+    "uniprot": "P64406",
+    "locus": "OIJFJHOI_00006"
+  },
+  {
+    "uniprot": "Q8CZD2",
+    "locus": "OIJFJHOI_00007"
+  },
+  {
+    "uniprot": "C1CH89",
+    "locus": "OIJFJHOI_00008"
+  },
+  {
+    "uniprot": "A0A0B7KZ95",
+    "locus": "OIJFJHOI_00009"
+  },
+  {
+    "uniprot": "C1CN76",
+    "locus": "OIJFJHOI_00010"
+  },
+  {
+    "uniprot": "C1C993",
+    "locus": "OIJFJHOI_00011"
+  },
+  {
+    "uniprot": "O69076",
+    "locus": "OIJFJHOI_00012"
+  },
+  {
+    "uniprot": "Q9R2W8",
+    "locus": "OIJFJHOI_00013"
+  },
+  {
+    "uniprot": "A0A4J1VSX9",
+    "locus": "OIJFJHOI_00020"
+  },
+  {
+    "uniprot": "Q8DRP7",
+    "locus": "OIJFJHOI_00021"
+  },
+  {
+    "uniprot": "Q8DRP4",
+    "locus": "OIJFJHOI_00022"
+  },
+  {
+    "uniprot": "A0A9P1V7R1",
+    "locus": "OIJFJHOI_00023"
+  },
+  {
+    "uniprot": "A0A4J1NCS9",
+    "locus": "OIJFJHOI_00024"
+  },
+  {
+    "uniprot": "C1CHA2",
+    "locus": "OIJFJHOI_00026"
+  },
+  {
+    "uniprot": "Q8DRP2",
+    "locus": "OIJFJHOI_00028"
+  },
+  {
+    "uniprot": "A0A0U0QB31",
+    "locus": "OIJFJHOI_00029"
+  },
+  {
+    "uniprot": "C1C9S1",
+    "locus": "OIJFJHOI_00030"
+  },
+  {
+    "uniprot": "C1CHC1",
+    "locus": "OIJFJHOI_00031"
+  },
+  {
+    "uniprot": "C1C9S3",
+    "locus": "OIJFJHOI_00032"
+  },
+  {
+    "uniprot": "B2IR17",
+    "locus": "OIJFJHOI_00033"
+  },
+  {
+    "uniprot": "A0A4J1ZAL3",
+    "locus": "OIJFJHOI_00034"
+  },
+  {
+    "uniprot": "A0A6A8VL91",
+    "locus": "OIJFJHOI_00036"
+  },
+  {
+    "uniprot": "A0A0B7L6Z9",
+    "locus": "OIJFJHOI_00037"
+  },
+  {
+    "uniprot": "A0A6I3VLN8",
+    "locus": "OIJFJHOI_00038"
+  },
+  {
+    "uniprot": "Q8DRN7",
+    "locus": "OIJFJHOI_00039"
+  },
+  {
+    "uniprot": "A0A4J2B2W4",
+    "locus": "OIJFJHOI_00040"
+  },
+  {
+    "uniprot": "A0A0T8MW21",
+    "locus": "OIJFJHOI_00041"
+  },
+  {
+    "uniprot": "B1I7I5",
+    "locus": "OIJFJHOI_00042"
+  },
+  {
+    "uniprot": "Q97TA7",
+    "locus": "OIJFJHOI_00043"
+  },
+  {
+    "uniprot": "Q04N31",
+    "locus": "OIJFJHOI_00044"
+  },
+  {
+    "uniprot": "B2IR28",
+    "locus": "OIJFJHOI_00045"
+  },
+  {
+    "uniprot": "Q8DRN0",
+    "locus": "OIJFJHOI_00046"
+  },
+  {
+    "uniprot": "C1CHD8",
+    "locus": "OIJFJHOI_00047"
+  },
+  {
+    "uniprot": "A0AA86JU05",
+    "locus": "OIJFJHOI_00048"
+  },
+  {
+    "uniprot": "A0A0B7L1W6",
+    "locus": "OIJFJHOI_00049"
+  },
+  {
+    "uniprot": "A0A558ZGD3",
+    "locus": "OIJFJHOI_00050"
+  },
+  {
+    "uniprot": "B2IR35",
+    "locus": "OIJFJHOI_00051"
+  },
+  {
+    "uniprot": "A0A0E8P8H6",
+    "locus": "OIJFJHOI_00052"
+  },
+  {
+    "uniprot": "A0A062WPB5",
+    "locus": "OIJFJHOI_00053"
+  },
+  {
+    "uniprot": "C1CBM5",
+    "locus": "OIJFJHOI_00054"
+  },
+  {
+    "uniprot": "A0A0B7LES9",
+    "locus": "OIJFJHOI_00055"
+  },
+  {
+    "uniprot": "A0A6G2D8F8",
+    "locus": "OIJFJHOI_00056"
+  },
+  {
+    "uniprot": "A0AA95D8J7",
+    "locus": "OIJFJHOI_00057"
+  },
+  {
+    "uniprot": "C1CBM9",
+    "locus": "OIJFJHOI_00058"
+  },
+  {
+    "uniprot": "A0A0B7M8G2",
+    "locus": "OIJFJHOI_00059"
+  },
+  {
+    "uniprot": "Q8CZC6",
+    "locus": "OIJFJHOI_00060"
+  },
+  {
+    "uniprot": "C1C9W0",
+    "locus": "OIJFJHOI_00061"
+  },
+  {
+    "uniprot": "A0AA87C9M0",
+    "locus": "OIJFJHOI_00062"
+  },
+  {
+    "uniprot": "A0A0H2UMU7",
+    "locus": "OIJFJHOI_00063"
+  },
+  {
+    "uniprot": "A0A0B7L1X5",
+    "locus": "OIJFJHOI_00064"
+  },
+  {
+    "uniprot": "Q8DRL3",
+    "locus": "OIJFJHOI_00065"
+  },
+  {
+    "uniprot": "C1CBN7",
+    "locus": "OIJFJHOI_00066"
+  },
+  {
+    "uniprot": "B2IRE5",
+    "locus": "OIJFJHOI_00067"
+  },
+  {
+    "uniprot": "Q8DRL0",
+    "locus": "OIJFJHOI_00068"
+  },
+  {
+    "uniprot": "A0A0U0M1F0",
+    "locus": "OIJFJHOI_00069"
+  },
+  {
+    "uniprot": "C1CBP1",
+    "locus": "OIJFJHOI_00070"
+  },
+  {
+    "uniprot": "A0A4J2B8Y4",
+    "locus": "OIJFJHOI_00071"
+  },
+  {
+    "uniprot": "B1I7X5",
+    "locus": "OIJFJHOI_00072"
+  },
+  {
+    "uniprot": "A0AA86MN56",
+    "locus": "OIJFJHOI_00073"
+  },
+  {
+    "uniprot": "A0A0B7LUC6",
+    "locus": "OIJFJHOI_00074"
+  },
+  {
+    "uniprot": "A0A064C1D6",
+    "locus": "OIJFJHOI_00075"
+  },
+  {
+    "uniprot": "C1CBP8",
+    "locus": "OIJFJHOI_00076"
+  },
+  {
+    "uniprot": "Q8DRK4",
+    "locus": "OIJFJHOI_00077"
+  },
+  {
+    "uniprot": "A0A098Z228",
+    "locus": "OIJFJHOI_00078"
+  },
+  {
+    "uniprot": "A0AA86XJ74",
+    "locus": "OIJFJHOI_00079"
+  },
+  {
+    "uniprot": "A0A0B7LI78",
+    "locus": "OIJFJHOI_00080"
+  },
+  {
+    "uniprot": "A0A6G2DMI0",
+    "locus": "OIJFJHOI_00081"
+  },
+  {
+    "uniprot": "B2IRG2",
+    "locus": "OIJFJHOI_00082"
+  },
+  {
+    "uniprot": "C1C9Y4",
+    "locus": "OIJFJHOI_00083"
+  },
+  {
+    "uniprot": "Q04MZ3",
+    "locus": "OIJFJHOI_00084"
+  },
+  {
+    "uniprot": "A0A0D6J4D0",
+    "locus": "OIJFJHOI_00086"
+  },
+  {
+    "uniprot": "Q8DRJ8",
+    "locus": "OIJFJHOI_00087"
+  },
+  {
+    "uniprot": "B2IRG9",
+    "locus": "OIJFJHOI_00088"
+  },
+  {
+    "uniprot": "B2IRH0",
+    "locus": "OIJFJHOI_00089"
+  },
+  {
+    "uniprot": "Q04MY5",
+    "locus": "OIJFJHOI_00090"
+  },
+  {
+    "uniprot": "A0A6G2D961",
+    "locus": "OIJFJHOI_00091"
+  },
+  {
+    "uniprot": "B1I7Z5",
+    "locus": "OIJFJHOI_00092"
+  },
+  {
+    "uniprot": "Q8CZB9",
+    "locus": "OIJFJHOI_00093"
+  },
+  {
+    "uniprot": "B1I7Z7",
+    "locus": "OIJFJHOI_00094"
+  },
+  {
+    "uniprot": "Q8DRJ5",
+    "locus": "OIJFJHOI_00095"
+  },
+  {
+    "uniprot": "B1I7Z9",
+    "locus": "OIJFJHOI_00096"
+  },
+  {
+    "uniprot": "A0A4L8JFL7",
+    "locus": "OIJFJHOI_00097"
+  },
+  {
+    "uniprot": "A0A4J1TM37",
+    "locus": "OIJFJHOI_00098"
+  },
+  {
+    "uniprot": "A0A4J1NBE1",
+    "locus": "OIJFJHOI_00099"
+  },
+  {
+    "uniprot": "C1CBS0",
+    "locus": "OIJFJHOI_00100"
+  },
+  {
+    "uniprot": "B1I804",
+    "locus": "OIJFJHOI_00101"
+  },
+  {
+    "uniprot": "Q8DRI9",
+    "locus": "OIJFJHOI_00102"
+  },
+  {
+    "uniprot": "A0A0B7LLH3",
+    "locus": "OIJFJHOI_00103"
+  },
+  {
+    "uniprot": "Q8CZB4",
+    "locus": "OIJFJHOI_00104"
+  },
+  {
+    "uniprot": "B2IRJ2",
+    "locus": "OIJFJHOI_00105"
+  },
+  {
+    "uniprot": "A0AAD2I3F0",
+    "locus": "OIJFJHOI_00106"
+  },
+  {
+    "uniprot": "C1CAD5",
+    "locus": "OIJFJHOI_00107"
+  },
+  {
+    "uniprot": "A0AA36PVD8",
+    "locus": "OIJFJHOI_00108"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_00109"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_00110"
+  },
+  {
+    "uniprot": "A0A4J2BH81",
+    "locus": "OIJFJHOI_00111"
+  },
+  {
+    "uniprot": "A0A0D6J4A6",
+    "locus": "OIJFJHOI_00112"
+  },
+  {
+    "uniprot": "B1I823",
+    "locus": "OIJFJHOI_00113"
+  },
+  {
+    "uniprot": "A0A4P0AJ37",
+    "locus": "OIJFJHOI_00114"
+  },
+  {
+    "uniprot": "A0A4J1XFL2",
+    "locus": "OIJFJHOI_00115"
+  },
+  {
+    "uniprot": "A0A4J1VQ49",
+    "locus": "OIJFJHOI_00116"
+  },
+  {
+    "uniprot": "A0A4J1QTX9",
+    "locus": "OIJFJHOI_00117"
+  },
+  {
+    "uniprot": "A0A0D6J4Z7",
+    "locus": "OIJFJHOI_00120"
+  },
+  {
+    "uniprot": "Q8KQK5",
+    "locus": "OIJFJHOI_00121"
+  },
+  {
+    "uniprot": "A0A0B7MBM1",
+    "locus": "OIJFJHOI_00122"
+  },
+  {
+    "uniprot": "A0A0B7L8K0",
+    "locus": "OIJFJHOI_00124"
+  },
+  {
+    "uniprot": "Q97T36",
+    "locus": "OIJFJHOI_00125"
+  },
+  {
+    "uniprot": "Q8DRH7",
+    "locus": "OIJFJHOI_00126"
+  },
+  {
+    "uniprot": "C1CBU5",
+    "locus": "OIJFJHOI_00127"
+  },
+  {
+    "uniprot": "A0A0E8GNB1",
+    "locus": "OIJFJHOI_00128"
+  },
+  {
+    "uniprot": "A0A0B7LRV1",
+    "locus": "OIJFJHOI_00129"
+  },
+  {
+    "uniprot": "Q8CZA0",
+    "locus": "OIJFJHOI_00130"
+  },
+  {
+    "uniprot": "A0A0E8Z5L6",
+    "locus": "OIJFJHOI_00131"
+  },
+  {
+    "uniprot": "A0A0E9GJD4",
+    "locus": "OIJFJHOI_00132"
+  },
+  {
+    "uniprot": "A0A064BZS6",
+    "locus": "OIJFJHOI_00133"
+  },
+  {
+    "uniprot": "A0A4K4UAJ7",
+    "locus": "OIJFJHOI_00134"
+  },
+  {
+    "uniprot": "A0AA36PIF3",
+    "locus": "OIJFJHOI_00135"
+  },
+  {
+    "uniprot": "B2IRL6",
+    "locus": "OIJFJHOI_00137"
+  },
+  {
+    "uniprot": "A0A098ZKN5",
+    "locus": "OIJFJHOI_00138"
+  },
+  {
+    "uniprot": "A0A4M9WTJ4",
+    "locus": "OIJFJHOI_00139"
+  },
+  {
+    "uniprot": "A0AAE4K0V8",
+    "locus": "OIJFJHOI_00140"
+  },
+  {
+    "uniprot": "A0A8B5XHG1",
+    "locus": "OIJFJHOI_00141"
+  },
+  {
+    "uniprot": "A0A0D6J4X8",
+    "locus": "OIJFJHOI_00142"
+  },
+  {
+    "uniprot": "A0A0D6J4N4",
+    "locus": "OIJFJHOI_00143"
+  },
+  {
+    "uniprot": "A0A0D6J5G2",
+    "locus": "OIJFJHOI_00144"
+  },
+  {
+    "uniprot": "A0AA36PVE7",
+    "locus": "OIJFJHOI_00145"
+  },
+  {
+    "uniprot": "Q8CZ99",
+    "locus": "OIJFJHOI_00146"
+  },
+  {
+    "uniprot": "A0A4P0AIV4",
+    "locus": "OIJFJHOI_00147"
+  },
+  {
+    "uniprot": "A0AA36PVN8",
+    "locus": "OIJFJHOI_00148"
+  },
+  {
+    "uniprot": "Q8CZ98",
+    "locus": "OIJFJHOI_00149"
+  },
+  {
+    "uniprot": "A0A0H2UN53",
+    "locus": "OIJFJHOI_00150"
+  },
+  {
+    "uniprot": "A0A0T8U5U6",
+    "locus": "OIJFJHOI_00151"
+  },
+  {
+    "uniprot": "A0A0T8NYK7",
+    "locus": "OIJFJHOI_00152"
+  },
+  {
+    "uniprot": "B1I8D3",
+    "locus": "OIJFJHOI_00153"
+  },
+  {
+    "uniprot": "A0A0B7MBX7",
+    "locus": "OIJFJHOI_00154"
+  },
+  {
+    "uniprot": "A0A0B7MAF7",
+    "locus": "OIJFJHOI_00155"
+  },
+  {
+    "uniprot": "A0A064BZU0",
+    "locus": "OIJFJHOI_00156"
+  },
+  {
+    "uniprot": "C1CBW5",
+    "locus": "OIJFJHOI_00157"
+  },
+  {
+    "uniprot": "A0A0B7LRB5",
+    "locus": "OIJFJHOI_00158"
+  },
+  {
+    "uniprot": "C1CAH2",
+    "locus": "OIJFJHOI_00159"
+  },
+  {
+    "uniprot": "C1CAH3",
+    "locus": "OIJFJHOI_00160"
+  },
+  {
+    "uniprot": "Q8CZ94",
+    "locus": "OIJFJHOI_00161"
+  },
+  {
+    "uniprot": "Q8DRF7",
+    "locus": "OIJFJHOI_00162"
+  },
+  {
+    "uniprot": "A0A0E8TCE3",
+    "locus": "OIJFJHOI_00163"
+  },
+  {
+    "uniprot": "A0A0E8H6R0",
+    "locus": "OIJFJHOI_00164"
+  },
+  {
+    "uniprot": "A0A4L2UMH4",
+    "locus": "OIJFJHOI_00165"
+  },
+  {
+    "uniprot": "Q97T03",
+    "locus": "OIJFJHOI_00166"
+  },
+  {
+    "uniprot": "A0A4J1QRY4",
+    "locus": "OIJFJHOI_00167"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_00168"
+  },
+  {
+    "uniprot": "Q8CZ92",
+    "locus": "OIJFJHOI_00169"
+  },
+  {
+    "uniprot": "C1CBX7",
+    "locus": "OIJFJHOI_00170"
+  },
+  {
+    "uniprot": "A0A0B7LCD9",
+    "locus": "OIJFJHOI_00172"
+  },
+  {
+    "uniprot": "A0AA86XKG4",
+    "locus": "OIJFJHOI_00173"
+  },
+  {
+    "uniprot": "A0A0H2UN75",
+    "locus": "OIJFJHOI_00174"
+  },
+  {
+    "uniprot": "A0A0U0C8E2",
+    "locus": "OIJFJHOI_00175"
+  },
+  {
+    "uniprot": "A0A0H2UNA7",
+    "locus": "OIJFJHOI_00176"
+  },
+  {
+    "uniprot": "A0A0H2UN34",
+    "locus": "OIJFJHOI_00177"
+  },
+  {
+    "uniprot": "A0A0H2UN36",
+    "locus": "OIJFJHOI_00178"
+  },
+  {
+    "uniprot": "A0A4J1WD08",
+    "locus": "OIJFJHOI_00179"
+  },
+  {
+    "uniprot": "Q04MR3",
+    "locus": "OIJFJHOI_00180"
+  },
+  {
+    "uniprot": "C1CBY0",
+    "locus": "OIJFJHOI_00181"
+  },
+  {
+    "uniprot": "B2IS13",
+    "locus": "OIJFJHOI_00182"
+  },
+  {
+    "uniprot": "C1CBY2",
+    "locus": "OIJFJHOI_00183"
+  },
+  {
+    "uniprot": "Q8DRE8",
+    "locus": "OIJFJHOI_00185"
+  },
+  {
+    "uniprot": "A0A0B7M4M9",
+    "locus": "OIJFJHOI_00186"
+  },
+  {
+    "uniprot": "A0A4J2BE82",
+    "locus": "OIJFJHOI_00187"
+  },
+  {
+    "uniprot": "A0A4J1VW80",
+    "locus": "OIJFJHOI_00188"
+  },
+  {
+    "uniprot": "A0A064C1E4",
+    "locus": "OIJFJHOI_00189"
+  },
+  {
+    "uniprot": "Q8DRE5",
+    "locus": "OIJFJHOI_00190"
+  },
+  {
+    "uniprot": "A0A4J1W1H9",
+    "locus": "OIJFJHOI_00191"
+  },
+  {
+    "uniprot": "A0A0T7KEH1",
+    "locus": "OIJFJHOI_00192"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_00193"
+  },
+  {
+    "uniprot": "Q8DRE3",
+    "locus": "OIJFJHOI_00194"
+  },
+  {
+    "uniprot": "A0A0B7MB49",
+    "locus": "OIJFJHOI_00195"
+  },
+  {
+    "uniprot": "Q97SX1",
+    "locus": "OIJFJHOI_00196"
+  },
+  {
+    "uniprot": "Q8DRE2",
+    "locus": "OIJFJHOI_00197"
+  },
+  {
+    "uniprot": "Q97SX0",
+    "locus": "OIJFJHOI_00198"
+  },
+  {
+    "uniprot": "A0AAD2IGN0",
+    "locus": "OIJFJHOI_00199"
+  },
+  {
+    "uniprot": "A0A0E8YXY9",
+    "locus": "OIJFJHOI_00200"
+  },
+  {
+    "uniprot": "Q8DRD9",
+    "locus": "OIJFJHOI_00201"
+  },
+  {
+    "uniprot": "Q8DRD8",
+    "locus": "OIJFJHOI_00202"
+  },
+  {
+    "uniprot": "C1CAK5",
+    "locus": "OIJFJHOI_00203"
+  },
+  {
+    "uniprot": "A0A6G2DBD1",
+    "locus": "OIJFJHOI_00204"
+  },
+  {
+    "uniprot": "C1CC01",
+    "locus": "OIJFJHOI_00205"
+  },
+  {
+    "uniprot": "A0A064BZX0",
+    "locus": "OIJFJHOI_00206"
+  },
+  {
+    "uniprot": "A0A4M3JQB6",
+    "locus": "OIJFJHOI_00207"
+  },
+  {
+    "uniprot": "B2IS38",
+    "locus": "OIJFJHOI_00208"
+  },
+  {
+    "uniprot": "Q04MN7",
+    "locus": "OIJFJHOI_00209"
+  },
+  {
+    "uniprot": "Q97SV5",
+    "locus": "OIJFJHOI_00210"
+  },
+  {
+    "uniprot": "Q8CWV7",
+    "locus": "OIJFJHOI_00211"
+  },
+  {
+    "uniprot": "Q97SV3",
+    "locus": "OIJFJHOI_00212"
+  },
+  {
+    "uniprot": "Q97SV2",
+    "locus": "OIJFJHOI_00213"
+  },
+  {
+    "uniprot": "Q04MN2",
+    "locus": "OIJFJHOI_00214"
+  },
+  {
+    "uniprot": "Q04MN1",
+    "locus": "OIJFJHOI_00215"
+  },
+  {
+    "uniprot": "Q04MN0",
+    "locus": "OIJFJHOI_00216"
+  },
+  {
+    "uniprot": "Q04MM9",
+    "locus": "OIJFJHOI_00217"
+  },
+  {
+    "uniprot": "A0A0B7M1U7",
+    "locus": "OIJFJHOI_00218"
+  },
+  {
+    "uniprot": "Q04MM7",
+    "locus": "OIJFJHOI_00219"
+  },
+  {
+    "uniprot": "Q04MM6",
+    "locus": "OIJFJHOI_00220"
+  },
+  {
+    "uniprot": "Q04MM5",
+    "locus": "OIJFJHOI_00221"
+  },
+  {
+    "uniprot": "Q97SV1",
+    "locus": "OIJFJHOI_00222"
+  },
+  {
+    "uniprot": "Q04MM3",
+    "locus": "OIJFJHOI_00223"
+  },
+  {
+    "uniprot": "Q04MM2",
+    "locus": "OIJFJHOI_00224"
+  },
+  {
+    "uniprot": "B8ZKP5",
+    "locus": "OIJFJHOI_00225"
+  },
+  {
+    "uniprot": "Q97SU6",
+    "locus": "OIJFJHOI_00226"
+  },
+  {
+    "uniprot": "Q04ML9",
+    "locus": "OIJFJHOI_00227"
+  },
+  {
+    "uniprot": "Q97SU4",
+    "locus": "OIJFJHOI_00228"
+  },
+  {
+    "uniprot": "Q97SU3",
+    "locus": "OIJFJHOI_00229"
+  },
+  {
+    "uniprot": "Q8DRD5",
+    "locus": "OIJFJHOI_00230"
+  },
+  {
+    "uniprot": "A0A4J1SHW3",
+    "locus": "OIJFJHOI_00231"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_00232"
+  },
+  {
+    "uniprot": "A0A4G7IYQ6",
+    "locus": "OIJFJHOI_00233"
+  },
+  {
+    "uniprot": "A0A4J2CMY7",
+    "locus": "OIJFJHOI_00234"
+  },
+  {
+    "uniprot": "A0A4J1P8G6",
+    "locus": "OIJFJHOI_00235"
+  },
+  {
+    "uniprot": "A0A4J1RMD1",
+    "locus": "OIJFJHOI_00236"
+  },
+  {
+    "uniprot": "A0A4J1P1T2",
+    "locus": "OIJFJHOI_00237"
+  },
+  {
+    "uniprot": "Q8DNI5",
+    "locus": "OIJFJHOI_00238"
+  },
+  {
+    "uniprot": "A0A4J2D1H6",
+    "locus": "OIJFJHOI_00239"
+  },
+  {
+    "uniprot": "A0A0T7ZKR7",
+    "locus": "OIJFJHOI_00240"
+  },
+  {
+    "uniprot": "B2ISY0",
+    "locus": "OIJFJHOI_00241"
+  },
+  {
+    "uniprot": "A0A0D6J6X9",
+    "locus": "OIJFJHOI_00242"
+  },
+  {
+    "uniprot": "A0A0D6J624",
+    "locus": "OIJFJHOI_00243"
+  },
+  {
+    "uniprot": "C1CGA3",
+    "locus": "OIJFJHOI_00244"
+  },
+  {
+    "uniprot": "Q9EUQ9",
+    "locus": "OIJFJHOI_00245"
+  },
+  {
+    "uniprot": "C1C9E3",
+    "locus": "OIJFJHOI_00246"
+  },
+  {
+    "uniprot": "A0A0T8RTE1",
+    "locus": "OIJFJHOI_00247"
+  },
+  {
+    "uniprot": "A0A4J2CMV1",
+    "locus": "OIJFJHOI_00248"
+  },
+  {
+    "uniprot": "Q8DNJ0",
+    "locus": "OIJFJHOI_00249"
+  },
+  {
+    "uniprot": "C1CG97",
+    "locus": "OIJFJHOI_00250"
+  },
+  {
+    "uniprot": "C1C9D8",
+    "locus": "OIJFJHOI_00251"
+  },
+  {
+    "uniprot": "B1I881",
+    "locus": "OIJFJHOI_00252"
+  },
+  {
+    "uniprot": "Q8DNJ4",
+    "locus": "OIJFJHOI_00253"
+  },
+  {
+    "uniprot": "A0A0H2ZMI3",
+    "locus": "OIJFJHOI_00254"
+  },
+  {
+    "uniprot": "A0A0E7ZNQ0",
+    "locus": "OIJFJHOI_00255"
+  },
+  {
+    "uniprot": "Q8DNJ7",
+    "locus": "OIJFJHOI_00256"
+  },
+  {
+    "uniprot": "Q8CYC3",
+    "locus": "OIJFJHOI_00257"
+  },
+  {
+    "uniprot": "A0A0T7YGB8",
+    "locus": "OIJFJHOI_00258"
+  },
+  {
+    "uniprot": "B1I874",
+    "locus": "OIJFJHOI_00259"
+  },
+  {
+    "uniprot": "Q9XBN6",
+    "locus": "OIJFJHOI_00260"
+  },
+  {
+    "uniprot": "A0A0F7YB19",
+    "locus": "OIJFJHOI_00261"
+  },
+  {
+    "uniprot": "Q8DNK1",
+    "locus": "OIJFJHOI_00262"
+  },
+  {
+    "uniprot": "A0A0H2ZQB6",
+    "locus": "OIJFJHOI_00263"
+  },
+  {
+    "uniprot": "Q8DNK3",
+    "locus": "OIJFJHOI_00264"
+  },
+  {
+    "uniprot": "Q8DNK4",
+    "locus": "OIJFJHOI_00265"
+  },
+  {
+    "uniprot": "A0A4J1RK93",
+    "locus": "OIJFJHOI_00266"
+  },
+  {
+    "uniprot": "A0A6G2DH86",
+    "locus": "OIJFJHOI_00267"
+  },
+  {
+    "uniprot": "A0A6G2D9Y9",
+    "locus": "OIJFJHOI_00268"
+  },
+  {
+    "uniprot": "A0AAD2IIE1",
+    "locus": "OIJFJHOI_00269"
+  },
+  {
+    "uniprot": "A0A0M3KL39",
+    "locus": "OIJFJHOI_00270"
+  },
+  {
+    "uniprot": "A0A0D6J5K4",
+    "locus": "OIJFJHOI_00271"
+  },
+  {
+    "uniprot": "C1C9B5",
+    "locus": "OIJFJHOI_00272"
+  },
+  {
+    "uniprot": "C1C9B4",
+    "locus": "OIJFJHOI_00273"
+  },
+  {
+    "uniprot": "B2ISU7",
+    "locus": "OIJFJHOI_00274"
+  },
+  {
+    "uniprot": "Q3I0D0",
+    "locus": "OIJFJHOI_00275"
+  },
+  {
+    "uniprot": "A0AAD2IGX4",
+    "locus": "OIJFJHOI_00277"
+  },
+  {
+    "uniprot": "A0A0B7M891",
+    "locus": "OIJFJHOI_00278"
+  },
+  {
+    "uniprot": "C1CG71",
+    "locus": "OIJFJHOI_00279"
+  },
+  {
+    "uniprot": "A0AA86MHZ7",
+    "locus": "OIJFJHOI_00280"
+  },
+  {
+    "uniprot": "C1CG69",
+    "locus": "OIJFJHOI_00281"
+  },
+  {
+    "uniprot": "C1C9A8",
+    "locus": "OIJFJHOI_00282"
+  },
+  {
+    "uniprot": "A0A4J1TH43",
+    "locus": "OIJFJHOI_00283"
+  },
+  {
+    "uniprot": "A0A4J1RPT6",
+    "locus": "OIJFJHOI_00284"
+  },
+  {
+    "uniprot": "Q8DNL5",
+    "locus": "OIJFJHOI_00285"
+  },
+  {
+    "uniprot": "A0A4J1TFZ3",
+    "locus": "OIJFJHOI_00286"
+  },
+  {
+    "uniprot": "C7G4B8",
+    "locus": "OIJFJHOI_00287"
+  },
+  {
+    "uniprot": "B2IST5",
+    "locus": "OIJFJHOI_00288"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_00289"
+  },
+  {
+    "uniprot": "Q8CYD2",
+    "locus": "OIJFJHOI_00290"
+  },
+  {
+    "uniprot": "C1C979",
+    "locus": "OIJFJHOI_00291"
+  },
+  {
+    "uniprot": "C1CG53",
+    "locus": "OIJFJHOI_00292"
+  },
+  {
+    "uniprot": "A0A0H2ZPF8",
+    "locus": "OIJFJHOI_00293"
+  },
+  {
+    "uniprot": "Q8DNM3",
+    "locus": "OIJFJHOI_00294"
+  },
+  {
+    "uniprot": "Q8CYD4",
+    "locus": "OIJFJHOI_00295"
+  },
+  {
+    "uniprot": "Q8DNM4",
+    "locus": "OIJFJHOI_00296"
+  },
+  {
+    "uniprot": "C1C974",
+    "locus": "OIJFJHOI_00297"
+  },
+  {
+    "uniprot": "A0AA86Y6N1",
+    "locus": "OIJFJHOI_00298"
+  },
+  {
+    "uniprot": "B2ISS5",
+    "locus": "OIJFJHOI_00299"
+  },
+  {
+    "uniprot": "C1CT54",
+    "locus": "OIJFJHOI_00300"
+  },
+  {
+    "uniprot": "C1CT53",
+    "locus": "OIJFJHOI_00301"
+  },
+  {
+    "uniprot": "C1CT52",
+    "locus": "OIJFJHOI_00302"
+  },
+  {
+    "uniprot": "C1CT51",
+    "locus": "OIJFJHOI_00303"
+  },
+  {
+    "uniprot": "C1CT50",
+    "locus": "OIJFJHOI_00304"
+  },
+  {
+    "uniprot": "Q8CYD6",
+    "locus": "OIJFJHOI_00305"
+  },
+  {
+    "uniprot": "C1CG39",
+    "locus": "OIJFJHOI_00306"
+  },
+  {
+    "uniprot": "A0A0B7M7B9",
+    "locus": "OIJFJHOI_00307"
+  },
+  {
+    "uniprot": "A0A4P0AM63",
+    "locus": "OIJFJHOI_00308"
+  },
+  {
+    "uniprot": "A0A0B7M2Q2",
+    "locus": "OIJFJHOI_00309"
+  },
+  {
+    "uniprot": "A0A4J1RJQ0",
+    "locus": "OIJFJHOI_00310"
+  },
+  {
+    "uniprot": "C1CG34",
+    "locus": "OIJFJHOI_00311"
+  },
+  {
+    "uniprot": "A0A4M2MV14",
+    "locus": "OIJFJHOI_00312"
+  },
+  {
+    "uniprot": "C1CG33",
+    "locus": "OIJFJHOI_00313"
+  },
+  {
+    "uniprot": "A0A0B7L004",
+    "locus": "OIJFJHOI_00314"
+  },
+  {
+    "uniprot": "B2ISF4",
+    "locus": "OIJFJHOI_00315"
+  },
+  {
+    "uniprot": "A0AA95DDI7",
+    "locus": "OIJFJHOI_00316"
+  },
+  {
+    "uniprot": "A0A4J1SSP4",
+    "locus": "OIJFJHOI_00317"
+  },
+  {
+    "uniprot": "C1C952",
+    "locus": "OIJFJHOI_00318"
+  },
+  {
+    "uniprot": "Q97P39",
+    "locus": "OIJFJHOI_00319"
+  },
+  {
+    "uniprot": "Q8DNN3",
+    "locus": "OIJFJHOI_00320"
+  },
+  {
+    "uniprot": "Q8DNN4",
+    "locus": "OIJFJHOI_00321"
+  },
+  {
+    "uniprot": "B2ISG1",
+    "locus": "OIJFJHOI_00322"
+  },
+  {
+    "uniprot": "C1C945",
+    "locus": "OIJFJHOI_00323"
+  },
+  {
+    "uniprot": "C1C944",
+    "locus": "OIJFJHOI_00324"
+  },
+  {
+    "uniprot": "Q8DNN6",
+    "locus": "OIJFJHOI_00325"
+  },
+  {
+    "uniprot": "A0A5R9AZ51",
+    "locus": "OIJFJHOI_00326"
+  },
+  {
+    "uniprot": "Q8DNN8",
+    "locus": "OIJFJHOI_00327"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_00328"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_00329"
+  },
+  {
+    "uniprot": "Q8DNN9",
+    "locus": "OIJFJHOI_00330"
+  },
+  {
+    "uniprot": "A0AAD2I1P1",
+    "locus": "OIJFJHOI_00331"
+  },
+  {
+    "uniprot": "A0A0B7LPC1",
+    "locus": "OIJFJHOI_00333"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_00334"
+  },
+  {
+    "uniprot": "A0A558T616",
+    "locus": "OIJFJHOI_00335"
+  },
+  {
+    "uniprot": "Q8DNP2",
+    "locus": "OIJFJHOI_00336"
+  },
+  {
+    "uniprot": "Q8CYE2",
+    "locus": "OIJFJHOI_00337"
+  },
+  {
+    "uniprot": "A0A0B7M0K1",
+    "locus": "OIJFJHOI_00338"
+  },
+  {
+    "uniprot": "A0A0B7LUM0",
+    "locus": "OIJFJHOI_00339"
+  },
+  {
+    "uniprot": "A0A4M9XP08",
+    "locus": "OIJFJHOI_00340"
+  },
+  {
+    "uniprot": "A0A4J2DQ93",
+    "locus": "OIJFJHOI_00341"
+  },
+  {
+    "uniprot": "Q8DNP6",
+    "locus": "OIJFJHOI_00342"
+  },
+  {
+    "uniprot": "B1I7P2",
+    "locus": "OIJFJHOI_00343"
+  },
+  {
+    "uniprot": "B1I7P1",
+    "locus": "OIJFJHOI_00344"
+  },
+  {
+    "uniprot": "C1CFZ9",
+    "locus": "OIJFJHOI_00345"
+  },
+  {
+    "uniprot": "A0A2U3S1M3",
+    "locus": "OIJFJHOI_00346"
+  },
+  {
+    "uniprot": "C1CFZ6",
+    "locus": "OIJFJHOI_00347"
+  },
+  {
+    "uniprot": "Q8CYE5",
+    "locus": "OIJFJHOI_00348"
+  },
+  {
+    "uniprot": "C1CFZ4",
+    "locus": "OIJFJHOI_00349"
+  },
+  {
+    "uniprot": "A0A4V0ITV9",
+    "locus": "OIJFJHOI_00350"
+  },
+  {
+    "uniprot": "A0A4J1ZM84",
+    "locus": "OIJFJHOI_00351"
+  },
+  {
+    "uniprot": "A0A4J2AV72",
+    "locus": "OIJFJHOI_00352"
+  },
+  {
+    "uniprot": "A0A4J2AV72",
+    "locus": "OIJFJHOI_00353"
+  },
+  {
+    "uniprot": "A0A4J2AV72",
+    "locus": "OIJFJHOI_00354"
+  },
+  {
+    "uniprot": "A0A4J1ZM84",
+    "locus": "OIJFJHOI_00355"
+  },
+  {
+    "uniprot": "A0A4H9EKQ3",
+    "locus": "OIJFJHOI_00356"
+  },
+  {
+    "uniprot": "A0A4J2F7K9",
+    "locus": "OIJFJHOI_00357"
+  },
+  {
+    "uniprot": "A0A6G2DW49",
+    "locus": "OIJFJHOI_00358"
+  },
+  {
+    "uniprot": "B1I7N3",
+    "locus": "OIJFJHOI_00359"
+  },
+  {
+    "uniprot": "A0A0H5LL85",
+    "locus": "OIJFJHOI_00360"
+  },
+  {
+    "uniprot": "B1I7N2",
+    "locus": "OIJFJHOI_00361"
+  },
+  {
+    "uniprot": "A0A6G2DW52",
+    "locus": "OIJFJHOI_00362"
+  },
+  {
+    "uniprot": "C1CFY7",
+    "locus": "OIJFJHOI_00363"
+  },
+  {
+    "uniprot": "A0A4J1S4E3",
+    "locus": "OIJFJHOI_00364"
+  },
+  {
+    "uniprot": "A0A0E8PCT4",
+    "locus": "OIJFJHOI_00365"
+  },
+  {
+    "uniprot": "A0A0I5SXJ4",
+    "locus": "OIJFJHOI_00366"
+  },
+  {
+    "uniprot": "C1CFY4",
+    "locus": "OIJFJHOI_00367"
+  },
+  {
+    "uniprot": "A0A4J2F6S6",
+    "locus": "OIJFJHOI_00368"
+  },
+  {
+    "uniprot": "A0AA44MXQ0",
+    "locus": "OIJFJHOI_00369"
+  },
+  {
+    "uniprot": "C1CFY1",
+    "locus": "OIJFJHOI_00370"
+  },
+  {
+    "uniprot": "A0A6G2DMV0",
+    "locus": "OIJFJHOI_00371"
+  },
+  {
+    "uniprot": "B1I7M1",
+    "locus": "OIJFJHOI_00372"
+  },
+  {
+    "uniprot": "A0A6G2DWF0",
+    "locus": "OIJFJHOI_00373"
+  },
+  {
+    "uniprot": "C1CFX7",
+    "locus": "OIJFJHOI_00374"
+  },
+  {
+    "uniprot": "C1CFX6",
+    "locus": "OIJFJHOI_00375"
+  },
+  {
+    "uniprot": "A0A4N2L103",
+    "locus": "OIJFJHOI_00376"
+  },
+  {
+    "uniprot": "Q8DNQ1",
+    "locus": "OIJFJHOI_00377"
+  },
+  {
+    "uniprot": "A0A4J2D6H5",
+    "locus": "OIJFJHOI_00378"
+  },
+  {
+    "uniprot": "B2ISA3",
+    "locus": "OIJFJHOI_00379"
+  },
+  {
+    "uniprot": "A0A0E7Q9P1",
+    "locus": "OIJFJHOI_00380"
+  },
+  {
+    "uniprot": "B2ISA1",
+    "locus": "OIJFJHOI_00381"
+  },
+  {
+    "uniprot": "B2ISA0",
+    "locus": "OIJFJHOI_00382"
+  },
+  {
+    "uniprot": "A0A4J2B7T4",
+    "locus": "OIJFJHOI_00383"
+  },
+  {
+    "uniprot": "P65505",
+    "locus": "OIJFJHOI_00384"
+  },
+  {
+    "uniprot": "A0A0E8T0X8",
+    "locus": "OIJFJHOI_00385"
+  },
+  {
+    "uniprot": "Q8DNQ8",
+    "locus": "OIJFJHOI_00386"
+  },
+  {
+    "uniprot": "Q8DNQ9",
+    "locus": "OIJFJHOI_00387"
+  },
+  {
+    "uniprot": "A0A4K3WU33",
+    "locus": "OIJFJHOI_00388"
+  },
+  {
+    "uniprot": "C1CM77",
+    "locus": "OIJFJHOI_00389"
+  },
+  {
+    "uniprot": "A0A0H2ZR31",
+    "locus": "OIJFJHOI_00390"
+  },
+  {
+    "uniprot": "Q04J36",
+    "locus": "OIJFJHOI_00391"
+  },
+  {
+    "uniprot": "Q97PA3",
+    "locus": "OIJFJHOI_00392"
+  },
+  {
+    "uniprot": "Q04J38",
+    "locus": "OIJFJHOI_00393"
+  },
+  {
+    "uniprot": "A0A0B7L7F5",
+    "locus": "OIJFJHOI_00394"
+  },
+  {
+    "uniprot": "C1CM71",
+    "locus": "OIJFJHOI_00395"
+  },
+  {
+    "uniprot": "A0A0B7M2W1",
+    "locus": "OIJFJHOI_00396"
+  },
+  {
+    "uniprot": "A0A0H2UR71",
+    "locus": "OIJFJHOI_00397"
+  },
+  {
+    "uniprot": "C1CFV4",
+    "locus": "OIJFJHOI_00398"
+  },
+  {
+    "uniprot": "Q8DNS1",
+    "locus": "OIJFJHOI_00399"
+  },
+  {
+    "uniprot": "C1CFV2",
+    "locus": "OIJFJHOI_00400"
+  },
+  {
+    "uniprot": "C1C8W5",
+    "locus": "OIJFJHOI_00401"
+  },
+  {
+    "uniprot": "A0A0U0LLS1",
+    "locus": "OIJFJHOI_00402"
+  },
+  {
+    "uniprot": "A0A6I3U3C0",
+    "locus": "OIJFJHOI_00403"
+  },
+  {
+    "uniprot": "A0A6I3U1Y5",
+    "locus": "OIJFJHOI_00404"
+  },
+  {
+    "uniprot": "Q8DNS6",
+    "locus": "OIJFJHOI_00405"
+  },
+  {
+    "uniprot": "Q8DNS7",
+    "locus": "OIJFJHOI_00406"
+  },
+  {
+    "uniprot": "Q8DNS8",
+    "locus": "OIJFJHOI_00407"
+  },
+  {
+    "uniprot": "B1I778",
+    "locus": "OIJFJHOI_00408"
+  },
+  {
+    "uniprot": "C1CFU1",
+    "locus": "OIJFJHOI_00409"
+  },
+  {
+    "uniprot": "C1C8V4",
+    "locus": "OIJFJHOI_00410"
+  },
+  {
+    "uniprot": "A0A0B7MDD4",
+    "locus": "OIJFJHOI_00411"
+  },
+  {
+    "uniprot": "A0A229G0F0",
+    "locus": "OIJFJHOI_00412"
+  },
+  {
+    "uniprot": "C1CFT6",
+    "locus": "OIJFJHOI_00413"
+  },
+  {
+    "uniprot": "A0A6G2DM99",
+    "locus": "OIJFJHOI_00414"
+  },
+  {
+    "uniprot": "B2IRW8",
+    "locus": "OIJFJHOI_00415"
+  },
+  {
+    "uniprot": "A0A4J1VDW5",
+    "locus": "OIJFJHOI_00416"
+  },
+  {
+    "uniprot": "C1CFT2",
+    "locus": "OIJFJHOI_00417"
+  },
+  {
+    "uniprot": "C1CFT1",
+    "locus": "OIJFJHOI_00418"
+  },
+  {
+    "uniprot": "Q04J64",
+    "locus": "OIJFJHOI_00419"
+  },
+  {
+    "uniprot": "Q8CYF1",
+    "locus": "OIJFJHOI_00420"
+  },
+  {
+    "uniprot": "A0A6G2DL87",
+    "locus": "OIJFJHOI_00421"
+  },
+  {
+    "uniprot": "A0A0U0KR74",
+    "locus": "OIJFJHOI_00422"
+  },
+  {
+    "uniprot": "A0A4J2DZQ4",
+    "locus": "OIJFJHOI_00423"
+  },
+  {
+    "uniprot": "A0A0E7Q0U1",
+    "locus": "OIJFJHOI_00424"
+  },
+  {
+    "uniprot": "A0A822QFP4",
+    "locus": "OIJFJHOI_00425"
+  },
+  {
+    "uniprot": "A0A064C3L7",
+    "locus": "OIJFJHOI_00426"
+  },
+  {
+    "uniprot": "C1CFS0",
+    "locus": "OIJFJHOI_00427"
+  },
+  {
+    "uniprot": "Q8DNU0",
+    "locus": "OIJFJHOI_00428"
+  },
+  {
+    "uniprot": "B2IRV4",
+    "locus": "OIJFJHOI_00429"
+  },
+  {
+    "uniprot": "A0A4K3C6U3",
+    "locus": "OIJFJHOI_00430"
+  },
+  {
+    "uniprot": "A0AA86X9V2",
+    "locus": "OIJFJHOI_00431"
+  },
+  {
+    "uniprot": "C1CFR5",
+    "locus": "OIJFJHOI_00432"
+  },
+  {
+    "uniprot": "Q8CYF7",
+    "locus": "OIJFJHOI_00433"
+  },
+  {
+    "uniprot": "B8XTV2",
+    "locus": "OIJFJHOI_00434"
+  },
+  {
+    "uniprot": "A0A4J1SAE2",
+    "locus": "OIJFJHOI_00435"
+  },
+  {
+    "uniprot": "Q8DNU2",
+    "locus": "OIJFJHOI_00436"
+  },
+  {
+    "uniprot": "C1CFQ9",
+    "locus": "OIJFJHOI_00437"
+  },
+  {
+    "uniprot": "C1CFQ8",
+    "locus": "OIJFJHOI_00438"
+  },
+  {
+    "uniprot": "A0A064C258",
+    "locus": "OIJFJHOI_00439"
+  },
+  {
+    "uniprot": "C1CFQ6",
+    "locus": "OIJFJHOI_00440"
+  },
+  {
+    "uniprot": "P65521",
+    "locus": "OIJFJHOI_00441"
+  },
+  {
+    "uniprot": "A0A4J1S844",
+    "locus": "OIJFJHOI_00442"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_00443"
+  },
+  {
+    "uniprot": "A0A4J1QTW0",
+    "locus": "OIJFJHOI_00444"
+  },
+  {
+    "uniprot": "A0A822RPB7",
+    "locus": "OIJFJHOI_00445"
+  },
+  {
+    "uniprot": "Q8DNU8",
+    "locus": "OIJFJHOI_00446"
+  },
+  {
+    "uniprot": "C1C8S0",
+    "locus": "OIJFJHOI_00447"
+  },
+  {
+    "uniprot": "Q8DNV0",
+    "locus": "OIJFJHOI_00448"
+  },
+  {
+    "uniprot": "A0AA86XR90",
+    "locus": "OIJFJHOI_00449"
+  },
+  {
+    "uniprot": "A0AA86XD88",
+    "locus": "OIJFJHOI_00450"
+  },
+  {
+    "uniprot": "B1I739",
+    "locus": "OIJFJHOI_00451"
+  },
+  {
+    "uniprot": "A0A0I9E5S7",
+    "locus": "OIJFJHOI_00452"
+  },
+  {
+    "uniprot": "Q8DNV3",
+    "locus": "OIJFJHOI_00453"
+  },
+  {
+    "uniprot": "C1C8R3",
+    "locus": "OIJFJHOI_00454"
+  },
+  {
+    "uniprot": "A5YHE0",
+    "locus": "OIJFJHOI_00455"
+  },
+  {
+    "uniprot": "Q04J97",
+    "locus": "OIJFJHOI_00456"
+  },
+  {
+    "uniprot": "B5E721",
+    "locus": "OIJFJHOI_00457"
+  },
+  {
+    "uniprot": "A0A4J2C5C1",
+    "locus": "OIJFJHOI_00458"
+  },
+  {
+    "uniprot": "A0A6I3VKX8",
+    "locus": "OIJFJHOI_00459"
+  },
+  {
+    "uniprot": "C1CFN9",
+    "locus": "OIJFJHOI_00460"
+  },
+  {
+    "uniprot": "A0A0B7MDU8",
+    "locus": "OIJFJHOI_00461"
+  },
+  {
+    "uniprot": "Q8DNV9",
+    "locus": "OIJFJHOI_00462"
+  },
+  {
+    "uniprot": "A0A237K7W2",
+    "locus": "OIJFJHOI_00463"
+  },
+  {
+    "uniprot": "Q8DNW1",
+    "locus": "OIJFJHOI_00464"
+  },
+  {
+    "uniprot": "Q9ZHB6",
+    "locus": "OIJFJHOI_00465"
+  },
+  {
+    "uniprot": "A0A4J2A8Y1",
+    "locus": "OIJFJHOI_00466"
+  },
+  {
+    "uniprot": "C1CFN2",
+    "locus": "OIJFJHOI_00467"
+  },
+  {
+    "uniprot": "A0A6G2DA44",
+    "locus": "OIJFJHOI_00468"
+  },
+  {
+    "uniprot": "A0A4N2RXJ2",
+    "locus": "OIJFJHOI_00469"
+  },
+  {
+    "uniprot": "B2IRR2",
+    "locus": "OIJFJHOI_00470"
+  },
+  {
+    "uniprot": "C1CFM7",
+    "locus": "OIJFJHOI_00471"
+  },
+  {
+    "uniprot": "A0A4N2RXK1",
+    "locus": "OIJFJHOI_00472"
+  },
+  {
+    "uniprot": "A0A062WQP8",
+    "locus": "OIJFJHOI_00473"
+  },
+  {
+    "uniprot": "A0A4J1NL90",
+    "locus": "OIJFJHOI_00474"
+  },
+  {
+    "uniprot": "A0A4J1Y032",
+    "locus": "OIJFJHOI_00475"
+  },
+  {
+    "uniprot": "B2IRQ7",
+    "locus": "OIJFJHOI_00476"
+  },
+  {
+    "uniprot": "D2CTJ2",
+    "locus": "OIJFJHOI_00477"
+  },
+  {
+    "uniprot": "C1CFM0",
+    "locus": "OIJFJHOI_00478"
+  },
+  {
+    "uniprot": "B2IRQ4",
+    "locus": "OIJFJHOI_00479"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_00480"
+  },
+  {
+    "uniprot": "A0A654U8Y8",
+    "locus": "OIJFJHOI_00481"
+  },
+  {
+    "uniprot": "A0AA44S635",
+    "locus": "OIJFJHOI_00482"
+  },
+  {
+    "uniprot": "A0A0H2ZP47",
+    "locus": "OIJFJHOI_00483"
+  },
+  {
+    "uniprot": "Q8DNX2",
+    "locus": "OIJFJHOI_00484"
+  },
+  {
+    "uniprot": "A0A0H2ZLZ3",
+    "locus": "OIJFJHOI_00485"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_00486"
+  },
+  {
+    "uniprot": "A0A4F3K787",
+    "locus": "OIJFJHOI_00487"
+  },
+  {
+    "uniprot": "A0A4N9BGU5",
+    "locus": "OIJFJHOI_00488"
+  },
+  {
+    "uniprot": "C1CFL1",
+    "locus": "OIJFJHOI_00489"
+  },
+  {
+    "uniprot": "Q8CYH1",
+    "locus": "OIJFJHOI_00490"
+  },
+  {
+    "uniprot": "A0A4L4Z458",
+    "locus": "OIJFJHOI_00491"
+  },
+  {
+    "uniprot": "C1CFK7",
+    "locus": "OIJFJHOI_00492"
+  },
+  {
+    "uniprot": "Q8DNX4",
+    "locus": "OIJFJHOI_00493"
+  },
+  {
+    "uniprot": "C1CFK5",
+    "locus": "OIJFJHOI_00494"
+  },
+  {
+    "uniprot": "C1CFK4",
+    "locus": "OIJFJHOI_00495"
+  },
+  {
+    "uniprot": "C1CFK3",
+    "locus": "OIJFJHOI_00496"
+  },
+  {
+    "uniprot": "C1CFK2",
+    "locus": "OIJFJHOI_00497"
+  },
+  {
+    "uniprot": "A0A6G2D9F0",
+    "locus": "OIJFJHOI_00498"
+  },
+  {
+    "uniprot": "A0A916L4F0",
+    "locus": "OIJFJHOI_00499"
+  },
+  {
+    "uniprot": "Q8CYH8",
+    "locus": "OIJFJHOI_00500"
+  },
+  {
+    "uniprot": "A0A558SGK6",
+    "locus": "OIJFJHOI_00501"
+  },
+  {
+    "uniprot": "A0A4J1SC63",
+    "locus": "OIJFJHOI_00502"
+  },
+  {
+    "uniprot": "A0A4J2GNZ6",
+    "locus": "OIJFJHOI_00503"
+  },
+  {
+    "uniprot": "Q97PI9",
+    "locus": "OIJFJHOI_00504"
+  },
+  {
+    "uniprot": "Q8DNY0",
+    "locus": "OIJFJHOI_00505"
+  },
+  {
+    "uniprot": "B2IRD2",
+    "locus": "OIJFJHOI_00506"
+  },
+  {
+    "uniprot": "A0A6G2DAB2",
+    "locus": "OIJFJHOI_00507"
+  },
+  {
+    "uniprot": "C1CFJ3",
+    "locus": "OIJFJHOI_00508"
+  },
+  {
+    "uniprot": "C1CFJ2",
+    "locus": "OIJFJHOI_00509"
+  },
+  {
+    "uniprot": "A0A0U0DAG5",
+    "locus": "OIJFJHOI_00510"
+  },
+  {
+    "uniprot": "C1CFI9",
+    "locus": "OIJFJHOI_00511"
+  },
+  {
+    "uniprot": "C1C8J5",
+    "locus": "OIJFJHOI_00512"
+  },
+  {
+    "uniprot": "A0A0B7LS92",
+    "locus": "OIJFJHOI_00513"
+  },
+  {
+    "uniprot": "C1CFI7",
+    "locus": "OIJFJHOI_00514"
+  },
+  {
+    "uniprot": "C1C8J3",
+    "locus": "OIJFJHOI_00515"
+  },
+  {
+    "uniprot": "A0A064C099",
+    "locus": "OIJFJHOI_00516"
+  },
+  {
+    "uniprot": "C1C8J1",
+    "locus": "OIJFJHOI_00517"
+  },
+  {
+    "uniprot": "A0A0H2UQX7",
+    "locus": "OIJFJHOI_00518"
+  },
+  {
+    "uniprot": "Q8DNZ1",
+    "locus": "OIJFJHOI_00519"
+  },
+  {
+    "uniprot": "Q97PL0",
+    "locus": "OIJFJHOI_00520"
+  },
+  {
+    "uniprot": "C1CFH8",
+    "locus": "OIJFJHOI_00521"
+  },
+  {
+    "uniprot": "C1CFH7",
+    "locus": "OIJFJHOI_00522"
+  },
+  {
+    "uniprot": "A0A654Z6U1",
+    "locus": "OIJFJHOI_00523"
+  },
+  {
+    "uniprot": "A0A064C567",
+    "locus": "OIJFJHOI_00524"
+  },
+  {
+    "uniprot": "C1CFH4",
+    "locus": "OIJFJHOI_00525"
+  },
+  {
+    "uniprot": "C1CFH2",
+    "locus": "OIJFJHOI_00526"
+  },
+  {
+    "uniprot": "C1CFH1",
+    "locus": "OIJFJHOI_00527"
+  },
+  {
+    "uniprot": "C1CFH0",
+    "locus": "OIJFJHOI_00528"
+  },
+  {
+    "uniprot": "C1CFG9",
+    "locus": "OIJFJHOI_00529"
+  },
+  {
+    "uniprot": "C1C8H8",
+    "locus": "OIJFJHOI_00530"
+  },
+  {
+    "uniprot": "C1C8H5",
+    "locus": "OIJFJHOI_00531"
+  },
+  {
+    "uniprot": "P0A4D7",
+    "locus": "OIJFJHOI_00532"
+  },
+  {
+    "uniprot": "C1CSK2",
+    "locus": "OIJFJHOI_00533"
+  },
+  {
+    "uniprot": "A0A098Z872",
+    "locus": "OIJFJHOI_00534"
+  },
+  {
+    "uniprot": "Q8DP03",
+    "locus": "OIJFJHOI_00536"
+  },
+  {
+    "uniprot": "A0A098Z665",
+    "locus": "OIJFJHOI_00537"
+  },
+  {
+    "uniprot": "C1CFG1",
+    "locus": "OIJFJHOI_00538"
+  },
+  {
+    "uniprot": "Q8DP05",
+    "locus": "OIJFJHOI_00539"
+  },
+  {
+    "uniprot": "A0A0U0BA28",
+    "locus": "OIJFJHOI_00540"
+  },
+  {
+    "uniprot": "Q04JH4",
+    "locus": "OIJFJHOI_00541"
+  },
+  {
+    "uniprot": "A0A4J1ZWD5",
+    "locus": "OIJFJHOI_00542"
+  },
+  {
+    "uniprot": "A0A264SLW6",
+    "locus": "OIJFJHOI_00543"
+  },
+  {
+    "uniprot": "A0A0B7L9Q4",
+    "locus": "OIJFJHOI_00544"
+  },
+  {
+    "uniprot": "Q8CYI3",
+    "locus": "OIJFJHOI_00545"
+  },
+  {
+    "uniprot": "Q04JH9",
+    "locus": "OIJFJHOI_00546"
+  },
+  {
+    "uniprot": "Q04JI0",
+    "locus": "OIJFJHOI_00547"
+  },
+  {
+    "uniprot": "Q8DP09",
+    "locus": "OIJFJHOI_00548"
+  },
+  {
+    "uniprot": "A0A098ZHY2",
+    "locus": "OIJFJHOI_00549"
+  },
+  {
+    "uniprot": "C1CFE8",
+    "locus": "OIJFJHOI_00550"
+  },
+  {
+    "uniprot": "Q9JRK5",
+    "locus": "OIJFJHOI_00551"
+  },
+  {
+    "uniprot": "A0A098Z6E8",
+    "locus": "OIJFJHOI_00552"
+  },
+  {
+    "uniprot": "Q8DP14",
+    "locus": "OIJFJHOI_00553"
+  },
+  {
+    "uniprot": "Q8DP15",
+    "locus": "OIJFJHOI_00554"
+  },
+  {
+    "uniprot": "C1CSI0",
+    "locus": "OIJFJHOI_00555"
+  },
+  {
+    "uniprot": "B2IR77",
+    "locus": "OIJFJHOI_00556"
+  },
+  {
+    "uniprot": "C1C8E9",
+    "locus": "OIJFJHOI_00557"
+  },
+  {
+    "uniprot": "Q04JJ1",
+    "locus": "OIJFJHOI_00558"
+  },
+  {
+    "uniprot": "A0AAE4K0L1",
+    "locus": "OIJFJHOI_00559"
+  },
+  {
+    "uniprot": "A0A0E8HGI4",
+    "locus": "OIJFJHOI_00560"
+  },
+  {
+    "uniprot": "C1CFD7",
+    "locus": "OIJFJHOI_00561"
+  },
+  {
+    "uniprot": "C1CFD6",
+    "locus": "OIJFJHOI_00563"
+  },
+  {
+    "uniprot": "A0A0H2UQV0",
+    "locus": "OIJFJHOI_00564"
+  },
+  {
+    "uniprot": "C1C8E2",
+    "locus": "OIJFJHOI_00565"
+  },
+  {
+    "uniprot": "A0A0B7M1N9",
+    "locus": "OIJFJHOI_00566"
+  },
+  {
+    "uniprot": "A0A229FM92",
+    "locus": "OIJFJHOI_00567"
+  },
+  {
+    "uniprot": "Q8DP23",
+    "locus": "OIJFJHOI_00569"
+  },
+  {
+    "uniprot": "A0A4M3JJW8",
+    "locus": "OIJFJHOI_00570"
+  },
+  {
+    "uniprot": "A0A4L7SZW4",
+    "locus": "OIJFJHOI_00571"
+  },
+  {
+    "uniprot": "A0A0B7L6M7",
+    "locus": "OIJFJHOI_00572"
+  },
+  {
+    "uniprot": "A0A098ZCY9",
+    "locus": "OIJFJHOI_00573"
+  },
+  {
+    "uniprot": "C1C8D3",
+    "locus": "OIJFJHOI_00574"
+  },
+  {
+    "uniprot": "C1C8D2",
+    "locus": "OIJFJHOI_00575"
+  },
+  {
+    "uniprot": "C1CFC3",
+    "locus": "OIJFJHOI_00576"
+  },
+  {
+    "uniprot": "Q04JK8",
+    "locus": "OIJFJHOI_00577"
+  },
+  {
+    "uniprot": "P66855",
+    "locus": "OIJFJHOI_00578"
+  },
+  {
+    "uniprot": "Q04JL0",
+    "locus": "OIJFJHOI_00579"
+  },
+  {
+    "uniprot": "Q8CYJ1",
+    "locus": "OIJFJHOI_00580"
+  },
+  {
+    "uniprot": "Q8DP29",
+    "locus": "OIJFJHOI_00581"
+  },
+  {
+    "uniprot": "Q8DP30",
+    "locus": "OIJFJHOI_00582"
+  },
+  {
+    "uniprot": "Q8DP31",
+    "locus": "OIJFJHOI_00583"
+  },
+  {
+    "uniprot": "Q04JL5",
+    "locus": "OIJFJHOI_00584"
+  },
+  {
+    "uniprot": "Q8CYJ2",
+    "locus": "OIJFJHOI_00585"
+  },
+  {
+    "uniprot": "Q8CYJ3",
+    "locus": "OIJFJHOI_00586"
+  },
+  {
+    "uniprot": "Q8CYJ4",
+    "locus": "OIJFJHOI_00587"
+  },
+  {
+    "uniprot": "Q8CYJ5",
+    "locus": "OIJFJHOI_00588"
+  },
+  {
+    "uniprot": "Q8CWQ5",
+    "locus": "OIJFJHOI_00589"
+  },
+  {
+    "uniprot": "B2IR49",
+    "locus": "OIJFJHOI_00590"
+  },
+  {
+    "uniprot": "A0A6G2DNU1",
+    "locus": "OIJFJHOI_00591"
+  },
+  {
+    "uniprot": "A0A0B7L5D3",
+    "locus": "OIJFJHOI_00592"
+  },
+  {
+    "uniprot": "A0A0D6J7V8",
+    "locus": "OIJFJHOI_00593"
+  },
+  {
+    "uniprot": "A0A0D6J7V8",
+    "locus": "OIJFJHOI_00594"
+  },
+  {
+    "uniprot": "A0A0H2ZM83",
+    "locus": "OIJFJHOI_00595"
+  },
+  {
+    "uniprot": "A0A0D6J7G2",
+    "locus": "OIJFJHOI_00596"
+  },
+  {
+    "uniprot": "A0A6G2D9B2",
+    "locus": "OIJFJHOI_00597"
+  },
+  {
+    "uniprot": "C1CFA6",
+    "locus": "OIJFJHOI_00598"
+  },
+  {
+    "uniprot": "A0AA86X9E6",
+    "locus": "OIJFJHOI_00599"
+  },
+  {
+    "uniprot": "C1CFA4",
+    "locus": "OIJFJHOI_00600"
+  },
+  {
+    "uniprot": "Q8DP41",
+    "locus": "OIJFJHOI_00601"
+  },
+  {
+    "uniprot": "A0A4J2FIE0",
+    "locus": "OIJFJHOI_00602"
+  },
+  {
+    "uniprot": "Q8DP42",
+    "locus": "OIJFJHOI_00603"
+  },
+  {
+    "uniprot": "B2IQX9",
+    "locus": "OIJFJHOI_00604"
+  },
+  {
+    "uniprot": "Q8CYJ9",
+    "locus": "OIJFJHOI_00605"
+  },
+  {
+    "uniprot": "B2IQX7",
+    "locus": "OIJFJHOI_00606"
+  },
+  {
+    "uniprot": "Q79RW7",
+    "locus": "OIJFJHOI_00607"
+  },
+  {
+    "uniprot": "Q79MQ8",
+    "locus": "OIJFJHOI_00608"
+  },
+  {
+    "uniprot": "Q04HT5",
+    "locus": "OIJFJHOI_00609"
+  },
+  {
+    "uniprot": "Q04HT6",
+    "locus": "OIJFJHOI_00610"
+  },
+  {
+    "uniprot": "Q50IS9",
+    "locus": "OIJFJHOI_00611"
+  },
+  {
+    "uniprot": "C1CSC9",
+    "locus": "OIJFJHOI_00612"
+  },
+  {
+    "uniprot": "Q97PT6",
+    "locus": "OIJFJHOI_00613"
+  },
+  {
+    "uniprot": "Q04N64",
+    "locus": "OIJFJHOI_00614"
+  },
+  {
+    "uniprot": "Q8DP45",
+    "locus": "OIJFJHOI_00615"
+  },
+  {
+    "uniprot": "Q8DP46",
+    "locus": "OIJFJHOI_00616"
+  },
+  {
+    "uniprot": "A0A6G2DKP6",
+    "locus": "OIJFJHOI_00617"
+  },
+  {
+    "uniprot": "C1CF86",
+    "locus": "OIJFJHOI_00618"
+  },
+  {
+    "uniprot": "C1C893",
+    "locus": "OIJFJHOI_00619"
+  },
+  {
+    "uniprot": "C1CF84",
+    "locus": "OIJFJHOI_00620"
+  },
+  {
+    "uniprot": "Q8DP51",
+    "locus": "OIJFJHOI_00621"
+  },
+  {
+    "uniprot": "A0A0E8AL14",
+    "locus": "OIJFJHOI_00622"
+  },
+  {
+    "uniprot": "A0A0E9GXA9",
+    "locus": "OIJFJHOI_00623"
+  },
+  {
+    "uniprot": "C1C888",
+    "locus": "OIJFJHOI_00624"
+  },
+  {
+    "uniprot": "A0A6G2CVB6",
+    "locus": "OIJFJHOI_00625"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_00626"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_00627"
+  },
+  {
+    "uniprot": "A0A6I3UND0",
+    "locus": "OIJFJHOI_00628"
+  },
+  {
+    "uniprot": "A0A4J1VQS1",
+    "locus": "OIJFJHOI_00629"
+  },
+  {
+    "uniprot": "C1C884",
+    "locus": "OIJFJHOI_00630"
+  },
+  {
+    "uniprot": "B2IQV2",
+    "locus": "OIJFJHOI_00631"
+  },
+  {
+    "uniprot": "A0A4J1Y5Z9",
+    "locus": "OIJFJHOI_00632"
+  },
+  {
+    "uniprot": "A0A4J2DVJ4",
+    "locus": "OIJFJHOI_00633"
+  },
+  {
+    "uniprot": "A0AA86MJ65",
+    "locus": "OIJFJHOI_00634"
+  },
+  {
+    "uniprot": "A0A0U0GQD0",
+    "locus": "OIJFJHOI_00635"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_00636"
+  },
+  {
+    "uniprot": "A0A4L5VXG4",
+    "locus": "OIJFJHOI_00637"
+  },
+  {
+    "uniprot": "A0A0H2ZN69",
+    "locus": "OIJFJHOI_00638"
+  },
+  {
+    "uniprot": "B2IQU4",
+    "locus": "OIJFJHOI_00639"
+  },
+  {
+    "uniprot": "C1C872",
+    "locus": "OIJFJHOI_00641"
+  },
+  {
+    "uniprot": "C1CQP3",
+    "locus": "OIJFJHOI_00642"
+  },
+  {
+    "uniprot": "A0A6G2DC83",
+    "locus": "OIJFJHOI_00643"
+  },
+  {
+    "uniprot": "Q8DP67",
+    "locus": "OIJFJHOI_00644"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_00645"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_00646"
+  },
+  {
+    "uniprot": "A0A064C0N4",
+    "locus": "OIJFJHOI_00647"
+  },
+  {
+    "uniprot": "Q8DP68",
+    "locus": "OIJFJHOI_00648"
+  },
+  {
+    "uniprot": "C1C866",
+    "locus": "OIJFJHOI_00649"
+  },
+  {
+    "uniprot": "A0A064BXP8",
+    "locus": "OIJFJHOI_00650"
+  },
+  {
+    "uniprot": "Q97PX2",
+    "locus": "OIJFJHOI_00651"
+  },
+  {
+    "uniprot": "Q97PX3",
+    "locus": "OIJFJHOI_00652"
+  },
+  {
+    "uniprot": "C1CF48",
+    "locus": "OIJFJHOI_00653"
+  },
+  {
+    "uniprot": "Q8CYK8",
+    "locus": "OIJFJHOI_00654"
+  },
+  {
+    "uniprot": "C1CF46",
+    "locus": "OIJFJHOI_00655"
+  },
+  {
+    "uniprot": "C1CF45",
+    "locus": "OIJFJHOI_00656"
+  },
+  {
+    "uniprot": "Q8DP75",
+    "locus": "OIJFJHOI_00657"
+  },
+  {
+    "uniprot": "Q8DP76",
+    "locus": "OIJFJHOI_00658"
+  },
+  {
+    "uniprot": "C1CF42",
+    "locus": "OIJFJHOI_00659"
+  },
+  {
+    "uniprot": "C1CF41",
+    "locus": "OIJFJHOI_00660"
+  },
+  {
+    "uniprot": "Q8DP78",
+    "locus": "OIJFJHOI_00661"
+  },
+  {
+    "uniprot": "A0A0Y2NRS5",
+    "locus": "OIJFJHOI_00662"
+  },
+  {
+    "uniprot": "A0A654YJK2",
+    "locus": "OIJFJHOI_00663"
+  },
+  {
+    "uniprot": "A0A654YKW6",
+    "locus": "OIJFJHOI_00664"
+  },
+  {
+    "uniprot": "A0A0D6J814",
+    "locus": "OIJFJHOI_00665"
+  },
+  {
+    "uniprot": "B2IQR7",
+    "locus": "OIJFJHOI_00666"
+  },
+  {
+    "uniprot": "A0A0B7M5E2",
+    "locus": "OIJFJHOI_00667"
+  },
+  {
+    "uniprot": "B2IQR5",
+    "locus": "OIJFJHOI_00668"
+  },
+  {
+    "uniprot": "C1CF32",
+    "locus": "OIJFJHOI_00669"
+  },
+  {
+    "uniprot": "Q8DP82",
+    "locus": "OIJFJHOI_00670"
+  },
+  {
+    "uniprot": "C1CF30",
+    "locus": "OIJFJHOI_00671"
+  },
+  {
+    "uniprot": "Q04JQ8",
+    "locus": "OIJFJHOI_00672"
+  },
+  {
+    "uniprot": "B2IQR0",
+    "locus": "OIJFJHOI_00674"
+  },
+  {
+    "uniprot": "A0A4J1Q6V4",
+    "locus": "OIJFJHOI_00675"
+  },
+  {
+    "uniprot": "A0A822Q683",
+    "locus": "OIJFJHOI_00676"
+  },
+  {
+    "uniprot": "A0A4H5ARH2",
+    "locus": "OIJFJHOI_00677"
+  },
+  {
+    "uniprot": "A0A4H9EQ98",
+    "locus": "OIJFJHOI_00678"
+  },
+  {
+    "uniprot": "A0A0H2UQX0",
+    "locus": "OIJFJHOI_00679"
+  },
+  {
+    "uniprot": "B2IQQ3",
+    "locus": "OIJFJHOI_00680"
+  },
+  {
+    "uniprot": "B2IQQ2",
+    "locus": "OIJFJHOI_00681"
+  },
+  {
+    "uniprot": "A0A0B7KPZ7",
+    "locus": "OIJFJHOI_00682"
+  },
+  {
+    "uniprot": "A0A6I3U3I8",
+    "locus": "OIJFJHOI_00683"
+  },
+  {
+    "uniprot": "Q8CYM0",
+    "locus": "OIJFJHOI_00684"
+  },
+  {
+    "uniprot": "A0A110RR68",
+    "locus": "OIJFJHOI_00685"
+  },
+  {
+    "uniprot": "Q8DP92",
+    "locus": "OIJFJHOI_00686"
+  },
+  {
+    "uniprot": "Q8DP93",
+    "locus": "OIJFJHOI_00687"
+  },
+  {
+    "uniprot": "A0A0B7LF72",
+    "locus": "OIJFJHOI_00688"
+  },
+  {
+    "uniprot": "A0A822RH68",
+    "locus": "OIJFJHOI_00689"
+  },
+  {
+    "uniprot": "A0A4J1UPH0",
+    "locus": "OIJFJHOI_00690"
+  },
+  {
+    "uniprot": "A0A0B7LZZ3",
+    "locus": "OIJFJHOI_00691"
+  },
+  {
+    "uniprot": "C1CF10",
+    "locus": "OIJFJHOI_00692"
+  },
+  {
+    "uniprot": "A0AA86X298",
+    "locus": "OIJFJHOI_00693"
+  },
+  {
+    "uniprot": "Q8DP97",
+    "locus": "OIJFJHOI_00694"
+  },
+  {
+    "uniprot": "Q04JT1",
+    "locus": "OIJFJHOI_00695"
+  },
+  {
+    "uniprot": "A0AA95DBS8",
+    "locus": "OIJFJHOI_00696"
+  },
+  {
+    "uniprot": "A0A0B7L6F0",
+    "locus": "OIJFJHOI_00697"
+  },
+  {
+    "uniprot": "B1ICL7",
+    "locus": "OIJFJHOI_00698"
+  },
+  {
+    "uniprot": "A0AA44MTM4",
+    "locus": "OIJFJHOI_00699"
+  },
+  {
+    "uniprot": "C1CQU2",
+    "locus": "OIJFJHOI_00700"
+  },
+  {
+    "uniprot": "B2IQN3",
+    "locus": "OIJFJHOI_00701"
+  },
+  {
+    "uniprot": "A0A6G2D8G6",
+    "locus": "OIJFJHOI_00702"
+  },
+  {
+    "uniprot": "B2IQN1",
+    "locus": "OIJFJHOI_00703"
+  },
+  {
+    "uniprot": "Q8DPA4",
+    "locus": "OIJFJHOI_00704"
+  },
+  {
+    "uniprot": "C1CEZ8",
+    "locus": "OIJFJHOI_00705"
+  },
+  {
+    "uniprot": "Q8DPA6",
+    "locus": "OIJFJHOI_00706"
+  },
+  {
+    "uniprot": "A0A4J2CDP8",
+    "locus": "OIJFJHOI_00707"
+  },
+  {
+    "uniprot": "C1CEZ5",
+    "locus": "OIJFJHOI_00708"
+  },
+  {
+    "uniprot": "C1CEZ4",
+    "locus": "OIJFJHOI_00709"
+  },
+  {
+    "uniprot": "A0A0T7KH66",
+    "locus": "OIJFJHOI_00710"
+  },
+  {
+    "uniprot": "B2IQM0",
+    "locus": "OIJFJHOI_00711"
+  },
+  {
+    "uniprot": "A0AA86JTQ5",
+    "locus": "OIJFJHOI_00712"
+  },
+  {
+    "uniprot": "A0AA86J8S7",
+    "locus": "OIJFJHOI_00713"
+  },
+  {
+    "uniprot": "Q97Q31",
+    "locus": "OIJFJHOI_00714"
+  },
+  {
+    "uniprot": "Q8DPB2",
+    "locus": "OIJFJHOI_00715"
+  },
+  {
+    "uniprot": "Q8DPB3",
+    "locus": "OIJFJHOI_00716"
+  },
+  {
+    "uniprot": "C1CEY5",
+    "locus": "OIJFJHOI_00717"
+  },
+  {
+    "uniprot": "C1CEY4",
+    "locus": "OIJFJHOI_00718"
+  },
+  {
+    "uniprot": "Q8DPB6",
+    "locus": "OIJFJHOI_00719"
+  },
+  {
+    "uniprot": "A0A0U0AJD0",
+    "locus": "OIJFJHOI_00720"
+  },
+  {
+    "uniprot": "A0A0B7LTE2",
+    "locus": "OIJFJHOI_00721"
+  },
+  {
+    "uniprot": "B1ICJ2",
+    "locus": "OIJFJHOI_00722"
+  },
+  {
+    "uniprot": "A0A0T8QB64",
+    "locus": "OIJFJHOI_00723"
+  },
+  {
+    "uniprot": "A0A0B7LG43",
+    "locus": "OIJFJHOI_00724"
+  },
+  {
+    "uniprot": "C1CEX7",
+    "locus": "OIJFJHOI_00725"
+  },
+  {
+    "uniprot": "B2IQK4",
+    "locus": "OIJFJHOI_00726"
+  },
+  {
+    "uniprot": "C1C7Y7",
+    "locus": "OIJFJHOI_00727"
+  },
+  {
+    "uniprot": "C1C7Y6",
+    "locus": "OIJFJHOI_00728"
+  },
+  {
+    "uniprot": "Q8DPC6",
+    "locus": "OIJFJHOI_00729"
+  },
+  {
+    "uniprot": "A0AAD2IJC2",
+    "locus": "OIJFJHOI_00730"
+  },
+  {
+    "uniprot": "C1C7Y2",
+    "locus": "OIJFJHOI_00731"
+  },
+  {
+    "uniprot": "C1C7Y1",
+    "locus": "OIJFJHOI_00732"
+  },
+  {
+    "uniprot": "A0A4M9XSV4",
+    "locus": "OIJFJHOI_00733"
+  },
+  {
+    "uniprot": "A0A916L5P4",
+    "locus": "OIJFJHOI_00734"
+  },
+  {
+    "uniprot": "A0A9P1Q449",
+    "locus": "OIJFJHOI_00735"
+  },
+  {
+    "uniprot": "Q04JX0",
+    "locus": "OIJFJHOI_00736"
+  },
+  {
+    "uniprot": "Q3I012",
+    "locus": "OIJFJHOI_00737"
+  },
+  {
+    "uniprot": "Q3I068",
+    "locus": "OIJFJHOI_00738"
+  },
+  {
+    "uniprot": "C1CL83",
+    "locus": "OIJFJHOI_00739"
+  },
+  {
+    "uniprot": "C1CEW2",
+    "locus": "OIJFJHOI_00740"
+  },
+  {
+    "uniprot": "Q8DPD3",
+    "locus": "OIJFJHOI_00741"
+  },
+  {
+    "uniprot": "A0A0U0KXN4",
+    "locus": "OIJFJHOI_00742"
+  },
+  {
+    "uniprot": "A0AAD2QAL3",
+    "locus": "OIJFJHOI_00743"
+  },
+  {
+    "uniprot": "A0A0D6J7D6",
+    "locus": "OIJFJHOI_00744"
+  },
+  {
+    "uniprot": "Q8DPD6",
+    "locus": "OIJFJHOI_00745"
+  },
+  {
+    "uniprot": "C1CEV6",
+    "locus": "OIJFJHOI_00746"
+  },
+  {
+    "uniprot": "A0A6I3U4A5",
+    "locus": "OIJFJHOI_00747"
+  },
+  {
+    "uniprot": "A0A4J2GVM6",
+    "locus": "OIJFJHOI_00748"
+  },
+  {
+    "uniprot": "A0A6I3TDF3",
+    "locus": "OIJFJHOI_00749"
+  },
+  {
+    "uniprot": "C1CEV2",
+    "locus": "OIJFJHOI_00750"
+  },
+  {
+    "uniprot": "C1CQZ3",
+    "locus": "OIJFJHOI_00751"
+  },
+  {
+    "uniprot": "Q8DPE1",
+    "locus": "OIJFJHOI_00752"
+  },
+  {
+    "uniprot": "Q04JY7",
+    "locus": "OIJFJHOI_00753"
+  },
+  {
+    "uniprot": "A0A0B7L4L0",
+    "locus": "OIJFJHOI_00754"
+  },
+  {
+    "uniprot": "B2IQH5",
+    "locus": "OIJFJHOI_00755"
+  },
+  {
+    "uniprot": "A0AAE9U1Q5",
+    "locus": "OIJFJHOI_00756"
+  },
+  {
+    "uniprot": "A0A6G2DMQ2",
+    "locus": "OIJFJHOI_00757"
+  },
+  {
+    "uniprot": "Q04JZ3",
+    "locus": "OIJFJHOI_00759"
+  },
+  {
+    "uniprot": "Q04JZ4",
+    "locus": "OIJFJHOI_00760"
+  },
+  {
+    "uniprot": "A0A098ANF2",
+    "locus": "OIJFJHOI_00762"
+  },
+  {
+    "uniprot": "Q8CYN4",
+    "locus": "OIJFJHOI_00763"
+  },
+  {
+    "uniprot": "Q8CYN5",
+    "locus": "OIJFJHOI_00764"
+  },
+  {
+    "uniprot": "Q8CYN6",
+    "locus": "OIJFJHOI_00765"
+  },
+  {
+    "uniprot": "E7AJJ3",
+    "locus": "OIJFJHOI_00766"
+  },
+  {
+    "uniprot": "A0A0H2UQQ4",
+    "locus": "OIJFJHOI_00767"
+  },
+  {
+    "uniprot": "C1C7U1",
+    "locus": "OIJFJHOI_00768"
+  },
+  {
+    "uniprot": "A0AAD2II32",
+    "locus": "OIJFJHOI_00769"
+  },
+  {
+    "uniprot": "C1C7U5",
+    "locus": "OIJFJHOI_00770"
+  },
+  {
+    "uniprot": "C1C7U4",
+    "locus": "OIJFJHOI_00771"
+  },
+  {
+    "uniprot": "C1C7U3",
+    "locus": "OIJFJHOI_00772"
+  },
+  {
+    "uniprot": "A0A384ZZY7",
+    "locus": "OIJFJHOI_00773"
+  },
+  {
+    "uniprot": "C1C7U1",
+    "locus": "OIJFJHOI_00774"
+  },
+  {
+    "uniprot": "A0A0B7LKL9",
+    "locus": "OIJFJHOI_00775"
+  },
+  {
+    "uniprot": "A0AAD2IHX3",
+    "locus": "OIJFJHOI_00776"
+  },
+  {
+    "uniprot": "A0A0B7LRD2",
+    "locus": "OIJFJHOI_00777"
+  },
+  {
+    "uniprot": "A0A0U0JBG0",
+    "locus": "OIJFJHOI_00778"
+  },
+  {
+    "uniprot": "A0AAD2IKW3",
+    "locus": "OIJFJHOI_00779"
+  },
+  {
+    "uniprot": "A0A0B7LDL9",
+    "locus": "OIJFJHOI_00780"
+  },
+  {
+    "uniprot": "A0A6G2DNN7",
+    "locus": "OIJFJHOI_00781"
+  },
+  {
+    "uniprot": "A0A0B7LFE7",
+    "locus": "OIJFJHOI_00782"
+  },
+  {
+    "uniprot": "B1IAQ9",
+    "locus": "OIJFJHOI_00783"
+  },
+  {
+    "uniprot": "B1IAR0",
+    "locus": "OIJFJHOI_00784"
+  },
+  {
+    "uniprot": "A0AAD2KEW3",
+    "locus": "OIJFJHOI_00785"
+  },
+  {
+    "uniprot": "B1IAR2",
+    "locus": "OIJFJHOI_00786"
+  },
+  {
+    "uniprot": "A0AA44MRJ2",
+    "locus": "OIJFJHOI_00787"
+  },
+  {
+    "uniprot": "A0A0B7LSC8",
+    "locus": "OIJFJHOI_00788"
+  },
+  {
+    "uniprot": "A0AAE9QXS5",
+    "locus": "OIJFJHOI_00789"
+  },
+  {
+    "uniprot": "A0AAE9QJW7",
+    "locus": "OIJFJHOI_00790"
+  },
+  {
+    "uniprot": "A0A4N5NFL9",
+    "locus": "OIJFJHOI_00791"
+  },
+  {
+    "uniprot": "A0A0B7LGH5",
+    "locus": "OIJFJHOI_00792"
+  },
+  {
+    "uniprot": "A0A0B7LLJ2",
+    "locus": "OIJFJHOI_00793"
+  },
+  {
+    "uniprot": "C1CEQ8",
+    "locus": "OIJFJHOI_00794"
+  },
+  {
+    "uniprot": "A0A4J2CQS6",
+    "locus": "OIJFJHOI_00795"
+  },
+  {
+    "uniprot": "A0A0B7LYP4",
+    "locus": "OIJFJHOI_00796"
+  },
+  {
+    "uniprot": "A0AA87CAZ5",
+    "locus": "OIJFJHOI_00797"
+  },
+  {
+    "uniprot": "A0A064C0R5",
+    "locus": "OIJFJHOI_00798"
+  },
+  {
+    "uniprot": "C1CEQ2",
+    "locus": "OIJFJHOI_00799"
+  },
+  {
+    "uniprot": "Q8DPG5",
+    "locus": "OIJFJHOI_00800"
+  },
+  {
+    "uniprot": "C1C7S4",
+    "locus": "OIJFJHOI_00801"
+  },
+  {
+    "uniprot": "Q97QC5",
+    "locus": "OIJFJHOI_00802"
+  },
+  {
+    "uniprot": "Q97QC6",
+    "locus": "OIJFJHOI_00803"
+  },
+  {
+    "uniprot": "B1ICA6",
+    "locus": "OIJFJHOI_00805"
+  },
+  {
+    "uniprot": "A0A064C1E3",
+    "locus": "OIJFJHOI_00806"
+  },
+  {
+    "uniprot": "C1C7S0",
+    "locus": "OIJFJHOI_00807"
+  },
+  {
+    "uniprot": "B2IQ80",
+    "locus": "OIJFJHOI_00808"
+  },
+  {
+    "uniprot": "C1C7R8",
+    "locus": "OIJFJHOI_00809"
+  },
+  {
+    "uniprot": "C1C7R7",
+    "locus": "OIJFJHOI_00810"
+  },
+  {
+    "uniprot": "A0A0E8ZAG6",
+    "locus": "OIJFJHOI_00811"
+  },
+  {
+    "uniprot": "Q97QD4",
+    "locus": "OIJFJHOI_00813"
+  },
+  {
+    "uniprot": "A0A4J1SHX3",
+    "locus": "OIJFJHOI_00814"
+  },
+  {
+    "uniprot": "Q97QD6",
+    "locus": "OIJFJHOI_00815"
+  },
+  {
+    "uniprot": "A0AAD2KEI0",
+    "locus": "OIJFJHOI_00816"
+  },
+  {
+    "uniprot": "A0A4J1PG94",
+    "locus": "OIJFJHOI_00818"
+  },
+  {
+    "uniprot": "A0A0B7KY73",
+    "locus": "OIJFJHOI_00819"
+  },
+  {
+    "uniprot": "Q8DPH8",
+    "locus": "OIJFJHOI_00820"
+  },
+  {
+    "uniprot": "Q04K45",
+    "locus": "OIJFJHOI_00822"
+  },
+  {
+    "uniprot": "C1C7Q5",
+    "locus": "OIJFJHOI_00823"
+  },
+  {
+    "uniprot": "A0A064BWJ2",
+    "locus": "OIJFJHOI_00824"
+  },
+  {
+    "uniprot": "A0AA95IKI8",
+    "locus": "OIJFJHOI_00825"
+  },
+  {
+    "uniprot": "A0AA95IL69",
+    "locus": "OIJFJHOI_00826"
+  },
+  {
+    "uniprot": "A0A4J1YDP9",
+    "locus": "OIJFJHOI_00827"
+  },
+  {
+    "uniprot": "A0A0I6E712",
+    "locus": "OIJFJHOI_00828"
+  },
+  {
+    "uniprot": "A0A064BWJ5",
+    "locus": "OIJFJHOI_00829"
+  },
+  {
+    "uniprot": "A0A0D6J7P2",
+    "locus": "OIJFJHOI_00830"
+  },
+  {
+    "uniprot": "Q93MI3",
+    "locus": "OIJFJHOI_00831"
+  },
+  {
+    "uniprot": "C1CEM2",
+    "locus": "OIJFJHOI_00832"
+  },
+  {
+    "uniprot": "A0A4J1PZ14",
+    "locus": "OIJFJHOI_00833"
+  },
+  {
+    "uniprot": "A0A0H2UQA6",
+    "locus": "OIJFJHOI_00834"
+  },
+  {
+    "uniprot": "A0A0B7M4M5",
+    "locus": "OIJFJHOI_00835"
+  },
+  {
+    "uniprot": "A0A0B7M6Q6",
+    "locus": "OIJFJHOI_00836"
+  },
+  {
+    "uniprot": "A0A0H2UQA4",
+    "locus": "OIJFJHOI_00837"
+  },
+  {
+    "uniprot": "B2IPM0",
+    "locus": "OIJFJHOI_00838"
+  },
+  {
+    "uniprot": "A0A0B7L4K2",
+    "locus": "OIJFJHOI_00839"
+  },
+  {
+    "uniprot": "A0A0H2UQG5",
+    "locus": "OIJFJHOI_00840"
+  },
+  {
+    "uniprot": "A0A0I6GHB5",
+    "locus": "OIJFJHOI_00841"
+  },
+  {
+    "uniprot": "A0A4J1RUU3",
+    "locus": "OIJFJHOI_00842"
+  },
+  {
+    "uniprot": "A0A0H2UQA5",
+    "locus": "OIJFJHOI_00843"
+  },
+  {
+    "uniprot": "A0A0E8P501",
+    "locus": "OIJFJHOI_00844"
+  },
+  {
+    "uniprot": "A0A098ZBM5",
+    "locus": "OIJFJHOI_00845"
+  },
+  {
+    "uniprot": "A0A6G2DBL9",
+    "locus": "OIJFJHOI_00846"
+  },
+  {
+    "uniprot": "A0A6G2DVV8",
+    "locus": "OIJFJHOI_00847"
+  },
+  {
+    "uniprot": "A0A0E7TTA4",
+    "locus": "OIJFJHOI_00848"
+  },
+  {
+    "uniprot": "A0A064C285",
+    "locus": "OIJFJHOI_00850"
+  },
+  {
+    "uniprot": "A0AA86JA36",
+    "locus": "OIJFJHOI_00851"
+  },
+  {
+    "uniprot": "A0A0U0AUH1",
+    "locus": "OIJFJHOI_00852"
+  },
+  {
+    "uniprot": "A0A0U0GYB8",
+    "locus": "OIJFJHOI_00853"
+  },
+  {
+    "uniprot": "A0AA86JQG6",
+    "locus": "OIJFJHOI_00854"
+  },
+  {
+    "uniprot": "A0A4J1Z348",
+    "locus": "OIJFJHOI_00855"
+  },
+  {
+    "uniprot": "C1CEJ8",
+    "locus": "OIJFJHOI_00856"
+  },
+  {
+    "uniprot": "C1CEJ7",
+    "locus": "OIJFJHOI_00857"
+  },
+  {
+    "uniprot": "A0A655GGA7",
+    "locus": "OIJFJHOI_00858"
+  },
+  {
+    "uniprot": "Q54986",
+    "locus": "OIJFJHOI_00859"
+  },
+  {
+    "uniprot": "A0A4J1NL23",
+    "locus": "OIJFJHOI_00860"
+  },
+  {
+    "uniprot": "A0A4H5B0S9",
+    "locus": "OIJFJHOI_00861"
+  },
+  {
+    "uniprot": "A0A2R2HV82",
+    "locus": "OIJFJHOI_00862"
+  },
+  {
+    "uniprot": "A0A0T7TLM8",
+    "locus": "OIJFJHOI_00863"
+  },
+  {
+    "uniprot": "C1CEJ0",
+    "locus": "OIJFJHOI_00864"
+  },
+  {
+    "uniprot": "Q8DPL2",
+    "locus": "OIJFJHOI_00865"
+  },
+  {
+    "uniprot": "Q8DPL3",
+    "locus": "OIJFJHOI_00866"
+  },
+  {
+    "uniprot": "C1CEI7",
+    "locus": "OIJFJHOI_00867"
+  },
+  {
+    "uniprot": "C1CEI6",
+    "locus": "OIJFJHOI_00868"
+  },
+  {
+    "uniprot": "A0A4J2AC17",
+    "locus": "OIJFJHOI_00869"
+  },
+  {
+    "uniprot": "Q9S1K0",
+    "locus": "OIJFJHOI_00870"
+  },
+  {
+    "uniprot": "C1CEI3",
+    "locus": "OIJFJHOI_00871"
+  },
+  {
+    "uniprot": "Q9RCS5",
+    "locus": "OIJFJHOI_00872"
+  },
+  {
+    "uniprot": "A0A558SUE3",
+    "locus": "OIJFJHOI_00873"
+  },
+  {
+    "uniprot": "Q8CYQ7",
+    "locus": "OIJFJHOI_00874"
+  },
+  {
+    "uniprot": "A0A0T7L7N8",
+    "locus": "OIJFJHOI_00875"
+  },
+  {
+    "uniprot": "A0AA87CBD3",
+    "locus": "OIJFJHOI_00876"
+  },
+  {
+    "uniprot": "A0A6G2DAI1",
+    "locus": "OIJFJHOI_00877"
+  },
+  {
+    "uniprot": "Q8DPM3",
+    "locus": "OIJFJHOI_00878"
+  },
+  {
+    "uniprot": "Q8DPM4",
+    "locus": "OIJFJHOI_00879"
+  },
+  {
+    "uniprot": "C1C7I2",
+    "locus": "OIJFJHOI_00880"
+  },
+  {
+    "uniprot": "C1C7I1",
+    "locus": "OIJFJHOI_00881"
+  },
+  {
+    "uniprot": "C1C7I0",
+    "locus": "OIJFJHOI_00882"
+  },
+  {
+    "uniprot": "A0A0T7ZB21",
+    "locus": "OIJFJHOI_00883"
+  },
+  {
+    "uniprot": "A0A0B4ZIX7",
+    "locus": "OIJFJHOI_00884"
+  },
+  {
+    "uniprot": "C1CEH2",
+    "locus": "OIJFJHOI_00885"
+  },
+  {
+    "uniprot": "Q04KA9",
+    "locus": "OIJFJHOI_00886"
+  },
+  {
+    "uniprot": "A0A0T8Q9V4",
+    "locus": "OIJFJHOI_00887"
+  },
+  {
+    "uniprot": "Q04KB1",
+    "locus": "OIJFJHOI_00888"
+  },
+  {
+    "uniprot": "A0A4J1RWN3",
+    "locus": "OIJFJHOI_00889"
+  },
+  {
+    "uniprot": "A0A0B7LYQ9",
+    "locus": "OIJFJHOI_00890"
+  },
+  {
+    "uniprot": "A0A0T8BDD5",
+    "locus": "OIJFJHOI_00891"
+  },
+  {
+    "uniprot": "C1C7H1",
+    "locus": "OIJFJHOI_00892"
+  },
+  {
+    "uniprot": "A0A0H2UQ46",
+    "locus": "OIJFJHOI_00893"
+  },
+  {
+    "uniprot": "B2IPT0",
+    "locus": "OIJFJHOI_00894"
+  },
+  {
+    "uniprot": "A0AAD2I883",
+    "locus": "OIJFJHOI_00895"
+  },
+  {
+    "uniprot": "A0A0B7KYS8",
+    "locus": "OIJFJHOI_00896"
+  },
+  {
+    "uniprot": "A0A0H2UQA9",
+    "locus": "OIJFJHOI_00897"
+  },
+  {
+    "uniprot": "A0AA95D635",
+    "locus": "OIJFJHOI_00898"
+  },
+  {
+    "uniprot": "A0A4J2C1B4",
+    "locus": "OIJFJHOI_00899"
+  },
+  {
+    "uniprot": "Q8DPN8",
+    "locus": "OIJFJHOI_00900"
+  },
+  {
+    "uniprot": "Q8DPN9",
+    "locus": "OIJFJHOI_00901"
+  },
+  {
+    "uniprot": "Q8DPP0",
+    "locus": "OIJFJHOI_00902"
+  },
+  {
+    "uniprot": "A0A9P1PKR6",
+    "locus": "OIJFJHOI_00903"
+  },
+  {
+    "uniprot": "C1C7F9",
+    "locus": "OIJFJHOI_00904"
+  },
+  {
+    "uniprot": "A0A0E8T086",
+    "locus": "OIJFJHOI_00905"
+  },
+  {
+    "uniprot": "Q8DPP4",
+    "locus": "OIJFJHOI_00906"
+  },
+  {
+    "uniprot": "C1CEE8",
+    "locus": "OIJFJHOI_00907"
+  },
+  {
+    "uniprot": "A0AA95D6D6",
+    "locus": "OIJFJHOI_00908"
+  },
+  {
+    "uniprot": "A0A121AQI8",
+    "locus": "OIJFJHOI_00909"
+  },
+  {
+    "uniprot": "A0A0B7LYU0",
+    "locus": "OIJFJHOI_00910"
+  },
+  {
+    "uniprot": "Q8DPP8",
+    "locus": "OIJFJHOI_00911"
+  },
+  {
+    "uniprot": "Q8CWR3",
+    "locus": "OIJFJHOI_00912"
+  },
+  {
+    "uniprot": "Q8DPP9",
+    "locus": "OIJFJHOI_00913"
+  },
+  {
+    "uniprot": "Q8DPQ0",
+    "locus": "OIJFJHOI_00914"
+  },
+  {
+    "uniprot": "A0A0B7LFZ1",
+    "locus": "OIJFJHOI_00915"
+  },
+  {
+    "uniprot": "Q8DPQ2",
+    "locus": "OIJFJHOI_00916"
+  },
+  {
+    "uniprot": "A0A6I3U8K6",
+    "locus": "OIJFJHOI_00917"
+  },
+  {
+    "uniprot": "A0A0B7L2Z1",
+    "locus": "OIJFJHOI_00918"
+  },
+  {
+    "uniprot": "A0A0B7MFV3",
+    "locus": "OIJFJHOI_00919"
+  },
+  {
+    "uniprot": "A0A0H2UQ88",
+    "locus": "OIJFJHOI_00920"
+  },
+  {
+    "uniprot": "A0A0D6J8I6",
+    "locus": "OIJFJHOI_00921"
+  },
+  {
+    "uniprot": "B2IPV6",
+    "locus": "OIJFJHOI_00922"
+  },
+  {
+    "uniprot": "C1CED3",
+    "locus": "OIJFJHOI_00923"
+  },
+  {
+    "uniprot": "A0A0B7M963",
+    "locus": "OIJFJHOI_00924"
+  },
+  {
+    "uniprot": "A0A0B7L0U2",
+    "locus": "OIJFJHOI_00925"
+  },
+  {
+    "uniprot": "A0A064BZM5",
+    "locus": "OIJFJHOI_00926"
+  },
+  {
+    "uniprot": "C1CED0",
+    "locus": "OIJFJHOI_00927"
+  },
+  {
+    "uniprot": "A0A9P1LU72",
+    "locus": "OIJFJHOI_00928"
+  },
+  {
+    "uniprot": "C1C7D3",
+    "locus": "OIJFJHOI_00929"
+  },
+  {
+    "uniprot": "A0A4J1SB62",
+    "locus": "OIJFJHOI_00930"
+  },
+  {
+    "uniprot": "C1C7D1",
+    "locus": "OIJFJHOI_00931"
+  },
+  {
+    "uniprot": "Q04KF1",
+    "locus": "OIJFJHOI_00932"
+  },
+  {
+    "uniprot": "A0A4J2FCH9",
+    "locus": "OIJFJHOI_00933"
+  },
+  {
+    "uniprot": "C1CRN4",
+    "locus": "OIJFJHOI_00934"
+  },
+  {
+    "uniprot": "C1CEC2",
+    "locus": "OIJFJHOI_00935"
+  },
+  {
+    "uniprot": "A0A2U3RZX2",
+    "locus": "OIJFJHOI_00936"
+  },
+  {
+    "uniprot": "A0AAD2KGT6",
+    "locus": "OIJFJHOI_00937"
+  },
+  {
+    "uniprot": "A0A4J2CB72",
+    "locus": "OIJFJHOI_00938"
+  },
+  {
+    "uniprot": "A0AA44S6R3",
+    "locus": "OIJFJHOI_00939"
+  },
+  {
+    "uniprot": "C1CGU6",
+    "locus": "OIJFJHOI_00940"
+  },
+  {
+    "uniprot": "A0A4N9BIG1",
+    "locus": "OIJFJHOI_00941"
+  },
+  {
+    "uniprot": "A0A0U0HFZ6",
+    "locus": "OIJFJHOI_00943"
+  },
+  {
+    "uniprot": "A0A0T8K6V7",
+    "locus": "OIJFJHOI_00944"
+  },
+  {
+    "uniprot": "A0A0T7T6C3",
+    "locus": "OIJFJHOI_00945"
+  },
+  {
+    "uniprot": "A0A0U0HEE2",
+    "locus": "OIJFJHOI_00946"
+  },
+  {
+    "uniprot": "A0A0U0K6P4",
+    "locus": "OIJFJHOI_00947"
+  },
+  {
+    "uniprot": "A0A9P1LXC9",
+    "locus": "OIJFJHOI_00948"
+  },
+  {
+    "uniprot": "A0AA36PYD7",
+    "locus": "OIJFJHOI_00949"
+  },
+  {
+    "uniprot": "A0A0T8BED0",
+    "locus": "OIJFJHOI_00950"
+  },
+  {
+    "uniprot": "A0A0T8I894",
+    "locus": "OIJFJHOI_00951"
+  },
+  {
+    "uniprot": "A0A0T8TXY0",
+    "locus": "OIJFJHOI_00952"
+  },
+  {
+    "uniprot": "A0A0U0F045",
+    "locus": "OIJFJHOI_00953"
+  },
+  {
+    "uniprot": "A0A6G2DDQ1",
+    "locus": "OIJFJHOI_00954"
+  },
+  {
+    "uniprot": "A0A0T8BED4",
+    "locus": "OIJFJHOI_00955"
+  },
+  {
+    "uniprot": "A0A0U0Q3Q9",
+    "locus": "OIJFJHOI_00956"
+  },
+  {
+    "uniprot": "A0A4J2CNL4",
+    "locus": "OIJFJHOI_00957"
+  },
+  {
+    "uniprot": "C1CRM6",
+    "locus": "OIJFJHOI_00959"
+  },
+  {
+    "uniprot": "Q8CYR5",
+    "locus": "OIJFJHOI_00960"
+  },
+  {
+    "uniprot": "C1C7B8",
+    "locus": "OIJFJHOI_00961"
+  },
+  {
+    "uniprot": "A0A064C1S2",
+    "locus": "OIJFJHOI_00962"
+  },
+  {
+    "uniprot": "B2IPY4",
+    "locus": "OIJFJHOI_00963"
+  },
+  {
+    "uniprot": "A0A559CV11",
+    "locus": "OIJFJHOI_00964"
+  },
+  {
+    "uniprot": "Q97QS7",
+    "locus": "OIJFJHOI_00965"
+  },
+  {
+    "uniprot": "A0A0T9GVB8",
+    "locus": "OIJFJHOI_00966"
+  },
+  {
+    "uniprot": "Q8DPS7",
+    "locus": "OIJFJHOI_00967"
+  },
+  {
+    "uniprot": "Q8DPS8",
+    "locus": "OIJFJHOI_00968"
+  },
+  {
+    "uniprot": "A0A0E8ZQY3",
+    "locus": "OIJFJHOI_00969"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_00970"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_00971"
+  },
+  {
+    "uniprot": "B1IBQ2",
+    "locus": "OIJFJHOI_00972"
+  },
+  {
+    "uniprot": "Q8DPT1",
+    "locus": "OIJFJHOI_00973"
+  },
+  {
+    "uniprot": "A0A4J1RA39",
+    "locus": "OIJFJHOI_00974"
+  },
+  {
+    "uniprot": "C1CEA0",
+    "locus": "OIJFJHOI_00975"
+  },
+  {
+    "uniprot": "Q8DPT4",
+    "locus": "OIJFJHOI_00976"
+  },
+  {
+    "uniprot": "C1C7A5",
+    "locus": "OIJFJHOI_00977"
+  },
+  {
+    "uniprot": "Q8DPT6",
+    "locus": "OIJFJHOI_00978"
+  },
+  {
+    "uniprot": "Q04KI2",
+    "locus": "OIJFJHOI_00979"
+  },
+  {
+    "uniprot": "C1CE93",
+    "locus": "OIJFJHOI_00980"
+  },
+  {
+    "uniprot": "C1CKG8",
+    "locus": "OIJFJHOI_00981"
+  },
+  {
+    "uniprot": "A0A4J1TA14",
+    "locus": "OIJFJHOI_00983"
+  },
+  {
+    "uniprot": "Q04KI6",
+    "locus": "OIJFJHOI_00984"
+  },
+  {
+    "uniprot": "A0A4J1MW61",
+    "locus": "OIJFJHOI_00986"
+  },
+  {
+    "uniprot": "A0A4L4YX01",
+    "locus": "OIJFJHOI_00987"
+  },
+  {
+    "uniprot": "Q8DPU0",
+    "locus": "OIJFJHOI_00989"
+  },
+  {
+    "uniprot": "A0AA44MUX0",
+    "locus": "OIJFJHOI_00990"
+  },
+  {
+    "uniprot": "B2IQ09",
+    "locus": "OIJFJHOI_00991"
+  },
+  {
+    "uniprot": "Q8DPU2",
+    "locus": "OIJFJHOI_00992"
+  },
+  {
+    "uniprot": "C1C792",
+    "locus": "OIJFJHOI_00993"
+  },
+  {
+    "uniprot": "P65242",
+    "locus": "OIJFJHOI_00994"
+  },
+  {
+    "uniprot": "C1CE80",
+    "locus": "OIJFJHOI_00995"
+  },
+  {
+    "uniprot": "Q8CYS0",
+    "locus": "OIJFJHOI_00996"
+  },
+  {
+    "uniprot": "Q8CYS1",
+    "locus": "OIJFJHOI_00997"
+  },
+  {
+    "uniprot": "C1CRJ3",
+    "locus": "OIJFJHOI_00998"
+  },
+  {
+    "uniprot": "A0AAE9U3J1",
+    "locus": "OIJFJHOI_00999"
+  },
+  {
+    "uniprot": "A0A062WLA7",
+    "locus": "OIJFJHOI_01000"
+  },
+  {
+    "uniprot": "A0A0U0HZW6",
+    "locus": "OIJFJHOI_01001"
+  },
+  {
+    "uniprot": "B2IPT3",
+    "locus": "OIJFJHOI_01002"
+  },
+  {
+    "uniprot": "A0A4G3UBW2",
+    "locus": "OIJFJHOI_01003"
+  },
+  {
+    "uniprot": "Q8DPV1",
+    "locus": "OIJFJHOI_01004"
+  },
+  {
+    "uniprot": "A0A0B7M8Z1",
+    "locus": "OIJFJHOI_01005"
+  },
+  {
+    "uniprot": "C1CE69",
+    "locus": "OIJFJHOI_01006"
+  },
+  {
+    "uniprot": "Q97QW6",
+    "locus": "OIJFJHOI_01007"
+  },
+  {
+    "uniprot": "C1CE67",
+    "locus": "OIJFJHOI_01009"
+  },
+  {
+    "uniprot": "C1CE66",
+    "locus": "OIJFJHOI_01010"
+  },
+  {
+    "uniprot": "C1CE65",
+    "locus": "OIJFJHOI_01011"
+  },
+  {
+    "uniprot": "C1CE64",
+    "locus": "OIJFJHOI_01012"
+  },
+  {
+    "uniprot": "A0A6G2DBR2",
+    "locus": "OIJFJHOI_01013"
+  },
+  {
+    "uniprot": "A0A0H2ZPH7",
+    "locus": "OIJFJHOI_01014"
+  },
+  {
+    "uniprot": "Q8DPW0",
+    "locus": "OIJFJHOI_01015"
+  },
+  {
+    "uniprot": "P0A4J0",
+    "locus": "OIJFJHOI_01016"
+  },
+  {
+    "uniprot": "A0A4J1UYI2",
+    "locus": "OIJFJHOI_01017"
+  },
+  {
+    "uniprot": "A0A0H2UQ29",
+    "locus": "OIJFJHOI_01018"
+  },
+  {
+    "uniprot": "A0A0H2UPW3",
+    "locus": "OIJFJHOI_01019"
+  },
+  {
+    "uniprot": "A0A0T9IB85",
+    "locus": "OIJFJHOI_01020"
+  },
+  {
+    "uniprot": "A0A6G2D927",
+    "locus": "OIJFJHOI_01022"
+  },
+  {
+    "uniprot": "A0A0H2ZRW0",
+    "locus": "OIJFJHOI_01023"
+  },
+  {
+    "uniprot": "Q8DPW7",
+    "locus": "OIJFJHOI_01025"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_01026"
+  },
+  {
+    "uniprot": "A0A4J1VKY0",
+    "locus": "OIJFJHOI_01027"
+  },
+  {
+    "uniprot": "A0A0E9GNR6",
+    "locus": "OIJFJHOI_01028"
+  },
+  {
+    "uniprot": "C1CE49",
+    "locus": "OIJFJHOI_01029"
+  },
+  {
+    "uniprot": "A0A4K1AYM2",
+    "locus": "OIJFJHOI_01030"
+  },
+  {
+    "uniprot": "C1CE47",
+    "locus": "OIJFJHOI_01031"
+  },
+  {
+    "uniprot": "A0A4J2EP18",
+    "locus": "OIJFJHOI_01032"
+  },
+  {
+    "uniprot": "A0A0E9GU98",
+    "locus": "OIJFJHOI_01033"
+  },
+  {
+    "uniprot": "A0AA87C7H4",
+    "locus": "OIJFJHOI_01034"
+  },
+  {
+    "uniprot": "A0A4J2A6H4",
+    "locus": "OIJFJHOI_01035"
+  },
+  {
+    "uniprot": "B2IPK3",
+    "locus": "OIJFJHOI_01036"
+  },
+  {
+    "uniprot": "A0A4K4BX92",
+    "locus": "OIJFJHOI_01037"
+  },
+  {
+    "uniprot": "A0A0B7KSE1",
+    "locus": "OIJFJHOI_01038"
+  },
+  {
+    "uniprot": "B2IPK0",
+    "locus": "OIJFJHOI_01039"
+  },
+  {
+    "uniprot": "B2IPJ6",
+    "locus": "OIJFJHOI_01040"
+  },
+  {
+    "uniprot": "A0A4K4BX27",
+    "locus": "OIJFJHOI_01041"
+  },
+  {
+    "uniprot": "Q8CYT9",
+    "locus": "OIJFJHOI_01042"
+  },
+  {
+    "uniprot": "Q8CYU1",
+    "locus": "OIJFJHOI_01044"
+  },
+  {
+    "uniprot": "C1CE25",
+    "locus": "OIJFJHOI_01045"
+  },
+  {
+    "uniprot": "Q8DPY4",
+    "locus": "OIJFJHOI_01046"
+  },
+  {
+    "uniprot": "B2IPI9",
+    "locus": "OIJFJHOI_01047"
+  },
+  {
+    "uniprot": "Q8DPY6",
+    "locus": "OIJFJHOI_01048"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_01049"
+  },
+  {
+    "uniprot": "C1CE21",
+    "locus": "OIJFJHOI_01050"
+  },
+  {
+    "uniprot": "A0A4N6AET8",
+    "locus": "OIJFJHOI_01053"
+  },
+  {
+    "uniprot": "A0A0B7LWH7",
+    "locus": "OIJFJHOI_01054"
+  },
+  {
+    "uniprot": "C1C701",
+    "locus": "OIJFJHOI_01055"
+  },
+  {
+    "uniprot": "A0A5R9AW41",
+    "locus": "OIJFJHOI_01056"
+  },
+  {
+    "uniprot": "A0A380LTP6",
+    "locus": "OIJFJHOI_01057"
+  },
+  {
+    "uniprot": "B1IBI2",
+    "locus": "OIJFJHOI_01058"
+  },
+  {
+    "uniprot": "C1CE14",
+    "locus": "OIJFJHOI_01059"
+  },
+  {
+    "uniprot": "C1CE13",
+    "locus": "OIJFJHOI_01060"
+  },
+  {
+    "uniprot": "Q8DPZ4",
+    "locus": "OIJFJHOI_01061"
+  },
+  {
+    "uniprot": "A0A0E9GQZ0",
+    "locus": "OIJFJHOI_01062"
+  },
+  {
+    "uniprot": "B2IPH4",
+    "locus": "OIJFJHOI_01063"
+  },
+  {
+    "uniprot": "A0A6I3TZY7",
+    "locus": "OIJFJHOI_01064"
+  },
+  {
+    "uniprot": "C1CK93",
+    "locus": "OIJFJHOI_01065"
+  },
+  {
+    "uniprot": "Q8DQ00",
+    "locus": "OIJFJHOI_01066"
+  },
+  {
+    "uniprot": "C1CE06",
+    "locus": "OIJFJHOI_01069"
+  },
+  {
+    "uniprot": "A0A0E7TRS3",
+    "locus": "OIJFJHOI_01071"
+  },
+  {
+    "uniprot": "Q8DQ03",
+    "locus": "OIJFJHOI_01072"
+  },
+  {
+    "uniprot": "A0AA87C6G6",
+    "locus": "OIJFJHOI_01073"
+  },
+  {
+    "uniprot": "B3FNU3",
+    "locus": "OIJFJHOI_01074"
+  },
+  {
+    "uniprot": "B3FNT5",
+    "locus": "OIJFJHOI_01075"
+  },
+  {
+    "uniprot": "B3FNT4",
+    "locus": "OIJFJHOI_01076"
+  },
+  {
+    "uniprot": "B3FNT3",
+    "locus": "OIJFJHOI_01077"
+  },
+  {
+    "uniprot": "A0AAE4K3B0",
+    "locus": "OIJFJHOI_01078"
+  },
+  {
+    "uniprot": "A0AA86XZ52",
+    "locus": "OIJFJHOI_01079"
+  },
+  {
+    "uniprot": "A0A655HA34",
+    "locus": "OIJFJHOI_01080"
+  },
+  {
+    "uniprot": "A0A0E8J3T0",
+    "locus": "OIJFJHOI_01081"
+  },
+  {
+    "uniprot": "A0A0B7KWR4",
+    "locus": "OIJFJHOI_01082"
+  },
+  {
+    "uniprot": "C1C6Y1",
+    "locus": "OIJFJHOI_01083"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_01084"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_01085"
+  },
+  {
+    "uniprot": "A0A5C5EC23",
+    "locus": "OIJFJHOI_01086"
+  },
+  {
+    "uniprot": "Q8DQ09",
+    "locus": "OIJFJHOI_01087"
+  },
+  {
+    "uniprot": "I6L8M8",
+    "locus": "OIJFJHOI_01088"
+  },
+  {
+    "uniprot": "C1CDZ5",
+    "locus": "OIJFJHOI_01090"
+  },
+  {
+    "uniprot": "Q8DQ11",
+    "locus": "OIJFJHOI_01091"
+  },
+  {
+    "uniprot": "A0A0B7MGQ5",
+    "locus": "OIJFJHOI_01092"
+  },
+  {
+    "uniprot": "C1CDY9",
+    "locus": "OIJFJHOI_01093"
+  },
+  {
+    "uniprot": "A0A0B7KU83",
+    "locus": "OIJFJHOI_01094"
+  },
+  {
+    "uniprot": "A0A0H2UPQ5",
+    "locus": "OIJFJHOI_01095"
+  },
+  {
+    "uniprot": "B2IPE3",
+    "locus": "OIJFJHOI_01096"
+  },
+  {
+    "uniprot": "Q8CYV2",
+    "locus": "OIJFJHOI_01097"
+  },
+  {
+    "uniprot": "B2IPE1",
+    "locus": "OIJFJHOI_01098"
+  },
+  {
+    "uniprot": "B1IBE8",
+    "locus": "OIJFJHOI_01099"
+  },
+  {
+    "uniprot": "C1CDY2",
+    "locus": "OIJFJHOI_01100"
+  },
+  {
+    "uniprot": "Q8DQ19",
+    "locus": "OIJFJHOI_01101"
+  },
+  {
+    "uniprot": "C1CDY0",
+    "locus": "OIJFJHOI_01102"
+  },
+  {
+    "uniprot": "A0A0E9GXV5",
+    "locus": "OIJFJHOI_01103"
+  },
+  {
+    "uniprot": "A0A0B7LAN8",
+    "locus": "OIJFJHOI_01104"
+  },
+  {
+    "uniprot": "A0AA86YAS0",
+    "locus": "OIJFJHOI_01105"
+  },
+  {
+    "uniprot": "Q8DQ24",
+    "locus": "OIJFJHOI_01106"
+  },
+  {
+    "uniprot": "Q8DQ25",
+    "locus": "OIJFJHOI_01107"
+  },
+  {
+    "uniprot": "A0A4J2G4S0",
+    "locus": "OIJFJHOI_01108"
+  },
+  {
+    "uniprot": "A0A916P8C4",
+    "locus": "OIJFJHOI_01109"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_01110"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_01111"
+  },
+  {
+    "uniprot": "A0A6I3TFJ8",
+    "locus": "OIJFJHOI_01112"
+  },
+  {
+    "uniprot": "Q8DQ28",
+    "locus": "OIJFJHOI_01113"
+  },
+  {
+    "uniprot": "Q8DQ29",
+    "locus": "OIJFJHOI_01114"
+  },
+  {
+    "uniprot": "A0A6G2DBL6",
+    "locus": "OIJFJHOI_01115"
+  },
+  {
+    "uniprot": "Q8DQ31",
+    "locus": "OIJFJHOI_01116"
+  },
+  {
+    "uniprot": "C1C6U9",
+    "locus": "OIJFJHOI_01117"
+  },
+  {
+    "uniprot": "B2IPC5",
+    "locus": "OIJFJHOI_01118"
+  },
+  {
+    "uniprot": "A0A0T8DL73",
+    "locus": "OIJFJHOI_01119"
+  },
+  {
+    "uniprot": "A0A0B7LRL2",
+    "locus": "OIJFJHOI_01120"
+  },
+  {
+    "uniprot": "Q8DQ34",
+    "locus": "OIJFJHOI_01121"
+  },
+  {
+    "uniprot": "Q8DQ35",
+    "locus": "OIJFJHOI_01122"
+  },
+  {
+    "uniprot": "B2IPC0",
+    "locus": "OIJFJHOI_01123"
+  },
+  {
+    "uniprot": "A0A6I3U6R6",
+    "locus": "OIJFJHOI_01124"
+  },
+  {
+    "uniprot": "C1C6U1",
+    "locus": "OIJFJHOI_01125"
+  },
+  {
+    "uniprot": "A0A4J1SAH0",
+    "locus": "OIJFJHOI_01126"
+  },
+  {
+    "uniprot": "C1CDV7",
+    "locus": "OIJFJHOI_01127"
+  },
+  {
+    "uniprot": "Q04KW7",
+    "locus": "OIJFJHOI_01128"
+  },
+  {
+    "uniprot": "Q04KW8",
+    "locus": "OIJFJHOI_01129"
+  },
+  {
+    "uniprot": "Q04KW9",
+    "locus": "OIJFJHOI_01130"
+  },
+  {
+    "uniprot": "A0A4J1MZV5",
+    "locus": "OIJFJHOI_01132"
+  },
+  {
+    "uniprot": "B1IBB6",
+    "locus": "OIJFJHOI_01133"
+  },
+  {
+    "uniprot": "A0A4J2CFG9",
+    "locus": "OIJFJHOI_01134"
+  },
+  {
+    "uniprot": "A0A4J1SCX2",
+    "locus": "OIJFJHOI_01135"
+  },
+  {
+    "uniprot": "A0A0D6J8W6",
+    "locus": "OIJFJHOI_01136"
+  },
+  {
+    "uniprot": "A0A4J1T226",
+    "locus": "OIJFJHOI_01137"
+  },
+  {
+    "uniprot": "Q8DQ45",
+    "locus": "OIJFJHOI_01138"
+  },
+  {
+    "uniprot": "Q8CYV8",
+    "locus": "OIJFJHOI_01139"
+  },
+  {
+    "uniprot": "Q8CYV9",
+    "locus": "OIJFJHOI_01140"
+  },
+  {
+    "uniprot": "A0A0B7LAX4",
+    "locus": "OIJFJHOI_01141"
+  },
+  {
+    "uniprot": "C1CK31",
+    "locus": "OIJFJHOI_01142"
+  },
+  {
+    "uniprot": "Q8DQ48",
+    "locus": "OIJFJHOI_01143"
+  },
+  {
+    "uniprot": "C1C6S4",
+    "locus": "OIJFJHOI_01144"
+  },
+  {
+    "uniprot": "Q8DQ50",
+    "locus": "OIJFJHOI_01145"
+  },
+  {
+    "uniprot": "Q8DQ51",
+    "locus": "OIJFJHOI_01146"
+  },
+  {
+    "uniprot": "A0A4J1MZA2",
+    "locus": "OIJFJHOI_01147"
+  },
+  {
+    "uniprot": "A0AA86XIG2",
+    "locus": "OIJFJHOI_01148"
+  },
+  {
+    "uniprot": "C1C6S1",
+    "locus": "OIJFJHOI_01149"
+  },
+  {
+    "uniprot": "C1CDT5",
+    "locus": "OIJFJHOI_01150"
+  },
+  {
+    "uniprot": "A0A4J1V8A1",
+    "locus": "OIJFJHOI_01151"
+  },
+  {
+    "uniprot": "Q97R89",
+    "locus": "OIJFJHOI_01152"
+  },
+  {
+    "uniprot": "B2IP91",
+    "locus": "OIJFJHOI_01153"
+  },
+  {
+    "uniprot": "A0A0B7LAC5",
+    "locus": "OIJFJHOI_01154"
+  },
+  {
+    "uniprot": "A0A4F7ABA0",
+    "locus": "OIJFJHOI_01155"
+  },
+  {
+    "uniprot": "A0A0B7M9Y4",
+    "locus": "OIJFJHOI_01156"
+  },
+  {
+    "uniprot": "A0A0T7YQ24",
+    "locus": "OIJFJHOI_01157"
+  },
+  {
+    "uniprot": "A0A4F0R3T6",
+    "locus": "OIJFJHOI_01158"
+  },
+  {
+    "uniprot": "Q8DQ63",
+    "locus": "OIJFJHOI_01159"
+  },
+  {
+    "uniprot": "Q8DQ64",
+    "locus": "OIJFJHOI_01160"
+  },
+  {
+    "uniprot": "Q8DQ65",
+    "locus": "OIJFJHOI_01161"
+  },
+  {
+    "uniprot": "C1C6Q7",
+    "locus": "OIJFJHOI_01162"
+  },
+  {
+    "uniprot": "Q8CYW4",
+    "locus": "OIJFJHOI_01163"
+  },
+  {
+    "uniprot": "Q8DQ66",
+    "locus": "OIJFJHOI_01164"
+  },
+  {
+    "uniprot": "Q8DQ67",
+    "locus": "OIJFJHOI_01165"
+  },
+  {
+    "uniprot": "B8ZP26",
+    "locus": "OIJFJHOI_01166"
+  },
+  {
+    "uniprot": "Q8DQ69",
+    "locus": "OIJFJHOI_01167"
+  },
+  {
+    "uniprot": "A0A0B7KU13",
+    "locus": "OIJFJHOI_01168"
+  },
+  {
+    "uniprot": "P66836",
+    "locus": "OIJFJHOI_01169"
+  },
+  {
+    "uniprot": "C1CDR5",
+    "locus": "OIJFJHOI_01170"
+  },
+  {
+    "uniprot": "A0A9P1LJ02",
+    "locus": "OIJFJHOI_01171"
+  },
+  {
+    "uniprot": "A0A0E8Z0P2",
+    "locus": "OIJFJHOI_01172"
+  },
+  {
+    "uniprot": "A0A4J1ZFS2",
+    "locus": "OIJFJHOI_01173"
+  },
+  {
+    "uniprot": "A0A0U0QAD7",
+    "locus": "OIJFJHOI_01174"
+  },
+  {
+    "uniprot": "A0A4J1YXH0",
+    "locus": "OIJFJHOI_01175"
+  },
+  {
+    "uniprot": "C1CDQ8",
+    "locus": "OIJFJHOI_01176"
+  },
+  {
+    "uniprot": "A0A0B7KXN1",
+    "locus": "OIJFJHOI_01177"
+  },
+  {
+    "uniprot": "Q8CYW5",
+    "locus": "OIJFJHOI_01178"
+  },
+  {
+    "uniprot": "A0A5C8QW28",
+    "locus": "OIJFJHOI_01180"
+  },
+  {
+    "uniprot": "A0AA86YAT6",
+    "locus": "OIJFJHOI_01181"
+  },
+  {
+    "uniprot": "A0A4L6S9F0",
+    "locus": "OIJFJHOI_01182"
+  },
+  {
+    "uniprot": "A0A098ZMD2",
+    "locus": "OIJFJHOI_01183"
+  },
+  {
+    "uniprot": "A0A0T8ZLR4",
+    "locus": "OIJFJHOI_01184"
+  },
+  {
+    "uniprot": "Q8DQ82",
+    "locus": "OIJFJHOI_01185"
+  },
+  {
+    "uniprot": "A0A0D6J9F7",
+    "locus": "OIJFJHOI_01186"
+  },
+  {
+    "uniprot": "A0A916PFF5",
+    "locus": "OIJFJHOI_01187"
+  },
+  {
+    "uniprot": "A0A4M3JN46",
+    "locus": "OIJFJHOI_01188"
+  },
+  {
+    "uniprot": "Q8CYX1",
+    "locus": "OIJFJHOI_01189"
+  },
+  {
+    "uniprot": "C1CDP5",
+    "locus": "OIJFJHOI_01190"
+  },
+  {
+    "uniprot": "Q97RC6",
+    "locus": "OIJFJHOI_01191"
+  },
+  {
+    "uniprot": "A0AA86JAY8",
+    "locus": "OIJFJHOI_01192"
+  },
+  {
+    "uniprot": "B2IP51",
+    "locus": "OIJFJHOI_01193"
+  },
+  {
+    "uniprot": "A0A4J1ZQW0",
+    "locus": "OIJFJHOI_01194"
+  },
+  {
+    "uniprot": "B2IP47",
+    "locus": "OIJFJHOI_01196"
+  },
+  {
+    "uniprot": "B1IA01",
+    "locus": "OIJFJHOI_01197"
+  },
+  {
+    "uniprot": "B2IP45",
+    "locus": "OIJFJHOI_01198"
+  },
+  {
+    "uniprot": "B2IP44",
+    "locus": "OIJFJHOI_01199"
+  },
+  {
+    "uniprot": "A0A4J1RIK6",
+    "locus": "OIJFJHOI_01200"
+  },
+  {
+    "uniprot": "B2IP42",
+    "locus": "OIJFJHOI_01201"
+  },
+  {
+    "uniprot": "B2IP41",
+    "locus": "OIJFJHOI_01202"
+  },
+  {
+    "uniprot": "B2IP40",
+    "locus": "OIJFJHOI_01203"
+  },
+  {
+    "uniprot": "C1CES6",
+    "locus": "OIJFJHOI_01204"
+  },
+  {
+    "uniprot": "B2IP38",
+    "locus": "OIJFJHOI_01205"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_01206"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_01207"
+  },
+  {
+    "uniprot": "B2IP38",
+    "locus": "OIJFJHOI_01208"
+  },
+  {
+    "uniprot": "B2IP37",
+    "locus": "OIJFJHOI_01209"
+  },
+  {
+    "uniprot": "B2IP36",
+    "locus": "OIJFJHOI_01210"
+  },
+  {
+    "uniprot": "B2IP35",
+    "locus": "OIJFJHOI_01211"
+  },
+  {
+    "uniprot": "A0A4J2AGJ3",
+    "locus": "OIJFJHOI_01212"
+  },
+  {
+    "uniprot": "B2IP33",
+    "locus": "OIJFJHOI_01213"
+  },
+  {
+    "uniprot": "B2IP32",
+    "locus": "OIJFJHOI_01214"
+  },
+  {
+    "uniprot": "B2IP31",
+    "locus": "OIJFJHOI_01215"
+  },
+  {
+    "uniprot": "B2IP30",
+    "locus": "OIJFJHOI_01216"
+  },
+  {
+    "uniprot": "B2IP29",
+    "locus": "OIJFJHOI_01217"
+  },
+  {
+    "uniprot": "B2IP28",
+    "locus": "OIJFJHOI_01218"
+  },
+  {
+    "uniprot": "B2IP27",
+    "locus": "OIJFJHOI_01219"
+  },
+  {
+    "uniprot": "B2IP26",
+    "locus": "OIJFJHOI_01220"
+  },
+  {
+    "uniprot": "B2IP25",
+    "locus": "OIJFJHOI_01221"
+  },
+  {
+    "uniprot": "A0A4J1RIF4",
+    "locus": "OIJFJHOI_01222"
+  },
+  {
+    "uniprot": "A0AAD2Q8N3",
+    "locus": "OIJFJHOI_01223"
+  },
+  {
+    "uniprot": "A0A6G2D2E2",
+    "locus": "OIJFJHOI_01224"
+  },
+  {
+    "uniprot": "A0A6G2DB63",
+    "locus": "OIJFJHOI_01225"
+  },
+  {
+    "uniprot": "A0A4J1RSG6",
+    "locus": "OIJFJHOI_01227"
+  },
+  {
+    "uniprot": "A0A6G2D9S1",
+    "locus": "OIJFJHOI_01228"
+  },
+  {
+    "uniprot": "A0AA86JS58",
+    "locus": "OIJFJHOI_01229"
+  },
+  {
+    "uniprot": "Q8DQ91",
+    "locus": "OIJFJHOI_01230"
+  },
+  {
+    "uniprot": "B2IP15",
+    "locus": "OIJFJHOI_01231"
+  },
+  {
+    "uniprot": "Q8CYX4",
+    "locus": "OIJFJHOI_01232"
+  },
+  {
+    "uniprot": "Q8CYX6",
+    "locus": "OIJFJHOI_01233"
+  },
+  {
+    "uniprot": "B2IP12",
+    "locus": "OIJFJHOI_01234"
+  },
+  {
+    "uniprot": "Q97RE1",
+    "locus": "OIJFJHOI_01235"
+  },
+  {
+    "uniprot": "B2IP10",
+    "locus": "OIJFJHOI_01236"
+  },
+  {
+    "uniprot": "A0A0B7M7A1",
+    "locus": "OIJFJHOI_01237"
+  },
+  {
+    "uniprot": "A0A0H2ZQ12",
+    "locus": "OIJFJHOI_01238"
+  },
+  {
+    "uniprot": "B2IP07",
+    "locus": "OIJFJHOI_01239"
+  },
+  {
+    "uniprot": "C1C6K9",
+    "locus": "OIJFJHOI_01240"
+  },
+  {
+    "uniprot": "A0A0I8Z7R7",
+    "locus": "OIJFJHOI_01241"
+  },
+  {
+    "uniprot": "Q8DQ98",
+    "locus": "OIJFJHOI_01244"
+  },
+  {
+    "uniprot": "Q75Y43",
+    "locus": "OIJFJHOI_01245"
+  },
+  {
+    "uniprot": "Q8DQA0",
+    "locus": "OIJFJHOI_01246"
+  },
+  {
+    "uniprot": "C1CDL9",
+    "locus": "OIJFJHOI_01247"
+  },
+  {
+    "uniprot": "B2INY9",
+    "locus": "OIJFJHOI_01248"
+  },
+  {
+    "uniprot": "A0A0B7LI62",
+    "locus": "OIJFJHOI_01249"
+  },
+  {
+    "uniprot": "Q8DQA4",
+    "locus": "OIJFJHOI_01250"
+  },
+  {
+    "uniprot": "Q8CYX9",
+    "locus": "OIJFJHOI_01251"
+  },
+  {
+    "uniprot": "C1CDL4",
+    "locus": "OIJFJHOI_01252"
+  },
+  {
+    "uniprot": "Q8DQA6",
+    "locus": "OIJFJHOI_01253"
+  },
+  {
+    "uniprot": "C1CDK9",
+    "locus": "OIJFJHOI_01254"
+  },
+  {
+    "uniprot": "Q8CYY0",
+    "locus": "OIJFJHOI_01257"
+  },
+  {
+    "uniprot": "Q04L55",
+    "locus": "OIJFJHOI_01258"
+  },
+  {
+    "uniprot": "Q8DQB0",
+    "locus": "OIJFJHOI_01259"
+  },
+  {
+    "uniprot": "C1CDK5",
+    "locus": "OIJFJHOI_01260"
+  },
+  {
+    "uniprot": "A0A0B7M9A8",
+    "locus": "OIJFJHOI_01261"
+  },
+  {
+    "uniprot": "C1CDK3",
+    "locus": "OIJFJHOI_01262"
+  },
+  {
+    "uniprot": "Q3HYG4",
+    "locus": "OIJFJHOI_01263"
+  },
+  {
+    "uniprot": "B2INX2",
+    "locus": "OIJFJHOI_01264"
+  },
+  {
+    "uniprot": "Q3HZ71",
+    "locus": "OIJFJHOI_01265"
+  },
+  {
+    "uniprot": "Q04L63",
+    "locus": "OIJFJHOI_01266"
+  },
+  {
+    "uniprot": "A0A4J1ZWV5",
+    "locus": "OIJFJHOI_01267"
+  },
+  {
+    "uniprot": "A0A4J1VX80",
+    "locus": "OIJFJHOI_01268"
+  },
+  {
+    "uniprot": "A0A0B7M413",
+    "locus": "OIJFJHOI_01269"
+  },
+  {
+    "uniprot": "B2INW6",
+    "locus": "OIJFJHOI_01270"
+  },
+  {
+    "uniprot": "C1C6I2",
+    "locus": "OIJFJHOI_01271"
+  },
+  {
+    "uniprot": "B2INW4",
+    "locus": "OIJFJHOI_01272"
+  },
+  {
+    "uniprot": "A0A0H2UPF8",
+    "locus": "OIJFJHOI_01273"
+  },
+  {
+    "uniprot": "A0A0C4FRC1",
+    "locus": "OIJFJHOI_01274"
+  },
+  {
+    "uniprot": "Q8DQC3",
+    "locus": "OIJFJHOI_01275"
+  },
+  {
+    "uniprot": "A0A0D6J9K8",
+    "locus": "OIJFJHOI_01276"
+  },
+  {
+    "uniprot": "A0A0B7M3D2",
+    "locus": "OIJFJHOI_01277"
+  },
+  {
+    "uniprot": "A0A822QFV7",
+    "locus": "OIJFJHOI_01278"
+  },
+  {
+    "uniprot": "B2INV7",
+    "locus": "OIJFJHOI_01279"
+  },
+  {
+    "uniprot": "C1CS52",
+    "locus": "OIJFJHOI_01280"
+  },
+  {
+    "uniprot": "Q8CWS0",
+    "locus": "OIJFJHOI_01281"
+  },
+  {
+    "uniprot": "B2INV4",
+    "locus": "OIJFJHOI_01282"
+  },
+  {
+    "uniprot": "C1CS55",
+    "locus": "OIJFJHOI_01283"
+  },
+  {
+    "uniprot": "C1C6G9",
+    "locus": "OIJFJHOI_01284"
+  },
+  {
+    "uniprot": "A0A4J2BI95",
+    "locus": "OIJFJHOI_01285"
+  },
+  {
+    "uniprot": "Q8CWS2",
+    "locus": "OIJFJHOI_01286"
+  },
+  {
+    "uniprot": "A0A0H2UPL4",
+    "locus": "OIJFJHOI_01287"
+  },
+  {
+    "uniprot": "C1CS61",
+    "locus": "OIJFJHOI_01288"
+  },
+  {
+    "uniprot": "Q04L82",
+    "locus": "OIJFJHOI_01289"
+  },
+  {
+    "uniprot": "A0A4J1TQQ3",
+    "locus": "OIJFJHOI_01290"
+  },
+  {
+    "uniprot": "Q8DQD3",
+    "locus": "OIJFJHOI_01291"
+  },
+  {
+    "uniprot": "A0A0E8ZV25",
+    "locus": "OIJFJHOI_01292"
+  },
+  {
+    "uniprot": "Q8DQD5",
+    "locus": "OIJFJHOI_01293"
+  },
+  {
+    "uniprot": "Q8DQD6",
+    "locus": "OIJFJHOI_01294"
+  },
+  {
+    "uniprot": "C1CDG9",
+    "locus": "OIJFJHOI_01295"
+  },
+  {
+    "uniprot": "C1CEB6",
+    "locus": "OIJFJHOI_01296"
+  },
+  {
+    "uniprot": "A0A0E7SCN1",
+    "locus": "OIJFJHOI_01297"
+  },
+  {
+    "uniprot": "A0A4J1SFG3",
+    "locus": "OIJFJHOI_01298"
+  },
+  {
+    "uniprot": "A0A4J1SF00",
+    "locus": "OIJFJHOI_01299"
+  },
+  {
+    "uniprot": "Q8DQE5",
+    "locus": "OIJFJHOI_01300"
+  },
+  {
+    "uniprot": "Q3HZC3",
+    "locus": "OIJFJHOI_01301"
+  },
+  {
+    "uniprot": "Q8DQE6",
+    "locus": "OIJFJHOI_01302"
+  },
+  {
+    "uniprot": "Q8DQE7",
+    "locus": "OIJFJHOI_01303"
+  },
+  {
+    "uniprot": "C1C6E7",
+    "locus": "OIJFJHOI_01304"
+  },
+  {
+    "uniprot": "A0A6G2DA59",
+    "locus": "OIJFJHOI_01305"
+  },
+  {
+    "uniprot": "A0A0E9GUZ2",
+    "locus": "OIJFJHOI_01306"
+  },
+  {
+    "uniprot": "Q8CYY6",
+    "locus": "OIJFJHOI_01307"
+  },
+  {
+    "uniprot": "Q7B3G0",
+    "locus": "OIJFJHOI_01308"
+  },
+  {
+    "uniprot": "C1CDF5",
+    "locus": "OIJFJHOI_01309"
+  },
+  {
+    "uniprot": "C1C6E1",
+    "locus": "OIJFJHOI_01310"
+  },
+  {
+    "uniprot": "A0A0B7M8B0",
+    "locus": "OIJFJHOI_01311"
+  },
+  {
+    "uniprot": "A0AAD2KF13",
+    "locus": "OIJFJHOI_01312"
+  },
+  {
+    "uniprot": "Q8CYY8",
+    "locus": "OIJFJHOI_01313"
+  },
+  {
+    "uniprot": "A0A9P1Q1P6",
+    "locus": "OIJFJHOI_01314"
+  },
+  {
+    "uniprot": "B1IAX1",
+    "locus": "OIJFJHOI_01315"
+  },
+  {
+    "uniprot": "B2INR6",
+    "locus": "OIJFJHOI_01316"
+  },
+  {
+    "uniprot": "C1C6D4",
+    "locus": "OIJFJHOI_01317"
+  },
+  {
+    "uniprot": "B2INR4",
+    "locus": "OIJFJHOI_01318"
+  },
+  {
+    "uniprot": "A0AA44MT63",
+    "locus": "OIJFJHOI_01319"
+  },
+  {
+    "uniprot": "C1C6D1",
+    "locus": "OIJFJHOI_01320"
+  },
+  {
+    "uniprot": "A0A6G2DB60",
+    "locus": "OIJFJHOI_01321"
+  },
+  {
+    "uniprot": "C1C6C9",
+    "locus": "OIJFJHOI_01322"
+  },
+  {
+    "uniprot": "Q8DQF8",
+    "locus": "OIJFJHOI_01323"
+  },
+  {
+    "uniprot": "A0A0B7MDJ4",
+    "locus": "OIJFJHOI_01324"
+  },
+  {
+    "uniprot": "C1CDD7",
+    "locus": "OIJFJHOI_01325"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_01326"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_01327"
+  },
+  {
+    "uniprot": "A0A0H2UPB6",
+    "locus": "OIJFJHOI_01328"
+  },
+  {
+    "uniprot": "Q8DQG2",
+    "locus": "OIJFJHOI_01329"
+  },
+  {
+    "uniprot": "A0A0D6J8L2",
+    "locus": "OIJFJHOI_01330"
+  },
+  {
+    "uniprot": "Q8CYZ1",
+    "locus": "OIJFJHOI_01331"
+  },
+  {
+    "uniprot": "Q97RM4",
+    "locus": "OIJFJHOI_01332"
+  },
+  {
+    "uniprot": "Q8DQG3",
+    "locus": "OIJFJHOI_01333"
+  },
+  {
+    "uniprot": "A0A098ZCD3",
+    "locus": "OIJFJHOI_01334"
+  },
+  {
+    "uniprot": "C1CDC4",
+    "locus": "OIJFJHOI_01335"
+  },
+  {
+    "uniprot": "Q04LD0",
+    "locus": "OIJFJHOI_01336"
+  },
+  {
+    "uniprot": "Q8CYZ5",
+    "locus": "OIJFJHOI_01337"
+  },
+  {
+    "uniprot": "A0A0B7L1V4",
+    "locus": "OIJFJHOI_01338"
+  },
+  {
+    "uniprot": "A0A4J1NKV0",
+    "locus": "OIJFJHOI_01339"
+  },
+  {
+    "uniprot": "A0A4J2B7Z5",
+    "locus": "OIJFJHOI_01340"
+  },
+  {
+    "uniprot": "A0A0U0IGU3",
+    "locus": "OIJFJHOI_01341"
+  },
+  {
+    "uniprot": "C1CJL5",
+    "locus": "OIJFJHOI_01342"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_01343"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_01344"
+  },
+  {
+    "uniprot": "C1CJL5",
+    "locus": "OIJFJHOI_01345"
+  },
+  {
+    "uniprot": "Q8CYZ7",
+    "locus": "OIJFJHOI_01346"
+  },
+  {
+    "uniprot": "C1C6A8",
+    "locus": "OIJFJHOI_01347"
+  },
+  {
+    "uniprot": "Q8DQG8",
+    "locus": "OIJFJHOI_01348"
+  },
+  {
+    "uniprot": "Q9X9S0",
+    "locus": "OIJFJHOI_01349"
+  },
+  {
+    "uniprot": "Q8DQH0",
+    "locus": "OIJFJHOI_01350"
+  },
+  {
+    "uniprot": "C1C6A4",
+    "locus": "OIJFJHOI_01351"
+  },
+  {
+    "uniprot": "A0A0B7LDJ8",
+    "locus": "OIJFJHOI_01352"
+  },
+  {
+    "uniprot": "A0A0B7LD25",
+    "locus": "OIJFJHOI_01353"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_01354"
+  },
+  {
+    "uniprot": "B2INE0",
+    "locus": "OIJFJHOI_01355"
+  },
+  {
+    "uniprot": "C1C6A0",
+    "locus": "OIJFJHOI_01356"
+  },
+  {
+    "uniprot": "Q2MGI2",
+    "locus": "OIJFJHOI_01357"
+  },
+  {
+    "uniprot": "A0A0T9GIW2",
+    "locus": "OIJFJHOI_01358"
+  },
+  {
+    "uniprot": "C1C697",
+    "locus": "OIJFJHOI_01359"
+  },
+  {
+    "uniprot": "Q8DQH8",
+    "locus": "OIJFJHOI_01360"
+  },
+  {
+    "uniprot": "C1CDA0",
+    "locus": "OIJFJHOI_01361"
+  },
+  {
+    "uniprot": "C1CD99",
+    "locus": "OIJFJHOI_01362"
+  },
+  {
+    "uniprot": "J9PBT7",
+    "locus": "OIJFJHOI_01363"
+  },
+  {
+    "uniprot": "A0A0T9AB05",
+    "locus": "OIJFJHOI_01364"
+  },
+  {
+    "uniprot": "Q04LF4",
+    "locus": "OIJFJHOI_01365"
+  },
+  {
+    "uniprot": "A0AA87CGJ6",
+    "locus": "OIJFJHOI_01366"
+  },
+  {
+    "uniprot": "C1CD94",
+    "locus": "OIJFJHOI_01367"
+  },
+  {
+    "uniprot": "Q8DQI5",
+    "locus": "OIJFJHOI_01368"
+  },
+  {
+    "uniprot": "B2INC5",
+    "locus": "OIJFJHOI_01369"
+  },
+  {
+    "uniprot": "A0AA95D6B2",
+    "locus": "OIJFJHOI_01370"
+  },
+  {
+    "uniprot": "A0A0B7LMG0",
+    "locus": "OIJFJHOI_01371"
+  },
+  {
+    "uniprot": "A0A0H2UQ41",
+    "locus": "OIJFJHOI_01372"
+  },
+  {
+    "uniprot": "A0A4G1A1J0",
+    "locus": "OIJFJHOI_01373"
+  },
+  {
+    "uniprot": "B1IAR7",
+    "locus": "OIJFJHOI_01374"
+  },
+  {
+    "uniprot": "Q8DQJ1",
+    "locus": "OIJFJHOI_01375"
+  },
+  {
+    "uniprot": "A0A0B7KTL2",
+    "locus": "OIJFJHOI_01376"
+  },
+  {
+    "uniprot": "Q8CZ01",
+    "locus": "OIJFJHOI_01377"
+  },
+  {
+    "uniprot": "B2INB2",
+    "locus": "OIJFJHOI_01378"
+  },
+  {
+    "uniprot": "A0A6G2DB27",
+    "locus": "OIJFJHOI_01379"
+  },
+  {
+    "uniprot": "A0A0D6J8R8",
+    "locus": "OIJFJHOI_01380"
+  },
+  {
+    "uniprot": "A0A0D6J8P4",
+    "locus": "OIJFJHOI_01381"
+  },
+  {
+    "uniprot": "C1C675",
+    "locus": "OIJFJHOI_01383"
+  },
+  {
+    "uniprot": "A0A0B7M6G1",
+    "locus": "OIJFJHOI_01384"
+  },
+  {
+    "uniprot": "C1CJH5",
+    "locus": "OIJFJHOI_01385"
+  },
+  {
+    "uniprot": "A0AA44MYZ9",
+    "locus": "OIJFJHOI_01386"
+  },
+  {
+    "uniprot": "B1IAP4",
+    "locus": "OIJFJHOI_01387"
+  },
+  {
+    "uniprot": "A0A0D6JA00",
+    "locus": "OIJFJHOI_01388"
+  },
+  {
+    "uniprot": "A0A0H2UPB5",
+    "locus": "OIJFJHOI_01389"
+  },
+  {
+    "uniprot": "A0A0H2UP70",
+    "locus": "OIJFJHOI_01390"
+  },
+  {
+    "uniprot": "Q97RS5",
+    "locus": "OIJFJHOI_01392"
+  },
+  {
+    "uniprot": "Q8DQK5",
+    "locus": "OIJFJHOI_01393"
+  },
+  {
+    "uniprot": "A0A4J1VHG8",
+    "locus": "OIJFJHOI_01394"
+  },
+  {
+    "uniprot": "Q8DQK7",
+    "locus": "OIJFJHOI_01396"
+  },
+  {
+    "uniprot": "A0A0B7M5U1",
+    "locus": "OIJFJHOI_01397"
+  },
+  {
+    "uniprot": "C1CD65",
+    "locus": "OIJFJHOI_01398"
+  },
+  {
+    "uniprot": "A0A0H2UPB0",
+    "locus": "OIJFJHOI_01399"
+  },
+  {
+    "uniprot": "A0A655HHC5",
+    "locus": "OIJFJHOI_01400"
+  },
+  {
+    "uniprot": "A0A0I9CA19",
+    "locus": "OIJFJHOI_01401"
+  },
+  {
+    "uniprot": "A0A4P0A7D7",
+    "locus": "OIJFJHOI_01402"
+  },
+  {
+    "uniprot": "A0A4J1T590",
+    "locus": "OIJFJHOI_01403"
+  },
+  {
+    "uniprot": "A0A4J1UN03",
+    "locus": "OIJFJHOI_01404"
+  },
+  {
+    "uniprot": "C1C656",
+    "locus": "OIJFJHOI_01405"
+  },
+  {
+    "uniprot": "A0A0B7M6H9",
+    "locus": "OIJFJHOI_01406"
+  },
+  {
+    "uniprot": "B1IAM9",
+    "locus": "OIJFJHOI_01407"
+  },
+  {
+    "uniprot": "A0A0B7LBR9",
+    "locus": "OIJFJHOI_01408"
+  },
+  {
+    "uniprot": "P0CB78",
+    "locus": "OIJFJHOI_01409"
+  },
+  {
+    "uniprot": "C1CQG7",
+    "locus": "OIJFJHOI_01410"
+  },
+  {
+    "uniprot": "A0A0I9BDK0",
+    "locus": "OIJFJHOI_01412"
+  },
+  {
+    "uniprot": "Q8DQL8",
+    "locus": "OIJFJHOI_01413"
+  },
+  {
+    "uniprot": "Q8DQL9",
+    "locus": "OIJFJHOI_01414"
+  },
+  {
+    "uniprot": "A0A0T8ZN24",
+    "locus": "OIJFJHOI_01415"
+  },
+  {
+    "uniprot": "A0AAD2KEC6",
+    "locus": "OIJFJHOI_01416"
+  },
+  {
+    "uniprot": "A0A0U0EC10",
+    "locus": "OIJFJHOI_01417"
+  },
+  {
+    "uniprot": "A0A4N9B885",
+    "locus": "OIJFJHOI_01418"
+  },
+  {
+    "uniprot": "A0A4J1YWC2",
+    "locus": "OIJFJHOI_01419"
+  },
+  {
+    "uniprot": "B2IN80",
+    "locus": "OIJFJHOI_01420"
+  },
+  {
+    "uniprot": "A0A4M3JXD1",
+    "locus": "OIJFJHOI_01421"
+  },
+  {
+    "uniprot": "A0AAD2KED5",
+    "locus": "OIJFJHOI_01422"
+  },
+  {
+    "uniprot": "C1CJF3",
+    "locus": "OIJFJHOI_01423"
+  },
+  {
+    "uniprot": "A0AAD2IGV2",
+    "locus": "OIJFJHOI_01424"
+  },
+  {
+    "uniprot": "A0A6G2D8X7",
+    "locus": "OIJFJHOI_01425"
+  },
+  {
+    "uniprot": "A0A0D6J8S4",
+    "locus": "OIJFJHOI_01426"
+  },
+  {
+    "uniprot": "A0AA86MCE8",
+    "locus": "OIJFJHOI_01427"
+  },
+  {
+    "uniprot": "Q8CZ11",
+    "locus": "OIJFJHOI_01428"
+  },
+  {
+    "uniprot": "A0AA86Y837",
+    "locus": "OIJFJHOI_01429"
+  },
+  {
+    "uniprot": "B2IN70",
+    "locus": "OIJFJHOI_01430"
+  },
+  {
+    "uniprot": "C1C641",
+    "locus": "OIJFJHOI_01431"
+  },
+  {
+    "uniprot": "Q8DQM7",
+    "locus": "OIJFJHOI_01432"
+  },
+  {
+    "uniprot": "Q8DQM8",
+    "locus": "OIJFJHOI_01433"
+  },
+  {
+    "uniprot": "Q8DQM9",
+    "locus": "OIJFJHOI_01434"
+  },
+  {
+    "uniprot": "C1C637",
+    "locus": "OIJFJHOI_01435"
+  },
+  {
+    "uniprot": "C1CQF2",
+    "locus": "OIJFJHOI_01436"
+  },
+  {
+    "uniprot": "B2IMY7",
+    "locus": "OIJFJHOI_01437"
+  },
+  {
+    "uniprot": "Q8DQN2",
+    "locus": "OIJFJHOI_01438"
+  },
+  {
+    "uniprot": "C1CJD7",
+    "locus": "OIJFJHOI_01439"
+  },
+  {
+    "uniprot": "Q8CZ15",
+    "locus": "OIJFJHOI_01440"
+  },
+  {
+    "uniprot": "Q04LL8",
+    "locus": "OIJFJHOI_01441"
+  },
+  {
+    "uniprot": "A0A822S328",
+    "locus": "OIJFJHOI_01442"
+  },
+  {
+    "uniprot": "A0A4U8XBF5",
+    "locus": "OIJFJHOI_01443"
+  },
+  {
+    "uniprot": "B1IAK4",
+    "locus": "OIJFJHOI_01444"
+  },
+  {
+    "uniprot": "C1C627",
+    "locus": "OIJFJHOI_01445"
+  },
+  {
+    "uniprot": "A0A4J2FM84",
+    "locus": "OIJFJHOI_01446"
+  },
+  {
+    "uniprot": "B2IMX5",
+    "locus": "OIJFJHOI_01447"
+  },
+  {
+    "uniprot": "Q8DQN7",
+    "locus": "OIJFJHOI_01448"
+  },
+  {
+    "uniprot": "Q8DQN8",
+    "locus": "OIJFJHOI_01449"
+  },
+  {
+    "uniprot": "C1C622",
+    "locus": "OIJFJHOI_01450"
+  },
+  {
+    "uniprot": "A0AA87CBX6",
+    "locus": "OIJFJHOI_01451"
+  },
+  {
+    "uniprot": "C1CD25",
+    "locus": "OIJFJHOI_01452"
+  },
+  {
+    "uniprot": "A0A4G7I3M2",
+    "locus": "OIJFJHOI_01453"
+  },
+  {
+    "uniprot": "A0A0B7M720",
+    "locus": "OIJFJHOI_01454"
+  },
+  {
+    "uniprot": "Q8CZ17",
+    "locus": "OIJFJHOI_01455"
+  },
+  {
+    "uniprot": "B1IAJ3",
+    "locus": "OIJFJHOI_01456"
+  },
+  {
+    "uniprot": "A0A0B7LD37",
+    "locus": "OIJFJHOI_01457"
+  },
+  {
+    "uniprot": "A0A0T8TMS9",
+    "locus": "OIJFJHOI_01458"
+  },
+  {
+    "uniprot": "Q8CZ20",
+    "locus": "OIJFJHOI_01459"
+  },
+  {
+    "uniprot": "A0A0T9H7Q0",
+    "locus": "OIJFJHOI_01461"
+  },
+  {
+    "uniprot": "A0A0T9ZRE9",
+    "locus": "OIJFJHOI_01462"
+  },
+  {
+    "uniprot": "A0A4J2BRD7",
+    "locus": "OIJFJHOI_01463"
+  },
+  {
+    "uniprot": "A0A654U8L3",
+    "locus": "OIJFJHOI_01464"
+  },
+  {
+    "uniprot": "A0A654U8U9",
+    "locus": "OIJFJHOI_01465"
+  },
+  {
+    "uniprot": "Q8CZ23",
+    "locus": "OIJFJHOI_01466"
+  },
+  {
+    "uniprot": "A0A6G2DW14",
+    "locus": "OIJFJHOI_01467"
+  },
+  {
+    "uniprot": "A0A4J1PU72",
+    "locus": "OIJFJHOI_01468"
+  },
+  {
+    "uniprot": "A0A6G2D8S5",
+    "locus": "OIJFJHOI_01469"
+  },
+  {
+    "uniprot": "A0A0H2UP15",
+    "locus": "OIJFJHOI_01470"
+  },
+  {
+    "uniprot": "Q8DQP8",
+    "locus": "OIJFJHOI_01471"
+  },
+  {
+    "uniprot": "C1CD09",
+    "locus": "OIJFJHOI_01472"
+  },
+  {
+    "uniprot": "C1C603",
+    "locus": "OIJFJHOI_01473"
+  },
+  {
+    "uniprot": "A0A0U0GZ72",
+    "locus": "OIJFJHOI_01474"
+  },
+  {
+    "uniprot": "Q04LP6",
+    "locus": "OIJFJHOI_01476"
+  },
+  {
+    "uniprot": "Q97RZ6",
+    "locus": "OIJFJHOI_01477"
+  },
+  {
+    "uniprot": "A0A4J1SXE5",
+    "locus": "OIJFJHOI_01478"
+  },
+  {
+    "uniprot": "A0A4J1SZ69",
+    "locus": "OIJFJHOI_01479"
+  },
+  {
+    "uniprot": "A0A4J1SVL2",
+    "locus": "OIJFJHOI_01480"
+  },
+  {
+    "uniprot": "C1C5Z4",
+    "locus": "OIJFJHOI_01481"
+  },
+  {
+    "uniprot": "Q8CZ26",
+    "locus": "OIJFJHOI_01483"
+  },
+  {
+    "uniprot": "C1CCZ5",
+    "locus": "OIJFJHOI_01484"
+  },
+  {
+    "uniprot": "C1C5Z0",
+    "locus": "OIJFJHOI_01485"
+  },
+  {
+    "uniprot": "A0A4J1RD89",
+    "locus": "OIJFJHOI_01486"
+  },
+  {
+    "uniprot": "Q8CWT0",
+    "locus": "OIJFJHOI_01487"
+  },
+  {
+    "uniprot": "A0A1C0URA0",
+    "locus": "OIJFJHOI_01488"
+  },
+  {
+    "uniprot": "A0AA86XWC2",
+    "locus": "OIJFJHOI_01489"
+  },
+  {
+    "uniprot": "C1C5Y5",
+    "locus": "OIJFJHOI_01490"
+  },
+  {
+    "uniprot": "A0A0B7LK97",
+    "locus": "OIJFJHOI_01491"
+  },
+  {
+    "uniprot": "Q4TUJ7",
+    "locus": "OIJFJHOI_01492"
+  },
+  {
+    "uniprot": "A0AAE9QMS2",
+    "locus": "OIJFJHOI_01493"
+  },
+  {
+    "uniprot": "C1CCY6",
+    "locus": "OIJFJHOI_01494"
+  },
+  {
+    "uniprot": "A0A6G2DB93",
+    "locus": "OIJFJHOI_01495"
+  },
+  {
+    "uniprot": "Q8DQR5",
+    "locus": "OIJFJHOI_01496"
+  },
+  {
+    "uniprot": "Q8DQR6",
+    "locus": "OIJFJHOI_01497"
+  },
+  {
+    "uniprot": "A0A4J1VL45",
+    "locus": "OIJFJHOI_01498"
+  },
+  {
+    "uniprot": "A0A0E9GZ09",
+    "locus": "OIJFJHOI_01499"
+  },
+  {
+    "uniprot": "A0A6G2D0L9",
+    "locus": "OIJFJHOI_01500"
+  },
+  {
+    "uniprot": "A0A6A8VMF0",
+    "locus": "OIJFJHOI_01501"
+  },
+  {
+    "uniprot": "C1CCX9",
+    "locus": "OIJFJHOI_01502"
+  },
+  {
+    "uniprot": "A0A0U0HBS6",
+    "locus": "OIJFJHOI_01503"
+  },
+  {
+    "uniprot": "A0A098Z2Q4",
+    "locus": "OIJFJHOI_01504"
+  },
+  {
+    "uniprot": "Q9S4J0",
+    "locus": "OIJFJHOI_01505"
+  },
+  {
+    "uniprot": "B2IMR7",
+    "locus": "OIJFJHOI_01506"
+  },
+  {
+    "uniprot": "C1C5W8",
+    "locus": "OIJFJHOI_01507"
+  },
+  {
+    "uniprot": "A0A4J1Y0I9",
+    "locus": "OIJFJHOI_01509"
+  },
+  {
+    "uniprot": "A0A0T7YKG5",
+    "locus": "OIJFJHOI_01510"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_01511"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_01512"
+  },
+  {
+    "uniprot": "A0A4I6NHN5",
+    "locus": "OIJFJHOI_01513"
+  },
+  {
+    "uniprot": "A0A0T8BJH7",
+    "locus": "OIJFJHOI_01514"
+  },
+  {
+    "uniprot": "A0A0T7KA99",
+    "locus": "OIJFJHOI_01515"
+  },
+  {
+    "uniprot": "A0A4J1VKU7",
+    "locus": "OIJFJHOI_01516"
+  },
+  {
+    "uniprot": "A0A064BYN6",
+    "locus": "OIJFJHOI_01517"
+  },
+  {
+    "uniprot": "A0AAD2KFB6",
+    "locus": "OIJFJHOI_01518"
+  },
+  {
+    "uniprot": "C1CCW3",
+    "locus": "OIJFJHOI_01519"
+  },
+  {
+    "uniprot": "A0A0E9GXN4",
+    "locus": "OIJFJHOI_01520"
+  },
+  {
+    "uniprot": "A0A654WS02",
+    "locus": "OIJFJHOI_01521"
+  },
+  {
+    "uniprot": "A0A0U0MDF0",
+    "locus": "OIJFJHOI_01522"
+  },
+  {
+    "uniprot": "Q8CZ31",
+    "locus": "OIJFJHOI_01523"
+  },
+  {
+    "uniprot": "A0AA86JUU5",
+    "locus": "OIJFJHOI_01524"
+  },
+  {
+    "uniprot": "Q8DQT7",
+    "locus": "OIJFJHOI_01525"
+  },
+  {
+    "uniprot": "Q97S36",
+    "locus": "OIJFJHOI_01526"
+  },
+  {
+    "uniprot": "A0A098Z269",
+    "locus": "OIJFJHOI_01527"
+  },
+  {
+    "uniprot": "A0A0T9AAT3",
+    "locus": "OIJFJHOI_01528"
+  },
+  {
+    "uniprot": "B2IMP8",
+    "locus": "OIJFJHOI_01529"
+  },
+  {
+    "uniprot": "A0A0T9ASF0",
+    "locus": "OIJFJHOI_01531"
+  },
+  {
+    "uniprot": "A0AA95IJ45",
+    "locus": "OIJFJHOI_01532"
+  },
+  {
+    "uniprot": "A0A380LW28",
+    "locus": "OIJFJHOI_01533"
+  },
+  {
+    "uniprot": "A0A4J1XSU8",
+    "locus": "OIJFJHOI_01534"
+  },
+  {
+    "uniprot": "C1C5U5",
+    "locus": "OIJFJHOI_01535"
+  },
+  {
+    "uniprot": "Q8DQU6",
+    "locus": "OIJFJHOI_01536"
+  },
+  {
+    "uniprot": "A0AA86JRA8",
+    "locus": "OIJFJHOI_01537"
+  },
+  {
+    "uniprot": "A0AAE9TZ87",
+    "locus": "OIJFJHOI_01538"
+  },
+  {
+    "uniprot": "A0A0T7YPP1",
+    "locus": "OIJFJHOI_01539"
+  },
+  {
+    "uniprot": "C1C5U0",
+    "locus": "OIJFJHOI_01540"
+  },
+  {
+    "uniprot": "C1CCU6",
+    "locus": "OIJFJHOI_01541"
+  },
+  {
+    "uniprot": "C1CCU5",
+    "locus": "OIJFJHOI_01542"
+  },
+  {
+    "uniprot": "A0A916L4N2",
+    "locus": "OIJFJHOI_01543"
+  },
+  {
+    "uniprot": "Q8CZ42",
+    "locus": "OIJFJHOI_01544"
+  },
+  {
+    "uniprot": "C1C5T3",
+    "locus": "OIJFJHOI_01545"
+  },
+  {
+    "uniprot": "C1C5T2",
+    "locus": "OIJFJHOI_01546"
+  },
+  {
+    "uniprot": "A0A4J2D7F3",
+    "locus": "OIJFJHOI_01547"
+  },
+  {
+    "uniprot": "A0A4K8PUZ2",
+    "locus": "OIJFJHOI_01548"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_01550"
+  },
+  {
+    "uniprot": "A0A4J2DEF4",
+    "locus": "OIJFJHOI_01551"
+  },
+  {
+    "uniprot": "C1CD04",
+    "locus": "OIJFJHOI_01552"
+  },
+  {
+    "uniprot": "C1CQ49",
+    "locus": "OIJFJHOI_01553"
+  },
+  {
+    "uniprot": "A0A098ZI69",
+    "locus": "OIJFJHOI_01554"
+  },
+  {
+    "uniprot": "C1CCT7",
+    "locus": "OIJFJHOI_01555"
+  },
+  {
+    "uniprot": "Q8DQV4",
+    "locus": "OIJFJHOI_01556"
+  },
+  {
+    "uniprot": "C1CCT5",
+    "locus": "OIJFJHOI_01557"
+  },
+  {
+    "uniprot": "Q97S61",
+    "locus": "OIJFJHOI_01558"
+  },
+  {
+    "uniprot": "A0A064C0Y7",
+    "locus": "OIJFJHOI_01559"
+  },
+  {
+    "uniprot": "C1CCT2",
+    "locus": "OIJFJHOI_01560"
+  },
+  {
+    "uniprot": "A0A0B7M7P4",
+    "locus": "OIJFJHOI_01561"
+  },
+  {
+    "uniprot": "A0AA95IJE2",
+    "locus": "OIJFJHOI_01562"
+  },
+  {
+    "uniprot": "A0A0E8STU2",
+    "locus": "OIJFJHOI_01563"
+  },
+  {
+    "uniprot": "A0AAE9QSC4",
+    "locus": "OIJFJHOI_01564"
+  },
+  {
+    "uniprot": "Q9FBH1",
+    "locus": "OIJFJHOI_01565"
+  },
+  {
+    "uniprot": "Q9ETA3",
+    "locus": "OIJFJHOI_01566"
+  },
+  {
+    "uniprot": "Q9ETC8",
+    "locus": "OIJFJHOI_01567"
+  },
+  {
+    "uniprot": "A0A4J1XB54",
+    "locus": "OIJFJHOI_01568"
+  },
+  {
+    "uniprot": "A0A4K4JDW1",
+    "locus": "OIJFJHOI_01569"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_01570"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_01571"
+  },
+  {
+    "uniprot": "G3ECD5",
+    "locus": "OIJFJHOI_01572"
+  },
+  {
+    "uniprot": "Q9EW64",
+    "locus": "OIJFJHOI_01573"
+  },
+  {
+    "uniprot": "A7XH96",
+    "locus": "OIJFJHOI_01574"
+  },
+  {
+    "uniprot": "Q9ETM2",
+    "locus": "OIJFJHOI_01575"
+  },
+  {
+    "uniprot": "Q9EU53",
+    "locus": "OIJFJHOI_01576"
+  },
+  {
+    "uniprot": "Q9ETN5",
+    "locus": "OIJFJHOI_01577"
+  },
+  {
+    "uniprot": "A0A4L0NQI8",
+    "locus": "OIJFJHOI_01578"
+  },
+  {
+    "uniprot": "A0A559A8P3",
+    "locus": "OIJFJHOI_01579"
+  },
+  {
+    "uniprot": "A0A0B7M3C3",
+    "locus": "OIJFJHOI_01580"
+  },
+  {
+    "uniprot": "A0A0T7TB68",
+    "locus": "OIJFJHOI_01581"
+  },
+  {
+    "uniprot": "A0A0B7LMB8",
+    "locus": "OIJFJHOI_01582"
+  },
+  {
+    "uniprot": "A0A0F7Y7H4",
+    "locus": "OIJFJHOI_01583"
+  },
+  {
+    "uniprot": "Q9FBH2",
+    "locus": "OIJFJHOI_01584"
+  },
+  {
+    "uniprot": "A0A0T8QK83",
+    "locus": "OIJFJHOI_01585"
+  },
+  {
+    "uniprot": "C1CCR3",
+    "locus": "OIJFJHOI_01586"
+  },
+  {
+    "uniprot": "A0A0B7MB57",
+    "locus": "OIJFJHOI_01587"
+  },
+  {
+    "uniprot": "C1CCR1",
+    "locus": "OIJFJHOI_01588"
+  },
+  {
+    "uniprot": "C1CCQ9",
+    "locus": "OIJFJHOI_01589"
+  },
+  {
+    "uniprot": "A0A4G4JF19",
+    "locus": "OIJFJHOI_01590"
+  },
+  {
+    "uniprot": "Q04LY0",
+    "locus": "OIJFJHOI_01591"
+  },
+  {
+    "uniprot": "B2IMB4",
+    "locus": "OIJFJHOI_01592"
+  },
+  {
+    "uniprot": "A0A4J1VMI9",
+    "locus": "OIJFJHOI_01593"
+  },
+  {
+    "uniprot": "A0A0B7LCY1",
+    "locus": "OIJFJHOI_01594"
+  },
+  {
+    "uniprot": "A0A6G2CXR4",
+    "locus": "OIJFJHOI_01595"
+  },
+  {
+    "uniprot": "A0A4J2AYB1",
+    "locus": "OIJFJHOI_01596"
+  },
+  {
+    "uniprot": "C1C5M8",
+    "locus": "OIJFJHOI_01597"
+  },
+  {
+    "uniprot": "B1IA39",
+    "locus": "OIJFJHOI_01598"
+  },
+  {
+    "uniprot": "Q8DQX7",
+    "locus": "OIJFJHOI_01599"
+  },
+  {
+    "uniprot": "Q8CZ51",
+    "locus": "OIJFJHOI_01600"
+  },
+  {
+    "uniprot": "C1CQ04",
+    "locus": "OIJFJHOI_01601"
+  },
+  {
+    "uniprot": "A0A6G2DB49",
+    "locus": "OIJFJHOI_01602"
+  },
+  {
+    "uniprot": "A0A654U937",
+    "locus": "OIJFJHOI_01603"
+  },
+  {
+    "uniprot": "Q8DQY0",
+    "locus": "OIJFJHOI_01604"
+  },
+  {
+    "uniprot": "Q04LZ9",
+    "locus": "OIJFJHOI_01605"
+  },
+  {
+    "uniprot": "A0A4J2GIX2",
+    "locus": "OIJFJHOI_01606"
+  },
+  {
+    "uniprot": "A0A0T7ZQ00",
+    "locus": "OIJFJHOI_01607"
+  },
+  {
+    "uniprot": "A0A4J1S7Q8",
+    "locus": "OIJFJHOI_01608"
+  },
+  {
+    "uniprot": "A0A6G2DGN9",
+    "locus": "OIJFJHOI_01609"
+  },
+  {
+    "uniprot": "A0A4K3C339",
+    "locus": "OIJFJHOI_01610"
+  },
+  {
+    "uniprot": "A0A4J1U0C7",
+    "locus": "OIJFJHOI_01611"
+  },
+  {
+    "uniprot": "A0A4J1TQ81",
+    "locus": "OIJFJHOI_01612"
+  },
+  {
+    "uniprot": "A0A4I9PEN3",
+    "locus": "OIJFJHOI_01613"
+  },
+  {
+    "uniprot": "A0A4J1U4I5",
+    "locus": "OIJFJHOI_01614"
+  },
+  {
+    "uniprot": "A0A4J2AG71",
+    "locus": "OIJFJHOI_01615"
+  },
+  {
+    "uniprot": "A0A4V0JNV0",
+    "locus": "OIJFJHOI_01616"
+  },
+  {
+    "uniprot": "A0A4J1RLP6",
+    "locus": "OIJFJHOI_01617"
+  },
+  {
+    "uniprot": "A0A0Y3JK47",
+    "locus": "OIJFJHOI_01618"
+  },
+  {
+    "uniprot": "A0A0H2UNS5",
+    "locus": "OIJFJHOI_01620"
+  },
+  {
+    "uniprot": "A0A4J1WLM1",
+    "locus": "OIJFJHOI_01622"
+  },
+  {
+    "uniprot": "A0A4J1WJZ6",
+    "locus": "OIJFJHOI_01623"
+  },
+  {
+    "uniprot": "C1C5L0",
+    "locus": "OIJFJHOI_01624"
+  },
+  {
+    "uniprot": "Q97SA4",
+    "locus": "OIJFJHOI_01625"
+  },
+  {
+    "uniprot": "C1CCM9",
+    "locus": "OIJFJHOI_01626"
+  },
+  {
+    "uniprot": "C1CCM8",
+    "locus": "OIJFJHOI_01627"
+  },
+  {
+    "uniprot": "A0A0H2UNU3",
+    "locus": "OIJFJHOI_01628"
+  },
+  {
+    "uniprot": "A0AA86XD53",
+    "locus": "OIJFJHOI_01629"
+  },
+  {
+    "uniprot": "A0A0U0FQB7",
+    "locus": "OIJFJHOI_01630"
+  },
+  {
+    "uniprot": "B1I9R6",
+    "locus": "OIJFJHOI_01631"
+  },
+  {
+    "uniprot": "A0A4J1UWR4",
+    "locus": "OIJFJHOI_01632"
+  },
+  {
+    "uniprot": "A0A0B7MEK5",
+    "locus": "OIJFJHOI_01633"
+  },
+  {
+    "uniprot": "B1I9R3",
+    "locus": "OIJFJHOI_01634"
+  },
+  {
+    "uniprot": "Q8CZ56",
+    "locus": "OIJFJHOI_01635"
+  },
+  {
+    "uniprot": "Q8DQZ5",
+    "locus": "OIJFJHOI_01636"
+  },
+  {
+    "uniprot": "Q8CZ58",
+    "locus": "OIJFJHOI_01637"
+  },
+  {
+    "uniprot": "Q8DQZ6",
+    "locus": "OIJFJHOI_01638"
+  },
+  {
+    "uniprot": "Q97SC7",
+    "locus": "OIJFJHOI_01639"
+  },
+  {
+    "uniprot": "Q04M23",
+    "locus": "OIJFJHOI_01640"
+  },
+  {
+    "uniprot": "A0A4J2FVR8",
+    "locus": "OIJFJHOI_01641"
+  },
+  {
+    "uniprot": "A0A559A0H6",
+    "locus": "OIJFJHOI_01642"
+  },
+  {
+    "uniprot": "A0A0U0PGM1",
+    "locus": "OIJFJHOI_01643"
+  },
+  {
+    "uniprot": "A0A0B7L9H9",
+    "locus": "OIJFJHOI_01644"
+  },
+  {
+    "uniprot": "B2IM71",
+    "locus": "OIJFJHOI_01645"
+  },
+  {
+    "uniprot": "C1CCL2",
+    "locus": "OIJFJHOI_01646"
+  },
+  {
+    "uniprot": "Q8CZ61",
+    "locus": "OIJFJHOI_01647"
+  },
+  {
+    "uniprot": "C1C5I1",
+    "locus": "OIJFJHOI_01648"
+  },
+  {
+    "uniprot": "A0A0I7KQH0",
+    "locus": "OIJFJHOI_01649"
+  },
+  {
+    "uniprot": "Q8DR04",
+    "locus": "OIJFJHOI_01650"
+  },
+  {
+    "uniprot": "C1CCK7",
+    "locus": "OIJFJHOI_01651"
+  },
+  {
+    "uniprot": "C1CCK6",
+    "locus": "OIJFJHOI_01652"
+  },
+  {
+    "uniprot": "C1CCK5",
+    "locus": "OIJFJHOI_01653"
+  },
+  {
+    "uniprot": "A0A064BZB4",
+    "locus": "OIJFJHOI_01654"
+  },
+  {
+    "uniprot": "A0A4J1QAZ5",
+    "locus": "OIJFJHOI_01655"
+  },
+  {
+    "uniprot": "A0A4J2DA43",
+    "locus": "OIJFJHOI_01656"
+  },
+  {
+    "uniprot": "Q04M40",
+    "locus": "OIJFJHOI_01657"
+  },
+  {
+    "uniprot": "C1C5H2",
+    "locus": "OIJFJHOI_01658"
+  },
+  {
+    "uniprot": "Q04M42",
+    "locus": "OIJFJHOI_01659"
+  },
+  {
+    "uniprot": "Q04M43",
+    "locus": "OIJFJHOI_01660"
+  },
+  {
+    "uniprot": "C1C5G9",
+    "locus": "OIJFJHOI_01661"
+  },
+  {
+    "uniprot": "C1C5G8",
+    "locus": "OIJFJHOI_01662"
+  },
+  {
+    "uniprot": "C1C5G7",
+    "locus": "OIJFJHOI_01663"
+  },
+  {
+    "uniprot": "A0A0I8RVJ1",
+    "locus": "OIJFJHOI_01664"
+  },
+  {
+    "uniprot": "A0A064BZA7",
+    "locus": "OIJFJHOI_01665"
+  },
+  {
+    "uniprot": "Q7CRB7",
+    "locus": "OIJFJHOI_01666"
+  },
+  {
+    "uniprot": "Q9FBB9",
+    "locus": "OIJFJHOI_01667"
+  },
+  {
+    "uniprot": "C1C5G1",
+    "locus": "OIJFJHOI_01668"
+  },
+  {
+    "uniprot": "C1C5G0",
+    "locus": "OIJFJHOI_01669"
+  },
+  {
+    "uniprot": "Q8DR14",
+    "locus": "OIJFJHOI_01670"
+  },
+  {
+    "uniprot": "C1CCI6",
+    "locus": "OIJFJHOI_01671"
+  },
+  {
+    "uniprot": "Q9FBC4",
+    "locus": "OIJFJHOI_01672"
+  },
+  {
+    "uniprot": "A0A0B7MDV1",
+    "locus": "OIJFJHOI_01673"
+  },
+  {
+    "uniprot": "P0A2W1",
+    "locus": "OIJFJHOI_01674"
+  },
+  {
+    "uniprot": "Q04M58",
+    "locus": "OIJFJHOI_01675"
+  },
+  {
+    "uniprot": "Q8DR18",
+    "locus": "OIJFJHOI_01676"
+  },
+  {
+    "uniprot": "C1CCI0",
+    "locus": "OIJFJHOI_01677"
+  },
+  {
+    "uniprot": "Q8DR20",
+    "locus": "OIJFJHOI_01678"
+  },
+  {
+    "uniprot": "Q8DR21",
+    "locus": "OIJFJHOI_01679"
+  },
+  {
+    "uniprot": "A0A0I6IQT0",
+    "locus": "OIJFJHOI_01680"
+  },
+  {
+    "uniprot": "A0A0U0Q762",
+    "locus": "OIJFJHOI_01681"
+  },
+  {
+    "uniprot": "Q8DR24",
+    "locus": "OIJFJHOI_01682"
+  },
+  {
+    "uniprot": "A0A0T8RC93",
+    "locus": "OIJFJHOI_01683"
+  },
+  {
+    "uniprot": "A0A0B7KWD7",
+    "locus": "OIJFJHOI_01685"
+  },
+  {
+    "uniprot": "C1C5E3",
+    "locus": "OIJFJHOI_01686"
+  },
+  {
+    "uniprot": "C1CCH1",
+    "locus": "OIJFJHOI_01687"
+  },
+  {
+    "uniprot": "A0A4G3JW15",
+    "locus": "OIJFJHOI_01688"
+  },
+  {
+    "uniprot": "Q3I0J5",
+    "locus": "OIJFJHOI_01689"
+  },
+  {
+    "uniprot": "A0AAD2KAU4",
+    "locus": "OIJFJHOI_01690"
+  },
+  {
+    "uniprot": "C1CPR1",
+    "locus": "OIJFJHOI_01691"
+  },
+  {
+    "uniprot": "A0A9P1L7K0",
+    "locus": "OIJFJHOI_01692"
+  },
+  {
+    "uniprot": "A0A4J1QX64",
+    "locus": "OIJFJHOI_01693"
+  },
+  {
+    "uniprot": "C1CCF6",
+    "locus": "OIJFJHOI_01694"
+  },
+  {
+    "uniprot": "A0A264SD49",
+    "locus": "OIJFJHOI_01695"
+  },
+  {
+    "uniprot": "Q9S1J7",
+    "locus": "OIJFJHOI_01696"
+  },
+  {
+    "uniprot": "A0A4J2DN14",
+    "locus": "OIJFJHOI_01697"
+  },
+  {
+    "uniprot": "C1CCF1",
+    "locus": "OIJFJHOI_01698"
+  },
+  {
+    "uniprot": "Q97SH8",
+    "locus": "OIJFJHOI_01699"
+  },
+  {
+    "uniprot": "A0A4J1NMA1",
+    "locus": "OIJFJHOI_01700"
+  },
+  {
+    "uniprot": "A0A4J1NKL5",
+    "locus": "OIJFJHOI_01701"
+  },
+  {
+    "uniprot": "C1C5C0",
+    "locus": "OIJFJHOI_01702"
+  },
+  {
+    "uniprot": "A0A0E9GZY4",
+    "locus": "OIJFJHOI_01703"
+  },
+  {
+    "uniprot": "A0A4J1R745",
+    "locus": "OIJFJHOI_01704"
+  },
+  {
+    "uniprot": "B1I9H8",
+    "locus": "OIJFJHOI_01705"
+  },
+  {
+    "uniprot": "A0A6G2D8P3",
+    "locus": "OIJFJHOI_01706"
+  },
+  {
+    "uniprot": "B2ILR8",
+    "locus": "OIJFJHOI_01707"
+  },
+  {
+    "uniprot": "A0A0T9HRS5",
+    "locus": "OIJFJHOI_01708"
+  },
+  {
+    "uniprot": "A0A4J1XXV1",
+    "locus": "OIJFJHOI_01709"
+  },
+  {
+    "uniprot": "A0A4J2AM23",
+    "locus": "OIJFJHOI_01710"
+  },
+  {
+    "uniprot": "Q97SI9",
+    "locus": "OIJFJHOI_01712"
+  },
+  {
+    "uniprot": "Q8DR58",
+    "locus": "OIJFJHOI_01713"
+  },
+  {
+    "uniprot": "A0A6G2D9U5",
+    "locus": "OIJFJHOI_01714"
+  },
+  {
+    "uniprot": "A5YGS4",
+    "locus": "OIJFJHOI_01715"
+  },
+  {
+    "uniprot": "A0A4J2AH82",
+    "locus": "OIJFJHOI_01716"
+  },
+  {
+    "uniprot": "O07041",
+    "locus": "OIJFJHOI_01717"
+  },
+  {
+    "uniprot": "A0A0B7LWA4",
+    "locus": "OIJFJHOI_01718"
+  },
+  {
+    "uniprot": "A0A6I3U818",
+    "locus": "OIJFJHOI_01719"
+  },
+  {
+    "uniprot": "A0A7X2XMQ8",
+    "locus": "OIJFJHOI_01720"
+  },
+  {
+    "uniprot": "O08436",
+    "locus": "OIJFJHOI_01721"
+  },
+  {
+    "uniprot": "O08435",
+    "locus": "OIJFJHOI_01722"
+  },
+  {
+    "uniprot": "O08434",
+    "locus": "OIJFJHOI_01723"
+  },
+  {
+    "uniprot": "A0A4M3JXE7",
+    "locus": "OIJFJHOI_01725"
+  },
+  {
+    "uniprot": "A0A4J1U6P4",
+    "locus": "OIJFJHOI_01726"
+  },
+  {
+    "uniprot": "A0A4J1PN16",
+    "locus": "OIJFJHOI_01727"
+  },
+  {
+    "uniprot": "A0A4K1B491",
+    "locus": "OIJFJHOI_01728"
+  },
+  {
+    "uniprot": "Q4K386",
+    "locus": "OIJFJHOI_01729"
+  },
+  {
+    "uniprot": "P96481",
+    "locus": "OIJFJHOI_01730"
+  },
+  {
+    "uniprot": "Q4K388",
+    "locus": "OIJFJHOI_01731"
+  },
+  {
+    "uniprot": "P96479",
+    "locus": "OIJFJHOI_01732"
+  },
+  {
+    "uniprot": "P96478",
+    "locus": "OIJFJHOI_01733"
+  },
+  {
+    "uniprot": "P96477",
+    "locus": "OIJFJHOI_01734"
+  },
+  {
+    "uniprot": "Q4K392",
+    "locus": "OIJFJHOI_01735"
+  },
+  {
+    "uniprot": "P96475",
+    "locus": "OIJFJHOI_01736"
+  },
+  {
+    "uniprot": "P96474",
+    "locus": "OIJFJHOI_01737"
+  },
+  {
+    "uniprot": "Q4K383",
+    "locus": "OIJFJHOI_01738"
+  },
+  {
+    "uniprot": "Q4K384",
+    "locus": "OIJFJHOI_01739"
+  },
+  {
+    "uniprot": "A0A4J1TKH5",
+    "locus": "OIJFJHOI_01740"
+  },
+  {
+    "uniprot": "A0A4J1Q0P1",
+    "locus": "OIJFJHOI_01741"
+  },
+  {
+    "uniprot": "A0A4J1X000",
+    "locus": "OIJFJHOI_01743"
+  },
+  {
+    "uniprot": "A0A4J1U6P4",
+    "locus": "OIJFJHOI_01744"
+  },
+  {
+    "uniprot": "A0A4J1PN16",
+    "locus": "OIJFJHOI_01745"
+  },
+  {
+    "uniprot": "A0A4J1XUV3",
+    "locus": "OIJFJHOI_01746"
+  },
+  {
+    "uniprot": "A0A4J1NL93",
+    "locus": "OIJFJHOI_01747"
+  },
+  {
+    "uniprot": "A0A6G2D8F4",
+    "locus": "OIJFJHOI_01748"
+  },
+  {
+    "uniprot": "Q04MC2",
+    "locus": "OIJFJHOI_01749"
+  },
+  {
+    "uniprot": "A0AA86YBP6",
+    "locus": "OIJFJHOI_01750"
+  },
+  {
+    "uniprot": "A0A4M3K0M7",
+    "locus": "OIJFJHOI_01753"
+  },
+  {
+    "uniprot": "A0A4M3JXE7",
+    "locus": "OIJFJHOI_01754"
+  },
+  {
+    "uniprot": "A0A0U0NTG6",
+    "locus": "OIJFJHOI_01756"
+  },
+  {
+    "uniprot": "A0A0T9A347",
+    "locus": "OIJFJHOI_01757"
+  },
+  {
+    "uniprot": "A0A0T8ZXE4",
+    "locus": "OIJFJHOI_01758"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_01759"
+  },
+  {
+    "uniprot": "A0A0T8ZXE4",
+    "locus": "OIJFJHOI_01760"
+  },
+  {
+    "uniprot": "A0A4M3K0L6",
+    "locus": "OIJFJHOI_01761"
+  },
+  {
+    "uniprot": "A0A0T9A9V7",
+    "locus": "OIJFJHOI_01762"
+  },
+  {
+    "uniprot": "A0A4M3JUM0",
+    "locus": "OIJFJHOI_01763"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_01764"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_01765"
+  },
+  {
+    "uniprot": "A0A0U0PQ95",
+    "locus": "OIJFJHOI_01766"
+  },
+  {
+    "uniprot": "A0A0T9A354",
+    "locus": "OIJFJHOI_01767"
+  },
+  {
+    "uniprot": "A0A4J1XG05",
+    "locus": "OIJFJHOI_01768"
+  },
+  {
+    "uniprot": "A0AA86Y5M4",
+    "locus": "OIJFJHOI_01769"
+  },
+  {
+    "uniprot": "A0A4J1TU75",
+    "locus": "OIJFJHOI_01770"
+  },
+  {
+    "uniprot": "Q8DR70",
+    "locus": "OIJFJHOI_01771"
+  },
+  {
+    "uniprot": "C1CIJ8",
+    "locus": "OIJFJHOI_01772"
+  },
+  {
+    "uniprot": "Q8DR71",
+    "locus": "OIJFJHOI_01773"
+  },
+  {
+    "uniprot": "A0A4F6G1D6",
+    "locus": "OIJFJHOI_01774"
+  },
+  {
+    "uniprot": "Q8CZ72",
+    "locus": "OIJFJHOI_01775"
+  },
+  {
+    "uniprot": "A0A0B7LTR1",
+    "locus": "OIJFJHOI_01776"
+  },
+  {
+    "uniprot": "C1CCA4",
+    "locus": "OIJFJHOI_01777"
+  },
+  {
+    "uniprot": "A0A4J1QYG4",
+    "locus": "OIJFJHOI_01778"
+  },
+  {
+    "uniprot": "A0A4J1QYH1",
+    "locus": "OIJFJHOI_01779"
+  },
+  {
+    "uniprot": "A0A4J1QYF7",
+    "locus": "OIJFJHOI_01780"
+  },
+  {
+    "uniprot": "A0A098ZCW3",
+    "locus": "OIJFJHOI_01781"
+  },
+  {
+    "uniprot": "A0A4J0RJG0",
+    "locus": "OIJFJHOI_01782"
+  },
+  {
+    "uniprot": "A0A0B7MAW4",
+    "locus": "OIJFJHOI_01783"
+  },
+  {
+    "uniprot": "A0AA36PZI7",
+    "locus": "OIJFJHOI_01784"
+  },
+  {
+    "uniprot": "Q8DR79",
+    "locus": "OIJFJHOI_01785"
+  },
+  {
+    "uniprot": "Q8CZ75",
+    "locus": "OIJFJHOI_01786"
+  },
+  {
+    "uniprot": "B2ISN9",
+    "locus": "OIJFJHOI_01787"
+  },
+  {
+    "uniprot": "C1CB96",
+    "locus": "OIJFJHOI_01788"
+  },
+  {
+    "uniprot": "A0A4J1QY65",
+    "locus": "OIJFJHOI_01789"
+  },
+  {
+    "uniprot": "A0A4J1QYY8",
+    "locus": "OIJFJHOI_01790"
+  },
+  {
+    "uniprot": "A0A0B7KT23",
+    "locus": "OIJFJHOI_01791"
+  },
+  {
+    "uniprot": "A0A4J1QY84",
+    "locus": "OIJFJHOI_01793"
+  },
+  {
+    "uniprot": "A0A0B7LX26",
+    "locus": "OIJFJHOI_01795"
+  },
+  {
+    "uniprot": "Q8CZ76",
+    "locus": "OIJFJHOI_01796"
+  },
+  {
+    "uniprot": "C1CB88",
+    "locus": "OIJFJHOI_01797"
+  },
+  {
+    "uniprot": "A0A4J1QZP1",
+    "locus": "OIJFJHOI_01798"
+  },
+  {
+    "uniprot": "B2ISN1",
+    "locus": "OIJFJHOI_01799"
+  },
+  {
+    "uniprot": "A0A4J1QYW1",
+    "locus": "OIJFJHOI_01800"
+  },
+  {
+    "uniprot": "C1CB84",
+    "locus": "OIJFJHOI_01801"
+  },
+  {
+    "uniprot": "Q8DR88",
+    "locus": "OIJFJHOI_01802"
+  },
+  {
+    "uniprot": "A0A4J1QZT0",
+    "locus": "OIJFJHOI_01803"
+  },
+  {
+    "uniprot": "A0A4J1QZC1",
+    "locus": "OIJFJHOI_01804"
+  },
+  {
+    "uniprot": "Q8CWU4",
+    "locus": "OIJFJHOI_01805"
+  },
+  {
+    "uniprot": "Q8CWU5",
+    "locus": "OIJFJHOI_01806"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_01808"
+  },
+  {
+    "uniprot": "A0A4J1QZ22",
+    "locus": "OIJFJHOI_01809"
+  },
+  {
+    "uniprot": "A0A6G2D9T6",
+    "locus": "OIJFJHOI_01810"
+  },
+  {
+    "uniprot": "C1CIH2",
+    "locus": "OIJFJHOI_01811"
+  },
+  {
+    "uniprot": "A0A4J1QZ47",
+    "locus": "OIJFJHOI_01812"
+  },
+  {
+    "uniprot": "A0A4J1QZF2",
+    "locus": "OIJFJHOI_01813"
+  },
+  {
+    "uniprot": "A0A6I3V9N6",
+    "locus": "OIJFJHOI_01814"
+  },
+  {
+    "uniprot": "B1I913",
+    "locus": "OIJFJHOI_01815"
+  },
+  {
+    "uniprot": "C1CB60",
+    "locus": "OIJFJHOI_01816"
+  },
+  {
+    "uniprot": "A0A0B7LSF0",
+    "locus": "OIJFJHOI_01817"
+  },
+  {
+    "uniprot": "C1CB58",
+    "locus": "OIJFJHOI_01818"
+  },
+  {
+    "uniprot": "Q8DR98",
+    "locus": "OIJFJHOI_01819"
+  },
+  {
+    "uniprot": "Q8DR99",
+    "locus": "OIJFJHOI_01820"
+  },
+  {
+    "uniprot": "B1I907",
+    "locus": "OIJFJHOI_01821"
+  },
+  {
+    "uniprot": "C1CC69",
+    "locus": "OIJFJHOI_01822"
+  },
+  {
+    "uniprot": "C1CC68",
+    "locus": "OIJFJHOI_01823"
+  },
+  {
+    "uniprot": "A0AAE9QN54",
+    "locus": "OIJFJHOI_01824"
+  },
+  {
+    "uniprot": "C1CC66",
+    "locus": "OIJFJHOI_01825"
+  },
+  {
+    "uniprot": "Q8DRA4",
+    "locus": "OIJFJHOI_01826"
+  },
+  {
+    "uniprot": "C1CC64",
+    "locus": "OIJFJHOI_01827"
+  },
+  {
+    "uniprot": "A0A6G2DCI5",
+    "locus": "OIJFJHOI_01828"
+  },
+  {
+    "uniprot": "Q04MH7",
+    "locus": "OIJFJHOI_01829"
+  },
+  {
+    "uniprot": "Q8CWU6",
+    "locus": "OIJFJHOI_01830"
+  },
+  {
+    "uniprot": "E2DP60",
+    "locus": "OIJFJHOI_01831"
+  },
+  {
+    "uniprot": "A0A0H2UNG0",
+    "locus": "OIJFJHOI_01832"
+  },
+  {
+    "uniprot": "C1CB42",
+    "locus": "OIJFJHOI_01833"
+  },
+  {
+    "uniprot": "A0A0B7LXV7",
+    "locus": "OIJFJHOI_01834"
+  },
+  {
+    "uniprot": "A0A0B7KU25",
+    "locus": "OIJFJHOI_01835"
+  },
+  {
+    "uniprot": "C1CPD8",
+    "locus": "OIJFJHOI_01836"
+  },
+  {
+    "uniprot": "Q8DRB1",
+    "locus": "OIJFJHOI_01837"
+  },
+  {
+    "uniprot": "C1CB37",
+    "locus": "OIJFJHOI_01838"
+  },
+  {
+    "uniprot": "Q8DRB3",
+    "locus": "OIJFJHOI_01839"
+  },
+  {
+    "uniprot": "C1CC51",
+    "locus": "OIJFJHOI_01841"
+  },
+  {
+    "uniprot": "Q8CWU7",
+    "locus": "OIJFJHOI_01842"
+  },
+  {
+    "uniprot": "Q8DRB4",
+    "locus": "OIJFJHOI_01844"
+  },
+  {
+    "uniprot": "C1CB32",
+    "locus": "OIJFJHOI_01845"
+  },
+  {
+    "uniprot": "C1CB31",
+    "locus": "OIJFJHOI_01846"
+  },
+  {
+    "uniprot": "Q8DRB7",
+    "locus": "OIJFJHOI_01847"
+  },
+  {
+    "uniprot": "B1I8Y0",
+    "locus": "OIJFJHOI_01848"
+  },
+  {
+    "uniprot": "A0A0B7MAR2",
+    "locus": "OIJFJHOI_01849"
+  },
+  {
+    "uniprot": "A0A0H2UNF2",
+    "locus": "OIJFJHOI_01850"
+  },
+  {
+    "uniprot": "A0A0H2UNC3",
+    "locus": "OIJFJHOI_01851"
+  },
+  {
+    "uniprot": "C1CC41",
+    "locus": "OIJFJHOI_01852"
+  },
+  {
+    "uniprot": "Q8DRC3",
+    "locus": "OIJFJHOI_01853"
+  },
+  {
+    "uniprot": "B1I8X4",
+    "locus": "OIJFJHOI_01854"
+  },
+  {
+    "uniprot": "Q8DRC5",
+    "locus": "OIJFJHOI_01855"
+  },
+  {
+    "uniprot": "A0A0T8SC95",
+    "locus": "OIJFJHOI_01856"
+  },
+  {
+    "uniprot": "A0A4J1R089",
+    "locus": "OIJFJHOI_01857"
+  },
+  {
+    "uniprot": "A0A0U0JI53",
+    "locus": "OIJFJHOI_01858"
+  },
+  {
+    "uniprot": "B2ISG7",
+    "locus": "OIJFJHOI_01859"
+  },
+  {
+    "uniprot": "A0A4J1R1B1",
+    "locus": "OIJFJHOI_01860"
+  },
+  {
+    "uniprot": "A0A4J1R0P7",
+    "locus": "OIJFJHOI_01861"
+  },
+  {
+    "uniprot": "A0A0T8C930",
+    "locus": "OIJFJHOI_01862"
+  },
+  {
+    "uniprot": "C1CC35",
+    "locus": "OIJFJHOI_01864"
+  },
+  {
+    "uniprot": "C1CC34",
+    "locus": "OIJFJHOI_01865"
+  },
+  {
+    "uniprot": "Q8CWU8",
+    "locus": "OIJFJHOI_01867"
+  },
+  {
+    "uniprot": "Q04ML1",
+    "locus": "OIJFJHOI_01868"
+  },
+  {
+    "uniprot": "Q04ML2",
+    "locus": "OIJFJHOI_01869"
+  },
+  {
+    "uniprot": "Q04ML3",
+    "locus": "OIJFJHOI_01870"
+  },
+  {
+    "uniprot": "P0A496",
+    "locus": "OIJFJHOI_01871"
+  },
+  {
+    "uniprot": "Q04ML4",
+    "locus": "OIJFJHOI_01872"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_01873"
+  },
+  {
+    "uniprot": "B2ISY6",
+    "locus": "OIJFJHOI_01874"
+  },
+  {
+    "uniprot": "B2ISY7",
+    "locus": "OIJFJHOI_01875"
+  },
+  {
+    "uniprot": "B2ISY8",
+    "locus": "OIJFJHOI_01876"
+  },
+  {
+    "uniprot": "B2ISY9",
+    "locus": "OIJFJHOI_01877"
+  },
+  {
+    "uniprot": "C1C9G0",
+    "locus": "OIJFJHOI_01878"
+  },
+  {
+    "uniprot": "Q8CYC1",
+    "locus": "OIJFJHOI_01879"
+  },
+  {
+    "uniprot": "C1C9G2",
+    "locus": "OIJFJHOI_01880"
+  },
+  {
+    "uniprot": "C1C9G3",
+    "locus": "OIJFJHOI_01881"
+  },
+  {
+    "uniprot": "C1C9G4",
+    "locus": "OIJFJHOI_01882"
+  },
+  {
+    "uniprot": "C1C9G5",
+    "locus": "OIJFJHOI_01883"
+  },
+  {
+    "uniprot": "B2ISZ6",
+    "locus": "OIJFJHOI_01884"
+  },
+  {
+    "uniprot": "A0A0U0PRI9",
+    "locus": "OIJFJHOI_01885"
+  },
+  {
+    "uniprot": "C1CGC7",
+    "locus": "OIJFJHOI_01886"
+  },
+  {
+    "uniprot": "A0A916L6G8",
+    "locus": "OIJFJHOI_01887"
+  },
+  {
+    "uniprot": "C1C9G9",
+    "locus": "OIJFJHOI_01888"
+  },
+  {
+    "uniprot": "C1C9H0",
+    "locus": "OIJFJHOI_01890"
+  },
+  {
+    "uniprot": "C1CGD1",
+    "locus": "OIJFJHOI_01913"
+  },
+  {
+    "uniprot": "A0A4J1P0R6",
+    "locus": "OIJFJHOI_01914"
+  },
+  {
+    "uniprot": "Q8DNH5",
+    "locus": "OIJFJHOI_01915"
+  },
+  {
+    "uniprot": "A0AAE9U298",
+    "locus": "OIJFJHOI_01917"
+  },
+  {
+    "uniprot": "C1C9H5",
+    "locus": "OIJFJHOI_01918"
+  },
+  {
+    "uniprot": "Q04IQ3",
+    "locus": "OIJFJHOI_01919"
+  },
+  {
+    "uniprot": "C1CML8",
+    "locus": "OIJFJHOI_01920"
+  },
+  {
+    "uniprot": "Q8DNH4",
+    "locus": "OIJFJHOI_01921"
+  },
+  {
+    "uniprot": "B1I8B5",
+    "locus": "OIJFJHOI_01922"
+  },
+  {
+    "uniprot": "Q8DNH2",
+    "locus": "OIJFJHOI_01923"
+  },
+  {
+    "uniprot": "Q8DNH1",
+    "locus": "OIJFJHOI_01924"
+  },
+  {
+    "uniprot": "Q8CYB9",
+    "locus": "OIJFJHOI_01925"
+  },
+  {
+    "uniprot": "A0A062WUW1",
+    "locus": "OIJFJHOI_01926"
+  },
+  {
+    "uniprot": "A0A0H2URK9",
+    "locus": "OIJFJHOI_01927"
+  },
+  {
+    "uniprot": "A0A0B7L3A2",
+    "locus": "OIJFJHOI_01928"
+  },
+  {
+    "uniprot": "Q8CYB6",
+    "locus": "OIJFJHOI_01929"
+  },
+  {
+    "uniprot": "A0AAE4FW29",
+    "locus": "OIJFJHOI_01930"
+  },
+  {
+    "uniprot": "B2IM08",
+    "locus": "OIJFJHOI_01931"
+  },
+  {
+    "uniprot": "A0A0I6E462",
+    "locus": "OIJFJHOI_01932"
+  },
+  {
+    "uniprot": "Q04IN9",
+    "locus": "OIJFJHOI_01933"
+  },
+  {
+    "uniprot": "Q2XU25",
+    "locus": "OIJFJHOI_01934"
+  },
+  {
+    "uniprot": "C1C9J3",
+    "locus": "OIJFJHOI_01935"
+  },
+  {
+    "uniprot": "Q8CYB4",
+    "locus": "OIJFJHOI_01936"
+  },
+  {
+    "uniprot": "B2IM15",
+    "locus": "OIJFJHOI_01937"
+  },
+  {
+    "uniprot": "A0A4J1ZFL9",
+    "locus": "OIJFJHOI_01938"
+  },
+  {
+    "uniprot": "A0A4J1U5S3",
+    "locus": "OIJFJHOI_01939"
+  },
+  {
+    "uniprot": "A0A0I6YNI8",
+    "locus": "OIJFJHOI_01940"
+  },
+  {
+    "uniprot": "A0A0I7M824",
+    "locus": "OIJFJHOI_01941"
+  },
+  {
+    "uniprot": "Q8CYA9",
+    "locus": "OIJFJHOI_01942"
+  },
+  {
+    "uniprot": "A0A0T7KGN7",
+    "locus": "OIJFJHOI_01943"
+  },
+  {
+    "uniprot": "A0A0B7MCW7",
+    "locus": "OIJFJHOI_01944"
+  },
+  {
+    "uniprot": "A0A0B7L5K3",
+    "locus": "OIJFJHOI_01945"
+  },
+  {
+    "uniprot": "A0A0B7MDF1",
+    "locus": "OIJFJHOI_01946"
+  },
+  {
+    "uniprot": "A0A0B7M7G9",
+    "locus": "OIJFJHOI_01947"
+  },
+  {
+    "uniprot": "Q9R3M1",
+    "locus": "OIJFJHOI_01948"
+  },
+  {
+    "uniprot": "A0A098Z3I1",
+    "locus": "OIJFJHOI_01949"
+  },
+  {
+    "uniprot": "A0A4J2A6U9",
+    "locus": "OIJFJHOI_01950"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_01951"
+  },
+  {
+    "uniprot": "Q04IM6",
+    "locus": "OIJFJHOI_01952"
+  },
+  {
+    "uniprot": "A0A6G2DHY5",
+    "locus": "OIJFJHOI_01953"
+  },
+  {
+    "uniprot": "A0A0E8P863",
+    "locus": "OIJFJHOI_01954"
+  },
+  {
+    "uniprot": "Q8DNF9",
+    "locus": "OIJFJHOI_01955"
+  },
+  {
+    "uniprot": "Q8DNF8",
+    "locus": "OIJFJHOI_01956"
+  },
+  {
+    "uniprot": "Q8CYA2",
+    "locus": "OIJFJHOI_01957"
+  },
+  {
+    "uniprot": "A0A0T8E8F8",
+    "locus": "OIJFJHOI_01958"
+  },
+  {
+    "uniprot": "C1CA00",
+    "locus": "OIJFJHOI_01959"
+  },
+  {
+    "uniprot": "A0A0I7M802",
+    "locus": "OIJFJHOI_01960"
+  },
+  {
+    "uniprot": "A0A4J1XG25",
+    "locus": "OIJFJHOI_01961"
+  },
+  {
+    "uniprot": "A0A0B7KNP6",
+    "locus": "OIJFJHOI_01962"
+  },
+  {
+    "uniprot": "C1CGP1",
+    "locus": "OIJFJHOI_01963"
+  },
+  {
+    "uniprot": "A0A0B7LDE7",
+    "locus": "OIJFJHOI_01964"
+  },
+  {
+    "uniprot": "C1CMQ6",
+    "locus": "OIJFJHOI_01965"
+  },
+  {
+    "uniprot": "A0A6G2D7P0",
+    "locus": "OIJFJHOI_01966"
+  },
+  {
+    "uniprot": "A0A0B7L1K2",
+    "locus": "OIJFJHOI_01967"
+  },
+  {
+    "uniprot": "B2IM43",
+    "locus": "OIJFJHOI_01970"
+  },
+  {
+    "uniprot": "B1I8R7",
+    "locus": "OIJFJHOI_01971"
+  },
+  {
+    "uniprot": "A0A4J1ZKM2",
+    "locus": "OIJFJHOI_01972"
+  },
+  {
+    "uniprot": "Q97NQ4",
+    "locus": "OIJFJHOI_01973"
+  },
+  {
+    "uniprot": "B1I8S0",
+    "locus": "OIJFJHOI_01974"
+  },
+  {
+    "uniprot": "Q8DNE7",
+    "locus": "OIJFJHOI_01975"
+  },
+  {
+    "uniprot": "A0A062WU92",
+    "locus": "OIJFJHOI_01976"
+  },
+  {
+    "uniprot": "A0A4U1J6C1",
+    "locus": "OIJFJHOI_01977"
+  },
+  {
+    "uniprot": "Q97NQ0",
+    "locus": "OIJFJHOI_01978"
+  },
+  {
+    "uniprot": "C1CA17",
+    "locus": "OIJFJHOI_01979"
+  },
+  {
+    "uniprot": "C1CA18",
+    "locus": "OIJFJHOI_01980"
+  },
+  {
+    "uniprot": "Q8DNE2",
+    "locus": "OIJFJHOI_01981"
+  },
+  {
+    "uniprot": "C1CGQ6",
+    "locus": "OIJFJHOI_01982"
+  },
+  {
+    "uniprot": "Q8DNE0",
+    "locus": "OIJFJHOI_01983"
+  },
+  {
+    "uniprot": "A0A0B7L6M3",
+    "locus": "OIJFJHOI_01984"
+  },
+  {
+    "uniprot": "C1CGQ9",
+    "locus": "OIJFJHOI_01985"
+  },
+  {
+    "uniprot": "C1CA24",
+    "locus": "OIJFJHOI_01986"
+  },
+  {
+    "uniprot": "A0A0H2URR5",
+    "locus": "OIJFJHOI_01987"
+  },
+  {
+    "uniprot": "A0A4J1YWT3",
+    "locus": "OIJFJHOI_01988"
+  },
+  {
+    "uniprot": "A0A655HD58",
+    "locus": "OIJFJHOI_01989"
+  },
+  {
+    "uniprot": "A0A916L551",
+    "locus": "OIJFJHOI_01990"
+  },
+  {
+    "uniprot": "A0A558UNH8",
+    "locus": "OIJFJHOI_01991"
+  },
+  {
+    "uniprot": "C1CMT3",
+    "locus": "OIJFJHOI_01993"
+  },
+  {
+    "uniprot": "A0A5R9AW89",
+    "locus": "OIJFJHOI_01994"
+  },
+  {
+    "uniprot": "Q8DND2",
+    "locus": "OIJFJHOI_01995"
+  },
+  {
+    "uniprot": "A0AAD2KF28",
+    "locus": "OIJFJHOI_01996"
+  },
+  {
+    "uniprot": "A0A4L0P070",
+    "locus": "OIJFJHOI_01998"
+  },
+  {
+    "uniprot": "A0A0B7LWF0",
+    "locus": "OIJFJHOI_01999"
+  },
+  {
+    "uniprot": "A0A0B7LXH2",
+    "locus": "OIJFJHOI_02000"
+  },
+  {
+    "uniprot": "A0AA86XN69",
+    "locus": "OIJFJHOI_02001"
+  },
+  {
+    "uniprot": "Q04IH6",
+    "locus": "OIJFJHOI_02002"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_02003"
+  },
+  {
+    "uniprot": "C1CGS5",
+    "locus": "OIJFJHOI_02004"
+  },
+  {
+    "uniprot": "A0A0F7YFQ6",
+    "locus": "OIJFJHOI_02005"
+  },
+  {
+    "uniprot": "C1CGS7",
+    "locus": "OIJFJHOI_02006"
+  },
+  {
+    "uniprot": "C1CGS8",
+    "locus": "OIJFJHOI_02007"
+  },
+  {
+    "uniprot": "C1CA43",
+    "locus": "OIJFJHOI_02008"
+  },
+  {
+    "uniprot": "C1CA45",
+    "locus": "OIJFJHOI_02009"
+  },
+  {
+    "uniprot": "C1CA46",
+    "locus": "OIJFJHOI_02010"
+  },
+  {
+    "uniprot": "A0A4G4IX74",
+    "locus": "OIJFJHOI_02011"
+  },
+  {
+    "uniprot": "A0A4J2A4K4",
+    "locus": "OIJFJHOI_02012"
+  },
+  {
+    "uniprot": "A0A4J1ZLF6",
+    "locus": "OIJFJHOI_02013"
+  },
+  {
+    "uniprot": "A0A064BY28",
+    "locus": "OIJFJHOI_02014"
+  },
+  {
+    "uniprot": "A0A4L7WW08",
+    "locus": "OIJFJHOI_02015"
+  },
+  {
+    "uniprot": "I0J991",
+    "locus": "OIJFJHOI_02030"
+  },
+  {
+    "uniprot": "A0A4J2BPQ8",
+    "locus": "OIJFJHOI_02031"
+  },
+  {
+    "uniprot": "Q8DNB8",
+    "locus": "OIJFJHOI_02032"
+  },
+  {
+    "uniprot": "Q8DNB7",
+    "locus": "OIJFJHOI_02033"
+  },
+  {
+    "uniprot": "A0A4J1TLX0",
+    "locus": "OIJFJHOI_02034"
+  },
+  {
+    "uniprot": "A0A4J1Y656",
+    "locus": "OIJFJHOI_02035"
+  },
+  {
+    "uniprot": "Q8CWN6",
+    "locus": "OIJFJHOI_02036"
+  },
+  {
+    "uniprot": "A0A822QCG0",
+    "locus": "OIJFJHOI_02037"
+  },
+  {
+    "uniprot": "C1CGU6",
+    "locus": "OIJFJHOI_02038"
+  },
+  {
+    "uniprot": "B2IMJ1",
+    "locus": "OIJFJHOI_02039"
+  },
+  {
+    "uniprot": "A0A0I6T6L4",
+    "locus": "OIJFJHOI_02040"
+  },
+  {
+    "uniprot": "A0A098ZDE6",
+    "locus": "OIJFJHOI_02041"
+  },
+  {
+    "uniprot": "Q8DNB0",
+    "locus": "OIJFJHOI_02042"
+  },
+  {
+    "uniprot": "A0A6G2D9A4",
+    "locus": "OIJFJHOI_02043"
+  },
+  {
+    "uniprot": "A0A0B7LXA4",
+    "locus": "OIJFJHOI_02044"
+  },
+  {
+    "uniprot": "C1CA68",
+    "locus": "OIJFJHOI_02045"
+  },
+  {
+    "uniprot": "B2IMJ8",
+    "locus": "OIJFJHOI_02046"
+  },
+  {
+    "uniprot": "A0A6I3UAS0",
+    "locus": "OIJFJHOI_02047"
+  },
+  {
+    "uniprot": "Q8CY89",
+    "locus": "OIJFJHOI_02048"
+  },
+  {
+    "uniprot": "B2IMK1",
+    "locus": "OIJFJHOI_02049"
+  },
+  {
+    "uniprot": "Q8DNA3",
+    "locus": "OIJFJHOI_02050"
+  },
+  {
+    "uniprot": "A0AAE4FX53",
+    "locus": "OIJFJHOI_02051"
+  },
+  {
+    "uniprot": "Q8DNA1",
+    "locus": "OIJFJHOI_02052"
+  },
+  {
+    "uniprot": "A0A0B7L261",
+    "locus": "OIJFJHOI_02053"
+  },
+  {
+    "uniprot": "A0A0E8ZPA5",
+    "locus": "OIJFJHOI_02054"
+  },
+  {
+    "uniprot": "A0A4N9BTN3",
+    "locus": "OIJFJHOI_02055"
+  },
+  {
+    "uniprot": "C1CA80",
+    "locus": "OIJFJHOI_02056"
+  },
+  {
+    "uniprot": "Q8DN96",
+    "locus": "OIJFJHOI_02057"
+  },
+  {
+    "uniprot": "Q8DN95",
+    "locus": "OIJFJHOI_02058"
+  },
+  {
+    "uniprot": "C1CGW8",
+    "locus": "OIJFJHOI_02059"
+  },
+  {
+    "uniprot": "A0AA86Y0F9",
+    "locus": "OIJFJHOI_02060"
+  },
+  {
+    "uniprot": "C1CGX0",
+    "locus": "OIJFJHOI_02061"
+  },
+  {
+    "uniprot": "C1CGX1",
+    "locus": "OIJFJHOI_02062"
+  },
+  {
+    "uniprot": "Q8DN92",
+    "locus": "OIJFJHOI_02063"
+  },
+  {
+    "uniprot": "A0A0B7LVZ0",
+    "locus": "OIJFJHOI_02064"
+  },
+  {
+    "uniprot": "B1I9A1",
+    "locus": "OIJFJHOI_02065"
+  },
+  {
+    "uniprot": "A0A4K4JDW1",
+    "locus": "OIJFJHOI_02066"
+  },
+  {
+    "uniprot": "A0A4J1XB54",
+    "locus": "OIJFJHOI_02067"
+  },
+  {
+    "uniprot": "C1CA93",
+    "locus": "OIJFJHOI_02068"
+  },
+  {
+    "uniprot": "A0A6G2DCJ4",
+    "locus": "OIJFJHOI_02069"
+  },
+  {
+    "uniprot": "A0A4J1X2F7",
+    "locus": "OIJFJHOI_02070"
+  },
+  {
+    "uniprot": "A0A0B7KTY0",
+    "locus": "OIJFJHOI_02071"
+  },
+  {
+    "uniprot": "A0A5C8R1E2",
+    "locus": "OIJFJHOI_02072"
+  },
+  {
+    "uniprot": "C1CGY1",
+    "locus": "OIJFJHOI_02073"
+  },
+  {
+    "uniprot": "A0A0B7LZL4",
+    "locus": "OIJFJHOI_02074"
+  },
+  {
+    "uniprot": "A0A0B7M3Q7",
+    "locus": "OIJFJHOI_02075"
+  },
+  {
+    "uniprot": "Q8DN85",
+    "locus": "OIJFJHOI_02076"
+  },
+  {
+    "uniprot": "A0A0D6J6H1",
+    "locus": "OIJFJHOI_02077"
+  },
+  {
+    "uniprot": "B2IMN1",
+    "locus": "OIJFJHOI_02078"
+  },
+  {
+    "uniprot": "A0A4J1TKD4",
+    "locus": "OIJFJHOI_02079"
+  },
+  {
+    "uniprot": "C1CN05",
+    "locus": "OIJFJHOI_02080"
+  },
+  {
+    "uniprot": "C1CGY9",
+    "locus": "OIJFJHOI_02081"
+  },
+  {
+    "uniprot": "A0A0D6J6G5",
+    "locus": "OIJFJHOI_02082"
+  },
+  {
+    "uniprot": "A0A4J2T1S7",
+    "locus": "OIJFJHOI_02083"
+  },
+  {
+    "uniprot": "A0A0B7L7P3",
+    "locus": "OIJFJHOI_02084"
+  },
+  {
+    "uniprot": "A0A4J1TL47",
+    "locus": "OIJFJHOI_02085"
+  },
+  {
+    "uniprot": "B1I9B7",
+    "locus": "OIJFJHOI_02086"
+  },
+  {
+    "uniprot": "A0A0B7L696",
+    "locus": "OIJFJHOI_02087"
+  },
+  {
+    "uniprot": "A0A4K3P8K1",
+    "locus": "OIJFJHOI_02088"
+  },
+  {
+    "uniprot": "A0AA44S5K4",
+    "locus": "OIJFJHOI_02089"
+  },
+  {
+    "uniprot": "Q8DN75",
+    "locus": "OIJFJHOI_02106"
+  },
+  {
+    "uniprot": "A0A0B7LT42",
+    "locus": "OIJFJHOI_02107"
+  },
+  {
+    "uniprot": "Q8DN74",
+    "locus": "OIJFJHOI_02108"
+  },
+  {
+    "uniprot": "C1CH02",
+    "locus": "OIJFJHOI_02109"
+  },
+  {
+    "uniprot": "A0A4N9BWL3",
+    "locus": "OIJFJHOI_02110"
+  },
+  {
+    "uniprot": "A0A4J2CCJ4",
+    "locus": "OIJFJHOI_02111"
+  },
+  {
+    "uniprot": "A0A6G2D9P6",
+    "locus": "OIJFJHOI_02112"
+  },
+  {
+    "uniprot": "A0AA44MRE2",
+    "locus": "OIJFJHOI_02114"
+  },
+  {
+    "uniprot": "P0A2Y3",
+    "locus": "OIJFJHOI_02116"
+  },
+  {
+    "uniprot": "C1CN25",
+    "locus": "OIJFJHOI_02117"
+  },
+  {
+    "uniprot": "C1CH09",
+    "locus": "OIJFJHOI_02118"
+  },
+  {
+    "uniprot": "A0A4J2FCB4",
+    "locus": "OIJFJHOI_02119"
+  },
+  {
+    "uniprot": "Q9S1J6",
+    "locus": "OIJFJHOI_02120"
+  },
+  {
+    "uniprot": "Q8DN65",
+    "locus": "OIJFJHOI_02121"
+  },
+  {
+    "uniprot": "Q8DN64",
+    "locus": "OIJFJHOI_02122"
+  },
+  {
+    "uniprot": "A0A0B7LEH3",
+    "locus": "OIJFJHOI_02123"
+  },
+  {
+    "uniprot": "Q9X4T2",
+    "locus": "OIJFJHOI_02124"
+  },
+  {
+    "uniprot": "A0A0E8A7S1",
+    "locus": "OIJFJHOI_02125"
+  },
+  {
+    "uniprot": "P0A3Y8",
+    "locus": "OIJFJHOI_02126"
+  },
+  {
+    "uniprot": "A0AAE9QUX7",
+    "locus": "OIJFJHOI_02127"
+  },
+  {
+    "uniprot": "A0AA86JAG6",
+    "locus": "OIJFJHOI_02128"
+  },
+  {
+    "uniprot": "A0A4H9F8C4",
+    "locus": "OIJFJHOI_02129"
+  },
+  {
+    "uniprot": "C1CN37",
+    "locus": "OIJFJHOI_02130"
+  },
+  {
+    "uniprot": "C1CH21",
+    "locus": "OIJFJHOI_02131"
+  },
+  {
+    "uniprot": "Q8DN57",
+    "locus": "OIJFJHOI_02132"
+  },
+  {
+    "uniprot": "A0AAE4FVM0",
+    "locus": "OIJFJHOI_02133"
+  },
+  {
+    "uniprot": "A0AA36VAD1",
+    "locus": "OIJFJHOI_02134"
+  },
+  {
+    "uniprot": "A0AAD2KGA0",
+    "locus": "OIJFJHOI_02135"
+  },
+  {
+    "uniprot": "A0A4N2ZM94",
+    "locus": "OIJFJHOI_02136"
+  },
+  {
+    "uniprot": "Q75YG9",
+    "locus": "OIJFJHOI_02137"
+  },
+  {
+    "uniprot": "B5E3A7",
+    "locus": "OIJFJHOI_02138"
+  },
+  {
+    "uniprot": "B2IN19",
+    "locus": "OIJFJHOI_02139"
+  },
+  {
+    "uniprot": "Q8CY77",
+    "locus": "OIJFJHOI_02140"
+  },
+  {
+    "uniprot": "B2IN21",
+    "locus": "OIJFJHOI_02141"
+  },
+  {
+    "uniprot": "C1CH33",
+    "locus": "OIJFJHOI_02142"
+  },
+  {
+    "uniprot": "C1CH34",
+    "locus": "OIJFJHOI_02143"
+  },
+  {
+    "uniprot": "C1CH35",
+    "locus": "OIJFJHOI_02144"
+  },
+  {
+    "uniprot": "P0A3Q1",
+    "locus": "OIJFJHOI_02145"
+  },
+  {
+    "uniprot": "A0A0U0PMQ9",
+    "locus": "OIJFJHOI_02146"
+  },
+  {
+    "uniprot": "A0A916PFC0",
+    "locus": "OIJFJHOI_02147"
+  },
+  {
+    "uniprot": "C1CH39",
+    "locus": "OIJFJHOI_02148"
+  },
+  {
+    "uniprot": "A0A0B7LGJ4",
+    "locus": "OIJFJHOI_02149"
+  },
+  {
+    "uniprot": "C1CH41",
+    "locus": "OIJFJHOI_02150"
+  },
+  {
+    "uniprot": "A0A4J1S7W6",
+    "locus": "OIJFJHOI_02151"
+  },
+  {
+    "uniprot": "C1CH43",
+    "locus": "OIJFJHOI_02152"
+  },
+  {
+    "uniprot": "A0A4F2V5F1",
+    "locus": "OIJFJHOI_02153"
+  },
+  {
+    "uniprot": "A0A4J1Y8U4",
+    "locus": "OIJFJHOI_02154"
+  },
+  {
+    "uniprot": "Q8CY74",
+    "locus": "OIJFJHOI_02155"
+  },
+  {
+    "uniprot": "A0A0B7M1G4",
+    "locus": "OIJFJHOI_02156"
+  },
+  {
+    "uniprot": "A0A4J1Z4T6",
+    "locus": "OIJFJHOI_02157"
+  },
+  {
+    "uniprot": "Q8CY71",
+    "locus": "OIJFJHOI_02158"
+  },
+  {
+    "uniprot": "C1CH50",
+    "locus": "OIJFJHOI_02159"
+  },
+  {
+    "uniprot": "A0A6G2DME0",
+    "locus": "OIJFJHOI_02160"
+  },
+  {
+    "uniprot": "Q97NC9",
+    "locus": "OIJFJHOI_02161"
+  },
+  {
+    "uniprot": "A0A0H2USF0",
+    "locus": "OIJFJHOI_02162"
+  },
+  {
+    "uniprot": "A0A4J1W5Q4",
+    "locus": "OIJFJHOI_02163"
+  },
+  {
+    "uniprot": "A0AAD2IL27",
+    "locus": "OIJFJHOI_02164"
+  },
+  {
+    "uniprot": "C1CH57",
+    "locus": "OIJFJHOI_02165"
+  },
+  {
+    "uniprot": "A0A4G9UKC5",
+    "locus": "OIJFJHOI_02166"
+  },
+  {
+    "uniprot": "Q04I44",
+    "locus": "OIJFJHOI_02167"
+  },
+  {
+    "uniprot": "A0A4J1XAA9",
+    "locus": "OIJFJHOI_02168"
+  },
+  {
+    "uniprot": "Q8DN41",
+    "locus": "OIJFJHOI_02169"
+  },
+  {
+    "uniprot": "A0A0H2USF7",
+    "locus": "OIJFJHOI_02170"
+  },
+  {
+    "uniprot": "Q8CY69",
+    "locus": "OIJFJHOI_02171"
+  },
+  {
+    "uniprot": "A0A0H2URY8",
+    "locus": "OIJFJHOI_02172"
+  },
+  {
+    "uniprot": "C1CH65",
+    "locus": "OIJFJHOI_02173"
+  },
+  {
+    "uniprot": "Q8CY67",
+    "locus": "OIJFJHOI_02174"
+  },
+  {
+    "uniprot": "A0A0E8Z1I8",
+    "locus": "OIJFJHOI_02175"
+  },
+  {
+    "uniprot": "Q04I36",
+    "locus": "OIJFJHOI_02176"
+  },
+  {
+    "uniprot": "A0AA44MPW8",
+    "locus": "OIJFJHOI_02177"
+  },
+  {
+    "uniprot": "C1CH70",
+    "locus": "OIJFJHOI_02178"
+  },
+  {
+    "uniprot": "A0A4P0APR8",
+    "locus": "OIJFJHOI_02179"
+  },
+  {
+    "uniprot": "A0A4H9F1S5",
+    "locus": "OIJFJHOI_02180"
+  },
+  {
+    "uniprot": "A0A4P0A4H1",
+    "locus": "OIJFJHOI_02181"
+  },
+  {
+    "uniprot": "A0A0E8ZGT0",
+    "locus": "OIJFJHOI_02182"
+  },
+  {
+    "uniprot": "A0A4J2B0A4",
+    "locus": "OIJFJHOI_02183"
+  },
+  {
+    "uniprot": "A0A4J2B2V0",
+    "locus": "OIJFJHOI_02184"
+  },
+  {
+    "uniprot": "A0A4L7UIN0",
+    "locus": "OIJFJHOI_02185"
+  },
+  {
+    "uniprot": "A0A4J2B3H0",
+    "locus": "OIJFJHOI_02186"
+  },
+  {
+    "uniprot": "A0A2U3RWG6",
+    "locus": "OIJFJHOI_02187"
+  },
+  {
+    "uniprot": "C1CAZ3",
+    "locus": "OIJFJHOI_02188"
+  },
+  {
+    "uniprot": "A0A0B7LE02",
+    "locus": "OIJFJHOI_02189"
+  },
+  {
+    "uniprot": "A0A0B7LJM3",
+    "locus": "OIJFJHOI_02190"
+  },
+  {
+    "uniprot": "B1I9W3",
+    "locus": "OIJFJHOI_02191"
+  },
+  {
+    "uniprot": "A0A4J2B3B8",
+    "locus": "OIJFJHOI_02192"
+  },
+  {
+    "uniprot": "A0A4J2EA28",
+    "locus": "OIJFJHOI_02193"
+  },
+  {
+    "uniprot": "A0A0B7MDS5",
+    "locus": "OIJFJHOI_02194"
+  },
+  {
+    "uniprot": "Q8DN26",
+    "locus": "OIJFJHOI_02195"
+  },
+  {
+    "uniprot": "A0A4N2RRZ1",
+    "locus": "OIJFJHOI_02196"
+  },
+  {
+    "uniprot": "A0A4J2AE55",
+    "locus": "OIJFJHOI_02197"
+  },
+  {
+    "uniprot": "A0A6I3U744",
+    "locus": "OIJFJHOI_02198"
+  },
+  {
+    "uniprot": "A0AA44MQQ7",
+    "locus": "OIJFJHOI_02199"
+  },
+  {
+    "uniprot": "A0A4J2CE28",
+    "locus": "OIJFJHOI_02200"
+  },
+  {
+    "uniprot": "A0A0T8WEY9",
+    "locus": "OIJFJHOI_02201"
+  },
+  {
+    "uniprot": "Q8DN22",
+    "locus": "OIJFJHOI_02202"
+  },
+  {
+    "uniprot": "Q8DN21",
+    "locus": "OIJFJHOI_02203"
+  },
+  {
+    "uniprot": "C1CHG2",
+    "locus": "OIJFJHOI_02204"
+  },
+  {
+    "uniprot": "A0A0T8CS56",
+    "locus": "OIJFJHOI_02205"
+  },
+  {
+    "uniprot": "A0A0H2US10",
+    "locus": "OIJFJHOI_02206"
+  },
+  {
+    "uniprot": "Q8DN17",
+    "locus": "OIJFJHOI_02207"
+  },
+  {
+    "uniprot": "A0AA86MJP8",
+    "locus": "OIJFJHOI_02208"
+  },
+  {
+    "uniprot": "Q8DN15",
+    "locus": "OIJFJHOI_02209"
+  },
+  {
+    "uniprot": "A0A6G2D9V9",
+    "locus": "OIJFJHOI_02212"
+  },
+  {
+    "uniprot": "A0A0U0GQW9",
+    "locus": "OIJFJHOI_02213"
+  },
+  {
+    "uniprot": "C1CHH0",
+    "locus": "OIJFJHOI_02214"
+  },
+  {
+    "uniprot": "Q8DN14",
+    "locus": "OIJFJHOI_02215"
+  },
+  {
+    "uniprot": "B1I9Y5",
+    "locus": "OIJFJHOI_02216"
+  },
+  {
+    "uniprot": "Q04HZ9",
+    "locus": "OIJFJHOI_02217"
+  },
+  {
+    "uniprot": "A0A0B7LC24",
+    "locus": "OIJFJHOI_02218"
+  },
+  {
+    "uniprot": "A0AA36PXD1",
+    "locus": "OIJFJHOI_02219"
+  },
+  {
+    "uniprot": "A0A0H2XDR9",
+    "locus": "OIJFJHOI_02220"
+  },
+  {
+    "uniprot": "A0A6I3UYW1",
+    "locus": "OIJFJHOI_02221"
+  },
+  {
+    "uniprot": "A0AA86YBP6",
+    "locus": "OIJFJHOI_02223"
+  },
+  {
+    "uniprot": "A0A4J1NJ06",
+    "locus": "OIJFJHOI_02226"
+  },
+  {
+    "uniprot": "B1I9Z2",
+    "locus": "OIJFJHOI_02227"
+  },
+  {
+    "uniprot": "A0A0H2ZPJ9",
+    "locus": "OIJFJHOI_02228"
+  },
+  {
+    "uniprot": "B2INK4",
+    "locus": "OIJFJHOI_02229"
+  },
+  {
+    "uniprot": "Q04HZ0",
+    "locus": "OIJFJHOI_02230"
+  },
+  {
+    "uniprot": "A0A6G2DV20",
+    "locus": "OIJFJHOI_02231"
+  },
+  {
+    "uniprot": "B5E3S9",
+    "locus": "OIJFJHOI_02232"
+  },
+  {
+    "uniprot": "C1CBG5",
+    "locus": "OIJFJHOI_02233"
+  },
+  {
+    "uniprot": "F2WWL6",
+    "locus": "OIJFJHOI_02234"
+  },
+  {
+    "uniprot": "Q8DN04",
+    "locus": "OIJFJHOI_02235"
+  },
+  {
+    "uniprot": "A0A0B7LVS3",
+    "locus": "OIJFJHOI_02236"
+  },
+  {
+    "uniprot": "A0A0B7M3U6",
+    "locus": "OIJFJHOI_02237"
+  },
+  {
+    "uniprot": "A0A4J1Q2B9",
+    "locus": "OIJFJHOI_02238"
+  },
+  {
+    "uniprot": "C1CBH3",
+    "locus": "OIJFJHOI_02239"
+  },
+  {
+    "uniprot": "Q8DMZ8",
+    "locus": "OIJFJHOI_02240"
+  },
+  {
+    "uniprot": "Q8DMZ7",
+    "locus": "OIJFJHOI_02241"
+  },
+  {
+    "uniprot": "C1CHJ8",
+    "locus": "OIJFJHOI_02242"
+  },
+  {
+    "uniprot": "Q8DMZ5",
+    "locus": "OIJFJHOI_02243"
+  },
+  {
+    "uniprot": "B2INL9",
+    "locus": "OIJFJHOI_02245"
+  },
+  {
+    "uniprot": "Q8DMZ3",
+    "locus": "OIJFJHOI_02246"
+  },
+  {
+    "uniprot": "Q8DMZ2",
+    "locus": "OIJFJHOI_02247"
+  },
+  {
+    "uniprot": "Q04HX2",
+    "locus": "OIJFJHOI_02248"
+  },
+  {
+    "uniprot": "C1CHK4",
+    "locus": "OIJFJHOI_02249"
+  },
+  {
+    "uniprot": "Q8DMZ0",
+    "locus": "OIJFJHOI_02250"
+  },
+  {
+    "uniprot": "A0A4J1V8N3",
+    "locus": "OIJFJHOI_02251"
+  },
+  {
+    "uniprot": "A0AAD2IK03",
+    "locus": "OIJFJHOI_02252"
+  },
+  {
+    "uniprot": "A0AA95DD47",
+    "locus": "OIJFJHOI_02253"
+  },
+  {
+    "uniprot": "Q8DMY8",
+    "locus": "OIJFJHOI_02254"
+  },
+  {
+    "uniprot": "A0A0T7JR70",
+    "locus": "OIJFJHOI_02255"
+  },
+  {
+    "uniprot": "A0A0H2XDT2",
+    "locus": "OIJFJHOI_02256"
+  },
+  {
+    "uniprot": "Q04HW4",
+    "locus": "OIJFJHOI_02258"
+  },
+  {
+    "uniprot": "C1CUD2",
+    "locus": "OIJFJHOI_02259"
+  },
+  {
+    "uniprot": "C1CHL5",
+    "locus": "OIJFJHOI_02260"
+  },
+  {
+    "uniprot": "C1CHL6",
+    "locus": "OIJFJHOI_02261"
+  },
+  {
+    "uniprot": "A0AA36PYX2",
+    "locus": "OIJFJHOI_02262"
+  },
+  {
+    "uniprot": "Q8DMY1",
+    "locus": "OIJFJHOI_02263"
+  },
+  {
+    "uniprot": "A0A0B7LWS7",
+    "locus": "OIJFJHOI_02264"
+  },
+  {
+    "uniprot": "C1CHM0",
+    "locus": "OIJFJHOI_02265"
+  },
+  {
+    "uniprot": "Q8DMX8",
+    "locus": "OIJFJHOI_02266"
+  },
+  {
+    "uniprot": "C1CBK0",
+    "locus": "OIJFJHOI_02267"
+  },
+  {
+    "uniprot": "A0A4J1Z9Q4",
+    "locus": "OIJFJHOI_02268"
+  },
+  {
+    "uniprot": "A0A064BXD9",
+    "locus": "OIJFJHOI_02269"
+  },
+  {
+    "uniprot": "Q8DMX4",
+    "locus": "OIJFJHOI_02270"
+  },
+  {
+    "uniprot": "Q97N44",
+    "locus": "OIJFJHOI_02271"
+  },
+  {
+    "uniprot": "Q8DMX2",
+    "locus": "OIJFJHOI_02272"
+  },
+  {
+    "uniprot": "C1CHM8",
+    "locus": "OIJFJHOI_02273"
+  },
+  {
+    "uniprot": "Q8DMX1",
+    "locus": "OIJFJHOI_02274"
+  },
+  {
+    "uniprot": "A0A0E8Z3G5",
+    "locus": "OIJFJHOI_02275"
+  },
+  {
+    "uniprot": "A0A4J2GDW5",
+    "locus": "OIJFJHOI_02276"
+  },
+  {
+    "uniprot": "A0AA95IJZ2",
+    "locus": "OIJFJHOI_02277"
+  },
+  {
+    "uniprot": "A0A064C567",
+    "locus": "OIJFJHOI_02278"
+  },
+  {
+    "uniprot": "C1CDJ6",
+    "locus": "OIJFJHOI_02279"
+  },
+  {
+    "uniprot": "A0A4J1URD3",
+    "locus": "OIJFJHOI_02280"
+  },
+  {
+    "uniprot": "Q8DMW7",
+    "locus": "OIJFJHOI_02281"
+  },
+  {
+    "uniprot": "Q8DMW6",
+    "locus": "OIJFJHOI_02282"
+  },
+  {
+    "uniprot": "Q8DMW5",
+    "locus": "OIJFJHOI_02285"
+  },
+  {
+    "uniprot": "Q8DMW4",
+    "locus": "OIJFJHOI_02286"
+  },
+  {
+    "uniprot": "Q5QIA8",
+    "locus": "OIJFJHOI_02287"
+  },
+  {
+    "uniprot": "Q04HU2",
+    "locus": "OIJFJHOI_02289"
+  },
+  {
+    "uniprot": "B2IP00",
+    "locus": "OIJFJHOI_02290"
+  },
+  {
+    "uniprot": "Q8DMW1",
+    "locus": "OIJFJHOI_02291"
+  },
+  {
+    "uniprot": "O08397",
+    "locus": "OIJFJHOI_02292"
+  },
+  {
+    "uniprot": "A0A4M3JGA0",
+    "locus": "OIJFJHOI_02293"
+  }
+]

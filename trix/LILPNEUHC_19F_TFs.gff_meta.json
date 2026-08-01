@@ -1,5 +1,5 @@
 {
-  "dateCreated": "2026-07-10T06:59:13.153Z",
+  "dateCreated": "2026-08-01T17:13:01.718Z",
   "tracks": [
     {
       "trackId": "LILPNEUHC_19F_TFs.gff",
@@ -7,7 +7,6 @@
         "Name"
       ],
       "excludedTypes": [
-        "CDS",
         "exon",
         "id"
       ],

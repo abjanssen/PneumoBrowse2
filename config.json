@@ -30,6 +30,12 @@
   },
   "plugins": [
     {
+      "name": "URLNavigationPlugin",
+      "umdLoc": {
+        "uri": "plugins/URLNavigationPlugin.js"
+      }
+    },
+    {
       "name": "MsaView",
       "umdLoc": {
         "uri": "plugins/jbrowse-plugin-msaview.umd.production.min.js"
@@ -25892,7 +25898,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse (v2.5.11)",
+    "name": "PneumoBrowse (v2.5.12)",
     "margin": 0,
     "views": [
       {

@@ -1,5 +1,5 @@
 {
-  "dateCreated": "2026-07-10T06:59:00.328Z",
+  "dateCreated": "2026-08-01T17:12:49.487Z",
   "tracks": [
     {
       "trackId": "DCC1476_sorted.gff",
@@ -9,7 +9,6 @@
         "locus_tag"
       ],
       "excludedTypes": [
-        "CDS",
         "exon",
         "id"
       ],

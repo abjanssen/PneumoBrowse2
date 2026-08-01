@@ -1,5 +1,5 @@
 {
-  "dateCreated": "2026-07-10T06:59:16.873Z",
+  "dateCreated": "2026-08-01T17:13:04.892Z",
   "tracks": [
     {
       "trackId": "R1501_sorted.gff",
@@ -9,7 +9,6 @@
         "locus_tag"
       ],
       "excludedTypes": [
-        "CDS",
         "exon",
         "id"
       ],
