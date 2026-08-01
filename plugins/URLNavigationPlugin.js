@@ -384,6 +384,20 @@
             }
           }
 
+          // If the hierarchical track selector panel is already open, make
+          // sure it's showing the track list for the assembly/view being
+          // navigated to, rather than whatever view it was last opened for.
+          // We don't force it open if it's currently closed.
+          const existingTrackSelector = session.widgets?.get?.(
+            'hierarchicalTrackSelector',
+          )
+
+          if (existingTrackSelector && existingTrackSelector.view !== view) {
+            if (typeof view.activateTrackSelector === 'function') {
+              view.activateTrackSelector()
+            }
+          }
+
           await when(() => view.initialized)
 
           await when(() => {
