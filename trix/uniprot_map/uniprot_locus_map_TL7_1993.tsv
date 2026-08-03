@@ -1,0 +1,2456 @@
+strain	locus_tag	uniprot	product
+TL7_1993	EOOINEPP_00001	A0A064C0A0	hypothetical protein
+TL7_1993	EOOINEPP_00002	A0A0T8QXT5	hypothetical protein
+TL7_1993	EOOINEPP_00003	A0A098AMZ1	hypothetical protein
+TL7_1993	EOOINEPP_00004	A0A098AMZ9	hypothetical protein
+TL7_1993	EOOINEPP_00005	A0A098AN29	hypothetical protein
+TL7_1993	EOOINEPP_00006	A0A098APF8	hypothetical protein
+TL7_1993	EOOINEPP_00007	A0A098AMY4	hypothetical protein
+TL7_1993	EOOINEPP_00008	A0A064BWT4	hypothetical protein
+TL7_1993	EOOINEPP_00009	A0A380LRG2	hypothetical protein
+TL7_1993	EOOINEPP_00010	A0A098AMZ7	hypothetical protein
+TL7_1993	EOOINEPP_00011	A0A098AN24	hypothetical protein
+TL7_1993	EOOINEPP_00012	A0A098AN19	hypothetical protein
+TL7_1993	EOOINEPP_00013	A0A098APF1	hypothetical protein
+TL7_1993	EOOINEPP_00014	A0A098AMY5	hypothetical protein
+TL7_1993	EOOINEPP_00015	A0A098AMZ2	hypothetical protein
+TL7_1993	EOOINEPP_00016	A0A098AN20	hypothetical protein
+TL7_1993	EOOINEPP_00017	A0A0U0FAH0	hypothetical protein
+TL7_1993	EOOINEPP_00018	A0A098AN70	hypothetical protein
+TL7_1993	EOOINEPP_00019	A0A380LRH1	Hypothetical protein
+TL7_1993	EOOINEPP_00020	O06672	DNA polymerase III beta subunit
+TL7_1993	EOOINEPP_00021	O08397	Chromosomal replication initiator protein DnaA
+TL7_1993	EOOINEPP_00022	Q8DMW1	Chromosome partitioning protein ParB
+TL7_1993	EOOINEPP_00023	B2IP00	Serine protease%2C DegP/HtrA
+TL7_1993	EOOINEPP_00024	Q04HU2	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
+TL7_1993	EOOINEPP_00025		tRNA-Arg(tct)
+TL7_1993	EOOINEPP_00025		
+TL7_1993	EOOINEPP_00026	Q5QIA8	Competence-stimulating peptide precursor ComC
+TL7_1993	EOOINEPP_00027	Q8DMW4	Two-component system sensor histidine kinase ComD
+TL7_1993	EOOINEPP_00028	Q8DMW5	Two-component system response regulator ComE
+TL7_1993	EOOINEPP_00029		tRNA-Glu(ttc)
+TL7_1993	EOOINEPP_00029		
+TL7_1993	EOOINEPP_00030		tRNA-Asn(gtt)
+TL7_1993	EOOINEPP_00030		
+TL7_1993	EOOINEPP_00031	Q8DMW6	Transcriptional regulator%2C AcrR family
+TL7_1993	EOOINEPP_00032	B2INQ0	hypothetical protein
+TL7_1993	EOOINEPP_00033	A0AA86MJL5	hypothetical protein
+TL7_1993	EOOINEPP_00034	A0A4J1N6I8	ABC transporter%2C permease protein
+TL7_1993	EOOINEPP_00035	C1CHM9	ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00036	A0AA86JBL7	Tryptophanyl-tRNA synthetase
+TL7_1993	EOOINEPP_00037	Q8DMX2	Inosine-5'-monophosphate dehydrogenase
+TL7_1993	EOOINEPP_00038	A0AA86JRZ5	DNA recombination and repair protein RecF
+TL7_1993	EOOINEPP_00039	A0A0I5S5P0	Hypothetical protein
+TL7_1993	EOOINEPP_00040	A0AA86J9T4	Zinc protease
+TL7_1993	EOOINEPP_00041	B2INP1	Peptidase%2C M16 family
+TL7_1993	EOOINEPP_00042	C1CBK0	Transcriptional regulator
+TL7_1993	EOOINEPP_00043	Q8DMX8	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+TL7_1993	EOOINEPP_00044	A0AA86JKT2	ATPase component of general energizing module of ECF transporter
+TL7_1993	EOOINEPP_00045	Q97N51	ATPase component of general energizing module of ECF transporter
+TL7_1993	EOOINEPP_00046	Q8DMY1	Transmembrane component of general energizing module of ECF transporter
+TL7_1993	EOOINEPP_00047	C1CHL7	Cell shape-determining protein MreC
+TL7_1993	EOOINEPP_00048	C1CHL6	Cell shape-determining protein MreD
+TL7_1993	EOOINEPP_00049	A0A0B7LER3	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
+TL7_1993	EOOINEPP_00050	C1CUD2	SSU ribosomal protein S2p (SAe)
+TL7_1993	EOOINEPP_00051	C1CBJ1	Translation elongation factor Ts
+TL7_1993	EOOINEPP_00052		SpF51_sRNA
+TL7_1993	EOOINEPP_00052		
+TL7_1993	EOOINEPP_00053	A0AA86JVX4	IS630 family transposase ISSpn2
+TL7_1993	EOOINEPP_00054	A0A0T7JR70	hypothetical protein
+TL7_1993	EOOINEPP_00055	C1CBI7	Cysteine synthase
+TL7_1993	EOOINEPP_00056	B1IAC5	Protein co-occurring with transport systems
+TL7_1993	EOOINEPP_00057	A0AA86JIM6	DNA transporter ATPase%2C ComF operon protein A
+TL7_1993	EOOINEPP_00058	C1CBI4	Phosphoribosyltransferase domain protein%2C ComF operon protein C
+TL7_1993	EOOINEPP_00059	C1CHK5	Ribosome hibernation promotion factor%2C long form
+TL7_1993	EOOINEPP_00060	A0AA86J9X4	DHH family phosphoesterase Pde1
+TL7_1993	EOOINEPP_00061	Q04HX2	LSU ribosomal protein L9p
+TL7_1993	EOOINEPP_00062	Q8DMZ2	Replicative DNA helicase DnaC
+TL7_1993	EOOINEPP_00063	Q8DMZ3	Hypothetical protein
+TL7_1993	EOOINEPP_00064	A0AA86JUE5	Choline-binding protein D
+TL7_1993	EOOINEPP_00065		TPP
+TL7_1993	EOOINEPP_00065		
+TL7_1993	EOOINEPP_00066	B1IA12	Cytoplasmic thiamin-binding component of thiamin ABC transporter
+TL7_1993	EOOINEPP_00067	B1IA11	Thiamin ABC transporter ThiX%2C transmembrane component
+TL7_1993	EOOINEPP_00068	Q8DMZ7	Thiamin ABC transporter ThiY%2C substrate-binding component
+TL7_1993	EOOINEPP_00069	Q8DMZ8	Thiamin ABC transporter ThiZ%2C ATPase component
+TL7_1993	EOOINEPP_00070	C1CHJ5	Transcriptional regulator CtsR
+TL7_1993	EOOINEPP_00071	A0A4J2F7U4	ATP-dependent Clp protease ATP-binding subunit ClpC
+TL7_1993	EOOINEPP_00072	A0A0B7M3U6	Two-component system response regulator
+TL7_1993	EOOINEPP_00073	A2T3V7	Two-component system sensor histidine kinase
+TL7_1993	EOOINEPP_00074	A0A0U0F393	Rhomboid family integral membrane protein
+TL7_1993	EOOINEPP_00075	F2WWM3	Choline-binding protein A
+TL7_1993	EOOINEPP_00076	C1CHI9	tRNA dihydrouridine synthase B
+TL7_1993	EOOINEPP_00077	Q04HY8	Chaperonin%2C heat shock protein 33
+TL7_1993	EOOINEPP_00078	A0A9P1LP27	Trans-acting positive regulator
+TL7_1993	EOOINEPP_00079	B8ZQ22	Glycerol kinase
+TL7_1993	EOOINEPP_00080	A0A0U0JAN3	Alpha-glycerophosphate oxidase
+TL7_1993	EOOINEPP_00081	A0AAD2Q881	Glycerol uptake facilitator protein
+TL7_1993	EOOINEPP_00082	B1I9Z2	Hypothetical protein
+TL7_1993	EOOINEPP_00083	A0A4J1NJ06	hypothetical protein
+TL7_1993	EOOINEPP_00084		group-II-D1D4-3
+TL7_1993	EOOINEPP_00084		
+TL7_1993	EOOINEPP_00085		group-II-D1D4-1
+TL7_1993	EOOINEPP_00085		
+TL7_1993	EOOINEPP_00086	Q8DN09	hypothetical protein
+TL7_1993	EOOINEPP_00087	A0A822QAK2	hypothetical protein
+TL7_1993	EOOINEPP_00088	A0A0B7L8Y7	Macrolide-efflux protein
+TL7_1993	EOOINEPP_00089	A0A0B7LDU8	Macrolide-efflux protein
+TL7_1993	EOOINEPP_00090	A0AA86JCL4	D-alanine--poly(phosphoribitol) ligase subunit 1
+TL7_1993	EOOINEPP_00091	A0A0B7L8I4	D-alanyl transfer protein DltB
+TL7_1993	EOOINEPP_00092	Q04HZ9	D-alanine--poly(phosphoribitol) ligase subunit 2
+TL7_1993	EOOINEPP_00093	B1I9Y5	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+TL7_1993	EOOINEPP_00094	Q8DN14	Transcriptional repressor AdcR for Zn(2+)-responsive expression
+TL7_1993	EOOINEPP_00095	B2INJ0	Zinc ABC transporter%2C ATP-binding protein AdcC
+TL7_1993	EOOINEPP_00096	A0A0U0GQW9	Zinc ABC transporter%2C permease protein AdcB
+TL7_1993	EOOINEPP_00097	A0AA86J9Q5	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
+TL7_1993	EOOINEPP_00098		SpF66_sRNA
+TL7_1993	EOOINEPP_00098		
+TL7_1993	EOOINEPP_00099		SpF66_sRNA
+TL7_1993	EOOINEPP_00099		
+TL7_1993	EOOINEPP_00100	A0A0B7LC33	L-fucose operon activator
+TL7_1993	EOOINEPP_00101	A0A4J2BSX0	L-fuculokinase
+TL7_1993	EOOINEPP_00102	A0A558TAT7	L-fuculose phosphate aldolase
+TL7_1993	EOOINEPP_00103	A0A4J2G0L9	L-fucose mutarotase
+TL7_1993	EOOINEPP_00104	A0A0H2US10	L-fucose mutarotase
+TL7_1993	EOOINEPP_00105	B1I9X4	PTS IIA component
+TL7_1993	EOOINEPP_00106	C1CHG2	PTS IIB component
+TL7_1993	EOOINEPP_00107	Q8DN21	Mannose-specific PTS IIC component
+TL7_1993	EOOINEPP_00108	Q8DN22	Mannose-specific PTS IID component
+TL7_1993	EOOINEPP_00109	C1CHF9	Putative large secreted protein
+TL7_1993	EOOINEPP_00110	C1CHF8	Fucolectin-related protein
+TL7_1993	EOOINEPP_00111	A0AA86J7Z5	Bifunctional L-fucose isomerase/D-arabinose ketol-isomerase
+TL7_1993	EOOINEPP_00112	A0A0E7XIU7	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization
+TL7_1993	EOOINEPP_00113	Q8DN26	Putative stomatin/prohibitin-family membrane protease subunit YbbK
+TL7_1993	EOOINEPP_00114	A0AA86JUH0	hypothetical protein
+TL7_1993	EOOINEPP_00115	A0AA86J9R5	Putative Xaa-His dipeptidase
+TL7_1993	EOOINEPP_00116	Q8CLX6	Arginine/ornithine antiporter ArcD
+TL7_1993	EOOINEPP_00117	Q8DN28	Carbamate kinase
+TL7_1993	EOOINEPP_00118	A0A0B7LE02	Ornithine carbamoyltransferase
+TL7_1993	EOOINEPP_00119	A0A0U0ATW4	Arginine deiminase
+TL7_1993	EOOINEPP_00120	A0AA86MFM4	Glycosyl hydrolase family 29 alpha-L-fucosidase
+TL7_1993	EOOINEPP_00121	A0AA86MBT3	Alpha-1%2C2-mannosidase
+TL7_1993	EOOINEPP_00122	A0AA86JIQ6	Hypothetical protein
+TL7_1993	EOOINEPP_00123	A0A4J2BSQ6	Alpha-mannosidase
+TL7_1993	EOOINEPP_00124	A0AA86J8P4	N-acetylmannosamine kinase
+TL7_1993	EOOINEPP_00125	A0A0E8ZGT0	Glycosyl hydrolase-related protein
+TL7_1993	EOOINEPP_00126	A0A0H2US30	hypothetical protein
+TL7_1993	EOOINEPP_00127	Q8CY66	hypothetical protein
+TL7_1993	EOOINEPP_00128	A0AA86JQC8	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_00129	A0A4H9G1D8	IS1381 transposase OrfA
+TL7_1993	EOOINEPP_00130	A0AA86MJ43	hypothetical protein
+TL7_1993	EOOINEPP_00131	A0AA86MK33	Choline-binding protein CbpN
+TL7_1993	EOOINEPP_00132	Q04I36	LSU ribosomal protein L33p
+TL7_1993	EOOINEPP_00133	A0A0E8Z1I8	LSU ribosomal protein L32p
+TL7_1993	EOOINEPP_00134	Q8CY67	Hypothetical protein
+TL7_1993	EOOINEPP_00135	A0AA86JR35	Membrane protease family protein
+TL7_1993	EOOINEPP_00136	A0AA86JHR3	Transcription antiterminator%2C BglG family
+TL7_1993	EOOINEPP_00137	Q8CY69	Putative PTS IIB component
+TL7_1993	EOOINEPP_00138	Q8DN40	Putative transport protein SgaT
+TL7_1993	EOOINEPP_00139	B2IN54	hypothetical protein
+TL7_1993	EOOINEPP_00140	C1CAX2	hypothetical protein
+TL7_1993	EOOINEPP_00141	C1CNA5	Dihydroxy-acid dehydratase
+TL7_1993	EOOINEPP_00142	A0A4J1NYI3	Hypothetical protein
+TL7_1993	EOOINEPP_00143	C1CH57	Putative aromatic ring hydroxylating enzyme
+TL7_1993	EOOINEPP_00144	A0A0I6MXJ4	Positive transcriptional regulator%2C MutR family
+TL7_1993	EOOINEPP_00145	A0A0I6MX68	Macrolide-efflux protein
+TL7_1993	EOOINEPP_00146	A0A0I6DYZ4	Histidyl-tRNA synthetase
+TL7_1993	EOOINEPP_00147	A0A237K072	Hypothetical protein
+TL7_1993	EOOINEPP_00148	Q8DN47	Transcriptional regulator%2C Cro/CI family
+TL7_1993	EOOINEPP_00149	B2IN37	Hypothetical protein
+TL7_1993	EOOINEPP_00150	A0AA86JR27	Hypothetical protein
+TL7_1993	EOOINEPP_00151	A0A0T7NJF4	Membrane-bound protease%2C CAAX family
+TL7_1993	EOOINEPP_00152	Q8CY74	Hypothetical protein
+TL7_1993	EOOINEPP_00153	A0AA86JAL1	Hypothetical protein
+TL7_1993	EOOINEPP_00154	A0AA86J9I2	Aspartyl-tRNA synthetase
+TL7_1993	EOOINEPP_00155	A0A0U0DZ93	Integral membrane protein
+TL7_1993	EOOINEPP_00156	A0AA86JJK3	hypothetical protein
+TL7_1993	EOOINEPP_00157	C1CH41	Maltose operon transcriptional repressor MalR%2C LacI family
+TL7_1993	EOOINEPP_00158	A0A0B7LGJ4	Maltodextrose utilization protein MalA
+TL7_1993	EOOINEPP_00159	C1CH39	Maltose/maltodextrin ABC transporter%2C permease protein MalD
+TL7_1993	EOOINEPP_00160	P0A4N2	Maltose/maltodextrin ABC transporter%2C permease protein MalC
+TL7_1993	EOOINEPP_00161	A0A4I7EEA0	Maltose/maltodextrin ABC transporter%2C substrate binding periplasmic protein MalX
+TL7_1993	EOOINEPP_00162	P0A3Q1	4-alpha-glucanotransferase (amylomaltase)
+TL7_1993	EOOINEPP_00163	A0A0E8ZIY9	Maltodextrin phosphorylase
+TL7_1993	EOOINEPP_00164	C1CH34	Hypothetical protein
+TL7_1993	EOOINEPP_00165	A0A0T9GRM9	Hypothetical protein
+TL7_1993	EOOINEPP_00166	A0AA86JHP0	23S rRNA (guanine(745)-N(1))-methyltransferase
+TL7_1993	EOOINEPP_00167	Q8CY77	Hypothetical protein
+TL7_1993	EOOINEPP_00168	B2IN19	Lead%2C cadmium%2C zinc and mercury transporting ATPase
+TL7_1993	EOOINEPP_00169	A0A0U0FQH3	Tyrosyl-tRNA synthetase
+TL7_1993	EOOINEPP_00170	A0A0U0FR10	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1B
+TL7_1993	EOOINEPP_00171	Q8DN53	Drug/metabolite transporter superfamily permease
+TL7_1993	EOOINEPP_00172	Q8DN54	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+TL7_1993	EOOINEPP_00173	B2IN14	N-acetyl-L%2CL-diaminopimelate deacetylase
+TL7_1993	EOOINEPP_00174	A0AA86MP44	5-formyltetrahydrofolate cyclo-ligase
+TL7_1993	EOOINEPP_00175	Q8DN57	Rhomboid family serine protease
+TL7_1993	EOOINEPP_00176	A0AA86MK16	UTP--glucose-1-phosphate uridylyltransferase
+TL7_1993	EOOINEPP_00177	Q8DN59	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+TL7_1993	EOOINEPP_00178	A0AA86JAG6	Transcriptional regulator
+TL7_1993	EOOINEPP_00179	B2IN08	IS1380 family transposase ISSpn5
+TL7_1993	EOOINEPP_00180	C1CAR6	Phosphate transport system regulatory protein PhoU1
+TL7_1993	EOOINEPP_00181	B2IN06	Phosphate transport ATP-binding protein PstB1
+TL7_1993	EOOINEPP_00182	Q9X4T2	Phosphate transport system permease protein PstA1
+TL7_1993	EOOINEPP_00183	B1I9F3	Phosphate transport system permease protein PstC1
+TL7_1993	EOOINEPP_00184	A0AA86J9G4	Phosphate ABC transporter periplasmic phosphate-binding protein PstS1
+TL7_1993	EOOINEPP_00185	Q9S1J5	Two-component system sensor histidine kinase PnpS
+TL7_1993	EOOINEPP_00186	Q9S1J6	Two-component system response regulator PnpR
+TL7_1993	EOOINEPP_00187	A0A0T8C5H8	Putative cupin superfamily protein
+TL7_1993	EOOINEPP_00188	B2IPT3	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_00189	Q8DN69	Arginyl-tRNA synthetase
+TL7_1993	EOOINEPP_00190	P0A2Y3	Arginine pathway regulatory protein ArgR1
+TL7_1993	EOOINEPP_00191		SpR10_sRNA
+TL7_1993	EOOINEPP_00191		
+TL7_1993	EOOINEPP_00192	C8XPW7	DNA mismatch repair protein HexA
+TL7_1993	EOOINEPP_00193		patAB
+TL7_1993	EOOINEPP_00193		
+TL7_1993	EOOINEPP_00194	A0A0B7LCV4	Multidrug resistance ABC transporter ATP-binding and permease protein
+TL7_1993	EOOINEPP_00195	A0AA86MPT8	hypothetical protein
+TL7_1993	EOOINEPP_00196	A0A0B7M9F3	Multidrug resistance ABC transporter ATP-binding and permease protein
+TL7_1993	EOOINEPP_00197	C1CH02	Glutamine amidotransferase%2C class I
+TL7_1993	EOOINEPP_00198	C1CH00	Glucose-6-phosphate isomerase
+TL7_1993	EOOINEPP_00199	C1CGZ9	Glutamyl-tRNA synthetase
+TL7_1993	EOOINEPP_00200	C1CGZ8	Cytidine/deoxycytidylate deaminase family protein
+TL7_1993	EOOINEPP_00201		tRNA-Glu(ttc)
+TL7_1993	EOOINEPP_00201		
+TL7_1993	EOOINEPP_00202		16S ribosomal RNA
+TL7_1993	EOOINEPP_00202		
+TL7_1993	EOOINEPP_00203		tRNA-Ala(tgc)
+TL7_1993	EOOINEPP_00203		
+TL7_1993	EOOINEPP_00204		23S ribosomal RNA
+TL7_1993	EOOINEPP_00204		
+TL7_1993	EOOINEPP_00205		5S ribosomal RNA
+TL7_1993	EOOINEPP_00205		
+TL7_1993	EOOINEPP_00206		tRNA-Val(tac)
+TL7_1993	EOOINEPP_00206		
+TL7_1993	EOOINEPP_00207		tRNA-Gly(tcc)
+TL7_1993	EOOINEPP_00207		
+TL7_1993	EOOINEPP_00208		tRNA-Ile(gat)
+TL7_1993	EOOINEPP_00208		
+TL7_1993	EOOINEPP_00209		tRNA-Ser(tga)
+TL7_1993	EOOINEPP_00209		
+TL7_1993	EOOINEPP_00210		tRNA-Met(cat)
+TL7_1993	EOOINEPP_00210		
+TL7_1993	EOOINEPP_00211		tRNA-Phe(gaa)
+TL7_1993	EOOINEPP_00211		
+TL7_1993	EOOINEPP_00212		tRNA-Tyr(gta)
+TL7_1993	EOOINEPP_00212		
+TL7_1993	EOOINEPP_00213		tRNA-Trp(cca)
+TL7_1993	EOOINEPP_00213		
+TL7_1993	EOOINEPP_00214		tRNA-His(gtg)
+TL7_1993	EOOINEPP_00214		
+TL7_1993	EOOINEPP_00215		tRNA-Gln(ttg)
+TL7_1993	EOOINEPP_00215		
+TL7_1993	EOOINEPP_00216		tRNA-Leu(caa)
+TL7_1993	EOOINEPP_00216		
+TL7_1993	EOOINEPP_00217	A0A0T8B533	Hypothetical protein
+TL7_1993	EOOINEPP_00218	A0A380LNX4	Threonine synthase
+TL7_1993	EOOINEPP_00219	C1CGZ5	Multi antimicrobial extrusion family transporter
+TL7_1993	EOOINEPP_00220	Q8CY81	Hydrolase%2C haloacid dehalogenase-like family
+TL7_1993	EOOINEPP_00221	A0A380LQN4	Surface immunogenic protein
+TL7_1993	EOOINEPP_00222	A0A0T8B5A8	hypothetical protein
+TL7_1993	EOOINEPP_00223	A0A0E8SXT7	hypothetical protein
+TL7_1993	EOOINEPP_00224	A0A0U0H3G0	Hypothetical protein
+TL7_1993	EOOINEPP_00225	A0AA86JEQ0	Pyrrolidone-carboxylate peptidase
+TL7_1993	EOOINEPP_00226	A0A6G2DAS0	Pyrrolidone-carboxylate peptidase
+TL7_1993	EOOINEPP_00227	C1CGY9	Membrane protein
+TL7_1993	EOOINEPP_00228	A0AA86JA16	tRNA-guanine transglycosylase
+TL7_1993	EOOINEPP_00229	A0AA86JJ25	Acyltransferase family protein
+TL7_1993	EOOINEPP_00230	B2IMN1	N-acetylglucosamine-6-phosphate deacetylase
+TL7_1993	EOOINEPP_00231	Q8DN84	Putative Zn-dependent alcohol dehydrogenase
+TL7_1993	EOOINEPP_00232	Q8DN85	DNA-binding protein
+TL7_1993	EOOINEPP_00233	A0A0U0EVJ1	Late competence protein ComGA
+TL7_1993	EOOINEPP_00234	A0A4J1SC29	Late competence protein ComGB
+TL7_1993	EOOINEPP_00235	C1CA98	Late competence protein ComGC
+TL7_1993	EOOINEPP_00236	A0A654UAX8	Late competence protein ComGD
+TL7_1993	EOOINEPP_00237	A0A0B7KTY0	Late competence protein ComGE
+TL7_1993	EOOINEPP_00238	A0A0B7L3P1	Late competence protein ComGF
+TL7_1993	EOOINEPP_00239	A0A4J2BTN4	Late competence protein ComGG
+TL7_1993	EOOINEPP_00240	Q8CY86	hypothetical protein
+TL7_1993	EOOINEPP_00241	B1I9A1	Adenine-specific methyltransferase
+TL7_1993	EOOINEPP_00242	A0A0B7LXB8	Acetate kinase
+TL7_1993	EOOINEPP_00243	Q8DN92	Ribonuclease P protein component
+TL7_1993	EOOINEPP_00244	B2IML5	Inner membrane protein translocase component YidC2
+TL7_1993	EOOINEPP_00245	B2IML4	KH domain RNA-binding protein
+TL7_1993	EOOINEPP_00246	A0A0T8SDC0	Sakacin A production response regulator
+TL7_1993	EOOINEPP_00247	C1CGW8	Ascorbate-specific PTS IIC component
+TL7_1993	EOOINEPP_00248	Q8DN95	Ascorbate-specific PTS IIB component
+TL7_1993	EOOINEPP_00249	B1I992	Ascorbate-specific PTS IIA component
+TL7_1993	EOOINEPP_00250	A0A0T8SD73	3-keto-L-gulonate 6-phosphate decarboxylase
+TL7_1993	EOOINEPP_00251	Q8DN98	L-xylulose 5-phosphate 3-epimerase
+TL7_1993	EOOINEPP_00252	A0A0E8ZPA5	L-ribulose-5-phosphate 4-epimerase
+TL7_1993	EOOINEPP_00253	A0A6I3VD74	Transcriptional antiterminator
+TL7_1993	EOOINEPP_00254	Q8DNA1	Putative L-ascorbate-6-phosphate lactonase UlaG
+TL7_1993	EOOINEPP_00255	C1CGW0	Transketolase
+TL7_1993	EOOINEPP_00256	Q8DNA3	Preprotein translocase subunit YajC
+TL7_1993	EOOINEPP_00257	Q8DNA4	Low molecular weight protein tyrosine phosphatase
+TL7_1993	EOOINEPP_00258	A0A0E8ZM70	Hypothetical protein
+TL7_1993	EOOINEPP_00259	C1CGV5	Bifunctional acetaldehyde dehydrogenase/alcohol dehydrogenase
+TL7_1993	EOOINEPP_00260	B2IMJ8	Cellobiose-specific PTS IIA component
+TL7_1993	EOOINEPP_00261	A0A2L1H0A2	Cellobiose-specific PTS IIB component
+TL7_1993	EOOINEPP_00262	Q8DNA8	Cellobiose-specific PTS IIC component
+TL7_1993	EOOINEPP_00263	A0AA86J9C7	6-phospho-beta-glucosidase
+TL7_1993	EOOINEPP_00264	Q8DNB0	Transcriptional regulator%2C GntR family
+TL7_1993	EOOINEPP_00265	A0A0H2XDB2	hypothetical protein
+TL7_1993	EOOINEPP_00266	C1CGU8	Malonate permease
+TL7_1993	EOOINEPP_00267	B2IMJ1	Quinolinate phosphoribosyltransferase
+TL7_1993	EOOINEPP_00268	A0A4J1VSX9	IS630 family transposase IS630-Spn1
+TL7_1993	EOOINEPP_00269	A0AA86MPK3	ABC transporter%2C permease protein
+TL7_1993	EOOINEPP_00270	Q8CWN6	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
+TL7_1993	EOOINEPP_00271	A0A0H2URZ7	RluD-like protein
+TL7_1993	EOOINEPP_00272	A0AA86JEQ7	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
+TL7_1993	EOOINEPP_00273	Q8DNB7	Protein translocase subunit SecE
+TL7_1993	EOOINEPP_00274	C1CGT9	Transcription antitermination protein NusG
+TL7_1993	EOOINEPP_00275	A0A0H2UMS0	Competence-specific sigma factor ComX
+TL7_1993	EOOINEPP_00276		tRNA-Glu(ttc)
+TL7_1993	EOOINEPP_00276		
+TL7_1993	EOOINEPP_00277		16S ribosomal RNA
+TL7_1993	EOOINEPP_00277		
+TL7_1993	EOOINEPP_00278		tRNA-Ala(tgc)
+TL7_1993	EOOINEPP_00278		
+TL7_1993	EOOINEPP_00279		23S ribosomal RNA
+TL7_1993	EOOINEPP_00279		
+TL7_1993	EOOINEPP_00280		5S ribosomal RNA
+TL7_1993	EOOINEPP_00280		
+TL7_1993	EOOINEPP_00281		tRNA-Val(tac)
+TL7_1993	EOOINEPP_00281		
+TL7_1993	EOOINEPP_00282		tRNA-Asp(gtc)
+TL7_1993	EOOINEPP_00282		
+TL7_1993	EOOINEPP_00283		tRNA-Lys(ttt)
+TL7_1993	EOOINEPP_00283		
+TL7_1993	EOOINEPP_00284		tRNA-Leu(tag)
+TL7_1993	EOOINEPP_00284		
+TL7_1993	EOOINEPP_00285		tRNA-Thr(tgt)
+TL7_1993	EOOINEPP_00285		
+TL7_1993	EOOINEPP_00286		tRNA-Gly(gcc)
+TL7_1993	EOOINEPP_00286		
+TL7_1993	EOOINEPP_00287		tRNA-Leu(taa)
+TL7_1993	EOOINEPP_00287		
+TL7_1993	EOOINEPP_00288		tRNA-Arg(acg)
+TL7_1993	EOOINEPP_00288		
+TL7_1993	EOOINEPP_00289		tRNA-Pro(tgg)
+TL7_1993	EOOINEPP_00289		
+TL7_1993	EOOINEPP_00290	C1CA51	Hypothetical protein
+TL7_1993	EOOINEPP_00291	A0A380LP39	Hypothetical protein
+TL7_1993	EOOINEPP_00292	A0AA86MFW3	ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00293	A0A0B7LZR8	ABC transporter%2C permease protein
+TL7_1993	EOOINEPP_00294	Q9S1I8	Two-component system sensor histidine kinase
+TL7_1993	EOOINEPP_00295	Q9S1I7	Two-component system response regulator
+TL7_1993	EOOINEPP_00296	C1CA45	Catabolite control protein A
+TL7_1993	EOOINEPP_00297	A0AA86JAG3	Hypothetical protein
+TL7_1993	EOOINEPP_00298	A0AA86J8G2	L-asparaginase
+TL7_1993	EOOINEPP_00299	C1CA42	Hydrolase%2C HAD superfamily
+TL7_1993	EOOINEPP_00300	C1CGS7	Universal stress protein family protein
+TL7_1993	EOOINEPP_00301	A0A0U0EM10	hypothetical protein
+TL7_1993	EOOINEPP_00302	C1CGS5	Alanine transaminase
+TL7_1993	EOOINEPP_00303	Q04IH6	LSU ribosomal protein L34p
+TL7_1993	EOOINEPP_00304	A0AA86XN69	hypothetical protein
+TL7_1993	EOOINEPP_00305	A0AA86MJ12	Cell wall surface anchor family protein
+TL7_1993	EOOINEPP_00306	A0AA86MP00	Putative deoxyribonuclease TatD
+TL7_1993	EOOINEPP_00307	C1CGS1	Ribonuclease M5
+TL7_1993	EOOINEPP_00308	A0AA86MC15	Transcriptional regulator
+TL7_1993	EOOINEPP_00309	B2IM57	Hypothetical protein
+TL7_1993	EOOINEPP_00310	A0AA86JDC5	Putative immunity protein
+TL7_1993	EOOINEPP_00311	Q8DND2	ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00312	Q8CY94	Hypothetical protein
+TL7_1993	EOOINEPP_00313	Q97NN5	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase
+TL7_1993	EOOINEPP_00314	A0A380LP92	Ribosome small subunit-stimulated GTPase RsgA
+TL7_1993	EOOINEPP_00315	B2IM65	Ribulose-phosphate 3-epimerase
+TL7_1993	EOOINEPP_00316	A0AA86JUY5	Thiamin pyrophosphokinase
+TL7_1993	EOOINEPP_00317	A0AA86JAD5	DNA recombination protein RmuC
+TL7_1993	EOOINEPP_00318	C1CA24	3'->5' exoribonuclease YhaM
+TL7_1993	EOOINEPP_00319	C1CGQ9	PurR: transcription regulator associated with purine metabolism
+TL7_1993	EOOINEPP_00320	A0A380LP67	Diaminopimelate decarboxylase
+TL7_1993	EOOINEPP_00321	Q8DNE0	Pyruvate formate-lyase activating enzyme
+TL7_1993	EOOINEPP_00322	Q97NP5	Inner membrane protein translocase component YidC1
+TL7_1993	EOOINEPP_00323	A0AA86MC20	Putative nucleoside phosphatase
+TL7_1993	EOOINEPP_00324	A0A0T8MDD2	rRNA methylase
+TL7_1993	EOOINEPP_00325	C1CGQ4	Membrane protein
+TL7_1993	EOOINEPP_00326	Q97NQ0	Aspartate--ammonia ligase
+TL7_1993	EOOINEPP_00327	C1CGQ2	16S rRNA (guanine(966)-N(2))-methyltransferase
+TL7_1993	EOOINEPP_00328	B5E2G0	Phosphopantetheine adenylyltransferase
+TL7_1993	EOOINEPP_00329	A0A380LR41	Lon-like protease
+TL7_1993	EOOINEPP_00330	A0A380LP76	Hypothetical protein
+TL7_1993	EOOINEPP_00331	A0A380LR80	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+TL7_1993	EOOINEPP_00332	Q03159	Competence-associated EpuA protein
+TL7_1993	EOOINEPP_00333	A0A0B7L7Z9	DNA-entry nuclease
+TL7_1993	EOOINEPP_00334	B1I8R6	Putative hemolysin
+TL7_1993	EOOINEPP_00335		tRNA-Cys(gca)
+TL7_1993	EOOINEPP_00335		
+TL7_1993	EOOINEPP_00336		Lacto-rpoB
+TL7_1993	EOOINEPP_00336		
+TL7_1993	EOOINEPP_00337	A0A0B7LZ45	DNA-directed RNA polymerase beta subunit
+TL7_1993	EOOINEPP_00338	A0AA86MP25	DNA-directed RNA polymerase beta' subunit
+TL7_1993	EOOINEPP_00339	A0A0T7L482	Nucleoside diphosphate kinase
+TL7_1993	EOOINEPP_00340	A0A0B7LDE7	hypothetical protein
+TL7_1993	EOOINEPP_00341	Q8CY96	hypothetical protein
+TL7_1993	EOOINEPP_00342	C1CA02	ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00343	A0AA86J9F7	hypothetical protein
+TL7_1993	EOOINEPP_00344	A0AA86JAI9	Hypothetical protein
+TL7_1993	EOOINEPP_00345	A0AA86J8J6	Putative transcriptional regulator PlcR
+TL7_1993	EOOINEPP_00346	Q8CYA2	Immunity factor ComM
+TL7_1993	EOOINEPP_00347	Q8DNF8	TsaE protein%2C required for threonylcarbamoyladenosine t(6)A37 formation in tRNA
+TL7_1993	EOOINEPP_00348	A0AA86JV03	Acetyltransferase
+TL7_1993	EOOINEPP_00349	B2IM30	Transcriptional regulator LytR
+TL7_1993	EOOINEPP_00350	C1C9K9	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucleotide amidase
+TL7_1993	EOOINEPP_00351	C1CMP5	DNA recombination/repair protein RecA
+TL7_1993	EOOINEPP_00352	A0AA86MJ25	MATE efflux family protein DinF
+TL7_1993	EOOINEPP_00353	C1CGM2	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+TL7_1993	EOOINEPP_00354	A0AA86MFY0	hypothetical protein
+TL7_1993	EOOINEPP_00355	A0AA95DDF8	IS5 family transposase ISSpn7
+TL7_1993	EOOINEPP_00356	B1I8P1	hypothetical protein
+TL7_1993	EOOINEPP_00357	B1I8P0	Alpha-D-glucose 1-phosphate phosphatase YihX
+TL7_1993	EOOINEPP_00358	B1I8N9	Mg(2+)-transport-ATPase-associated protein MgtC
+TL7_1993	EOOINEPP_00359	A0A0B7LJG6	Iron(III)-transport system permease protein SfuB
+TL7_1993	EOOINEPP_00360	A0A0B7LBX8	ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00361	A0A0B7LIV1	ABC transporter%2C substrate-binding protein
+TL7_1993	EOOINEPP_00362	A0A0E7TWI5	hypothetical protein
+TL7_1993	EOOINEPP_00363	A0A0B7LRS0	hypothetical protein
+TL7_1993	EOOINEPP_00364	B2IM15	Hypothetical protein
+TL7_1993	EOOINEPP_00365	Q8CYB4	Hypothetical protein
+TL7_1993	EOOINEPP_00366	Q8CYB5	Hypothetical protein
+TL7_1993	EOOINEPP_00367	A4GRE7	Pneumolysin
+TL7_1993	EOOINEPP_00368	Q04IN9	Transcriptional regulatory protein YeeN
+TL7_1993	EOOINEPP_00369	A0AA86JBJ5	hypothetical protein
+TL7_1993	EOOINEPP_00370	A0AA86JVW9	Multidrug resistance ABC transporter ATP-binding and permease protein
+TL7_1993	EOOINEPP_00371	C1C9I8	putative ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_00372	Q8CYB6	Hypothetical protein
+TL7_1993	EOOINEPP_00373	A0A0B7L3A2	Phosphatidylglycerophosphatase B
+TL7_1993	EOOINEPP_00374	A0A0H2URK9	Response regulator of the LytR/AlgR family protein
+TL7_1993	EOOINEPP_00375	A0A0B7L9U4	Membrane protein
+TL7_1993	EOOINEPP_00376	Q8CYB9	Hypothetical protein
+TL7_1993	EOOINEPP_00377	A0A0B7MDH0	Thioredoxin
+TL7_1993	EOOINEPP_00378	A0AA86MCN5	Phenylalanyl-tRNA synthetase domain protein
+TL7_1993	EOOINEPP_00379	C1CGK0	Short-chain dehydrogenase
+TL7_1993	EOOINEPP_00380	A0A0E8PDH7	Single-stranded DNA-binding protein SsbB
+TL7_1993	EOOINEPP_00381	Q8VTM9	Heat shock protein 60 family co-chaperone GroES
+TL7_1993	EOOINEPP_00382	Q04IQ3	Heat shock protein 60 family chaperone GroEL
+TL7_1993	EOOINEPP_00383	C1CGD6	IS1167 transposase
+TL7_1993	EOOINEPP_00384	C1CGD5	IS1167 transposase
+TL7_1993	EOOINEPP_00385		Srn266
+TL7_1993	EOOINEPP_00385		
+TL7_1993	EOOINEPP_00386	Q8CYC0	Hypothetical protein
+TL7_1993	EOOINEPP_00387		Spy392987
+TL7_1993	EOOINEPP_00387		
+TL7_1993	EOOINEPP_00388	Q8DNH5	Cysteinyl-tRNA synthetase related protein
+TL7_1993	EOOINEPP_00389	A0A0E9GYL2	Regulatory protein RecX
+TL7_1993	EOOINEPP_00390	C1CGD1	RNA methyltransferase%2C TrmA family
+TL7_1993	EOOINEPP_00391		tRNA-Glu(ttc)
+TL7_1993	EOOINEPP_00391		
+TL7_1993	EOOINEPP_00392		16S ribosomal RNA
+TL7_1993	EOOINEPP_00392		
+TL7_1993	EOOINEPP_00393		tRNA-Ala(tgc)
+TL7_1993	EOOINEPP_00393		
+TL7_1993	EOOINEPP_00394		23S ribosomal RNA
+TL7_1993	EOOINEPP_00394		
+TL7_1993	EOOINEPP_00395		5S ribosomal RNA
+TL7_1993	EOOINEPP_00395		
+TL7_1993	EOOINEPP_00396		tRNA-Val(tac)
+TL7_1993	EOOINEPP_00396		
+TL7_1993	EOOINEPP_00397		tRNA-Asp(gtc)
+TL7_1993	EOOINEPP_00397		
+TL7_1993	EOOINEPP_00398		tRNA-Lys(ttt)
+TL7_1993	EOOINEPP_00398		
+TL7_1993	EOOINEPP_00399		tRNA-Leu(tag)
+TL7_1993	EOOINEPP_00399		
+TL7_1993	EOOINEPP_00400		tRNA-Thr(tgt)
+TL7_1993	EOOINEPP_00400		
+TL7_1993	EOOINEPP_00401		tRNA-Gly(gcc)
+TL7_1993	EOOINEPP_00401		
+TL7_1993	EOOINEPP_00402		tRNA-Leu(taa)
+TL7_1993	EOOINEPP_00402		
+TL7_1993	EOOINEPP_00403		tRNA-Arg(acg)
+TL7_1993	EOOINEPP_00403		
+TL7_1993	EOOINEPP_00404		tRNA-Pro(tgg)
+TL7_1993	EOOINEPP_00404		
+TL7_1993	EOOINEPP_00405		tRNA-Met(cat)
+TL7_1993	EOOINEPP_00405		
+TL7_1993	EOOINEPP_00406		tRNA-Met(cat)
+TL7_1993	EOOINEPP_00406		
+TL7_1993	EOOINEPP_00407		tRNA-Ser(tga)
+TL7_1993	EOOINEPP_00407		
+TL7_1993	EOOINEPP_00408		tRNA-Met(cat)
+TL7_1993	EOOINEPP_00408		
+TL7_1993	EOOINEPP_00409		tRNA-Phe(gaa)
+TL7_1993	EOOINEPP_00409		
+TL7_1993	EOOINEPP_00410		tRNA-Gly(tcc)
+TL7_1993	EOOINEPP_00410		
+TL7_1993	EOOINEPP_00411		tRNA-Ile(gat)
+TL7_1993	EOOINEPP_00411		
+TL7_1993	EOOINEPP_00412		tRNA-Ser(gct)
+TL7_1993	EOOINEPP_00412		
+TL7_1993	EOOINEPP_00413	C1C9G9	Bifunctional biotin operon repressor/Biotin--protein ligase
+TL7_1993	EOOINEPP_00414	A0A0B7MFI0	Multiple sugar metabolism operon regulatory protein MsmR
+TL7_1993	EOOINEPP_00415	A0AA86JB16	Alpha-galactosidase
+TL7_1993	EOOINEPP_00416	B2ISZ6	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
+TL7_1993	EOOINEPP_00417	C1C9G5	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmF
+TL7_1993	EOOINEPP_00418	A0AA86J6D1	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG
+TL7_1993	EOOINEPP_00419	A0AA86JFB0	Sucrose phosphorylase
+TL7_1993	EOOINEPP_00420	Q8CYC1	Wall teichoic acid biosynthesis protein RafX
+TL7_1993	EOOINEPP_00421	A0A0U0KSF7	Peptide ABC transporter substrate-binding protein AmiA
+TL7_1993	EOOINEPP_00422	C1C9F9	Peptide ABC transporter permease AmiC
+TL7_1993	EOOINEPP_00423	C1CGB7	Peptide ABC transporter permease AmiD
+TL7_1993	EOOINEPP_00424	B2ISY7	Peptide ABC transporter ATP-binding protein AmiE
+TL7_1993	EOOINEPP_00425	B1I896	Peptide ABC transporter ATP-binding protein AmiF
+TL7_1993	EOOINEPP_00426	A0AA86MML6	ABC transporter substrate-binding protein
+TL7_1993	EOOINEPP_00427	A0AA86MEU9	ABC transporter substrate-binding protein
+TL7_1993	EOOINEPP_00428	A0AA86MB69	hypothetical protein
+TL7_1993	EOOINEPP_00429	A0AA86JGZ0	Putative tryptophan-specific ABC transporter permease protein TrpY
+TL7_1993	EOOINEPP_00430	A0AA86JB29	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_00431	Q8DNI5	Trehalose operon transcriptional repressor
+TL7_1993	EOOINEPP_00432	A0AA86J8D9	Trehalose-specific PTS IIBCA components
+TL7_1993	EOOINEPP_00433	A0AA86J6G1	Trehalose-6-phosphate hydrolase
+TL7_1993	EOOINEPP_00434	B2ISY0	Hypothetical protein
+TL7_1993	EOOINEPP_00435	Q04IS7	Glutamate racemase
+TL7_1993	EOOINEPP_00436	B2ISX8	Nucleoside 5-triphosphatase RdgB (dHAPTP%2C dITP%2C XTP-specific)
+TL7_1993	EOOINEPP_00437	C1CGA3	Phosphoesterase
+TL7_1993	EOOINEPP_00438	Q9EUQ9	CBS domain protein
+TL7_1993	EOOINEPP_00439	C1C9E3	Tyrosine recombinase XerD
+TL7_1993	EOOINEPP_00440	A0A0T8RTE1	Segregation and condensation protein A
+TL7_1993	EOOINEPP_00441	Q8DNI9	Segregation and condensation protein B
+TL7_1993	EOOINEPP_00442	Q8DNJ0	Ribosomal large subunit pseudouridine synthase B
+TL7_1993	EOOINEPP_00443	C1CG97	Putative membrane protein insertion efficiency factor YidD
+TL7_1993	EOOINEPP_00444	C1CG96	Iron compound ABC uptake transporter substrate-binding protein PiuA
+TL7_1993	EOOINEPP_00445	C1CG95	Iron compound ABC uptake transporter ATP-binding protein PiuD
+TL7_1993	EOOINEPP_00446	C1CG94	Iron compound ABC uptake transporter permease protein PiuC
+TL7_1993	EOOINEPP_00447	A0AA86J8E7	Iron compound ABC uptake transporter permease protein PiuB
+TL7_1993	EOOINEPP_00448	A0A0E7ZNQ0	UDP-glucose 4-epimerase
+TL7_1993	EOOINEPP_00449	Q8DNJ7	Glutamyl aminopeptidase
+TL7_1993	EOOINEPP_00450	A0A0E8P644	Hypothetical protein
+TL7_1993	EOOINEPP_00451	A0A0E8SYC0	Transcriptional regulator%2C MarR family
+TL7_1993	EOOINEPP_00452	A0AA86J851	Hypothetical protein
+TL7_1993	EOOINEPP_00453	C1CG87	Glycine betaine/L-proline transport ATP-binding protein ProV
+TL7_1993	EOOINEPP_00454	A0A0T7KAV4	Glycine betaine/L-proline transport substrate-binding/permease protein ProWX
+TL7_1993	EOOINEPP_00455	Q8DNK1	Ribosyl nicotinamide transporter PnuC
+TL7_1993	EOOINEPP_00456	C1CG83	Transcriptional regulator SczA%2C TetR family
+TL7_1993	EOOINEPP_00457	Q8DNK3	Cobalt-zinc-cadmium resistance protein CzcD
+TL7_1993	EOOINEPP_00458	Q8DNK4	Transcriptional regulator%2C MerR family
+TL7_1993	EOOINEPP_00459	C1CG80	Alcohol dehydrogenase
+TL7_1993	EOOINEPP_00460	Q8DNK6	Galactose operon repressor%2C GalR-LacI family
+TL7_1993	EOOINEPP_00461	B2ISV2	Galactokinase
+TL7_1993	EOOINEPP_00462	A0AA86J8F8	Galactose-1-phosphate uridylyltransferase
+TL7_1993	EOOINEPP_00463	A0A0M3KL39	Thioesterase
+TL7_1993	EOOINEPP_00464	C1CG75	Type II restriction-modification system endonuclease DpnC
+TL7_1993	EOOINEPP_00465	P0A3T5	Type II restriction-modification system component DpnD
+TL7_1993	EOOINEPP_00466	A0AA86JT53	Xanthine permease
+TL7_1993	EOOINEPP_00467	Q3I0B1	Xanthine phosphoribosyltransferase
+TL7_1993	EOOINEPP_00468		Purine
+TL7_1993	EOOINEPP_00468		
+TL7_1993	EOOINEPP_00469	Q8CYC6	hypothetical protein
+TL7_1993	EOOINEPP_00470	C1CG71	Exodeoxyribonuclease III
+TL7_1993	EOOINEPP_00471	A0AA86MHZ7	hypothetical protein
+TL7_1993	EOOINEPP_00472	C1CG69	hypothetical protein
+TL7_1993	EOOINEPP_00473	A0A0H2URE6	hypothetical protein
+TL7_1993	EOOINEPP_00474	A0AA86MB78	ABC transporter%2C ATP-binding/permease protein
+TL7_1993	EOOINEPP_00475	A0AA86JH18	ABC transporter%2C ATP-binding/permease protein
+TL7_1993	EOOINEPP_00476	A0AA86JB57	Sugar transferases involved in lipopolysaccharide synthesis
+TL7_1993	EOOINEPP_00477	C1CG64	Putative UDP-4-keto-6-deoxy-D-glucose 4-transaminase AatB
+TL7_1993	EOOINEPP_00478	A0AA86J8G8	Plasmin- and fibronectin-binding protein PfbA
+TL7_1993	EOOINEPP_00479	B2IST5	hypothetical protein
+TL7_1993	EOOINEPP_00480	Q8CYD2	Hypothetical protein
+TL7_1993	EOOINEPP_00481	C1C979	ABC transporter%2C substrate-binding protein
+TL7_1993	EOOINEPP_00482	A0AA86JT56	ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00483	C1CG52	Iron(III)-transport system permease protein SfuB
+TL7_1993	EOOINEPP_00484	Q8DNM3	Mg(2+)-transport-ATPase-associated protein MgtC
+TL7_1993	EOOINEPP_00485	A0AA86MIY9	Hypothetical protein
+TL7_1993	EOOINEPP_00486	Q8DNM4	Galactose operon repressor%2C GalR-LacI family
+TL7_1993	EOOINEPP_00487		T-box
+TL7_1993	EOOINEPP_00487		
+TL7_1993	EOOINEPP_00488	A0A4J2BRX9	Hypothetical protein
+TL7_1993	EOOINEPP_00489	A0AA86MEX1	Anthranilate synthase%2C aminase component
+TL7_1993	EOOINEPP_00490	A0A0B7LWH4	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
+TL7_1993	EOOINEPP_00491	Q04IY6	Anthranilate phosphoribosyltransferase
+TL7_1993	EOOINEPP_00492	A0A0B7LLQ6	Indole-3-glycerol phosphate synthase
+TL7_1993	EOOINEPP_00493	A0AA86J715	Phosphoribosylanthranilate isomerase
+TL7_1993	EOOINEPP_00494	A0AA86J8H6	Tryptophan synthase beta chain
+TL7_1993	EOOINEPP_00495	A0A0B7M517	Tryptophan synthase alpha chain
+TL7_1993	EOOINEPP_00496	A0A0U0MHV9	Hypothetical protein
+TL7_1993	EOOINEPP_00497	A0A0H2URC4	Transcriptional regulator%2C Xre family
+TL7_1993	EOOINEPP_00498	A0AA86JT66	Type IV prepilin peptidase
+TL7_1993	EOOINEPP_00499	A0A0B7L697	Acetyltransferase
+TL7_1993	EOOINEPP_00500	A0A0B7LBM5	Xylose repressor protein
+TL7_1993	EOOINEPP_00501	A0A4F2BEU0	Cellobiose-specific PTS IIC component
+TL7_1993	EOOINEPP_00502	A0A0B7L735	hypothetical protein
+TL7_1993	EOOINEPP_00503	C1CG33	Cellobiose-specific PTS IIB component
+TL7_1993	EOOINEPP_00504	A0A4L3I3R0	Lactose-specific PTS IIA component
+TL7_1993	EOOINEPP_00505	B2ISF4	Cellobiose-specific PTS IIC component
+TL7_1993	EOOINEPP_00506	A0A0U0AG22	Arylsulfatase
+TL7_1993	EOOINEPP_00507	A0AA86JB75	Formylglycine-generating enzyme
+TL7_1993	EOOINEPP_00508	C1C952	hypothetical protein
+TL7_1993	EOOINEPP_00509	Q97P39	Hypothetical protein
+TL7_1993	EOOINEPP_00510	Q8DNN3	General stress protein%2C Gls24 family
+TL7_1993	EOOINEPP_00511	Q8DNN4	Small integral membrane protein
+TL7_1993	EOOINEPP_00512	B2ISG1	Hypothetical protein
+TL7_1993	EOOINEPP_00513	C1C945	Membrane protein
+TL7_1993	EOOINEPP_00514	Q97P44	M protein trans-acting positive regulator Mga2
+TL7_1993	EOOINEPP_00515	A0A0E8JL96	Multiple sugar metabolism operon regulatory protein
+TL7_1993	EOOINEPP_00516	C1CG18	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+TL7_1993	EOOINEPP_00517	B2ISF6	ABC transporter permease protein
+TL7_1993	EOOINEPP_00518	B2ISF0	hypothetical protein
+TL7_1993	EOOINEPP_00519	A0A0T8VMK4	Sucrose-6-phosphate hydrolase
+TL7_1993	EOOINEPP_00520		tRNA-Lys(ctt)
+TL7_1993	EOOINEPP_00520		
+TL7_1993	EOOINEPP_00521	A0A4V0ITY0	Chromosome segregation helicase
+TL7_1993	EOOINEPP_00522	Q8CYD9	Hypothetical protein
+TL7_1993	EOOINEPP_00523	Q8DNP2	Addiction module antitoxin HicB
+TL7_1993	EOOINEPP_00524	B2ISE3	Hypothetical protein
+TL7_1993	EOOINEPP_00525	A0AA86J6K7	Hypothetical protein
+TL7_1993	EOOINEPP_00526	A0AA86JFH6	7%2C8-dihydro-8-oxoguanine-triphosphatase
+TL7_1993	EOOINEPP_00527	Q8DNP4	Ribosomal protein L11 methyltransferase
+TL7_1993	EOOINEPP_00528	A0AA86JT80	16S rRNA (uracil(1498)-N(3))-methyltransferase
+TL7_1993	EOOINEPP_00529	A0A916P872	Oligoendopeptidase F
+TL7_1993	EOOINEPP_00530	A0A062WT08	hypothetical protein
+TL7_1993	EOOINEPP_00531	A0AA86MJ00	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_00532	A0A0E8TAE1	hypothetical protein
+TL7_1993	EOOINEPP_00533	A0AA86MMP4	hypothetical protein
+TL7_1993	EOOINEPP_00534	A0AA86MEY5	Aquaporin Z
+TL7_1993	EOOINEPP_00535	A0A380LRR5	NADPH-dependent 7-cyano-7-deazaguanine reductase
+TL7_1993	EOOINEPP_00536	C1CFZ6	Thioredoxin
+TL7_1993	EOOINEPP_00537	Q8CYE5	Hypothetical protein
+TL7_1993	EOOINEPP_00538	C1CFZ4	Transcriptional regulator%2C MarR family
+TL7_1993	EOOINEPP_00539	C1CFX5	Membrane protein
+TL7_1993	EOOINEPP_00540	A0A0T7TKT8	Serine/threonine transporter SstT
+TL7_1993	EOOINEPP_00541	A0AA86JFJ2	Serine/threonine transporter SstT
+TL7_1993	EOOINEPP_00542	B2ISA3	Potassium efflux system KefA protein
+TL7_1993	EOOINEPP_00543	A0A064C0E8	Magnesium and cobalt transport protein CorA2
+TL7_1993	EOOINEPP_00544	B2ISA1	Hydrolase%2C HAD subfamily IIIA
+TL7_1993	EOOINEPP_00545	A0A0H2UR97	GTP-binding protein YqeH%2C required for biogenesis of 30S ribosome subunit
+TL7_1993	EOOINEPP_00546	Q8DNQ6	RNA-binding protein
+TL7_1993	EOOINEPP_00547	P65505	Nicotinate-nucleotide adenylyltransferase
+TL7_1993	EOOINEPP_00548	A0A0E8T0X8	HAD superfamily hydrolase YqeK
+TL7_1993	EOOINEPP_00549	Q8DNQ8	Isochorismatase
+TL7_1993	EOOINEPP_00550	Q8DNQ9	Ribosomal silencing factor RsfA
+TL7_1993	EOOINEPP_00551	A0AA86JH70	Methyltransferase
+TL7_1993	EOOINEPP_00552	A0A0T8N9M2	hypothetical protein
+TL7_1993	EOOINEPP_00553	A0AA86J758	hypothetical protein
+TL7_1993	EOOINEPP_00554	A0A0H2ZR31	Antitoxin YefM
+TL7_1993	EOOINEPP_00555	Q8DNR3	YoeB toxin protein
+TL7_1993	EOOINEPP_00556	A0A0U0B6S6	Ribonuclease Y
+TL7_1993	EOOINEPP_00557	Q97PA3	Guanylate kinase
+TL7_1993	EOOINEPP_00558	Q04J38	DNA-directed RNA polymerase omega subunit
+TL7_1993	EOOINEPP_00559	A0AA86J8B5	Helicase PriA essential for oriC/DnaA-independent DNA replication
+TL7_1993	EOOINEPP_00560	B5E782	Methionyl-tRNA formyltransferase
+TL7_1993	EOOINEPP_00561	A0AA86MJ09	16S rRNA (cytosine(967)-C(5))-methyltransferase
+TL7_1993	EOOINEPP_00562	A0A0H2UR71	Protein serine/threonine phosphatase PhpP
+TL7_1993	EOOINEPP_00563	A0A380LRS2	Serine/threonine protein kinase StkP
+TL7_1993	EOOINEPP_00564	Q8DNS1	Membrane protein
+TL7_1993	EOOINEPP_00565	C1CFV2	Putative membrane-spanning protein
+TL7_1993	EOOINEPP_00566	A0AA86JH77	IS1381 transposase OrfA
+TL7_1993	EOOINEPP_00567	C1C7G4	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_00568	Q8CYE8	Hypothetical protein
+TL7_1993	EOOINEPP_00569	C1CFU8	Hydroxymethylglutaryl-CoA synthase
+TL7_1993	EOOINEPP_00570	A0A380LTJ0	Hydroxymethylglutaryl-CoA reductase
+TL7_1993	EOOINEPP_00571	Q8DNS6	Sucrose operon repressor ScrR%2C LacI family
+TL7_1993	EOOINEPP_00572	A0AA86JP91	Sucrose-6-phosphate hydrolase
+TL7_1993	EOOINEPP_00573	Q8DNS8	Sucrose-specific PTS IIBCA components
+TL7_1993	EOOINEPP_00574	B1I778	Fructokinase
+TL7_1993	EOOINEPP_00575	C1CFU1	Immunoreactive protein Se23.5-like protein
+TL7_1993	EOOINEPP_00576	A0A0E8SZC7	Hypothetical protein
+TL7_1993	EOOINEPP_00577	C1C8V4	ABC transporter ATP-binding protein - Na+ export
+TL7_1993	EOOINEPP_00578	C1CFT8	ABC transporter membrane-spanning permease - Na+ export
+TL7_1993	EOOINEPP_00579	A0A229G0F0	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_00580	C1C8V1	Multidrug ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00581	Q8DNT4	Transcriptional regulator%2C GntR family
+TL7_1993	EOOINEPP_00582	B2IRW8	Ribonucleotide reductase transcriptional regulator NrdR
+TL7_1993	EOOINEPP_00583	A0A0U0H4S0	Helicase loader DnaB
+TL7_1993	EOOINEPP_00584	A0A0U0BPB3	Helicase loader DnaI
+TL7_1993	EOOINEPP_00585	A0A0U0M2R2	NADPH-flavin oxidoreductase
+TL7_1993	EOOINEPP_00586	A0A0T7Z4A0	GTP-binding protein EngA
+TL7_1993	EOOINEPP_00587	B1I765	Hypothetical protein
+TL7_1993	EOOINEPP_00588	A0A559BP94	Hypothetical protein
+TL7_1993	EOOINEPP_00589	A0A0U0H5W0	Hypothetical protein
+TL7_1993	EOOINEPP_00590	A0A559G8C4	Hypothetical protein
+TL7_1993	EOOINEPP_00591	A0AA86MJ17	ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00592	B2IRV8	hypothetical protein
+TL7_1993	EOOINEPP_00593	A0AA86MMQ9	Protein translocase subunit SecA
+TL7_1993	EOOINEPP_00594	C1CFS0	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+TL7_1993	EOOINEPP_00595	Q8DNU0	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+TL7_1993	EOOINEPP_00596	B2IRV4	Holo-[acyl-carrier protein] synthase
+TL7_1993	EOOINEPP_00597	A0A0B7M206	Alanine racemase
+TL7_1993	EOOINEPP_00598	A0AA86J783	ATP-dependent DNA helicase RecG
+TL7_1993	EOOINEPP_00599	C1CFR5	Bifunctional acetyl xylan esterase 1/cephalosporin-C deacetylase
+TL7_1993	EOOINEPP_00600	A0A4J1WA53	Hypothetical protein
+TL7_1993	EOOINEPP_00601	Q8CYF7	Hypothetical protein
+TL7_1993	EOOINEPP_00602	B8XTV7	Sialidase NanA
+TL7_1993	EOOINEPP_00603	A0A0B7LFI0	Hypothetical protein
+TL7_1993	EOOINEPP_00604	A0A0B7MDG4	Putative beta-D-galactosidase
+TL7_1993	EOOINEPP_00605	Q8DNU2	ABC transporter substrate-binding protein - sugar transport
+TL7_1993	EOOINEPP_00606	Q8DNU3	ABC transporter membrane-spanning permease%2C sugar transport YcjO
+TL7_1993	EOOINEPP_00607	C1CFQ8	ABC transporter%2C permease protein
+TL7_1993	EOOINEPP_00608	A0AA86MBA6	Sialidase
+TL7_1993	EOOINEPP_00609	C1CFQ6	Oxidoreductase
+TL7_1993	EOOINEPP_00610	P65521	N-acetylmannosamine-6-phosphate 2-epimerase
+TL7_1993	EOOINEPP_00611	C1C8S2	N-acetylglucosamine-specific PTS IIABC components
+TL7_1993	EOOINEPP_00612	Q8DNU8	ABC transporter%2C putative N-acetylneuraminate-binding protein
+TL7_1993	EOOINEPP_00613	C1CFQ2	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 1
+TL7_1993	EOOINEPP_00614	Q8DNV0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 2
+TL7_1993	EOOINEPP_00615	C1CFQ0	Protein YjgK%2C linked to biofilm formation
+TL7_1993	EOOINEPP_00616	A0A0U0E7C1	Hypothetical protein
+TL7_1993	EOOINEPP_00617	C1CFP8	hypothetical protein
+TL7_1993	EOOINEPP_00618	A0AA86Y540	4-hydroxy-tetrahydrodipicolinate synthase
+TL7_1993	EOOINEPP_00619	A0A4J2BSC2	N-acetylmannosamine kinase
+TL7_1993	EOOINEPP_00620	B2IRS9	Sialic acid utilization regulator%2C RpiR family
+TL7_1993	EOOINEPP_00621	B0B6H3	Penicillin-binding protein 2B
+TL7_1993	EOOINEPP_00622	Q9R2M1	Recombination protein RecR
+TL7_1993	EOOINEPP_00623	Q9R372	D-alanine--D-alanine ligase
+TL7_1993	EOOINEPP_00624	C1CFP1	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+TL7_1993	EOOINEPP_00625	A0A4L3I074	MutT/nudix family protein phosphohydrolase
+TL7_1993	EOOINEPP_00626	Q8CYG1	Putative membrane protein
+TL7_1993	EOOINEPP_00627	Q9ZHC0	Cell division protein FtsA
+TL7_1993	EOOINEPP_00628	Q8DNV9	Cell division protein FtsZ
+TL7_1993	EOOINEPP_00629	C1CFN6	YlmE
+TL7_1993	EOOINEPP_00630	Q8DNW1	FtsZ-interacting protein related to cell division YlmF
+TL7_1993	EOOINEPP_00631	Q9ZHB6	Cell division integral membrane protein YlmG%2C YGGT family
+TL7_1993	EOOINEPP_00632	Q9ZHB5	YlmH
+TL7_1993	EOOINEPP_00633	C1CFN2	Cell division initiation protein DivIVA
+TL7_1993	EOOINEPP_00634	A0A4J2BWQ7	Isoleucyl-tRNA synthetase
+TL7_1993	EOOINEPP_00635	C1CFM9	hypothetical protein
+TL7_1993	EOOINEPP_00636	C1CFM7	Phosphoglycerate mutase
+TL7_1993	EOOINEPP_00637	A0AA86MF17	Putative large secreted protein
+TL7_1993	EOOINEPP_00638	C1C8P3	ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00639	A0AA86JHD8	ABC transporter%2C permease protein
+TL7_1993	EOOINEPP_00640	A0A062WLL4	Thiol peroxidase%2C Tpx-type
+TL7_1993	EOOINEPP_00641	D2CTJ2	Manganese ABC transporter%2C periplasmic-binding protein PsaA
+TL7_1993	EOOINEPP_00642	C1CFM0	Manganese ABC transporter%2C inner membrane permease protein PsaC
+TL7_1993	EOOINEPP_00643	B2IRQ4	Manganese ABC transporter%2C ATP-binding protein PsaB
+TL7_1993	EOOINEPP_00644	A0AA86JFQ8	Neutral endopeptidase O
+TL7_1993	EOOINEPP_00645	A0A0T8BDS4	Hydroxyacylglutathione hydrolase
+TL7_1993	EOOINEPP_00646	A0A0H2ZP47	Bifunctional guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase/(p)ppGpp synthetase II
+TL7_1993	EOOINEPP_00647	Q8DNX2	D-tyrosyl-tRNA(Tyr) deacylase
+TL7_1993	EOOINEPP_00648	A0A0H2ZLZ3	hypothetical protein
+TL7_1993	EOOINEPP_00649	B2IRP3	Mn-dependent transcriptional regulator MntR
+TL7_1993	EOOINEPP_00650	A0A6A8VMJ1	Putative diadenosine tetraphosphatase
+TL7_1993	EOOINEPP_00651	A0AA86MMS5	Rrf2 family transcriptional regulator%2C group III
+TL7_1993	EOOINEPP_00652	A0AA86MF23	Hypothetical protein
+TL7_1993	EOOINEPP_00653	A0AA86MBB7	Esterase/lipase
+TL7_1993	EOOINEPP_00654	A0A064C629	Two-component system response regulator
+TL7_1993	EOOINEPP_00655	A0A380LVT5	Two-component system sensor histidine kinase
+TL7_1993	EOOINEPP_00656	C1CSP6	Threonyl-tRNA synthetase
+TL7_1993	EOOINEPP_00657	Q8CYH8	hypothetical protein
+TL7_1993	EOOINEPP_00658	Q8CYH9	Hypothetical protein
+TL7_1993	EOOINEPP_00659	A0AA86JFR8	Rrf2-linked NADH-flavin reductase
+TL7_1993	EOOINEPP_00660	Q97PI9	SSU ribosomal protein S15p (S13e)
+TL7_1993	EOOINEPP_00661	Q8DNY0	Cadmium resistance protein CadD
+TL7_1993	EOOINEPP_00662	B2IRD2	Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase
+TL7_1993	EOOINEPP_00663	A0AA86JBW6	Cadmium-transporting ATPase
+TL7_1993	EOOINEPP_00664	A0AA86MJ41	tRNA (adenine(22)-N(1))-methyltransferase
+TL7_1993	EOOINEPP_00665	C1CFJ2	Putative GTP cyclohydrolase 1 type 2 protein YbgI
+TL7_1993	EOOINEPP_00666	A0A0E9GWZ8	Glycine/D-amino acid oxidases family protein
+TL7_1993	EOOINEPP_00667	A0A0B7M1L4	UDP-glucose 4-epimerase
+TL7_1993	EOOINEPP_00668	Q8DNY7	Bactoprenol glucosyl transferase
+TL7_1993	EOOINEPP_00669	C1CFI7	Ferredoxin
+TL7_1993	EOOINEPP_00670	Q8CYI0	Hypothetical protein
+TL7_1993	EOOINEPP_00671	A0A064C099	Cytidylate kinase
+TL7_1993	EOOINEPP_00672	A0AA86J8U5	Protein PhnA
+TL7_1993	EOOINEPP_00673	Q8CYI1	Hypothetical protein
+TL7_1993	EOOINEPP_00674	A0AA86JFS8	Major facilitator superfamily transporter-permease
+TL7_1993	EOOINEPP_00675	A0AA86JPE4	tRNA pseudouridine synthase A
+TL7_1993	EOOINEPP_00676	A0A0H2UR72	Pyridoxal kinase%2C thiD family
+TL7_1993	EOOINEPP_00677	A0AA86J8I9	Substrate-specific component PdxU2 of putative pyridoxin-related ECF transporter
+TL7_1993	EOOINEPP_00678	Q8DNZ4	IS3 family transposase ISSpn11
+TL7_1993	EOOINEPP_00679	A0AA86JJ87	hypothetical protein
+TL7_1993	EOOINEPP_00680	C1CFH2	Xaa-Pro dipeptidase
+TL7_1993	EOOINEPP_00681	A0A0H2ZML1	Putative amidotransferase similar to cobyric acid synthase
+TL7_1993	EOOINEPP_00682	C1C8I0	Mur ligase family protein
+TL7_1993	EOOINEPP_00683	A0AA86MIZ1	Pyridine nucleotide-disulfide oxidoreductase
+TL7_1993	EOOINEPP_00684	A0AA86MJX7	Major facilitator oxalate:formate antiporter
+TL7_1993	EOOINEPP_00685	P0A4D7	DEAD-box ATP-dependent RNA helicase CshA
+TL7_1993	EOOINEPP_00686	C1CSK2	GTP-sensing transcriptional pleiotropic repressor CodY
+TL7_1993	EOOINEPP_00687	Q8DP02	Nicotinamidase
+TL7_1993	EOOINEPP_00688		tRNA-Leu(aag)
+TL7_1993	EOOINEPP_00688		
+TL7_1993	EOOINEPP_00689	A0A0H2UQW6	Multiple sugar ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_00690	Q8DP04	SAM-dependent methyltransferase
+TL7_1993	EOOINEPP_00691	C1CFG1	Adenine phosphoribosyltransferase
+TL7_1993	EOOINEPP_00692	Q8DP05	Homoserine O-succinyltransferase
+TL7_1993	EOOINEPP_00693	C1CFF8	Chromosome replication initiation protein DnaD
+TL7_1993	EOOINEPP_00694	Q04JH4	Triosephosphate isomerase
+TL7_1993	EOOINEPP_00695	A0AA86JAJ5	1%2C4-beta-N-acetylmuramidase%2C lyzozyme LytC
+TL7_1993	EOOINEPP_00696	O85254	Bifunctional non-specific DNA-binding protein/ferroxidase Dpr
+TL7_1993	EOOINEPP_00697	O85255	Dihydrofolate reductase
+TL7_1993	EOOINEPP_00698	B1ICZ0	Hypothetical protein
+TL7_1993	EOOINEPP_00699	A0A4M9XSE5	ATP-dependent Clp protease ATP-binding subunit ClpX
+TL7_1993	EOOINEPP_00700	Q04JI0	GTP-binding protein EngB
+TL7_1993	EOOINEPP_00701	Q8DP09	RidA/YER057c/UK114 superfamily protein
+TL7_1993	EOOINEPP_00702	A0A0B7LZK7	Putative P-loop-containing kinase
+TL7_1993	EOOINEPP_00703	C1CFE8	LPPG:FO 2-phospho-L-lactate transferase-like protein
+TL7_1993	EOOINEPP_00704	Q8DP12	Putative cytoplasmic protein
+TL7_1993	EOOINEPP_00705	A0A0E7NRX6	Tyrosine recombinase XerC
+TL7_1993	EOOINEPP_00706	A0AA86MGF1	hypothetical protein
+TL7_1993	EOOINEPP_00707	A0AA86MCL4	hypothetical protein
+TL7_1993	EOOINEPP_00708	A0AA86JKM8	hypothetical protein
+TL7_1993	EOOINEPP_00709	A0A380LQI5	hypothetical protein
+TL7_1993	EOOINEPP_00710	A0A0T7JG49	hypothetical protein
+TL7_1993	EOOINEPP_00711	A0A0B7MB27	hypothetical protein
+TL7_1993	EOOINEPP_00712	C1CHB1	hypothetical protein
+TL7_1993	EOOINEPP_00713	A0A380LS70	hypothetical protein
+TL7_1993	EOOINEPP_00714	A0A380LQB1	hypothetical protein
+TL7_1993	EOOINEPP_00715	A0A098ANA5	hypothetical protein
+TL7_1993	EOOINEPP_00716	A0A064C342	hypothetical protein
+TL7_1993	EOOINEPP_00717	A0A064C1N6	hypothetical protein
+TL7_1993	EOOINEPP_00718	A0A064C056	hypothetical protein
+TL7_1993	EOOINEPP_00719	M9QZ03	hypothetical protein
+TL7_1993	EOOINEPP_00720	A0AA86MPN8	hypothetical protein
+TL7_1993	EOOINEPP_00721	A0A0E8SXA9	hypothetical protein
+TL7_1993	EOOINEPP_00722	A0A380LTA8	hypothetical protein
+TL7_1993	EOOINEPP_00723	A0A380LS80	hypothetical protein
+TL7_1993	EOOINEPP_00724	A0A098AN63	hypothetical protein
+TL7_1993	EOOINEPP_00725	A0A064C5V3	hypothetical protein
+TL7_1993	EOOINEPP_00726	A0A0T8WW84	hypothetical protein
+TL7_1993	EOOINEPP_00727	A0AA86J9N0	hypothetical protein
+TL7_1993	EOOINEPP_00728	A0AA86JIP8	hypothetical protein
+TL7_1993	EOOINEPP_00729	A0A0U0FML2	hypothetical protein
+TL7_1993	EOOINEPP_00730	A0A380LU01	hypothetical protein
+TL7_1993	EOOINEPP_00731	A0A0B7M3F4	hypothetical protein
+TL7_1993	EOOINEPP_00732	A0A380LTB6	hypothetical protein
+TL7_1993	EOOINEPP_00733	A0A4L7JWA9	hypothetical protein
+TL7_1993	EOOINEPP_00734	A0AA86JLC6	hypothetical protein
+TL7_1993	EOOINEPP_00735	A0A0B7LRJ1	hypothetical protein
+TL7_1993	EOOINEPP_00736		GOLLD
+TL7_1993	EOOINEPP_00736		
+TL7_1993	EOOINEPP_00737	A0AA86MGS2	hypothetical protein
+TL7_1993	EOOINEPP_00738	A0A4J1UIP0	hypothetical protein
+TL7_1993	EOOINEPP_00739	A0A4J2BWE8	hypothetical protein
+TL7_1993	EOOINEPP_00740	A0A4J2B3Z3	hypothetical protein
+TL7_1993	EOOINEPP_00741	A0A0U0GT88	hypothetical protein
+TL7_1993	EOOINEPP_00742	A0A380LS23	hypothetical protein
+TL7_1993	EOOINEPP_00743	A0A380LTC2	hypothetical protein
+TL7_1993	EOOINEPP_00744	A0A380LSA0	hypothetical protein
+TL7_1993	EOOINEPP_00745	A0A4J1MW86	hypothetical protein
+TL7_1993	EOOINEPP_00746	A0A4J1V8M8	hypothetical protein
+TL7_1993	EOOINEPP_00747	C1CGF7	hypothetical protein
+TL7_1993	EOOINEPP_00748	A0A0T8U0V4	hypothetical protein
+TL7_1993	EOOINEPP_00749	A0A098ANC3	hypothetical protein
+TL7_1993	EOOINEPP_00750	A0AA86MCZ4	hypothetical protein
+TL7_1993	EOOINEPP_00751	M9QX92	hypothetical protein
+TL7_1993	EOOINEPP_00752	A0A0T8ZZN8	hypothetical protein
+TL7_1993	EOOINEPP_00753	M9QQS0	hypothetical protein
+TL7_1993	EOOINEPP_00754	A0A0U0HEJ3	hypothetical protein
+TL7_1993	EOOINEPP_00755	A0A4J2BVC4	hypothetical protein
+TL7_1993	EOOINEPP_00756	A0A0U0LNZ8	hypothetical protein
+TL7_1993	EOOINEPP_00757	A0AAE4FWU6	hypothetical protein
+TL7_1993	EOOINEPP_00758	M9QQR7	hypothetical protein
+TL7_1993	EOOINEPP_00759	B1I7B6	hypothetical protein
+TL7_1993	EOOINEPP_00760	C1CGE3	hypothetical protein
+TL7_1993	EOOINEPP_00761	A0AA86JC10	hypothetical protein
+TL7_1993	EOOINEPP_00762	A0AA86JFI0	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+TL7_1993	EOOINEPP_00763	A0A0D6J7C7	Thioredoxin reductase
+TL7_1993	EOOINEPP_00764	Q8DP14	Bacterial checkpoint controller DisA
+TL7_1993	EOOINEPP_00765	Q8DP15	Hypothetical protein
+TL7_1993	EOOINEPP_00766	A0AA86JJX3	Phosphoglucosamine mutase
+TL7_1993	EOOINEPP_00767	B2IR77	Hypothetical protein
+TL7_1993	EOOINEPP_00768	Q97PP6	DegV family protein
+TL7_1993	EOOINEPP_00769	B2IR75	4-hydroxy-tetrahydrodipicolinate reductase
+TL7_1993	EOOINEPP_00770	A0AA86J8X0	CCA tRNA nucleotidyltransferase
+TL7_1993	EOOINEPP_00771	A0A0T8V6V7	ATPase component of ABC transporter with duplicated ATPase domains
+TL7_1993	EOOINEPP_00772	C1CFD7	Cobalt-zinc-cadmium resistance protein
+TL7_1993	EOOINEPP_00773		SSRC10
+TL7_1993	EOOINEPP_00773		
+TL7_1993	EOOINEPP_00774	A0A0T8FY45	Calcium-transporting ATPase
+TL7_1993	EOOINEPP_00775	A0A0T8A0Q4	Glutathione S-transferase
+TL7_1993	EOOINEPP_00776	A0A0T8SNA2	Peptide deformylase
+TL7_1993	EOOINEPP_00777	A0AA86MK75	Cell shape-determining protein
+TL7_1993	EOOINEPP_00778	Q8CYI7	Hypothetical protein
+TL7_1993	EOOINEPP_00779		SpR20_sRNA
+TL7_1993	EOOINEPP_00779		
+TL7_1993	EOOINEPP_00780	B2IR66	hypothetical protein
+TL7_1993	EOOINEPP_00781	B1ICW7	Hypothetical protein
+TL7_1993	EOOINEPP_00782	A0A098ZCY9	Hypothetical protein
+TL7_1993	EOOINEPP_00783	A0A0T8L9J6	Aspartate aminotransferase
+TL7_1993	EOOINEPP_00784	C1C8D2	Putative lactoylglutathione lyase
+TL7_1993	EOOINEPP_00785	C1CFC3	Asparaginyl-tRNA synthetase
+TL7_1993	EOOINEPP_00786	Q04JK8	SSU ribosomal protein S6p
+TL7_1993	EOOINEPP_00787	A0AA86J8Y1	Single-stranded DNA-binding protein
+TL7_1993	EOOINEPP_00788	Q04JL0	SSU ribosomal protein S18p
+TL7_1993	EOOINEPP_00789	A0A0T8L9N8	Bifunctional lipoprotein rotamase A/peptidyl-prolyl cis-trans isomerase
+TL7_1993	EOOINEPP_00790	Q8DP29	General stress protein 13
+TL7_1993	EOOINEPP_00791	Q8DP30	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase
+TL7_1993	EOOINEPP_00792	Q97PR7	Putative endonuclease
+TL7_1993	EOOINEPP_00793	Q04JL5	Manganese-dependent inorganic pyrophosphatase
+TL7_1993	EOOINEPP_00794	A0A098Z6G6	Glutamate synthase [NADPH] large chain
+TL7_1993	EOOINEPP_00795	A0A0T8UTG8	hypothetical protein
+TL7_1993	EOOINEPP_00796	C1CFB2	Hypothetical protein
+TL7_1993	EOOINEPP_00797	A0A0T8JHS8	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+TL7_1993	EOOINEPP_00798	Q8DP32	Putative cell division protein YtgP
+TL7_1993	EOOINEPP_00799	A0A0F7YA13	Oligopeptide ABC transporter oligopeptide-binding protein AliB
+TL7_1993	EOOINEPP_00800	A0A4M2GLZ6	ABC transporter%2C ATP-binding/permease protein
+TL7_1993	EOOINEPP_00801	A0A0T8UTH6	ABC transporter%2C ATP-binding/permease protein
+TL7_1993	EOOINEPP_00802	A0AA86J8Z1	Cystathionine gamma-synthase
+TL7_1993	EOOINEPP_00803	A0A0U0ES11	Bifunctional PLP-dependent beta-cystathionase/maltose regulon repressor
+TL7_1993	EOOINEPP_00804	A0AA86JRD0	SWF/SNF family helicase
+TL7_1993	EOOINEPP_00805	Q8CYJ6	Hypothetical protein
+TL7_1993	EOOINEPP_00806	A0A380LSF6	UDP-N-acetylmuramate--alanine ligase
+TL7_1993	EOOINEPP_00807	C1CFA4	hypothetical protein
+TL7_1993	EOOINEPP_00808	Q8DP41	Acetyltransferase%2C GNAT family
+TL7_1993	EOOINEPP_00809	A0AA86MJ90	Endolytic murein transglycosylase MltG
+TL7_1993	EOOINEPP_00810	Q8DP42	Transcription elongation factor GreA
+TL7_1993	EOOINEPP_00811	A0AA86MG47	Hypothetical protein
+TL7_1993	EOOINEPP_00812	Q8CYJ9	Acetyltransferase
+TL7_1993	EOOINEPP_00813	Q79RW7	ATP synthase F0 sector subunit c
+TL7_1993	EOOINEPP_00814	Q6Y861	ATP synthase F0 sector subunit a
+TL7_1993	EOOINEPP_00815	Q04HT5	ATP synthase F0 sector subunit b
+TL7_1993	EOOINEPP_00816	Q04HT6	ATP synthase F1 sector delta chain
+TL7_1993	EOOINEPP_00817	C1CF95	ATP synthase F1 sector alpha chain
+TL7_1993	EOOINEPP_00818	C1CSC9	ATP synthase F1 sector gamma chain
+TL7_1993	EOOINEPP_00819	C1CLK6	ATP synthase F1 sector beta chain
+TL7_1993	EOOINEPP_00820	Q04N64	ATP synthase F1 sector epsilon chain
+TL7_1993	EOOINEPP_00821	Q8DP45	6-phosphogluconolactonase
+TL7_1993	EOOINEPP_00822	Q8DP46	Hypothetical protein
+TL7_1993	EOOINEPP_00823	A0AA86MJ60	TPR-repeat-containing protein
+TL7_1993	EOOINEPP_00824	C1CF86	Glutamine ABC transporter permease GlnP6
+TL7_1993	EOOINEPP_00825	Q8DP49	Glutamine ABC transporter ATP-binding protein GlnQ6
+TL7_1993	EOOINEPP_00826	Q8DP50	Glutamine ABC transporter substrate-binding protein GlnH6
+TL7_1993	EOOINEPP_00827	Q8DP51	Bacterocin transport accessory protein
+TL7_1993	EOOINEPP_00828	A0AA86JHJ3	Phosphoglucomutase
+TL7_1993	EOOINEPP_00829	C1C888	IS630 family transposase IS630-Spn1
+TL7_1993	EOOINEPP_00830	C1C887	Hypothetical protein
+TL7_1993	EOOINEPP_00831	A0A6G2CVB6	Hypothetical protein
+TL7_1993	EOOINEPP_00832	C1C885	Cell wall surface anchor family protein MucB
+TL7_1993	EOOINEPP_00833	C1C884	Major intrinsic protein family aquaporin
+TL7_1993	EOOINEPP_00834	B2IQV2	Translation elongation factor Tu
+TL7_1993	EOOINEPP_00835	A0A4J1TXJ2	Mobile element protein
+TL7_1993	EOOINEPP_00836	C1C879	IS630 family transposase ISSpn2
+TL7_1993	EOOINEPP_00837	A0A380LQP7	hypothetical protein
+TL7_1993	EOOINEPP_00838	A0AA86JC09	IS630 family transposase ISSpn2
+TL7_1993	EOOINEPP_00839	A0AA86MJ65	ATP-dependent RNA helicase YfmL
+TL7_1993	EOOINEPP_00840	A0AA86MI80	Oxidoreductase%2C Gfo/Idh/MocA family
+TL7_1993	EOOINEPP_00841	B2IQU6	hypothetical protein
+TL7_1993	EOOINEPP_00842	A0AA86MF50	Peptidoglycan N-acetylglucosamine deacetylase
+TL7_1993	EOOINEPP_00843	B2IQU4	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
+TL7_1993	EOOINEPP_00844		SpR19_sRNA
+TL7_1993	EOOINEPP_00844		
+TL7_1993	EOOINEPP_00845	C1C872	hypothetical protein
+TL7_1993	EOOINEPP_00846	A0A0B7LTT5	Glycyl-tRNA synthetase alpha chain
+TL7_1993	EOOINEPP_00847	A0AA86J7G2	Glycyl-tRNA synthetase beta chain
+TL7_1993	EOOINEPP_00848	Q8DP67	Hypothetical protein
+TL7_1993	EOOINEPP_00849	A0A064C0N4	Fumarate reductase%2C flavoprotein subunit precursor
+TL7_1993	EOOINEPP_00850	Q8DP68	Fumarate reductase%2C flavoprotein subunit precursor
+TL7_1993	EOOINEPP_00851	Q8DP69	Putative thiamin biosynthesis lipoprotein
+TL7_1993	EOOINEPP_00852	C1C864	NADH peroxidase
+TL7_1993	EOOINEPP_00853	Q97PX2	Pyridoxal 5'-phosphate synthase%2C synthase subunit PdxS
+TL7_1993	EOOINEPP_00854	Q97PX3	Pyridoxal 5'-phosphate synthase%2C glutaminase subunit PdxT
+TL7_1993	EOOINEPP_00855	A0AA86MJ71	Hemolysin III
+TL7_1993	EOOINEPP_00856	Q8CYK8	Hypothetical protein
+TL7_1993	EOOINEPP_00857	C1CF46	Acetyltransferase
+TL7_1993	EOOINEPP_00858	C1CF45	Methylated-DNA--protein-cysteine methyltransferase
+TL7_1993	EOOINEPP_00859	Q8DP75	Arsenate reductase
+TL7_1993	EOOINEPP_00860	Q8DP76	Cysteine ABC transporter permease protein
+TL7_1993	EOOINEPP_00861	Q8DP77	Cysteine ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_00862	Q8CYL0	Hypothetical protein
+TL7_1993	EOOINEPP_00863	A0A380LQW9	Thioredoxin reductase
+TL7_1993	EOOINEPP_00864	B1ICN8	23S rRNA (guanosine(2251)-2'-O)-methyltransferase
+TL7_1993	EOOINEPP_00865	Q04JP7	Peptide deformylase
+TL7_1993	EOOINEPP_00866	A0AA86JPI6	Capsule biosynthesis protein CapA
+TL7_1993	EOOINEPP_00867	Q8CYL3	hypothetical protein
+TL7_1993	EOOINEPP_00868	Q8DP80	HAD superfamily hydrolase
+TL7_1993	EOOINEPP_00869	Q8CYL4	Bifunctional N-acetylneuraminate cytidylyltransferase/platelet activating factor
+TL7_1993	EOOINEPP_00870	Q8DP81	C3-degrading proteinase
+TL7_1993	EOOINEPP_00871	C1CF32	Beta-lactamase%2C class C
+TL7_1993	EOOINEPP_00872	Q8DP82	Drug/metabolite transporter superfamily protein
+TL7_1993	EOOINEPP_00873	Q8DP83	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
+TL7_1993	EOOINEPP_00874	Q04JQ8	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
+TL7_1993	EOOINEPP_00875		SpR18_sRNA
+TL7_1993	EOOINEPP_00875		
+TL7_1993	EOOINEPP_00876	B2IQR0	IS66 family transposase Orf1
+TL7_1993	EOOINEPP_00877	A0AA86JBN9	IS66 family transposase Orf2
+TL7_1993	EOOINEPP_00878	A0A0E7Z8M3	hypothetical protein
+TL7_1993	EOOINEPP_00879	A0A380LQT6	hypothetical protein
+TL7_1993	EOOINEPP_00880	A0AA86J712	hypothetical protein
+TL7_1993	EOOINEPP_00881	A0AA86JFZ8	Duplicated ATPase component of energizing module of putative ECF transporter
+TL7_1993	EOOINEPP_00882	A0AA86JPJ5	Transmembrane component of energizing module of putative ECF transporter
+TL7_1993	EOOINEPP_00883	Q8CYL9	Substrate-specific component of putative ECF transporter
+TL7_1993	EOOINEPP_00884	A0AA86J8Q7	ABC transporter ATP-binding/permease protein
+TL7_1993	EOOINEPP_00885	A0AA86JC30	ABC transporter ATP-binding/permease protein
+TL7_1993	EOOINEPP_00886	A0AA86MJ78	Transcriptional regulator%2C AraC family
+TL7_1993	EOOINEPP_00887	A0A110RR68	Type II restriction-modification system methyltransferase
+TL7_1993	EOOINEPP_00888	Q8DP92	hypothetical protein
+TL7_1993	EOOINEPP_00889	B2IQP5	hypothetical protein
+TL7_1993	EOOINEPP_00890	A0A4K6U217	Peptidase%2C U32 family large subunit (C1)
+TL7_1993	EOOINEPP_00891	A0A0T8K483	Peptidase%2C U32 family large subunit (C1)
+TL7_1993	EOOINEPP_00892	A0AA86JHP6	Multidrug efflux ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_00893	A0A380LQV3	Hypothetical protein
+TL7_1993	EOOINEPP_00894	C1CF10	Transcriptional repressor
+TL7_1993	EOOINEPP_00895	A0AA86J929	Hypothetical protein
+TL7_1993	EOOINEPP_00896	Q8DP97	Nicotinate phosphoribosyltransferase
+TL7_1993	EOOINEPP_00897	A0A4V0J7Q8	NAD synthetase
+TL7_1993	EOOINEPP_00898	C1C817	Acetyltransferase%2C GNAT family
+TL7_1993	EOOINEPP_00899	A0A0B7L6F0	Hypothetical protein
+TL7_1993	EOOINEPP_00900	A0A4N5NE36	Choline-binding protein CbpM
+TL7_1993	EOOINEPP_00901	A0AA95IJ94	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+TL7_1993	EOOINEPP_00902	C1CQU2	Glucosamine-6-phosphate deaminase
+TL7_1993	EOOINEPP_00903	B2IQN3	SSU ribosomal protein S21p
+TL7_1993	EOOINEPP_00904	A0AA86MMX8	HPr kinase/phosphorylase
+TL7_1993	EOOINEPP_00905	B2IQN1	Prolipoprotein diacylglyceryl transferase
+TL7_1993	EOOINEPP_00906	Q8DPA4	General stress protein
+TL7_1993	EOOINEPP_00907	B1ICL0	Hypothetical protein
+TL7_1993	EOOINEPP_00908	Q8DPA6	Putative radical SAM family enzyme
+TL7_1993	EOOINEPP_00909	A0AA86J7J6	Acyl-ACP thioesterase
+TL7_1993	EOOINEPP_00910	Q8DPA7	Putative NagD-like phosphatase
+TL7_1993	EOOINEPP_00911	A0A0B7M5J0	Integral membrane protein
+TL7_1993	EOOINEPP_00912	Q97Q26	Transcriptional regulator SpxA1
+TL7_1993	EOOINEPP_00913	Q04JU6	Hypothetical protein
+TL7_1993	EOOINEPP_00914	A0AA86JTQ5	Inositol-1-monophosphatase
+TL7_1993	EOOINEPP_00915	A0AA86J8S7	tRNA and rRNA cytosine-C5-methylase
+TL7_1993	EOOINEPP_00916	Q97Q31	Phosphate ABC transporter periplasmic phosphate-binding protein PstS2
+TL7_1993	EOOINEPP_00917	Q8DPB2	Phosphate transport system permease protein PstC2
+TL7_1993	EOOINEPP_00918	Q8DPB3	Phosphate transport system permease protein PstA2
+TL7_1993	EOOINEPP_00919	C1CEY5	Phosphate transport ATP-binding protein PstB2_1
+TL7_1993	EOOINEPP_00920	C1CEY4	Phosphate transport ATP-binding protein PstB2_2
+TL7_1993	EOOINEPP_00921	Q8DPB6	Phosphate transport system regulatory protein PhoU2
+TL7_1993	EOOINEPP_00922	A0AA86JHR5	Amino acid ABC transporter amino acid-binding/permease protein
+TL7_1993	EOOINEPP_00923	A0AA86JBS5	Putative transcriptional regulator of pyridoxine metabolism
+TL7_1993	EOOINEPP_00924	A0AA86J7K5	Alpha-acetolactate decarboxylase
+TL7_1993	EOOINEPP_00925	A0A0H2UQJ2	Hypothetical protein
+TL7_1993	EOOINEPP_00926	B1ICI9	UDP-N-acetylenolpyruvoylglucosamine reductase
+TL7_1993	EOOINEPP_00927	C1CEX7	Spermidine/putrescine import ABC transporter ATP-binding protein PotA
+TL7_1993	EOOINEPP_00928	A0AA86JPL8	Spermidine/putrescine import ABC transporter permease protein PotB
+TL7_1993	EOOINEPP_00929	C1C7Y7	Spermidine/putrescine import ABC transporter permease protein PotC
+TL7_1993	EOOINEPP_00930	A0AA86J8T5	Spermidine/putrescine import ABC transporter substrate-binding protein PotD
+TL7_1993	EOOINEPP_00931	B1ICI4	Hypothetical protein
+TL7_1993	EOOINEPP_00932	A0AA86MJ93	Alanyl-tRNA synthetase
+TL7_1993	EOOINEPP_00933	A0AA86MIA9	Cytoplasmic alpha-amylase
+TL7_1993	EOOINEPP_00934	A0AA86MMZ4	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_00935	A0AA86MF79	ABC transporter permease
+TL7_1993	EOOINEPP_00936	A0AA86MBF4	Putative ribosomal RNA large subunit methyltransferase YwbD
+TL7_1993	EOOINEPP_00937	Q04JX0	3-dehydroquinate dehydratase I
+TL7_1993	EOOINEPP_00938	C1CL85	Shikimate/quinate 5-dehydrogenase I beta
+TL7_1993	EOOINEPP_00939	Q3I071	3-dehydroquinate synthase
+TL7_1993	EOOINEPP_00940	C1CL83	Chorismate synthase
+TL7_1993	EOOINEPP_00941	C1CEW2	Prephenate dehydrogenase
+TL7_1993	EOOINEPP_00942	Q8DPD3	Transcriptional regulator
+TL7_1993	EOOINEPP_00943	A0AA86JPM7	5-Enolpyruvylshikimate-3-phosphate synthase
+TL7_1993	EOOINEPP_00944	C1CEV9	Shikimate kinase I
+TL7_1993	EOOINEPP_00945	A0A0D6J7D6	Prephenate dehydratase
+TL7_1993	EOOINEPP_00946	Q8DPD6	LytR-CpsA-Psr subfamily F1 cell envelope-associated transcriptional attenuator
+TL7_1993	EOOINEPP_00947	I6L8M4	IS1380 family transposase ISSpn5
+TL7_1993	EOOINEPP_00948	A0A0U0HA50	Lipopolysaccharide cholinephosphotransferase LicD3
+TL7_1993	EOOINEPP_00949	A0AA86MIB5	Glycosyltransferase%2C group 1 family
+TL7_1993	EOOINEPP_00950	Q8DPD9	Glycosyltransferase%2C group 2 family
+TL7_1993	EOOINEPP_00951	A0A0T8BP31	Teichoic acid ribitol polymerase
+TL7_1993	EOOINEPP_00952	Q8CYN1	TarQ
+TL7_1993	EOOINEPP_00953	C1C7W3	Adaptor protein MecA
+TL7_1993	EOOINEPP_00954	Q8DPE1	Homoserine dehydrogenase
+TL7_1993	EOOINEPP_00955	Q04JY7	Homoserine kinase
+TL7_1993	EOOINEPP_00956	P0A3Q9	Peptide methionine sulfoxide reductase MsrAB1
+TL7_1993	EOOINEPP_00957	A0AA86J763	ABC transporter ATP-binding/permease protein
+TL7_1993	EOOINEPP_00958	A0AA86JG40	ABC transporter ATP-binding/permease protein
+TL7_1993	EOOINEPP_00959	A0A6I3VCP0	Methylthioadenosine deaminase
+TL7_1993	EOOINEPP_00960		L10_leader
+TL7_1993	EOOINEPP_00960		
+TL7_1993	EOOINEPP_00961	Q04JZ3	LSU ribosomal protein L10p (P0)
+TL7_1993	EOOINEPP_00962	Q04JZ4	LSU ribosomal protein L7/L12 (P1/P2)
+TL7_1993	EOOINEPP_00963		rli38
+TL7_1993	EOOINEPP_00963		
+TL7_1993	EOOINEPP_00964	A0A098ANF2	hypothetical protein
+TL7_1993	EOOINEPP_00965	A0A0B7LSP9	hypothetical protein
+TL7_1993	EOOINEPP_00966	A0A380LSW2	hypothetical protein
+TL7_1993	EOOINEPP_00967	A0A2Z4HWH3	Tn5253 hypothetical protein
+TL7_1993	EOOINEPP_00968	E4Z7F0	hypothetical protein
+TL7_1993	EOOINEPP_00969	A0A0I6SP51	Tn5253 putative CAAX amino terminal protease
+TL7_1993	EOOINEPP_00970	A0A0I8W061	Lanthionine biosynthesis protein LanL
+TL7_1993	EOOINEPP_00971	A0A0B7LGD3	ABC transporter ATP-binding/membrane spanning protein
+TL7_1993	EOOINEPP_00972	C1C7U3	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_00973	A0A2Z4HWJ5	Hypothetical protein
+TL7_1993	EOOINEPP_00974	A0AAE4K123	hypothetical protein
+TL7_1993	EOOINEPP_00975	A0A2Z4HWH1	hypothetical protein
+TL7_1993	EOOINEPP_00976	A0A0T7I9X4	hypothetical protein
+TL7_1993	EOOINEPP_00977	B1IAQ4	IS630 family transposase ISSpn2
+TL7_1993	EOOINEPP_00978	A0A2Z4HWG2	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_00979	A0A2Z4HWI7	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_00980	Q8CYP4	Hypothetical protein
+TL7_1993	EOOINEPP_00981	A0A2Z4HWG8	NADP-specific glutamate dehydrogenase
+TL7_1993	EOOINEPP_00982	A0A4J1YFH8	Ferrous iron transport permease EfeU
+TL7_1993	EOOINEPP_00983	A0AA87CAZ5	LSU ribosomal protein L31p
+TL7_1993	EOOINEPP_00984	C1C7S7	DHH family phosphoesterase Pde2
+TL7_1993	EOOINEPP_00985	C1CEQ2	Flavodoxin
+TL7_1993	EOOINEPP_00986	B2IQ95	Chorismate mutase I
+TL7_1993	EOOINEPP_00987	A0A0B7LCK6	ClC-type fluoride channel
+TL7_1993	EOOINEPP_00988	A0A0B7L7B2	ClC-type fluoride channel
+TL7_1993	EOOINEPP_00989	Q97QC6	LSU ribosomal protein L19p
+TL7_1993	EOOINEPP_00990		tRNA-Arg(cct)
+TL7_1993	EOOINEPP_00990		
+TL7_1993	EOOINEPP_00991	B1ICA6	hypothetical protein
+TL7_1993	EOOINEPP_00992	A0A0T8EFL7	Sugar phosphatase YidA
+TL7_1993	EOOINEPP_00993	A0AA86J9T0	dNTP triphosphohydrolase
+TL7_1993	EOOINEPP_00994	A0AA86JD20	Hypothetical protein
+TL7_1993	EOOINEPP_00995	C1C7R8	Signal recognition particle associated protein
+TL7_1993	EOOINEPP_00996	A0AA86MIT1	Signal recognition particle protein Ffh
+TL7_1993	EOOINEPP_00997	A0AA86MNM7	Uracil permease
+TL7_1993	EOOINEPP_00998		SpF44_sRNA
+TL7_1993	EOOINEPP_00998		
+TL7_1993	EOOINEPP_00999	C1CEP0	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+TL7_1993	EOOINEPP_01000	Q8DPH4	LemA
+TL7_1993	EOOINEPP_01001	Q97QD6	Heat shock protein HtpX
+TL7_1993	EOOINEPP_01002	A0A4J1U6Q8	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01003		SpF43_sRNA
+TL7_1993	EOOINEPP_01003		
+TL7_1993	EOOINEPP_01004	Q8CYP8	BlpT protein
+TL7_1993	EOOINEPP_01005	C1C7Q8	Protein%2C clustered with ribosomal protein L32p
+TL7_1993	EOOINEPP_01006	Q8DPH8	Endonuclease III
+TL7_1993	EOOINEPP_01007		PyrR
+TL7_1993	EOOINEPP_01007		
+TL7_1993	EOOINEPP_01008	Q04K45	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
+TL7_1993	EOOINEPP_01009	C1CR29	Aspartate carbamoyltransferase
+TL7_1993	EOOINEPP_01010	A0A064BWJ2	Carbamoyl-phosphate synthase small chain CarA
+TL7_1993	EOOINEPP_01011	A0A0B7L456	Carbamoyl-phosphate synthase large chain CarB
+TL7_1993	EOOINEPP_01012	C1CEM8	Lipopolysaccharide cholinephosphotransferase LicD2
+TL7_1993	EOOINEPP_01013	C1CEM7	Lipopolysaccharide cholinephosphotransferase LicD1
+TL7_1993	EOOINEPP_01014	C1C7Q0	Membrane protein TacF involved in the export of O-antigen and teichoic acid
+TL7_1993	EOOINEPP_01015	A0A4K4TS12	Ribitol-5-phosphate cytidylyltransferase
+TL7_1993	EOOINEPP_01016	A0A822QCX9	Ribulose-5-phosphate reductase
+TL7_1993	EOOINEPP_01017	A0A0U0A2B6	Choline kinase LicA
+TL7_1993	EOOINEPP_01018	A0A229FXM7	Choline permease LicB
+TL7_1993	EOOINEPP_01019	A0A0T7TTU0	Cholinephosphate cytidylyltransferase LicC
+TL7_1993	EOOINEPP_01020	A0A0H2UQA6	DNA protecting protein DprA
+TL7_1993	EOOINEPP_01021	C1CEL8	Integral membrane protein
+TL7_1993	EOOINEPP_01022	A0A380LXW8	DNA topoisomerase I
+TL7_1993	EOOINEPP_01023	Q8DPJ0	Hypothetical protein related to heme utilization
+TL7_1993	EOOINEPP_01024	A0A0E8T1X1	Cytoplasmic copper homeostasis protein CutC
+TL7_1993	EOOINEPP_01025	C1CEL4	Hypothetical protein
+TL7_1993	EOOINEPP_01026	A0AA86J9U9	2-isopropylmalate synthase
+TL7_1993	EOOINEPP_01027	A0AA86JD36	hypothetical protein
+TL7_1993	EOOINEPP_01028	A0AA86MJR9	3-isopropylmalate dehydrogenase
+TL7_1993	EOOINEPP_01029	B1IC48	Putative membrane protein
+TL7_1993	EOOINEPP_01030	A0A0E8SRX2	3-isopropylmalate dehydratase small subunit
+TL7_1993	EOOINEPP_01031	A0A098ZBM5	Hypothetical protein
+TL7_1993	EOOINEPP_01032	A0AA86MBU9	Endonuclease
+TL7_1993	EOOINEPP_01033	A0AA86JIT2	Hypothetical protein
+TL7_1993	EOOINEPP_01034	A0AA86JCR4	GMP reductase
+TL7_1993	EOOINEPP_01035		tRNA-Arg(ccg)
+TL7_1993	EOOINEPP_01035		
+TL7_1993	EOOINEPP_01036	A0A0B7M364	Ribonuclease III
+TL7_1993	EOOINEPP_01037	A0AA86JA36	Chromosome partition protein SMC
+TL7_1993	EOOINEPP_01038	A0AA86J829	Hydrolase%2C HAD superfamily
+TL7_1993	EOOINEPP_01039	A0A0U0GYB8	Hydrolase%2C HAD superfamily
+TL7_1993	EOOINEPP_01040	A0AA86JQG6	Signal recognition particle receptor FtsY
+TL7_1993	EOOINEPP_01041	A0A0U0MGK9	Glucose-6-phosphate 1-dehydrogenase
+TL7_1993	EOOINEPP_01042	A0A0B7LWY7	Glutamine transport ATP-binding protein GlnQ
+TL7_1993	EOOINEPP_01043	A0AA86JD41	Glutamine ABC transporter GlnHP5%2C containing substrate-binding and permease domains
+TL7_1993	EOOINEPP_01044	A0A0B7M3X4	CAAX amino terminal protease family protein
+TL7_1993	EOOINEPP_01045	A0AA86MIU3	Excinuclease ABC subunit B
+TL7_1993	EOOINEPP_01046	C1CEJ4	Acetyltransferase
+TL7_1993	EOOINEPP_01047	A0AA86MFP4	Acetyltransferase
+TL7_1993	EOOINEPP_01048	A0AA86MBV3	MutT/Nudix family protein
+TL7_1993	EOOINEPP_01049	Q8DPL1	Transcriptional repressor of NAD biosynthesis
+TL7_1993	EOOINEPP_01050	C1CEJ0	Substrate-specific component NiaX of putative niacin ECF transporter
+TL7_1993	EOOINEPP_01051	Q8DPL2	Substrate-specific component PanT of putative pantothenate ECF transporter
+TL7_1993	EOOINEPP_01052	Q8DPL3	Phosphopantothenoylcysteine decarboxylase
+TL7_1993	EOOINEPP_01053	C1CEI7	Phosphopantothenoylcysteine synthetase
+TL7_1993	EOOINEPP_01054	B5E4W4	Formate--tetrahydrofolate ligase
+TL7_1993	EOOINEPP_01055	C8XPY5	A/G-specific adenine glycosylase
+TL7_1993	EOOINEPP_01056	Q9S1K0	Two-component system response regulator VicR
+TL7_1993	EOOINEPP_01057	A0A0I6LZG5	Two-component system sensor histidine kinase VicK
+TL7_1993	EOOINEPP_01058	Q9RCS5	Zn-dependent hydrolase VicX
+TL7_1993	EOOINEPP_01059	A0A6I3U6U1	IS1167 transposase
+TL7_1993	EOOINEPP_01060		Srn266
+TL7_1993	EOOINEPP_01060		
+TL7_1993	EOOINEPP_01061	A0A558SUE3	Replicon stabilization protein RelB2
+TL7_1993	EOOINEPP_01062	Q8CYQ7	mRNA interferase RelE2
+TL7_1993	EOOINEPP_01063	A0A380LVR6	hypothetical protein
+TL7_1993	EOOINEPP_01064	A0AA87CBD3	L-lactate dehydrogenase
+TL7_1993	EOOINEPP_01065	Q3HZH7	DNA gyrase subunit A
+TL7_1993	EOOINEPP_01066	A0A0T9ISP7	Sortase SrtA%2C LPXTG specific
+TL7_1993	EOOINEPP_01067	A0A0U0EGM1	Formate-nitrate transporter
+TL7_1993	EOOINEPP_01068	C1C7I2	hypothetical protein
+TL7_1993	EOOINEPP_01069	A0AA86JKC1	Cystathionine gamma-synthase
+TL7_1993	EOOINEPP_01070	A0A0B7LSK6	Hypothetical protein
+TL7_1993	EOOINEPP_01071	B2IPR9	tRNA pseudouridine synthase B
+TL7_1993	EOOINEPP_01072	B2IPS0	Hypothetical protein
+TL7_1993	EOOINEPP_01073	Q8CYQ8	Hypothetical protein
+TL7_1993	EOOINEPP_01074	Q04KA9	Uridine kinase
+TL7_1993	EOOINEPP_01075	A0AA86JRK2	Exodeoxyribonuclease VII large subunit
+TL7_1993	EOOINEPP_01076	Q04KB1	Exodeoxyribonuclease VII small subunit
+TL7_1993	EOOINEPP_01077	A0AA86JB49	(2E%2C6E)-farnesyl diphosphate synthase
+TL7_1993	EOOINEPP_01078	A0A0B7LYQ9	RNA-binding methyltransferase
+TL7_1993	EOOINEPP_01079	A0A0T8BDD5	Arginine pathway regulatory protein AhrC
+TL7_1993	EOOINEPP_01080	A0A380LU63	DNA repair protein RecN
+TL7_1993	EOOINEPP_01081	C1C7H0	Serine/threonine protein phosphatase
+TL7_1993	EOOINEPP_01082	B2IPT0	Translation elongation factor LepA
+TL7_1993	EOOINEPP_01083	A0AA86MCF8	Hypothetical protein
+TL7_1993	EOOINEPP_01084	A0AA86JKD2	Galactose-specific PTS IIA component
+TL7_1993	EOOINEPP_01085	A0A0H2UQA9	Galactose-specific PTS IIB component
+TL7_1993	EOOINEPP_01086	A0A0U0PEN1	IS5 family transposase ISSpn7
+TL7_1993	EOOINEPP_01087	C1CEF7	hypothetical protein
+TL7_1993	EOOINEPP_01088	A0AA86J9A5	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_01089	C1CEF5	Aldose epimerase
+TL7_1993	EOOINEPP_01090	Q8DPN9	Galactose-6-phosphate isomerase%2C LacA subunit
+TL7_1993	EOOINEPP_01091	Q97QL1	Galactose-6-phosphate isomerase%2C LacB subunit
+TL7_1993	EOOINEPP_01092	A0A0U0FU16	Tagatose-6-phosphate kinase LacC
+TL7_1993	EOOINEPP_01093	C1C7F9	Tagatose 1%2C6-diphosphate aldolase
+TL7_1993	EOOINEPP_01094	C1C7F8	Beta-glucoside bgl operon antiterminator LacT%2C BglG family
+TL7_1993	EOOINEPP_01095	Q8DPP4	Lactose-specific PTS IIA component
+TL7_1993	EOOINEPP_01096	A0AA86MPJ9	Lactose-specific PTS IIBC components
+TL7_1993	EOOINEPP_01097	A0AA86MGA6	6-phospho-beta-galactosidase
+TL7_1993	EOOINEPP_01098	B2IPU3	hypothetical protein
+TL7_1993	EOOINEPP_01099	A0A0B7LYU0	Lactose phosphotransferase system repressor
+TL7_1993	EOOINEPP_01100	A0AA86JE37	Ribonucleotide reductase of class Ib%2C beta subunit
+TL7_1993	EOOINEPP_01101	Q8CWR3	Ribonucleotide reductase of class Ib%2C alpha subunit
+TL7_1993	EOOINEPP_01102	Q8DPP9	Glutaredoxin-like protein NrdH
+TL7_1993	EOOINEPP_01103	Q8DPQ0	Phosphotransferase system%2C phosphocarrier protein HPr
+TL7_1993	EOOINEPP_01104	A0A0B7LFZ1	Phosphoenolpyruvate-protein phosphotransferase of PTS
+TL7_1993	EOOINEPP_01105	A0AA86JJ02	Pneumococcal histidine triad protein B
+TL7_1993	EOOINEPP_01106	A0A0E8IDI5	PTS-dependent dihydroxyacetone kinase%2C phosphotransferase subunit DhaM
+TL7_1993	EOOINEPP_01107	A0A0H2ZPD2	2-haloalkanoic acid dehalogenase
+TL7_1993	EOOINEPP_01108	A0A2L1GXP5	Hypothetical protein
+TL7_1993	EOOINEPP_01109	B2IPV6	Uracil-DNA glycosylase%2C family 1
+TL7_1993	EOOINEPP_01110	C8XPX7	8-oxo-dGTP diphosphatase MutX
+TL7_1993	EOOINEPP_01111	A0AA86MJP0	Dihydroorotase
+TL7_1993	EOOINEPP_01112	A0A0B7L0U2	Hypothetical protein
+TL7_1993	EOOINEPP_01113	A0A0B7LQG5	Dihydrolipoamide acetyltransferase
+TL7_1993	EOOINEPP_01114	C1CED0	Acetoin dehydrogenase E1 component alpha-subunit
+TL7_1993	EOOINEPP_01115	A0AA86JKZ3	Acetoin dehydrogenase E1 component beta-subunit
+TL7_1993	EOOINEPP_01116	C1C7D3	Dihydrolipoamide acetyltransferase (E2) component of acetoin dehydrogenase complex
+TL7_1993	EOOINEPP_01117	A0A0E9GX80	Dihydrolipoamide dehydrogenase of acetoin dehydrogenase
+TL7_1993	EOOINEPP_01118	C1C7D1	Lipoate-protein ligase A
+TL7_1993	EOOINEPP_01119	A0AA86JA04	Tyrosine recombinase XerS
+TL7_1993	EOOINEPP_01120	A0AA95DDK6	Voltage-gated chloride channel family protein
+TL7_1993	EOOINEPP_01121	A0AA95IL15	Ribonuclease HII
+TL7_1993	EOOINEPP_01122	C1CEC2	50S ribosomal subunit maturation GTPase RbgA
+TL7_1993	EOOINEPP_01123	I6L8M4	IS1380 family transposase ISSpn5
+TL7_1993	EOOINEPP_01124	A0A380LXL7	Zinc metalloprotease ZmpB precursor
+TL7_1993	EOOINEPP_01125	A0A4J2BUS1	IgA1 protease ZmpA
+TL7_1993	EOOINEPP_01126	A0A0B7LQ89	Hypothetical protein
+TL7_1993	EOOINEPP_01127	A0AA86JIH5	ATP-dependent nuclease subunit RexA
+TL7_1993	EOOINEPP_01128	A0AA86JRQ2	ATP-dependent nuclease subunit RexB
+TL7_1993	EOOINEPP_01129	A0AA86JVP9	IS630 family transposase IS630-Spn1
+TL7_1993	EOOINEPP_01130	C1CRM6	Enolase
+TL7_1993	EOOINEPP_01131	Q8CYR5	Hypothetical protein
+TL7_1993	EOOINEPP_01132	A0AA86MJF7	Glycerate kinase
+TL7_1993	EOOINEPP_01133	A0A0B7M8L9	Phosphoserine phosphatase
+TL7_1993	EOOINEPP_01134	A0A0E9GYG9	Glycogen biosynthesis ADP-glucose--glucan transglucosylase GlgA
+TL7_1993	EOOINEPP_01135	Q8DPS4	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgD
+TL7_1993	EOOINEPP_01136	Q97QS7	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgC
+TL7_1993	EOOINEPP_01137	A0AA86JE71	1%2C4-alpha-glucan-branching enzyme GlgB
+TL7_1993	EOOINEPP_01138	C1CEA6	Glyceraldehyde-3-phosphate dehydrogenase (NADP(+))
+TL7_1993	EOOINEPP_01139	C1CEA5	Putative glycogen debranching enzyme
+TL7_1993	EOOINEPP_01140	A0A6G2DA64	DNA ligase (NAD(+))
+TL7_1993	EOOINEPP_01141	A0AA86JII7	Macrolide efflux ABC transporter membrane-spanning permease
+TL7_1993	EOOINEPP_01142	A0AA86JRQ9	Positive transcriptional regulator%2C MutR family
+TL7_1993	EOOINEPP_01143	A0AA86JVQ6	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01144	C1CEA0	DNA-binding protein HlpA
+TL7_1993	EOOINEPP_01145	C1CE99	DegV family protein
+TL7_1993	EOOINEPP_01146	C1C7A5	Transporter
+TL7_1993	EOOINEPP_01147	A0A0I8WJY3	Bifunctional FMN adenylyltransferase/riboflavin kinase RibF
+TL7_1993	EOOINEPP_01148	A0AAD2Q8N3	IS1380 family transposase ISSpn5
+TL7_1993	EOOINEPP_01149	Q04KI2	LSU ribosomal protein L27p
+TL7_1993	EOOINEPP_01150	Q8DPT7	Putative ribosomal protein
+TL7_1993	EOOINEPP_01151	Q97QU4	LSU ribosomal protein L21p
+TL7_1993	EOOINEPP_01152		L21_leader
+TL7_1993	EOOINEPP_01152		
+TL7_1993	EOOINEPP_01153	A0AA86JB64	Hypothetical protein
+TL7_1993	EOOINEPP_01154	Q04KI6	Hypothetical protein co-occurring with RecR
+TL7_1993	EOOINEPP_01155		Srn266
+TL7_1993	EOOINEPP_01155		
+TL7_1993	EOOINEPP_01156	A0AA86JAB2	IS1167 transposase Orf1
+TL7_1993	EOOINEPP_01157	A0A559A0J2	hypothetical protein
+TL7_1993	EOOINEPP_01158	C1CGD6	IS1167 transposase
+TL7_1993	EOOINEPP_01159		SpR14_sRNA
+TL7_1993	EOOINEPP_01159		
+TL7_1993	EOOINEPP_01160	Q8DPU0	Phosphate acetyltransferase
+TL7_1993	EOOINEPP_01161	A0AA86MIQ4	RluD-like protein
+TL7_1993	EOOINEPP_01162	B2IQ09	NAD kinase
+TL7_1993	EOOINEPP_01163	Q8DPU2	GTP pyrophosphokinase
+TL7_1993	EOOINEPP_01164	Q8DPU3	Adenylate cyclase
+TL7_1993	EOOINEPP_01165	P65242	Ribose-phosphate pyrophosphokinase
+TL7_1993	EOOINEPP_01166	C1CE80	Cysteine desulfurase
+TL7_1993	EOOINEPP_01167	Q8CYS0	Hypothetical protein
+TL7_1993	EOOINEPP_01168	A0A237JSH2	Hypothetical protein
+TL7_1993	EOOINEPP_01169	C1CRJ3	Redox-sensitive transcriptional regulator Rex
+TL7_1993	EOOINEPP_01170	C1C786	Glutamine amidotransferase%2C class I
+TL7_1993	EOOINEPP_01171	A0A062WLA7	DNA repair protein RadC
+TL7_1993	EOOINEPP_01172	A0AA86JIL8	ATP-dependent DNA helicase PcrA
+TL7_1993	EOOINEPP_01173	A0AA86MBR7	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_01174	A0A0B7LX61	IS5 family transposase ISSpn7
+TL7_1993	EOOINEPP_01175	A0A0T8VRH1	hypothetical protein
+TL7_1993	EOOINEPP_01176	Q8DPV1	Methionine aminopeptidase
+TL7_1993	EOOINEPP_01177	A0A0B7M8Z1	Cytosolic protein containing multiple CBS domains
+TL7_1993	EOOINEPP_01178	C1CE69	Ribosomal-protein-S5p-alanine acetyltransferase
+TL7_1993	EOOINEPP_01179	Q97QW6	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+TL7_1993	EOOINEPP_01180		group-II-D1D4-3
+TL7_1993	EOOINEPP_01180		
+TL7_1993	EOOINEPP_01181	C1CE67	Hypothetical protein
+TL7_1993	EOOINEPP_01182	A0AA86JQ84	GTP-binding protein ObgE
+TL7_1993	EOOINEPP_01183	C1CE65	Hypothetical protein
+TL7_1993	EOOINEPP_01184	A0AA86J7V7	Hypothetical protein
+TL7_1993	EOOINEPP_01185	A0A062WRH4	1%2C2-diacylglycerol 3-glucosyltransferase LafA
+TL7_1993	EOOINEPP_01186	A0A380LWR5	Diglucosyl diacylglycerol synthase LafB
+TL7_1993	EOOINEPP_01187	Q8DPW0	Putative aromatic ring hydroxylating enzyme
+TL7_1993	EOOINEPP_01188	P0A4J0	RNA polymerase sigma factor RpoD
+TL7_1993	EOOINEPP_01189	B1IBL2	DNA primase
+TL7_1993	EOOINEPP_01190	A0AA86MFK1	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01191	A0A0H2UPW3	Putative tryptophan-specific ABC transporter permease protein TrpY
+TL7_1993	EOOINEPP_01192	A0A558TB35	ABC transporter substrate-binding protein
+TL7_1993	EOOINEPP_01193		T-box
+TL7_1993	EOOINEPP_01193		
+TL7_1993	EOOINEPP_01194	B2IQ40	Phosphoenolpyruvate carboxylase
+TL7_1993	EOOINEPP_01195	A0A0E7RLL4	Cell division protein FtsW
+TL7_1993	EOOINEPP_01196	B2IQ42	hypothetical protein
+TL7_1993	EOOINEPP_01197	A0AA86JUC1	Peptidase E
+TL7_1993	EOOINEPP_01198	B2IQ45	hypothetical protein
+TL7_1993	EOOINEPP_01199	A0A0U0I1A6	hypothetical protein
+TL7_1993	EOOINEPP_01200		pemK
+TL7_1993	EOOINEPP_01200		
+TL7_1993	EOOINEPP_01201	C1C734	Putative repressor protein%2C phage associated
+TL7_1993	EOOINEPP_01202	B2IQ47	hypothetical protein
+TL7_1993	EOOINEPP_01203	B2IQ49	hypothetical protein
+TL7_1993	EOOINEPP_01204	A0AA86JCH4	Multidrug ABC transporter permease protein
+TL7_1993	EOOINEPP_01205	A0AA86JIK2	Multidrug ABC transporter permease protein
+TL7_1993	EOOINEPP_01206	A0A4N2HCH5	Antibiotic ABC transporter permease protein
+TL7_1993	EOOINEPP_01207	A0A237K3R9	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01208	A0A0T7ZX26	Tyrosine-protein phosphatase
+TL7_1993	EOOINEPP_01209	C1C727	Methionyl-tRNA synthetase
+TL7_1993	EOOINEPP_01210	A0A0T8NQG6	Chloramphenicol acetyltransferase
+TL7_1993	EOOINEPP_01211	A0A0T7JD98	hypothetical protein
+TL7_1993	EOOINEPP_01212	A0A0T8W5C7	Histidinol-phosphate aminotransferase
+TL7_1993	EOOINEPP_01213	A0A0T7JD88	Long-chain-fatty-acid--CoA ligase
+TL7_1993	EOOINEPP_01214	A0A0T8EX30	hypothetical protein
+TL7_1993	EOOINEPP_01215	A0A0T8AV73	hypothetical protein
+TL7_1993	EOOINEPP_01216	A0A0T8EX55	Acyl carrier protein
+TL7_1993	EOOINEPP_01217	A0A380LVQ9	hypothetical protein
+TL7_1993	EOOINEPP_01218	A0A0T8EX65	hypothetical protein
+TL7_1993	EOOINEPP_01219	A0AA44MQQ7	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_01220	A0AA86JIJ2	ISSpn8 transposase
+TL7_1993	EOOINEPP_01221	A0A0T9GLB7	hypothetical protein
+TL7_1993	EOOINEPP_01222	A0A0T8SRJ5	IS1182 family transposase ISAco1
+TL7_1993	EOOINEPP_01223	A0A4L7JVF0	hypothetical protein
+TL7_1993	EOOINEPP_01224	A0A0U0EP22	hypothetical protein
+TL7_1993	EOOINEPP_01225	A0AA86MJL7	Tn5252 Orf9 protein
+TL7_1993	EOOINEPP_01226	A0A098ANV0	Tn5252 Orf10 protein
+TL7_1993	EOOINEPP_01227	A0A0T8SSW1	hypothetical protein
+TL7_1993	EOOINEPP_01228	A0A9P1S8G1	hypothetical protein
+TL7_1993	EOOINEPP_01229	A0AA86JQ57	hypothetical protein
+TL7_1993	EOOINEPP_01230	A0AA86JGR6	hypothetical protein
+TL7_1993	EOOINEPP_01231	A0AA86J7T3	hypothetical protein
+TL7_1993	EOOINEPP_01232	A0A380LTS5	DNA replication and repair protein RecF
+TL7_1993	EOOINEPP_01233	A0A0T8SRV3	hypothetical protein
+TL7_1993	EOOINEPP_01234	A0A0U0GUB2	Choline-binding protein CbpF
+TL7_1993	EOOINEPP_01235	A0A0T8SRN0	hypothetical protein
+TL7_1993	EOOINEPP_01236	A0A0U0FX18	hypothetical protein
+TL7_1993	EOOINEPP_01237	A0A380LVP0	hypothetical protein
+TL7_1993	EOOINEPP_01238	A0A2Z4HWM5	Tyrosine recombinase XerS
+TL7_1993	EOOINEPP_01239	A0A0T8STN7	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
+TL7_1993	EOOINEPP_01240	A0A0T7YHJ0	Antitoxin PezA
+TL7_1993	EOOINEPP_01241	A0A0B7LGP2	hypothetical protein
+TL7_1993	EOOINEPP_01242	A0A0U0GUD4	Neopullulanase
+TL7_1993	EOOINEPP_01243	A0A0B7M5J3	Neopullulanase
+TL7_1993	EOOINEPP_01244	A0A2Z4HWN2	Neopullulanase
+TL7_1993	EOOINEPP_01245	C1C751	Transcriptional regulator
+TL7_1993	EOOINEPP_01246	A0A0U0FZC1	Putative hydrolase
+TL7_1993	EOOINEPP_01247	C1C749	Hypothetical protein
+TL7_1993	EOOINEPP_01248	B2IPK0	Hypothetical protein
+TL7_1993	EOOINEPP_01249	B2IPJ6	Hypothetical protein
+TL7_1993	EOOINEPP_01250	A0A2Z4HWN8	Phage integrase
+TL7_1993	EOOINEPP_01251	Q8CYT9	Hypothetical protein
+TL7_1993	EOOINEPP_01252		pemK
+TL7_1993	EOOINEPP_01252		
+TL7_1993	EOOINEPP_01253	Q8CYU1	Putative type II restriction endonuclease
+TL7_1993	EOOINEPP_01254	A0A2Z4HWP0	Iron compound ABC uptake transporter ATP-binding protein PiaD
+TL7_1993	EOOINEPP_01255	Q8DPY4	Iron compound ABC uptake transporter permease protein PiaC
+TL7_1993	EOOINEPP_01256	B2IPI9	Iron compound ABC uptake transporter permease protein PiaB
+TL7_1993	EOOINEPP_01257	Q8DPY6	Iron compound ABC uptake transporter substrate-binding protein PiaA
+TL7_1993	EOOINEPP_01258	C1CE21	Hypothetical protein
+TL7_1993	EOOINEPP_01259		SpF39_sRNA
+TL7_1993	EOOINEPP_01259		
+TL7_1993	EOOINEPP_01260		SpF61_sRNA
+TL7_1993	EOOINEPP_01260		
+TL7_1993	EOOINEPP_01261	A0A0B7LQI0	23S rRNA (uracil(1939)-C(5))-methyltransferase
+TL7_1993	EOOINEPP_01262	C1CE19	Extracellular protein
+TL7_1993	EOOINEPP_01263	A0A0I9F9I5	Pneumococcal vaccine antigen A
+TL7_1993	EOOINEPP_01264	A0A5R9AW41	Pseudouridylate synthase%2C 23S RNA-specific
+TL7_1993	EOOINEPP_01265	A0A380LTP6	Serine hydroxymethyltransferase
+TL7_1993	EOOINEPP_01266	B1IBI2	N-acetyltransferase%2C GCN5-family
+TL7_1993	EOOINEPP_01267	C1CE14	Threonylcarbamoyl-AMP synthase TsaC
+TL7_1993	EOOINEPP_01268	C1CE13	Peptide chain release factor N(5)-glutamine methyltransferase
+TL7_1993	EOOINEPP_01269	Q8DPZ4	Peptide chain release factor 1
+TL7_1993	EOOINEPP_01270	A0A0E9GQZ0	Thymidine kinase
+TL7_1993	EOOINEPP_01271	B2IPH4	Bifunctional 4-oxalocrotonate tautomerase/xylose transport system permease protein XylH
+TL7_1993	EOOINEPP_01272	A0AA86MIL8	GTPase and tRNA-U34 5-formylation enzyme MnmE
+TL7_1993	EOOINEPP_01273	C1CK93	4-hydroxy-tetrahydrodipicolinate synthase
+TL7_1993	EOOINEPP_01274	A0AA86JCQ6	Aspartate-semialdehyde dehydrogenase
+TL7_1993	EOOINEPP_01275		asd
+TL7_1993	EOOINEPP_01275		
+TL7_1993	EOOINEPP_01276		tRNA-Thr(ggt)
+TL7_1993	EOOINEPP_01276		
+TL7_1993	EOOINEPP_01277	Q8DQ01	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
+TL7_1993	EOOINEPP_01278		preQ1-II
+TL7_1993	EOOINEPP_01278		
+TL7_1993	EOOINEPP_01279	A0A0B7L7C1	GtrA family protein
+TL7_1993	EOOINEPP_01280	A0A064C208	Large-conductance mechanosensitive channel MscL
+TL7_1993	EOOINEPP_01281	A0AA86JQ28	Ferrochelatase%2C protoheme ferro-lyase
+TL7_1993	EOOINEPP_01282	A0AA86JGM0	Tripeptide aminopeptidase PepT
+TL7_1993	EOOINEPP_01283	A0A0T8EVT7	hypothetical protein
+TL7_1993	EOOINEPP_01284	A0AA86J9Q4	hypothetical protein
+TL7_1993	EOOINEPP_01285	A0A0B7LLD3	Pneumococcal histidine triad protein E
+TL7_1993	EOOINEPP_01286	A0AA86JCD4	hypothetical protein
+TL7_1993	EOOINEPP_01287	A0A0E3GJB8	Pneumococcal histidine triad protein D
+TL7_1993	EOOINEPP_01288	Q8DQ09	Laminin-binding surface protein
+TL7_1993	EOOINEPP_01289	A0A0U0CNB1	Cationic amino acid transporter%2C APC Superfamily
+TL7_1993	EOOINEPP_01290		SpF36_sRNA
+TL7_1993	EOOINEPP_01290		
+TL7_1993	EOOINEPP_01291	A0AA86JB35	Thiol:disulfide oxidoreductase
+TL7_1993	EOOINEPP_01292	Q8DQ11	Cytochrome c-type biogenesis protein CcdA-2
+TL7_1993	EOOINEPP_01293	A0AA86JA82	Hypothetical protein
+TL7_1993	EOOINEPP_01294	C1CGU6	IS630 family transposase IS630-Spn1
+TL7_1993	EOOINEPP_01295	C1CDY9	Glycerophosphoryl diester phosphodiesterase
+TL7_1993	EOOINEPP_01296	A0AA86MIU7	DNA polymerase III epsilon subunit
+TL7_1993	EOOINEPP_01297	A0A0H2UPQ5	Transcriptional regulator OrfX
+TL7_1993	EOOINEPP_01298	C1CDY6	Bifunctional 5'-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+TL7_1993	EOOINEPP_01299	Q8CYV2	Hypothetical protein
+TL7_1993	EOOINEPP_01300	A0AA86JIV9	ADP-ribose pyrophosphatase
+TL7_1993	EOOINEPP_01301	B1IBE8	Bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate N-acetyltransferase
+TL7_1993	EOOINEPP_01302	A0AA86J8V6	1%2C4-beta-N-acetylmuramidase%2C lyzozyme M1
+TL7_1993	EOOINEPP_01303	A0A0B7M194	Membrane protein
+TL7_1993	EOOINEPP_01304	A0A0H2UPP4	Transcriptional regulator
+TL7_1993	EOOINEPP_01305	Q8DQ21	Phosphoglycerate mutase family 5 protein
+TL7_1993	EOOINEPP_01306	A0AA86JQI9	hypothetical protein
+TL7_1993	EOOINEPP_01307	A0A0B7L788	IS3 family transposase ISSpn1
+TL7_1993	EOOINEPP_01308	Q8DQ24	Putative parvulin type peptidyl-prolyl isomerase PrsA
+TL7_1993	EOOINEPP_01309	A0A0U0FFI2	O-methyltransferase family protein
+TL7_1993	EOOINEPP_01310	A0AA86MJT3	Oligoendopeptidase F
+TL7_1993	EOOINEPP_01311	A0A0F7YG00	Competence protein CoiA
+TL7_1993	EOOINEPP_01312	Q8DQ28	Tellurite methyltransferase TehB
+TL7_1993	EOOINEPP_01313	Q8DQ29	tmRNA-binding protein SmpB
+TL7_1993	EOOINEPP_01314	A0AA86MBW2	3'-to-5' exoribonuclease RNase R
+TL7_1993	EOOINEPP_01315	Q8DQ31	Protein-export membrane protein SecG
+TL7_1993	EOOINEPP_01316	C1C6U9	Multidrug resistance efflux pump PmrA
+TL7_1993	EOOINEPP_01317	A0A0T8G196	Dephospho-CoA kinase
+TL7_1993	EOOINEPP_01318	A0A0U0FFB9	Formamidopyrimidine-DNA glycosylase MutM
+TL7_1993	EOOINEPP_01319	A0A0B7LRL2	GTP-binding protein Era
+TL7_1993	EOOINEPP_01320	A0A0T8T8G5	Diacylglycerol kinase
+TL7_1993	EOOINEPP_01321	A0A0B7M6E0	Metal-dependent hydrolase YbeY
+TL7_1993	EOOINEPP_01322	A0A0B7LE52	Fibronectin/fibrinogen-binding protein
+TL7_1993	EOOINEPP_01323	A0AA86J9Z2	Endo-beta-N-acetylglucosaminidase LytB
+TL7_1993	EOOINEPP_01324	C1C6U1	Dihydroorotate dehydrogenase (NAD(+))%2C catalytic subunit
+TL7_1993	EOOINEPP_01325	A0A0B7M800	Dihydroorotate dehydrogenase (NAD(+))%2C electron transfer subunit
+TL7_1993	EOOINEPP_01326	C1CDV7	Lactoylglutathione lyase
+TL7_1993	EOOINEPP_01327	Q04KW7	LSU ribosomal protein L20p
+TL7_1993	EOOINEPP_01328	Q04KW8	LSU ribosomal protein L35p
+TL7_1993	EOOINEPP_01329	Q04KW9	Translation initiation factor 3
+TL7_1993	EOOINEPP_01330		L20_leader
+TL7_1993	EOOINEPP_01330		
+TL7_1993	EOOINEPP_01331	A0AA86MBW6	Hypothetical protein
+TL7_1993	EOOINEPP_01332	A0AA86JJ09	ABC transporter%2C ATP-binding protein
+TL7_1993	EOOINEPP_01333	A0AA86JCV2	Late competence DNA transporter ComEC
+TL7_1993	EOOINEPP_01334	A0AA86J8X6	Late competence DNA receptor ComEA
+TL7_1993	EOOINEPP_01335	A0AA86JA67	Acetyltransferase%2C GNAT family
+TL7_1993	EOOINEPP_01336		Srn266
+TL7_1993	EOOINEPP_01336		
+TL7_1993	EOOINEPP_01337	A0A6I3U6U1	IS1167 transposase
+TL7_1993	EOOINEPP_01338	A0AA86JBX2	Alanine dehydrogenase
+TL7_1993	EOOINEPP_01339	Q8DQ44	Alanine dehydrogenase 2
+TL7_1993	EOOINEPP_01340	Q8DQ45	Alanine dehydrogenase
+TL7_1993	EOOINEPP_01341	Q8CYV8	hypothetical protein
+TL7_1993	EOOINEPP_01342	Q8CYV9	Acetyltransferase
+TL7_1993	EOOINEPP_01343	Q8DQ46	Phosphate starvation-inducible protein PhoH
+TL7_1993	EOOINEPP_01344	C1CRV1	Hypothetical protein
+TL7_1993	EOOINEPP_01345	Q8DQ48	S1 RNA-binding domain protein
+TL7_1993	EOOINEPP_01346	A0A0U0G1H3	Ribosome-recycling factor
+TL7_1993	EOOINEPP_01347	B2IP99	Uridine monophosphate kinase
+TL7_1993	EOOINEPP_01348	A0A380LWC0	Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO
+TL7_1993	EOOINEPP_01349	A0A380LV30	IS5 family transposase ISSpn7
+TL7_1993	EOOINEPP_01350	A0A380LX17	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_01351	C1C6S1	Replication protein
+TL7_1993	EOOINEPP_01352	C1CDT5	hypothetical protein
+TL7_1993	EOOINEPP_01353	A0AA86JBY1	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+TL7_1993	EOOINEPP_01354	Q97R89	DNA replication initiation control protein YabA
+TL7_1993	EOOINEPP_01355	A0A0U0H4N6	DNA polymerase III delta prime subunit
+TL7_1993	EOOINEPP_01356	A0A0B7M1W3	Thymidylate kinase
+TL7_1993	EOOINEPP_01357	A0A0D6J8H3	Pyrroline-5-carboxylate reductase
+TL7_1993	EOOINEPP_01358	A0A380LWA9	Gamma-glutamyl phosphate reductase
+TL7_1993	EOOINEPP_01359	A0A5R9ATZ3	Glutamate 5-kinase
+TL7_1993	EOOINEPP_01360	A0A380LX05	Teichoic acid phosphorylcholine esterase%2C choline-binding protein CbpE
+TL7_1993	EOOINEPP_01361	B2IP85	Ribosomal large subunit pseudouridine synthase D
+TL7_1993	EOOINEPP_01362	Q8DQ64	Lipoprotein signal peptidase
+TL7_1993	EOOINEPP_01363	C1CDS4	Cysteine and methionine metabolism regulator CmbR%2C LysR family
+TL7_1993	EOOINEPP_01364	A0A0U0CQK5	CAAX amino terminal protease family protein
+TL7_1993	EOOINEPP_01365	A0A0T8EEJ9	Hypothetical protein
+TL7_1993	EOOINEPP_01366	C1C6Q5	Hydrolase%2C HAD superfamily
+TL7_1993	EOOINEPP_01367	C1CDS0	N-carbamoylputrescine amidase
+TL7_1993	EOOINEPP_01368	Q97RA4	Agmatine deiminase
+TL7_1993	EOOINEPP_01369	A0A0T8RS82	Carboxynorspermidine decarboxylase
+TL7_1993	EOOINEPP_01370	A0A0F7YFU7	Carboxynorspermidine synthase
+TL7_1993	EOOINEPP_01371	P66836	Spermidine synthase
+TL7_1993	EOOINEPP_01372	A0A0T9IUQ1	hypothetical protein
+TL7_1993	EOOINEPP_01373	A0A0H2UPK4	Arginine decarboxylase
+TL7_1993	EOOINEPP_01374	A0AA86MBC9	ISSpn8 transposase
+TL7_1993	EOOINEPP_01375	A0AA86MGP6	Hypothetical protein
+TL7_1993	EOOINEPP_01376	A0AA86MCV5	ABC transporter permease protein
+TL7_1993	EOOINEPP_01377	C1CDQ8	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01378	A0A0U0BVB4	Hypothetical protein
+TL7_1993	EOOINEPP_01379	A0A0H2UPK6	Hypothetical protein
+TL7_1993	EOOINEPP_01380		Spd-sr07
+TL7_1993	EOOINEPP_01380		
+TL7_1993	EOOINEPP_01381	A0A5C8QW28	Putative phage shock protein C
+TL7_1993	EOOINEPP_01382	A0A0B7LHD2	Putative SprT family zinc-dependent metallopeptidase
+TL7_1993	EOOINEPP_01383	A0AA86JJ79	Transcription accessory protein
+TL7_1993	EOOINEPP_01384	C1CDQ2	Hypothetical protein
+TL7_1993	EOOINEPP_01385	Q8DQ81	Putative permease
+TL7_1993	EOOINEPP_01386	B1IB73	ABC transporter substrate-binding protein
+TL7_1993	EOOINEPP_01387		Srn266
+TL7_1993	EOOINEPP_01387		
+TL7_1993	EOOINEPP_01388	A0A6I3U6U1	IS1167 transposase
+TL7_1993	EOOINEPP_01389	A0A0D6J9F7	Hypothetical protein
+TL7_1993	EOOINEPP_01390	B1IB71	Hypothetical protein
+TL7_1993	EOOINEPP_01391	C1CDP7	IS5 family transposase ISSpn7
+TL7_1993	EOOINEPP_01392	A0A0I6Q4G0	Membrane-associated protein
+TL7_1993	EOOINEPP_01393	C1CDP5	Pyruvate kinase
+TL7_1993	EOOINEPP_01394	Q97RC6	6-phosphofructokinase
+TL7_1993	EOOINEPP_01395	A0AA86JAY8	DNA polymerase III alpha subunit
+TL7_1993	EOOINEPP_01396	Q97RC8	Xaa-Pro dipeptidyl-peptidase
+TL7_1993	EOOINEPP_01397	C1CDP1	Arginine pathway regulatory protein ArgR2
+TL7_1993	EOOINEPP_01398	A0AA86JJ36	Type I restriction-modification system restriction subunit R
+TL7_1993	EOOINEPP_01399	A0A4J2ATL3	hypothetical protein
+TL7_1993	EOOINEPP_01400	C1C6M1	Tyrosine recombinase XerC
+TL7_1993	EOOINEPP_01401	C1CDN7	hypothetical protein
+TL7_1993	EOOINEPP_01402	C1CDN6	hypothetical protein
+TL7_1993	EOOINEPP_01403	A0A4N2KYX1	hypothetical protein
+TL7_1993	EOOINEPP_01404	Q8DQ91	Type I restriction-modification system DNA-methyltransferase subunit M
+TL7_1993	EOOINEPP_01405	C1CDN2	ATP-grasp-domain-containing protein
+TL7_1993	EOOINEPP_01406	C1CDN1	hypothetical protein
+TL7_1993	EOOINEPP_01407	C1CJW9	tRNA 4-thiouridine synthase ThiI
+TL7_1993	EOOINEPP_01408	A0AA86J866	Putative cysteine desulfurase
+TL7_1993	EOOINEPP_01409	A0AA86JA80	Acetyltransferase
+TL7_1993	EOOINEPP_01410	A0A4G1Y424	DNA translocase FtsK
+TL7_1993	EOOINEPP_01411	B2IP07	Fructose-specific PTS IIABC components
+TL7_1993	EOOINEPP_01412	B2IP06	1-phosphofructokinase
+TL7_1993	EOOINEPP_01413	Q8DQ97	Transcriptional repressor of the fructose operon%2C DeoR family
+TL7_1993	EOOINEPP_01414		tRNA-Ser(gga)
+TL7_1993	EOOINEPP_01414		
+TL7_1993	EOOINEPP_01415		transfer-messenger RNA%2C SsrA
+TL7_1993	EOOINEPP_01415		
+TL7_1993	EOOINEPP_01416	A0AA86MFR6	Coordinator of zonal cell elongation
+TL7_1993	EOOINEPP_01417	Q75Y43	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
+TL7_1993	EOOINEPP_01418	Q8DQA0	Iron-sulfur cluster assembly protein SufB
+TL7_1993	EOOINEPP_01419	A0AA86MJU5	Putative iron-sulfur cluster assembly scaffold protein for SUF system SufE2
+TL7_1993	EOOINEPP_01420	A0AA86JD82	Cysteine desulfurase SufS
+TL7_1993	EOOINEPP_01421	A0AA86JA12	Iron-sulfur cluster assembly protein SufD
+TL7_1993	EOOINEPP_01422	Q8DQA4	Iron-sulfur cluster assembly ATPase protein SufC
+TL7_1993	EOOINEPP_01423	Q8CYX9	Hypothetical protein
+TL7_1993	EOOINEPP_01424	A0AA86JH76	DNA polymerase III subunits gamma and tau
+TL7_1993	EOOINEPP_01425	Q8DQA6	GAF domain-containing protein
+TL7_1993	EOOINEPP_01426		Srn266
+TL7_1993	EOOINEPP_01426		
+TL7_1993	EOOINEPP_01427	A0AA86JA75	IS1167 transposase Orf1
+TL7_1993	EOOINEPP_01428	A0A380LUY3	hypothetical protein
+TL7_1993	EOOINEPP_01429	A0AA86JCW2	IS1167 transposase Orf2
+TL7_1993	EOOINEPP_01430	C1CDK9	SSU ribosomal protein S1p
+TL7_1993	EOOINEPP_01431		tRNA-Gln(ttg)
+TL7_1993	EOOINEPP_01431		
+TL7_1993	EOOINEPP_01432		tRNA-Tyr(gta)
+TL7_1993	EOOINEPP_01432		
+TL7_1993	EOOINEPP_01433	Q8CYY0	Hypothetical protein
+TL7_1993	EOOINEPP_01434	Q04L55	Pyrrolidone-carboxylate peptidase
+TL7_1993	EOOINEPP_01435	Q8DQB0	Putative membrane protein
+TL7_1993	EOOINEPP_01436	C1CDK5	Hypothetical protein
+TL7_1993	EOOINEPP_01437	A0AA86MJU1	Oligopeptide ABC transporter substrate-binding protein
+TL7_1993	EOOINEPP_01438	B1IB24	Branched-chain amino acid aminotransferase
+TL7_1993	EOOINEPP_01439	Q3HYG7	Topoisomerase IV subunit A
+TL7_1993	EOOINEPP_01440	B2INX2	Restriction enzyme BcgI alpha chain-like protein
+TL7_1993	EOOINEPP_01441	Q3HZ74	Topoisomerase IV subunit B
+TL7_1993	EOOINEPP_01442	Q04L63	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+TL7_1993	EOOINEPP_01443	A0AA86J856	IS1167 transposase
+TL7_1993	EOOINEPP_01444		Srn266
+TL7_1993	EOOINEPP_01444		
+TL7_1993	EOOINEPP_01445	Q8DR38	IS3 family transposase ISSpn11
+TL7_1993	EOOINEPP_01446	A0A4G2AB56	IS3 family transposase ISSpn11
+TL7_1993	EOOINEPP_01447	A0A0E8AVY5	hypothetical protein
+TL7_1993	EOOINEPP_01448	A0A4J2FPC2	IS3 family transposase ISSpn11
+TL7_1993	EOOINEPP_01449	C1C6I2	Putative deoxyribose-specific ABC transporter permease protein
+TL7_1993	EOOINEPP_01450	B2INW4	Putative deoxyribose-specific ABC transporter permease protein
+TL7_1993	EOOINEPP_01451	A0AA86JRX1	Putative deoxyribose-specific ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01452	C1C6H9	Nucleoside-binding protein
+TL7_1993	EOOINEPP_01453	C1C6H8	Cytidine deaminase
+TL7_1993	EOOINEPP_01454	B2INW0	Deoxyribose-phosphate aldolase
+TL7_1993	EOOINEPP_01455	A0A0T8LNS1	Pyrimidine-nucleoside phosphorylase
+TL7_1993	EOOINEPP_01456	A0A0B7M146	16S rRNA (guanine(1207)-N(2))-methyltransferase
+TL7_1993	EOOINEPP_01457	B1IB09	Hypothetical protein
+TL7_1993	EOOINEPP_01458	Q04L73	Pantothenate kinase
+TL7_1993	EOOINEPP_01459	Q8CWS0	SSU ribosomal protein S20p
+TL7_1993	EOOINEPP_01460	Q8DQC8	FlaR-related DNA topology modulation protein
+TL7_1993	EOOINEPP_01461	A0A0T8SLS4	Purine nucleoside phosphorylase
+TL7_1993	EOOINEPP_01462	A0AA86MKJ9	Thiol-activated cytolysin
+TL7_1993	EOOINEPP_01463	A0A380LV37	hypothetical protein
+TL7_1993	EOOINEPP_01464	Q8CWS2	Bifunctional purine nucleoside phosphorylase/N-ribosylnicotinamide phosphorylase
+TL7_1993	EOOINEPP_01465	B2INU8	hypothetical protein
+TL7_1993	EOOINEPP_01466	B2INU7	hypothetical protein
+TL7_1993	EOOINEPP_01467	B2INU6	Phosphopentomutase
+TL7_1993	EOOINEPP_01468	Q04L82	Ribose 5-phosphate isomerase A
+TL7_1993	EOOINEPP_01469	B1IAZ6	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+TL7_1993	EOOINEPP_01470	A0AA86JAM2	Bifunctional methylenetetrahydrofolate dehydrogenase (NADP+)/methenyltetrahydrofolate cyclohydrolase
+TL7_1993	EOOINEPP_01471	C1CDH2	Glutamine ABC transporter ATP-binding protein GlnQ4
+TL7_1993	EOOINEPP_01472	A0AA95D6I0	Glutamine ABC transporter permease GlnP4
+TL7_1993	EOOINEPP_01473	Q8DQD6	Hypothetical protein
+TL7_1993	EOOINEPP_01474	A0AA86MGG3	ATP-dependent Clp protease ATP-binding subunit ClpE
+TL7_1993	EOOINEPP_01475	A0AA86MPP1	IS630 family transposase IS630-Spn1
+TL7_1993	EOOINEPP_01476	A0A4I7EM66	MutT/Nudix family protein
+TL7_1993	EOOINEPP_01477	Q8CYY5	Hypothetical protein
+TL7_1993	EOOINEPP_01478	A0A064C0Q4	IS66 family transposase Orf2
+TL7_1993	EOOINEPP_01479	A0AA95IJ83	IS630 family transposase ISSpn2
+TL7_1993	EOOINEPP_01480	A0AA86MJ61	IS630 family transposase ISSpn2
+TL7_1993	EOOINEPP_01481	A0AA86JAZ7	Septation ring formation regulator EzrA
+TL7_1993	EOOINEPP_01482	Q3HZC3	DNA gyrase subunit B
+TL7_1993	EOOINEPP_01483	Q8DQE6	Hydrolase%2C haloacid dehalogenase-like family
+TL7_1993	EOOINEPP_01484	A0A0E7V8F7	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+TL7_1993	EOOINEPP_01485	A0AA86JS65	Cell shape-determining protein RodA
+TL7_1993	EOOINEPP_01486	A0A0U0HAD6	Bifunctional DinG family ATP-dependent helicase YoaA/DnaQ family exonuclease
+TL7_1993	EOOINEPP_01487	A0AA86JBW8	Protease
+TL7_1993	EOOINEPP_01488	Q8CYY6	Hypothetical protein
+TL7_1993	EOOINEPP_01489	Q7B3G0	Two-component system sensor histidine kinase CiaH
+TL7_1993	EOOINEPP_01490	C1CDF5	Two-component system response regulator CiaR
+TL7_1993	EOOINEPP_01491		Srn266
+TL7_1993	EOOINEPP_01491		
+TL7_1993	EOOINEPP_01492	A0A6I3U6U1	IS1167 transposase
+TL7_1993	EOOINEPP_01493	A0A0I9CPU3	Lysyl aminopeptidase PepN
+TL7_1993	EOOINEPP_01494	A0A380LYQ1	Hypothetical protein
+TL7_1993	EOOINEPP_01495	A0A380LV17	PEP-utilizing enzyme family protein
+TL7_1993	EOOINEPP_01496	A0A4J2FX54	MutT/Nudix family protein
+TL7_1993	EOOINEPP_01497	Q8CWS3	3-Ketoacyl-ACP reductase
+TL7_1993	EOOINEPP_01498	B2INR6	Hypothetical protein
+TL7_1993	EOOINEPP_01499	C1C6D4	Putative oxidoreductase
+TL7_1993	EOOINEPP_01500	A0A4J2CDM8	Hypothetical protein
+TL7_1993	EOOINEPP_01501	C1CDE4	Hypothetical protein
+TL7_1993	EOOINEPP_01502	Q8DQF6	Transcriptional regulator%2C PadR family
+TL7_1993	EOOINEPP_01503	A0AA95DA03	Methionyl-tRNA synthetase
+TL7_1993	EOOINEPP_01504	C1C6C9	ABC transporter permease protein
+TL7_1993	EOOINEPP_01505	Q8DQF8	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01506	A0A0B7MDJ4	Periplasmic component of efflux system
+TL7_1993	EOOINEPP_01507	A0AA86MK36	Glutathione reductase
+TL7_1993	EOOINEPP_01508	C1CDD2	Substrate-specific component BioY of biotin ECF transporter
+TL7_1993	EOOINEPP_01509	Q8DQG2	Hypothetical protein
+TL7_1993	EOOINEPP_01510	B2INF8	Hypothetical protein
+TL7_1993	EOOINEPP_01511	Q8CYZ1	Anaerobic ribonucleoside-triphosphate reductase
+TL7_1993	EOOINEPP_01512	Q8CWS4	tRNA (guanine(37)-N(1))-methyltransferase
+TL7_1993	EOOINEPP_01513	Q8DQG3	16S rRNA processing protein RimM
+TL7_1993	EOOINEPP_01514	Q8CYZ2	hypothetical protein
+TL7_1993	EOOINEPP_01515	A0A0T9ZUZ3	hypothetical protein
+TL7_1993	EOOINEPP_01516	C1CDC4	KH domain RNA-binding protein
+TL7_1993	EOOINEPP_01517	Q04LD0	SSU ribosomal protein S16p
+TL7_1993	EOOINEPP_01518	C1C6B4	Hypothetical protein
+TL7_1993	EOOINEPP_01519	C1C6B3	Peptidyl-prolyl cis-trans isomerase
+TL7_1993	EOOINEPP_01520	C1C6B2	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01521	A0A064BZ89	VanZF-related protein
+TL7_1993	EOOINEPP_01522	A0AA86MK41	Bifunctional 23S rRNA (adenine(2503)-C(2))-methyltransferase/tRNA (adenine(37)-C(2))-methyltransferase
+TL7_1993	EOOINEPP_01523	C1C6A9	hypothetical protein
+TL7_1993	EOOINEPP_01524	C1C6A8	Manganese superoxide dismutase
+TL7_1993	EOOINEPP_01525	A0A0B7L8W0	DNA polymerase III delta subunit
+TL7_1993	EOOINEPP_01526	Q9X9S0	Dihydroorotate dehydrogenase (fumarate)
+TL7_1993	EOOINEPP_01527	Q8DQH0	S-adenosylmethionine synthetase
+TL7_1993	EOOINEPP_01528	A0AA86JDL9	ATP-dependent RNA helicase YqfR
+TL7_1993	EOOINEPP_01529	C1CDA8	Exodeoxyribonuclease III
+TL7_1993	EOOINEPP_01530	A0A0B7LD25	Maltose- and glucose-specific PTS IICBA components
+TL7_1993	EOOINEPP_01531	B2INE0	Cell division protein FtsX
+TL7_1993	EOOINEPP_01532	C1C6A0	Cell division transporter%2C ATP-binding protein FtsE
+TL7_1993	EOOINEPP_01533	A0A0T8VFF4	Peptide chain release factor 2
+TL7_1993	EOOINEPP_01534	Q8DQH6	CBS domain protein
+TL7_1993	EOOINEPP_01535	A0AA86JAM5	Branched-chain amino acid transport ATP-binding protein LivF
+TL7_1993	EOOINEPP_01536	Q8DQH8	Branched-chain amino acid transport ATP-binding protein LivG
+TL7_1993	EOOINEPP_01537	Q8DQH9	Branched-chain amino acid transport system permease protein LivM
+TL7_1993	EOOINEPP_01538	C1CD99	High-affinity branched-chain amino acid transport system permease protein LivH
+TL7_1993	EOOINEPP_01539	C1CD98	High-affinity leucine-specific transport system%2C periplasmic binding protein LivJ
+TL7_1993	EOOINEPP_01540	A0A0T9AB05	Hypothetical protein
+TL7_1993	EOOINEPP_01541	Q04LF4	ATP-dependent Clp protease proteolytic subunit ClpP
+TL7_1993	EOOINEPP_01542	Q8DQI3	Uracil phosphoribosyltransferase
+TL7_1993	EOOINEPP_01543	C1CD94	dCMP deaminase
+TL7_1993	EOOINEPP_01544	Q8DQI5	Transcriptional regulator%2C AcrR family
+TL7_1993	EOOINEPP_01545	Q97RQ6	DegV family protein
+TL7_1993	EOOINEPP_01546	Q8DQI7	NAD(FAD)-utilizing dehydrogenase
+TL7_1993	EOOINEPP_01547	B2INC3	MutT/Nudix family protein
+TL7_1993	EOOINEPP_01548	A0AA86JR73	HTH-type transcriptional activator mta
+TL7_1993	EOOINEPP_01549	B2INC1	Sodium-dependent transporter
+TL7_1993	EOOINEPP_01550	A0AA86JAN4	Sodium-dependent transporter
+TL7_1993	EOOINEPP_01551	Q8DQJ1	Mannose-6-phosphate isomerase
+TL7_1993	EOOINEPP_01552	A0A380LT38	6-phospho-beta-glucosidase
+TL7_1993	EOOINEPP_01553	A0AA86MJ61	IS630 family transposase ISSpn2
+TL7_1993	EOOINEPP_01554	A0AA95IJ83	IS630 family transposase ISSpn2
+TL7_1993	EOOINEPP_01555	Q8CZ01	Hypothetical protein
+TL7_1993	EOOINEPP_01556	C1CD82	Pyruvate oxidase
+TL7_1993	EOOINEPP_01557	A0AA86JEC3	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
+TL7_1993	EOOINEPP_01558	C1C677	Copper-exporting ATPase
+TL7_1993	EOOINEPP_01559	C1CD79	Negative transcriptional regulator of copper transport operon
+TL7_1993	EOOINEPP_01560		TPP
+TL7_1993	EOOINEPP_01560		
+TL7_1993	EOOINEPP_01561	B2INA8	Hydroxymethylpyrimidine phosphate kinase ThiD
+TL7_1993	EOOINEPP_01562	B2INA7	Thiamin-phosphate pyrophosphorylase
+TL7_1993	EOOINEPP_01563	B8ZN21	Hydroxyethylthiazole kinase
+TL7_1993	EOOINEPP_01564	B2INA5	Substrate-specific component ThiW of putative thiazole ECF transporter
+TL7_1993	EOOINEPP_01565	B2INA4	Thiaminase II TenA
+TL7_1993	EOOINEPP_01566	B2INA3	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+TL7_1993	EOOINEPP_01567	B2INA2	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+TL7_1993	EOOINEPP_01568	C1CD71	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+TL7_1993	EOOINEPP_01569		TPP
+TL7_1993	EOOINEPP_01569		
+TL7_1993	EOOINEPP_01570	A0AA87CCP8	Thiamin-phosphate pyrophosphorylase
+TL7_1993	EOOINEPP_01571	A0AA86JRI0	Hydroxyethylthiazole kinase
+TL7_1993	EOOINEPP_01572	Q8DQK6	Thiaminase II
+TL7_1993	EOOINEPP_01573		TPP
+TL7_1993	EOOINEPP_01573		
+TL7_1993	EOOINEPP_01574	A0AA86JB23	L-Lactate 2-monooxygenase
+TL7_1993	EOOINEPP_01575	A0AA86JED3	Class II lysyl-tRNA synthetase
+TL7_1993	EOOINEPP_01576	B2IN94	L-Lactate 2-monooxygenase
+TL7_1993	EOOINEPP_01577	A0A0B7MCX0	Glutamine ABC transporter permease GlnP3a
+TL7_1993	EOOINEPP_01578	A0AA86MPI5	Glutamine ABC transporter permease GlnP3b
+TL7_1993	EOOINEPP_01579	A0A0I9CA19	Glutamine ABC transporter ATP-binding protein GlnQ3
+TL7_1993	EOOINEPP_01580	A0AA86MCE2	Glutamine ABC transporter ATP-binding protein GlnQ3
+TL7_1993	EOOINEPP_01581	Q8DQL2	hypothetical protein
+TL7_1993	EOOINEPP_01582	Q8DQL3	Amino acid ABC transporter amino acid-binding/permease protein
+TL7_1993	EOOINEPP_01583	A0A0E8ZVN9	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01584	A0A0T8NJR8	Hypothetical protein
+TL7_1993	EOOINEPP_01585	A0AA86J973	Hypothetical protein
+TL7_1993	EOOINEPP_01586	A0AA86JIB3	Hypothetical protein
+TL7_1993	EOOINEPP_01587	A0A0E9GWH4	Hypothetical protein
+TL7_1993	EOOINEPP_01588	B5E302	Orotate phosphoribosyltransferase
+TL7_1993	EOOINEPP_01589	A0AA86JB32	Orotidine 5'-phosphate decarboxylase
+TL7_1993	EOOINEPP_01590		PyrR
+TL7_1993	EOOINEPP_01590		
+TL7_1993	EOOINEPP_01591	A0A9P1Q6T2	Cell division protein DivIB
+TL7_1993	EOOINEPP_01592	A0AA86MKC2	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+TL7_1993	EOOINEPP_01593	A0AA86MJC5	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+TL7_1993	EOOINEPP_01594	A0AA86MPI9	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01595	A0A0D6J8S4	Putative immunity protein
+TL7_1993	EOOINEPP_01596	A0AA86MCE8	Hypothetical protein
+TL7_1993	EOOINEPP_01597	Q8CZ11	Putative membrane protein
+TL7_1993	EOOINEPP_01598	A0AA86Y837	GTP-binding protein TypA
+TL7_1993	EOOINEPP_01599	B2IN70	Ribosomal small subunit pseudouridine synthase A
+TL7_1993	EOOINEPP_01600	Q8CZ12	Hypothetical protein
+TL7_1993	EOOINEPP_01601	Q8DQM7	Rhodanese-like domain protein
+TL7_1993	EOOINEPP_01602	Q8DQM8	Hypothetical protein
+TL7_1993	EOOINEPP_01603	Q8DQM9	Methionine biosynthesis and transport regulator MtaR%2C LysR family
+TL7_1993	EOOINEPP_01604		Srn266
+TL7_1993	EOOINEPP_01604		
+TL7_1993	EOOINEPP_01605	A0AA86J856	IS1167 transposase
+TL7_1993	EOOINEPP_01606	A0A380LWD0	Short-chain dehydrogenase
+TL7_1993	EOOINEPP_01607	A0AA86J931	Ribonuclease Z
+TL7_1993	EOOINEPP_01608	A0AA86JI68	Cystathionine beta-lyase
+TL7_1993	EOOINEPP_01609	A0AA86JRF7	GTP-binding protein HflX
+TL7_1993	EOOINEPP_01610	A0AA86JVG4	tRNA dimethylallyltransferase MiaA
+TL7_1993	EOOINEPP_01611	Q8CZ15	Hypothetical protein
+TL7_1993	EOOINEPP_01612	Q04LL8	Thymidylate synthase
+TL7_1993	EOOINEPP_01613	A0AA86MKA4	Glucokinase
+TL7_1993	EOOINEPP_01614	A0AA86MJA8	hypothetical protein
+TL7_1993	EOOINEPP_01615	A0A0B7L5A0	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+TL7_1993	EOOINEPP_01616	A0AA86MG69	Bifunctional para-aminobenzoate synthase%2C aminase component/aminodeoxychorismate lyase
+TL7_1993	EOOINEPP_01617	A0AA86MCC3	hypothetical protein
+TL7_1993	EOOINEPP_01618	A0A5R9AXL8	YwlG
+TL7_1993	EOOINEPP_01619	A0A654UAR9	Two-component sensor kinase YesM
+TL7_1993	EOOINEPP_01620	Q8DQN8	Two-component response regulator YesN
+TL7_1993	EOOINEPP_01621	C1C622	Peptide methionine sulfoxide reductase MsrAB2
+TL7_1993	EOOINEPP_01622	A0AA87CBX6	Thiol:disulfide oxidoreductase
+TL7_1993	EOOINEPP_01623	C1CD25	Cytochrome c-type biogenesis protein CcdA-1
+TL7_1993	EOOINEPP_01624	C1CD24	Inner membrane protein YihY
+TL7_1993	EOOINEPP_01625	C1CD23	Na+/H+ antiporter
+TL7_1993	EOOINEPP_01626	C1CD22	Hypothetical protein
+TL7_1993	EOOINEPP_01627	Q8DQP3	Putative rRNA methylase YtqB
+TL7_1993	EOOINEPP_01628	B2IMW4	hypothetical protein
+TL7_1993	EOOINEPP_01629	B2IMW3	hypothetical protein
+TL7_1993	EOOINEPP_01630	C1CD20	Hypothetical protein
+TL7_1993	EOOINEPP_01631		SpF25_sRNA
+TL7_1993	EOOINEPP_01631		
+TL7_1993	EOOINEPP_01632	C1CD18	hypothetical protein
+TL7_1993	EOOINEPP_01633	C1CD17	hypothetical protein
+TL7_1993	EOOINEPP_01634	A0AA86JK77	Beta-galactosidase BgaA
+TL7_1993	EOOINEPP_01635	A0A380LVM1	Hypothetical protein
+TL7_1993	EOOINEPP_01636	Q8DQP5	Galactose-specific PTS IIC component
+TL7_1993	EOOINEPP_01637	Q8CZ23	Galactose-specific PTS IIB component
+TL7_1993	EOOINEPP_01638	A0A6G2DW14	Galactose-specific PTS IIA component
+TL7_1993	EOOINEPP_01639	A0AA86JI90	Serine protease PrtA precursor
+TL7_1993	EOOINEPP_01640	A0A0H2UP15	hypothetical protein
+TL7_1993	EOOINEPP_01641	Q8DQP8	Multidrug ABC transporter permease protein
+TL7_1993	EOOINEPP_01642	Q8DQP9	Antibiotic ABC transporter permease protein
+TL7_1993	EOOINEPP_01643	Q8DQQ0	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_01644	A0A0U0GZ72	Hypothetical protein
+TL7_1993	EOOINEPP_01645	A0AA86J8F1	Hypothetical protein
+TL7_1993	EOOINEPP_01646		Intron_gpII
+TL7_1993	EOOINEPP_01646		
+TL7_1993	EOOINEPP_01647	Q04LP6	LSU ribosomal protein L1p (L10Ae)
+TL7_1993	EOOINEPP_01648	Q97RZ6	LSU ribosomal protein L11p (L12e)
+TL7_1993	EOOINEPP_01649	A0A062WT68	L%2CD-carboxypeptidase
+TL7_1993	EOOINEPP_01650	A0A380LUC5	Histidine triad family protein
+TL7_1993	EOOINEPP_01651	A0A380LYA4	Deblocking aminopeptidase
+TL7_1993	EOOINEPP_01652	C1C5Z4	Branched-chain amino acid transport system carrier protein
+TL7_1993	EOOINEPP_01653		SpF22_sRNA
+TL7_1993	EOOINEPP_01653		
+TL7_1993	EOOINEPP_01654	Q8CZ26	hypothetical protein
+TL7_1993	EOOINEPP_01655	C1CCZ5	Uracil-DNA glycosylase
+TL7_1993	EOOINEPP_01656	Q8DQQ6	Dipeptidase PepV
+TL7_1993	EOOINEPP_01657	A0A064BYJ2	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dihydropteridine reductase
+TL7_1993	EOOINEPP_01658	Q8CWT0	Cysteine ABC transporter substrate-binding protein
+TL7_1993	EOOINEPP_01659	A0A4H6ND84	Serine/threonine protein phosphatase
+TL7_1993	EOOINEPP_01660	A0AA86JQV6	Excinuclease ABC subunit C
+TL7_1993	EOOINEPP_01661	C1C5Y5	Putative Zn-dependent protease
+TL7_1993	EOOINEPP_01662	Q4TUI8	tRNA-dependent lipid II-Ala--L-alanine ligase MurN
+TL7_1993	EOOINEPP_01663	Q4TUJ7	tRNA-dependent lipid II--L-alanine/serine ligase MurM
+TL7_1993	EOOINEPP_01664	A0A0B7KTW3	Tributyrin esterase
+TL7_1993	EOOINEPP_01665	A0AA86JD85	Ribonuclease J2
+TL7_1993	EOOINEPP_01666	A0AA86JJA8	Single-stranded-DNA-specific exonuclease RecJ
+TL7_1993	EOOINEPP_01667	A0A0U0GWA3	Glutamine ABC transporter ATP-binding protein GlnQ4
+TL7_1993	EOOINEPP_01668	A0AA86MFV6	Glutamine ABC transporter substrate-binding protein GlnH2
+TL7_1993	EOOINEPP_01669	A0AA86MNX9	Glutamine ABC transporter permease GlnP2a
+TL7_1993	EOOINEPP_01670	A0A559ECT2	Oxidoreductase
+TL7_1993	EOOINEPP_01671	C1CCX9	Class II fructose-bisphosphate aldolase
+TL7_1993	EOOINEPP_01672	B9W4V3	Two-component system sensor histidine kinase VncS
+TL7_1993	EOOINEPP_01673	C1CCX7	Two-component system response regulator VncR
+TL7_1993	EOOINEPP_01674	Q9S4J0	Peptide ABC transporter membrane-spanning permease Vex3
+TL7_1993	EOOINEPP_01675	C1CCX5	ABC transporter ATP-binding protein Vex2
+TL7_1993	EOOINEPP_01676	C1C5W8	Peptide ABC transporter membrane-spanning permease Vex1
+TL7_1993	EOOINEPP_01677		Intron_gpII
+TL7_1993	EOOINEPP_01677		
+TL7_1993	EOOINEPP_01678	A0A0T8BJF5	hypothetical protein
+TL7_1993	EOOINEPP_01679	A0A0U0HM90	Leucine rich protein
+TL7_1993	EOOINEPP_01680	C1CCW8	Mini-ribonuclease III
+TL7_1993	EOOINEPP_01681	C1CCW7	Cysteinyl-tRNA synthetase
+TL7_1993	EOOINEPP_01682	C1CCW6	Acetyltransferase%2C GNAT family
+TL7_1993	EOOINEPP_01683	A0A0B7LFB4	Serine acetyltransferase
+TL7_1993	EOOINEPP_01684	B8ZMC0	Polyribonucleotide nucleotidyltransferase
+TL7_1993	EOOINEPP_01685	C1CCW3	5%2C10-methylenetetrahydrofolate reductase
+TL7_1993	EOOINEPP_01686	C1CCW2	5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase
+TL7_1993	EOOINEPP_01687	A0A4J1W747	ISSpn8 transposase
+TL7_1993	EOOINEPP_01688	A0A4J2BTD4	Putative integral membrane protein
+TL7_1993	EOOINEPP_01689	A0A4J1PEM1	Phenylalanyl-tRNA synthetase beta chain
+TL7_1993	EOOINEPP_01690	Q8DQT7	N1-spermidine/spermine acetyltransferase PaiA
+TL7_1993	EOOINEPP_01691	A0AA86JHG0	Phenylalanyl-tRNA synthetase alpha chain
+TL7_1993	EOOINEPP_01692	A0AA86J8C1	6-phospho-beta-glucosidase
+TL7_1993	EOOINEPP_01693	A0AA86JAD4	Beta-glucoside-specific PTS IIBCA components
+TL7_1993	EOOINEPP_01694	B2IMP8	Beta-glucoside bgl operon antiterminator BglG
+TL7_1993	EOOINEPP_01695		SpF19_sRNA
+TL7_1993	EOOINEPP_01695		
+TL7_1993	EOOINEPP_01696	Q8DNZ4	IS3 family transposase ISSpn11
+TL7_1993	EOOINEPP_01697	A0A4J2ARN3	IS3 family transposase ISSpn11
+TL7_1993	EOOINEPP_01698	A0A380LW28	Putative transposase InsK for insertion sequence element IS150
+TL7_1993	EOOINEPP_01699	A0A0T9GKD1	IS3 family transposase ISSpn11
+TL7_1993	EOOINEPP_01700	A0AA86JAS5	Fic domain protein
+TL7_1993	EOOINEPP_01701	Q8DQU6	Hypothetical protein
+TL7_1993	EOOINEPP_01702	A0AA86JRA8	Valyl-tRNA synthetase
+TL7_1993	EOOINEPP_01703	C1C5U2	hypothetical protein
+TL7_1993	EOOINEPP_01704	A0AA86J8W0	Acetyltransferase
+TL7_1993	EOOINEPP_01705	C1CCU6	Hypothetical protein
+TL7_1993	EOOINEPP_01706	Q8CZ41	Hypothetical protein
+TL7_1993	EOOINEPP_01707	A0AA86JDR4	Hypothetical protein
+TL7_1993	EOOINEPP_01708	Q8CZ42	Glycerate kinase
+TL7_1993	EOOINEPP_01709	A0AA86MC76	Hypothetical protein
+TL7_1993	EOOINEPP_01710	A0AA86MG29	Hypothetical protein
+TL7_1993	EOOINEPP_01711	C1CQ49	Ribosome-binding factor A
+TL7_1993	EOOINEPP_01712	A0A098ZI69	Translation initiation factor 2
+TL7_1993	EOOINEPP_01713	C1CCT7	L7Ae family ribosomal protein
+TL7_1993	EOOINEPP_01714	Q8DQV4	Putative nucleic-acid-binding protein implicated in transcription termination
+TL7_1993	EOOINEPP_01715	C1CCT5	Transcription termination/antitermination protein NusA
+TL7_1993	EOOINEPP_01716	Q97S61	Bacterial ribosome SSU maturation protein RimP
+TL7_1993	EOOINEPP_01717	A0A064C0Y7	tRNA (guanine46-N7-)-methyltransferase
+TL7_1993	EOOINEPP_01718	C1CCT2	Aminoglycoside phosphotransferase family protein
+TL7_1993	EOOINEPP_01719	A0A4J2BVZ5	Putative protease
+TL7_1993	EOOINEPP_01720	I6L8M4	hypothetical protein
+TL7_1993	EOOINEPP_01721	Q9FBH0	Immunity protein BlpZ
+TL7_1993	EOOINEPP_01722	A0A4J2BV25	Bacteriocin immunity protein BlpY
+TL7_1993	EOOINEPP_01723	A0AA86JDQ7	hypothetical protein
+TL7_1993	EOOINEPP_01724	Q9ETA3	hypothetical protein
+TL7_1993	EOOINEPP_01725	Q9ETC8	Bacteriocin lactacin-F subunit LafA
+TL7_1993	EOOINEPP_01726	A0AA86MG24	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_01727	A0AA86MG24	hypothetical protein
+TL7_1993	EOOINEPP_01728	A0AA86MPC1	IS5 family transposase ISSpn7
+TL7_1993	EOOINEPP_01729	C1C5Q7	hypothetical protein
+TL7_1993	EOOINEPP_01730	Q9EW64	hypothetical protein
+TL7_1993	EOOINEPP_01731	A7XH96	Bacteriocin BlpU
+TL7_1993	EOOINEPP_01732	Q9ETM2	hypothetical protein
+TL7_1993	EOOINEPP_01733	Q9EU53	hypothetical protein
+TL7_1993	EOOINEPP_01734	A0A380LSF4	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+TL7_1993	EOOINEPP_01735	A0A0Y0FP33	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+TL7_1993	EOOINEPP_01736	A0AA86J8T8	Competence-stimulating peptide ABC transporter permease protein ComB
+TL7_1993	EOOINEPP_01737	Q9ETW0	Peptide pheromone BlpC
+TL7_1993	EOOINEPP_01738	A0AA86J9S7	Two-component system sensor histidine kinase BlpH
+TL7_1993	EOOINEPP_01739	Q9S1I6	Two-component system response regulator BlpR
+TL7_1993	EOOINEPP_01740	A0A380LSE1	BlpS protein
+TL7_1993	EOOINEPP_01741	Q9FBH2	BlpT protein
+TL7_1993	EOOINEPP_01742	C1C5P4	ABC transporter permease protein EcsB
+TL7_1993	EOOINEPP_01743	A0AA86MPB8	ABC transporter ATP-binding protein EcsA
+TL7_1993	EOOINEPP_01744	A0A380LSE3	Histidine triad nucleotide-binding protein
+TL7_1993	EOOINEPP_01745	Q8CZ48	Hypothetical protein
+TL7_1993	EOOINEPP_01746	A0A380LV94	Chaperone protein DnaJ
+TL7_1993	EOOINEPP_01747		SpF14_sRNA
+TL7_1993	EOOINEPP_01747		
+TL7_1993	EOOINEPP_01748	A0A0T8D8M9	Hypothetical protein
+TL7_1993	EOOINEPP_01749	A0A0T9I7B3	Chaperone protein DnaK
+TL7_1993	EOOINEPP_01750	B2IMB4	Heat shock protein GrpE
+TL7_1993	EOOINEPP_01751	Q04LY2	Heat-inducible transcription repressor HrcA
+TL7_1993	EOOINEPP_01752	Q8CZ49	Hypothetical protein
+TL7_1993	EOOINEPP_01753	A0AA86JAR7	Type I restriction-modification system restriction subunit R
+TL7_1993	EOOINEPP_01754	Q8DQX1	Type I restriction-modification system DNA-methyltransferase subunit M
+TL7_1993	EOOINEPP_01755	A0AA87CB03	Type I restriction-modification system%2C specificity subunit S type F
+TL7_1993	EOOINEPP_01756	A0A0B7LDQ8	Type I restriction-modification system%2C specificity subunit S component 2.2
+TL7_1993	EOOINEPP_01757	C1CCQ0	Integrase/recombinase CreX (XerC/CodV family)
+TL7_1993	EOOINEPP_01758	A0A2U3RYF6	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
+TL7_1993	EOOINEPP_01759	C1C5M8	hypothetical protein
+TL7_1993	EOOINEPP_01760		Srn266
+TL7_1993	EOOINEPP_01760		
+TL7_1993	EOOINEPP_01761	A0A6I3U6U1	IS1167 transposase
+TL7_1993	EOOINEPP_01762	B1IA39	Glutamine synthetase type I
+TL7_1993	EOOINEPP_01763	Q8DQX7	Transcriptional regulator%2C MerR family
+TL7_1993	EOOINEPP_01764	Q8CZ51	Hypothetical protein
+TL7_1993	EOOINEPP_01765	A0A0E9GZP4	Phosphoglycerate kinase
+TL7_1993	EOOINEPP_01766	A0A6G2DB49	Endo-beta-N-acetylglucosaminidase EndoD
+TL7_1993	EOOINEPP_01767	A0AA86MBK6	Sodium-dependent phosphate transporter NptA
+TL7_1993	EOOINEPP_01768	A0AA86JI67	CTP synthase
+TL7_1993	EOOINEPP_01769	Q04LZ9	DNA-directed RNA polymerase delta subunit
+TL7_1993	EOOINEPP_01770	A0AA86J855	Hypothetical protein
+TL7_1993	EOOINEPP_01771	A0A0U0EJN0	Hypothetical protein
+TL7_1993	EOOINEPP_01772	A0A0B7LW17	Membrane-associated phospholipid phosphatase
+TL7_1993	EOOINEPP_01773	A0AA86JGE9	Substrate-specific component RibU of riboflavin ECF transporter
+TL7_1993	EOOINEPP_01774		FMN
+TL7_1993	EOOINEPP_01774		
+TL7_1993	EOOINEPP_01775	A0A0H2UNS5	tRNA (cytidine(34)-2'-O)-methyltransferase
+TL7_1993	EOOINEPP_01776		23S-methyl
+TL7_1993	EOOINEPP_01776		
+TL7_1993	EOOINEPP_01777	A0AA86JU27	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+TL7_1993	EOOINEPP_01778	A0AA86J976	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+TL7_1993	EOOINEPP_01779	B2IM89	Hypothetical protein
+TL7_1993	EOOINEPP_01780	C1CIX7	Substrate-specific component MtsA of methionine-regulated ECF transporter
+TL7_1993	EOOINEPP_01781	C1CCM9	Hypothetical protein
+TL7_1993	EOOINEPP_01782	C1CCM8	Trk family potassium uptake protein TrkA
+TL7_1993	EOOINEPP_01783	A0A0H2UNU3	Trk family potassium uptake protein TrkH
+TL7_1993	EOOINEPP_01784	A0AA86MBL0	Lactose-specific PTS IIBC components
+TL7_1993	EOOINEPP_01785	A0A0U0FQB7	6-phospho-beta-galactosidase
+TL7_1993	EOOINEPP_01786	Q8DQZ2	Lactose-specific PTS IIA component
+TL7_1993	EOOINEPP_01787	A0AA86J862	Hypothetical protein
+TL7_1993	EOOINEPP_01788	A0AA86J9J7	Cellobiose-specific PTS IIC component
+TL7_1993	EOOINEPP_01789	B1I9R3	Xylose repressor protein
+TL7_1993	EOOINEPP_01790	A0A0T9I2B2	Hypothetical protein
+TL7_1993	EOOINEPP_01791	Q8DQZ5	Hypothetical protein
+TL7_1993	EOOINEPP_01792	A0A0T8UQK3	hypothetical protein
+TL7_1993	EOOINEPP_01793		Srn266
+TL7_1993	EOOINEPP_01793		
+TL7_1993	EOOINEPP_01794	A0AA86J984	IS1167 transposase Orf1
+TL7_1993	EOOINEPP_01795	A0A4J1UA67	IS1167 transposase Orf2
+TL7_1993	EOOINEPP_01796	A7KT36	hypothetical protein
+TL7_1993	EOOINEPP_01797	A7KT49	hypothetical protein
+TL7_1993	EOOINEPP_01798	A7KT48	hypothetical protein
+TL7_1993	EOOINEPP_01799	A7KTB0	hypothetical protein
+TL7_1993	EOOINEPP_01800	A7KT39	hypothetical protein
+TL7_1993	EOOINEPP_01801	A7KTA8	hypothetical protein
+TL7_1993	EOOINEPP_01802	B1I9Q2	hypothetical protein
+TL7_1993	EOOINEPP_01803		Srn266
+TL7_1993	EOOINEPP_01803		
+TL7_1993	EOOINEPP_01804	A0A0T8SMN8	IS1167 transposase
+TL7_1993	EOOINEPP_01805	Q8DQZ6	Pyruvate formate-lyase
+TL7_1993	EOOINEPP_01806	A0A380LTW9	DNA polymerase IV
+TL7_1993	EOOINEPP_01807	Q04M23	Undecaprenyl-diphosphatase
+TL7_1993	EOOINEPP_01808	A0AA86JPY3	hypothetical protein
+TL7_1993	EOOINEPP_01809	A0AA86JU42	Hypothetical protein
+TL7_1993	EOOINEPP_01810	C1CCL6	Glutamine ABC transporter permease GlnHP1
+TL7_1993	EOOINEPP_01811	Q8DR01	Glutamine ABC transporter ATP-binding protein GlnQ1
+TL7_1993	EOOINEPP_01812	Q8CZ60	Hypothetical protein
+TL7_1993	EOOINEPP_01813	Q8DR02	Threonine dehydratase
+TL7_1993	EOOINEPP_01814	Q8CZ61	Hypothetical protein
+TL7_1993	EOOINEPP_01815	C1C5I1	hypothetical protein
+TL7_1993	EOOINEPP_01816	A0A098YY27	Ketol-acid reductoisomerase
+TL7_1993	EOOINEPP_01817	Q8DR04	Acetolactate synthase small subunit
+TL7_1993	EOOINEPP_01818	C1CCK7	Acetolactate synthase large subunit
+TL7_1993	EOOINEPP_01819	Q8DR06	Dihydroxyacetone kinase-like protein
+TL7_1993	EOOINEPP_01820	C1CCK5	Putative alkaline-shock protein
+TL7_1993	EOOINEPP_01821	A0A064BZB4	LSU ribosomal protein L28p
+TL7_1993	EOOINEPP_01822	A0A0U0EEM5	Peptide chain release factor 3
+TL7_1993	EOOINEPP_01823	Q04M40	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit C/glutamyl-tRNA(Glu) amidotransferase subunit C
+TL7_1993	EOOINEPP_01824	C1C5H2	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit A/glutamyl-tRNA(Glu) amidotransferase subunit A
+TL7_1993	EOOINEPP_01825	A0A0U0GRD0	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit B/glutamyl-tRNA(Glu) amidotransferase subunit B
+TL7_1993	EOOINEPP_01826	Q04M43	Translation elongation factor P
+TL7_1993	EOOINEPP_01827	C1C5G9	Alkaline shock protein
+TL7_1993	EOOINEPP_01828	C1C5G8	Transcription termination protein NusB
+TL7_1993	EOOINEPP_01829	C1C5G7	hypothetical protein
+TL7_1993	EOOINEPP_01830	A0A4J2AQS9	Hypothetical protein
+TL7_1993	EOOINEPP_01831	A0A064BZA7	Acetyl-coenzyme A carboxyl transferase alpha chain
+TL7_1993	EOOINEPP_01832	Q7CRB7	Acetyl-coenzyme A carboxyl transferase beta chain
+TL7_1993	EOOINEPP_01833	Q9FBB9	Biotin carboxylase of acetyl-CoA carboxylase
+TL7_1993	EOOINEPP_01834	Q04M51	3-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+TL7_1993	EOOINEPP_01835	C1C5G0	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+TL7_1993	EOOINEPP_01836	Q8DR14	3-oxoacyl-(acyl-carrier-protein) synthase FabF
+TL7_1993	EOOINEPP_01837	C1CCI6	3-oxoacyl-[acyl-carrier protein] reductase FabG1
+TL7_1993	EOOINEPP_01838	Q9FBC4	Malonyl CoA-acyl carrier protein transacylase FabD
+TL7_1993	EOOINEPP_01839	C1C5F6	Enoyl-(acyl-carrier-protein) reductase FabK
+TL7_1993	EOOINEPP_01840	P0A2W1	Acyl carrier protein
+TL7_1993	EOOINEPP_01841	C1CIR8	3-oxoacyl-(acyl-carrier-protein) synthase FabH
+TL7_1993	EOOINEPP_01842	Q8DR18	Transcriptional regulator of fatty acid biosynthesis FabT
+TL7_1993	EOOINEPP_01843	C1CCI0	Trans-2%2Ccis-3-Decenoyl-ACP isomerase
+TL7_1993	EOOINEPP_01844	Q8DR20	Aspartokinase
+TL7_1993	EOOINEPP_01845	C1C5E9	Putative regulator of the mannose operon ManO
+TL7_1993	EOOINEPP_01846	A0A0I5SB66	Seryl-tRNA synthetase
+TL7_1993	EOOINEPP_01847	A0AA86JIB8	Exfoliative toxin A
+TL7_1993	EOOINEPP_01848	Q8DR24	Macrophage infectivity potentiator protein
+TL7_1993	EOOINEPP_01849	C1CCH4	Sodium/glycine symporter GlyP
+TL7_1993	EOOINEPP_01850		Glycine
+TL7_1993	EOOINEPP_01850		
+TL7_1993	EOOINEPP_01851	A0AA86J9N4	Recombination inhibitory protein MutS2
+TL7_1993	EOOINEPP_01852	C1C5E3	Z-ring positive regulator ZapB
+TL7_1993	EOOINEPP_01853	C1CCH1	Z-ring positive regulator ZapA
+TL7_1993	EOOINEPP_01854	A0A0U0GR56	Ribonuclease HIII
+TL7_1993	EOOINEPP_01855	Q3I0J5	Signal peptidase I
+TL7_1993	EOOINEPP_01856	A0AA86J9C8	RecD-like DNA helicase YrrC
+TL7_1993	EOOINEPP_01857	C1CIQ2	Cell division trigger factor
+TL7_1993	EOOINEPP_01858	A0A0T8NJH8	hypothetical protein
+TL7_1993	EOOINEPP_01859	A0A0U0JZY9	hypothetical protein
+TL7_1993	EOOINEPP_01860	C1C5C9	Hypothetical protein
+TL7_1993	EOOINEPP_01861	A0A0B7LFA3	hypothetical protein
+TL7_1993	EOOINEPP_01862	A0A0B7M2V5	Two-component transcriptional regulator VraR
+TL7_1993	EOOINEPP_01863	A0AA86JIC5	Two-component system sensor histidine kinase VraS
+TL7_1993	EOOINEPP_01864	C1CCF1	Cell wall-active antibiotics response protein VraT
+TL7_1993	EOOINEPP_01865	C1CCF0	Isopentenyl-diphosphate delta-isomerase%2C FMN-dependent
+TL7_1993	EOOINEPP_01866	A0A0U0GRP0	Phosphomevalonate kinase
+TL7_1993	EOOINEPP_01867	Q8DR50	Diphosphomevalonate decarboxylase
+TL7_1993	EOOINEPP_01868	C1C5C0	Mevalonate kinase
+TL7_1993	EOOINEPP_01869	A0A4J2FK19	hypothetical protein
+TL7_1993	EOOINEPP_01870	B2ILS1	hypothetical protein
+TL7_1993	EOOINEPP_01871	B2ILS0	Macrolide-efflux protein
+TL7_1993	EOOINEPP_01872	B2ILR9	Choline-binding protein CbpF
+TL7_1993	EOOINEPP_01873	B2ILR8	Orphan response regulator RitR
+TL7_1993	EOOINEPP_01874	A0A0T9HRS5	6-phosphogluconate dehydrogenase%2C decarboxylating
+TL7_1993	EOOINEPP_01875	A0AA95IJJ4	Mid-cell-anchored protein Z
+TL7_1993	EOOINEPP_01876	A0A4J1NHK2	23S rRNA (guanine(2445)-N(2))-methyltransferase
+TL7_1993	EOOINEPP_01877		RNaseP_bact_b
+TL7_1993	EOOINEPP_01877		
+TL7_1993	EOOINEPP_01878	B8ZL84	Cell division protein GpsB
+TL7_1993	EOOINEPP_01879	Q8DR58	Hypothetical protein
+TL7_1993	EOOINEPP_01880	H8ZYN7	RecU Holliday junction resolvase
+TL7_1993	EOOINEPP_01881	B2ILR1	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A
+TL7_1993	EOOINEPP_01882	H8ZYM2	Endo-alpha-N-acetylgalactosaminidase Eng
+TL7_1993	EOOINEPP_01883	H8ZYK9	Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA
+TL7_1993	EOOINEPP_01884		Srn266
+TL7_1993	EOOINEPP_01884		
+TL7_1993	EOOINEPP_01885	C1CGD5	IS1167 transposase
+TL7_1993	EOOINEPP_01886	C1CGD6	IS1167 transposase
+TL7_1993	EOOINEPP_01887	Q8KWN9	hypothetical protein
+TL7_1993	EOOINEPP_01888	Q8KWP0	UDP-glucose 6-dehydrogenase Cps2K
+TL7_1993	EOOINEPP_01889	A0A4H9EX21	hypothetical protein
+TL7_1993	EOOINEPP_01890	A0A4H9EX21	IS110 family transposase ISGka2
+TL7_1993	EOOINEPP_01891	Q8KWP1	hypothetical protein
+TL7_1993	EOOINEPP_01892	Q8KWP2	D-inositol-3-phosphate glycosyltransferase
+TL7_1993	EOOINEPP_01893	Q8KWP3	Teichuronic acid biosynthesis protein TuaB
+TL7_1993	EOOINEPP_01894	Q8KWP4	hypothetical protein
+TL7_1993	EOOINEPP_01895	Q8KWP5	hypothetical protein
+TL7_1993	EOOINEPP_01896	Q8KWP6	UDP-N-acetylglucosamine 2-epimerase
+TL7_1993	EOOINEPP_01897	Q8KWP7	Putative glycosyltransferase EpsF
+TL7_1993	EOOINEPP_01898	Q8KWP8	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+TL7_1993	EOOINEPP_01899	Q8KWP9	Undecaprenyl-phosphate galactosephosphotransferase Cps2E
+TL7_1993	EOOINEPP_01900	Q8KWQ0	Tyrosine-protein kinase Cps2D
+TL7_1993	EOOINEPP_01901	Q4K2H5	Capsular biosynthesis protein Cps2C
+TL7_1993	EOOINEPP_01902	Q8KWQ2	Tyrosine-protein phosphatase Cps2B
+TL7_1993	EOOINEPP_01903	Q8KWQ3	Exopolysaccharide biosynthesis transcriptional regulator Cps2A
+TL7_1993	EOOINEPP_01904	A0A4J1VSX9	IS630 family transposase IS630-Spn1
+TL7_1993	EOOINEPP_01905	Q8CZ69	S-ribosylhomocysteinase
+TL7_1993	EOOINEPP_01906	A0AA86XXS9	Glucan 1%2C6-alpha-glucosidase
+TL7_1993	EOOINEPP_01907	A0A4J1V132	ATP-dependent Zn protease
+TL7_1993	EOOINEPP_01908	Q04MC2	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
+TL7_1993	EOOINEPP_01909		group-II-D1D4-3
+TL7_1993	EOOINEPP_01909		
+TL7_1993	EOOINEPP_01910	A0A4J1UQE6	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
+TL7_1993	EOOINEPP_01911	A0A916L5K8	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
+TL7_1993	EOOINEPP_01912	A0A4J2BV21	Phospho-N-acetylmuramoyl-pentapeptide- transferase
+TL7_1993	EOOINEPP_01913	Q9RES8	Penicillin-binding protein 2X
+TL7_1993	EOOINEPP_01914	Q8DR70	Cell division protein FtsL
+TL7_1993	EOOINEPP_01915	H8ZYQ0	16S rRNA (cytosine(1402)-N(4))-methyltransferase MraW
+TL7_1993	EOOINEPP_01916	B2ISQ1	Transcriptional regulator%2C PbsX family
+TL7_1993	EOOINEPP_01917	Q8CZ72	Hypothetical protein
+TL7_1993	EOOINEPP_01918	C1CCA5	hypothetical protein
+TL7_1993	EOOINEPP_01919	C1CCA4	Transcriptional regulator RegR
+TL7_1993	EOOINEPP_01920	B2ISP8	Oligohyaluronate lyase
+TL7_1993	EOOINEPP_01921	Q8DR73	Preprotein translocase subunit YajC
+TL7_1993	EOOINEPP_01922	C1CBA4	Hyaluronate-oligosaccharide-specific PTS IID component
+TL7_1993	EOOINEPP_01923	Q8DR75	Hyaluronate-oligosaccharide-specific PTS IIC component
+TL7_1993	EOOINEPP_01924	A0A4M6D2F1	Hyaluronate-oligosaccharide-specific PTS IIB component
+TL7_1993	EOOINEPP_01925	A0A4J2BZH8	Unsaturated chondroitin disaccharide hydrolase
+TL7_1993	EOOINEPP_01926	Q8DR78	Hyaluronate-oligosaccharide-specific PTS IIA component
+TL7_1993	EOOINEPP_01927	Q8DR79	2-deoxy-D-gluconate 3-dehydrogenase
+TL7_1993	EOOINEPP_01928	C1CB98	Putative 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+TL7_1993	EOOINEPP_01929	B2ISN9	2-dehydro-3-deoxygluconokinase
+TL7_1993	EOOINEPP_01930	C1CC93	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxyphosphogluconate aldolase
+TL7_1993	EOOINEPP_01931	A0A4J1RX59	IS200/IS605 family transposase ISStin10
+TL7_1993	EOOINEPP_01932	M4Y9A8	Hyaluronate lyase precursor SpnHL
+TL7_1993	EOOINEPP_01933	B1I935	Glutathione peroxidase family protein
+TL7_1993	EOOINEPP_01934		SpF11_sRNA
+TL7_1993	EOOINEPP_01934		
+TL7_1993	EOOINEPP_01935	A0A4J2BZE1	Maltodextrin glucosidase
+TL7_1993	EOOINEPP_01936	Q8DNZ4	IS3 family transposase ISSpn11
+TL7_1993	EOOINEPP_01937	A0A4J1VX80	IS3 family transposase ISSpn11
+TL7_1993	EOOINEPP_01938	A0A0U0HBS4	hypothetical protein
+TL7_1993	EOOINEPP_01939	Q8CWU4	SSU ribosomal protein S9p (S16e)
+TL7_1993	EOOINEPP_01940	Q8CWU5	LSU ribosomal protein L13p (L13Ae)
+TL7_1993	EOOINEPP_01941		L13_leader
+TL7_1993	EOOINEPP_01941		
+TL7_1993	EOOINEPP_01942	Q8CZ79	Hypothetical protein
+TL7_1993	EOOINEPP_01943		Srn266
+TL7_1993	EOOINEPP_01943		
+TL7_1993	EOOINEPP_01944	A0A6I3U6U1	IS1167 transposase
+TL7_1993	EOOINEPP_01945	A0AA86J9Z1	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+TL7_1993	EOOINEPP_01946	C1CIH2	GTP cyclohydrolase I type 1
+TL7_1993	EOOINEPP_01947	A0A0E9GVA6	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+TL7_1993	EOOINEPP_01948	A0A0B4ZIS6	Dihydropteroate synthase
+TL7_1993	EOOINEPP_01949	A0AAE4FYI9	Membrane-bound protease%2C CAAX family
+TL7_1993	EOOINEPP_01950	B1I913	Guanine-hypoxanthine permease
+TL7_1993	EOOINEPP_01951	B2ISL4	Hydrolase%2C HAD superfamily
+TL7_1993	EOOINEPP_01952	A0A0B7LJS1	Alcohol dehydrogenase
+TL7_1993	EOOINEPP_01953	C1CB58	Mannose-specific PTS IIAB components
+TL7_1993	EOOINEPP_01954	Q8DR98	Mannose-specific PTS IIC component
+TL7_1993	EOOINEPP_01955	Q8DR99	Mannose-specific PTS IID component
+TL7_1993	EOOINEPP_01956	Q8DRA0	Aminopeptidase C
+TL7_1993	EOOINEPP_01957	A0AA86JVZ5	Ribosomal small subunit pseudouridine synthase A
+TL7_1993	EOOINEPP_01958	Q8DRA2	Membrane protein
+TL7_1993	EOOINEPP_01959	C1CC67	Aminopeptidase PepS
+TL7_1993	EOOINEPP_01960	C1CC66	Hypothetical protein
+TL7_1993	EOOINEPP_01961	Q8DRA4	mRNA interferase RelE1
+TL7_1993	EOOINEPP_01962	Q8CZ81	Antitoxin RelB1
+TL7_1993	EOOINEPP_01963	A0AA86JEM2	DNA polymerase III
+TL7_1993	EOOINEPP_01964		Srn266
+TL7_1993	EOOINEPP_01964		
+TL7_1993	EOOINEPP_01965	A0A6I3U6U1	IS1167 transposase
+TL7_1993	EOOINEPP_01966	C1CPE5	Translation elongation factor G
+TL7_1993	EOOINEPP_01967	Q8CWU6	SSU ribosomal protein S7p (S5e)
+TL7_1993	EOOINEPP_01968	E2DP60	SSU ribosomal protein S12p (S23e)
+TL7_1993	EOOINEPP_01969	A0AA86MCW0	Pullulanase SpuA
+TL7_1993	EOOINEPP_01970	A0AA86J856	IS1167 transposase
+TL7_1993	EOOINEPP_01971		Srn266
+TL7_1993	EOOINEPP_01971		
+TL7_1993	EOOINEPP_01972	B2ISJ2	Oxidoreductase
+TL7_1993	EOOINEPP_01973	A0AA86JUT9	Glucosamine--fructose-6-phosphate aminotransferase
+TL7_1993	EOOINEPP_01974	A0AA86JQS7	6-phospho-beta-glucosidase
+TL7_1993	EOOINEPP_01975	A0AA86JHF0	Prolyl-tRNA synthetase
+TL7_1993	EOOINEPP_01976	Q8DRB1	Intramembrane protease Eep
+TL7_1993	EOOINEPP_01977	C1CB37	Phosphatidate cytidylyltransferase
+TL7_1993	EOOINEPP_01978	Q8DRB3	Undecaprenyl diphosphate synthase
+TL7_1993	EOOINEPP_01979		csRNA
+TL7_1993	EOOINEPP_01979		
+TL7_1993	EOOINEPP_01980	A0A0T8C549	Hypothetical protein
+TL7_1993	EOOINEPP_01981	A0A0B7LYW5	Hypothetical protein
+TL7_1993	EOOINEPP_01982	Q8CWU7	Holliday junction DNA helicase RuvB
+TL7_1993	EOOINEPP_01983		csRNA
+TL7_1993	EOOINEPP_01983		
+TL7_1993	EOOINEPP_01984		csRNA
+TL7_1993	EOOINEPP_01984		
+TL7_1993	EOOINEPP_01985	A0A380LRV0	Acetyltransferase%2C GNAT family
+TL7_1993	EOOINEPP_01986	A0AA86MNV8	Acetyltransferase%2C GNAT family
+TL7_1993	EOOINEPP_01987	A0AA86MIY7	Leucyl-tRNA synthetase
+TL7_1993	EOOINEPP_01988	Q8DRB7	Glycerol dehydrogenase
+TL7_1993	EOOINEPP_01989	Q97SS2	Transaldolase
+TL7_1993	EOOINEPP_01990	C1CC44	Pyruvate formate-lyase
+TL7_1993	EOOINEPP_01991	A0AA86JUT0	Cellobiose-specific PTS IIC component
+TL7_1993	EOOINEPP_01992	Q8DRC1	Cellobiose-specific PTS IIB component
+TL7_1993	EOOINEPP_01993	C1CC41	Cellobiose-specific PTS IIA component
+TL7_1993	EOOINEPP_01994	Q8DRC3	Transcriptional regulator
+TL7_1993	EOOINEPP_01995	C1CB23	Transcriptional regulator%2C DeoR family
+TL7_1993	EOOINEPP_01996	C1CAP6	Pyruvate formate-lyase activating enzyme
+TL7_1993	EOOINEPP_01997	A0A064C2Y1	putative protein
+TL7_1993	EOOINEPP_01998	A0A0B7M5G4	hypothetical protein
+TL7_1993	EOOINEPP_01999	A0AA86MBY9	Ferric iron ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_02000	B2ISG7	Ferric iron ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_02001	A0AA86MNV4	Iron(III)-transport system permease protein SfuB
+TL7_1993	EOOINEPP_02002	A0AA86MIY3	Iron(III)-transport system permease protein SfuB
+TL7_1993	EOOINEPP_02003	B1I8M8	Phosphoglycerate mutase family protein
+TL7_1993	EOOINEPP_02004		csRNA
+TL7_1993	EOOINEPP_02004		
+TL7_1993	EOOINEPP_02005	Q8DRD2	hypothetical protein
+TL7_1993	EOOINEPP_02006	C1CC34	ACT domain-containing transcriptional regulator
+TL7_1993	EOOINEPP_02007		L17DE
+TL7_1993	EOOINEPP_02007		
+TL7_1993	EOOINEPP_02008	Q8CWU8	LSU ribosomal protein L17p
+TL7_1993	EOOINEPP_02009	Q04ML1	DNA-directed RNA polymerase alpha subunit
+TL7_1993	EOOINEPP_02010	Q04ML2	SSU ribosomal protein S11p (S14e)
+TL7_1993	EOOINEPP_02011	Q04ML3	SSU ribosomal protein S13p (S18e)
+TL7_1993	EOOINEPP_02012	P0A496	LSU ribosomal protein L36p
+TL7_1993	EOOINEPP_02013	Q04ML4	Translation initiation factor 1
+TL7_1993	EOOINEPP_02014	Q97SU1	Adenylate kinase
+TL7_1993	EOOINEPP_02015	Q8DRD5	Protein translocase subunit SecY
+TL7_1993	EOOINEPP_02016	Q97SU3	LSU ribosomal protein L15p (L27Ae)
+TL7_1993	EOOINEPP_02017	Q97SU4	LSU ribosomal protein L30p (L7e)
+TL7_1993	EOOINEPP_02018	Q04ML9	SSU ribosomal protein S5p (S2e)
+TL7_1993	EOOINEPP_02019	Q97SU6	LSU ribosomal protein L18p (L5e)
+TL7_1993	EOOINEPP_02020	B8ZKP5	LSU ribosomal protein L6p (L9e)
+TL7_1993	EOOINEPP_02021	B5E6G9	SSU ribosomal protein S8p (S15Ae)
+TL7_1993	EOOINEPP_02022	Q04MM3	SSU ribosomal protein S14p (S29e)
+TL7_1993	EOOINEPP_02023	Q97SV1	LSU ribosomal protein L5p (L11e)
+TL7_1993	EOOINEPP_02024	Q04MM5	LSU ribosomal protein L24p (L26e)
+TL7_1993	EOOINEPP_02025	Q04MM6	LSU ribosomal protein L14p (L23e)
+TL7_1993	EOOINEPP_02026	Q04MM7	SSU ribosomal protein S17p (S11e)
+TL7_1993	EOOINEPP_02027	A0A0B7M1U7	LSU ribosomal protein L29p (L35e)
+TL7_1993	EOOINEPP_02028	Q04MM9	LSU ribosomal protein L16p (L10e)
+TL7_1993	EOOINEPP_02029	Q04MN0	SSU ribosomal protein S3p (S3e)
+TL7_1993	EOOINEPP_02030	Q04MN1	LSU ribosomal protein L22p (L17e)
+TL7_1993	EOOINEPP_02031	Q04MN2	SSU ribosomal protein S19p (S15e)
+TL7_1993	EOOINEPP_02032	Q97SV2	LSU ribosomal protein L2p (L8e)
+TL7_1993	EOOINEPP_02033	Q97SV3	LSU ribosomal protein L23p (L23Ae)
+TL7_1993	EOOINEPP_02034	Q8CWV7	LSU ribosomal protein L4p (L1e)
+TL7_1993	EOOINEPP_02035	Q97SV5	LSU ribosomal protein L3p (L3e)
+TL7_1993	EOOINEPP_02036	Q04MN7	SSU ribosomal protein S10p (S20e)
+TL7_1993	EOOINEPP_02037	A0AA86JA44	Hypothetical protein
+TL7_1993	EOOINEPP_02038	A0A0B7M7N8	Ribonucleotide reductase of class III%2C activating protein
+TL7_1993	EOOINEPP_02039	A0A380LT78	Acetyltransferase
+TL7_1993	EOOINEPP_02040	C1CC00	Ribonucleotide reductase of class III%2C large subunit
+TL7_1993	EOOINEPP_02041	A0A0H2ZMA6	Competence-damage induced protein
+TL7_1993	EOOINEPP_02042	A0AA86JA97	Hypothetical protein
+TL7_1993	EOOINEPP_02043	Q8DRD9	Cardiolipin synthetase
+TL7_1993	EOOINEPP_02044	A0A0T8LR20	Hypothetical protein
+TL7_1993	EOOINEPP_02045	A0A9P1LVP1	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+TL7_1993	EOOINEPP_02046	Q97SX0	Hypothetical protein
+TL7_1993	EOOINEPP_02047	Q8DRE2	Putative pre-16S rRNA nuclease YqgF
+TL7_1993	EOOINEPP_02048	Q97SX1	Hypothetical protein
+TL7_1993	EOOINEPP_02049	A0AA86MIW9	Hypothetical protein
+TL7_1993	EOOINEPP_02050	Q8DRE3	Transcriptional regulator SpxA2
+TL7_1993	EOOINEPP_02051	A0A0B7KMV3	MP-%2CMA-%2CMS-%2CAP-%2CNP-specific aminopeptidase YpdF
+TL7_1993	EOOINEPP_02052	A0AA86JA34	Excinuclease ABC subunit A UvrA
+TL7_1993	EOOINEPP_02053	Q8DRE5	Magnesium and cobalt transport protein CorA1
+TL7_1993	EOOINEPP_02054	A0A064C1E4	Integral membrane protein
+TL7_1993	EOOINEPP_02055	A0A9P1PGS6	Muramoyltetrapeptide carboxypeptidase
+TL7_1993	EOOINEPP_02056	A0A0T8RH17	CAAX amino terminal protease family protein
+TL7_1993	EOOINEPP_02057	A0AA86JA89	DNA-3-methyladenine glycosylase
+TL7_1993	EOOINEPP_02058	Q97SY4	Holliday junction DNA helicase RuvA
+TL7_1993	EOOINEPP_02059		FMN
+TL7_1993	EOOINEPP_02059		
+TL7_1993	EOOINEPP_02060	A0A380LX39	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+TL7_1993	EOOINEPP_02061	B2IS13	Riboflavin synthase RibE
+TL7_1993	EOOINEPP_02062	C1CAI6	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
+TL7_1993	EOOINEPP_02063	Q04MR3	6%2C7-dimethyl-8-ribityllumazine synthase RibH
+TL7_1993	EOOINEPP_02064	Q04MR4	DNA mismatch repair protein HexB
+TL7_1993	EOOINEPP_02065	A0A0H2UNA2	DNA-binding protein
+TL7_1993	EOOINEPP_02066	Q8CZ92	Hypothetical protein
+TL7_1993	EOOINEPP_02067	A0AA86JTT7	NRAMP family Mn2+/Fe2+ transporter
+TL7_1993	EOOINEPP_02068	Q97T03	Ribonucleotide reduction protein NrdI
+TL7_1993	EOOINEPP_02069	C1CBX3	Hypothetical protein
+TL7_1993	EOOINEPP_02070	A0A380LX30	Two-component system response regulator
+TL7_1993	EOOINEPP_02071	A0AA86MIC7	Two-component system sensor histidine kinase
+TL7_1993	EOOINEPP_02072	A0A4M2GWZ0	Hypothetical protein
+TL7_1993	EOOINEPP_02073	C1CBW9	Substrate-specific component of putative ECF transporter
+TL7_1993	EOOINEPP_02074	C1CAH3	Methionine ABC transporter permease protein
+TL7_1993	EOOINEPP_02075	C1CAH2	Methionine ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_02076	B1I8D7	N-acyl-L-amino acid amidohydrolase
+TL7_1993	EOOINEPP_02077	C1CBW5	Methionine ABC transporter substrate-binding protein
+TL7_1993	EOOINEPP_02078	C1CBW4	Cysteine ABC transporter substrate-binding protein
+TL7_1993	EOOINEPP_02079	A0AA86J784	hypothetical protein
+TL7_1993	EOOINEPP_02080	B1I8D3	hypothetical protein
+TL7_1993	EOOINEPP_02081	C1CBW1	Macrolide-efflux protein
+TL7_1993	EOOINEPP_02082	C1CBW0	Hypothetical protein
+TL7_1993	EOOINEPP_02083	C1CBV9	hypothetical protein
+TL7_1993	EOOINEPP_02084	C1CBV8	Positive transcriptional regulator%2C MutR family
+TL7_1993	EOOINEPP_02085	C1CBV7	UDP-glucose 6-dehydrogenase
+TL7_1993	EOOINEPP_02086	A0AA86MN21	Hypothetical protein
+TL7_1993	EOOINEPP_02087	A0A4N3QCD2	Asparagine synthetase
+TL7_1993	EOOINEPP_02088	A0AA86MBH0	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_02089	A0AA86JHX5	Family 2 glycosyltransferase
+TL7_1993	EOOINEPP_02090	A0A098ZKN5	Exopolysaccharide biosynthesis glycosyltransferase EpsF
+TL7_1993	EOOINEPP_02091	A0AA86J7R1	Exopolysaccharide biosynthesis glycosyltransferase EpsF
+TL7_1993	EOOINEPP_02092		Srn266
+TL7_1993	EOOINEPP_02092		
+TL7_1993	EOOINEPP_02093	A0AA36PIF3	IS1167 transposase
+TL7_1993	EOOINEPP_02094	A0A0E7ZP93	IS1167 transposase Orf2
+TL7_1993	EOOINEPP_02095	A0A064BZS6	N(6)-L-threonylcarbamoyladenine synthase TsaD
+TL7_1993	EOOINEPP_02096	A0A4M2GUW6	Ribosomal-protein-S18p-alanine acetyltransferase
+TL7_1993	EOOINEPP_02097	A0AA86JTV3	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+TL7_1993	EOOINEPP_02098	Q8CZA0	Two-peptide bacteriocin peptide CibA
+TL7_1993	EOOINEPP_02099	A0A0B7LRV1	Two-peptide bacteriocin peptide CibB
+TL7_1993	EOOINEPP_02100	A0A0E8GNB1	hypothetical protein
+TL7_1993	EOOINEPP_02101	C1CBU5	Hypothetical protein
+TL7_1993	EOOINEPP_02102	A0A0E8HAF7	Ribonuclease J1 (endonuclease and 5' exonuclease)
+TL7_1993	EOOINEPP_02103	C1CBU2	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+TL7_1993	EOOINEPP_02104	A0AA86MBH5	MutT/Nudix family protein
+TL7_1993	EOOINEPP_02105		Spd-sr37
+TL7_1993	EOOINEPP_02105		
+TL7_1993	EOOINEPP_02106	A0A0B7MBM1	tRNA-specific 2-thiouridylase MnmA
+TL7_1993	EOOINEPP_02107	A0A1W6AZ71	hypothetical protein
+TL7_1993	EOOINEPP_02108	A0A6B9PEJ2	hypothetical protein
+TL7_1993	EOOINEPP_02109		Bacilli-1
+TL7_1993	EOOINEPP_02109		
+TL7_1993	EOOINEPP_02110		SpF03_sRNA
+TL7_1993	EOOINEPP_02110		
+TL7_1993	EOOINEPP_02111	A0A4J1QTX9	Pyridoxamine 5'-phosphate oxidase
+TL7_1993	EOOINEPP_02112	A0AA86JG75	Hypothetical protein
+TL7_1993	EOOINEPP_02113	A0AA86JPQ8	Hypothetical protein
+TL7_1993	EOOINEPP_02114	A0AA86JTV8	Hypothetical protein
+TL7_1993	EOOINEPP_02115	C1CAE0	Hypothetical protein
+TL7_1993	EOOINEPP_02116	A0AA86JC99	Hypothetical protein
+TL7_1993	EOOINEPP_02117	A0AA86MJC1	Hypothetical protein
+TL7_1993	EOOINEPP_02118	A0A6B9PW06	hypothetical protein
+TL7_1993	EOOINEPP_02119	C1CAD6	Hypothetical protein
+TL7_1993	EOOINEPP_02120	A0A6B9PEM4	Hypothetical protein
+TL7_1993	EOOINEPP_02121	A0AA86MBH9	Hypothetical protein
+TL7_1993	EOOINEPP_02122	A0A6I3VBQ6	Hypothetical protein
+TL7_1993	EOOINEPP_02123	A0A6B9PSK9	hypothetical protein
+TL7_1993	EOOINEPP_02124	A0A6B9PN26	HlyD family secretion protein
+TL7_1993	EOOINEPP_02125	C1CBT2	Hypothetical protein
+TL7_1993	EOOINEPP_02126	A0A6B9PR72	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+TL7_1993	EOOINEPP_02127	A0A6B9PEJ4	Hypothetical protein
+TL7_1993	EOOINEPP_02128		Bacilli-1
+TL7_1993	EOOINEPP_02128		
+TL7_1993	EOOINEPP_02129	A0A0T8WRQ4	Argininosuccinate lyase
+TL7_1993	EOOINEPP_02130	A0A111CNU4	Argininosuccinate synthase
+TL7_1993	EOOINEPP_02131	B2IRI9	Amino acid ABC transporter substrate-binding/permease protein
+TL7_1993	EOOINEPP_02132	A0A0H2UMZ2	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_02133	C1CAC4	Amino acid ABC transporter membrane-spanning permease
+TL7_1993	EOOINEPP_02134	C1CAC3	Putative bacteriocin
+TL7_1993	EOOINEPP_02135	A0A0B7LLH3	Aggregation-promoting factor
+TL7_1993	EOOINEPP_02136	Q8DRI9	L-serine dehydratase%2C beta subunit
+TL7_1993	EOOINEPP_02137	B1I804	L-serine dehydratase%2C alpha subunit
+TL7_1993	EOOINEPP_02138	C1CBS0	Phosphoglycolate phosphatase
+TL7_1993	EOOINEPP_02139	A0AA86JC06	Putative UDP-GlcNAc 4%2C6-dehydratase AatA
+TL7_1993	EOOINEPP_02140	A0AA86J7X2	Glycosyltransferase%2C group 2 family
+TL7_1993	EOOINEPP_02141	C1CBR7	Cyanate permease
+TL7_1993	EOOINEPP_02142	Q8DRJ5	Transcriptional regulator%2C PadR family
+TL7_1993	EOOINEPP_02143	A0A0E8P7P5	Integral membrane protein (putative)
+TL7_1993	EOOINEPP_02144	A0A0E8ASI8	Putative membrane-associated protein
+TL7_1993	EOOINEPP_02145	A0AA86JTX5	Putative membrane protein
+TL7_1993	EOOINEPP_02146	A0AA86J915	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+TL7_1993	EOOINEPP_02147	C1CHZ8	hypothetical protein
+TL7_1993	EOOINEPP_02148	A0AA86MJD1	ABC transporter substrate-binding protein
+TL7_1993	EOOINEPP_02149	B2IRG9	ABC transporter permease protein
+TL7_1993	EOOINEPP_02150	Q8DRJ8	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+TL7_1993	EOOINEPP_02151	A0AA86XNR3	Hypothetical protein
+TL7_1993	EOOINEPP_02152	A0A0B7LLV1	Hypothetical protein
+TL7_1993	EOOINEPP_02153		SpF01_sRNA
+TL7_1993	EOOINEPP_02153		
+TL7_1993	EOOINEPP_02154	Q04MZ3	SSU ribosomal protein S4p (S9e)
+TL7_1993	EOOINEPP_02155	C1C9Y4	Two-component system sensor histidine kinase
+TL7_1993	EOOINEPP_02156	B2IRG2	Two-component system response regulator
+TL7_1993	EOOINEPP_02157	A0AA86J9D5	Cell wall surface anchor family protein PavB
+TL7_1993	EOOINEPP_02158	A0AA86J7D6	hypothetical protein
+TL7_1993	EOOINEPP_02159	A0AA86JGA2	hypothetical protein
+TL7_1993	EOOINEPP_02160	A0AA86JPS9	Hypothetical protein
+TL7_1993	EOOINEPP_02161	Q8DRK4	Trk family potassium uptake protein CabP
+TL7_1993	EOOINEPP_02162	Q8DRK5	Trk family potassium uptake protein
+TL7_1993	EOOINEPP_02163	A0AA86JCD0	hypothetical protein
+TL7_1993	EOOINEPP_02164	A0A0B7LLH2	Uridine phosphorylase
+TL7_1993	EOOINEPP_02165	B2IRF1	Sulfurtransferase
+TL7_1993	EOOINEPP_02166	A0A4H9FXZ8	hypothetical protein
+TL7_1993	EOOINEPP_02167	A0A0U0FRM0	Hypothetical protein
+TL7_1993	EOOINEPP_02168	A0A380LQ48	Glyoxalase family protein
+TL7_1993	EOOINEPP_02169	A0A0B7MES2	Aldose 1-epimerase
+TL7_1993	EOOINEPP_02170	A0A0I7WL36	Galactosamine-6-phosphate isomerase
+TL7_1993	EOOINEPP_02171	Q8DRL0	Galactosamine-specific PTS IIA component
+TL7_1993	EOOINEPP_02172	B2IRE5	Galactosamine-specific PTS IID component
+TL7_1993	EOOINEPP_02173	C1CBN7	Galactosamine-specific PTS IIC component
+TL7_1993	EOOINEPP_02174	Q8DRL3	Galactosamine-specific PTS IIB component
+TL7_1993	EOOINEPP_02175	A0A0E8SV91	Beta-galactosidase
+TL7_1993	EOOINEPP_02176	A0A0H2UMU7	Transcriptional regulator%2C GntR family
+TL7_1993	EOOINEPP_02177	A0AA86J937	Beta-hexosaminidase StrH
+TL7_1993	EOOINEPP_02178	C1C9W0	Adenylosuccinate lyase
+TL7_1993	EOOINEPP_02179	C1C9V9	Hypothetical protein
+TL7_1993	EOOINEPP_02180	A0AA86MIG3	N5-carboxyaminoimidazole ribonucleotide synthase
+TL7_1993	EOOINEPP_02181	A0A2R2HVK4	N5-carboxyaminoimidazole ribonucleotide mutase
+TL7_1993	EOOINEPP_02182	A0A2R2HVG7	Phosphoribosylamine--glycine ligase
+TL7_1993	EOOINEPP_02183	A0A0U0DBA4	Bifunctional inosine monophosphate cyclohydrolase/phosphoribosylaminoimidazolecarboxamide formyltransferase
+TL7_1993	EOOINEPP_02184	Q8DRM2	Teicoplanin resistance protein VanZ
+TL7_1993	EOOINEPP_02185	Q8DRM3	Phosphoribosylglycinamide formyltransferase
+TL7_1993	EOOINEPP_02186	A0A062WPB5	Phosphoribosylformylglycinamidine cyclo-ligase
+TL7_1993	EOOINEPP_02187	A0A0E8P8H6	Amidophosphoribosyltransferase
+TL7_1993	EOOINEPP_02188	A0AA86J7F0	Phosphoribosylformylglycinamidine synthase%2C synthetase and glutamine amidotransferase subunits
+TL7_1993	EOOINEPP_02189	A0A558ZGD3	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+TL7_1993	EOOINEPP_02190	A0AA86JPU3	Competence-stimulating peptide ABC transporter permease protein ComB
+TL7_1993	EOOINEPP_02191	A0AA86JU05	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+TL7_1993	EOOINEPP_02192	C1CHE5	hypothetical protein
+TL7_1993	EOOINEPP_02193	C1CHE4	ABC transporter ATP-binding protein
+TL7_1993	EOOINEPP_02194	A0A0B7LY35	hypothetical protein
+TL7_1993	EOOINEPP_02195	C1CHE2	hypothetical protein
+TL7_1993	EOOINEPP_02196	C1CHE1	hypothetical protein
+TL7_1993	EOOINEPP_02197	C1CHE0	Transcriptional regulator
+TL7_1993	EOOINEPP_02198	C1CHD8	Hypothetical protein
+TL7_1993	EOOINEPP_02199	Q9FBG9	Bacteriocin BlpU
+TL7_1993	EOOINEPP_02200	A0AA86JC47	IS1381 transposase OrfB
+TL7_1993	EOOINEPP_02201	Q9F7T4	Acyl carrier protein
+TL7_1993	EOOINEPP_02202	A0AA86J9G3	Phosphate:acyl-ACP acyltransferase PlsX
+TL7_1993	EOOINEPP_02203	A0A0T7YPJ9	DNA recombination and repair protein RecO
+TL7_1993	EOOINEPP_02204	A0A0B7M3R1	N-acetyl-L%2CL-diaminopimelate aminotransferase
+TL7_1993	EOOINEPP_02205	A0A0T8MW21	Putative membrane protein YeiH
+TL7_1993	EOOINEPP_02206	A0A4J1TGD8	Hypothetical protein
+TL7_1993	EOOINEPP_02207	Q8DRN7	CoA-binding protein
+TL7_1993	EOOINEPP_02208	A0AA86JCG8	DNA polymerase I
+TL7_1993	EOOINEPP_02209	A0A0B7M9C2	hypothetical protein
+TL7_1993	EOOINEPP_02210	A0A380LQ33	hypothetical protein
+TL7_1993	EOOINEPP_02211		Srn266
+TL7_1993	EOOINEPP_02211		
+TL7_1993	EOOINEPP_02212	A0A0U0IDH7	hypothetical protein
+TL7_1993	EOOINEPP_02213	B2IR17	Ribose-phosphate pyrophosphokinase
+TL7_1993	EOOINEPP_02214	A0A380LS08	hypothetical protein
+TL7_1993	EOOINEPP_02215	C1CHC1	Carbonic anhydrase
+TL7_1993	EOOINEPP_02216	A0A380LRC9	DNA repair protein RadA
+TL7_1993	EOOINEPP_02217	Q8DRP1	Hypothetical protein
+TL7_1993	EOOINEPP_02218	Q8DRP2	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+TL7_1993	EOOINEPP_02219		Bacteria_small_SRP
+TL7_1993	EOOINEPP_02219		
+TL7_1993	EOOINEPP_02220	C1CHA2	tRNA-specific adenosine-34 deaminase
+TL7_1993	EOOINEPP_02221	A0A0B7M596	hypothetical protein
+TL7_1993	EOOINEPP_02222	C1CHB7	hypothetical protein
+TL7_1993	EOOINEPP_02223	A0A4M3JVJ3	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+TL7_1993	EOOINEPP_02224	A0A0Y0H6W4	hypothetical protein
+TL7_1993	EOOINEPP_02225	B1I7B7	hypothetical protein
+TL7_1993	EOOINEPP_02226	B1I7B6	hypothetical protein
+TL7_1993	EOOINEPP_02227	C1C9R2	hypothetical protein
+TL7_1993	EOOINEPP_02228	A0A6I3UVI7	hypothetical protein
+TL7_1993	EOOINEPP_02229	C1C9R0	hypothetical protein
+TL7_1993	EOOINEPP_02230	A0A6I3UWK6	hypothetical protein
+TL7_1993	EOOINEPP_02231	A0A0I6W3N5	hypothetical protein
+TL7_1993	EOOINEPP_02232	A0AA86JBP1	hypothetical protein
+TL7_1993	EOOINEPP_02233	A0A0I7G094	hypothetical protein
+TL7_1993	EOOINEPP_02234	A0A654XLK3	hypothetical protein
+TL7_1993	EOOINEPP_02235	A0A0I7AKQ1	hypothetical protein
+TL7_1993	EOOINEPP_02236	A0A654XIU8	hypothetical protein
+TL7_1993	EOOINEPP_02237	A0A4V0JIW7	hypothetical protein
+TL7_1993	EOOINEPP_02238	A0A654XNH9	hypothetical protein
+TL7_1993	EOOINEPP_02239	A0A0I6VEC4	hypothetical protein
+TL7_1993	EOOINEPP_02240	A0A6I3UP36	hypothetical protein
+TL7_1993	EOOINEPP_02241	A0A0I8DG17	ATP-dependent Clp protease proteolytic subunit
+TL7_1993	EOOINEPP_02242	A0A6I3UTD3	hypothetical protein
+TL7_1993	EOOINEPP_02243	A0A0I6WCG8	hypothetical protein
+TL7_1993	EOOINEPP_02244	A0A0I7G3K4	hypothetical protein
+TL7_1993	EOOINEPP_02245	A0A6I3UQY6	hypothetical protein
+TL7_1993	EOOINEPP_02246	A0A0I6XPX1	hypothetical protein
+TL7_1993	EOOINEPP_02247	A0A6I3UVB0	Tyrosine recombinase XerC
+TL7_1993	EOOINEPP_02248	A0A0I6QC24	hypothetical protein
+TL7_1993	EOOINEPP_02249	A0A6I3UV99	hypothetical protein
+TL7_1993	EOOINEPP_02250	A0A0B7LXT3	hypothetical protein
+TL7_1993	EOOINEPP_02251	A0A6I3UWI0	IS1595 family transposase ISCco3
+TL7_1993	EOOINEPP_02252	A0A6I3UTC7	hypothetical protein
+TL7_1993	EOOINEPP_02253	A0A6I3UR51	hypothetical protein
+TL7_1993	EOOINEPP_02254	A0A6I3UVT3	hypothetical protein
+TL7_1993	EOOINEPP_02255	A0A6I3UQX6	hypothetical protein
+TL7_1993	EOOINEPP_02256	A0A098ANN2	hypothetical protein
+TL7_1993	EOOINEPP_02257	A0A0U0A5Q3	hypothetical protein
+TL7_1993	EOOINEPP_02258	B1I794	hypothetical protein
+TL7_1993	EOOINEPP_02259	A0A6I3UW31	hypothetical protein
+TL7_1993	EOOINEPP_02260	A0A4J4YU91	hypothetical protein
+TL7_1993	EOOINEPP_02261	A0A098ANK1	hypothetical protein
+TL7_1993	EOOINEPP_02262	A0A655GM31	hypothetical protein
+TL7_1993	EOOINEPP_02263	A0A6I3UWG9	hypothetical protein
+TL7_1993	EOOINEPP_02264	A0A6I3UTC0	hypothetical protein
+TL7_1993	EOOINEPP_02265	A0A0D6J557	hypothetical protein
+TL7_1993	EOOINEPP_02266	A0A6I3UVS2	hypothetical protein
+TL7_1993	EOOINEPP_02267	C1C9M1	hypothetical protein
+TL7_1993	EOOINEPP_02268	A0A0I6TQM1	hypothetical protein
+TL7_1993	EOOINEPP_02269	A0A098ANJ8	hypothetical protein
+TL7_1993	EOOINEPP_02270	A0A0I7D8K4	hypothetical protein
+TL7_1993	EOOINEPP_02271	A0AA86JB05	hypothetical protein
+TL7_1993	EOOINEPP_02272	A0A0I7X892	hypothetical protein
+TL7_1993	EOOINEPP_02273	A0A0I6XKC5	hypothetical protein
+TL7_1993	EOOINEPP_02274	A0A6I3UV79	3'-5' exonuclease DinG
+TL7_1993	EOOINEPP_02275	A0A0B7M300	Tyrosine recombinase XerC
+TL7_1993	EOOINEPP_02276		csRNA
+TL7_1993	EOOINEPP_02276		
+TL7_1993	EOOINEPP_02277	C1CHA1	Adenylosuccinate synthetase
+TL7_1993	EOOINEPP_02278	Q8CZD0	Competence positive regulator ComW
+TL7_1993	EOOINEPP_02279	A0A0U0G4G7	IS1167 transposase Orf1
+TL7_1993	EOOINEPP_02280	A0A0T8WNF8	IS1167 transposase Orf2
+TL7_1993	EOOINEPP_02281		tRNA-Asn(gtt)
+TL7_1993	EOOINEPP_02281		
+TL7_1993	EOOINEPP_02282		5S ribosomal RNA
+TL7_1993	EOOINEPP_02282		
+TL7_1993	EOOINEPP_02283		23S ribosomal RNA
+TL7_1993	EOOINEPP_02283		
+TL7_1993	EOOINEPP_02284		tRNA-Ala(tgc)
+TL7_1993	EOOINEPP_02284		
+TL7_1993	EOOINEPP_02285		16S ribosomal RNA
+TL7_1993	EOOINEPP_02285		
+TL7_1993	EOOINEPP_02286		tRNA-Glu(ttc)
+TL7_1993	EOOINEPP_02286		
+TL7_1993	EOOINEPP_02287	B2IMI0	Competence-specific sigma factor ComX
+TL7_1993	EOOINEPP_02288	A0A380LQ46	Cell division protein FtsH
+TL7_1993	EOOINEPP_02289	Q97TC4	Hypoxanthine-guanine phosphoribosyltransferase
+TL7_1993	EOOINEPP_02290	C1CNP4	tRNA(Ile)-lysidine synthetase TilS
+TL7_1993	EOOINEPP_02291	C1C991	Hypothetical protein
+TL7_1993	EOOINEPP_02292	C1CH89	Hypothetical protein
+TL7_1993	EOOINEPP_02293	Q8CZD2	Cell division protein DivIC
+TL7_1993	EOOINEPP_02294	P64406	Ribosome-associated heat shock protein
+TL7_1993	EOOINEPP_02295	A0AA86JE99	Transcription-repair coupling factor
+TL7_1993	EOOINEPP_02296	Q97TD1	Peptidyl-tRNA hydrolase
+TL7_1993	EOOINEPP_02297	Q8DRQ3	GTP-binding and nucleic acid-binding protein YchF
+TL7_1993	EOOINEPP_02298	A0A098AN02	Tyrosine recombinase XerC
+TL7_1993	EOOINEPP_02299	A0A064BWS5	hypothetical protein
+TL7_1993	EOOINEPP_02300	A0A098Z9Y5	hypothetical protein
+TL7_1993	EOOINEPP_02301	A0A064C0A0	hypothetical protein

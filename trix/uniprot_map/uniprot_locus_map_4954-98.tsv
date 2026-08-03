@@ -1,0 +1,2618 @@
+strain	locus_tag	uniprot	product
+4954-98	KKBGAPLG_00001	A0AA44S615	DNA polymerase III beta subunit
+4954-98	KKBGAPLG_00002	A0AA86Y265	Hypothetical protein
+4954-98	KKBGAPLG_00003	Q8DRQ3	GTP-binding and nucleic acid-binding protein YchF
+4954-98	KKBGAPLG_00004	C1CH85	Peptidyl-tRNA hydrolase
+4954-98	KKBGAPLG_00005	C1CH86	Transcription-repair coupling factor
+4954-98	KKBGAPLG_00006	P64406	Ribosome-associated heat shock protein
+4954-98	KKBGAPLG_00007	Q8CZD2	Cell division protein DivIC
+4954-98	KKBGAPLG_00008	C1CH89	Hypothetical protein
+4954-98	KKBGAPLG_00009	C1CH90	Hypothetical protein
+4954-98	KKBGAPLG_00010	C1CH91	tRNA(Ile)-lysidine synthetase TilS
+4954-98	KKBGAPLG_00011	Q97TC4	Hypoxanthine-guanine phosphoribosyltransferase
+4954-98	KKBGAPLG_00012	C1CH93	Cell division protein FtsH
+4954-98	KKBGAPLG_00013	Q9R2W8	Competence-specific sigma factor ComX
+4954-98	KKBGAPLG_00014		tRNA-Glu(ttc)
+4954-98	KKBGAPLG_00014		
+4954-98	KKBGAPLG_00015		16S ribosomal RNA
+4954-98	KKBGAPLG_00015		
+4954-98	KKBGAPLG_00016		tRNA-Ala(tgc)
+4954-98	KKBGAPLG_00016		
+4954-98	KKBGAPLG_00017		23S ribosomal RNA
+4954-98	KKBGAPLG_00017		
+4954-98	KKBGAPLG_00018		5S ribosomal RNA
+4954-98	KKBGAPLG_00018		
+4954-98	KKBGAPLG_00019		tRNA-Asn(gtt)
+4954-98	KKBGAPLG_00019		
+4954-98	KKBGAPLG_00020	C1CH95	IS630 family transposase IS630-Spn1
+4954-98	KKBGAPLG_00021	Q8DRP7	IS630 family transposase IS630-Spn1
+4954-98	KKBGAPLG_00022	C1CH99	IS1167 transposase Orf1
+4954-98	KKBGAPLG_00023	A0A5R9AWI2	Competence positive regulator ComW
+4954-98	KKBGAPLG_00024	C1CHA1	Adenylosuccinate synthetase
+4954-98	KKBGAPLG_00025		csRNA
+4954-98	KKBGAPLG_00025		
+4954-98	KKBGAPLG_00026	C1CHA2	tRNA-specific adenosine-34 deaminase
+4954-98	KKBGAPLG_00027		Bacteria_small_SRP
+4954-98	KKBGAPLG_00027		
+4954-98	KKBGAPLG_00028	C1CHA3	Tyrosine recombinase XerD
+4954-98	KKBGAPLG_00029	C1CHA4	hypothetical protein
+4954-98	KKBGAPLG_00030	C1CHA5	hypothetical protein
+4954-98	KKBGAPLG_00031	C1CHA6	hypothetical protein
+4954-98	KKBGAPLG_00032	C1CHA7	mRNA interferase RelE2
+4954-98	KKBGAPLG_00033	C1CHA8	hypothetical protein
+4954-98	KKBGAPLG_00034	C1CHA9	hypothetical protein
+4954-98	KKBGAPLG_00035	C1CHB0	hypothetical protein
+4954-98	KKBGAPLG_00036	A0A0B7MB27	hypothetical protein
+4954-98	KKBGAPLG_00037	C1CHB1	hypothetical protein
+4954-98	KKBGAPLG_00038	C1CHB2	hypothetical protein
+4954-98	KKBGAPLG_00039	C1CHB3	hypothetical protein
+4954-98	KKBGAPLG_00040	C1CHB4	hypothetical protein
+4954-98	KKBGAPLG_00041	C1CHB5	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+4954-98	KKBGAPLG_00042	C1CHB7	hypothetical protein
+4954-98	KKBGAPLG_00043	Q8DRP2	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+4954-98	KKBGAPLG_00044	Q8DRP1	Hypothetical protein
+4954-98	KKBGAPLG_00045	C1CHC0	DNA repair protein RadA
+4954-98	KKBGAPLG_00046	C1CHC1	Carbonic anhydrase
+4954-98	KKBGAPLG_00047	Q8CZC9	hypothetical protein
+4954-98	KKBGAPLG_00048	C1CHC4	Ribose-phosphate pyrophosphokinase
+4954-98	KKBGAPLG_00049	A0A0U0IDH7	IS1167 transposase Orf1
+4954-98	KKBGAPLG_00050		Srn266
+4954-98	KKBGAPLG_00050		
+4954-98	KKBGAPLG_00051	A0A6A8VL91	hypothetical protein
+4954-98	KKBGAPLG_00052	C1CHC8	hypothetical protein
+4954-98	KKBGAPLG_00053	C1CHC9	DNA polymerase I
+4954-98	KKBGAPLG_00054	Q8DRN7	CoA-binding protein
+4954-98	KKBGAPLG_00055	C1CHD1	Putative membrane protein YeiH
+4954-98	KKBGAPLG_00056	C1CHD2	N-acetyl-L%2CL-diaminopimelate aminotransferase
+4954-98	KKBGAPLG_00057	Q97TA7	DNA recombination and repair protein RecO
+4954-98	KKBGAPLG_00058	Q97TA6	Phosphate:acyl-ACP acyltransferase PlsX
+4954-98	KKBGAPLG_00059	Q9F7T4	Acyl carrier protein
+4954-98	KKBGAPLG_00060	C1CHD6	IS1381 transposase OrfB
+4954-98	KKBGAPLG_00061	Q8DRN0	Bacteriocin BlpU
+4954-98	KKBGAPLG_00062	C1CHD8	Hypothetical protein
+4954-98	KKBGAPLG_00063	C1CHE0	Transcriptional regulator
+4954-98	KKBGAPLG_00064	C1CHE1	hypothetical protein
+4954-98	KKBGAPLG_00065	C1CHE2	hypothetical protein
+4954-98	KKBGAPLG_00066	A0A0B7LY35	hypothetical protein
+4954-98	KKBGAPLG_00067	C1CHE4	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00068	C1CHE5	hypothetical protein
+4954-98	KKBGAPLG_00069	A0A0H2ZPI8	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+4954-98	KKBGAPLG_00070	A0A0X9S2V2	Competence-stimulating peptide ABC transporter permease protein ComB
+4954-98	KKBGAPLG_00071	A0A558WIG0	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+4954-98	KKBGAPLG_00072	A0A654U9J8	Phosphoribosylformylglycinamidine synthase%2C synthetase and glutamine amidotransferase subunits
+4954-98	KKBGAPLG_00073	C1C9V0	Amidophosphoribosyltransferase
+4954-98	KKBGAPLG_00074	A0A062WPB5	Phosphoribosylformylglycinamidine cyclo-ligase
+4954-98	KKBGAPLG_00075	Q8DRM3	Phosphoribosylglycinamide formyltransferase
+4954-98	KKBGAPLG_00076	Q8DRM2	Teicoplanin resistance protein VanZ
+4954-98	KKBGAPLG_00077	A0A0B7LXN4	Bifunctional inosine monophosphate cyclohydrolase/phosphoribosylaminoimidazolecarboxamide formyltransferase
+4954-98	KKBGAPLG_00078	A0A4L8JWU7	Phosphoribosylamine--glycine ligase
+4954-98	KKBGAPLG_00079	C1CBM9	N5-carboxyaminoimidazole ribonucleotide mutase
+4954-98	KKBGAPLG_00080	A0A0E9GUQ6	N5-carboxyaminoimidazole ribonucleotide synthase
+4954-98	KKBGAPLG_00081	C1C9V9	Hypothetical protein
+4954-98	KKBGAPLG_00082	C1C9W0	Adenylosuccinate lyase
+4954-98	KKBGAPLG_00083	A0A654UC01	Beta-hexosaminidase StrH
+4954-98	KKBGAPLG_00084	A0A0H2UMU7	Transcriptional regulator%2C GntR family
+4954-98	KKBGAPLG_00085	A0A0B7L1X5	Beta-galactosidase
+4954-98	KKBGAPLG_00086	Q8DRL3	Galactosamine-specific PTS IIB component
+4954-98	KKBGAPLG_00087	C1CBN7	Galactosamine-specific PTS IIC component
+4954-98	KKBGAPLG_00088	B2IRE5	Galactosamine-specific PTS IID component
+4954-98	KKBGAPLG_00089	Q8DRL0	Galactosamine-specific PTS IIA component
+4954-98	KKBGAPLG_00090	Q8DRK9	Galactosamine-6-phosphate isomerase
+4954-98	KKBGAPLG_00091	A0A0E8IJP3	Aldose 1-epimerase
+4954-98	KKBGAPLG_00092	C1CBP2	Glyoxalase family protein
+4954-98	KKBGAPLG_00093	C1CBP3	Hypothetical protein
+4954-98	KKBGAPLG_00094	A0A9P1Q3D0	hypothetical protein
+4954-98	KKBGAPLG_00095	C1CBP4	Thiosulfate sulfurtransferase GlpE
+4954-98	KKBGAPLG_00096	Q8DRK6	Uridine phosphorylase
+4954-98	KKBGAPLG_00097	C1CBP8	Trk family potassium uptake protein
+4954-98	KKBGAPLG_00098	Q8DRK4	Trk family potassium uptake protein CabP
+4954-98	KKBGAPLG_00099	C1CBQ0	Hypothetical protein
+4954-98	KKBGAPLG_00100	A0A4F3K571	hypothetical protein
+4954-98	KKBGAPLG_00101	A0A264SB53	hypothetical protein
+4954-98	KKBGAPLG_00102	A0A6G2DVD2	Cell wall surface anchor family protein PavB
+4954-98	KKBGAPLG_00103	C1CBQ2	Two-component system response regulator
+4954-98	KKBGAPLG_00104	Q9S1J1	Two-component system sensor histidine kinase
+4954-98	KKBGAPLG_00105	Q04MZ3	SSU ribosomal protein S4p (S9e)
+4954-98	KKBGAPLG_00106		SpF01_sRNA
+4954-98	KKBGAPLG_00106		
+4954-98	KKBGAPLG_00107	C1CBQ6	Hypothetical protein
+4954-98	KKBGAPLG_00108	C1CBQ7	Hypothetical protein
+4954-98	KKBGAPLG_00109	Q8DRJ8	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+4954-98	KKBGAPLG_00110	B2IRG9	ABC transporter permease protein
+4954-98	KKBGAPLG_00111	B2IRH0	ABC transporter substrate-binding protein
+4954-98	KKBGAPLG_00112	Q04MY5	hypothetical protein
+4954-98	KKBGAPLG_00113	A0A7X2XKV5	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+4954-98	KKBGAPLG_00114	C1CBR3	Putative membrane protein
+4954-98	KKBGAPLG_00115	Q8CZB9	Putative membrane-associated protein
+4954-98	KKBGAPLG_00116	C1CBR5	Integral membrane protein (putative)
+4954-98	KKBGAPLG_00117	Q8DRJ5	Transcriptional regulator%2C PadR family
+4954-98	KKBGAPLG_00118	C1CBR7	Cyanate permease
+4954-98	KKBGAPLG_00119	C1CBR8	Glycosyltransferase%2C group 2 family
+4954-98	KKBGAPLG_00120	C1CBR9	Putative UDP-GlcNAc 4%2C6-dehydratase AatA
+4954-98	KKBGAPLG_00121	C1CBS0	Phosphoglycolate phosphatase
+4954-98	KKBGAPLG_00122	Q8DRJ0	L-serine dehydratase%2C alpha subunit
+4954-98	KKBGAPLG_00123	Q8DRI9	L-serine dehydratase%2C beta subunit
+4954-98	KKBGAPLG_00124	C1CBS3	Aggregation-promoting factor
+4954-98	KKBGAPLG_00125	Q8CZB5	Putative bacteriocin
+4954-98	KKBGAPLG_00126	A0A4K6YZR2	Amino acid ABC transporter membrane-spanning permease
+4954-98	KKBGAPLG_00127	C1CBS7	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00128	C1CBS8	Amino acid ABC transporter substrate-binding/permease protein
+4954-98	KKBGAPLG_00129	A0A4J1W9J3	Argininosuccinate synthase
+4954-98	KKBGAPLG_00130	A0A6G2DX97	Argininosuccinate synthase
+4954-98	KKBGAPLG_00131	C1CBS9	Argininosuccinate lyase
+4954-98	KKBGAPLG_00132		Bacilli-1
+4954-98	KKBGAPLG_00132		
+4954-98	KKBGAPLG_00133	A0A6B9PEJ4	Hypothetical protein
+4954-98	KKBGAPLG_00134	A0AAD2IGX9	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+4954-98	KKBGAPLG_00135	C1CBT2	Hypothetical protein
+4954-98	KKBGAPLG_00136	C1CBT3	HlyD family secretion protein
+4954-98	KKBGAPLG_00137	C1CBT4	hypothetical protein
+4954-98	KKBGAPLG_00138	C1CBT5	Hypothetical protein
+4954-98	KKBGAPLG_00139	A0A5R9AVG2	Hypothetical protein
+4954-98	KKBGAPLG_00140	C1CBT7	Hypothetical protein
+4954-98	KKBGAPLG_00141	A0A4J1QTX9	Pyridoxamine 5'-phosphate oxidase
+4954-98	KKBGAPLG_00142		SpF03_sRNA
+4954-98	KKBGAPLG_00142		
+4954-98	KKBGAPLG_00143		Bacilli-1
+4954-98	KKBGAPLG_00143		
+4954-98	KKBGAPLG_00144	C1CBT8	hypothetical protein
+4954-98	KKBGAPLG_00145	A0A4J1ZW89	hypothetical protein
+4954-98	KKBGAPLG_00146	A0A4J1ZWE7	hypothetical protein
+4954-98	KKBGAPLG_00147	B8ZK04	tRNA-specific 2-thiouridylase MnmA
+4954-98	KKBGAPLG_00148		Spd-sr37
+4954-98	KKBGAPLG_00148		
+4954-98	KKBGAPLG_00149	A0A6I3TWS2	MutT/Nudix family protein
+4954-98	KKBGAPLG_00150	C1CBU2	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+4954-98	KKBGAPLG_00151	C1CBU4	Ribonuclease J1 (endonuclease and 5' exonuclease)
+4954-98	KKBGAPLG_00152	C1CBU5	Hypothetical protein
+4954-98	KKBGAPLG_00153	A0A0E8HIW7	hypothetical protein
+4954-98	KKBGAPLG_00154	C1CAF2	Two-peptide bacteriocin peptide CibB
+4954-98	KKBGAPLG_00155	Q8CZA0	Two-peptide bacteriocin peptide CibA
+4954-98	KKBGAPLG_00156	C1CBU8	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+4954-98	KKBGAPLG_00157	C1CBU9	Ribosomal-protein-S18p-alanine acetyltransferase
+4954-98	KKBGAPLG_00158	A0A0E8GP02	N(6)-L-threonylcarbamoyladenine synthase TsaD
+4954-98	KKBGAPLG_00159	C1CBV1	IS1167 transposase Orf2
+4954-98	KKBGAPLG_00160	C1CBV2	IS1167 transposase
+4954-98	KKBGAPLG_00161		Srn266
+4954-98	KKBGAPLG_00161		
+4954-98	KKBGAPLG_00162	B2IRL6	Exopolysaccharide biosynthesis glycosyltransferase EpsF
+4954-98	KKBGAPLG_00163	A0A098ZKN5	Exopolysaccharide biosynthesis glycosyltransferase EpsF
+4954-98	KKBGAPLG_00164	C1CBV3	Family 2 glycosyltransferase
+4954-98	KKBGAPLG_00165	C1CBV4	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00166	A0A4L4Z587	hypothetical protein
+4954-98	KKBGAPLG_00167	A0A7X2XI07	Asparagine synthetase
+4954-98	KKBGAPLG_00168	A0A0I7YXD8	Hypothetical protein
+4954-98	KKBGAPLG_00169	C1CBV7	UDP-glucose 6-dehydrogenase
+4954-98	KKBGAPLG_00170	C1CBV8	Positive transcriptional regulator%2C MutR family
+4954-98	KKBGAPLG_00171	C1CBV9	hypothetical protein
+4954-98	KKBGAPLG_00172	C1CBW0	Hypothetical protein
+4954-98	KKBGAPLG_00173	C1CBW1	Macrolide-efflux protein
+4954-98	KKBGAPLG_00174	C1CBW2	hypothetical protein
+4954-98	KKBGAPLG_00175	C1CBW3	hypothetical protein
+4954-98	KKBGAPLG_00176	C1CBW4	Cysteine ABC transporter substrate-binding protein
+4954-98	KKBGAPLG_00177	C1CBW5	Methionine ABC transporter substrate-binding protein
+4954-98	KKBGAPLG_00178	C1CBW6	N-acyl-L-amino acid amidohydrolase
+4954-98	KKBGAPLG_00179	C1CBW7	Methionine ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00180	C1CBW8	Methionine ABC transporter permease protein
+4954-98	KKBGAPLG_00181	C1CBW9	Substrate-specific component of putative ECF transporter
+4954-98	KKBGAPLG_00182	C1CBX0	Hypothetical protein
+4954-98	KKBGAPLG_00183	A0A0B7M579	Two-component system sensor histidine kinase
+4954-98	KKBGAPLG_00184	A0A380LX30	Two-component system response regulator
+4954-98	KKBGAPLG_00185	A0A0H2ZPA5	Hypothetical protein
+4954-98	KKBGAPLG_00186	Q97T03	Ribonucleotide reduction protein NrdI
+4954-98	KKBGAPLG_00187	B2IS07	NRAMP family Mn2+/Fe2+ transporter
+4954-98	KKBGAPLG_00188	Q8CZ92	Hypothetical protein
+4954-98	KKBGAPLG_00189	A0A0B7LVH6	DNA-binding protein
+4954-98	KKBGAPLG_00190	A0A2U3RXN3	DNA mismatch repair protein HexB
+4954-98	KKBGAPLG_00191	Q04MR3	6%2C7-dimethyl-8-ribityllumazine synthase RibH
+4954-98	KKBGAPLG_00192	A0A660FVH7	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
+4954-98	KKBGAPLG_00193	A0A0I8XHB2	Riboflavin synthase RibE
+4954-98	KKBGAPLG_00194	C1CBY2	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+4954-98	KKBGAPLG_00195		FMN
+4954-98	KKBGAPLG_00195		
+4954-98	KKBGAPLG_00196	C1CI73	Holliday junction DNA helicase RuvA
+4954-98	KKBGAPLG_00197	A0A7X2XHZ3	DNA-3-methyladenine glycosylase
+4954-98	KKBGAPLG_00198	A0A0T8RH17	CAAX amino terminal protease family protein
+4954-98	KKBGAPLG_00199	A0A0H2UN46	Muramoyltetrapeptide carboxypeptidase
+4954-98	KKBGAPLG_00200	A0A7X2XHY7	Integral membrane protein
+4954-98	KKBGAPLG_00201	Q8DRE5	Magnesium and cobalt transport protein CorA1
+4954-98	KKBGAPLG_00202	A0A098ZCF0	Excinuclease ABC subunit A UvrA
+4954-98	KKBGAPLG_00203	A0A064C5K7	MP-%2CMA-%2CMS-%2CAP-%2CNP-specific aminopeptidase YpdF
+4954-98	KKBGAPLG_00204	Q8DRE3	Transcriptional regulator SpxA2
+4954-98	KKBGAPLG_00205	C1CBZ2	Hypothetical protein
+4954-98	KKBGAPLG_00206	Q97SX1	Hypothetical protein
+4954-98	KKBGAPLG_00207	Q8DRE2	Putative pre-16S rRNA nuclease YqgF
+4954-98	KKBGAPLG_00208	Q97SX0	Hypothetical protein
+4954-98	KKBGAPLG_00209	A0AA86XP36	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+4954-98	KKBGAPLG_00210	C1CBZ7	Hypothetical protein
+4954-98	KKBGAPLG_00211	Q8DRD9	Cardiolipin synthetase
+4954-98	KKBGAPLG_00212	A0A4J1ZXT3	Hypothetical protein
+4954-98	KKBGAPLG_00213	C1CBZ9	Competence-damage induced protein
+4954-98	KKBGAPLG_00214	C1CC00	Ribonucleotide reductase of class III%2C large subunit
+4954-98	KKBGAPLG_00215	Q8CZ86	Acetyltransferase
+4954-98	KKBGAPLG_00216	C1CC03	Ribonucleotide reductase of class III%2C activating protein
+4954-98	KKBGAPLG_00217	C1CC04	Hypothetical protein
+4954-98	KKBGAPLG_00218	Q04MN7	SSU ribosomal protein S10p (S20e)
+4954-98	KKBGAPLG_00219	Q97SV5	LSU ribosomal protein L3p (L3e)
+4954-98	KKBGAPLG_00220	Q8CWV7	LSU ribosomal protein L4p (L1e)
+4954-98	KKBGAPLG_00221	Q97SV3	LSU ribosomal protein L23p (L23Ae)
+4954-98	KKBGAPLG_00222	Q97SV2	LSU ribosomal protein L2p (L8e)
+4954-98	KKBGAPLG_00223	Q04MN2	SSU ribosomal protein S19p (S15e)
+4954-98	KKBGAPLG_00224	Q04MN1	LSU ribosomal protein L22p (L17e)
+4954-98	KKBGAPLG_00225	Q04MN0	SSU ribosomal protein S3p (S3e)
+4954-98	KKBGAPLG_00226	Q04MM9	LSU ribosomal protein L16p (L10e)
+4954-98	KKBGAPLG_00227	A0A0B7M1U7	LSU ribosomal protein L29p (L35e)
+4954-98	KKBGAPLG_00228	Q04MM7	SSU ribosomal protein S17p (S11e)
+4954-98	KKBGAPLG_00229	Q04MM6	LSU ribosomal protein L14p (L23e)
+4954-98	KKBGAPLG_00230	Q04MM5	LSU ribosomal protein L24p (L26e)
+4954-98	KKBGAPLG_00231	Q97SV1	LSU ribosomal protein L5p (L11e)
+4954-98	KKBGAPLG_00232	Q04MM3	SSU ribosomal protein S14p (S29e)
+4954-98	KKBGAPLG_00233	Q04MM2	SSU ribosomal protein S8p (S15Ae)
+4954-98	KKBGAPLG_00234	Q8CWV3	LSU ribosomal protein L6p (L9e)
+4954-98	KKBGAPLG_00235	Q97SU6	LSU ribosomal protein L18p (L5e)
+4954-98	KKBGAPLG_00236	Q04ML9	SSU ribosomal protein S5p (S2e)
+4954-98	KKBGAPLG_00237	Q97SU4	LSU ribosomal protein L30p (L7e)
+4954-98	KKBGAPLG_00238	Q97SU3	LSU ribosomal protein L15p (L27Ae)
+4954-98	KKBGAPLG_00239	Q8DRD5	Protein translocase subunit SecY
+4954-98	KKBGAPLG_00240	Q8DRD4	Adenylate kinase
+4954-98	KKBGAPLG_00241	Q04ML4	Translation initiation factor 1
+4954-98	KKBGAPLG_00242	P0A496	LSU ribosomal protein L36p
+4954-98	KKBGAPLG_00243	Q04ML3	SSU ribosomal protein S13p (S18e)
+4954-98	KKBGAPLG_00244	Q04ML2	SSU ribosomal protein S11p (S14e)
+4954-98	KKBGAPLG_00245	Q04ML1	DNA-directed RNA polymerase alpha subunit
+4954-98	KKBGAPLG_00246	Q8CWU8	LSU ribosomal protein L17p
+4954-98	KKBGAPLG_00247		L17DE
+4954-98	KKBGAPLG_00247		
+4954-98	KKBGAPLG_00248	C1CC34	ACT domain-containing transcriptional regulator
+4954-98	KKBGAPLG_00249	C1CC35	hypothetical protein
+4954-98	KKBGAPLG_00250		csRNA
+4954-98	KKBGAPLG_00250		
+4954-98	KKBGAPLG_00251	B1I8M8	Phosphoglycerate mutase family protein
+4954-98	KKBGAPLG_00252	A0A0U0JI51	hypothetical protein
+4954-98	KKBGAPLG_00253	A0A6I3UU42	hypothetical protein
+4954-98	KKBGAPLG_00254	A0A0I6L6W6	hypothetical protein
+4954-98	KKBGAPLG_00255	A0A4J2FKG6	Ferric iron ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00256	A0A0I7U739	Ferric iron ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00257	C1CAP3	hypothetical protein
+4954-98	KKBGAPLG_00258	A0AA86XF27	hypothetical protein
+4954-98	KKBGAPLG_00259	A0A654UAH6	hypothetical protein
+4954-98	KKBGAPLG_00260	Q8DRC5	Pyruvate formate-lyase activating enzyme
+4954-98	KKBGAPLG_00261	B1I8X4	Transcriptional regulator%2C DeoR family
+4954-98	KKBGAPLG_00262	Q8DRC3	Transcriptional regulator
+4954-98	KKBGAPLG_00263	C1CC41	Cellobiose-specific PTS IIA component
+4954-98	KKBGAPLG_00264	A0A0H2UNC3	Cellobiose-specific PTS IIB component
+4954-98	KKBGAPLG_00265	A0AA87CGC2	Cellobiose-specific PTS IIC component
+4954-98	KKBGAPLG_00266	Q8DRB9	Pyruvate formate-lyase
+4954-98	KKBGAPLG_00267	A0A0B7M4C0	Transaldolase
+4954-98	KKBGAPLG_00268	Q8DRB7	Glycerol dehydrogenase
+4954-98	KKBGAPLG_00269	A0A0T7ZAT6	Leucyl-tRNA synthetase
+4954-98	KKBGAPLG_00270	B1I8Y3	hypothetical protein
+4954-98	KKBGAPLG_00271	B1I8Y4	Acetyltransferase%2C GNAT family
+4954-98	KKBGAPLG_00272	B1I8Y5	Acetyltransferase%2C GNAT family
+4954-98	KKBGAPLG_00273		csRNA
+4954-98	KKBGAPLG_00273		
+4954-98	KKBGAPLG_00274		csRNA
+4954-98	KKBGAPLG_00274		
+4954-98	KKBGAPLG_00275	Q8CWU7	Holliday junction DNA helicase RuvB
+4954-98	KKBGAPLG_00276	A0A0B7LYW5	Hypothetical protein
+4954-98	KKBGAPLG_00277	A0A9P1PBI0	Hypothetical protein
+4954-98	KKBGAPLG_00278		csRNA
+4954-98	KKBGAPLG_00278		
+4954-98	KKBGAPLG_00279	Q8DRB3	Undecaprenyl diphosphate synthase
+4954-98	KKBGAPLG_00280	C1CB37	Phosphatidate cytidylyltransferase
+4954-98	KKBGAPLG_00281	Q8DRB1	Intramembrane protease Eep
+4954-98	KKBGAPLG_00282	C1CPD8	Prolyl-tRNA synthetase
+4954-98	KKBGAPLG_00283	C1CC56	6-phospho-beta-glucosidase
+4954-98	KKBGAPLG_00284	C1CC57	Glucosamine--fructose-6-phosphate aminotransferase
+4954-98	KKBGAPLG_00285	A0A098Z6A0	Oxidoreductase
+4954-98	KKBGAPLG_00286	C1CC59	Pullulanase SpuA
+4954-98	KKBGAPLG_00287	E2DP60	SSU ribosomal protein S12p (S23e)
+4954-98	KKBGAPLG_00288	Q8CWU6	SSU ribosomal protein S7p (S5e)
+4954-98	KKBGAPLG_00289	C1CPE5	Translation elongation factor G
+4954-98	KKBGAPLG_00290	A0A0T7TL48	DNA polymerase III
+4954-98	KKBGAPLG_00291	C1CC64	Antitoxin RelB1
+4954-98	KKBGAPLG_00292	Q8DRA4	mRNA interferase RelE1
+4954-98	KKBGAPLG_00293	C1CC66	Hypothetical protein
+4954-98	KKBGAPLG_00294	C1CC67	Aminopeptidase PepS
+4954-98	KKBGAPLG_00295	C1CC68	Membrane protein
+4954-98	KKBGAPLG_00296	C1CC69	Ribosomal small subunit pseudouridine synthase A
+4954-98	KKBGAPLG_00297	C1CC70	Aminopeptidase C
+4954-98	KKBGAPLG_00298	Q8DR99	Mannose-specific PTS IID component
+4954-98	KKBGAPLG_00299	Q8DR98	Mannose-specific PTS IIC component
+4954-98	KKBGAPLG_00300	C1CB58	Mannose-specific PTS IIAB components
+4954-98	KKBGAPLG_00301	A0A0B7LSF0	Alcohol dehydrogenase
+4954-98	KKBGAPLG_00302	B2ISL4	Hydrolase%2C HAD superfamily
+4954-98	KKBGAPLG_00303	A0A0T8AEJ3	Guanine-hypoxanthine permease
+4954-98	KKBGAPLG_00304	A0A4J1XCM1	Membrane-bound protease%2C CAAX family
+4954-98	KKBGAPLG_00305	A0AA86XV92	Dihydropteroate synthase
+4954-98	KKBGAPLG_00306	A0A4J1W208	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+4954-98	KKBGAPLG_00307	A0A4K7J9P5	GTP cyclohydrolase I type 1
+4954-98	KKBGAPLG_00308	C1CC82	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+4954-98	KKBGAPLG_00309	Q8CZ79	Hypothetical protein
+4954-98	KKBGAPLG_00310	Q4K0E5	ISSpn8 transposase
+4954-98	KKBGAPLG_00311		L13_leader
+4954-98	KKBGAPLG_00311		
+4954-98	KKBGAPLG_00312	Q8CWU5	LSU ribosomal protein L13p (L13Ae)
+4954-98	KKBGAPLG_00313	Q8CWU4	SSU ribosomal protein S9p (S16e)
+4954-98	KKBGAPLG_00314	A0A4J1YK66	Tyrosine recombinase XerC
+4954-98	KKBGAPLG_00315	Q8CZ76	Hypothetical protein
+4954-98	KKBGAPLG_00316	A0A0B7LX26	hypothetical protein
+4954-98	KKBGAPLG_00317		SpF10_sRNA
+4954-98	KKBGAPLG_00317		
+4954-98	KKBGAPLG_00318	A0A5C8R3N8	Maltodextrin glucosidase
+4954-98	KKBGAPLG_00319		SpF11_sRNA
+4954-98	KKBGAPLG_00319		
+4954-98	KKBGAPLG_00320	Q8DR82	Glutathione peroxidase family protein
+4954-98	KKBGAPLG_00321	M4Y9A8	Hyaluronate lyase precursor SpnHL
+4954-98	KKBGAPLG_00322	A0A0B7L7X1	IS200/IS605 family transposase ISStin10
+4954-98	KKBGAPLG_00323	C1CB96	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxyphosphogluconate aldolase
+4954-98	KKBGAPLG_00324	B2ISN9	2-dehydro-3-deoxygluconokinase
+4954-98	KKBGAPLG_00325	C1CB98	Putative 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+4954-98	KKBGAPLG_00326	Q8DR79	2-deoxy-D-gluconate 3-dehydrogenase
+4954-98	KKBGAPLG_00327	Q8DR78	Hyaluronate-oligosaccharide-specific PTS IIA component
+4954-98	KKBGAPLG_00328	C1CC98	Unsaturated chondroitin disaccharide hydrolase
+4954-98	KKBGAPLG_00329	C1CC99	Hyaluronate-oligosaccharide-specific PTS IIB component
+4954-98	KKBGAPLG_00330	Q8DR75	Hyaluronate-oligosaccharide-specific PTS IIC component
+4954-98	KKBGAPLG_00331	C1CBA4	Hyaluronate-oligosaccharide-specific PTS IID component
+4954-98	KKBGAPLG_00332	Q8DR73	Preprotein translocase subunit YajC
+4954-98	KKBGAPLG_00333	B2ISP8	Oligohyaluronate lyase
+4954-98	KKBGAPLG_00334	C1CCA4	Transcriptional regulator RegR
+4954-98	KKBGAPLG_00335	C1CCA5	hypothetical protein
+4954-98	KKBGAPLG_00336	Q8CZ72	Hypothetical protein
+4954-98	KKBGAPLG_00337	B2ISQ1	Transcriptional regulator%2C PbsX family
+4954-98	KKBGAPLG_00338	T2BRS6	16S rRNA (cytosine(1402)-N(4))-methyltransferase MraW
+4954-98	KKBGAPLG_00339	T2BQ43	Cell division protein FtsL
+4954-98	KKBGAPLG_00340	Q4TUL1	Penicillin-binding protein 2X
+4954-98	KKBGAPLG_00341	A0A9P1Q3B0	Phospho-N-acetylmuramoyl-pentapeptide- transferase
+4954-98	KKBGAPLG_00342	A0A0T8C722	hypothetical protein
+4954-98	KKBGAPLG_00343	A0A9P1LN99	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
+4954-98	KKBGAPLG_00344	A0A0T7K5R2	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
+4954-98	KKBGAPLG_00345	A0A4M9X640	ATP-dependent Zn protease
+4954-98	KKBGAPLG_00346	C1CCB5	Glucan 1%2C6-alpha-glucosidase
+4954-98	KKBGAPLG_00347	A0A4J2AI94	IS630 family transposase IS630-Spn1
+4954-98	KKBGAPLG_00348	C1CCB6	Exopolysaccharide biosynthesis transcriptional regulator Cps2A
+4954-98	KKBGAPLG_00349	H6ULU3	Tyrosine-protein phosphatase Cps2B
+4954-98	KKBGAPLG_00350	Q4K1S8	Capsular biosynthesis protein Cps2C
+4954-98	KKBGAPLG_00351	Q4K1S7	Tyrosine-protein kinase Cps2D
+4954-98	KKBGAPLG_00352	B2ILP6	Undecaprenyl-phosphate galactosephosphotransferase Cps2E
+4954-98	KKBGAPLG_00353	P72514	hypothetical protein
+4954-98	KKBGAPLG_00354	C1CCC2	hypothetical protein
+4954-98	KKBGAPLG_00355	C1CCC3	hypothetical protein
+4954-98	KKBGAPLG_00356	Q4K1S2	Glycosyltransferase%2C group 2 family
+4954-98	KKBGAPLG_00357	B2ILQ1	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+4954-98	KKBGAPLG_00358	B2ILQ2	hypothetical protein
+4954-98	KKBGAPLG_00359	B2ILQ3	hypothetical protein
+4954-98	KKBGAPLG_00360	O07343	hypothetical protein
+4954-98	KKBGAPLG_00361	B2ILQ5	hypothetical protein
+4954-98	KKBGAPLG_00362		hypothetical protein
+4954-98	KKBGAPLG_00363	A0A4J1ZUE5	hypothetical protein
+4954-98	KKBGAPLG_00364	A0A4J1TJQ6	IS1167 transposase
+4954-98	KKBGAPLG_00365		Srn266
+4954-98	KKBGAPLG_00365		
+4954-98	KKBGAPLG_00366	C1CCD2	Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA
+4954-98	KKBGAPLG_00367	A0A7X2XLJ4	Endo-alpha-N-acetylgalactosaminidase Eng
+4954-98	KKBGAPLG_00368	A5YH44	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A
+4954-98	KKBGAPLG_00369	A0A0I8D563	RecU Holliday junction resolvase
+4954-98	KKBGAPLG_00370	Q8DR58	Hypothetical protein
+4954-98	KKBGAPLG_00371	Q97SI9	Cell division protein GpsB
+4954-98	KKBGAPLG_00372		RNaseP_bact_b
+4954-98	KKBGAPLG_00372		
+4954-98	KKBGAPLG_00373	A0A0B7LLZ8	23S rRNA (guanine(2445)-N(2))-methyltransferase
+4954-98	KKBGAPLG_00374	A0A0U0LLI3	Mid-cell-anchored protein Z
+4954-98	KKBGAPLG_00375	A0A4J1ZY62	6-phosphogluconate dehydrogenase%2C decarboxylating
+4954-98	KKBGAPLG_00376	A0A4J1ZXZ4	Orphan response regulator RitR
+4954-98	KKBGAPLG_00377	A0A0U0M509	Choline-binding protein CbpF
+4954-98	KKBGAPLG_00378	Q9KGY7	Choline-binding protein CbpF
+4954-98	KKBGAPLG_00379	A0A4N7G2J4	Macrolide-efflux protein
+4954-98	KKBGAPLG_00380	A0A4F5ETD1	hypothetical protein
+4954-98	KKBGAPLG_00381	C1CCE7	Mevalonate kinase
+4954-98	KKBGAPLG_00382	C1CCE8	Diphosphomevalonate decarboxylase
+4954-98	KKBGAPLG_00383	C1CCE9	Phosphomevalonate kinase
+4954-98	KKBGAPLG_00384	C1CCF0	Isopentenyl-diphosphate delta-isomerase%2C FMN-dependent
+4954-98	KKBGAPLG_00385	C1CCF1	Cell wall-active antibiotics response protein VraT
+4954-98	KKBGAPLG_00386	C1CCF2	Two-component system sensor histidine kinase VraS
+4954-98	KKBGAPLG_00387	C1CCF3	Two-component transcriptional regulator VraR
+4954-98	KKBGAPLG_00388	C1CCF6	Hypothetical protein
+4954-98	KKBGAPLG_00389	A0A4J1ZZD8	hypothetical protein
+4954-98	KKBGAPLG_00390	A0A4J1Z032	Choline-binding protein CbpK
+4954-98	KKBGAPLG_00391	C1CCF9	IS3 family transposase ISSpn4
+4954-98	KKBGAPLG_00392	A0A4J1X0J1	hypothetical protein
+4954-98	KKBGAPLG_00393	C1CCG0	hypothetical protein
+4954-98	KKBGAPLG_00394	A0A4G4FWF8	hypothetical protein
+4954-98	KKBGAPLG_00395	C1CCG2	Mannitol-specific PTS IIBC components
+4954-98	KKBGAPLG_00396	C1CCG3	Mannitol operon activator%2C BglG family
+4954-98	KKBGAPLG_00397	C1CCG4	Mannitol-specific PTS IIA component
+4954-98	KKBGAPLG_00398	C1CCG5	Mannitol-1-phosphate 5-dehydrogenase
+4954-98	KKBGAPLG_00399	C1CCG7	Cell division trigger factor
+4954-98	KKBGAPLG_00400	C1CCG8	RecD-like DNA helicase YrrC
+4954-98	KKBGAPLG_00401	Q3I0J5	Signal peptidase I
+4954-98	KKBGAPLG_00402	C1CCH0	Ribonuclease HIII
+4954-98	KKBGAPLG_00403	A0A0T7YI09	Z-ring positive regulator ZapA
+4954-98	KKBGAPLG_00404	C1C5E3	Z-ring positive regulator ZapB
+4954-98	KKBGAPLG_00405	A0A4J2A8J1	Recombination inhibitory protein MutS2
+4954-98	KKBGAPLG_00406		Glycine
+4954-98	KKBGAPLG_00406		
+4954-98	KKBGAPLG_00407	C1C5E5	Sodium/glycine symporter GlyP
+4954-98	KKBGAPLG_00408	Q8DR24	Macrophage infectivity potentiator protein
+4954-98	KKBGAPLG_00409	A0A0U0Q762	Exfoliative toxin A
+4954-98	KKBGAPLG_00410	A0A4N9N418	Seryl-tRNA synthetase
+4954-98	KKBGAPLG_00411	Q8DR21	Putative regulator of the mannose operon ManO
+4954-98	KKBGAPLG_00412	Q8DR20	Aspartokinase
+4954-98	KKBGAPLG_00413	C1CCI0	Trans-2%2Ccis-3-Decenoyl-ACP isomerase
+4954-98	KKBGAPLG_00414	Q8DR18	Transcriptional regulator of fatty acid biosynthesis FabT
+4954-98	KKBGAPLG_00415	Q04M58	3-oxoacyl-(acyl-carrier-protein) synthase FabH
+4954-98	KKBGAPLG_00416	P0A2W1	Acyl carrier protein
+4954-98	KKBGAPLG_00417	C1C5F6	Enoyl-(acyl-carrier-protein) reductase FabK
+4954-98	KKBGAPLG_00418	Q9FBC4	Malonyl CoA-acyl carrier protein transacylase FabD
+4954-98	KKBGAPLG_00419	C1CCI6	3-oxoacyl-[acyl-carrier protein] reductase FabG1
+4954-98	KKBGAPLG_00420	Q8DR14	3-oxoacyl-(acyl-carrier-protein) synthase FabF
+4954-98	KKBGAPLG_00421	Q9FBC1	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+4954-98	KKBGAPLG_00422	Q04M51	3-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+4954-98	KKBGAPLG_00423	Q9FBB9	Biotin carboxylase of acetyl-CoA carboxylase
+4954-98	KKBGAPLG_00424	Q7CRB7	Acetyl-coenzyme A carboxyl transferase beta chain
+4954-98	KKBGAPLG_00425	A0A064BZA7	Acetyl-coenzyme A carboxyl transferase alpha chain
+4954-98	KKBGAPLG_00426	A0A0I8RVJ1	hypothetical protein
+4954-98	KKBGAPLG_00427	Q04M45	Transcription termination protein NusB
+4954-98	KKBGAPLG_00428	Q8DR12	Alkaline shock protein
+4954-98	KKBGAPLG_00429	Q04M43	Translation elongation factor P
+4954-98	KKBGAPLG_00430	A0A0I9H6I9	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit B/glutamyl-tRNA(Glu) amidotransferase subunit B
+4954-98	KKBGAPLG_00431	C1CIT8	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit A/glutamyl-tRNA(Glu) amidotransferase subunit A
+4954-98	KKBGAPLG_00432	Q04M40	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit C/glutamyl-tRNA(Glu) amidotransferase subunit C
+4954-98	KKBGAPLG_00433	Q8DR09	Peptide chain release factor 3
+4954-98	KKBGAPLG_00434	Q8DR08	Putative CDP-glycerol:glycerophosphate glycerophosphotransferase
+4954-98	KKBGAPLG_00435	A0A064BZB4	LSU ribosomal protein L28p
+4954-98	KKBGAPLG_00436	C1CCK5	Putative alkaline-shock protein
+4954-98	KKBGAPLG_00437	C1CCK6	Dihydroxyacetone kinase-like protein
+4954-98	KKBGAPLG_00438	A0AA86XE54	Acetolactate synthase large subunit
+4954-98	KKBGAPLG_00439	Q8DR04	Acetolactate synthase small subunit
+4954-98	KKBGAPLG_00440	A0A654UAJ9	Ketol-acid reductoisomerase
+4954-98	KKBGAPLG_00441	A0A0E8Z4Y1	hypothetical protein
+4954-98	KKBGAPLG_00442	C1CCL1	Hypothetical protein
+4954-98	KKBGAPLG_00443	C1CCL2	Threonine dehydratase
+4954-98	KKBGAPLG_00444	C1CC84	ISSpn8 transposase
+4954-98	KKBGAPLG_00445	Q8CZ60	Hypothetical protein
+4954-98	KKBGAPLG_00446	Q8DR01	Glutamine ABC transporter ATP-binding protein GlnQ1
+4954-98	KKBGAPLG_00447	C1CCL6	Glutamine ABC transporter permease GlnHP1
+4954-98	KKBGAPLG_00448	C1CCL7	Hypothetical protein
+4954-98	KKBGAPLG_00449	C1CCL9	hypothetical protein
+4954-98	KKBGAPLG_00450	Q04M23	Undecaprenyl-diphosphatase
+4954-98	KKBGAPLG_00451	C1CCM2	DNA polymerase IV
+4954-98	KKBGAPLG_00452	Q8DQZ6	Pyruvate formate-lyase
+4954-98	KKBGAPLG_00453	Q8CZ58	hypothetical protein
+4954-98	KKBGAPLG_00454	Q8DQZ5	Hypothetical protein
+4954-98	KKBGAPLG_00455	Q8CZ56	Hypothetical protein
+4954-98	KKBGAPLG_00456	A0A4U8X7Z5	Lactose-specific PTS IIBC components
+4954-98	KKBGAPLG_00457	B2IM84	Lactose-specific PTS IIBC components
+4954-98	KKBGAPLG_00458	C1CCM7	Trk family potassium uptake protein TrkH
+4954-98	KKBGAPLG_00459	C1CCM8	Trk family potassium uptake protein TrkA
+4954-98	KKBGAPLG_00460	C1CCM9	Hypothetical protein
+4954-98	KKBGAPLG_00461	C1CIX7	Substrate-specific component MtsA of methionine-regulated ECF transporter
+4954-98	KKBGAPLG_00462	B2IM89	Hypothetical protein
+4954-98	KKBGAPLG_00463	B2IM90	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+4954-98	KKBGAPLG_00464	C1CCN3	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+4954-98	KKBGAPLG_00465		23S-methyl
+4954-98	KKBGAPLG_00465		
+4954-98	KKBGAPLG_00466	C1CCN4	tRNA (cytidine(34)-2'-O)-methyltransferase
+4954-98	KKBGAPLG_00467		FMN
+4954-98	KKBGAPLG_00467		
+4954-98	KKBGAPLG_00468	C1C5L4	Substrate-specific component RibU of riboflavin ECF transporter
+4954-98	KKBGAPLG_00469	A0A0E8P6N5	Membrane-associated phospholipid phosphatase
+4954-98	KKBGAPLG_00470	C1CCN7	Hypothetical protein
+4954-98	KKBGAPLG_00471	Q8CZ53	Hypothetical protein
+4954-98	KKBGAPLG_00472	Q04LZ9	DNA-directed RNA polymerase delta subunit
+4954-98	KKBGAPLG_00473	C1CCP1	CTP synthase
+4954-98	KKBGAPLG_00474	A0A4J2A823	Sodium-dependent phosphate transporter NptA
+4954-98	KKBGAPLG_00475	A0A4J2A743	Sodium-dependent phosphate transporter NptA
+4954-98	KKBGAPLG_00476	A0A4J2A9Q5	Endo-beta-N-acetylglucosaminidase EndoD
+4954-98	KKBGAPLG_00477	C1CQ04	Phosphoglycerate kinase
+4954-98	KKBGAPLG_00478	C1CCX0	IS1167 transposase
+4954-98	KKBGAPLG_00479		Srn266
+4954-98	KKBGAPLG_00479		
+4954-98	KKBGAPLG_00480	Q8CZ51	Hypothetical protein
+4954-98	KKBGAPLG_00481	C1CCP5	Transcriptional regulator%2C MerR family
+4954-98	KKBGAPLG_00482	Q8DQX6	Glutamine synthetase type I
+4954-98	KKBGAPLG_00483	C1C5M8	hypothetical protein
+4954-98	KKBGAPLG_00484	A0A4J2CHT3	Type I restriction-modification system%2C specificity subunit S type F
+4954-98	KKBGAPLG_00485	A0A0B7LN89	Type I restriction-modification system%2C specificity subunit S type F
+4954-98	KKBGAPLG_00486	C1CCQ0	Integrase/recombinase CreX (XerC/CodV family)
+4954-98	KKBGAPLG_00487	C1CCQ1	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
+4954-98	KKBGAPLG_00488	C1CCQ2	Type I restriction-modification system DNA-methyltransferase subunit M
+4954-98	KKBGAPLG_00489	C1CCQ3	Type I restriction-modification system restriction subunit R
+4954-98	KKBGAPLG_00490	A0A149VLN9	Hypothetical protein
+4954-98	KKBGAPLG_00491	A0A4M3K2B7	Hypothetical protein
+4954-98	KKBGAPLG_00492	A0A9P1QDY4	Heat-inducible transcription repressor HrcA
+4954-98	KKBGAPLG_00493	A0A4J1ZU79	Heat shock protein GrpE
+4954-98	KKBGAPLG_00494	P95829	Chaperone protein DnaK
+4954-98	KKBGAPLG_00495	A0A0T7I8D2	Hypothetical protein
+4954-98	KKBGAPLG_00496		SpF14_sRNA
+4954-98	KKBGAPLG_00496		
+4954-98	KKBGAPLG_00497	C1CCQ9	Chaperone protein DnaJ
+4954-98	KKBGAPLG_00498	A0A4U1IYY9	hypothetical protein
+4954-98	KKBGAPLG_00499	C1CCR1	Hypothetical protein
+4954-98	KKBGAPLG_00500	Q8DQW8	Histidine triad nucleotide-binding protein
+4954-98	KKBGAPLG_00501	C1CCR3	ABC transporter ATP-binding protein EcsA
+4954-98	KKBGAPLG_00502	C1CCR4	ABC transporter permease protein EcsB
+4954-98	KKBGAPLG_00503	Q9FBH2	BlpT protein
+4954-98	KKBGAPLG_00504	Q9ETK5	BlpS protein
+4954-98	KKBGAPLG_00505	Q9S1I6	Two-component system response regulator BlpR
+4954-98	KKBGAPLG_00506	C1CCR8	Two-component system sensor histidine kinase BlpH
+4954-98	KKBGAPLG_00507	A0AA36V9Y1	hypothetical protein
+4954-98	KKBGAPLG_00508	C1CCS0	Competence-stimulating peptide ABC transporter permease protein ComB
+4954-98	KKBGAPLG_00509	Q9EW68	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+4954-98	KKBGAPLG_00510	Q9ETN5	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+4954-98	KKBGAPLG_00511	Q9EU53	hypothetical protein
+4954-98	KKBGAPLG_00512	Q9ETM2	hypothetical protein
+4954-98	KKBGAPLG_00513	A7XHC5	hypothetical protein
+4954-98	KKBGAPLG_00514	A7XHD0	hypothetical protein
+4954-98	KKBGAPLG_00515	A0A0B7M8R9	hypothetical protein
+4954-98	KKBGAPLG_00516	Q9ETT3	hypothetical protein
+4954-98	KKBGAPLG_00517	C1C5R9	Bacteriocin immunity protein BlpY
+4954-98	KKBGAPLG_00518	Q9FBH0	Immunity protein BlpZ
+4954-98	KKBGAPLG_00519	A0A0B7M7P4	Putative protease
+4954-98	KKBGAPLG_00520	C1CCT2	Aminoglycoside phosphotransferase family protein
+4954-98	KKBGAPLG_00521	A0A064C0Y7	tRNA (guanine46-N7-)-methyltransferase
+4954-98	KKBGAPLG_00522	Q97S61	Bacterial ribosome SSU maturation protein RimP
+4954-98	KKBGAPLG_00523	C1CCT5	Transcription termination/antitermination protein NusA
+4954-98	KKBGAPLG_00524	Q8DQV4	Putative nucleic-acid-binding protein implicated in transcription termination
+4954-98	KKBGAPLG_00525	C1CCT7	L7Ae family ribosomal protein
+4954-98	KKBGAPLG_00526	A0A098ZI69	Translation initiation factor 2
+4954-98	KKBGAPLG_00527	C1CQ49	Ribosome-binding factor A
+4954-98	KKBGAPLG_00528	A0A5R9B118	Hypothetical protein
+4954-98	KKBGAPLG_00529	A0A0E8P689	Hypothetical protein
+4954-98	KKBGAPLG_00530	A0A4J1TGD8	hypothetical protein
+4954-98	KKBGAPLG_00531	Q8CZ42	Glycerate kinase
+4954-98	KKBGAPLG_00532	A0A4M3JXY5	Hypothetical protein
+4954-98	KKBGAPLG_00533	Q8CZ41	Hypothetical protein
+4954-98	KKBGAPLG_00534	C1CCU6	Hypothetical protein
+4954-98	KKBGAPLG_00535	C1C5U0	Hypothetical protein
+4954-98	KKBGAPLG_00536	A0A6G2DCL4	Acetyltransferase
+4954-98	KKBGAPLG_00537	C1CCV0	Hypothetical protein
+4954-98	KKBGAPLG_00538	C1CCV1	Valyl-tRNA synthetase
+4954-98	KKBGAPLG_00539	C1CCV2	Hypothetical protein
+4954-98	KKBGAPLG_00540	A0A064BZI4	Fic domain protein
+4954-98	KKBGAPLG_00541	A0A0Z5LAV6	hypothetical protein
+4954-98	KKBGAPLG_00542	A0A0B4ZLE6	hypothetical protein
+4954-98	KKBGAPLG_00543	A0A4J2FD88	IS1167 transposase Orf1
+4954-98	KKBGAPLG_00544		Srn266
+4954-98	KKBGAPLG_00544		
+4954-98	KKBGAPLG_00545	A0A0H2UP32	hypothetical protein
+4954-98	KKBGAPLG_00546	A0A4J1WJ66	hypothetical protein
+4954-98	KKBGAPLG_00547		SpF19_sRNA
+4954-98	KKBGAPLG_00547		
+4954-98	KKBGAPLG_00548	B2IMP8	Beta-glucoside bgl operon antiterminator BglG
+4954-98	KKBGAPLG_00549	A0A0I9CFF9	Beta-glucoside-specific PTS IIBCA components
+4954-98	KKBGAPLG_00550	A0A0D6J947	6-phospho-beta-glucosidase
+4954-98	KKBGAPLG_00551	Q8DQT8	Phenylalanyl-tRNA synthetase alpha chain
+4954-98	KKBGAPLG_00552	Q8DQT7	N1-spermidine/spermine acetyltransferase PaiA
+4954-98	KKBGAPLG_00553	A0A0I6WE34	Phenylalanyl-tRNA synthetase beta chain
+4954-98	KKBGAPLG_00554	A0A0I7G8K7	Putative integral membrane protein
+4954-98	KKBGAPLG_00555	A0A4J1W747	ISSpn8 transposase
+4954-98	KKBGAPLG_00556	C1CCW2	5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase
+4954-98	KKBGAPLG_00557	C1CCW3	5%2C10-methylenetetrahydrofolate reductase
+4954-98	KKBGAPLG_00558	C1CCW4	Polyribonucleotide nucleotidyltransferase
+4954-98	KKBGAPLG_00559	Q8DQS9	Serine acetyltransferase
+4954-98	KKBGAPLG_00560	C1CCW6	Acetyltransferase%2C GNAT family
+4954-98	KKBGAPLG_00561	C1CCW7	Cysteinyl-tRNA synthetase
+4954-98	KKBGAPLG_00562	C1CCW8	Mini-ribonuclease III
+4954-98	KKBGAPLG_00563	C1CCW9	Leucine rich protein
+4954-98	KKBGAPLG_00564	C1CCX0	IS1167 transposase
+4954-98	KKBGAPLG_00565		Srn266
+4954-98	KKBGAPLG_00565		
+4954-98	KKBGAPLG_00566	A0A4J2A482	hypothetical protein
+4954-98	KKBGAPLG_00567	C1CCX4	Peptide ABC transporter membrane-spanning permease Vex1
+4954-98	KKBGAPLG_00568	C1CCX5	ABC transporter ATP-binding protein Vex2
+4954-98	KKBGAPLG_00569	Q9S4J0	Peptide ABC transporter membrane-spanning permease Vex3
+4954-98	KKBGAPLG_00570	C1CCX7	Two-component system response regulator VncR
+4954-98	KKBGAPLG_00571	C1CCX8	Two-component system sensor histidine kinase VncS
+4954-98	KKBGAPLG_00572	C1CCX9	Class II fructose-bisphosphate aldolase
+4954-98	KKBGAPLG_00573	A0A6A8VMF0	Oxidoreductase
+4954-98	KKBGAPLG_00574	C1CCY1	Glutamine ABC transporter permease GlnP2b
+4954-98	KKBGAPLG_00575	C1CCY2	Glutamine ABC transporter permease GlnP2a
+4954-98	KKBGAPLG_00576	C1CCY3	Glutamine ABC transporter substrate-binding protein GlnH2
+4954-98	KKBGAPLG_00577	C1CCY4	Glutamine ABC transporter ATP-binding protein GlnQ4
+4954-98	KKBGAPLG_00578	A0A7X3BXJ3	Single-stranded-DNA-specific exonuclease RecJ
+4954-98	KKBGAPLG_00579	C1CCY6	Ribonuclease J2
+4954-98	KKBGAPLG_00580	C1CCY7	Tributyrin esterase
+4954-98	KKBGAPLG_00581	C1CCY8	tRNA-dependent lipid II--L-alanine/serine ligase MurM
+4954-98	KKBGAPLG_00582	C1CCY9	tRNA-dependent lipid II-Ala--L-alanine ligase MurN
+4954-98	KKBGAPLG_00583	C1CCZ0	Putative Zn-dependent protease
+4954-98	KKBGAPLG_00584	C1CCZ1	Excinuclease ABC subunit C
+4954-98	KKBGAPLG_00585	B2IMT5	Serine/threonine protein phosphatase
+4954-98	KKBGAPLG_00586	B2IMT6	Serine/threonine protein phosphatase
+4954-98	KKBGAPLG_00587	Q8CWT0	Cysteine ABC transporter substrate-binding protein
+4954-98	KKBGAPLG_00588	C1CCZ3	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dihydropteridine reductase
+4954-98	KKBGAPLG_00589	C1CCZ4	Dipeptidase PepV
+4954-98	KKBGAPLG_00590	C1CCZ5	Uracil-DNA glycosylase
+4954-98	KKBGAPLG_00591	C1CCZ6	hypothetical protein
+4954-98	KKBGAPLG_00592		SpF22_sRNA
+4954-98	KKBGAPLG_00592		
+4954-98	KKBGAPLG_00593	A0A5R9B059	Branched-chain amino acid transport system carrier protein
+4954-98	KKBGAPLG_00594	C1CCZ9	Deblocking aminopeptidase
+4954-98	KKBGAPLG_00595	C1CD00	Histidine triad family protein
+4954-98	KKBGAPLG_00596	C1CD01	L%2CD-carboxypeptidase
+4954-98	KKBGAPLG_00597	Q97RZ6	LSU ribosomal protein L11p (L12e)
+4954-98	KKBGAPLG_00598	B8ZML9	LSU ribosomal protein L1p (L10Ae)
+4954-98	KKBGAPLG_00599		Intron_gpII
+4954-98	KKBGAPLG_00599		
+4954-98	KKBGAPLG_00600	A0A0B7LEL3	Hypothetical protein
+4954-98	KKBGAPLG_00601	A0AAD2IHS4	hypothetical protein
+4954-98	KKBGAPLG_00602	B2IMV0	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00603	Q8DQP9	Antibiotic ABC transporter permease protein
+4954-98	KKBGAPLG_00604	Q8DQP8	Multidrug ABC transporter permease protein
+4954-98	KKBGAPLG_00605	B2IMV5	Serine protease PrtA precursor
+4954-98	KKBGAPLG_00606	B2IMV6	Galactose-specific PTS IIA component
+4954-98	KKBGAPLG_00607	Q8CZ23	Galactose-specific PTS IIB component
+4954-98	KKBGAPLG_00608	B2IMV8	Galactose-specific PTS IIC component
+4954-98	KKBGAPLG_00609	C1CD16	Beta-galactosidase BgaA
+4954-98	KKBGAPLG_00610	C1CD16	Beta-galactosidase BgaA
+4954-98	KKBGAPLG_00611	C1CD17	hypothetical protein
+4954-98	KKBGAPLG_00612	C1CD18	hypothetical protein
+4954-98	KKBGAPLG_00613		SpF25_sRNA
+4954-98	KKBGAPLG_00613		
+4954-98	KKBGAPLG_00614	C1CD20	Hypothetical protein
+4954-98	KKBGAPLG_00615	B2IMW3	hypothetical protein
+4954-98	KKBGAPLG_00616	B2IMW4	hypothetical protein
+4954-98	KKBGAPLG_00617	Q8DQP3	Putative rRNA methylase YtqB
+4954-98	KKBGAPLG_00618	C1CD22	Hypothetical protein
+4954-98	KKBGAPLG_00619	C1CD23	Na+/H+ antiporter
+4954-98	KKBGAPLG_00620	C1CD24	Inner membrane protein YihY
+4954-98	KKBGAPLG_00621	C1CD25	Cytochrome c-type biogenesis protein CcdA-1
+4954-98	KKBGAPLG_00622	A0AA87CBX6	Thiol:disulfide oxidoreductase
+4954-98	KKBGAPLG_00623	A0A656C7L0	Peptide methionine sulfoxide reductase MsrAB2
+4954-98	KKBGAPLG_00624	Q8DQN8	Two-component response regulator YesN
+4954-98	KKBGAPLG_00625	C1CD29	Two-component sensor kinase YesM
+4954-98	KKBGAPLG_00626	A0A656C772	YwlG
+4954-98	KKBGAPLG_00627	A0A6I3TD50	Zinc metalloprotease ZmpB precursor
+4954-98	KKBGAPLG_00628	B2IMX7	Bifunctional para-aminobenzoate synthase%2C aminase component/aminodeoxychorismate lyase
+4954-98	KKBGAPLG_00629	B1IAK4	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+4954-98	KKBGAPLG_00630	B2IMX9	Endo-beta-N-acetylglucosaminidase%2C choline-binding protein CbpL
+4954-98	KKBGAPLG_00631	A0AA86Y343	Glucokinase
+4954-98	KKBGAPLG_00632	I0J991	ISSpn8 transposase
+4954-98	KKBGAPLG_00633	Q04LL8	Thymidylate synthase
+4954-98	KKBGAPLG_00634	Q8CZ15	Hypothetical protein
+4954-98	KKBGAPLG_00635	A0AA86JVG4	tRNA dimethylallyltransferase MiaA
+4954-98	KKBGAPLG_00636	Q8DQN2	GTP-binding protein HflX
+4954-98	KKBGAPLG_00637	C1CD40	Cystathionine beta-lyase
+4954-98	KKBGAPLG_00638	Q8DQN1	Ribonuclease Z
+4954-98	KKBGAPLG_00639	Q8DQN0	Short-chain dehydrogenase
+4954-98	KKBGAPLG_00640	Q8DQM9	Methionine biosynthesis and transport regulator MtaR%2C LysR family
+4954-98	KKBGAPLG_00641	Q8DQM8	Hypothetical protein
+4954-98	KKBGAPLG_00642	Q8DQM7	Rhodanese-like domain protein
+4954-98	KKBGAPLG_00643	C1CD46	Ribosomal small subunit pseudouridine synthase A
+4954-98	KKBGAPLG_00644	A0AA86Y837	GTP-binding protein TypA
+4954-98	KKBGAPLG_00645	C1CD48	Putative membrane protein
+4954-98	KKBGAPLG_00646	A0A098APW8	Putative immunity protein
+4954-98	KKBGAPLG_00647	A0A4J1XCJ7	Putative immunity protein
+4954-98	KKBGAPLG_00648	C1CD50	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00649	C1CD51	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+4954-98	KKBGAPLG_00650	C1CD52	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+4954-98	KKBGAPLG_00651	C1CD53	Cell division protein DivIB
+4954-98	KKBGAPLG_00652		PyrR
+4954-98	KKBGAPLG_00652		
+4954-98	KKBGAPLG_00653	C1CD54	Orotidine 5'-phosphate decarboxylase
+4954-98	KKBGAPLG_00654	P0CB78	Orotate phosphoribosyltransferase
+4954-98	KKBGAPLG_00655	A0A4L7TRY1	Hypothetical protein
+4954-98	KKBGAPLG_00656	C1CD57	Hypothetical protein
+4954-98	KKBGAPLG_00657	C1CD58	Hypothetical protein
+4954-98	KKBGAPLG_00658	Q8CZ03	Hypothetical protein
+4954-98	KKBGAPLG_00659	A0A4J1UN03	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00660	A0A4J1ND47	Amino acid ABC transporter amino acid-binding/permease protein
+4954-98	KKBGAPLG_00661	A0A0B7M0G9	hypothetical protein
+4954-98	KKBGAPLG_00662	C1CD61	Glutamine ABC transporter ATP-binding protein GlnQ3
+4954-98	KKBGAPLG_00663	Q8DQL0	Glutamine ABC transporter permease GlnP3b
+4954-98	KKBGAPLG_00664	C1CD63	Glutamine ABC transporter permease GlnP3a
+4954-98	KKBGAPLG_00665	C1CD65	L-Lactate 2-monooxygenase
+4954-98	KKBGAPLG_00666	C1CD66	Class II lysyl-tRNA synthetase
+4954-98	KKBGAPLG_00667	C1CD67	L-Lactate 2-monooxygenase
+4954-98	KKBGAPLG_00668		TPP
+4954-98	KKBGAPLG_00668		
+4954-98	KKBGAPLG_00669	C1CD68	Thiaminase II
+4954-98	KKBGAPLG_00670	A0A7X2XKH6	Hydroxyethylthiazole kinase
+4954-98	KKBGAPLG_00671	C1CD70	Thiamin-phosphate pyrophosphorylase
+4954-98	KKBGAPLG_00672		TPP
+4954-98	KKBGAPLG_00672		
+4954-98	KKBGAPLG_00673	C1CD71	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+4954-98	KKBGAPLG_00674	C1CD72	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+4954-98	KKBGAPLG_00675	Q8DQK1	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+4954-98	KKBGAPLG_00676	C1CD74	Thiaminase II TenA
+4954-98	KKBGAPLG_00677	C1CD75	Substrate-specific component ThiW of putative thiazole ECF transporter
+4954-98	KKBGAPLG_00678	C1CD76	Hydroxyethylthiazole kinase
+4954-98	KKBGAPLG_00679	C1CD77	Thiamin-phosphate pyrophosphorylase
+4954-98	KKBGAPLG_00680	C1CD78	Hydroxymethylpyrimidine phosphate kinase ThiD
+4954-98	KKBGAPLG_00681		TPP
+4954-98	KKBGAPLG_00681		
+4954-98	KKBGAPLG_00682	C1CD79	Negative transcriptional regulator of copper transport operon
+4954-98	KKBGAPLG_00683	Q8DQJ6	Copper-exporting ATPase
+4954-98	KKBGAPLG_00684	C1CD81	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
+4954-98	KKBGAPLG_00685	C1CD82	Pyruvate oxidase
+4954-98	KKBGAPLG_00686	Q8CZ01	Hypothetical protein
+4954-98	KKBGAPLG_00687	B2INB4	IS630 family transposase ISSpn2
+4954-98	KKBGAPLG_00688	C1CD85	IS630 family transposase ISSpn2
+4954-98	KKBGAPLG_00689	A0A0B7KTL2	6-phospho-beta-glucosidase
+4954-98	KKBGAPLG_00690	C1CD86	Mannose-6-phosphate isomerase
+4954-98	KKBGAPLG_00691	C1CD87	Sodium-dependent transporter
+4954-98	KKBGAPLG_00692	C1CD89	hypothetical protein
+4954-98	KKBGAPLG_00693	A0A0B7L4B3	MutT/Nudix family protein
+4954-98	KKBGAPLG_00694	C1CD91	NAD(FAD)-utilizing dehydrogenase
+4954-98	KKBGAPLG_00695	Q97RQ6	DegV family protein
+4954-98	KKBGAPLG_00696	Q8DQI5	Transcriptional regulator%2C AcrR family
+4954-98	KKBGAPLG_00697	C1CD94	dCMP deaminase
+4954-98	KKBGAPLG_00698	A0A0T8MLU5	Uracil phosphoribosyltransferase
+4954-98	KKBGAPLG_00699	Q04LF4	ATP-dependent Clp protease proteolytic subunit ClpP
+4954-98	KKBGAPLG_00700	A0A0T9AB05	Hypothetical protein
+4954-98	KKBGAPLG_00701	C1CD98	High-affinity leucine-specific transport system%2C periplasmic binding protein LivJ
+4954-98	KKBGAPLG_00702	C1CD99	High-affinity branched-chain amino acid transport system permease protein LivH
+4954-98	KKBGAPLG_00703	C1CDA0	Branched-chain amino acid transport system permease protein LivM
+4954-98	KKBGAPLG_00704	Q8DQH8	Branched-chain amino acid transport ATP-binding protein LivG
+4954-98	KKBGAPLG_00705	C1CDA2	Branched-chain amino acid transport ATP-binding protein LivF
+4954-98	KKBGAPLG_00706	C1CDA3	CBS domain protein
+4954-98	KKBGAPLG_00707	A0A5C5EFR7	Peptide chain release factor 2
+4954-98	KKBGAPLG_00708	C1CDA5	Cell division transporter%2C ATP-binding protein FtsE
+4954-98	KKBGAPLG_00709	C1CDA6	Cell division protein FtsX
+4954-98	KKBGAPLG_00710	C1CDA7	Maltose- and glucose-specific PTS IICBA components
+4954-98	KKBGAPLG_00711	C1CDA8	Exodeoxyribonuclease III
+4954-98	KKBGAPLG_00712	C1CDA9	ATP-dependent RNA helicase YqfR
+4954-98	KKBGAPLG_00713	C1CDB0	S-adenosylmethionine synthetase
+4954-98	KKBGAPLG_00714	Q9X9S0	Dihydroorotate dehydrogenase (fumarate)
+4954-98	KKBGAPLG_00715	C1CDB3	DNA polymerase III delta subunit
+4954-98	KKBGAPLG_00716	C1CDB4	Manganese superoxide dismutase
+4954-98	KKBGAPLG_00717	Q8CYZ7	hypothetical protein
+4954-98	KKBGAPLG_00718	C1CDB6	putative dual-specificity RNA methyltransferase RlmN
+4954-98	KKBGAPLG_00719	C1CDB7	VanZF-related protein
+4954-98	KKBGAPLG_00720	C1CDB8	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00721	C1CDB9	Peptidyl-prolyl cis-trans isomerase
+4954-98	KKBGAPLG_00722	C1CDC0	Hypothetical protein
+4954-98	KKBGAPLG_00723	Q04LD0	SSU ribosomal protein S16p
+4954-98	KKBGAPLG_00724	C1CDC4	KH domain RNA-binding protein
+4954-98	KKBGAPLG_00725	C1CDC5	hypothetical protein
+4954-98	KKBGAPLG_00726	C1CDC6	16S rRNA processing protein RimM
+4954-98	KKBGAPLG_00727	C1CDC7	tRNA (guanine(37)-N(1))-methyltransferase
+4954-98	KKBGAPLG_00728	Q8CYZ1	Anaerobic ribonucleoside-triphosphate reductase
+4954-98	KKBGAPLG_00729	Q8CYZ0	Hypothetical protein
+4954-98	KKBGAPLG_00730	Q8DQG2	Hypothetical protein
+4954-98	KKBGAPLG_00731	C1CDD2	Substrate-specific component BioY of biotin ECF transporter
+4954-98	KKBGAPLG_00732	C1CDD3	hypothetical protein
+4954-98	KKBGAPLG_00733	C1CDD4	hypothetical protein
+4954-98	KKBGAPLG_00734	C1CDD5	ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_00735	C1CDD6	hypothetical protein
+4954-98	KKBGAPLG_00736	C1CDD7	Glutathione reductase
+4954-98	KKBGAPLG_00737	C1CDD8	Periplasmic component of efflux system
+4954-98	KKBGAPLG_00738	Q8DQF8	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00739	C1CDE0	ABC transporter permease protein
+4954-98	KKBGAPLG_00740	C1CDE1	Methionyl-tRNA synthetase
+4954-98	KKBGAPLG_00741	Q8DQF6	Transcriptional regulator%2C PadR family
+4954-98	KKBGAPLG_00742	C1CDE4	Hypothetical protein
+4954-98	KKBGAPLG_00743	C1CDE6	Putative oxidoreductase
+4954-98	KKBGAPLG_00744	B2INR6	Hypothetical protein
+4954-98	KKBGAPLG_00745	C1CDE8	3-Ketoacyl-ACP reductase
+4954-98	KKBGAPLG_00746	C1CDE9	MutT/Nudix family protein
+4954-98	KKBGAPLG_00747	Q8CYY8	Acetyltransferase%2C GNAT family
+4954-98	KKBGAPLG_00748	A0A7X2XKJ4	PEP-utilizing enzyme family protein
+4954-98	KKBGAPLG_00749	C1CDF2	Hypothetical protein
+4954-98	KKBGAPLG_00750	C1CDF3	Lysyl aminopeptidase PepN
+4954-98	KKBGAPLG_00751	C1CCX0	IS1167 transposase
+4954-98	KKBGAPLG_00752		Srn266
+4954-98	KKBGAPLG_00752		
+4954-98	KKBGAPLG_00753	C1CDF5	Two-component system response regulator CiaR
+4954-98	KKBGAPLG_00754	Q7B3G0	Two-component system sensor histidine kinase CiaH
+4954-98	KKBGAPLG_00755	Q8CYY6	Hypothetical protein
+4954-98	KKBGAPLG_00756	C1C6E5	Protease
+4954-98	KKBGAPLG_00757	C1CDF9	Bifunctional DinG family ATP-dependent helicase YoaA/DnaQ family exonuclease
+4954-98	KKBGAPLG_00758	Q8DQE8	Cell shape-determining protein RodA
+4954-98	KKBGAPLG_00759	Q8DQE7	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+4954-98	KKBGAPLG_00760	Q8DQE6	Hydrolase%2C haloacid dehalogenase-like family
+4954-98	KKBGAPLG_00761	Q59957	DNA gyrase subunit B
+4954-98	KKBGAPLG_00762	C1CDG4	Septation ring formation regulator EzrA
+4954-98	KKBGAPLG_00763	A0A4J0LT84	IS66 family transposase Orf2
+4954-98	KKBGAPLG_00764	C1CDG6	Hypothetical protein
+4954-98	KKBGAPLG_00765	A0A4P0AM71	MutT/Nudix family protein
+4954-98	KKBGAPLG_00766	C1CDG7	IS630 family transposase IS630-Spn1
+4954-98	KKBGAPLG_00767	C1CDG9	ATP-dependent Clp protease ATP-binding subunit ClpE
+4954-98	KKBGAPLG_00768	Q8DQD6	Hypothetical protein
+4954-98	KKBGAPLG_00769	A0AA87CCJ7	Glutamine ABC transporter permease GlnP4
+4954-98	KKBGAPLG_00770	A0A4J1ZTJ8	Glutamine ABC transporter ATP-binding protein GlnQ4
+4954-98	KKBGAPLG_00771	A0AA86XIX6	Bifunctional methylenetetrahydrofolate dehydrogenase (NADP+)/methenyltetrahydrofolate cyclohydrolase
+4954-98	KKBGAPLG_00772	C1CDH4	hypothetical protein
+4954-98	KKBGAPLG_00773	A0A4G4S7U0	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+4954-98	KKBGAPLG_00774	Q04L82	Ribose 5-phosphate isomerase A
+4954-98	KKBGAPLG_00775	C1CS61	Phosphopentomutase
+4954-98	KKBGAPLG_00776	A0A0H2UPL4	hypothetical protein
+4954-98	KKBGAPLG_00777	A0A4N2S038	Bifunctional purine nucleoside phosphorylase/N-ribosylnicotinamide phosphorylase
+4954-98	KKBGAPLG_00778	Q8CYY3	hypothetical protein
+4954-98	KKBGAPLG_00779	A0A0B7MGP7	Thiol-activated cytolysin
+4954-98	KKBGAPLG_00780	Q8CWS1	Purine nucleoside phosphorylase
+4954-98	KKBGAPLG_00781	A0A064C257	FlaR-related DNA topology modulation protein
+4954-98	KKBGAPLG_00782	Q8CWS0	SSU ribosomal protein S20p
+4954-98	KKBGAPLG_00783	A0A380LWS2	Pantothenate kinase
+4954-98	KKBGAPLG_00784	C1CDI7	Hypothetical protein
+4954-98	KKBGAPLG_00785	A0A4J2CTI4	16S rRNA (guanine(1207)-N(2))-methyltransferase
+4954-98	KKBGAPLG_00786	C1CDI9	Pyrimidine-nucleoside phosphorylase
+4954-98	KKBGAPLG_00787	C1CDJ0	Deoxyribose-phosphate aldolase
+4954-98	KKBGAPLG_00788	C1CDJ1	Cytidine deaminase
+4954-98	KKBGAPLG_00789	C1CDJ2	Nucleoside-binding protein
+4954-98	KKBGAPLG_00790	A0A4J2ADE2	Putative deoxyribose-specific ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00791	B2INW4	Putative deoxyribose-specific ABC transporter permease protein
+4954-98	KKBGAPLG_00792	Q8DQB9	Putative deoxyribose-specific ABC transporter permease protein
+4954-98	KKBGAPLG_00793	C1CDJ6	IS3 family transposase ISSpn11
+4954-98	KKBGAPLG_00794	C1CDJ7	hypothetical protein
+4954-98	KKBGAPLG_00795	C1CDJ8	IS3 family transposase ISSpn11
+4954-98	KKBGAPLG_00796	Q04L63	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+4954-98	KKBGAPLG_00797	Q3HZ74	Topoisomerase IV subunit B
+4954-98	KKBGAPLG_00798	B2INX2	Restriction enzyme BcgI alpha chain-like protein
+4954-98	KKBGAPLG_00799	C1C6I8	Topoisomerase IV subunit A
+4954-98	KKBGAPLG_00800	C1CDK3	Branched-chain amino acid aminotransferase
+4954-98	KKBGAPLG_00801	C1CDK4	Oligopeptide ABC transporter substrate-binding protein
+4954-98	KKBGAPLG_00802	C1CDK5	Hypothetical protein
+4954-98	KKBGAPLG_00803	Q8DQB0	Putative membrane protein
+4954-98	KKBGAPLG_00804	Q04L55	Pyrrolidone-carboxylate peptidase
+4954-98	KKBGAPLG_00805	Q8CYY0	Hypothetical protein
+4954-98	KKBGAPLG_00806		tRNA-Tyr(gta)
+4954-98	KKBGAPLG_00806		
+4954-98	KKBGAPLG_00807		tRNA-Gln(ttg)
+4954-98	KKBGAPLG_00807		
+4954-98	KKBGAPLG_00808	C1CDK9	SSU ribosomal protein S1p
+4954-98	KKBGAPLG_00809	C1CDL0	IS1167 transposase Orf2
+4954-98	KKBGAPLG_00810	C1CDL1	hypothetical protein
+4954-98	KKBGAPLG_00811	C1CDL2	IS1167 transposase Orf1
+4954-98	KKBGAPLG_00812		Srn266
+4954-98	KKBGAPLG_00812		
+4954-98	KKBGAPLG_00813	Q8DQA6	GAF domain-containing protein
+4954-98	KKBGAPLG_00814	C1CDL4	DNA polymerase III subunits gamma and tau
+4954-98	KKBGAPLG_00815	Q8CYX9	Hypothetical protein
+4954-98	KKBGAPLG_00816	B2INY7	Iron-sulfur cluster assembly ATPase protein SufC
+4954-98	KKBGAPLG_00817	Q8DQA3	Iron-sulfur cluster assembly protein SufD
+4954-98	KKBGAPLG_00818	C1CDL8	Cysteine desulfurase SufS
+4954-98	KKBGAPLG_00819	C1CDL9	Putative iron-sulfur cluster assembly scaffold protein for SUF system SufE2
+4954-98	KKBGAPLG_00820	C1CDM0	Iron-sulfur cluster assembly protein SufB
+4954-98	KKBGAPLG_00821	Q75Y35	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
+4954-98	KKBGAPLG_00822	Q8DQ98	Coordinator of zonal cell elongation
+4954-98	KKBGAPLG_00823		transfer-messenger RNA%2C SsrA
+4954-98	KKBGAPLG_00823		
+4954-98	KKBGAPLG_00824		tRNA-Ser(gga)
+4954-98	KKBGAPLG_00824		
+4954-98	KKBGAPLG_00825	Q8DQ97	Transcriptional repressor of the fructose operon%2C DeoR family
+4954-98	KKBGAPLG_00826	A0A0H2ZPQ7	1-phosphofructokinase
+4954-98	KKBGAPLG_00827	C1CDM5	Fructose-specific PTS IIABC components
+4954-98	KKBGAPLG_00828	A0A0B4ZMK1	DNA translocase FtsK
+4954-98	KKBGAPLG_00829	C1CDM8	Acetyltransferase
+4954-98	KKBGAPLG_00830	C1CDM9	Putative cysteine desulfurase
+4954-98	KKBGAPLG_00831	C1CJW9	tRNA 4-thiouridine synthase ThiI
+4954-98	KKBGAPLG_00832	C1CDN1	hypothetical protein
+4954-98	KKBGAPLG_00833	C1CDN2	ATP-grasp-domain-containing protein
+4954-98	KKBGAPLG_00834	Q8DQ91	Type I restriction-modification system DNA-methyltransferase subunit M
+4954-98	KKBGAPLG_00835	A0A7X3BXF3	hypothetical protein
+4954-98	KKBGAPLG_00836	C1CDN6	hypothetical protein
+4954-98	KKBGAPLG_00837	C1CDN7	hypothetical protein
+4954-98	KKBGAPLG_00838	C1CDN8	Tyrosine recombinase XerC
+4954-98	KKBGAPLG_00839	A0A7X2XK61	hypothetical protein
+4954-98	KKBGAPLG_00840	C1CDP0	Type I restriction-modification system restriction subunit R
+4954-98	KKBGAPLG_00841	C1CDP1	Arginine pathway regulatory protein ArgR2
+4954-98	KKBGAPLG_00842	Q97RC8	Xaa-Pro dipeptidyl-peptidase
+4954-98	KKBGAPLG_00843	C1CDP3	DNA polymerase III alpha subunit
+4954-98	KKBGAPLG_00844	Q97RC6	6-phosphofructokinase
+4954-98	KKBGAPLG_00845	C1CDP5	Pyruvate kinase
+4954-98	KKBGAPLG_00846	Q8CYX1	Membrane-associated protein
+4954-98	KKBGAPLG_00847	C1CDP7	IS5 family transposase ISSpn7
+4954-98	KKBGAPLG_00848	A0A0E7R3A7	Hypothetical protein
+4954-98	KKBGAPLG_00849	C1CDP9	Hypothetical protein
+4954-98	KKBGAPLG_00850	C1CDQ0	ABC transporter substrate-binding protein
+4954-98	KKBGAPLG_00851	C1CDQ1	Putative permease
+4954-98	KKBGAPLG_00852	C1CDQ2	Hypothetical protein
+4954-98	KKBGAPLG_00853	A0A654UA32	Transcription accessory protein
+4954-98	KKBGAPLG_00854	A0AA86YAT6	Putative SprT family zinc-dependent metallopeptidase
+4954-98	KKBGAPLG_00855	A0A5C8QW28	Putative phage shock protein C
+4954-98	KKBGAPLG_00856		Spd-sr07
+4954-98	KKBGAPLG_00856		
+4954-98	KKBGAPLG_00857	Q8CYW5	Hypothetical protein
+4954-98	KKBGAPLG_00858	A0A0B7KXN1	Hypothetical protein
+4954-98	KKBGAPLG_00859	C1CDQ8	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_00860	A0A4J2A661	ABC transporter permease protein
+4954-98	KKBGAPLG_00861	A0A4J1SKQ9	Hypothetical protein
+4954-98	KKBGAPLG_00862	A0A4J2A672	ISSpn8 transposase
+4954-98	KKBGAPLG_00863	A0A660FZ96	Arginine decarboxylase
+4954-98	KKBGAPLG_00864	Q8DQ71	hypothetical protein
+4954-98	KKBGAPLG_00865	A0A0B7L927	Spermidine synthase
+4954-98	KKBGAPLG_00866	A0AA86X6C8	Carboxynorspermidine synthase
+4954-98	KKBGAPLG_00867	A0A4L8JPM0	Carboxynorspermidine decarboxylase
+4954-98	KKBGAPLG_00868	A0AAE9QNI1	Agmatine deiminase
+4954-98	KKBGAPLG_00869	C1CDS0	N-carbamoylputrescine amidase
+4954-98	KKBGAPLG_00870	A0A098Z4D2	Hydrolase%2C HAD superfamily
+4954-98	KKBGAPLG_00871	A0A660FUU0	Hypothetical protein
+4954-98	KKBGAPLG_00872	A0A4U1IZD4	CAAX amino terminal protease family protein
+4954-98	KKBGAPLG_00873	Q8DQ65	Cysteine and methionine metabolism regulator CmbR%2C LysR family
+4954-98	KKBGAPLG_00874	Q8DQ64	Lipoprotein signal peptidase
+4954-98	KKBGAPLG_00875	C1CDS6	Ribosomal large subunit pseudouridine synthase D
+4954-98	KKBGAPLG_00876	A0A0B7LRZ5	Teichoic acid phosphorylcholine esterase%2C choline-binding protein CbpE
+4954-98	KKBGAPLG_00877	A0A4G1VEJ8	Glutamate 5-kinase
+4954-98	KKBGAPLG_00878	A0A0I7KBP7	Glutamate 5-kinase
+4954-98	KKBGAPLG_00879	B8ZP35	Gamma-glutamyl phosphate reductase
+4954-98	KKBGAPLG_00880	C1CDT0	Pyrroline-5-carboxylate reductase
+4954-98	KKBGAPLG_00881	A0A0B7KMQ6	Thymidylate kinase
+4954-98	KKBGAPLG_00882	Q8DQ57	DNA polymerase III delta prime subunit
+4954-98	KKBGAPLG_00883	Q97R89	DNA replication initiation control protein YabA
+4954-98	KKBGAPLG_00884	A0A656EI42	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+4954-98	KKBGAPLG_00885	C1CDT5	hypothetical protein
+4954-98	KKBGAPLG_00886	A0A4J1ZTI2	Replication protein
+4954-98	KKBGAPLG_00887	A0A0E8JUJ3	Replication protein
+4954-98	KKBGAPLG_00888	A0A4J2G195	IS1381 transposase OrfB
+4954-98	KKBGAPLG_00889	C1CEF7	IS5 family transposase ISSpn7
+4954-98	KKBGAPLG_00890	C1CEF8	IS5 family transposase ISSpn7
+4954-98	KKBGAPLG_00891	Q8DQ51	Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO
+4954-98	KKBGAPLG_00892	Q8DQ50	Uridine monophosphate kinase
+4954-98	KKBGAPLG_00893	C1CRV3	Ribosome-recycling factor
+4954-98	KKBGAPLG_00894	Q8DQ48	S1 RNA-binding domain protein
+4954-98	KKBGAPLG_00895	Q8DQ47	Hypothetical protein
+4954-98	KKBGAPLG_00896	Q8DQ46	Phosphate starvation-inducible protein PhoH
+4954-98	KKBGAPLG_00897	A0A0T7I6H0	Acetyltransferase
+4954-98	KKBGAPLG_00898	Q8CYV8	hypothetical protein
+4954-98	KKBGAPLG_00899	Q8DQ45	Alanine dehydrogenase
+4954-98	KKBGAPLG_00900	A0A0B7M730	Alanine dehydrogenase
+4954-98	KKBGAPLG_00901	C1CDU8	Acetyltransferase%2C GNAT family
+4954-98	KKBGAPLG_00902	A0A0E7VQD3	Late competence DNA receptor ComEA
+4954-98	KKBGAPLG_00903	A0A4J2DGQ8	Late competence DNA transporter ComEC
+4954-98	KKBGAPLG_00904	A0A660FUE9	hypothetical protein
+4954-98	KKBGAPLG_00905	A0A660FQI3	ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_00906	A0A0B7L0W5	Hypothetical protein
+4954-98	KKBGAPLG_00907		L20_leader
+4954-98	KKBGAPLG_00907		
+4954-98	KKBGAPLG_00908	B2IPB3	Translation initiation factor 3
+4954-98	KKBGAPLG_00909	Q04KW8	LSU ribosomal protein L35p
+4954-98	KKBGAPLG_00910	Q04KW7	LSU ribosomal protein L20p
+4954-98	KKBGAPLG_00911	C1CDV7	Lactoylglutathione lyase
+4954-98	KKBGAPLG_00912	C1C6U0	Dihydroorotate dehydrogenase (NAD(+))%2C electron transfer subunit
+4954-98	KKBGAPLG_00913	B2IPB8	Dihydroorotate dehydrogenase (NAD(+))%2C catalytic subunit
+4954-98	KKBGAPLG_00914	A0A6G2DJI0	Endo-beta-N-acetylglucosaminidase LytB
+4954-98	KKBGAPLG_00915	A0A7X2XKX5	Fibronectin/fibrinogen-binding protein
+4954-98	KKBGAPLG_00916	A0A0T8VCW2	Metal-dependent hydrolase YbeY
+4954-98	KKBGAPLG_00917	Q8DQ34	Diacylglycerol kinase
+4954-98	KKBGAPLG_00918	A0A0B7LRL2	GTP-binding protein Era
+4954-98	KKBGAPLG_00919	A0A0B7LVH1	Formamidopyrimidine-DNA glycosylase MutM
+4954-98	KKBGAPLG_00920	A0A098Z1Y6	Dephospho-CoA kinase
+4954-98	KKBGAPLG_00921	C1CDW7	Multidrug resistance efflux pump PmrA
+4954-98	KKBGAPLG_00922	Q8DQ31	Protein-export membrane protein SecG
+4954-98	KKBGAPLG_00923	A0A5Q5FTB5	3'-to-5' exoribonuclease RNase R
+4954-98	KKBGAPLG_00924	Q8DQ29	tmRNA-binding protein SmpB
+4954-98	KKBGAPLG_00925	Q8DQ28	Tellurite methyltransferase TehB
+4954-98	KKBGAPLG_00926	A0A0H2UPP6	Competence protein CoiA
+4954-98	KKBGAPLG_00927	Q8DQ26	Oligoendopeptidase F
+4954-98	KKBGAPLG_00928	B1IBD9	Oligoendopeptidase F
+4954-98	KKBGAPLG_00929	Q8DQ25	O-methyltransferase family protein
+4954-98	KKBGAPLG_00930	Q8DQ24	Putative parvulin type peptidyl-prolyl isomerase PrsA
+4954-98	KKBGAPLG_00931	C1C6V9	IS3 family transposase ISSpn1
+4954-98	KKBGAPLG_00932	A0A4I9Q0H5	hypothetical protein
+4954-98	KKBGAPLG_00933	A0A0E9GXV5	Phosphoglycerate mutase family 5 protein
+4954-98	KKBGAPLG_00934	A0A0H2UPP4	Transcriptional regulator
+4954-98	KKBGAPLG_00935	A0A0B7LXZ4	Membrane protein
+4954-98	KKBGAPLG_00936	A0A0B7LX71	1%2C4-beta-N-acetylmuramidase%2C lyzozyme M1
+4954-98	KKBGAPLG_00937	B1IBE8	Bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate N-acetyltransferase
+4954-98	KKBGAPLG_00938	A0A0H2UPW5	ADP-ribose pyrophosphatase
+4954-98	KKBGAPLG_00939	B1IBF0	Hypothetical protein
+4954-98	KKBGAPLG_00940	A0A7X3BXY3	Bifunctional 5'-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+4954-98	KKBGAPLG_00941	A0A0H2UPQ5	Transcriptional regulator OrfX
+4954-98	KKBGAPLG_00942	C1CDY8	DNA polymerase III epsilon subunit
+4954-98	KKBGAPLG_00943	A0A7X3BY98	Glycerophosphoryl diester phosphodiesterase
+4954-98	KKBGAPLG_00944	A0A0H2UNB9	IS630 family transposase IS630-Spn1
+4954-98	KKBGAPLG_00945	A0A4M6CWT3	Hypothetical protein
+4954-98	KKBGAPLG_00946	A0A4J2FXE2	Hypothetical protein
+4954-98	KKBGAPLG_00947	C1CDZ4	Cytochrome c-type biogenesis protein CcdA-2
+4954-98	KKBGAPLG_00948	A0A5R9ATM3	Thiol:disulfide oxidoreductase
+4954-98	KKBGAPLG_00949		SpF36_sRNA
+4954-98	KKBGAPLG_00949		
+4954-98	KKBGAPLG_00950	B2IPF3	Cationic amino acid transporter%2C APC Superfamily
+4954-98	KKBGAPLG_00951	Q8DQ09	Laminin-binding surface protein
+4954-98	KKBGAPLG_00952	C1CDZ8	Pneumococcal histidine triad protein D
+4954-98	KKBGAPLG_00953	C1C6Y1	Pneumococcal histidine triad protein E
+4954-98	KKBGAPLG_00954	C1C6Y2	hypothetical protein
+4954-98	KKBGAPLG_00955	A0A0D6J8R7	hypothetical protein
+4954-98	KKBGAPLG_00956	B8ZPG1	Tripeptide aminopeptidase PepT
+4954-98	KKBGAPLG_00957	C1CE03	Ferrochelatase%2C protoheme ferro-lyase
+4954-98	KKBGAPLG_00958	Q8DQ03	Large-conductance mechanosensitive channel MscL
+4954-98	KKBGAPLG_00959	Q8DQ02	GtrA family protein
+4954-98	KKBGAPLG_00960		preQ1-II
+4954-98	KKBGAPLG_00960		
+4954-98	KKBGAPLG_00961	Q8DQ01	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
+4954-98	KKBGAPLG_00962		tRNA-Thr(ggt)
+4954-98	KKBGAPLG_00962		
+4954-98	KKBGAPLG_00963		asd
+4954-98	KKBGAPLG_00963		
+4954-98	KKBGAPLG_00964	C1CE07	Aspartate-semialdehyde dehydrogenase
+4954-98	KKBGAPLG_00965	C1CE08	4-hydroxy-tetrahydrodipicolinate synthase
+4954-98	KKBGAPLG_00966	C1CE09	GTPase and tRNA-U34 5-formylation enzyme MnmE
+4954-98	KKBGAPLG_00967	B2IPH4	Bifunctional 4-oxalocrotonate tautomerase/xylose transport system permease protein XylH
+4954-98	KKBGAPLG_00968	C1CE11	Thymidine kinase
+4954-98	KKBGAPLG_00969	Q8DPZ4	Peptide chain release factor 1
+4954-98	KKBGAPLG_00970	C1CE13	Peptide chain release factor N(5)-glutamine methyltransferase
+4954-98	KKBGAPLG_00971	C1CE14	Threonylcarbamoyl-AMP synthase TsaC
+4954-98	KKBGAPLG_00972	C1CE15	N-acetyltransferase%2C GCN5-family
+4954-98	KKBGAPLG_00973	A0AAD2K9Z7	Serine hydroxymethyltransferase
+4954-98	KKBGAPLG_00974	A0A6A8VKT1	Pseudouridylate synthase%2C 23S RNA-specific
+4954-98	KKBGAPLG_00975	A0A111E4E2	Pneumococcal vaccine antigen A
+4954-98	KKBGAPLG_00976	A0A0B7LWH7	Extracellular protein
+4954-98	KKBGAPLG_00977	A0A6A8VKU8	23S rRNA (uracil(1939)-C(5))-methyltransferase
+4954-98	KKBGAPLG_00978		SpF61_sRNA
+4954-98	KKBGAPLG_00978		
+4954-98	KKBGAPLG_00979		SpF39_sRNA
+4954-98	KKBGAPLG_00979		
+4954-98	KKBGAPLG_00980	C1CE21	Hypothetical protein
+4954-98	KKBGAPLG_00981	Q8DPY6	Iron compound ABC uptake transporter substrate-binding protein PiaA
+4954-98	KKBGAPLG_00982	B2IPI9	Iron compound ABC uptake transporter permease protein PiaB
+4954-98	KKBGAPLG_00983	Q8DPY4	Iron compound ABC uptake transporter permease protein PiaC
+4954-98	KKBGAPLG_00984	Q8DPY3	Iron compound ABC uptake transporter ATP-binding protein PiaD
+4954-98	KKBGAPLG_00985	Q8CYU1	Putative type II restriction endonuclease
+4954-98	KKBGAPLG_00986		pemK
+4954-98	KKBGAPLG_00986		
+4954-98	KKBGAPLG_00987	C1CE28	Hypothetical protein
+4954-98	KKBGAPLG_00988	B1IBJ7	Phage integrase
+4954-98	KKBGAPLG_00989	A0AA36PXX0	Phage integrase
+4954-98	KKBGAPLG_00990	C1CE29	Hypothetical protein
+4954-98	KKBGAPLG_00991	B2IPK0	Hypothetical protein
+4954-98	KKBGAPLG_00992	C1CE31	Hypothetical protein
+4954-98	KKBGAPLG_00993	Q8DPY1	Putative hydrolase
+4954-98	KKBGAPLG_00994	Q8DPY0	Transcriptional regulator
+4954-98	KKBGAPLG_00995	B2IPK4	Neopullulanase
+4954-98	KKBGAPLG_00996	C1CE35	hypothetical protein
+4954-98	KKBGAPLG_00997	R4H742	hypothetical protein
+4954-98	KKBGAPLG_00998	A0A4J1TIN9	Antitoxin PezA
+4954-98	KKBGAPLG_00999	C1CE39	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
+4954-98	KKBGAPLG_01000	C1CE40	putative protein
+4954-98	KKBGAPLG_01001	Q97QY9	putative protein
+4954-98	KKBGAPLG_01002		group-II-D1D4-3
+4954-98	KKBGAPLG_01002		
+4954-98	KKBGAPLG_01003	Q8CYT0	Tn5252 Orf10 protein
+4954-98	KKBGAPLG_01004	Q8CYS9	Tn5252 Orf9 protein
+4954-98	KKBGAPLG_01005	A0A0U0EP22	hypothetical protein
+4954-98	KKBGAPLG_01006	A0A4J1VRT6	hypothetical protein
+4954-98	KKBGAPLG_01007	A0A7X3BY87	hypothetical protein
+4954-98	KKBGAPLG_01008	A0A4J2AN06	Positive transcriptional regulator%2C MutR family
+4954-98	KKBGAPLG_01009	C1CE46	hypothetical protein
+4954-98	KKBGAPLG_01010	C1CE47	Lactococcin-G-processing and transport ATP-binding protein LagD
+4954-98	KKBGAPLG_01011	C1CE48	Hypothetical protein
+4954-98	KKBGAPLG_01012	C1CE49	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01013	C1CE50	hypothetical protein
+4954-98	KKBGAPLG_01014	C1CE51	hypothetical protein
+4954-98	KKBGAPLG_01015	Q8DPW7	Putative repressor protein%2C phage associated
+4954-98	KKBGAPLG_01016		pemK
+4954-98	KKBGAPLG_01016		
+4954-98	KKBGAPLG_01017	C1CE54	Cell division protein FtsW
+4954-98	KKBGAPLG_01018	C1CE55	Phosphoenolpyruvate carboxylase
+4954-98	KKBGAPLG_01019		T-box
+4954-98	KKBGAPLG_01019		
+4954-98	KKBGAPLG_01020	A0A0E8SZ16	ABC transporter substrate-binding protein
+4954-98	KKBGAPLG_01021	A0A0H2UPW3	Putative tryptophan-specific ABC transporter permease protein TrpY
+4954-98	KKBGAPLG_01022	A0A0I7DD97	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01023	A0A0I7DN99	DNA primase
+4954-98	KKBGAPLG_01024	P0A4J0	RNA polymerase sigma factor RpoD
+4954-98	KKBGAPLG_01025	Q8DPW0	Putative aromatic ring hydroxylating enzyme
+4954-98	KKBGAPLG_01026	C1CE62	Diglucosyl diacylglycerol synthase LafB
+4954-98	KKBGAPLG_01027	C1CE63	1%2C2-diacylglycerol 3-glucosyltransferase LafA
+4954-98	KKBGAPLG_01028	C1CE64	Hypothetical protein
+4954-98	KKBGAPLG_01029	C1CE65	Hypothetical protein
+4954-98	KKBGAPLG_01030	C1CE66	GTP-binding protein ObgE
+4954-98	KKBGAPLG_01031	C1CE67	Hypothetical protein
+4954-98	KKBGAPLG_01032		group-II-D1D4-3
+4954-98	KKBGAPLG_01032		
+4954-98	KKBGAPLG_01033	Q97QW6	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+4954-98	KKBGAPLG_01034	C1CE69	Ribosomal-protein-S5p-alanine acetyltransferase
+4954-98	KKBGAPLG_01035	C1CE70	Cytosolic protein containing multiple CBS domains
+4954-98	KKBGAPLG_01036	Q8DPV1	Methionine aminopeptidase
+4954-98	KKBGAPLG_01037	C1CE72	hypothetical protein
+4954-98	KKBGAPLG_01038	C1CE73	IS1381 transposase OrfB
+4954-98	KKBGAPLG_01039	C1CE74	ATP-dependent DNA helicase PcrA
+4954-98	KKBGAPLG_01040	A0A064BW41	DNA repair protein RadC
+4954-98	KKBGAPLG_01041	C1CE76	Glutamine amidotransferase%2C class I
+4954-98	KKBGAPLG_01042	C1CRJ3	Redox-sensitive transcriptional regulator Rex
+4954-98	KKBGAPLG_01043	Q8CYS1	Hypothetical protein
+4954-98	KKBGAPLG_01044	Q8CYS0	Hypothetical protein
+4954-98	KKBGAPLG_01045	C1CE80	Cysteine desulfurase
+4954-98	KKBGAPLG_01046	P65242	Ribose-phosphate pyrophosphokinase
+4954-98	KKBGAPLG_01047	Q8DPU3	Adenylate cyclase
+4954-98	KKBGAPLG_01048	C1CE83	GTP pyrophosphokinase
+4954-98	KKBGAPLG_01049	C1CE84	NAD kinase
+4954-98	KKBGAPLG_01050	Q8DPU1	RluD-like protein
+4954-98	KKBGAPLG_01051	Q8DPU0	Phosphate acetyltransferase
+4954-98	KKBGAPLG_01052		SpR14_sRNA
+4954-98	KKBGAPLG_01052		
+4954-98	KKBGAPLG_01053	C1CE87	IS1167 transposase Orf2
+4954-98	KKBGAPLG_01054	C1CE88	hypothetical protein
+4954-98	KKBGAPLG_01055	A0A4J4YX98	IS1167 transposase Orf1
+4954-98	KKBGAPLG_01056		Srn266
+4954-98	KKBGAPLG_01056		
+4954-98	KKBGAPLG_01057	Q04KI6	Hypothetical protein co-occurring with RecR
+4954-98	KKBGAPLG_01058	A0A0B7M7N6	Hypothetical protein
+4954-98	KKBGAPLG_01059		L21_leader
+4954-98	KKBGAPLG_01059		
+4954-98	KKBGAPLG_01060	Q97QU4	LSU ribosomal protein L21p
+4954-98	KKBGAPLG_01061	C1CE93	Putative ribosomal protein
+4954-98	KKBGAPLG_01062	Q04KI2	LSU ribosomal protein L27p
+4954-98	KKBGAPLG_01063	Q8DPT6	Bifunctional FMN adenylyltransferase/riboflavin kinase RibF
+4954-98	KKBGAPLG_01064	Q8DPT5	Transporter
+4954-98	KKBGAPLG_01065	C1CE99	DegV family protein
+4954-98	KKBGAPLG_01066	C1CEA0	DNA-binding protein HlpA
+4954-98	KKBGAPLG_01067	C1CEA1	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01068	C1CEA2	Positive transcriptional regulator%2C MutR family
+4954-98	KKBGAPLG_01069	C1CEA3	Macrolide efflux ABC transporter membrane-spanning permease
+4954-98	KKBGAPLG_01070	C1CEA4	DNA ligase (NAD(+))
+4954-98	KKBGAPLG_01071	C1CEA5	Putative glycogen debranching enzyme
+4954-98	KKBGAPLG_01072	C1CEA6	Glyceraldehyde-3-phosphate dehydrogenase (NADP(+))
+4954-98	KKBGAPLG_01073	C1CEA7	1%2C4-alpha-glucan-branching enzyme GlgB
+4954-98	KKBGAPLG_01074	Q97QS7	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgC
+4954-98	KKBGAPLG_01075	C1CEA9	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgD
+4954-98	KKBGAPLG_01076	C1CEB0	Glycogen biosynthesis ADP-glucose--glucan transglucosylase GlgA
+4954-98	KKBGAPLG_01077	A0A0B7M8L9	Phosphoserine phosphatase
+4954-98	KKBGAPLG_01078	C1CEB1	hypothetical protein
+4954-98	KKBGAPLG_01079	C1CEB2	Hypothetical protein
+4954-98	KKBGAPLG_01080	C1CRM6	Enolase
+4954-98	KKBGAPLG_01081	C1CEB6	IS630 family transposase IS630-Spn1
+4954-98	KKBGAPLG_01082	C1CEB7	ATP-dependent nuclease subunit RexB
+4954-98	KKBGAPLG_01083	C1CEB8	ATP-dependent nuclease subunit RexA
+4954-98	KKBGAPLG_01084	C1CEB9	Hypothetical protein
+4954-98	KKBGAPLG_01085	A0AA44S623	hypothetical protein
+4954-98	KKBGAPLG_01086	C1CEC1	Zinc metalloprotease ZmpB precursor
+4954-98	KKBGAPLG_01087	C1CEC2	50S ribosomal subunit maturation GTPase RbgA
+4954-98	KKBGAPLG_01088	C1CEC3	Ribonuclease HII
+4954-98	KKBGAPLG_01089	A0A0H2ZRM2	Voltage-gated chloride channel family protein
+4954-98	KKBGAPLG_01090	Q04KF1	Tyrosine recombinase XerS
+4954-98	KKBGAPLG_01091	C1CEC6	Lipoate-protein ligase A
+4954-98	KKBGAPLG_01092	C1CEC7	Dihydrolipoamide dehydrogenase of acetoin dehydrogenase
+4954-98	KKBGAPLG_01093	Q8DPQ9	Dihydrolipoamide acetyltransferase (E2) component of acetoin dehydrogenase complex
+4954-98	KKBGAPLG_01094	C1CEC9	Acetoin dehydrogenase E1 component beta-subunit
+4954-98	KKBGAPLG_01095	C1CED0	Acetoin dehydrogenase E1 component alpha-subunit
+4954-98	KKBGAPLG_01096	C1CED1	Dihydrolipoamide acetyltransferase
+4954-98	KKBGAPLG_01097	A0A0B7L0U2	Hypothetical protein
+4954-98	KKBGAPLG_01098	C1CED2	Dihydroorotase
+4954-98	KKBGAPLG_01099	C1CED3	8-oxo-dGTP diphosphatase MutX
+4954-98	KKBGAPLG_01100	B2IPV6	Uracil-DNA glycosylase%2C family 1
+4954-98	KKBGAPLG_01101	A0A0D6J8I6	Hypothetical protein
+4954-98	KKBGAPLG_01102	A0A0H2UQ88	2-haloalkanoic acid dehalogenase
+4954-98	KKBGAPLG_01103	A0A4L8IHD7	PTS-dependent dihydroxyacetone kinase%2C phosphotransferase subunit DhaM
+4954-98	KKBGAPLG_01104	A0A7X3BXS7	Pneumococcal histidine triad protein D
+4954-98	KKBGAPLG_01105	A0AA44S7H9	Pneumococcal histidine triad protein B
+4954-98	KKBGAPLG_01106	Q8DPQ2	Pneumococcal histidine triad protein A
+4954-98	KKBGAPLG_01107	A0A0B7LFZ1	Phosphoenolpyruvate-protein phosphotransferase of PTS
+4954-98	KKBGAPLG_01108	Q8DPQ0	Phosphotransferase system%2C phosphocarrier protein HPr
+4954-98	KKBGAPLG_01109	C1CEE2	Glutaredoxin-like protein NrdH
+4954-98	KKBGAPLG_01110	C1CEE3	Ribonucleotide reductase of class Ib%2C alpha subunit
+4954-98	KKBGAPLG_01111	Q8DPP8	Ribonucleotide reductase of class Ib%2C beta subunit
+4954-98	KKBGAPLG_01112	C1CEE5	Lactose phosphotransferase system repressor
+4954-98	KKBGAPLG_01113	A0A0B7LXS7	6-phospho-beta-galactosidase
+4954-98	KKBGAPLG_01114	A0A6G2DWE6	Lactose-specific PTS IIBC components
+4954-98	KKBGAPLG_01115	Q8DPP4	Lactose-specific PTS IIA component
+4954-98	KKBGAPLG_01116	C1CEF0	Beta-glucoside bgl operon antiterminator LacT%2C BglG family
+4954-98	KKBGAPLG_01117	C1CEF1	Tagatose 1%2C6-diphosphate aldolase
+4954-98	KKBGAPLG_01118	C1CEF2	Tagatose-6-phosphate kinase LacC
+4954-98	KKBGAPLG_01119	Q97QL1	Galactose-6-phosphate isomerase%2C LacB subunit
+4954-98	KKBGAPLG_01120	Q8DPN9	Galactose-6-phosphate isomerase%2C LacA subunit
+4954-98	KKBGAPLG_01121	C1CEF5	Aldose epimerase
+4954-98	KKBGAPLG_01122	A0AA86J9A5	IS1381 transposase OrfB
+4954-98	KKBGAPLG_01123	C1CEF7	IS5 family transposase ISSpn7
+4954-98	KKBGAPLG_01124	C1CEF8	IS5 family transposase ISSpn7
+4954-98	KKBGAPLG_01125	C1CEF9	Galactose-specific PTS IIB component
+4954-98	KKBGAPLG_01126	Q8CYQ9	Galactose-specific PTS IIA component
+4954-98	KKBGAPLG_01127	A0A4N9BMC0	Hypothetical protein
+4954-98	KKBGAPLG_01128	A0A0I7AG23	Translation elongation factor LepA
+4954-98	KKBGAPLG_01129	C1CEG4	Serine/threonine protein phosphatase
+4954-98	KKBGAPLG_01130	C1CEG5	DNA repair protein RecN
+4954-98	KKBGAPLG_01131	C1CEG6	Arginine pathway regulatory protein AhrC
+4954-98	KKBGAPLG_01132	C1CEG7	RNA-binding methyltransferase
+4954-98	KKBGAPLG_01133	C1CEG8	(2E%2C6E)-farnesyl diphosphate synthase
+4954-98	KKBGAPLG_01134	Q04KB1	Exodeoxyribonuclease VII small subunit
+4954-98	KKBGAPLG_01135	C1CEH0	Exodeoxyribonuclease VII large subunit
+4954-98	KKBGAPLG_01136	Q04KA9	Uridine kinase
+4954-98	KKBGAPLG_01137	C1CEH2	Hypothetical protein
+4954-98	KKBGAPLG_01138	B2IPS0	Hypothetical protein
+4954-98	KKBGAPLG_01139	C1CEH3	tRNA pseudouridine synthase B
+4954-98	KKBGAPLG_01140	C1CEH4	Hypothetical protein
+4954-98	KKBGAPLG_01141	C1C7I1	Cystathionine gamma-synthase
+4954-98	KKBGAPLG_01142	A0A0B7LKX5	O-acetyl-L-homoserine sulfhydrylase
+4954-98	KKBGAPLG_01143	C1CEH5	Formate-nitrate transporter
+4954-98	KKBGAPLG_01144	Q8DPM3	Sortase SrtA%2C LPXTG specific
+4954-98	KKBGAPLG_01145	Q9R867	DNA gyrase subunit A
+4954-98	KKBGAPLG_01146	A0AA87CBD3	L-lactate dehydrogenase
+4954-98	KKBGAPLG_01147	A0A4L7J5D0	hypothetical protein
+4954-98	KKBGAPLG_01148	A0A0D6J7T6	mRNA interferase RelE2
+4954-98	KKBGAPLG_01149	A0A558SUE3	Replicon stabilization protein RelB2
+4954-98	KKBGAPLG_01150	Q9RCS5	Zn-dependent hydrolase VicX
+4954-98	KKBGAPLG_01151	C1CEI3	Two-component system sensor histidine kinase VicK
+4954-98	KKBGAPLG_01152	Q9S1K0	Two-component system response regulator VicR
+4954-98	KKBGAPLG_01153	Q8DPL6	A/G-specific adenine glycosylase
+4954-98	KKBGAPLG_01154	C1CEI6	Formate--tetrahydrofolate ligase
+4954-98	KKBGAPLG_01155	C1CEI7	Phosphopantothenoylcysteine synthetase
+4954-98	KKBGAPLG_01156	Q8DPL3	Phosphopantothenoylcysteine decarboxylase
+4954-98	KKBGAPLG_01157	Q8DPL2	Substrate-specific component PanT of putative pantothenate ECF transporter
+4954-98	KKBGAPLG_01158	C1CEJ0	Substrate-specific component NiaX of putative niacin ECF transporter
+4954-98	KKBGAPLG_01159	Q8DPL1	Transcriptional repressor of NAD biosynthesis
+4954-98	KKBGAPLG_01160	C1CEJ2	MutT/Nudix family protein
+4954-98	KKBGAPLG_01161	A0A064C293	Acetyltransferase
+4954-98	KKBGAPLG_01162	C1CEJ4	Acetyltransferase
+4954-98	KKBGAPLG_01163	Q54986	Excinuclease ABC subunit B
+4954-98	KKBGAPLG_01164	C1CEJ6	CAAX amino terminal protease family protein
+4954-98	KKBGAPLG_01165	C1CEJ7	Glutamine ABC transporter GlnHP5%2C containing substrate-binding and permease domains
+4954-98	KKBGAPLG_01166	C1CEJ8	Glutamine transport ATP-binding protein GlnQ
+4954-98	KKBGAPLG_01167	C1CEJ9	Glucose-6-phosphate 1-dehydrogenase
+4954-98	KKBGAPLG_01168	C1CEK0	Signal recognition particle receptor FtsY
+4954-98	KKBGAPLG_01169	Q8DPK1	Hydrolase%2C HAD superfamily
+4954-98	KKBGAPLG_01170	C1CEK2	Hydrolase%2C HAD superfamily
+4954-98	KKBGAPLG_01171	C1CEK3	Chromosome partition protein SMC
+4954-98	KKBGAPLG_01172	A0A0B7M364	Ribonuclease III
+4954-98	KKBGAPLG_01173		tRNA-Arg(ccg)
+4954-98	KKBGAPLG_01173		
+4954-98	KKBGAPLG_01174	C1CEK5	GMP reductase
+4954-98	KKBGAPLG_01175	A0A4J2ADQ2	Hypothetical protein
+4954-98	KKBGAPLG_01176	A0A6G2D091	Endonuclease
+4954-98	KKBGAPLG_01177	A0A098ZBM5	Hypothetical protein
+4954-98	KKBGAPLG_01178	A0A098ZF02	Hypothetical protein
+4954-98	KKBGAPLG_01179	A0A064C2C3	3-isopropylmalate dehydratase small subunit
+4954-98	KKBGAPLG_01180	B1IC48	Putative membrane protein
+4954-98	KKBGAPLG_01181	A0A064BYA6	3-isopropylmalate dehydrogenase
+4954-98	KKBGAPLG_01182	A0A064BWK2	2-isopropylmalate synthase
+4954-98	KKBGAPLG_01183	A0A064C2C0	Hypothetical protein
+4954-98	KKBGAPLG_01184	B2IPM0	Cytoplasmic copper homeostasis protein CutC
+4954-98	KKBGAPLG_01185	Q8DPJ0	Hypothetical protein related to heme utilization
+4954-98	KKBGAPLG_01186	A0A064C052	DNA topoisomerase I
+4954-98	KKBGAPLG_01187	C1CEL8	Integral membrane protein
+4954-98	KKBGAPLG_01188	A0A064BWJ9	DNA protecting protein DprA
+4954-98	KKBGAPLG_01189	A0A064C2B6	Cholinephosphate cytidylyltransferase LicC
+4954-98	KKBGAPLG_01190	A0A064C2B4	Choline permease LicB
+4954-98	KKBGAPLG_01191	A0A064C047	Choline kinase LicA
+4954-98	KKBGAPLG_01192	A0A064BY97	Ribulose-5-phosphate reductase
+4954-98	KKBGAPLG_01193	A0A064BWJ5	Ribitol-5-phosphate cytidylyltransferase
+4954-98	KKBGAPLG_01194	C1CEM6	Membrane protein TacF involved in the export of O-antigen and teichoic acid
+4954-98	KKBGAPLG_01195	C1CEM7	Lipopolysaccharide cholinephosphotransferase LicD1
+4954-98	KKBGAPLG_01196	C1CEM8	Lipopolysaccharide cholinephosphotransferase LicD2
+4954-98	KKBGAPLG_01197	C1CEM9	Carbamoyl-phosphate synthase large chain CarB
+4954-98	KKBGAPLG_01198	A0A064BWJ2	Carbamoyl-phosphate synthase small chain CarA
+4954-98	KKBGAPLG_01199	Q97QE2	Aspartate carbamoyltransferase
+4954-98	KKBGAPLG_01200	Q04K45	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
+4954-98	KKBGAPLG_01201		PyrR
+4954-98	KKBGAPLG_01201		
+4954-98	KKBGAPLG_01202	Q8DPH8	Endonuclease III
+4954-98	KKBGAPLG_01203	C1CEN4	Protein%2C clustered with ribosomal protein L32p
+4954-98	KKBGAPLG_01204	C1CEN5	BlpT protein
+4954-98	KKBGAPLG_01205	C1CC84	ISSpn8 transposase
+4954-98	KKBGAPLG_01206		SpF43_sRNA
+4954-98	KKBGAPLG_01206		
+4954-98	KKBGAPLG_01207	C1CEN7	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01208	C1CEN8	Heat shock protein HtpX
+4954-98	KKBGAPLG_01209	Q8DPH4	LemA
+4954-98	KKBGAPLG_01210	C1CEP0	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+4954-98	KKBGAPLG_01211		SpF44_sRNA
+4954-98	KKBGAPLG_01211		
+4954-98	KKBGAPLG_01212	C1CEP1	Uracil permease
+4954-98	KKBGAPLG_01213	C1CEP2	Signal recognition particle protein Ffh
+4954-98	KKBGAPLG_01214	Q8DPH0	Signal recognition particle associated protein
+4954-98	KKBGAPLG_01215	Q8CYP6	Hypothetical protein
+4954-98	KKBGAPLG_01216	A0A064BVH6	dNTP triphosphohydrolase
+4954-98	KKBGAPLG_01217	A0A064C1E3	Sugar phosphatase YidA
+4954-98	KKBGAPLG_01218	A0A822RUJ7	hypothetical protein
+4954-98	KKBGAPLG_01219	A0A0B4ZMM3	hypothetical protein
+4954-98	KKBGAPLG_01220	A0A0B4ZN85	IS3 family transposase ISSpn4
+4954-98	KKBGAPLG_01221	A0A064C0Y6	hypothetical protein
+4954-98	KKBGAPLG_01222	A0A064C0Y3	hypothetical protein
+4954-98	KKBGAPLG_01223	A0A098ZEL5	hypothetical protein
+4954-98	KKBGAPLG_01224	A0A064BWV2	Positive transcriptional regulator%2C MutR family
+4954-98	KKBGAPLG_01225	A0A0B4ZN83	hypothetical protein
+4954-98	KKBGAPLG_01226		tRNA-Arg(cct)
+4954-98	KKBGAPLG_01226		
+4954-98	KKBGAPLG_01227	Q97QC6	LSU ribosomal protein L19p
+4954-98	KKBGAPLG_01228	A0A064C0Y2	ClC-type fluoride channel
+4954-98	KKBGAPLG_01229	A0A064C0X8	ClC-type fluoride channel
+4954-98	KKBGAPLG_01230	Q8DPG5	Chorismate mutase I
+4954-98	KKBGAPLG_01231	A0A064BWU7	Flavodoxin
+4954-98	KKBGAPLG_01232	A0A064C0R5	DHH family phosphoesterase Pde2
+4954-98	KKBGAPLG_01233	A0AA87CAZ5	LSU ribosomal protein L31p
+4954-98	KKBGAPLG_01234	C1CEQ5	Ferrous iron transport permease EfeU
+4954-98	KKBGAPLG_01235	C1CEQ7	IS630 family transposase ISSpn2
+4954-98	KKBGAPLG_01236	C1CEQ8	NADP-specific glutamate dehydrogenase
+4954-98	KKBGAPLG_01237	Q8CYP4	Hypothetical protein
+4954-98	KKBGAPLG_01238	C1CER0	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01239	A0A380LUQ8	IS1381 transposase OrfB
+4954-98	KKBGAPLG_01240	A0A0H2UQD7	IS5 family transposase ISSpn7
+4954-98	KKBGAPLG_01241	A0A654UCG4	hypothetical protein
+4954-98	KKBGAPLG_01242	C1CER6	IS66 family transposase ISDeal1
+4954-98	KKBGAPLG_01243	A0A4J2E338	IS66 family transposase Orf2
+4954-98	KKBGAPLG_01244	A0AAD2KAC6	hypothetical protein
+4954-98	KKBGAPLG_01245	Q97QB0	V-type sodium ATPase subunit D
+4954-98	KKBGAPLG_01246	Q97QA9	V-type sodium ATPase subunit B
+4954-98	KKBGAPLG_01247	Q97QA8	V-type sodium ATPase catalytic subunit A
+4954-98	KKBGAPLG_01248	C1CES3	V-type sodium ATPase subunit G
+4954-98	KKBGAPLG_01249	A0A4N9N2B3	V-type sodium ATPase subunit C
+4954-98	KKBGAPLG_01250	A0A4N9N367	V-type proton ATPase subunit E
+4954-98	KKBGAPLG_01251	C1CES6	V-type sodium ATPase subunit K
+4954-98	KKBGAPLG_01252	A0A656E9W8	hypothetical protein
+4954-98	KKBGAPLG_01253	C1CES8	hypothetical protein
+4954-98	KKBGAPLG_01254	A0A0Y2MUZ0	N-acetylmannosamine kinase
+4954-98	KKBGAPLG_01255	B2IP35	Oxidoreductase
+4954-98	KKBGAPLG_01256	A0A4N9N2W3	Sialidase
+4954-98	KKBGAPLG_01257	I6L8M4	IS1380 family transposase ISSpn5
+4954-98	KKBGAPLG_01258	A0A4N9N2W3	hypothetical protein
+4954-98	KKBGAPLG_01259	A0A4N9N500	Putative beta-D-galactosidase
+4954-98	KKBGAPLG_01260		tRNA-Phe(aaa)
+4954-98	KKBGAPLG_01260		
+4954-98	KKBGAPLG_01261	B2IP31	N-acetylneuraminate lyase
+4954-98	KKBGAPLG_01262	A0A4N9N509	N-acetylmannosamine-6-phosphate 2-epimerase
+4954-98	KKBGAPLG_01263		Srn266
+4954-98	KKBGAPLG_01263		
+4954-98	KKBGAPLG_01264	A0AA95IH83	IS1167 transposase Orf1
+4954-98	KKBGAPLG_01265	C1CCD0	IS1167 transposase Orf2
+4954-98	KKBGAPLG_01266	A0AAD2IKW3	putative HTH-type transcriptional regulator YbbH
+4954-98	KKBGAPLG_01267	A0A0U0JBG0	hypothetical protein
+4954-98	KKBGAPLG_01268	A0A0B7LRD2	hypothetical protein
+4954-98	KKBGAPLG_01269	A0AAD2IHX3	IS3 family transposase ISSpn4
+4954-98	KKBGAPLG_01270	A0A0B7LKL9	hypothetical protein
+4954-98	KKBGAPLG_01271	C1C7U1	Hypothetical protein
+4954-98	KKBGAPLG_01272	A0A0B7LVA5	Hypothetical protein
+4954-98	KKBGAPLG_01273	C1C7U3	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01274	C1C7U4	ABC transporter ATP-binding/membrane spanning protein
+4954-98	KKBGAPLG_01275	A0A4J1XYR7	Protease II
+4954-98	KKBGAPLG_01276	A0A4J2A553	Lanthionine biosynthesis protein LanL
+4954-98	KKBGAPLG_01277	C1C7U1	Hypothetical protein
+4954-98	KKBGAPLG_01278	A0A0H2UQQ4	Tn5253 putative CAAX amino terminal protease
+4954-98	KKBGAPLG_01279	E7AJJ3	hypothetical protein
+4954-98	KKBGAPLG_01280	Q8CYN6	Tn5253 hypothetical protein
+4954-98	KKBGAPLG_01281	Q8CYN5	hypothetical protein
+4954-98	KKBGAPLG_01282	Q8CYN4	hypothetical protein
+4954-98	KKBGAPLG_01283	A0A098ANF2	hypothetical protein
+4954-98	KKBGAPLG_01284		rli38
+4954-98	KKBGAPLG_01284		
+4954-98	KKBGAPLG_01285	E1XUN2	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01286	A0A060QNT5	Lipid A export ATP-binding/permease protein MsbA
+4954-98	KKBGAPLG_01287	E1XUN4	hypothetical protein
+4954-98	KKBGAPLG_01288	A0A0T8LIV8	hypothetical protein
+4954-98	KKBGAPLG_01289	A0A0T8LIW7	hypothetical protein
+4954-98	KKBGAPLG_01290	B2IS01	Transposase from transposon Tn916
+4954-98	KKBGAPLG_01291	P61624	hypothetical protein
+4954-98	KKBGAPLG_01292		pemK
+4954-98	KKBGAPLG_01292		
+4954-98	KKBGAPLG_01293	B2IQG0	hypothetical protein
+4954-98	KKBGAPLG_01294	B7UTW8	hypothetical protein
+4954-98	KKBGAPLG_01295	B1IC82	hypothetical protein
+4954-98	KKBGAPLG_01296	B0RJY0	Translation elongation factor G
+4954-98	KKBGAPLG_01297		sRNA_0030
+4954-98	KKBGAPLG_01297		
+4954-98	KKBGAPLG_01298	E8ZCR9	hypothetical protein
+4954-98	KKBGAPLG_01299	B2IRZ0	hypothetical protein
+4954-98	KKBGAPLG_01300	E8ZCX8	hypothetical protein
+4954-98	KKBGAPLG_01301	B2IRY8	hypothetical protein
+4954-98	KKBGAPLG_01302	B2IRY7	hypothetical protein
+4954-98	KKBGAPLG_01303	B2IRY6	hypothetical protein
+4954-98	KKBGAPLG_01304	B1IC91	hypothetical protein
+4954-98	KKBGAPLG_01305	B1IC92	IS1167 transposase
+4954-98	KKBGAPLG_01306	B1IC93	hypothetical protein
+4954-98	KKBGAPLG_01307	Q2P9U7	rRNA adenine N-6-methyltransferase
+4954-98	KKBGAPLG_01308	B7UTY4	hypothetical protein
+4954-98	KKBGAPLG_01309	B2IQE9	hypothetical protein
+4954-98	KKBGAPLG_01310	B2IQE8	hypothetical protein
+4954-98	KKBGAPLG_01311	B2IQE7	hypothetical protein
+4954-98	KKBGAPLG_01312	A0A0T7ICJ4	Hypothetical protein
+4954-98	KKBGAPLG_01313	A0A098ANG3	Putative transcriptional regulator PlcR
+4954-98	KKBGAPLG_01314	A0A060QS11	hypothetical protein
+4954-98	KKBGAPLG_01315	A0A060QNP8	hypothetical protein
+4954-98	KKBGAPLG_01316	E1XUN7	Tn5252 Orf9 protein
+4954-98	KKBGAPLG_01317	E1XUN8	Tn5252 Orf10 protein
+4954-98	KKBGAPLG_01318	E1XUN9	hypothetical protein
+4954-98	KKBGAPLG_01319	E7AJG0	ATP-dependent DNA helicase PcrA
+4954-98	KKBGAPLG_01320	E7AJG1	hypothetical protein
+4954-98	KKBGAPLG_01321	D6CHN0	hypothetical protein
+4954-98	KKBGAPLG_01322	D6CHM9	hypothetical protein
+4954-98	KKBGAPLG_01323	E7AJG4	Tyrosine recombinase XerS
+4954-98	KKBGAPLG_01324	A0A060QS05	hypothetical protein
+4954-98	KKBGAPLG_01325	A0A060QNP6	hypothetical protein
+4954-98	KKBGAPLG_01326	A0A0T7ICE8	hypothetical protein
+4954-98	KKBGAPLG_01327	A0A4P0AAE0	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
+4954-98	KKBGAPLG_01328	E6Y3Z7	Antitoxin PezA
+4954-98	KKBGAPLG_01329	B6ZCD3	hypothetical protein
+4954-98	KKBGAPLG_01330	E7AJH6	hypothetical protein
+4954-98	KKBGAPLG_01331	B6ZCD5	hypothetical protein
+4954-98	KKBGAPLG_01332	E7AJH8	hypothetical protein
+4954-98	KKBGAPLG_01333	B6ZCD7	hypothetical protein
+4954-98	KKBGAPLG_01334	E8ZCQ2	hypothetical protein
+4954-98	KKBGAPLG_01335	A0A060QRZ7	hypothetical protein
+4954-98	KKBGAPLG_01336	A0A4P0ACM7	hypothetical protein
+4954-98	KKBGAPLG_01337	E7AJI1	hypothetical protein
+4954-98	KKBGAPLG_01338	A0A060QSP5	hypothetical protein
+4954-98	KKBGAPLG_01339	E7AJI2	hypothetical protein
+4954-98	KKBGAPLG_01340	A0A060QNP3	hypothetical protein
+4954-98	KKBGAPLG_01341	A0A4P0ACQ4	hypothetical protein
+4954-98	KKBGAPLG_01342	D3GM81	hypothetical protein
+4954-98	KKBGAPLG_01343	E7AJI6	hypothetical protein
+4954-98	KKBGAPLG_01344	D3GM83	hypothetical protein
+4954-98	KKBGAPLG_01345	A0A060QNP2	hypothetical protein
+4954-98	KKBGAPLG_01346	E7AJI8	hypothetical protein
+4954-98	KKBGAPLG_01347	D3GM86	hypothetical protein
+4954-98	KKBGAPLG_01348	E7AJJ0	hypothetical protein
+4954-98	KKBGAPLG_01349	E7AJJ1	hypothetical protein
+4954-98	KKBGAPLG_01350	E7AJJ2	Tn5253 putative CAAX amino terminal protease
+4954-98	KKBGAPLG_01351	E7AJJ3	hypothetical protein
+4954-98	KKBGAPLG_01352	A0A060QNR1	Tn5253 hypothetical protein
+4954-98	KKBGAPLG_01353	A0A060QSN6	hypothetical protein
+4954-98	KKBGAPLG_01354	A0A060QRY2	hypothetical protein
+4954-98	KKBGAPLG_01355	A0A4P0AB30	hypothetical protein
+4954-98	KKBGAPLG_01356	E7AJJ7	hypothetical protein
+4954-98	KKBGAPLG_01357	A0A060QN20	Tn5253 hypothetical protein
+4954-98	KKBGAPLG_01358		rli38
+4954-98	KKBGAPLG_01358		
+4954-98	KKBGAPLG_01359	A0A098ZBL3	LSU ribosomal protein L7/L12 (P1/P2)
+4954-98	KKBGAPLG_01360	Q04JZ3	LSU ribosomal protein L10p (P0)
+4954-98	KKBGAPLG_01361		L10_leader
+4954-98	KKBGAPLG_01361		
+4954-98	KKBGAPLG_01362	A0AAD2I614	Methylthioadenosine deaminase
+4954-98	KKBGAPLG_01363	A0A4J2A7B2	ABC transporter ATP-binding/permease protein
+4954-98	KKBGAPLG_01364	C1CEU7	ABC transporter ATP-binding/permease protein
+4954-98	KKBGAPLG_01365	A0A0B7L4L0	Peptide methionine sulfoxide reductase MsrAB1
+4954-98	KKBGAPLG_01366	Q04JY7	Homoserine kinase
+4954-98	KKBGAPLG_01367	Q8DPE1	Homoserine dehydrogenase
+4954-98	KKBGAPLG_01368	C1C7W3	Adaptor protein MecA
+4954-98	KKBGAPLG_01369	C1CEV2	TarQ
+4954-98	KKBGAPLG_01370	B1ICG5	Teichoic acid ribitol polymerase
+4954-98	KKBGAPLG_01371	A0A0H2UQP1	Glycosyltransferase%2C group 2 family
+4954-98	KKBGAPLG_01372	A0A558U8Y0	Glycosyltransferase%2C group 1 family
+4954-98	KKBGAPLG_01373	B1ICG8	Lipopolysaccharide cholinephosphotransferase LicD3
+4954-98	KKBGAPLG_01374	Q8DPD6	LytR-CpsA-Psr subfamily F1 cell envelope-associated transcriptional attenuator
+4954-98	KKBGAPLG_01375	C1CEV8	Prephenate dehydratase
+4954-98	KKBGAPLG_01376	C1CEV9	Shikimate kinase I
+4954-98	KKBGAPLG_01377	C1CL80	5-Enolpyruvylshikimate-3-phosphate synthase
+4954-98	KKBGAPLG_01378	C1CL81	Transcriptional regulator
+4954-98	KKBGAPLG_01379	C1CEW2	Prephenate dehydrogenase
+4954-98	KKBGAPLG_01380	C1CL83	Chorismate synthase
+4954-98	KKBGAPLG_01381	C1CEW4	3-dehydroquinate synthase
+4954-98	KKBGAPLG_01382	C1CEW5	Shikimate/quinate 5-dehydrogenase I beta
+4954-98	KKBGAPLG_01383	C1CEW6	3-dehydroquinate dehydratase I
+4954-98	KKBGAPLG_01384	C1CEW7	Putative ribosomal RNA large subunit methyltransferase YwbD
+4954-98	KKBGAPLG_01385	C1CEW8	ABC transporter permease
+4954-98	KKBGAPLG_01386	C1CEW9	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01387	C1CEX0	Cytoplasmic alpha-amylase
+4954-98	KKBGAPLG_01388	C1CEX1	Alanyl-tRNA synthetase
+4954-98	KKBGAPLG_01389	C1CEX2	Hypothetical protein
+4954-98	KKBGAPLG_01390	C1CEX4	Spermidine/putrescine import ABC transporter substrate-binding protein PotD
+4954-98	KKBGAPLG_01391	Q8DPC4	Spermidine/putrescine import ABC transporter permease protein PotC
+4954-98	KKBGAPLG_01392	B2IQK4	Spermidine/putrescine import ABC transporter permease protein PotB
+4954-98	KKBGAPLG_01393	C1CEX7	Spermidine/putrescine import ABC transporter ATP-binding protein PotA
+4954-98	KKBGAPLG_01394	C1CL98	UDP-N-acetylenolpyruvoylglucosamine reductase
+4954-98	KKBGAPLG_01395	Q8DPC0	Hypothetical protein
+4954-98	KKBGAPLG_01396	Q8DPB9	Alpha-acetolactate decarboxylase
+4954-98	KKBGAPLG_01397	C1CEY1	Putative transcriptional regulator of pyridoxine metabolism
+4954-98	KKBGAPLG_01398	A0A0B7L9X0	Amino acid ABC transporter amino acid-binding/permease protein
+4954-98	KKBGAPLG_01399	Q8DPB6	Phosphate transport system regulatory protein PhoU2
+4954-98	KKBGAPLG_01400	C1CEY4	Phosphate transport ATP-binding protein PstB2_2
+4954-98	KKBGAPLG_01401	C1CEY5	Phosphate transport ATP-binding protein PstB2_1
+4954-98	KKBGAPLG_01402	Q8DPB3	Phosphate transport system permease protein PstA2
+4954-98	KKBGAPLG_01403	Q8DPB2	Phosphate transport system permease protein PstC2
+4954-98	KKBGAPLG_01404	Q97Q31	Phosphate ABC transporter periplasmic phosphate-binding protein PstS2
+4954-98	KKBGAPLG_01405	Q8DPB0	tRNA and rRNA cytosine-C5-methylase
+4954-98	KKBGAPLG_01406	B1ICK3	Inositol-1-monophosphatase
+4954-98	KKBGAPLG_01407	Q04JU6	Hypothetical protein
+4954-98	KKBGAPLG_01408	Q97Q26	Transcriptional regulator SpxA1
+4954-98	KKBGAPLG_01409	A0A4J1XT03	Integral membrane protein
+4954-98	KKBGAPLG_01410	A0AAE9U1J6	Putative NagD-like phosphatase
+4954-98	KKBGAPLG_01411	A0A110KYT5	Acyl-ACP thioesterase
+4954-98	KKBGAPLG_01412	Q8DPA6	Putative radical SAM family enzyme
+4954-98	KKBGAPLG_01413	C1CEZ8	Hypothetical protein
+4954-98	KKBGAPLG_01414	Q8DPA4	General stress protein
+4954-98	KKBGAPLG_01415	C1CF00	Prolipoprotein diacylglyceryl transferase
+4954-98	KKBGAPLG_01416	A0A229FYZ7	HPr kinase/phosphorylase
+4954-98	KKBGAPLG_01417	B2IQN3	SSU ribosomal protein S21p
+4954-98	KKBGAPLG_01418	C1CQU2	Glucosamine-6-phosphate deaminase
+4954-98	KKBGAPLG_01419	C1CF04	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+4954-98	KKBGAPLG_01420	A0A6G2CT29	Choline-binding protein CbpM
+4954-98	KKBGAPLG_01421	A0A0B7KSA0	Hypothetical protein
+4954-98	KKBGAPLG_01422	C1CF06	Acetyltransferase%2C GNAT family
+4954-98	KKBGAPLG_01423	Q04JT1	NAD synthetase
+4954-98	KKBGAPLG_01424	A0A6G2DBE7	Nicotinate phosphoribosyltransferase
+4954-98	KKBGAPLG_01425	C1CF09	Hypothetical protein
+4954-98	KKBGAPLG_01426	C1CF10	Transcriptional repressor
+4954-98	KKBGAPLG_01427	C1CF11	Hypothetical protein
+4954-98	KKBGAPLG_01428	A0A6G2D9P5	Multidrug efflux ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01429	A0A0B7L5B4	Multidrug efflux ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01430	C1CF12	Peptidase%2C U32 family large subunit (C1)
+4954-98	KKBGAPLG_01431	C1CF13	hypothetical protein
+4954-98	KKBGAPLG_01432	Q8DP94	Peptidase%2C U32 family large subunit (C1)
+4954-98	KKBGAPLG_01433	Q8DP93	hypothetical protein
+4954-98	KKBGAPLG_01434	Q8DP92	hypothetical protein
+4954-98	KKBGAPLG_01435	Q8RT72	Type II restriction-modification system methyltransferase
+4954-98	KKBGAPLG_01436	Q8CYM0	Transcriptional regulator%2C AraC family
+4954-98	KKBGAPLG_01437	C1CF18	ABC transporter ATP-binding/permease protein
+4954-98	KKBGAPLG_01438	A0A120ZVQ5	ABC transporter ATP-binding/permease protein
+4954-98	KKBGAPLG_01439	Q8CYL9	Substrate-specific component of putative ECF transporter
+4954-98	KKBGAPLG_01440	C1CF21	Transmembrane component of energizing module of putative ECF transporter
+4954-98	KKBGAPLG_01441	C1CF22	Duplicated ATPase component of energizing module of putative ECF transporter
+4954-98	KKBGAPLG_01442	Q8CYL7	hypothetical protein
+4954-98	KKBGAPLG_01443	Q8DP85	IS66 family transposase Orf2
+4954-98	KKBGAPLG_01444		SpR18_sRNA
+4954-98	KKBGAPLG_01444		
+4954-98	KKBGAPLG_01445	C1CF29	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
+4954-98	KKBGAPLG_01446	C1CF30	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
+4954-98	KKBGAPLG_01447	C1CF31	Drug/metabolite transporter superfamily protein
+4954-98	KKBGAPLG_01448	C1CF32	Beta-lactamase%2C class C
+4954-98	KKBGAPLG_01449	C1CF33	C3-degrading proteinase
+4954-98	KKBGAPLG_01450	Q8CYL4	Bifunctional N-acetylneuraminate cytidylyltransferase/platelet activating factor
+4954-98	KKBGAPLG_01451	Q8DP80	HAD superfamily hydrolase
+4954-98	KKBGAPLG_01452	Q8CYL3	hypothetical protein
+4954-98	KKBGAPLG_01453	A0A0E8PBR5	Capsule biosynthesis protein CapA
+4954-98	KKBGAPLG_01454	Q04JP7	Peptide deformylase
+4954-98	KKBGAPLG_01455	C1CF39	23S rRNA (guanosine(2251)-2'-O)-methyltransferase
+4954-98	KKBGAPLG_01456	C1CF40	Thioredoxin reductase
+4954-98	KKBGAPLG_01457	C1CF41	Hypothetical protein
+4954-98	KKBGAPLG_01458	C1CF42	Cysteine ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01459	Q8DP76	Cysteine ABC transporter permease protein
+4954-98	KKBGAPLG_01460	Q8DP75	Arsenate reductase
+4954-98	KKBGAPLG_01461	C1CF45	Methylated-DNA--protein-cysteine methyltransferase
+4954-98	KKBGAPLG_01462	C1CF46	Acetyltransferase
+4954-98	KKBGAPLG_01463	Q8CYK8	Hypothetical protein
+4954-98	KKBGAPLG_01464	C1CF48	Hemolysin III
+4954-98	KKBGAPLG_01465	Q97PX3	Pyridoxal 5'-phosphate synthase%2C glutaminase subunit PdxT
+4954-98	KKBGAPLG_01466	Q97PX2	Pyridoxal 5'-phosphate synthase%2C synthase subunit PdxS
+4954-98	KKBGAPLG_01467	C1CF51	NADH peroxidase
+4954-98	KKBGAPLG_01468	Q8DP69	Putative thiamin biosynthesis lipoprotein
+4954-98	KKBGAPLG_01469	C1CF54	Fumarate reductase%2C flavoprotein subunit precursor
+4954-98	KKBGAPLG_01470	C1CF55	Fumarate reductase%2C flavoprotein subunit precursor
+4954-98	KKBGAPLG_01471	Q8DP67	Hypothetical protein
+4954-98	KKBGAPLG_01472	Q97PW6	Glycyl-tRNA synthetase beta chain
+4954-98	KKBGAPLG_01473	C1CF58	Glycyl-tRNA synthetase alpha chain
+4954-98	KKBGAPLG_01474	C1CF59	hypothetical protein
+4954-98	KKBGAPLG_01475		SpR19_sRNA
+4954-98	KKBGAPLG_01475		
+4954-98	KKBGAPLG_01476	C1CF60	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
+4954-98	KKBGAPLG_01477	B2IQU5	Peptidoglycan N-acetylglucosamine deacetylase
+4954-98	KKBGAPLG_01478	C1CF62	hypothetical protein
+4954-98	KKBGAPLG_01479	C1CF63	Oxidoreductase%2C Gfo/Idh/MocA family
+4954-98	KKBGAPLG_01480	C1CF64	ATP-dependent RNA helicase YfmL
+4954-98	KKBGAPLG_01481	A0AAD2IMW0	hypothetical protein
+4954-98	KKBGAPLG_01482	C1CF67	IS630 family transposase ISSpn2
+4954-98	KKBGAPLG_01483		Srn266
+4954-98	KKBGAPLG_01483		
+4954-98	KKBGAPLG_01484	C1CF68	IS1167 transposase Orf1
+4954-98	KKBGAPLG_01485	C1CF69	hypothetical protein
+4954-98	KKBGAPLG_01486	C1CF70	IS1167 transposase Orf2
+4954-98	KKBGAPLG_01487	B2IQV2	Translation elongation factor Tu
+4954-98	KKBGAPLG_01488	C1CF72	ISSpn8 transposase
+4954-98	KKBGAPLG_01489	A0A0E7RWY9	Major intrinsic protein family aquaporin
+4954-98	KKBGAPLG_01490	A0A0E8AEX3	Cell wall surface anchor family protein MucB
+4954-98	KKBGAPLG_01491	A0A6I3UND0	Hypothetical protein
+4954-98	KKBGAPLG_01492	C1CF78	Hypothetical protein
+4954-98	KKBGAPLG_01493	A0A0T8B2Y4	IS630 family transposase IS630-Spn1
+4954-98	KKBGAPLG_01494	C1CF82	Phosphoglucomutase
+4954-98	KKBGAPLG_01495	C1CF83	Bacterocin transport accessory protein
+4954-98	KKBGAPLG_01496	C1CF84	Glutamine ABC transporter substrate-binding protein GlnH6
+4954-98	KKBGAPLG_01497	Q8DP49	Glutamine ABC transporter ATP-binding protein GlnQ6
+4954-98	KKBGAPLG_01498	C1CF86	Glutamine ABC transporter permease GlnP6
+4954-98	KKBGAPLG_01499	C1CF87	TPR-repeat-containing protein
+4954-98	KKBGAPLG_01500	C1CF88	Hypothetical protein
+4954-98	KKBGAPLG_01501	C1CF89	6-phosphogluconolactonase
+4954-98	KKBGAPLG_01502		Srn266
+4954-98	KKBGAPLG_01502		
+4954-98	KKBGAPLG_01503	C1CF90	IS1167 transposase
+4954-98	KKBGAPLG_01504	C1CF91	IS1167 transposase Orf2
+4954-98	KKBGAPLG_01505	Q04N64	ATP synthase F1 sector epsilon chain
+4954-98	KKBGAPLG_01506	C1CLK6	ATP synthase F1 sector beta chain
+4954-98	KKBGAPLG_01507	C1CSC9	ATP synthase F1 sector gamma chain
+4954-98	KKBGAPLG_01508	C1CF95	ATP synthase F1 sector alpha chain
+4954-98	KKBGAPLG_01509	Q04HT6	ATP synthase F1 sector delta chain
+4954-98	KKBGAPLG_01510	Q04HT5	ATP synthase F0 sector subunit b
+4954-98	KKBGAPLG_01511	Q79MQ8	ATP synthase F0 sector subunit a
+4954-98	KKBGAPLG_01512	Q79RW7	ATP synthase F0 sector subunit c
+4954-98	KKBGAPLG_01513	C1CFA0	ISSpn8 transposase
+4954-98	KKBGAPLG_01514	Q8CYJ9	Acetyltransferase
+4954-98	KKBGAPLG_01515	Q8DP42	Transcription elongation factor GreA
+4954-98	KKBGAPLG_01516	A0A4M3JKY1	Endolytic murein transglycosylase MltG
+4954-98	KKBGAPLG_01517	Q8DP41	Acetyltransferase%2C GNAT family
+4954-98	KKBGAPLG_01518	C1CFA4	hypothetical protein
+4954-98	KKBGAPLG_01519	C1CFA5	UDP-N-acetylmuramate--alanine ligase
+4954-98	KKBGAPLG_01520	C1CFA6	Hypothetical protein
+4954-98	KKBGAPLG_01521	A0A4J1T880	SWF/SNF family helicase
+4954-98	KKBGAPLG_01522	C1CFA7	Bifunctional PLP-dependent beta-cystathionase/maltose regulon repressor
+4954-98	KKBGAPLG_01523	C1CFA8	Cystathionine gamma-synthase
+4954-98	KKBGAPLG_01524	A0A4J1SNW0	ABC transporter%2C ATP-binding/permease protein
+4954-98	KKBGAPLG_01525	A0A0T7J2X3	hypothetical protein
+4954-98	KKBGAPLG_01526	C1CFA9	Oligopeptide ABC transporter oligopeptide-binding protein AliB
+4954-98	KKBGAPLG_01527	B2IR49	Putative cell division protein YtgP
+4954-98	KKBGAPLG_01528	C1CFB1	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+4954-98	KKBGAPLG_01529	C1CFB2	Hypothetical protein
+4954-98	KKBGAPLG_01530	C1CFB3	hypothetical protein
+4954-98	KKBGAPLG_01531	C1CFB4	Glutamate synthase [NADPH] large chain
+4954-98	KKBGAPLG_01532	Q04JL5	Manganese-dependent inorganic pyrophosphatase
+4954-98	KKBGAPLG_01533	Q97PR7	Putative endonuclease
+4954-98	KKBGAPLG_01534	C1CFB7	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase
+4954-98	KKBGAPLG_01535	Q8DP29	General stress protein 13
+4954-98	KKBGAPLG_01536	C1CFB9	Bifunctional lipoprotein rotamase A/peptidyl-prolyl cis-trans isomerase
+4954-98	KKBGAPLG_01537	Q04JL0	SSU ribosomal protein S18p
+4954-98	KKBGAPLG_01538	P66855	Single-stranded DNA-binding protein
+4954-98	KKBGAPLG_01539	Q04JK8	SSU ribosomal protein S6p
+4954-98	KKBGAPLG_01540	C1CFC3	Asparaginyl-tRNA synthetase
+4954-98	KKBGAPLG_01541	C1C8D2	Putative lactoylglutathione lyase
+4954-98	KKBGAPLG_01542	A0A4N9BIM3	Aspartate aminotransferase
+4954-98	KKBGAPLG_01543	A0A4J2A0L3	Hypothetical protein
+4954-98	KKBGAPLG_01544	A0A0B7L6M7	Hypothetical protein
+4954-98	KKBGAPLG_01545	A0A4J1T3C6	hypothetical protein
+4954-98	KKBGAPLG_01546	C1CFD0	M protein trans-acting positive regulator Mga1
+4954-98	KKBGAPLG_01547	C1CFD1	hypothetical protein
+4954-98	KKBGAPLG_01548	A0A7X2XJ35	Hypothetical protein
+4954-98	KKBGAPLG_01549		SpR20_sRNA
+4954-98	KKBGAPLG_01549		
+4954-98	KKBGAPLG_01550	C1CFD3	Cell shape-determining protein
+4954-98	KKBGAPLG_01551	Q8DP22	Peptide deformylase
+4954-98	KKBGAPLG_01552	C1CFD5	Glutathione S-transferase
+4954-98	KKBGAPLG_01553	C1CFD6	Calcium-transporting ATPase
+4954-98	KKBGAPLG_01554		SSRC10
+4954-98	KKBGAPLG_01554		
+4954-98	KKBGAPLG_01555	C1CFD7	Cobalt-zinc-cadmium resistance protein
+4954-98	KKBGAPLG_01556	A0A4M6CU72	ATPase component of ABC transporter with duplicated ATPase domains
+4954-98	KKBGAPLG_01557	A0A4J1T4X4	CCA tRNA nucleotidyltransferase
+4954-98	KKBGAPLG_01558	Q04JJ1	4-hydroxy-tetrahydrodipicolinate reductase
+4954-98	KKBGAPLG_01559	Q97PP6	DegV family protein
+4954-98	KKBGAPLG_01560	Q8CYI5	Hypothetical protein
+4954-98	KKBGAPLG_01561	C1CSI0	Phosphoglucosamine mutase
+4954-98	KKBGAPLG_01562	Q8DP15	Hypothetical protein
+4954-98	KKBGAPLG_01563	C1CFE5	Bacterial checkpoint controller DisA
+4954-98	KKBGAPLG_01564	C1CFE6	Thioredoxin reductase
+4954-98	KKBGAPLG_01565	Q9JRK5	Putative cytoplasmic protein
+4954-98	KKBGAPLG_01566	C1CFE8	LPPG:FO 2-phospho-L-lactate transferase-like protein
+4954-98	KKBGAPLG_01567	A0A0B7LZK7	Putative P-loop-containing kinase
+4954-98	KKBGAPLG_01568	Q8DP09	RidA/YER057c/UK114 superfamily protein
+4954-98	KKBGAPLG_01569	C1CFF1	GTP-binding protein EngB
+4954-98	KKBGAPLG_01570	A0A4M9XSE5	ATP-dependent Clp protease ATP-binding subunit ClpX
+4954-98	KKBGAPLG_01571	B1ICZ0	Hypothetical protein
+4954-98	KKBGAPLG_01572	A0A8F5HSZ2	Dihydrofolate reductase
+4954-98	KKBGAPLG_01573	B2IR90	Bifunctional non-specific DNA-binding protein/ferroxidase Dpr
+4954-98	KKBGAPLG_01574	A0A2L1GZ10	1%2C4-beta-N-acetylmuramidase%2C lyzozyme LytC
+4954-98	KKBGAPLG_01575	Q04JH4	Triosephosphate isomerase
+4954-98	KKBGAPLG_01576	C1CFF8	Chromosome replication initiation protein DnaD
+4954-98	KKBGAPLG_01577	Q8DP05	Homoserine O-succinyltransferase
+4954-98	KKBGAPLG_01578	C1CFG1	Adenine phosphoribosyltransferase
+4954-98	KKBGAPLG_01579	Q8DP04	SAM-dependent methyltransferase
+4954-98	KKBGAPLG_01580	Q8DP03	Multiple sugar ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_01581		tRNA-Leu(aag)
+4954-98	KKBGAPLG_01581		
+4954-98	KKBGAPLG_01582	Q8DP02	Nicotinamidase
+4954-98	KKBGAPLG_01583	C1CSK2	GTP-sensing transcriptional pleiotropic repressor CodY
+4954-98	KKBGAPLG_01584	C1CFG7	DEAD-box ATP-dependent RNA helicase CshA
+4954-98	KKBGAPLG_01585	C1CFG8	Major facilitator oxalate:formate antiporter
+4954-98	KKBGAPLG_01586	C1CFG9	Pyridine nucleotide-disulfide oxidoreductase
+4954-98	KKBGAPLG_01587	C1CFH0	Mur ligase family protein
+4954-98	KKBGAPLG_01588	C1CFH1	Putative amidotransferase similar to cobyric acid synthase
+4954-98	KKBGAPLG_01589	C1CFH2	Xaa-Pro dipeptidase
+4954-98	KKBGAPLG_01590	C1CFH4	IS3 family transposase ISSpn11
+4954-98	KKBGAPLG_01591	C1CFH5	hypothetical protein
+4954-98	KKBGAPLG_01592	Q8DNZ4	IS3 family transposase ISSpn11
+4954-98	KKBGAPLG_01593	C1CFH7	Substrate-specific component PdxU2 of putative pyridoxin-related ECF transporter
+4954-98	KKBGAPLG_01594	C1CFH8	Pyridoxal kinase%2C thiD family
+4954-98	KKBGAPLG_01595	Q8CWQ1	tRNA pseudouridine synthase A
+4954-98	KKBGAPLG_01596	C1CFI1	Major facilitator superfamily transporter-permease
+4954-98	KKBGAPLG_01597	Q8CYI1	Hypothetical protein
+4954-98	KKBGAPLG_01598	Q8DNZ0	Protein PhnA
+4954-98	KKBGAPLG_01599	A0A064C099	Cytidylate kinase
+4954-98	KKBGAPLG_01600	Q8CYI0	Hypothetical protein
+4954-98	KKBGAPLG_01601	C1CFI7	Ferredoxin
+4954-98	KKBGAPLG_01602	A0A4J1Y7S1	Bactoprenol glucosyl transferase
+4954-98	KKBGAPLG_01603	C1CFI9	UDP-glucose 4-epimerase
+4954-98	KKBGAPLG_01604	A0A558TP87	Glycine/D-amino acid oxidases family protein
+4954-98	KKBGAPLG_01605	C1CFJ2	Putative GTP cyclohydrolase 1 type 2 protein YbgI
+4954-98	KKBGAPLG_01606	C1CFJ3	tRNA (adenine(22)-N(1))-methyltransferase
+4954-98	KKBGAPLG_01607	A0A4J1Y4G8	Cadmium-transporting ATPase
+4954-98	KKBGAPLG_01608	B2IRD2	Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase
+4954-98	KKBGAPLG_01609	Q8DNY0	Cadmium resistance protein CadD
+4954-98	KKBGAPLG_01610	Q97PI9	SSU ribosomal protein S15p (S13e)
+4954-98	KKBGAPLG_01611	C1CFJ8	Rrf2-linked NADH-flavin reductase
+4954-98	KKBGAPLG_01612	A0A558XFJ3	Hypothetical protein
+4954-98	KKBGAPLG_01613	C1CFJ9	hypothetical protein
+4954-98	KKBGAPLG_01614	C1CFK0	Threonyl-tRNA synthetase
+4954-98	KKBGAPLG_01615	C1CFK1	Two-component system sensor histidine kinase
+4954-98	KKBGAPLG_01616	C1CFK2	Two-component system response regulator
+4954-98	KKBGAPLG_01617	C1CFK3	Esterase/lipase
+4954-98	KKBGAPLG_01618	C1CFK4	Hypothetical protein
+4954-98	KKBGAPLG_01619	C1CFK5	Rrf2 family transcriptional regulator%2C group III
+4954-98	KKBGAPLG_01620	Q8DNX4	Putative diadenosine tetraphosphatase
+4954-98	KKBGAPLG_01621	C1CFK7	Mn-dependent transcriptional regulator MntR
+4954-98	KKBGAPLG_01622	C1CFK9	hypothetical protein
+4954-98	KKBGAPLG_01623	Q8CYH1	Hypothetical protein
+4954-98	KKBGAPLG_01624	C1CFL1	Hypothetical protein
+4954-98	KKBGAPLG_01625	A0A4N9BGU5	hypothetical protein
+4954-98	KKBGAPLG_01626	A0A4F3K787	Hypothetical protein
+4954-98	KKBGAPLG_01627	C1CFL2	hypothetical protein
+4954-98	KKBGAPLG_01628	Q8DNX2	D-tyrosyl-tRNA(Tyr) deacylase
+4954-98	KKBGAPLG_01629	C1CFL5	Bifunctional guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase/(p)ppGpp synthetase II
+4954-98	KKBGAPLG_01630	A0AA44S635	Hydroxyacylglutathione hydrolase
+4954-98	KKBGAPLG_01631	C1CFL8	Neutral endopeptidase O
+4954-98	KKBGAPLG_01632	B2IRQ4	Manganese ABC transporter%2C ATP-binding protein PsaB
+4954-98	KKBGAPLG_01633	C1CFM0	Manganese ABC transporter%2C inner membrane permease protein PsaC
+4954-98	KKBGAPLG_01634	D2CTJ2	Manganese ABC transporter%2C periplasmic-binding protein PsaA
+4954-98	KKBGAPLG_01635	A0A655H833	Thiol peroxidase%2C Tpx-type
+4954-98	KKBGAPLG_01636	A0A4J2A0A8	ABC transporter%2C permease protein
+4954-98	KKBGAPLG_01637	A0A0B7LTG9	ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_01638	A0A4J2A298	Putative large secreted protein
+4954-98	KKBGAPLG_01639	C1CSS1	Phosphoglycerate mutase
+4954-98	KKBGAPLG_01640	B2IRR2	hypothetical protein
+4954-98	KKBGAPLG_01641	A0A5R9AZB9	hypothetical protein
+4954-98	KKBGAPLG_01642	B8ZM55	Isoleucyl-tRNA synthetase
+4954-98	KKBGAPLG_01643	C1CFN2	Cell division initiation protein DivIVA
+4954-98	KKBGAPLG_01644	Q9ZHB5	YlmH
+4954-98	KKBGAPLG_01645	Q9ZHB6	Cell division integral membrane protein YlmG%2C YGGT family
+4954-98	KKBGAPLG_01646	P0CB77	FtsZ-interacting protein related to cell division YlmF
+4954-98	KKBGAPLG_01647	C1CFN6	YlmE
+4954-98	KKBGAPLG_01648	A0A098ZPN0	Cell division protein FtsZ
+4954-98	KKBGAPLG_01649	Q9ZHC0	Cell division protein FtsA
+4954-98	KKBGAPLG_01650	C1CFN9	Putative membrane protein
+4954-98	KKBGAPLG_01651	A0A4L3I074	MutT/nudix family protein phosphohydrolase
+4954-98	KKBGAPLG_01652	C1CFP1	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+4954-98	KKBGAPLG_01653	A0AA87CA86	D-alanine--D-alanine ligase
+4954-98	KKBGAPLG_01654	B1I734	Recombination protein RecR
+4954-98	KKBGAPLG_01655	B5LNZ5	Penicillin-binding protein 2B
+4954-98	KKBGAPLG_01656	A0A4J2G0Z1	Sialic acid utilization regulator%2C RpiR family
+4954-98	KKBGAPLG_01657	Q8DNV3	N-acetylmannosamine kinase
+4954-98	KKBGAPLG_01658	A0A4J2AMR7	4-hydroxy-tetrahydrodipicolinate synthase
+4954-98	KKBGAPLG_01659	B1I739	hypothetical protein
+4954-98	KKBGAPLG_01660	A0A0U0E7C1	Hypothetical protein
+4954-98	KKBGAPLG_01661	C1CFQ0	Protein YjgK%2C linked to biofilm formation
+4954-98	KKBGAPLG_01662	Q8DNV0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 2
+4954-98	KKBGAPLG_01663	C1C8S0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 1
+4954-98	KKBGAPLG_01664	Q8DNU8	ABC transporter%2C putative N-acetylneuraminate-binding protein
+4954-98	KKBGAPLG_01665	A0A558V778	N-acetylglucosamine-specific PTS IIABC components
+4954-98	KKBGAPLG_01666	P65521	N-acetylmannosamine-6-phosphate 2-epimerase
+4954-98	KKBGAPLG_01667	Q54728	Oxidoreductase
+4954-98	KKBGAPLG_01668	A0A4K0TX48	Sialidase
+4954-98	KKBGAPLG_01669	A0A0H2UR37	ABC transporter%2C permease protein
+4954-98	KKBGAPLG_01670	C1CFQ9	ABC transporter membrane-spanning permease%2C sugar transport YcjO
+4954-98	KKBGAPLG_01671	Q8DNU2	ABC transporter substrate-binding protein - sugar transport
+4954-98	KKBGAPLG_01672	Q8CYF8	Putative beta-D-galactosidase
+4954-98	KKBGAPLG_01673	A0A0B7LFI0	Hypothetical protein
+4954-98	KKBGAPLG_01674	A0AA86XHJ1	Sialidase NanA
+4954-98	KKBGAPLG_01675	Q8CYF7	Hypothetical protein
+4954-98	KKBGAPLG_01676	A0A4J2A1Z6	hypothetical protein
+4954-98	KKBGAPLG_01677	C1CFR5	Bifunctional acetyl xylan esterase 1/cephalosporin-C deacetylase
+4954-98	KKBGAPLG_01678	C1CFR6	ATP-dependent DNA helicase RecG
+4954-98	KKBGAPLG_01679	Q04J74	Alanine racemase
+4954-98	KKBGAPLG_01680	B2IRV4	Holo-[acyl-carrier protein] synthase
+4954-98	KKBGAPLG_01681	Q8DNU0	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+4954-98	KKBGAPLG_01682	C1CFS0	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+4954-98	KKBGAPLG_01683	C1C8U0	Protein translocase subunit SecA
+4954-98	KKBGAPLG_01684	C1CFS2	hypothetical protein
+4954-98	KKBGAPLG_01685	C1CFS3	ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_01686	C1CFS4	Hypothetical protein
+4954-98	KKBGAPLG_01687	C1CFS5	Hypothetical protein
+4954-98	KKBGAPLG_01688	U4KJA5	Hypothetical protein
+4954-98	KKBGAPLG_01689	U4KJB6	MutR-like transcriptional regulator
+4954-98	KKBGAPLG_01690	A0A237JXL5	Hypothetical protein
+4954-98	KKBGAPLG_01691	B2IRW3	Hypothetical protein
+4954-98	KKBGAPLG_01692	Q04J64	GTP-binding protein EngA
+4954-98	KKBGAPLG_01693	C1CFT1	NADPH-flavin oxidoreductase
+4954-98	KKBGAPLG_01694	C1CFT2	Helicase loader DnaI
+4954-98	KKBGAPLG_01695	C1CFT3	Helicase loader DnaB
+4954-98	KKBGAPLG_01696	B2IRW8	Ribonucleotide reductase transcriptional regulator NrdR
+4954-98	KKBGAPLG_01697	Q8DNT4	Transcriptional regulator%2C GntR family
+4954-98	KKBGAPLG_01698	C1CFT6	Multidrug ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_01699	B2IRX1	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01700	C1CFT8	ABC transporter membrane-spanning permease - Na+ export
+4954-98	KKBGAPLG_01701	C1CFT9	ABC transporter ATP-binding protein - Na+ export
+4954-98	KKBGAPLG_01702	C1CFU1	Immunoreactive protein Se23.5-like protein
+4954-98	KKBGAPLG_01703	C1CFU2	Fructokinase
+4954-98	KKBGAPLG_01704	A0A0T9ZVP2	Sucrose-specific PTS IIBCA components
+4954-98	KKBGAPLG_01705	C1CFU5	Sucrose-6-phosphate hydrolase
+4954-98	KKBGAPLG_01706	C1CFU6	Sucrose operon repressor ScrR%2C LacI family
+4954-98	KKBGAPLG_01707	Q8DNS5	Hydroxymethylglutaryl-CoA reductase
+4954-98	KKBGAPLG_01708	C1CFU8	Hydroxymethylglutaryl-CoA synthase
+4954-98	KKBGAPLG_01709	A0A4J1Y9X1	Hypothetical protein
+4954-98	KKBGAPLG_01710	C1CFV0	IS1381 transposase OrfB
+4954-98	KKBGAPLG_01711	C1CFV2	Putative membrane-spanning protein
+4954-98	KKBGAPLG_01712	C1CFV3	Membrane protein
+4954-98	KKBGAPLG_01713	C1CFV4	Serine/threonine protein kinase StkP
+4954-98	KKBGAPLG_01714	C1CFV5	Protein serine/threonine phosphatase PhpP
+4954-98	KKBGAPLG_01715	C1CFV6	16S rRNA (cytosine(967)-C(5))-methyltransferase
+4954-98	KKBGAPLG_01716	C1CFV7	Methionyl-tRNA formyltransferase
+4954-98	KKBGAPLG_01717	A0A4M6CTF0	Helicase PriA essential for oriC/DnaA-independent DNA replication
+4954-98	KKBGAPLG_01718	Q04J38	DNA-directed RNA polymerase omega subunit
+4954-98	KKBGAPLG_01719	Q97PA3	Guanylate kinase
+4954-98	KKBGAPLG_01720	Q04J36	Ribonuclease Y
+4954-98	KKBGAPLG_01721	A0A4J1ZRK5	hypothetical protein
+4954-98	KKBGAPLG_01722	A0A4J1ZQK1	hypothetical protein
+4954-98	KKBGAPLG_01723	A0A248XE06	hypothetical protein
+4954-98	KKBGAPLG_01724	A0A4J1ZQD4	hypothetical protein
+4954-98	KKBGAPLG_01725	A0A064C1Y8	hypothetical protein
+4954-98	KKBGAPLG_01726	A0A4M6D4L6	IS1167 transposase Orf2
+4954-98	KKBGAPLG_01727	B8ZMR7	hypothetical protein
+4954-98	KKBGAPLG_01728	A0A0T8UQ75	Methyltransferase
+4954-98	KKBGAPLG_01729	Q8DNQ9	Ribosomal silencing factor RsfA
+4954-98	KKBGAPLG_01730	B2IS96	Isochorismatase
+4954-98	KKBGAPLG_01731	B2IS97	HAD superfamily hydrolase YqeK
+4954-98	KKBGAPLG_01732	P65505	Nicotinate-nucleotide adenylyltransferase
+4954-98	KKBGAPLG_01733	Q8DNQ6	RNA-binding protein
+4954-98	KKBGAPLG_01734	A0A4J2A1Z8	GTP-binding protein YqeH%2C required for biogenesis of 30S ribosome subunit
+4954-98	KKBGAPLG_01735	B2ISA1	Hydrolase%2C HAD subfamily IIIA
+4954-98	KKBGAPLG_01736	A0A4J2A404	Magnesium and cobalt transport protein CorA2
+4954-98	KKBGAPLG_01737	B2ISA3	Potassium efflux system KefA protein
+4954-98	KKBGAPLG_01738	A0A4J2A1M7	Serine/threonine transporter SstT
+4954-98	KKBGAPLG_01739	C1CFX5	Membrane protein
+4954-98	KKBGAPLG_01740	A0A0U0KQ20	Transcriptional regulator%2C MarR family
+4954-98	KKBGAPLG_01741	Q8CYE5	Hypothetical protein
+4954-98	KKBGAPLG_01742	C1CFZ6	Thioredoxin
+4954-98	KKBGAPLG_01743	A0A380LRR5	NADPH-dependent 7-cyano-7-deazaguanine reductase
+4954-98	KKBGAPLG_01744	A0A4J2A1Z6	hypothetical protein
+4954-98	KKBGAPLG_01745	A0A4J2A2F6	Aquaporin Z
+4954-98	KKBGAPLG_01746	A0A4J2A414	hypothetical protein
+4954-98	KKBGAPLG_01747	A0A0E8TAE1	hypothetical protein
+4954-98	KKBGAPLG_01748	A0A4J2A1N6	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01749	A0A7X3BXV8	hypothetical protein
+4954-98	KKBGAPLG_01750	A0A0B7M8H5	Oligoendopeptidase F
+4954-98	KKBGAPLG_01751	A0A0H5LJY9	16S rRNA (uracil(1498)-N(3))-methyltransferase
+4954-98	KKBGAPLG_01752	A0A7X2XJZ4	Ribosomal protein L11 methyltransferase
+4954-98	KKBGAPLG_01753	A0A0E9GXT4	7%2C8-dihydro-8-oxoguanine-triphosphatase
+4954-98	KKBGAPLG_01754	A0A0B7LKK5	Hypothetical protein
+4954-98	KKBGAPLG_01755	C1C925	Hypothetical protein
+4954-98	KKBGAPLG_01756	Q8DNP2	Addiction module antitoxin HicB
+4954-98	KKBGAPLG_01757	A0A6G2D3S6	Addiction module toxin HicA
+4954-98	KKBGAPLG_01758	A0AA87CCE4	Hypothetical protein
+4954-98	KKBGAPLG_01759	C1CG14	Chromosome segregation helicase
+4954-98	KKBGAPLG_01760		tRNA-Lys(ctt)
+4954-98	KKBGAPLG_01760		
+4954-98	KKBGAPLG_01761	A0A4K0UAZ4	Transposase from transposon Tn916
+4954-98	KKBGAPLG_01762	A0A0E7RZZ7	hypothetical protein
+4954-98	KKBGAPLG_01763	A0A4J6FJM5	hypothetical protein
+4954-98	KKBGAPLG_01764	A0AA95IIQ0	hypothetical protein
+4954-98	KKBGAPLG_01765	A0A4J9F7V1	hypothetical protein
+4954-98	KKBGAPLG_01766	A0AA95D7H9	hypothetical protein
+4954-98	KKBGAPLG_01767	A0AA95D6M5	hypothetical protein
+4954-98	KKBGAPLG_01768	A0A0H5LJV6	Sucrose-6-phosphate hydrolase
+4954-98	KKBGAPLG_01769	A0A0B7LIL5	hypothetical protein
+4954-98	KKBGAPLG_01770	B2ISF6	ABC transporter permease protein
+4954-98	KKBGAPLG_01771	A0A4J2A1M1	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+4954-98	KKBGAPLG_01772	A0A4J2A213	Multiple sugar metabolism operon regulatory protein
+4954-98	KKBGAPLG_01773	Q97P44	M protein trans-acting positive regulator Mga2
+4954-98	KKBGAPLG_01774	B2ISG1	Hypothetical protein
+4954-98	KKBGAPLG_01775	Q8DNN4	Small integral membrane protein
+4954-98	KKBGAPLG_01776	Q8DNN3	General stress protein%2C Gls24 family
+4954-98	KKBGAPLG_01777	Q97P39	Hypothetical protein
+4954-98	KKBGAPLG_01778	C1CG28	hypothetical protein
+4954-98	KKBGAPLG_01779	C1CG29	Formylglycine-generating enzyme
+4954-98	KKBGAPLG_01780	C1CG30	Arylsulfatase
+4954-98	KKBGAPLG_01781	C1CG31	Cellobiose-specific PTS IIC component
+4954-98	KKBGAPLG_01782	C1CG32	Lactose-specific PTS IIA component
+4954-98	KKBGAPLG_01783	C1CG33	Cellobiose-specific PTS IIB component
+4954-98	KKBGAPLG_01784	C1CG34	hypothetical protein
+4954-98	KKBGAPLG_01785	A0A4F2BEU0	Cellobiose-specific PTS IIC component
+4954-98	KKBGAPLG_01786	C1CG36	Xylose repressor protein
+4954-98	KKBGAPLG_01787	C1CG37	Acetyltransferase
+4954-98	KKBGAPLG_01788	C1CG38	Type IV prepilin peptidase
+4954-98	KKBGAPLG_01789	C1CG39	Transcriptional regulator%2C Xre family
+4954-98	KKBGAPLG_01790	Q8CYD6	Hypothetical protein
+4954-98	KKBGAPLG_01791	C1CT50	Tryptophan synthase alpha chain
+4954-98	KKBGAPLG_01792	C1CT51	Tryptophan synthase beta chain
+4954-98	KKBGAPLG_01793	C1CT52	Phosphoribosylanthranilate isomerase
+4954-98	KKBGAPLG_01794	A0A6A8VKF9	Indole-3-glycerol phosphate synthase
+4954-98	KKBGAPLG_01795	A0A6A8VKI1	Anthranilate phosphoribosyltransferase
+4954-98	KKBGAPLG_01796	C1C970	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
+4954-98	KKBGAPLG_01797	A0A0X9IRI0	Anthranilate synthase%2C aminase component
+4954-98	KKBGAPLG_01798	A0A4J1X8U6	Hypothetical protein
+4954-98	KKBGAPLG_01799		T-box
+4954-98	KKBGAPLG_01799		
+4954-98	KKBGAPLG_01800	Q8DNM4	Galactose operon repressor%2C GalR-LacI family
+4954-98	KKBGAPLG_01801	Q8CYD4	Hypothetical protein
+4954-98	KKBGAPLG_01802	Q8DNM3	Mg(2+)-transport-ATPase-associated protein MgtC
+4954-98	KKBGAPLG_01803	C1CG52	Iron(III)-transport system permease protein SfuB
+4954-98	KKBGAPLG_01804	C1CG53	ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_01805	C1CG54	ABC transporter%2C substrate-binding protein
+4954-98	KKBGAPLG_01806	Q8CYD2	Hypothetical protein
+4954-98	KKBGAPLG_01807	C1CG57	UDP-glucose 4-epimerase
+4954-98	KKBGAPLG_01808	Q8DNL8	Galactose-1-phosphate uridylyltransferase
+4954-98	KKBGAPLG_01809	Q8DNL7	Phosphate transport system protein PhoU3
+4954-98	KKBGAPLG_01810	C1CG60	hypothetical protein
+4954-98	KKBGAPLG_01811	Q8CYD0	hypothetical protein
+4954-98	KKBGAPLG_01812	C7G4B8	Plasmin- and fibronectin-binding protein PfbA
+4954-98	KKBGAPLG_01813	B2IST7	Putative UDP-4-keto-6-deoxy-D-glucose 4-transaminase AatB
+4954-98	KKBGAPLG_01814	B2IST8	Sugar transferases involved in lipopolysaccharide synthesis
+4954-98	KKBGAPLG_01815	A0A6I3TYU5	ABC transporter%2C ATP-binding/permease protein
+4954-98	KKBGAPLG_01816	A0A0H2ZML2	ABC transporter%2C ATP-binding/permease protein
+4954-98	KKBGAPLG_01817	Q8DNL2	hypothetical protein
+4954-98	KKBGAPLG_01818	Q8CYC7	hypothetical protein
+4954-98	KKBGAPLG_01819	A0A0H2ZQA0	hypothetical protein
+4954-98	KKBGAPLG_01820	C1CG71	Exodeoxyribonuclease III
+4954-98	KKBGAPLG_01821	Q8CYC6	hypothetical protein
+4954-98	KKBGAPLG_01822		Purine
+4954-98	KKBGAPLG_01822		
+4954-98	KKBGAPLG_01823	Q3I0D6	Xanthine phosphoribosyltransferase
+4954-98	KKBGAPLG_01824	C1CG73	Xanthine permease
+4954-98	KKBGAPLG_01825	P0A3T5	Type II restriction-modification system component DpnD
+4954-98	KKBGAPLG_01826	C1CG75	Type II restriction-modification system endonuclease DpnC
+4954-98	KKBGAPLG_01827	A0A0I9AVG4	Thioesterase
+4954-98	KKBGAPLG_01828	A0A0Y2MQE1	Galactose-1-phosphate uridylyltransferase
+4954-98	KKBGAPLG_01829	A0A0E8P399	Galactokinase
+4954-98	KKBGAPLG_01830	Q8DNK6	Galactose operon repressor%2C GalR-LacI family
+4954-98	KKBGAPLG_01831	C1CG80	Alcohol dehydrogenase
+4954-98	KKBGAPLG_01832	Q8DNK4	Transcriptional regulator%2C MerR family
+4954-98	KKBGAPLG_01833	B2ISV6	Cobalt-zinc-cadmium resistance protein CzcD
+4954-98	KKBGAPLG_01834	B2ISV7	Transcriptional regulator SczA%2C TetR family
+4954-98	KKBGAPLG_01835	Q8DNK1	Ribosyl nicotinamide transporter PnuC
+4954-98	KKBGAPLG_01836	A0AA36PBY1	Glycine betaine/L-proline transport substrate-binding/permease protein ProWX
+4954-98	KKBGAPLG_01837	A0A0U0E365	Glycine betaine/L-proline transport ATP-binding protein ProV
+4954-98	KKBGAPLG_01838	B1I874	Hypothetical protein
+4954-98	KKBGAPLG_01839	Q8CYC4	Transcriptional regulator%2C MarR family
+4954-98	KKBGAPLG_01840	Q8CYC3	Hypothetical protein
+4954-98	KKBGAPLG_01841	Q8DNJ7	Glutamyl aminopeptidase
+4954-98	KKBGAPLG_01842	A0A0H2URK0	UDP-glucose 4-epimerase
+4954-98	KKBGAPLG_01843	A0A0H2ZMI3	Iron compound ABC uptake transporter permease protein PiuB
+4954-98	KKBGAPLG_01844	C1CG94	Iron compound ABC uptake transporter permease protein PiuC
+4954-98	KKBGAPLG_01845	C1CG95	Iron compound ABC uptake transporter ATP-binding protein PiuD
+4954-98	KKBGAPLG_01846	A0A0T9GDD4	Iron compound ABC uptake transporter substrate-binding protein PiuA
+4954-98	KKBGAPLG_01847	A0A0E7PH38	Putative membrane protein insertion efficiency factor YidD
+4954-98	KKBGAPLG_01848	Q8DNJ0	Ribosomal large subunit pseudouridine synthase B
+4954-98	KKBGAPLG_01849	Q8DNI9	Segregation and condensation protein B
+4954-98	KKBGAPLG_01850	A0A0T8RTE1	Segregation and condensation protein A
+4954-98	KKBGAPLG_01851	C1C9E3	Tyrosine recombinase XerD
+4954-98	KKBGAPLG_01852	C1C9E4	CBS domain protein
+4954-98	KKBGAPLG_01853	C1CGA3	Phosphoesterase
+4954-98	KKBGAPLG_01854	C1C9E6	Nucleoside 5-triphosphatase RdgB (dHAPTP%2C dITP%2C XTP-specific)
+4954-98	KKBGAPLG_01855	Q04IS7	Glutamate racemase
+4954-98	KKBGAPLG_01856	B2ISY0	Hypothetical protein
+4954-98	KKBGAPLG_01857	Q8DNI7	Trehalose-6-phosphate hydrolase
+4954-98	KKBGAPLG_01858	A0A6G2CSW5	Trehalose-specific PTS IIBCA components
+4954-98	KKBGAPLG_01859	Q8DNI5	Trehalose operon transcriptional repressor
+4954-98	KKBGAPLG_01860	A0A7X2XK89	ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01861	C1CGB1	Putative tryptophan-specific ABC transporter permease protein TrpY
+4954-98	KKBGAPLG_01862	C1CGB2	ABC transporter substrate-binding protein
+4954-98	KKBGAPLG_01863	B2ISY6	Peptide ABC transporter ATP-binding protein AmiF
+4954-98	KKBGAPLG_01864	C1CGB6	Peptide ABC transporter ATP-binding protein AmiE
+4954-98	KKBGAPLG_01865	C1CGB7	Peptide ABC transporter permease AmiD
+4954-98	KKBGAPLG_01866	C1CGB8	Peptide ABC transporter permease AmiC
+4954-98	KKBGAPLG_01867	C1CGB9	Peptide ABC transporter substrate-binding protein AmiA
+4954-98	KKBGAPLG_01868	A0A0T7ZQ26	Wall teichoic acid biosynthesis protein RafX
+4954-98	KKBGAPLG_01869	A0A4L1B2S5	Sucrose phosphorylase
+4954-98	KKBGAPLG_01870	A0A4J5GPT0	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG
+4954-98	KKBGAPLG_01871	A0A7X2XIH7	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmF
+4954-98	KKBGAPLG_01872	C1CGC5	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
+4954-98	KKBGAPLG_01873	A0A4J1ST81	Alpha-galactosidase
+4954-98	KKBGAPLG_01874	A0AA36VAQ0	Multiple sugar metabolism operon regulatory protein MsmR
+4954-98	KKBGAPLG_01875	A0A0E8P577	Bifunctional biotin operon repressor/Biotin--protein ligase
+4954-98	KKBGAPLG_01876		Srn266
+4954-98	KKBGAPLG_01876		
+4954-98	KKBGAPLG_01877	C1CF90	IS1167 transposase
+4954-98	KKBGAPLG_01878	A0A4M6D5V0	IS1167 transposase Orf2
+4954-98	KKBGAPLG_01879		tRNA-Ser(gct)
+4954-98	KKBGAPLG_01879		
+4954-98	KKBGAPLG_01880		tRNA-Ile(gat)
+4954-98	KKBGAPLG_01880		
+4954-98	KKBGAPLG_01881		tRNA-Gly(tcc)
+4954-98	KKBGAPLG_01881		
+4954-98	KKBGAPLG_01882		tRNA-Phe(gaa)
+4954-98	KKBGAPLG_01882		
+4954-98	KKBGAPLG_01883		tRNA-Met(cat)
+4954-98	KKBGAPLG_01883		
+4954-98	KKBGAPLG_01884		tRNA-Ser(tga)
+4954-98	KKBGAPLG_01884		
+4954-98	KKBGAPLG_01885		tRNA-Met(cat)
+4954-98	KKBGAPLG_01885		
+4954-98	KKBGAPLG_01886		tRNA-Met(cat)
+4954-98	KKBGAPLG_01886		
+4954-98	KKBGAPLG_01887		tRNA-Pro(tgg)
+4954-98	KKBGAPLG_01887		
+4954-98	KKBGAPLG_01888		tRNA-Arg(acg)
+4954-98	KKBGAPLG_01888		
+4954-98	KKBGAPLG_01889		tRNA-Leu(taa)
+4954-98	KKBGAPLG_01889		
+4954-98	KKBGAPLG_01890		tRNA-Gly(gcc)
+4954-98	KKBGAPLG_01890		
+4954-98	KKBGAPLG_01891		tRNA-Thr(tgt)
+4954-98	KKBGAPLG_01891		
+4954-98	KKBGAPLG_01892		tRNA-Leu(tag)
+4954-98	KKBGAPLG_01892		
+4954-98	KKBGAPLG_01893		tRNA-Lys(ttt)
+4954-98	KKBGAPLG_01893		
+4954-98	KKBGAPLG_01894		tRNA-Asp(gtc)
+4954-98	KKBGAPLG_01894		
+4954-98	KKBGAPLG_01895		tRNA-Val(tac)
+4954-98	KKBGAPLG_01895		
+4954-98	KKBGAPLG_01896		5S ribosomal RNA
+4954-98	KKBGAPLG_01896		
+4954-98	KKBGAPLG_01897		23S ribosomal RNA
+4954-98	KKBGAPLG_01897		
+4954-98	KKBGAPLG_01898		tRNA-Ala(tgc)
+4954-98	KKBGAPLG_01898		
+4954-98	KKBGAPLG_01899		16S ribosomal RNA
+4954-98	KKBGAPLG_01899		
+4954-98	KKBGAPLG_01900		tRNA-Glu(ttc)
+4954-98	KKBGAPLG_01900		
+4954-98	KKBGAPLG_01901	C1CGD1	RNA methyltransferase%2C TrmA family
+4954-98	KKBGAPLG_01902	A0A5R9ATB6	Regulatory protein RecX
+4954-98	KKBGAPLG_01903	Q8DNH5	Cysteinyl-tRNA synthetase related protein
+4954-98	KKBGAPLG_01904		Spy392987
+4954-98	KKBGAPLG_01904		
+4954-98	KKBGAPLG_01905	Q8CYC0	Hypothetical protein
+4954-98	KKBGAPLG_01906		Srn266
+4954-98	KKBGAPLG_01906		
+4954-98	KKBGAPLG_01907	A0A4P0AN65	IS1167 transposase
+4954-98	KKBGAPLG_01908	C1CGD6	IS1167 transposase
+4954-98	KKBGAPLG_01909	Q04IQ3	Heat shock protein 60 family chaperone GroEL
+4954-98	KKBGAPLG_01910	Q8VTM9	Heat shock protein 60 family co-chaperone GroES
+4954-98	KKBGAPLG_01911	A0A0E8PDH7	Single-stranded DNA-binding protein SsbB
+4954-98	KKBGAPLG_01912	C1CGK0	Short-chain dehydrogenase
+4954-98	KKBGAPLG_01913	C1CGK1	Phenylalanyl-tRNA synthetase domain protein
+4954-98	KKBGAPLG_01914	Q8DNH1	Thioredoxin
+4954-98	KKBGAPLG_01915	Q8CYB9	Hypothetical protein
+4954-98	KKBGAPLG_01916	C1CGK5	Membrane protein
+4954-98	KKBGAPLG_01917	A0A0H2URK9	Response regulator of the LytR/AlgR family protein
+4954-98	KKBGAPLG_01918	C1CGK7	Phosphatidylglycerophosphatase B
+4954-98	KKBGAPLG_01919	Q8CYB6	Hypothetical protein
+4954-98	KKBGAPLG_01920	C1C9I8	putative ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01921	A0A4J1WPX6	Multidrug resistance ABC transporter ATP-binding and permease protein
+4954-98	KKBGAPLG_01922	A0A4J2A2A8	putative ABC transporter ATP-binding protein
+4954-98	KKBGAPLG_01923	A0A916L6H8	hypothetical protein
+4954-98	KKBGAPLG_01924	A0A0T9A7D7	hypothetical protein
+4954-98	KKBGAPLG_01925	Q04IN9	Transcriptional regulatory protein YeeN
+4954-98	KKBGAPLG_01926	Q2XU26	Pneumolysin
+4954-98	KKBGAPLG_01927	C1CGL1	Hypothetical protein
+4954-98	KKBGAPLG_01928	Q8CYB4	Hypothetical protein
+4954-98	KKBGAPLG_01929	B2IM15	Hypothetical protein
+4954-98	KKBGAPLG_01930	Q8CYB1	Hypothetical protein
+4954-98	KKBGAPLG_01931	Q8CYB0	Hypothetical protein
+4954-98	KKBGAPLG_01932	A0A5Q5GMX0	hypothetical protein
+4954-98	KKBGAPLG_01933	A0A0B7M628	hypothetical protein
+4954-98	KKBGAPLG_01934	B1I8P7	Putative toxin
+4954-98	KKBGAPLG_01935	A0A6A8VP22	Putative toxin
+4954-98	KKBGAPLG_01936	Q8KLP2	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+4954-98	KKBGAPLG_01937	A0A098Z3I1	MATE efflux family protein DinF
+4954-98	KKBGAPLG_01938	Q04IM6	DNA recombination/repair protein RecA
+4954-98	KKBGAPLG_01939	C1C9K9	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucleotide amidase
+4954-98	KKBGAPLG_01940	A0A0E8P863	Transcriptional regulator LytR
+4954-98	KKBGAPLG_01941	A0A0T8AZK9	Acetyltransferase
+4954-98	KKBGAPLG_01942	Q8DNF8	TsaE protein%2C required for threonylcarbamoyladenosine t(6)A37 formation in tRNA
+4954-98	KKBGAPLG_01943	C1CGM9	Immunity factor ComM
+4954-98	KKBGAPLG_01944	Q8DNF7	Putative transcriptional regulator PlcR
+4954-98	KKBGAPLG_01945	Q8CYA0	Class II two-component lantibiotic peptide PneA1
+4954-98	KKBGAPLG_01946	Q8CY99	Class II two-component lantibiotic peptide PneA2
+4954-98	KKBGAPLG_01947	A0A4J2A3I5	hypothetical protein
+4954-98	KKBGAPLG_01948	C1CGN4	Lanthionine biosynthesis protein LanM
+4954-98	KKBGAPLG_01949	Q8DNF5	Putative flavin adenine dinucleotide (FAD)-dependent flavoprotein WrbA
+4954-98	KKBGAPLG_01950	Q8CY98	Hypothetical protein
+4954-98	KKBGAPLG_01951	C1CGN7	Toxin secretion ABC transporter%2C ATP-binding/permease protein
+4954-98	KKBGAPLG_01952	Q8DNF3	Epidermin leader peptide processing serine protease EPIP precursor
+4954-98	KKBGAPLG_01953	Q8CY97	Putative immunity protein
+4954-98	KKBGAPLG_01954	Q8DNF2	ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_01955	Q8CY96	hypothetical protein
+4954-98	KKBGAPLG_01956	Q04IK8	Nucleoside diphosphate kinase
+4954-98	KKBGAPLG_01957	Q04IK7	DNA-directed RNA polymerase beta' subunit
+4954-98	KKBGAPLG_01958	A0A0B7LVL7	DNA-directed RNA polymerase beta subunit
+4954-98	KKBGAPLG_01959		Lacto-rpoB
+4954-98	KKBGAPLG_01959		
+4954-98	KKBGAPLG_01960		tRNA-Cys(gca)
+4954-98	KKBGAPLG_01960		
+4954-98	KKBGAPLG_01961	C1CGP5	Putative hemolysin
+4954-98	KKBGAPLG_01962	C1CGP6	DNA-entry nuclease
+4954-98	KKBGAPLG_01963	Q03159	Competence-associated EpuA protein
+4954-98	KKBGAPLG_01964	Q97NQ4	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+4954-98	KKBGAPLG_01965	C1CGQ0	Lon-like protease
+4954-98	KKBGAPLG_01966	C1CGQ1	Phosphopantetheine adenylyltransferase
+4954-98	KKBGAPLG_01967	C1CA15	16S rRNA (guanine(966)-N(2))-methyltransferase
+4954-98	KKBGAPLG_01968	Q97NQ0	Aspartate--ammonia ligase
+4954-98	KKBGAPLG_01969	C1CGQ4	Membrane protein
+4954-98	KKBGAPLG_01970	A0A0E8P6L3	rRNA methylase
+4954-98	KKBGAPLG_01971	Q8DNE2	Putative nucleoside phosphatase
+4954-98	KKBGAPLG_01972	A0A0E7TR12	Inner membrane protein translocase component YidC1
+4954-98	KKBGAPLG_01973	A0A0B7L6D8	Pyruvate formate-lyase activating enzyme
+4954-98	KKBGAPLG_01974	A0A0E7TTS1	Diaminopimelate decarboxylase
+4954-98	KKBGAPLG_01975	C1CGQ9	PurR: transcription regulator associated with purine metabolism
+4954-98	KKBGAPLG_01976	C1CA24	3'->5' exoribonuclease YhaM
+4954-98	KKBGAPLG_01977	A0A7X2XZ17	DNA recombination protein RmuC
+4954-98	KKBGAPLG_01978	A0A0I6XK48	Thiamin pyrophosphokinase
+4954-98	KKBGAPLG_01979	C1CGR3	Ribulose-phosphate 3-epimerase
+4954-98	KKBGAPLG_01980	C1CGR4	Ribosome small subunit-stimulated GTPase RsgA
+4954-98	KKBGAPLG_01981	C1CGR5	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase
+4954-98	KKBGAPLG_01982	C1CGR6	Hypothetical protein
+4954-98	KKBGAPLG_01983	Q8DND2	ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_01984	A0A6I3U7X9	Putative immunity protein
+4954-98	KKBGAPLG_01985	B2IM57	Hypothetical protein
+4954-98	KKBGAPLG_01986	A0A4J2A0R4	Transcriptional regulator
+4954-98	KKBGAPLG_01987	A0A0I6Y6A1	Ribonuclease M5
+4954-98	KKBGAPLG_01988	A0A660FPV7	Putative deoxyribonuclease TatD
+4954-98	KKBGAPLG_01989	C1CGS3	hypothetical protein
+4954-98	KKBGAPLG_01990	Q04IH6	LSU ribosomal protein L34p
+4954-98	KKBGAPLG_01991	C1CC84	ISSpn8 transposase
+4954-98	KKBGAPLG_01992	C1CGS5	Alanine transaminase
+4954-98	KKBGAPLG_01993	A0A0U0EM10	hypothetical protein
+4954-98	KKBGAPLG_01994	C1CGS7	Universal stress protein family protein
+4954-98	KKBGAPLG_01995	A0A0E8P5D6	Hydrolase%2C HAD superfamily
+4954-98	KKBGAPLG_01996	C1CA43	L-asparaginase
+4954-98	KKBGAPLG_01997	C1CGT1	Catabolite control protein A
+4954-98	KKBGAPLG_01998	C1CGT2	Two-component system response regulator
+4954-98	KKBGAPLG_01999	C1CGT3	Two-component system sensor histidine kinase
+4954-98	KKBGAPLG_02000	C1CGT4	ABC transporter%2C permease protein
+4954-98	KKBGAPLG_02001	C1CGT5	ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_02002	C1CGT6	Hypothetical protein
+4954-98	KKBGAPLG_02003	C1CGT7	Hypothetical protein
+4954-98	KKBGAPLG_02004		tRNA-Pro(tgg)
+4954-98	KKBGAPLG_02004		
+4954-98	KKBGAPLG_02005		tRNA-Arg(acg)
+4954-98	KKBGAPLG_02005		
+4954-98	KKBGAPLG_02006		tRNA-Leu(taa)
+4954-98	KKBGAPLG_02006		
+4954-98	KKBGAPLG_02007		tRNA-Gly(gcc)
+4954-98	KKBGAPLG_02007		
+4954-98	KKBGAPLG_02008		tRNA-Thr(tgt)
+4954-98	KKBGAPLG_02008		
+4954-98	KKBGAPLG_02009		tRNA-Leu(tag)
+4954-98	KKBGAPLG_02009		
+4954-98	KKBGAPLG_02010		tRNA-Lys(ttt)
+4954-98	KKBGAPLG_02010		
+4954-98	KKBGAPLG_02011		tRNA-Asp(gtc)
+4954-98	KKBGAPLG_02011		
+4954-98	KKBGAPLG_02012		tRNA-Val(tac)
+4954-98	KKBGAPLG_02012		
+4954-98	KKBGAPLG_02013		5S ribosomal RNA
+4954-98	KKBGAPLG_02013		
+4954-98	KKBGAPLG_02014		23S ribosomal RNA
+4954-98	KKBGAPLG_02014		
+4954-98	KKBGAPLG_02015		tRNA-Ala(tgc)
+4954-98	KKBGAPLG_02015		
+4954-98	KKBGAPLG_02016		16S ribosomal RNA
+4954-98	KKBGAPLG_02016		
+4954-98	KKBGAPLG_02017		tRNA-Glu(ttc)
+4954-98	KKBGAPLG_02017		
+4954-98	KKBGAPLG_02018	Q9R2W8	Competence-specific sigma factor ComX
+4954-98	KKBGAPLG_02019	C1CGT9	Transcription antitermination protein NusG
+4954-98	KKBGAPLG_02020	Q8DNB7	Protein translocase subunit SecE
+4954-98	KKBGAPLG_02021	C1CGU2	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
+4954-98	KKBGAPLG_02022	Q8DNB5	RluD-like protein
+4954-98	KKBGAPLG_02023	C1CGU4	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
+4954-98	KKBGAPLG_02024	A0A0U0FY76	ABC transporter%2C permease protein
+4954-98	KKBGAPLG_02025	B2IMI9	IS630 family transposase IS630-Spn1
+4954-98	KKBGAPLG_02026	C1CH95	IS630 family transposase IS630-Spn1
+4954-98	KKBGAPLG_02027	Q8DNB2	Quinolinate phosphoribosyltransferase
+4954-98	KKBGAPLG_02028	C1CGU8	Malonate permease
+4954-98	KKBGAPLG_02029	A0AAE9R2A4	hypothetical protein
+4954-98	KKBGAPLG_02030	Q8DNB0	Transcriptional regulator%2C GntR family
+4954-98	KKBGAPLG_02031	A0A6I3TAP2	6-phospho-beta-glucosidase
+4954-98	KKBGAPLG_02032	C1CGV2	Cellobiose-specific PTS IIC component
+4954-98	KKBGAPLG_02033	C1CA68	Cellobiose-specific PTS IIB component
+4954-98	KKBGAPLG_02034	B2IMJ8	Cellobiose-specific PTS IIA component
+4954-98	KKBGAPLG_02035	C1CGV5	Bifunctional acetaldehyde dehydrogenase/alcohol dehydrogenase
+4954-98	KKBGAPLG_02036	Q8CY89	Hypothetical protein
+4954-98	KKBGAPLG_02037	C1CGV8	Low molecular weight protein tyrosine phosphatase
+4954-98	KKBGAPLG_02038	Q8DNA3	Preprotein translocase subunit YajC
+4954-98	KKBGAPLG_02039	C1CGW0	Transketolase
+4954-98	KKBGAPLG_02040	Q8DNA1	Putative L-ascorbate-6-phosphate lactonase UlaG
+4954-98	KKBGAPLG_02041	C1CGW2	Transcriptional antiterminator
+4954-98	KKBGAPLG_02042	A0A4H9FP53	L-ribulose-5-phosphate 4-epimerase
+4954-98	KKBGAPLG_02043	C1CA79	L-xylulose 5-phosphate 3-epimerase
+4954-98	KKBGAPLG_02044	C1CA80	3-keto-L-gulonate 6-phosphate decarboxylase
+4954-98	KKBGAPLG_02045	Q8DN96	Ascorbate-specific PTS IIA component
+4954-98	KKBGAPLG_02046	Q8DN95	Ascorbate-specific PTS IIB component
+4954-98	KKBGAPLG_02047	C1CGW8	Ascorbate-specific PTS IIC component
+4954-98	KKBGAPLG_02048	A0A098ZIM7	Sakacin A production response regulator
+4954-98	KKBGAPLG_02049	C1CGX0	KH domain RNA-binding protein
+4954-98	KKBGAPLG_02050	C1CGX1	Inner membrane protein translocase component YidC2
+4954-98	KKBGAPLG_02051	Q8DN92	Ribonuclease P protein component
+4954-98	KKBGAPLG_02052	A0A4J2AIC3	Acetate kinase
+4954-98	KKBGAPLG_02053	A0A4G1WG42	Adenine-specific methyltransferase
+4954-98	KKBGAPLG_02054	A0A064C1I1	hypothetical protein
+4954-98	KKBGAPLG_02055	A0A064C488	tRNA 5-carboxymethoxyuridine methyltransferase
+4954-98	KKBGAPLG_02056	A0A064C498	Late competence protein ComGG
+4954-98	KKBGAPLG_02057	C1CGX8	Late competence protein ComGF
+4954-98	KKBGAPLG_02058	A0A0B7KTY0	Late competence protein ComGE
+4954-98	KKBGAPLG_02059	B2IMM5	Late competence protein ComGD
+4954-98	KKBGAPLG_02060	C1CGY1	Late competence protein ComGC
+4954-98	KKBGAPLG_02061	A0A4J2AI34	Late competence protein ComGB
+4954-98	KKBGAPLG_02062	C1CGY3	Late competence protein ComGA
+4954-98	KKBGAPLG_02063	Q8DN85	DNA-binding protein
+4954-98	KKBGAPLG_02064	Q8DN84	Putative Zn-dependent alcohol dehydrogenase
+4954-98	KKBGAPLG_02065	B2IMN1	N-acetylglucosamine-6-phosphate deacetylase
+4954-98	KKBGAPLG_02066	C1CGY7	Acyltransferase family protein
+4954-98	KKBGAPLG_02067	Q04IB3	tRNA-guanine transglycosylase
+4954-98	KKBGAPLG_02068	C1CGY9	Membrane protein
+4954-98	KKBGAPLG_02069	Q97NG9	Pyrrolidone-carboxylate peptidase
+4954-98	KKBGAPLG_02070	C1CGZ1	Hypothetical protein
+4954-98	KKBGAPLG_02071	C1CGZ2	hypothetical protein
+4954-98	KKBGAPLG_02072	C1CGZ3	Surface immunogenic protein
+4954-98	KKBGAPLG_02073	Q8CY81	Hydrolase%2C haloacid dehalogenase-like family
+4954-98	KKBGAPLG_02074	A0A0B7L696	Multi antimicrobial extrusion family transporter
+4954-98	KKBGAPLG_02075	A0A4U8XEA0	Threonine synthase
+4954-98	KKBGAPLG_02076	A0A064C1J7	Hypothetical protein
+4954-98	KKBGAPLG_02077		tRNA-Leu(caa)
+4954-98	KKBGAPLG_02077		
+4954-98	KKBGAPLG_02078		tRNA-Leu(caa)
+4954-98	KKBGAPLG_02078		
+4954-98	KKBGAPLG_02079		tRNA-Gln(ttg)
+4954-98	KKBGAPLG_02079		
+4954-98	KKBGAPLG_02080		tRNA-His(gtg)
+4954-98	KKBGAPLG_02080		
+4954-98	KKBGAPLG_02081		tRNA-Trp(cca)
+4954-98	KKBGAPLG_02081		
+4954-98	KKBGAPLG_02082		tRNA-Tyr(gta)
+4954-98	KKBGAPLG_02082		
+4954-98	KKBGAPLG_02083		tRNA-Phe(gaa)
+4954-98	KKBGAPLG_02083		
+4954-98	KKBGAPLG_02084		tRNA-Met(cat)
+4954-98	KKBGAPLG_02084		
+4954-98	KKBGAPLG_02085		tRNA-Ser(tga)
+4954-98	KKBGAPLG_02085		
+4954-98	KKBGAPLG_02086		tRNA-Ile(gat)
+4954-98	KKBGAPLG_02086		
+4954-98	KKBGAPLG_02087		tRNA-Gly(tcc)
+4954-98	KKBGAPLG_02087		
+4954-98	KKBGAPLG_02088		tRNA-Val(tac)
+4954-98	KKBGAPLG_02088		
+4954-98	KKBGAPLG_02089		5S ribosomal RNA
+4954-98	KKBGAPLG_02089		
+4954-98	KKBGAPLG_02090		23S ribosomal RNA
+4954-98	KKBGAPLG_02090		
+4954-98	KKBGAPLG_02091		tRNA-Ala(tgc)
+4954-98	KKBGAPLG_02091		
+4954-98	KKBGAPLG_02092		16S ribosomal RNA
+4954-98	KKBGAPLG_02092		
+4954-98	KKBGAPLG_02093		tRNA-Glu(ttc)
+4954-98	KKBGAPLG_02093		
+4954-98	KKBGAPLG_02094	A0AA95DDT3	Cytidine/deoxycytidylate deaminase family protein
+4954-98	KKBGAPLG_02095	B5E378	Glutamyl-tRNA synthetase
+4954-98	KKBGAPLG_02096	Q8DN74	Glucose-6-phosphate isomerase
+4954-98	KKBGAPLG_02097	C1CH02	Glutamine amidotransferase%2C class I
+4954-98	KKBGAPLG_02098	C1CH03	Multidrug resistance ABC transporter ATP-binding and permease protein
+4954-98	KKBGAPLG_02099	C1CH04	hypothetical protein
+4954-98	KKBGAPLG_02100	C1CH05	Multidrug resistance ABC transporter ATP-binding and permease protein
+4954-98	KKBGAPLG_02101		patAB
+4954-98	KKBGAPLG_02101		
+4954-98	KKBGAPLG_02102	B2IMZ6	DNA mismatch repair protein HexA
+4954-98	KKBGAPLG_02103		SpR10_sRNA
+4954-98	KKBGAPLG_02103		
+4954-98	KKBGAPLG_02104	P0A2Y3	Arginine pathway regulatory protein ArgR1
+4954-98	KKBGAPLG_02105	Q8DN69	Arginyl-tRNA synthetase
+4954-98	KKBGAPLG_02106	A0A4G4E311	IS1381 transposase OrfB
+4954-98	KKBGAPLG_02107	A0A6I3T908	Putative cupin superfamily protein
+4954-98	KKBGAPLG_02108	Q9S1J6	Two-component system response regulator PnpR
+4954-98	KKBGAPLG_02109	B2IN02	Two-component system sensor histidine kinase PnpS
+4954-98	KKBGAPLG_02110	Q8DN64	Phosphate ABC transporter periplasmic phosphate-binding protein PstS1
+4954-98	KKBGAPLG_02111	Q8DN63	Phosphate transport system permease protein PstC1
+4954-98	KKBGAPLG_02112	Q9X4T2	Phosphate transport system permease protein PstA1
+4954-98	KKBGAPLG_02113	C1CH16	Phosphate transport ATP-binding protein PstB1
+4954-98	KKBGAPLG_02114	P0A3Y8	Phosphate transport system regulatory protein PhoU1
+4954-98	KKBGAPLG_02115	Q8DN60	IS1380 family transposase ISSpn5
+4954-98	KKBGAPLG_02116	A0AA95IKJ6	Transcriptional regulator
+4954-98	KKBGAPLG_02117	Q8DN59	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+4954-98	KKBGAPLG_02118	C1CH21	UTP--glucose-1-phosphate uridylyltransferase
+4954-98	KKBGAPLG_02119	Q8DN57	Rhomboid family serine protease
+4954-98	KKBGAPLG_02120	C1CH23	5-formyltetrahydrofolate cyclo-ligase
+4954-98	KKBGAPLG_02121	Q8DN55	N-acetyl-L%2CL-diaminopimelate deacetylase
+4954-98	KKBGAPLG_02122	Q8DN54	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+4954-98	KKBGAPLG_02123	Q8DN53	Drug/metabolite transporter superfamily permease
+4954-98	KKBGAPLG_02124	Q75YK0	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1B
+4954-98	KKBGAPLG_02125	Q97NE3	Tyrosyl-tRNA synthetase
+4954-98	KKBGAPLG_02126	A0A4N9NIV2	Lead%2C cadmium%2C zinc and mercury transporting ATPase
+4954-98	KKBGAPLG_02127	Q8CY77	Hypothetical protein
+4954-98	KKBGAPLG_02128	C1CH31	23S rRNA (guanine(745)-N(1))-methyltransferase
+4954-98	KKBGAPLG_02129	A0A4J1Y8G3	hypothetical protein
+4954-98	KKBGAPLG_02130	C1CH33	Hypothetical protein
+4954-98	KKBGAPLG_02131	C1CH34	Hypothetical protein
+4954-98	KKBGAPLG_02132	C1CH35	Maltodextrin phosphorylase
+4954-98	KKBGAPLG_02133	P0A3Q1	4-alpha-glucanotransferase (amylomaltase)
+4954-98	KKBGAPLG_02134	C1CH37	Maltose/maltodextrin ABC transporter%2C substrate binding periplasmic protein MalX
+4954-98	KKBGAPLG_02135	P0A4N2	Maltose/maltodextrin ABC transporter%2C permease protein MalC
+4954-98	KKBGAPLG_02136	C1CH39	Maltose/maltodextrin ABC transporter%2C permease protein MalD
+4954-98	KKBGAPLG_02137	C1CH40	Maltodextrose utilization protein MalA
+4954-98	KKBGAPLG_02138	C1CH41	Maltose operon transcriptional repressor MalR%2C LacI family
+4954-98	KKBGAPLG_02139	A0A4J2ARV1	hypothetical protein
+4954-98	KKBGAPLG_02140	C1CH43	Integral membrane protein
+4954-98	KKBGAPLG_02141	C1CH44	Aspartyl-tRNA synthetase
+4954-98	KKBGAPLG_02142	C1CH45	Hypothetical protein
+4954-98	KKBGAPLG_02143	Q8CY74	Hypothetical protein
+4954-98	KKBGAPLG_02144	C1CH47	Membrane-bound protease%2C CAAX family
+4954-98	KKBGAPLG_02145	B2IN36	Hypothetical protein
+4954-98	KKBGAPLG_02146	C1CH49	Hypothetical protein
+4954-98	KKBGAPLG_02147	C1CH50	Transcriptional regulator%2C Cro/CI family
+4954-98	KKBGAPLG_02148	A0A7X2XL73	Hypothetical protein
+4954-98	KKBGAPLG_02149	C1CH52	Histidyl-tRNA synthetase
+4954-98	KKBGAPLG_02150	C1CH53	Macrolide-efflux protein
+4954-98	KKBGAPLG_02151	I6L8M4	IS1380 family transposase ISSpn5
+4954-98	KKBGAPLG_02152	A0A4N9N7Y9	Positive transcriptional regulator%2C MutR family
+4954-98	KKBGAPLG_02153	C1CH57	Putative aromatic ring hydroxylating enzyme
+4954-98	KKBGAPLG_02154	Q04I44	Dihydroxy-acid dehydratase
+4954-98	KKBGAPLG_02155	A0A0T8CD92	hypothetical protein
+4954-98	KKBGAPLG_02156	A0A0B7M913	hypothetical protein
+4954-98	KKBGAPLG_02157	A0A0U0G2T3	Putative transport protein SgaT
+4954-98	KKBGAPLG_02158	Q8CY69	Putative PTS IIB component
+4954-98	KKBGAPLG_02159	A0A4J2AL08	Transcription antiterminator%2C BglG family
+4954-98	KKBGAPLG_02160	A0A4G5DD75	Membrane protease family protein
+4954-98	KKBGAPLG_02161	Q8CY67	Hypothetical protein
+4954-98	KKBGAPLG_02162	Q8CWN3	LSU ribosomal protein L32p
+4954-98	KKBGAPLG_02163	Q04I36	LSU ribosomal protein L33p
+4954-98	KKBGAPLG_02164	C1CH69	Choline-binding protein CbpN
+4954-98	KKBGAPLG_02165	C1CH70	hypothetical protein
+4954-98	KKBGAPLG_02166	A0A4J1QMV3	hypothetical protein
+4954-98	KKBGAPLG_02167	A0A4J1QMY7	IS1381 transposase OrfB
+4954-98	KKBGAPLG_02168	B2IN49	hypothetical protein
+4954-98	KKBGAPLG_02169	A0A0H2US30	hypothetical protein
+4954-98	KKBGAPLG_02170	A0A4J2AN64	Glycosyl hydrolase-related protein
+4954-98	KKBGAPLG_02171	A0A4N9N831	N-acetylmannosamine kinase
+4954-98	KKBGAPLG_02172	A0A4J1SXA1	Alpha-mannosidase
+4954-98	KKBGAPLG_02173	C1CH78	Hypothetical protein
+4954-98	KKBGAPLG_02174	C1CH79	Alpha-1%2C2-mannosidase
+4954-98	KKBGAPLG_02175	C1CH80	Glycosyl hydrolase family 29 alpha-L-fucosidase
+4954-98	KKBGAPLG_02176	C1CU66	Arginine deiminase
+4954-98	KKBGAPLG_02177	A0A0B7LE02	Ornithine carbamoyltransferase
+4954-98	KKBGAPLG_02178	Q8DN28	Carbamate kinase
+4954-98	KKBGAPLG_02179	C1CHE9	Arginine/ornithine antiporter ArcD
+4954-98	KKBGAPLG_02180	Q8DN27	Putative Xaa-His dipeptidase
+4954-98	KKBGAPLG_02181	C1CHF2	IgA1 protease
+4954-98	KKBGAPLG_02182	C1CHF3	hypothetical protein
+4954-98	KKBGAPLG_02183	Q8DN26	Putative stomatin/prohibitin-family membrane protease subunit YbbK
+4954-98	KKBGAPLG_02184	C1CHF6	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization
+4954-98	KKBGAPLG_02185	C1CHF7	Bifunctional L-fucose isomerase/D-arabinose ketol-isomerase
+4954-98	KKBGAPLG_02186	C1CHF8	Fucolectin-related protein
+4954-98	KKBGAPLG_02187	C1CHF9	Putative large secreted protein
+4954-98	KKBGAPLG_02188	Q8DN22	Mannose-specific PTS IID component
+4954-98	KKBGAPLG_02189	Q8DN21	Mannose-specific PTS IIC component
+4954-98	KKBGAPLG_02190	C1CHG2	PTS IIB component
+4954-98	KKBGAPLG_02191	B1I9X4	PTS IIA component
+4954-98	KKBGAPLG_02192	A0A0H2US10	L-fucose mutarotase
+4954-98	KKBGAPLG_02193	A0A558TAT7	L-fuculose phosphate aldolase
+4954-98	KKBGAPLG_02194	C1CHG6	L-fuculokinase
+4954-98	KKBGAPLG_02195	C1CHG7	L-fucose operon activator
+4954-98	KKBGAPLG_02196		SpF66_sRNA
+4954-98	KKBGAPLG_02196		
+4954-98	KKBGAPLG_02197		SpF66_sRNA
+4954-98	KKBGAPLG_02197		
+4954-98	KKBGAPLG_02198	C1CHG8	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
+4954-98	KKBGAPLG_02199	C1CHG9	Zinc ABC transporter%2C permease protein AdcB
+4954-98	KKBGAPLG_02200	C1CHH0	Zinc ABC transporter%2C ATP-binding protein AdcC
+4954-98	KKBGAPLG_02201	Q8DN14	Transcriptional repressor AdcR for Zn(2+)-responsive expression
+4954-98	KKBGAPLG_02202	A0A0I7RT54	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+4954-98	KKBGAPLG_02203	Q04HZ9	D-alanine--poly(phosphoribitol) ligase subunit 2
+4954-98	KKBGAPLG_02204	A0A0B7L8I4	D-alanyl transfer protein DltB
+4954-98	KKBGAPLG_02205	A0A558ZZ10	D-alanyl transfer protein DltB
+4954-98	KKBGAPLG_02206	C1CHH7	D-alanine--poly(phosphoribitol) ligase subunit 1
+4954-98	KKBGAPLG_02207	B2INJ7	Macrolide-efflux protein
+4954-98	KKBGAPLG_02208	C1CHI0	hypothetical protein
+4954-98	KKBGAPLG_02209		group-II-D1D4-1
+4954-98	KKBGAPLG_02209		
+4954-98	KKBGAPLG_02210		group-II-D1D4-3
+4954-98	KKBGAPLG_02210		
+4954-98	KKBGAPLG_02211	C1CHI1	Hypothetical protein
+4954-98	KKBGAPLG_02212	C1CBF9	hypothetical protein
+4954-98	KKBGAPLG_02213	C1CHI4	Glycerol uptake facilitator protein
+4954-98	KKBGAPLG_02214	C1CHI5	Alpha-glycerophosphate oxidase
+4954-98	KKBGAPLG_02215	Q04HZ0	Glycerol kinase
+4954-98	KKBGAPLG_02216	C1CHI7	Trans-acting positive regulator
+4954-98	KKBGAPLG_02217	C1CHI8	Chaperonin%2C heat shock protein 33
+4954-98	KKBGAPLG_02218	C1CHI9	tRNA dihydrouridine synthase B
+4954-98	KKBGAPLG_02219	F2WWN7	Choline-binding protein A
+4954-98	KKBGAPLG_02220	A0A0B7LRI8	Rhomboid family integral membrane protein
+4954-98	KKBGAPLG_02221	C1CBG8	Two-component system sensor histidine kinase
+4954-98	KKBGAPLG_02222	A0A0B7M3U6	Two-component system response regulator
+4954-98	KKBGAPLG_02223	A0AAD2I4I6	ATP-dependent Clp protease ATP-binding subunit ClpC
+4954-98	KKBGAPLG_02224	C1CHJ5	Transcriptional regulator CtsR
+4954-98	KKBGAPLG_02225	Q8DMZ8	Thiamin ABC transporter ThiZ%2C ATPase component
+4954-98	KKBGAPLG_02226	Q8DMZ7	Thiamin ABC transporter ThiY%2C substrate-binding component
+4954-98	KKBGAPLG_02227	C1CHJ8	Thiamin ABC transporter ThiX%2C transmembrane component
+4954-98	KKBGAPLG_02228	Q8DMZ5	Cytoplasmic thiamin-binding component of thiamin ABC transporter
+4954-98	KKBGAPLG_02229		TPP
+4954-98	KKBGAPLG_02229		
+4954-98	KKBGAPLG_02230	C1CHK0	Choline-binding protein D
+4954-98	KKBGAPLG_02231	Q8DMZ3	Hypothetical protein
+4954-98	KKBGAPLG_02232	Q8DMZ2	Replicative DNA helicase DnaC
+4954-98	KKBGAPLG_02233	Q04HX2	LSU ribosomal protein L9p
+4954-98	KKBGAPLG_02234	C1CHK4	DHH family phosphoesterase Pde1
+4954-98	KKBGAPLG_02235	C1CHK5	Ribosome hibernation promotion factor%2C long form
+4954-98	KKBGAPLG_02236	C1CHK6	Phosphoribosyltransferase domain protein%2C ComF operon protein C
+4954-98	KKBGAPLG_02237	C1CHK7	DNA transporter ATPase%2C ComF operon protein A
+4954-98	KKBGAPLG_02238	C1CHK8	Protein co-occurring with transport systems
+4954-98	KKBGAPLG_02239	C1CHK9	Cysteine synthase
+4954-98	KKBGAPLG_02240	C1CHL0	hypothetical protein
+4954-98	KKBGAPLG_02241		SpF51_sRNA
+4954-98	KKBGAPLG_02241		
+4954-98	KKBGAPLG_02242	Q04HW4	Translation elongation factor Ts
+4954-98	KKBGAPLG_02243	C1CUD2	SSU ribosomal protein S2p (SAe)
+4954-98	KKBGAPLG_02244	C1CHL5	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
+4954-98	KKBGAPLG_02245	C1CHL6	Cell shape-determining protein MreD
+4954-98	KKBGAPLG_02246	C1CHL7	Cell shape-determining protein MreC
+4954-98	KKBGAPLG_02247	Q8DMY1	Transmembrane component of general energizing module of ECF transporter
+4954-98	KKBGAPLG_02248	Q97N51	ATPase component of general energizing module of ECF transporter
+4954-98	KKBGAPLG_02249	C1CHM0	ATPase component of general energizing module of ECF transporter
+4954-98	KKBGAPLG_02250	Q8DMX8	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+4954-98	KKBGAPLG_02251	A0A7X2XKA5	Transcriptional regulator
+4954-98	KKBGAPLG_02252	C1CHM3	Peptidase%2C M16 family
+4954-98	KKBGAPLG_02253	A0A4N5IZQ9	Zinc protease
+4954-98	KKBGAPLG_02254	Q8DMX4	Hypothetical protein
+4954-98	KKBGAPLG_02255	C1CHM6	DNA recombination and repair protein RecF
+4954-98	KKBGAPLG_02256	Q8DMX2	Inosine-5'-monophosphate dehydrogenase
+4954-98	KKBGAPLG_02257	C1CHM8	Tryptophanyl-tRNA synthetase
+4954-98	KKBGAPLG_02258	C1CHM9	ABC transporter%2C ATP-binding protein
+4954-98	KKBGAPLG_02259	C1CHN0	ABC transporter%2C permease protein
+4954-98	KKBGAPLG_02260	C1CHN2	hypothetical protein
+4954-98	KKBGAPLG_02261	C1CHN3	hypothetical protein
+4954-98	KKBGAPLG_02262	C1CHN4	Transcriptional regulator%2C AcrR family
+4954-98	KKBGAPLG_02263		tRNA-Asn(gtt)
+4954-98	KKBGAPLG_02263		
+4954-98	KKBGAPLG_02264		tRNA-Glu(ttc)
+4954-98	KKBGAPLG_02264		
+4954-98	KKBGAPLG_02265	Q8DMW5	Two-component system response regulator ComE
+4954-98	KKBGAPLG_02266	C1CHN6	Two-component system sensor histidine kinase ComD
+4954-98	KKBGAPLG_02267	Q9WW44	Competence-stimulating peptide precursor ComC
+4954-98	KKBGAPLG_02268		tRNA-Arg(tct)
+4954-98	KKBGAPLG_02268		
+4954-98	KKBGAPLG_02269	Q04HU2	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
+4954-98	KKBGAPLG_02270	B2IP00	Serine protease%2C DegP/HtrA
+4954-98	KKBGAPLG_02271	A0A0B7LQV2	Chromosome partitioning protein ParB
+4954-98	KKBGAPLG_02272	Q8DRQ4	Chromosomal replication initiator protein DnaA
+4954-98	KKBGAPLG_02273	A0A4M3JGA0	DNA polymerase III beta subunit
+4954-98	KKBGAPLG_02274	A0A4K2BVZ4	hypothetical protein
+4954-98	KKBGAPLG_02275	A0AAE4FZ62	hypothetical protein
+4954-98	KKBGAPLG_02276	A0A4K2BVT8	Tyrosine recombinase XerC
+4954-98	KKBGAPLG_02277	A0A062WSH4	hypothetical protein
+4954-98	KKBGAPLG_02278	A0A0D6J5W2	hypothetical protein
+4954-98	KKBGAPLG_02279	A0A4K2BVS7	hypothetical protein
+4954-98	KKBGAPLG_02280	A0A062WVS8	hypothetical protein
+4954-98	KKBGAPLG_02281	A0A4V0IS53	hypothetical protein
+4954-98	KKBGAPLG_02282	A0A098ANM2	hypothetical protein
+4954-98	KKBGAPLG_02283	A0A4L2H725	hypothetical protein
+4954-98	KKBGAPLG_02284	A0A4L2H8N8	hypothetical protein
+4954-98	KKBGAPLG_02285	A0A098APR9	hypothetical protein
+4954-98	KKBGAPLG_02286	A0A098AND2	hypothetical protein
+4954-98	KKBGAPLG_02287	A0A4L2H716	hypothetical protein
+4954-98	KKBGAPLG_02288	A0A098ANC5	hypothetical protein
+4954-98	KKBGAPLG_02289	A0AA95D967	hypothetical protein
+4954-98	KKBGAPLG_02290	A0A0E8ZPI9	hypothetical protein
+4954-98	KKBGAPLG_02291	A0A4K2BVE4	hypothetical protein
+4954-98	KKBGAPLG_02292	A0AA86XYD1	ABC transporter ATP-binding/permease protein
+4954-98	KKBGAPLG_02293	A0A0H2UQN6	ABC transporter ATP-binding/permease protein
+4954-98	KKBGAPLG_02294	A0A0H2UQG0	Methylthioadenosine deaminase
+4954-98	KKBGAPLG_02295		L10_leader
+4954-98	KKBGAPLG_02295		
+4954-98	KKBGAPLG_02296	Q04JZ3	LSU ribosomal protein L10p (P0)
+4954-98	KKBGAPLG_02297	Q04JZ4	LSU ribosomal protein L7/L12 (P1/P2)
+4954-98	KKBGAPLG_02298		rli38
+4954-98	KKBGAPLG_02298		
+4954-98	KKBGAPLG_02299	B1ICE4	Tn5253 putative CAAX amino terminal protease
+4954-98	KKBGAPLG_02300	C1CET6	Sialic acid utilization regulator%2C RpiR family
+4954-98	KKBGAPLG_02301	Q97Q95	N-acetylmannosamine-6-phosphate 2-epimerase
+4954-98	KKBGAPLG_02302	A0A4H5CJI8	Putative flavin adenine dinucleotide (FAD)-dependent flavoprotein WrbA
+4954-98	KKBGAPLG_02303	A0A6G2CYN8	Lanthionine biosynthesis protein LanM
+4954-98	KKBGAPLG_02304	A0A6I3UTD4	Lanthionine biosynthesis protein LanM
+4954-98	KKBGAPLG_02305	A0A6G2DNQ3	Lanthionine biosynthesis protein LanM
+4954-98	KKBGAPLG_02306	A0A6G2DN66	Lanthionine biosynthesis protein LanM
+4954-98	KKBGAPLG_02307	A0A0T7ICJ4	Hypothetical protein
+4954-98	KKBGAPLG_02308	A0A4J2B9P6	Acetyltransferase
+4954-98	KKBGAPLG_02309	A0A4J1T886	Acetyltransferase
+4954-98	KKBGAPLG_02310	A0A6G2D9D5	hypothetical protein
+4954-98	KKBGAPLG_02311	A0A6G2D9D5	Transcriptional regulator LytR
+4954-98	KKBGAPLG_02312	A0A654UB53	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+4954-98	KKBGAPLG_02313	D4I4U9	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucleotide amidase
+4954-98	KKBGAPLG_02314	A0A4J2FA40	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucleotide amidase
+4954-98	KKBGAPLG_02315	A0A6G2DA49	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucleotide amidase
+4954-98	KKBGAPLG_02316	A0A7U3NRC7	DNA recombination/repair protein RecA
+4954-98	KKBGAPLG_02317	A0A4J1Z2Z0	DNA recombination/repair protein RecA
+4954-98	KKBGAPLG_02318	A0A4J1RJH5	MATE efflux family protein DinF
+4954-98	KKBGAPLG_02319	Q8KLP2	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+4954-98	KKBGAPLG_02320	A0A0T8ACV9	Putative toxin
+4954-98	KKBGAPLG_02321	C1C9K3	Putative toxin
+4954-98	KKBGAPLG_02322	A0A0E8Z800	hypothetical protein
+4954-98	KKBGAPLG_02323	C1C9K1	hypothetical protein
+4954-98	KKBGAPLG_02324	Q8CYA9	hypothetical protein
+4954-98	KKBGAPLG_02325	A0A5C5EIG3	Hypothetical protein
+4954-98	KKBGAPLG_02326	B1I8P3	Hypothetical protein
+4954-98	KKBGAPLG_02327	A0AAE9TZY3	IS1381 transposase OrfB
+4954-98	KKBGAPLG_02328	B1I8P1	hypothetical protein
+4954-98	KKBGAPLG_02329	B1I8P0	Alpha-D-glucose 1-phosphate phosphatase YihX
+4954-98	KKBGAPLG_02330	B1I8N9	Mg(2+)-transport-ATPase-associated protein MgtC
+4954-98	KKBGAPLG_02331	A0A4J2G7D4	Iron(III)-transport system permease protein SfuB
+4954-98	KKBGAPLG_02332	D6CHP6	hypothetical protein
+4954-98	KKBGAPLG_02333	D6CHP7	hypothetical protein
+4954-98	KKBGAPLG_02334	D6CHP8	hypothetical protein
+4954-98	KKBGAPLG_02335	A0A098ZDR6	hypothetical protein
+4954-98	KKBGAPLG_02336	B6ZCD7	hypothetical protein
+4954-98	KKBGAPLG_02337	D6CHQ1	hypothetical protein
+4954-98	KKBGAPLG_02338	D6CHQ2	Positive transcriptional regulator%2C MutR family
+4954-98	KKBGAPLG_02339	D6CHQ3	hypothetical protein
+4954-98	KKBGAPLG_02340	B2IS01	Transposase from transposon Tn916
+4954-98	KKBGAPLG_02341	P61624	hypothetical protein
+4954-98	KKBGAPLG_02342		pemK
+4954-98	KKBGAPLG_02342		
+4954-98	KKBGAPLG_02343	B2IQG0	hypothetical protein
+4954-98	KKBGAPLG_02344	B7UTW8	hypothetical protein
+4954-98	KKBGAPLG_02345	B1IC82	hypothetical protein
+4954-98	KKBGAPLG_02346	A0A0A8KY37	Translation elongation factor G
+4954-98	KKBGAPLG_02347		sRNA_0030
+4954-98	KKBGAPLG_02347		
+4954-98	KKBGAPLG_02348	E8ZCR9	hypothetical protein
+4954-98	KKBGAPLG_02349	B2IRZ0	hypothetical protein
+4954-98	KKBGAPLG_02350	E8ZCX8	hypothetical protein
+4954-98	KKBGAPLG_02351	E8ZCX9	hypothetical protein
+4954-98	KKBGAPLG_02352	A0A654UAQ8	hypothetical protein
+4954-98	KKBGAPLG_02353	A0A6G2DDR1	hypothetical protein
+4954-98	KKBGAPLG_02354	A0A7X2XLM2	hypothetical protein
+4954-98	KKBGAPLG_02355	B2IRY7	hypothetical protein
+4954-98	KKBGAPLG_02356	A0A6G2DNK3	hypothetical protein
+4954-98	KKBGAPLG_02357	A0AA95DEB5	Alpha-galactosidase
+4954-98	KKBGAPLG_02358	A0A0B7MFI0	Multiple sugar metabolism operon regulatory protein MsmR
+4954-98	KKBGAPLG_02359	C1C9G9	Bifunctional biotin operon repressor/Biotin--protein ligase
+4954-98	KKBGAPLG_02360		tRNA-Ser(gct)
+4954-98	KKBGAPLG_02360		
+4954-98	KKBGAPLG_02361		tRNA-Ile(gat)
+4954-98	KKBGAPLG_02361		
+4954-98	KKBGAPLG_02362		tRNA-Gly(tcc)
+4954-98	KKBGAPLG_02362		
+4954-98	KKBGAPLG_02363		tRNA-Phe(gaa)
+4954-98	KKBGAPLG_02363		
+4954-98	KKBGAPLG_02364		tRNA-Met(cat)
+4954-98	KKBGAPLG_02364		
+4954-98	KKBGAPLG_02365		tRNA-Ser(tga)
+4954-98	KKBGAPLG_02365		
+4954-98	KKBGAPLG_02366		tRNA-Met(cat)
+4954-98	KKBGAPLG_02366		
+4954-98	KKBGAPLG_02367		tRNA-Met(cat)
+4954-98	KKBGAPLG_02367		
+4954-98	KKBGAPLG_02368		tRNA-Pro(tgg)
+4954-98	KKBGAPLG_02368		
+4954-98	KKBGAPLG_02369		tRNA-Arg(acg)
+4954-98	KKBGAPLG_02369		
+4954-98	KKBGAPLG_02370		tRNA-Leu(taa)
+4954-98	KKBGAPLG_02370		
+4954-98	KKBGAPLG_02371		tRNA-Gly(gcc)
+4954-98	KKBGAPLG_02371		
+4954-98	KKBGAPLG_02372		tRNA-Thr(tgt)
+4954-98	KKBGAPLG_02372		
+4954-98	KKBGAPLG_02373		tRNA-Leu(tag)
+4954-98	KKBGAPLG_02373		
+4954-98	KKBGAPLG_02374		tRNA-Lys(ttt)
+4954-98	KKBGAPLG_02374		
+4954-98	KKBGAPLG_02375		tRNA-Asp(gtc)
+4954-98	KKBGAPLG_02375		
+4954-98	KKBGAPLG_02376		tRNA-Val(tac)
+4954-98	KKBGAPLG_02376		
+4954-98	KKBGAPLG_02377		5S ribosomal RNA
+4954-98	KKBGAPLG_02377		
+4954-98	KKBGAPLG_02378		23S ribosomal RNA
+4954-98	KKBGAPLG_02378		
+4954-98	KKBGAPLG_02379		tRNA-Ala(tgc)
+4954-98	KKBGAPLG_02379		
+4954-98	KKBGAPLG_02380		16S ribosomal RNA
+4954-98	KKBGAPLG_02380		
+4954-98	KKBGAPLG_02381		tRNA-Glu(ttc)
+4954-98	KKBGAPLG_02381		
+4954-98	KKBGAPLG_02382	A0A8B5XJQ6	Competence-specific sigma factor ComX
+4954-98	KKBGAPLG_02383	C1CGT9	Transcription antitermination protein NusG
+4954-98	KKBGAPLG_02384	Q8DNB7	Protein translocase subunit SecE
+4954-98	KKBGAPLG_02385	Q5ZG19	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
+4954-98	KKBGAPLG_02386	Q4TUK8	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
+4954-98	KKBGAPLG_02387	A0A559H5W1	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
+4954-98	KKBGAPLG_02388	C1CA57	hypothetical protein
+4954-98	KKBGAPLG_02389	A0A6G2D872	Thiamin ABC transporter ThiY%2C substrate-binding component
+4954-98	KKBGAPLG_02390	A0A654UDB0	Thiamin ABC transporter ThiY%2C substrate-binding component
+4954-98	KKBGAPLG_02391	A0A4J2GQH7	Thiamin ABC transporter ThiZ%2C ATPase component
+4954-98	KKBGAPLG_02392	C1CHJ5	Transcriptional regulator CtsR
+4954-98	KKBGAPLG_02393	A0A0E8AEC7	ATP-dependent Clp protease ATP-binding subunit ClpC
+4954-98	KKBGAPLG_02394	C1CHJ3	Two-component system response regulator
+4954-98	KKBGAPLG_02395	A0AA95DCF6	Two-component system sensor histidine kinase
+4954-98	KKBGAPLG_02396	A0A0B7MBP2	Rhomboid family integral membrane protein
+4954-98	KKBGAPLG_02397	F2WWM4	hypothetical protein
+4954-98	KKBGAPLG_02398	A0A0B4ZJP4	IS1167 transposase Orf2
+4954-98	KKBGAPLG_02399	A0A4J1R174	IS1167 transposase
+4954-98	KKBGAPLG_02400		Srn266
+4954-98	KKBGAPLG_02400		
+4954-98	KKBGAPLG_02401	A0A6G2DVC9	hypothetical protein
+4954-98	KKBGAPLG_02402	B1I9Z9	tRNA dihydrouridine synthase B
+4954-98	KKBGAPLG_02403	A0A4K9QTA4	Chaperonin%2C heat shock protein 33
+4954-98	KKBGAPLG_02404	A0A0B7KS33	Transketolase
+4954-98	KKBGAPLG_02405	A0AAD2IK19	hypothetical protein
+4954-98	KKBGAPLG_02406	C1CDJ8	IS3 family transposase ISSpn11
+4954-98	KKBGAPLG_02407	A0A4J2FNT5	Lanthionine biosynthesis protein LanL
+4954-98	KKBGAPLG_02408	A0A0U0QE13	hypothetical protein
+4954-98	KKBGAPLG_02409	B2IRC6	hypothetical protein
+4954-98	KKBGAPLG_02410	C1CFJ3	tRNA (adenine(22)-N(1))-methyltransferase
+4954-98	KKBGAPLG_02411	Q8DNY4	Putative GTP cyclohydrolase 1 type 2 protein YbgI
+4954-98	KKBGAPLG_02412	A0AA86Y4D4	Glycine/D-amino acid oxidases family protein
+4954-98	KKBGAPLG_02413	C1CFI9	UDP-glucose 4-epimerase
+4954-98	KKBGAPLG_02414	A0AA86XCD6	Bactoprenol glucosyl transferase
+4954-98	KKBGAPLG_02415	C1CFI7	Ferredoxin
+4954-98	KKBGAPLG_02416	C1C8J3	Hypothetical protein
+4954-98	KKBGAPLG_02417	A0A064C099	Cytidylate kinase
+4954-98	KKBGAPLG_02418	Q8DNZ0	Protein PhnA
+4954-98	KKBGAPLG_02419	A0A149VLE1	Hypothetical protein
+4954-98	KKBGAPLG_02420	A0A9P1Q7L3	hypothetical protein
+4954-98	KKBGAPLG_02421	A0A4J1Y4M4	Hypothetical protein
+4954-98	KKBGAPLG_02422	A0AA86JFS8	Major facilitator superfamily transporter-permease
+4954-98	KKBGAPLG_02423	A0A654UAN9	Major facilitator superfamily transporter-permease
+4954-98	KKBGAPLG_02424	A0A4J2F265	Blood-group-substance endo-1%2C4-beta-galactosidase
+4954-98	KKBGAPLG_02425	A0A0T7L7K5	L-fuculose phosphate aldolase
+4954-98	KKBGAPLG_02426	C1CND0	Bifunctional L-fucose isomerase/D-arabinose ketol-isomerase
+4954-98	KKBGAPLG_02427	A0A0E7XIU7	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization
+4954-98	KKBGAPLG_02428	Q8DN26	Putative stomatin/prohibitin-family membrane protease subunit YbbK
+4954-98	KKBGAPLG_02429	A0A0I6L5H3	hypothetical protein
+4954-98	KKBGAPLG_02430	C1CAZ7	Putative Xaa-His dipeptidase
+4954-98	KKBGAPLG_02431	A0A916P5K0	Arginine/ornithine antiporter ArcD
+4954-98	KKBGAPLG_02432	A0A4J2E7V9	Arginine/ornithine antiporter ArcD
+4954-98	KKBGAPLG_02433	A0AA95IKC0	Carbamate kinase
+4954-98	KKBGAPLG_02434	B1I9W2	Carbamate kinase
+4954-98	KKBGAPLG_02435	A0A4J1YBY5	Carbamate kinase
+4954-98	KKBGAPLG_02436	A0A4J2BIB8	

@@ -1,0 +1,2246 @@
+strain	locus_tag	uniprot	product
+EF3030	KANOAJAN_00001	B2IQZ0	DNA polymerase III beta subunit
+EF3030	KANOAJAN_00002	Q8DRQ4	Chromosomal replication initiator protein DnaA
+EF3030	KANOAJAN_00003	A0A0Y4CTS2	Chromosome partitioning protein ParB
+EF3030	KANOAJAN_00004	B2IP00	Serine protease%2C DegP/HtrA
+EF3030	KANOAJAN_00005	Q04HU2	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
+EF3030	KANOAJAN_00006		tRNA-Arg(tct)
+EF3030	KANOAJAN_00007	Q5QIA8	Competence-stimulating peptide precursor ComC
+EF3030	KANOAJAN_00008	Q8DMW4	Two-component system sensor histidine kinase ComD
+EF3030	KANOAJAN_00009	Q8DMW5	Two-component system response regulator ComE
+EF3030	KANOAJAN_00010		tRNA-Glu(ttc)
+EF3030	KANOAJAN_00011		tRNA-Asn(gtt)
+EF3030	KANOAJAN_00012	Q8DMW6	Transcriptional regulator%2C AcrR family
+EF3030	KANOAJAN_00013	B2INQ0	hypothetical protein
+EF3030	KANOAJAN_00014	B2INP9	hypothetical protein
+EF3030	KANOAJAN_00015	B2INP8	ABC transporter%2C permease protein
+EF3030	KANOAJAN_00016	Q8DMX1	ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_00017	C1CHM8	Tryptophanyl-tRNA synthetase
+EF3030	KANOAJAN_00018	Q8DMX2	Inosine-5'-monophosphate dehydrogenase
+EF3030	KANOAJAN_00019	Q97N44	DNA recombination and repair protein RecF
+EF3030	KANOAJAN_00020	Q8DMX4	Hypothetical protein
+EF3030	KANOAJAN_00021	B2INP2	Zinc protease
+EF3030	KANOAJAN_00022	B2INP1	Peptidase%2C M16 family
+EF3030	KANOAJAN_00023	C1CBK0	Transcriptional regulator
+EF3030	KANOAJAN_00024	B2INN9	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+EF3030	KANOAJAN_00025	C1CHM0	ATPase component of general energizing module of ECF transporter
+EF3030	KANOAJAN_00026	Q97N51	ATPase component of general energizing module of ECF transporter
+EF3030	KANOAJAN_00027	Q8DMY1	Transmembrane component of general energizing module of ECF transporter
+EF3030	KANOAJAN_00028	C1CHL7	Cell shape-determining protein MreC
+EF3030	KANOAJAN_00029	C1CHL6	Cell shape-determining protein MreD
+EF3030	KANOAJAN_00030	C1CHL5	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
+EF3030	KANOAJAN_00031	A0AA95IKA0	SSU ribosomal protein S2p (SAe)
+EF3030	KANOAJAN_00032	Q04HW4	Translation elongation factor Ts
+EF3030	KANOAJAN_00033		SpF51_sRNA
+EF3030	KANOAJAN_00034	B2INN0	IS66 family transposase Orf2
+EF3030	KANOAJAN_00035	A0AA87C5P0	IS630 family transposase ISSpn2
+EF3030	KANOAJAN_00036	B2INM9	hypothetical protein
+EF3030	KANOAJAN_00037	Q8DMY8	Cysteine synthase
+EF3030	KANOAJAN_00038	B2INM7	Protein co-occurring with transport systems
+EF3030	KANOAJAN_00039	C1CBI5	DNA transporter ATPase%2C ComF operon protein A
+EF3030	KANOAJAN_00040	B2INM5	Phosphoribosyltransferase domain protein%2C ComF operon protein C
+EF3030	KANOAJAN_00041	C1CHK5	Ribosome hibernation promotion factor%2C long form
+EF3030	KANOAJAN_00042	B2INM3	DHH family phosphoesterase Pde1
+EF3030	KANOAJAN_00043	Q04HX2	LSU ribosomal protein L9p
+EF3030	KANOAJAN_00044	Q8DMZ2	Replicative DNA helicase DnaC
+EF3030	KANOAJAN_00045	Q8DMZ3	Hypothetical protein
+EF3030	KANOAJAN_00046	B2INL9	Choline-binding protein D
+EF3030	KANOAJAN_00047		TPP
+EF3030	KANOAJAN_00048	Q8DMZ5	Cytoplasmic thiamin-binding component of thiamin ABC transporter
+EF3030	KANOAJAN_00049	A0A237KAV3	Thiamin ABC transporter ThiX%2C transmembrane component
+EF3030	KANOAJAN_00050	Q8DMZ7	Thiamin ABC transporter ThiY%2C substrate-binding component
+EF3030	KANOAJAN_00051	A0A0E8KYV0	Thiamin ABC transporter ThiZ%2C ATPase component
+EF3030	KANOAJAN_00052	C1CHJ5	Transcriptional regulator CtsR
+EF3030	KANOAJAN_00053	A0A0H2USJ7	ATP-dependent Clp protease ATP-binding subunit ClpC
+EF3030	KANOAJAN_00054	C1CHJ3	Two-component system response regulator
+EF3030	KANOAJAN_00055	C1CBG8	Two-component system sensor histidine kinase
+EF3030	KANOAJAN_00056	Q8DN04	Rhomboid family integral membrane protein
+EF3030	KANOAJAN_00057	Q9RQT6	Choline-binding protein A
+EF3030	KANOAJAN_00058	A0A4J2GV79	IS1167 transposase
+EF3030	KANOAJAN_00059		Srn266
+EF3030	KANOAJAN_00060	A0A4J2H157	hypothetical protein
+EF3030	KANOAJAN_00061	B1I9Z9	tRNA dihydrouridine synthase B
+EF3030	KANOAJAN_00062	A0A0T8BBP7	Chaperonin%2C heat shock protein 33
+EF3030	KANOAJAN_00063	A0A6G2DB62	Trans-acting positive regulator
+EF3030	KANOAJAN_00064	Q04HZ0	Glycerol kinase
+EF3030	KANOAJAN_00065	A0A0U0JAN3	Alpha-glycerophosphate oxidase
+EF3030	KANOAJAN_00066	A0A4J1RCZ0	Glycerol uptake facilitator protein
+EF3030	KANOAJAN_00067	B2INK0	Hypothetical protein
+EF3030	KANOAJAN_00068	A0A4J1NJ06	hypothetical protein
+EF3030	KANOAJAN_00069		group-II-D1D4-3
+EF3030	KANOAJAN_00070		group-II-D1D4-1
+EF3030	KANOAJAN_00071	C1CBF7	hypothetical protein
+EF3030	KANOAJAN_00072		Intron_gpII
+EF3030	KANOAJAN_00073	B2INJ7	Macrolide-efflux protein
+EF3030	KANOAJAN_00074	A0AAE9QTY8	D-alanine--poly(phosphoribitol) ligase subunit 1
+EF3030	KANOAJAN_00075	A0A6G2D8X0	D-alanyl transfer protein DltB
+EF3030	KANOAJAN_00076	A0A4J1UG00	D-alanyl transfer protein DltB
+EF3030	KANOAJAN_00077	Q04HZ9	D-alanine--poly(phosphoribitol) ligase subunit 2
+EF3030	KANOAJAN_00078	C1CB18	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+EF3030	KANOAJAN_00079	Q8DN14	Transcriptional repressor AdcR for Zn(2+)-responsive expression
+EF3030	KANOAJAN_00080	B2INJ0	Zinc ABC transporter%2C ATP-binding protein AdcC
+EF3030	KANOAJAN_00081	O33704	Zinc ABC transporter%2C permease protein AdcB
+EF3030	KANOAJAN_00082	A0A4J1S0Y1	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
+EF3030	KANOAJAN_00083		SpF66_sRNA
+EF3030	KANOAJAN_00084		SpF66_sRNA
+EF3030	KANOAJAN_00085	C1CHG7	L-fucose operon activator
+EF3030	KANOAJAN_00086	A0A4J2ERH6	L-fuculokinase
+EF3030	KANOAJAN_00087	A0A4K7HJ73	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
+EF3030	KANOAJAN_00088	A0A0T8DX58	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+EF3030	KANOAJAN_00089	B2INI3	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+EF3030	KANOAJAN_00090	C1CB07	hypothetical protein
+EF3030	KANOAJAN_00091	B2INI1	hypothetical protein
+EF3030	KANOAJAN_00092	A0AAD2Q8D9	Alpha-galactosidase
+EF3030	KANOAJAN_00093	C1CB04	hypothetical protein
+EF3030	KANOAJAN_00094	A0A0T7L7K5	L-fuculose phosphate aldolase
+EF3030	KANOAJAN_00095	A0AAD2KB12	Bifunctional L-fucose isomerase/D-arabinose ketol-isomerase
+EF3030	KANOAJAN_00096	Q8DN25	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization
+EF3030	KANOAJAN_00097	Q8DN26	Putative stomatin/prohibitin-family membrane protease subunit YbbK
+EF3030	KANOAJAN_00098	A0A4G9UIG6	hypothetical protein
+EF3030	KANOAJAN_00099	Q8CY63	IgA1 protease
+EF3030	KANOAJAN_00100	A0A4J2C6W5	Putative Xaa-His dipeptidase
+EF3030	KANOAJAN_00101	C1CHE9	Arginine/ornithine antiporter ArcD
+EF3030	KANOAJAN_00102	Q8DN28	Carbamate kinase
+EF3030	KANOAJAN_00103	A0A0B7LE02	Ornithine carbamoyltransferase
+EF3030	KANOAJAN_00104	Q97NA4	Arginine deiminase
+EF3030	KANOAJAN_00105	A0A4J2E9M3	Glycosyl hydrolase family 29 alpha-L-fucosidase
+EF3030	KANOAJAN_00106	A0A916L516	Alpha-1%2C2-mannosidase
+EF3030	KANOAJAN_00107	A0A4J2AIP1	Hypothetical protein
+EF3030	KANOAJAN_00108	A0A0H5LL71	Alpha-mannosidase
+EF3030	KANOAJAN_00109	A0A264S8H1	N-acetylmannosamine kinase
+EF3030	KANOAJAN_00110	A0A2I5LUZ7	Glycosyl hydrolase-related protein
+EF3030	KANOAJAN_00111	A0A0H2US30	hypothetical protein
+EF3030	KANOAJAN_00112	A0A559CYV6	hypothetical protein
+EF3030	KANOAJAN_00113	A0A4J1ZBA7	IS1381 transposase OrfB
+EF3030	KANOAJAN_00114	A0A4J1RNF0	hypothetical protein
+EF3030	KANOAJAN_00115	A0A162KJ55	hypothetical protein
+EF3030	KANOAJAN_00116	A0AAE4FXB9	Choline-binding protein CbpN
+EF3030	KANOAJAN_00117	Q04I36	LSU ribosomal protein L33p
+EF3030	KANOAJAN_00118	Q8CWN3	LSU ribosomal protein L32p
+EF3030	KANOAJAN_00119	Q8CY67	Hypothetical protein
+EF3030	KANOAJAN_00120	A0A5E8DYW1	Membrane protease family protein
+EF3030	KANOAJAN_00121	A0AAE9QK28	Transcription antiterminator%2C BglG family
+EF3030	KANOAJAN_00122	Q8CY69	Putative PTS IIB component
+EF3030	KANOAJAN_00123	A0A064BX22	Putative transport protein SgaT
+EF3030	KANOAJAN_00124	A0A0E8AAM0	hypothetical protein
+EF3030	KANOAJAN_00125	A0A0T8VNV5	hypothetical protein
+EF3030	KANOAJAN_00126	Q04I44	Dihydroxy-acid dehydratase
+EF3030	KANOAJAN_00127	A0A4J1QFE1	Hypothetical protein
+EF3030	KANOAJAN_00128	C1CH57	Putative aromatic ring hydroxylating enzyme
+EF3030	KANOAJAN_00129	A0A0I6MXJ4	Positive transcriptional regulator%2C MutR family
+EF3030	KANOAJAN_00130	C1CH53	Macrolide-efflux protein
+EF3030	KANOAJAN_00131	A0A4J2G4G0	Histidyl-tRNA synthetase
+EF3030	KANOAJAN_00132	A0A0B7MAB9	Hypothetical protein
+EF3030	KANOAJAN_00133	Q8DN47	Transcriptional regulator%2C Cro/CI family
+EF3030	KANOAJAN_00134	Q8CY71	Hypothetical protein
+EF3030	KANOAJAN_00135	A0A0U0DE06	Hypothetical protein
+EF3030	KANOAJAN_00136	A0A4J1UI42	Membrane-bound protease%2C CAAX family
+EF3030	KANOAJAN_00137	Q8CY74	Hypothetical protein
+EF3030	KANOAJAN_00138	A0A0T8NQG5	Aspartyl-tRNA synthetase
+EF3030	KANOAJAN_00139	A0A0Y2DVS7	Integral membrane protein
+EF3030	KANOAJAN_00140	C1CH41	Maltose operon transcriptional repressor MalR%2C LacI family
+EF3030	KANOAJAN_00141	A0A4L8JJ50	Maltodextrose utilization protein MalA
+EF3030	KANOAJAN_00142	C1CH39	Maltose/maltodextrin ABC transporter%2C permease protein MalD
+EF3030	KANOAJAN_00143	P0A4N2	Maltose/maltodextrin ABC transporter%2C permease protein MalC
+EF3030	KANOAJAN_00144	B2IN25	Maltose/maltodextrin ABC transporter%2C substrate binding periplasmic protein MalX
+EF3030	KANOAJAN_00145	A0A098Z331	4-alpha-glucanotransferase (amylomaltase)
+EF3030	KANOAJAN_00146	Q8DN49	Maltodextrin phosphorylase
+EF3030	KANOAJAN_00147	C1CH34	Hypothetical protein
+EF3030	KANOAJAN_00148	A0A0T8KVZ0	Hypothetical protein
+EF3030	KANOAJAN_00149	C1CH31	23S rRNA (guanine(745)-N(1))-methyltransferase
+EF3030	KANOAJAN_00150	Q8CY77	Hypothetical protein
+EF3030	KANOAJAN_00151	A0A4J1X8F9	Lead%2C cadmium%2C zinc and mercury transporting ATPase
+EF3030	KANOAJAN_00152	B5E3A7	Tyrosyl-tRNA synthetase
+EF3030	KANOAJAN_00153	Q75YH2	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1B
+EF3030	KANOAJAN_00154	A0A062WPC2	Drug/metabolite transporter superfamily permease
+EF3030	KANOAJAN_00155	Q8DN54	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+EF3030	KANOAJAN_00156	B2IN14	N-acetyl-L%2CL-diaminopimelate deacetylase
+EF3030	KANOAJAN_00157	A0A6G2DJW9	5-formyltetrahydrofolate cyclo-ligase
+EF3030	KANOAJAN_00158	Q8DN57	Rhomboid family serine protease
+EF3030	KANOAJAN_00159	C1CH21	UTP--glucose-1-phosphate uridylyltransferase
+EF3030	KANOAJAN_00160	C1CTZ5	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EF3030	KANOAJAN_00161	A0AAD2IIG9	hypothetical protein
+EF3030	KANOAJAN_00162	B2IN08	IS1380 family transposase ISSpn5
+EF3030	KANOAJAN_00163	C1CAR6	Phosphate transport system regulatory protein PhoU1
+EF3030	KANOAJAN_00164	B2IN06	Phosphate transport ATP-binding protein PstB1
+EF3030	KANOAJAN_00165	Q9X4T2	Phosphate transport system permease protein PstA1
+EF3030	KANOAJAN_00166	C1CAR3	Phosphate transport system permease protein PstC1
+EF3030	KANOAJAN_00167	Q8DN64	Phosphate ABC transporter periplasmic phosphate-binding protein PstS1
+EF3030	KANOAJAN_00168	B2IN02	Two-component system sensor histidine kinase PnpS
+EF3030	KANOAJAN_00169	Q9S1J6	Two-component system response regulator PnpR
+EF3030	KANOAJAN_00170	B2IN00	Putative cupin superfamily protein
+EF3030	KANOAJAN_00171	B2IMZ9	IS1381 transposase OrfB
+EF3030	KANOAJAN_00172	C1CN25	Arginyl-tRNA synthetase
+EF3030	KANOAJAN_00173	P0A2Y3	Arginine pathway regulatory protein ArgR1
+EF3030	KANOAJAN_00174		SpR10_sRNA
+EF3030	KANOAJAN_00174		
+EF3030	KANOAJAN_00175	A0A0B7LU78	DNA mismatch repair protein HexA
+EF3030	KANOAJAN_00176		patAB
+EF3030	KANOAJAN_00176		
+EF3030	KANOAJAN_00177	A0A0B7LCV4	Multidrug resistance ABC transporter ATP-binding and permease protein
+EF3030	KANOAJAN_00178	A0A0B7LCX1	hypothetical protein
+EF3030	KANOAJAN_00179	C1CH03	Multidrug resistance ABC transporter ATP-binding and permease protein
+EF3030	KANOAJAN_00180	C1CH02	Glutamine amidotransferase%2C class I
+EF3030	KANOAJAN_00181	B2IMZ0	Glucose-6-phosphate isomerase
+EF3030	KANOAJAN_00182	A0A0B7LJP7	Glutamyl-tRNA synthetase
+EF3030	KANOAJAN_00183	B2IMY8	Cytidine/deoxycytidylate deaminase family protein
+EF3030	KANOAJAN_00184		tRNA-Glu(ttc)
+EF3030	KANOAJAN_00185		16S ribosomal RNA
+EF3030	KANOAJAN_00186		tRNA-Ala(tgc)
+EF3030	KANOAJAN_00187		23S ribosomal RNA
+EF3030	KANOAJAN_00188		5S ribosomal RNA
+EF3030	KANOAJAN_00189		tRNA-Val(tac)
+EF3030	KANOAJAN_00190		tRNA-Gly(tcc)
+EF3030	KANOAJAN_00191		tRNA-Ile(gat)
+EF3030	KANOAJAN_00192		tRNA-Ser(tga)
+EF3030	KANOAJAN_00193		tRNA-Met(cat)
+EF3030	KANOAJAN_00194		tRNA-Phe(gaa)
+EF3030	KANOAJAN_00195		tRNA-Tyr(gta)
+EF3030	KANOAJAN_00196		tRNA-Trp(cca)
+EF3030	KANOAJAN_00197		tRNA-His(gtg)
+EF3030	KANOAJAN_00198		tRNA-Gln(ttg)
+EF3030	KANOAJAN_00199		tRNA-Leu(caa)
+EF3030	KANOAJAN_00200	B2IMN9	Hypothetical protein
+EF3030	KANOAJAN_00201	Q8DN76	Threonine synthase
+EF3030	KANOAJAN_00202	V9H0I2	Multi antimicrobial extrusion family transporter
+EF3030	KANOAJAN_00203	Q8CY81	Hydrolase%2C haloacid dehalogenase-like family
+EF3030	KANOAJAN_00204	A0A2R2HXB2	Surface immunogenic protein
+EF3030	KANOAJAN_00205	A0A0T8N617	hypothetical protein
+EF3030	KANOAJAN_00206	A0A0B7LZK5	hypothetical protein
+EF3030	KANOAJAN_00207	A0AA86XA44	Hypothetical protein
+EF3030	KANOAJAN_00208	A0A0T7YJZ5	Pyrrolidone-carboxylate peptidase
+EF3030	KANOAJAN_00209	C1CGY9	Membrane protein
+EF3030	KANOAJAN_00210	Q04IB3	tRNA-guanine transglycosylase
+EF3030	KANOAJAN_00211	A0A2R2HX93	Acyltransferase family protein
+EF3030	KANOAJAN_00212	B2IMN1	N-acetylglucosamine-6-phosphate deacetylase
+EF3030	KANOAJAN_00213	Q8DN84	Putative Zn-dependent alcohol dehydrogenase
+EF3030	KANOAJAN_00214	Q8DN85	DNA-binding protein
+EF3030	KANOAJAN_00215	A0A0T7KHY1	Late competence protein ComGA
+EF3030	KANOAJAN_00216	A0A0B7LZL4	Late competence protein ComGB
+EF3030	KANOAJAN_00217	A0A0E7YIZ3	Late competence protein ComGC
+EF3030	KANOAJAN_00218	A0AAE9R278	Late competence protein ComGD
+EF3030	KANOAJAN_00219	A0A0B7KTY0	Late competence protein ComGE
+EF3030	KANOAJAN_00220	A0A064BYI3	Late competence protein ComGF
+EF3030	KANOAJAN_00221	A0A064C498	Late competence protein ComGG
+EF3030	KANOAJAN_00222	A0A064C488	tRNA 5-carboxymethoxyuridine methyltransferase
+EF3030	KANOAJAN_00223	A0A064C1I1	hypothetical protein
+EF3030	KANOAJAN_00224	A0A064C057	Adenine-specific methyltransferase
+EF3030	KANOAJAN_00225	Q04IC8	Acetate kinase
+EF3030	KANOAJAN_00226	Q8DN92	Ribonuclease P protein component
+EF3030	KANOAJAN_00227	B2IML5	Inner membrane protein translocase component YidC2
+EF3030	KANOAJAN_00228	A0A064C1H7	KH domain RNA-binding protein
+EF3030	KANOAJAN_00229	A0A064C053	Sakacin A production response regulator
+EF3030	KANOAJAN_00230	C1CGW8	Ascorbate-specific PTS IIC component
+EF3030	KANOAJAN_00231	Q8DN95	Ascorbate-specific PTS IIB component
+EF3030	KANOAJAN_00232	Q8DN96	Ascorbate-specific PTS IIA component
+EF3030	KANOAJAN_00233	B1I991	3-keto-L-gulonate 6-phosphate decarboxylase
+EF3030	KANOAJAN_00234	A0A0U0EE50	L-xylulose 5-phosphate 3-epimerase
+EF3030	KANOAJAN_00235	A0A4H9FP53	L-ribulose-5-phosphate 4-epimerase
+EF3030	KANOAJAN_00236	A0A0I7Z6E2	Transcriptional antiterminator
+EF3030	KANOAJAN_00237	Q8DNA1	Putative L-ascorbate-6-phosphate lactonase UlaG
+EF3030	KANOAJAN_00238	A0A0D6J533	Transketolase
+EF3030	KANOAJAN_00239	Q8DNA3	Preprotein translocase subunit YajC
+EF3030	KANOAJAN_00240	B2IMK1	Low molecular weight protein tyrosine phosphatase
+EF3030	KANOAJAN_00241	Q8CY89	Hypothetical protein
+EF3030	KANOAJAN_00242	A0A4J2F2M9	Bifunctional acetaldehyde dehydrogenase/alcohol dehydrogenase
+EF3030	KANOAJAN_00243	B2IMJ8	Cellobiose-specific PTS IIA component
+EF3030	KANOAJAN_00244	C1CA68	Cellobiose-specific PTS IIB component
+EF3030	KANOAJAN_00245	Q8DNA8	Cellobiose-specific PTS IIC component
+EF3030	KANOAJAN_00246	A0A6I3UR75	6-phospho-beta-glucosidase
+EF3030	KANOAJAN_00247	Q8DNB0	Transcriptional regulator%2C GntR family
+EF3030	KANOAJAN_00248	A0AAE9R2A4	hypothetical protein
+EF3030	KANOAJAN_00249	B2IMJ2	Malonate permease
+EF3030	KANOAJAN_00250	B2IMJ1	Quinolinate phosphoribosyltransferase
+EF3030	KANOAJAN_00251	C1CEB6	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_00252	B2IMI9	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_00253	B2IMI8	ABC transporter%2C permease protein
+EF3030	KANOAJAN_00254	B2IMI7	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
+EF3030	KANOAJAN_00255	B2IMI6	IS1167 transposase
+EF3030	KANOAJAN_00256		Srn266
+EF3030	KANOAJAN_00257	B2IMI5	RluD-like protein
+EF3030	KANOAJAN_00258	Q75YF6	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
+EF3030	KANOAJAN_00259	A0A4J1RIX1	ISNCY family transposase IS1202
+EF3030	KANOAJAN_00260	Q8DNB7	Protein translocase subunit SecE
+EF3030	KANOAJAN_00261	C1CGT9	Transcription antitermination protein NusG
+EF3030	KANOAJAN_00262	B2IMI0	Competence-specific sigma factor ComX
+EF3030	KANOAJAN_00263		tRNA-Glu(ttc)
+EF3030	KANOAJAN_00264		16S ribosomal RNA
+EF3030	KANOAJAN_00265		tRNA-Ala(tgc)
+EF3030	KANOAJAN_00266		23S ribosomal RNA
+EF3030	KANOAJAN_00267		5S ribosomal RNA
+EF3030	KANOAJAN_00268		tRNA-Val(tac)
+EF3030	KANOAJAN_00269		tRNA-Asp(gtc)
+EF3030	KANOAJAN_00270		tRNA-Lys(ttt)
+EF3030	KANOAJAN_00270		
+EF3030	KANOAJAN_00271		tRNA-Leu(tag)
+EF3030	KANOAJAN_00272		tRNA-Thr(tgt)
+EF3030	KANOAJAN_00273		tRNA-Gly(gcc)
+EF3030	KANOAJAN_00274		tRNA-Leu(taa)
+EF3030	KANOAJAN_00275		tRNA-Arg(acg)
+EF3030	KANOAJAN_00276		tRNA-Pro(tgg)
+EF3030	KANOAJAN_00277	A0A0B7MA59	Hypothetical protein
+EF3030	KANOAJAN_00278	A0A0H2ZP90	Hypothetical protein
+EF3030	KANOAJAN_00279	A0A0U0C754	ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_00280	A0A0B7MAP3	ABC transporter%2C permease protein
+EF3030	KANOAJAN_00281	A0AAD2I777	Two-component system sensor histidine kinase
+EF3030	KANOAJAN_00282	A0A6I3ULF9	Two-component system response regulator
+EF3030	KANOAJAN_00283	C1CA45	Catabolite control protein A
+EF3030	KANOAJAN_00284	A0A4L4F8D0	Hypothetical protein
+EF3030	KANOAJAN_00285	C1CGS9	L-asparaginase
+EF3030	KANOAJAN_00286	C1CGS8	Hydrolase%2C HAD superfamily
+EF3030	KANOAJAN_00287	C1CGS7	Universal stress protein family protein
+EF3030	KANOAJAN_00288	A0A0U0EM10	hypothetical protein
+EF3030	KANOAJAN_00289	C1CGS5	Alanine transaminase
+EF3030	KANOAJAN_00290	Q04IH6	LSU ribosomal protein L34p
+EF3030	KANOAJAN_00291	A0AA86XN69	hypothetical protein
+EF3030	KANOAJAN_00292	A0A0B7LXH2	Putative deoxyribonuclease TatD
+EF3030	KANOAJAN_00293	A0A4H0N390	Ribonuclease M5
+EF3030	KANOAJAN_00294	C1CA34	Transcriptional regulator
+EF3030	KANOAJAN_00295	C1CGS0	Transcriptional regulator
+EF3030	KANOAJAN_00296		SpR08_sRNA
+EF3030	KANOAJAN_00296		
+EF3030	KANOAJAN_00297	B2IM56	Putative immunity protein
+EF3030	KANOAJAN_00298	Q8DND2	ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_00299	Q8CY94	Hypothetical protein
+EF3030	KANOAJAN_00300	Q97NN5	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase
+EF3030	KANOAJAN_00301	C1CGR4	Ribosome small subunit-stimulated GTPase RsgA
+EF3030	KANOAJAN_00302	C1CGR3	Ribulose-phosphate 3-epimerase
+EF3030	KANOAJAN_00303	A0A4J1TMQ0	Thiamin pyrophosphokinase
+EF3030	KANOAJAN_00304	A0AA86JAD5	DNA recombination protein RmuC
+EF3030	KANOAJAN_00305	C1CA24	3'->5' exoribonuclease YhaM
+EF3030	KANOAJAN_00306	C1CGQ9	PurR: transcription regulator associated with purine metabolism
+EF3030	KANOAJAN_00307	B1I8T0	Diaminopimelate decarboxylase
+EF3030	KANOAJAN_00308	Q8DNE0	Pyruvate formate-lyase activating enzyme
+EF3030	KANOAJAN_00309	C1CGQ6	Inner membrane protein translocase component YidC1
+EF3030	KANOAJAN_00310	Q8DNE2	Putative nucleoside phosphatase
+EF3030	KANOAJAN_00311	B2IM52	rRNA methylase
+EF3030	KANOAJAN_00312	C1CA17	Membrane protein
+EF3030	KANOAJAN_00313	Q97NQ0	Aspartate--ammonia ligase
+EF3030	KANOAJAN_00314	C1CGQ2	16S rRNA (guanine(966)-N(2))-methyltransferase
+EF3030	KANOAJAN_00315	A0A0B7LDF6	Phosphopantetheine adenylyltransferase
+EF3030	KANOAJAN_00316	A0A4J2BD57	Lon-like protease
+EF3030	KANOAJAN_00317	A0A0E8TAE0	Hypothetical protein
+EF3030	KANOAJAN_00318	Q97NQ4	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EF3030	KANOAJAN_00319	A0A0B7L886	Competence-associated EpuA protein
+EF3030	KANOAJAN_00320	B2IM44	DNA-entry nuclease
+EF3030	KANOAJAN_00321	B2IM43	Putative hemolysin
+EF3030	KANOAJAN_00322		tRNA-Cys(gca)
+EF3030	KANOAJAN_00323		Lacto-rpoB
+EF3030	KANOAJAN_00324	A0A0B7L1K2	DNA-directed RNA polymerase beta subunit
+EF3030	KANOAJAN_00325	Q97NQ8	DNA-directed RNA polymerase beta' subunit
+EF3030	KANOAJAN_00326	Q04IK8	Nucleoside diphosphate kinase
+EF3030	KANOAJAN_00327	Q8CY96	hypothetical protein
+EF3030	KANOAJAN_00328	Q8DNF2	ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_00329	B2IM36	hypothetical protein
+EF3030	KANOAJAN_00330	C1CA00	Hypothetical protein
+EF3030	KANOAJAN_00331	B2IM34	Putative transcriptional regulator PlcR
+EF3030	KANOAJAN_00332	A0A0B7LL05	Immunity factor ComM
+EF3030	KANOAJAN_00333	Q8DNF8	TsaE protein%2C required for threonylcarbamoyladenosine t(6)A37 formation in tRNA
+EF3030	KANOAJAN_00334	Q8DNF9	Acetyltransferase
+EF3030	KANOAJAN_00335	B2IM30	Transcriptional regulator LytR
+EF3030	KANOAJAN_00336	B2IM29	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucleotide amidase
+EF3030	KANOAJAN_00337	C1CMP5	DNA recombination/repair protein RecA
+EF3030	KANOAJAN_00338	B2IM27	MATE efflux family protein DinF
+EF3030	KANOAJAN_00339	C1CGM2	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+EF3030	KANOAJAN_00340	A0A0B7M7G9	Putative antitoxin Xre
+EF3030	KANOAJAN_00341	A0A0B7MDF1	Putative toxin
+EF3030	KANOAJAN_00342	B2IM24	Putative toxin
+EF3030	KANOAJAN_00343	B2IM23	hypothetical protein
+EF3030	KANOAJAN_00344	B2IM22	hypothetical protein
+EF3030	KANOAJAN_00345	Q8CYA9	hypothetical protein
+EF3030	KANOAJAN_00346	Q8CYB0	Hypothetical protein
+EF3030	KANOAJAN_00347	Q8CYB1	Hypothetical protein
+EF3030	KANOAJAN_00348	A0A4J1ZFL9	hypothetical protein
+EF3030	KANOAJAN_00349	B2IM15	Hypothetical protein
+EF3030	KANOAJAN_00350	Q8CYB4	Hypothetical protein
+EF3030	KANOAJAN_00351	C1C9J3	Hypothetical protein
+EF3030	KANOAJAN_00352	Q2XU26	Pneumolysin
+EF3030	KANOAJAN_00353	Q04IN9	Transcriptional regulatory protein YeeN
+EF3030	KANOAJAN_00354	Q8DNG5	hypothetical protein
+EF3030	KANOAJAN_00355	B2IM08	Multidrug resistance ABC transporter ATP-binding and permease protein
+EF3030	KANOAJAN_00356	B2IM07	putative ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00357	Q8CYB6	Hypothetical protein
+EF3030	KANOAJAN_00358	C1CGK7	Phosphatidylglycerophosphatase B
+EF3030	KANOAJAN_00359	Q8CYB7	Response regulator of the LytR/AlgR family protein
+EF3030	KANOAJAN_00360	Q8CYB8	Membrane protein
+EF3030	KANOAJAN_00361	Q8CYB9	Hypothetical protein
+EF3030	KANOAJAN_00362	Q8DNH1	Thioredoxin
+EF3030	KANOAJAN_00363	Q8DNH2	Phenylalanyl-tRNA synthetase domain protein
+EF3030	KANOAJAN_00364	Q8DNH3	Short-chain dehydrogenase
+EF3030	KANOAJAN_00365	Q8DNH4	Single-stranded DNA-binding protein SsbB
+EF3030	KANOAJAN_00366	C1CML8	Heat shock protein 60 family co-chaperone GroES
+EF3030	KANOAJAN_00367	B2ILZ5	Heat shock protein 60 family chaperone GroEL
+EF3030	KANOAJAN_00368	B2ILZ4	IS1167 transposase
+EF3030	KANOAJAN_00369		Srn266
+EF3030	KANOAJAN_00370	Q8CYC0	Hypothetical protein
+EF3030	KANOAJAN_00371		Spy392987
+EF3030	KANOAJAN_00371		
+EF3030	KANOAJAN_00372	Q8DNH5	Cysteinyl-tRNA synthetase related protein
+EF3030	KANOAJAN_00373	A0A0B7LIC7	Regulatory protein RecX
+EF3030	KANOAJAN_00374	B2ILZ0	hypothetical protein
+EF3030	KANOAJAN_00375	B2ILY9	RNA methyltransferase%2C TrmA family
+EF3030	KANOAJAN_00376		tRNA-Glu(ttc)
+EF3030	KANOAJAN_00377		16S ribosomal RNA
+EF3030	KANOAJAN_00378		tRNA-Ala(tgc)
+EF3030	KANOAJAN_00379		23S ribosomal RNA
+EF3030	KANOAJAN_00380		5S ribosomal RNA
+EF3030	KANOAJAN_00381		tRNA-Val(tac)
+EF3030	KANOAJAN_00382		tRNA-Asp(gtc)
+EF3030	KANOAJAN_00383		tRNA-Lys(ttt)
+EF3030	KANOAJAN_00383		
+EF3030	KANOAJAN_00384		tRNA-Leu(tag)
+EF3030	KANOAJAN_00385		tRNA-Thr(tgt)
+EF3030	KANOAJAN_00386		tRNA-Gly(gcc)
+EF3030	KANOAJAN_00387		tRNA-Leu(taa)
+EF3030	KANOAJAN_00388		tRNA-Arg(acg)
+EF3030	KANOAJAN_00389		tRNA-Pro(tgg)
+EF3030	KANOAJAN_00390		tRNA-Met(cat)
+EF3030	KANOAJAN_00391		tRNA-Met(cat)
+EF3030	KANOAJAN_00392		tRNA-Ser(tga)
+EF3030	KANOAJAN_00393		tRNA-Met(cat)
+EF3030	KANOAJAN_00394		tRNA-Phe(gaa)
+EF3030	KANOAJAN_00395		tRNA-Gly(tcc)
+EF3030	KANOAJAN_00396		tRNA-Ile(gat)
+EF3030	KANOAJAN_00397		tRNA-Ser(gct)
+EF3030	KANOAJAN_00397		
+EF3030	KANOAJAN_00398	C1C9G9	Bifunctional biotin operon repressor/Biotin--protein ligase
+EF3030	KANOAJAN_00399	A0A0H2URT9	Multiple sugar metabolism operon regulatory protein MsmR
+EF3030	KANOAJAN_00400	Q8CWP3	Alpha-galactosidase
+EF3030	KANOAJAN_00401	Q8DNH8	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
+EF3030	KANOAJAN_00402	A0A0H2URH8	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmF
+EF3030	KANOAJAN_00403	B2ISZ4	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG
+EF3030	KANOAJAN_00404	A0A0B7L3G0	Sucrose phosphorylase
+EF3030	KANOAJAN_00405	A0A0I7MLX2	Wall teichoic acid biosynthesis protein RafX
+EF3030	KANOAJAN_00406	C1C9G0	Peptide ABC transporter substrate-binding protein AmiA
+EF3030	KANOAJAN_00407	C1CGB8	Peptide ABC transporter permease AmiC
+EF3030	KANOAJAN_00408	C1CGB7	Peptide ABC transporter permease AmiD
+EF3030	KANOAJAN_00409	A0A0T8CF10	Peptide ABC transporter ATP-binding protein AmiE
+EF3030	KANOAJAN_00410	B2ISY6	Peptide ABC transporter ATP-binding protein AmiF
+EF3030	KANOAJAN_00411	B2ISY5	IS1167 transposase
+EF3030	KANOAJAN_00412	A0A0X9VYW9	hypothetical protein
+EF3030	KANOAJAN_00413	B2ISY4	IS1167 transposase Orf1
+EF3030	KANOAJAN_00414		Srn266
+EF3030	KANOAJAN_00415	Q8DNI5	Trehalose operon transcriptional repressor
+EF3030	KANOAJAN_00416	B2ISY2	Trehalose-specific PTS IIBCA components
+EF3030	KANOAJAN_00417	B2ISY1	Trehalose-6-phosphate hydrolase
+EF3030	KANOAJAN_00418	B2ISY0	Hypothetical protein
+EF3030	KANOAJAN_00419	Q04IS7	Glutamate racemase
+EF3030	KANOAJAN_00420	B2ISX8	Nucleoside 5-triphosphatase RdgB (dHAPTP%2C dITP%2C XTP-specific)
+EF3030	KANOAJAN_00421	Q8DNI8	Phosphoesterase
+EF3030	KANOAJAN_00422	C1C9E4	CBS domain protein
+EF3030	KANOAJAN_00423	B2ISX5	Tyrosine recombinase XerD
+EF3030	KANOAJAN_00424	Q97NX5	Segregation and condensation protein A
+EF3030	KANOAJAN_00425	Q8DNI9	Segregation and condensation protein B
+EF3030	KANOAJAN_00426	Q8DNJ0	Ribosomal large subunit pseudouridine synthase B
+EF3030	KANOAJAN_00427	B2ISX1	Putative membrane protein insertion efficiency factor YidD
+EF3030	KANOAJAN_00428	Q8DNJ2	Iron compound ABC uptake transporter substrate-binding protein PiuA
+EF3030	KANOAJAN_00429	B2ISW9	Iron compound ABC uptake transporter ATP-binding protein PiuD
+EF3030	KANOAJAN_00430	C1C9D6	Iron compound ABC uptake transporter permease protein PiuC
+EF3030	KANOAJAN_00431	A0A0H2ZMI3	Iron compound ABC uptake transporter permease protein PiuB
+EF3030	KANOAJAN_00432	A0A0B7L8A9	UDP-glucose 4-epimerase
+EF3030	KANOAJAN_00433	Q8DNJ7	Glutamyl aminopeptidase
+EF3030	KANOAJAN_00434	Q8CYC3	Hypothetical protein
+EF3030	KANOAJAN_00435	C1C9D0	Transcriptional regulator%2C MarR family
+EF3030	KANOAJAN_00436	B2ISW1	Hypothetical protein
+EF3030	KANOAJAN_00437	B2ISW0	Glycine betaine/L-proline transport ATP-binding protein ProV
+EF3030	KANOAJAN_00438	B2ISV9	Glycine betaine/L-proline transport substrate-binding/permease protein ProWX
+EF3030	KANOAJAN_00439	Q8DNK1	Ribosyl nicotinamide transporter PnuC
+EF3030	KANOAJAN_00440	B2ISV7	Transcriptional regulator SczA%2C TetR family
+EF3030	KANOAJAN_00441	B2ISV6	Cobalt-zinc-cadmium resistance protein CzcD
+EF3030	KANOAJAN_00442	Q8DNK4	Transcriptional regulator%2C MerR family
+EF3030	KANOAJAN_00443	C1CG80	Alcohol dehydrogenase
+EF3030	KANOAJAN_00444	Q8DNK6	Galactose operon repressor%2C GalR-LacI family
+EF3030	KANOAJAN_00445	B2ISV2	Galactokinase
+EF3030	KANOAJAN_00446	B2ISV1	Galactose-1-phosphate uridylyltransferase
+EF3030	KANOAJAN_00447	A0A0M3KL39	Thioesterase
+EF3030	KANOAJAN_00448	C1CG75	Type II restriction-modification system endonuclease DpnC
+EF3030	KANOAJAN_00449	P0A3T5	Type II restriction-modification system component DpnD
+EF3030	KANOAJAN_00450	B2ISU7	Xanthine permease
+EF3030	KANOAJAN_00451	Q3I0D0	Xanthine phosphoribosyltransferase
+EF3030	KANOAJAN_00452		Purine
+EF3030	KANOAJAN_00453	B2ISU4	hypothetical protein
+EF3030	KANOAJAN_00454	A0A098Z9P2	hypothetical protein
+EF3030	KANOAJAN_00455	C1CG71	Exodeoxyribonuclease III
+EF3030	KANOAJAN_00456	A0A0T8BC11	hypothetical protein
+EF3030	KANOAJAN_00457	A0A264S821	hypothetical protein
+EF3030	KANOAJAN_00458	Q8DNL2	hypothetical protein
+EF3030	KANOAJAN_00459	A0A4J2CZK1	ABC transporter%2C ATP-binding/permease protein
+EF3030	KANOAJAN_00460	C1CG66	ABC transporter%2C ATP-binding/permease protein
+EF3030	KANOAJAN_00461	Q8DNL5	Sugar transferases involved in lipopolysaccharide synthesis
+EF3030	KANOAJAN_00462	C1CG64	Putative UDP-4-keto-6-deoxy-D-glucose 4-transaminase AatB
+EF3030	KANOAJAN_00463	B2IST6	Plasmin- and fibronectin-binding protein PfbA
+EF3030	KANOAJAN_00464	B2IST5	hypothetical protein
+EF3030	KANOAJAN_00465	Q8CYD2	Hypothetical protein
+EF3030	KANOAJAN_00466	C1C979	ABC transporter%2C substrate-binding protein
+EF3030	KANOAJAN_00467	C1CG53	ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_00468	C1CG52	Iron(III)-transport system permease protein SfuB
+EF3030	KANOAJAN_00469	Q8DNM3	Mg(2+)-transport-ATPase-associated protein MgtC
+EF3030	KANOAJAN_00470	A0A064C1K8	Hypothetical protein
+EF3030	KANOAJAN_00471	Q8DNM4	Galactose operon repressor%2C GalR-LacI family
+EF3030	KANOAJAN_00472	B2ISS8	Hypothetical protein
+EF3030	KANOAJAN_00473	A0A0X9IRI0	Anthranilate synthase%2C aminase component
+EF3030	KANOAJAN_00474	B2ISS5	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
+EF3030	KANOAJAN_00475	Q04IY6	Anthranilate phosphoribosyltransferase
+EF3030	KANOAJAN_00476	Q97P30	Indole-3-glycerol phosphate synthase
+EF3030	KANOAJAN_00477	C1CMD4	Phosphoribosylanthranilate isomerase
+EF3030	KANOAJAN_00478	B8ZN59	Tryptophan synthase beta chain
+EF3030	KANOAJAN_00479	B8ZN58	Tryptophan synthase alpha chain
+EF3030	KANOAJAN_00480	A0A4J1WVJ5	Hypothetical protein
+EF3030	KANOAJAN_00481	A0AA47H789	Hypothetical protein
+EF3030	KANOAJAN_00482	A0A0H2URC4	Transcriptional regulator%2C Xre family
+EF3030	KANOAJAN_00483	Q8DNN1	Type IV prepilin peptidase
+EF3030	KANOAJAN_00484	A0A0T8NHV5	Acetyltransferase
+EF3030	KANOAJAN_00485	A0A0B7M2Q2	Xylose repressor protein
+EF3030	KANOAJAN_00486	A0A4F2BEU0	Cellobiose-specific PTS IIC component
+EF3030	KANOAJAN_00487	C1CG34	hypothetical protein
+EF3030	KANOAJAN_00488	C1CG33	Cellobiose-specific PTS IIB component
+EF3030	KANOAJAN_00489	B1I7R9	Lactose-specific PTS IIA component
+EF3030	KANOAJAN_00490	A0A0B7LIJ3	Cellobiose-specific PTS IIC component
+EF3030	KANOAJAN_00491	A0A0B7KTA8	Arylsulfatase
+EF3030	KANOAJAN_00492	C1C953	Formylglycine-generating enzyme
+EF3030	KANOAJAN_00493	C1CG28	hypothetical protein
+EF3030	KANOAJAN_00494	Q97P39	Hypothetical protein
+EF3030	KANOAJAN_00495	Q8DNN3	General stress protein%2C Gls24 family
+EF3030	KANOAJAN_00496	Q8DNN4	Small integral membrane protein
+EF3030	KANOAJAN_00497	B2ISG1	Hypothetical protein
+EF3030	KANOAJAN_00498	C1C945	Membrane protein
+EF3030	KANOAJAN_00499	Q97P44	M protein trans-acting positive regulator Mga2
+EF3030	KANOAJAN_00500	B2ISF8	Multiple sugar metabolism operon regulatory protein
+EF3030	KANOAJAN_00501	B2ISF7	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+EF3030	KANOAJAN_00502	B2ISF6	ABC transporter permease protein
+EF3030	KANOAJAN_00503	B2ISF0	hypothetical protein
+EF3030	KANOAJAN_00504	A0A4J2AB17	Sucrose-6-phosphate hydrolase
+EF3030	KANOAJAN_00505	B2IMI6	IS1167 transposase
+EF3030	KANOAJAN_00506		Srn266
+EF3030	KANOAJAN_00507		tRNA-Lys(ctt)
+EF3030	KANOAJAN_00508	A0A4F0QPW2	Chromosome segregation helicase
+EF3030	KANOAJAN_00509	A0A0B7LCT1	Hypothetical protein
+EF3030	KANOAJAN_00510	Q8CYE1	Addiction module toxin HicA
+EF3030	KANOAJAN_00511	Q8DNP2	Addiction module antitoxin HicB
+EF3030	KANOAJAN_00512	A0A0E8P8F3	Hypothetical protein
+EF3030	KANOAJAN_00513	A0A4J2ACR8	Hypothetical protein
+EF3030	KANOAJAN_00514	A0A0T8NI09	7%2C8-dihydro-8-oxoguanine-triphosphatase
+EF3030	KANOAJAN_00515	B2ISE0	hypothetical protein
+EF3030	KANOAJAN_00516	A0A0B7L667	hypothetical protein
+EF3030	KANOAJAN_00517	Q5I8Q8	hypothetical protein
+EF3030	KANOAJAN_00518	A0A4J1XS85	Ribosomal protein L11 methyltransferase
+EF3030	KANOAJAN_00519	A0A0B7KV49	16S rRNA (uracil(1498)-N(3))-methyltransferase
+EF3030	KANOAJAN_00520	A0A4J1SRW7	Oligoendopeptidase F
+EF3030	KANOAJAN_00521	A0A7X3BXV8	hypothetical protein
+EF3030	KANOAJAN_00522	A0A4J2A1N6	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00523	A0A6I3U5B6	hypothetical protein
+EF3030	KANOAJAN_00524	A0A558SAQ0	hypothetical protein
+EF3030	KANOAJAN_00525	A0A4F0QR67	hypothetical protein
+EF3030	KANOAJAN_00526	B2ISD3	Aquaporin Z
+EF3030	KANOAJAN_00527	A0A4J2FKU3	Hypothetical protein
+EF3030	KANOAJAN_00528	A0A0E8GJV8	NADPH-dependent 7-cyano-7-deazaguanine reductase
+EF3030	KANOAJAN_00529	C1CFZ6	Thioredoxin
+EF3030	KANOAJAN_00530	Q8CYE5	Hypothetical protein
+EF3030	KANOAJAN_00531	C1CFZ4	Transcriptional regulator%2C MarR family
+EF3030	KANOAJAN_00532	A0A4J1X5S3	hypothetical protein
+EF3030	KANOAJAN_00533	A0A4J2BJV5	hypothetical protein
+EF3030	KANOAJAN_00534	A0A4F0R141	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+EF3030	KANOAJAN_00535	A0A4F0QY44	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+EF3030	KANOAJAN_00536	A0AAD2QAF9	Glycosyltransferase%2C group 2 family
+EF3030	KANOAJAN_00537	A0A4J1WNG3	Glycosyltransferase GlyG
+EF3030	KANOAJAN_00538	C1CFY9	Glucosyltransferase 3
+EF3030	KANOAJAN_00539	A0A4J1PYM3	Glycosyltransferase GlyD
+EF3030	KANOAJAN_00540	A0AA87CCN3	Glycosyltransferase%2C group 2 family
+EF3030	KANOAJAN_00541	A0AA95IK97	hypothetical protein
+EF3030	KANOAJAN_00542	B1I7M9	Glycosyltransferase GlyE
+EF3030	KANOAJAN_00543	C1CFY6	Glycosyltransferase GlyE
+EF3030	KANOAJAN_00544	A0A9Q9TWI4	Glycosyltransferase%2C group 2 family
+EF3030	KANOAJAN_00545	A0A0I5SXJ4	Glycosyltransferase%2C group 2 family
+EF3030	KANOAJAN_00546	C1CFY4	Protein translocase subunit SecY
+EF3030	KANOAJAN_00547	C1CFY3	Accessory Sec system protein Asp1
+EF3030	KANOAJAN_00548	A0A4J1YPC4	Accessory Sec system protein Asp2
+EF3030	KANOAJAN_00549	B2ISB3	Accessory Sec system protein Asp3
+EF3030	KANOAJAN_00550	A0A4J2EHC8	Protein translocase subunit SecA
+EF3030	KANOAJAN_00551	A0A213XMP8	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+EF3030	KANOAJAN_00552	B1I7M0	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+EF3030	KANOAJAN_00553	C1CFX7	hypothetical protein
+EF3030	KANOAJAN_00554	C1CFX6	hypothetical protein
+EF3030	KANOAJAN_00555	A0A4J2D8C6	Hypothetical protein
+EF3030	KANOAJAN_00556	B1I7L6	Membrane protein
+EF3030	KANOAJAN_00557	A0A237KAY3	Serine/threonine transporter SstT
+EF3030	KANOAJAN_00558	C1C8Y8	Potassium efflux system KefA protein
+EF3030	KANOAJAN_00559	C1CFX3	Magnesium and cobalt transport protein CorA2
+EF3030	KANOAJAN_00560	Q8DNQ4	Hydrolase%2C HAD subfamily IIIA
+EF3030	KANOAJAN_00561	Q8DNQ5	GTP-binding protein YqeH%2C required for biogenesis of 30S ribosome subunit
+EF3030	KANOAJAN_00562	Q8DNQ6	RNA-binding protein
+EF3030	KANOAJAN_00563	C1C8Y3	Nicotinate-nucleotide adenylyltransferase
+EF3030	KANOAJAN_00564	A0A4J0R6I4	HAD superfamily hydrolase YqeK
+EF3030	KANOAJAN_00565	C1CFW7	Isochorismatase
+EF3030	KANOAJAN_00566	Q8DNQ9	Ribosomal silencing factor RsfA
+EF3030	KANOAJAN_00567	A0A0T8UQ75	Methyltransferase
+EF3030	KANOAJAN_00568	A0A0T8N9M2	hypothetical protein
+EF3030	KANOAJAN_00569	B2IS93	hypothetical protein
+EF3030	KANOAJAN_00570	A0A0H2ZR31	Antitoxin YefM
+EF3030	KANOAJAN_00571	Q8DNR3	YoeB toxin protein
+EF3030	KANOAJAN_00572	Q04J36	Ribonuclease Y
+EF3030	KANOAJAN_00573	Q97PA3	Guanylate kinase
+EF3030	KANOAJAN_00574	Q04J38	DNA-directed RNA polymerase omega subunit
+EF3030	KANOAJAN_00575	A0A4U8XE68	Helicase PriA essential for oriC/DnaA-independent DNA replication
+EF3030	KANOAJAN_00576	A0A4M3JVJ9	Methionyl-tRNA formyltransferase
+EF3030	KANOAJAN_00577	A0A4M3K189	16S rRNA (cytosine(967)-C(5))-methyltransferase
+EF3030	KANOAJAN_00578	A0A0H2UR71	Protein serine/threonine phosphatase PhpP
+EF3030	KANOAJAN_00579	A0A0B7L145	Serine/threonine protein kinase StkP
+EF3030	KANOAJAN_00580	Q8DNS1	Membrane protein
+EF3030	KANOAJAN_00581	C1CFV2	Putative membrane-spanning protein
+EF3030	KANOAJAN_00582	A0A4M3K1M1	IS1381 transposase OrfA
+EF3030	KANOAJAN_00583	A0A4H9EKW4	IS1381 transposase OrfB
+EF3030	KANOAJAN_00584	A0A4H9AXQ1	Hypothetical protein
+EF3030	KANOAJAN_00585	C1CFU8	Hydroxymethylglutaryl-CoA synthase
+EF3030	KANOAJAN_00586	Q8DNS5	Hydroxymethylglutaryl-CoA reductase
+EF3030	KANOAJAN_00587	Q8DNS6	Sucrose operon repressor ScrR%2C LacI family
+EF3030	KANOAJAN_00588	B2IS73	Sucrose-6-phosphate hydrolase
+EF3030	KANOAJAN_00589	B2IRQ1	Sucrose-specific PTS IIBCA components
+EF3030	KANOAJAN_00590	B2IRQ0	Fructokinase
+EF3030	KANOAJAN_00591	C1CFU1	Immunoreactive protein Se23.5-like protein
+EF3030	KANOAJAN_00592	C1C8V4	ABC transporter ATP-binding protein - Na+ export
+EF3030	KANOAJAN_00593	A0A0T8MVS5	ABC transporter membrane-spanning permease - Na+ export
+EF3030	KANOAJAN_00594	A0A229G0F0	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00595	A0A0T8HFC0	Multidrug ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_00596	Q8DNT4	Transcriptional regulator%2C GntR family
+EF3030	KANOAJAN_00597	B2IRW8	Ribonucleotide reductase transcriptional regulator NrdR
+EF3030	KANOAJAN_00598	C1C8U8	Helicase loader DnaB
+EF3030	KANOAJAN_00599	C1C8U7	Helicase loader DnaI
+EF3030	KANOAJAN_00600	A0A4J2FP11	NADPH-flavin oxidoreductase
+EF3030	KANOAJAN_00601	Q04J64	GTP-binding protein EngA
+EF3030	KANOAJAN_00602	B2IRW3	Hypothetical protein
+EF3030	KANOAJAN_00603	B2IRW2	Hypothetical protein
+EF3030	KANOAJAN_00604	B2IRW1	Hypothetical protein
+EF3030	KANOAJAN_00605	A0A0T7ZD40	Hypothetical protein
+EF3030	KANOAJAN_00606	B2IRV9	ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_00607	B2IRV8	hypothetical protein
+EF3030	KANOAJAN_00608	B2IRV7	Protein translocase subunit SecA
+EF3030	KANOAJAN_00609	B2IRV6	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+EF3030	KANOAJAN_00610	C1C8T8	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+EF3030	KANOAJAN_00611	B2IRV4	Holo-[acyl-carrier protein] synthase
+EF3030	KANOAJAN_00612	C1C8T6	Alanine racemase
+EF3030	KANOAJAN_00613	C1C8T5	ATP-dependent DNA helicase RecG
+EF3030	KANOAJAN_00614	A0A380LTN1	Hypothetical protein
+EF3030	KANOAJAN_00615	C1C8T3	Bifunctional acetyl xylan esterase 1/cephalosporin-C deacetylase
+EF3030	KANOAJAN_00616	A0AAE4K304	Hypothetical protein
+EF3030	KANOAJAN_00617	Q8CYF7	Hypothetical protein
+EF3030	KANOAJAN_00618	B8XTV3	Sialidase NanA
+EF3030	KANOAJAN_00619	A0A0B7LFI0	Hypothetical protein
+EF3030	KANOAJAN_00620	Q8CYF8	Putative beta-D-galactosidase
+EF3030	KANOAJAN_00621	Q8DNU2	ABC transporter substrate-binding protein - sugar transport
+EF3030	KANOAJAN_00622	Q8DNU3	ABC transporter membrane-spanning permease%2C sugar transport YcjO
+EF3030	KANOAJAN_00623	Q8DNU4	ABC transporter%2C permease protein
+EF3030	KANOAJAN_00624	A0A655GHK3	Sialidase
+EF3030	KANOAJAN_00625	C1CFQ6	Oxidoreductase
+EF3030	KANOAJAN_00626	P65521	N-acetylmannosamine-6-phosphate 2-epimerase
+EF3030	KANOAJAN_00627	Q8DNU7	N-acetylglucosamine-specific PTS IIABC components
+EF3030	KANOAJAN_00628	Q8DNU8	ABC transporter%2C putative N-acetylneuraminate-binding protein
+EF3030	KANOAJAN_00629	C1C8S0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 1
+EF3030	KANOAJAN_00630	Q8DNV0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 2
+EF3030	KANOAJAN_00631	B2IRT5	Protein YjgK%2C linked to biofilm formation
+EF3030	KANOAJAN_00632	B2IRT4	Hypothetical protein
+EF3030	KANOAJAN_00633	B1I739	hypothetical protein
+EF3030	KANOAJAN_00634	A0AAD2K932	4-hydroxy-tetrahydrodipicolinate synthase
+EF3030	KANOAJAN_00635	Q8DNV3	N-acetylmannosamine kinase
+EF3030	KANOAJAN_00636	C1C8R3	Sialic acid utilization regulator%2C RpiR family
+EF3030	KANOAJAN_00637	Q75YA7	Penicillin-binding protein 2B
+EF3030	KANOAJAN_00638	A0A0T8CRH5	Recombination protein RecR
+EF3030	KANOAJAN_00639	A0A4J1RHD0	D-alanine--D-alanine ligase
+EF3030	KANOAJAN_00640	B2IRS5	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+EF3030	KANOAJAN_00641	B2IRS4	MutT/nudix family protein phosphohydrolase
+EF3030	KANOAJAN_00642	C1CFN9	Putative membrane protein
+EF3030	KANOAJAN_00643	Q9ZHC0	Cell division protein FtsA
+EF3030	KANOAJAN_00644	Q8DNV9	Cell division protein FtsZ
+EF3030	KANOAJAN_00645	B2IRS0	YlmE
+EF3030	KANOAJAN_00646	Q8DNW1	FtsZ-interacting protein related to cell division YlmF
+EF3030	KANOAJAN_00647	Q9ZHB6	Cell division integral membrane protein YlmG%2C YGGT family
+EF3030	KANOAJAN_00648	Q9ZHB5	YlmH
+EF3030	KANOAJAN_00649	C1CFN2	Cell division initiation protein DivIVA
+EF3030	KANOAJAN_00650	B2IRR4	Isoleucyl-tRNA synthetase
+EF3030	KANOAJAN_00651	B2IRR3	hypothetical protein
+EF3030	KANOAJAN_00652	C1CSS1	Phosphoglycerate mutase
+EF3030	KANOAJAN_00653	A0A4J2CYJ8	Putative large secreted protein
+EF3030	KANOAJAN_00654	A0AA87C9T6	Putative large secreted protein
+EF3030	KANOAJAN_00655	C1C8P3	ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_00656	A0A4J2E743	ABC transporter%2C permease protein
+EF3030	KANOAJAN_00657	B2IRQ7	Thiol peroxidase%2C Tpx-type
+EF3030	KANOAJAN_00658	D2CTJ2	Manganese ABC transporter%2C periplasmic-binding protein PsaA
+EF3030	KANOAJAN_00659	C1CFM0	Manganese ABC transporter%2C inner membrane permease protein PsaC
+EF3030	KANOAJAN_00660	B2IRQ4	Manganese ABC transporter%2C ATP-binding protein PsaB
+EF3030	KANOAJAN_00661	A0A654U8Y8	Neutral endopeptidase O
+EF3030	KANOAJAN_00662	A0AA44S635	Hydroxyacylglutathione hydrolase
+EF3030	KANOAJAN_00663	B2IRP9	Bifunctional guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase/(p)ppGpp synthetase II
+EF3030	KANOAJAN_00664	Q97PH3	D-tyrosyl-tRNA(Tyr) deacylase
+EF3030	KANOAJAN_00665	B2IRP7	hypothetical protein
+EF3030	KANOAJAN_00666	B2IRP6	Hypothetical protein
+EF3030	KANOAJAN_00667	B2IRP5	hypothetical protein
+EF3030	KANOAJAN_00668		Srn266
+EF3030	KANOAJAN_00669	A0A4J1UQ08	IS1167 transposase
+EF3030	KANOAJAN_00670	B2IRP3	Mn-dependent transcriptional regulator MntR
+EF3030	KANOAJAN_00671	B2IRP2	Putative diadenosine tetraphosphatase
+EF3030	KANOAJAN_00672	Q8DNX5	Rrf2 family transcriptional regulator%2C group III
+EF3030	KANOAJAN_00673	A0A0T8JZ79	hypothetical protein
+EF3030	KANOAJAN_00674	B2IRP0	Esterase/lipase
+EF3030	KANOAJAN_00675	C1CFK2	Two-component system response regulator
+EF3030	KANOAJAN_00676	Q9S1K1	Two-component system sensor histidine kinase
+EF3030	KANOAJAN_00677	Q97PI4	Threonyl-tRNA synthetase
+EF3030	KANOAJAN_00678	A0A098ZHC4	hypothetical protein
+EF3030	KANOAJAN_00679	Q8CYH9	Hypothetical protein
+EF3030	KANOAJAN_00680	A0A0H2UR89	Rrf2-linked NADH-flavin reductase
+EF3030	KANOAJAN_00681	Q97PI9	SSU ribosomal protein S15p (S13e)
+EF3030	KANOAJAN_00682	Q8DNY0	Cadmium resistance protein CadD
+EF3030	KANOAJAN_00683	B2IRD2	Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase
+EF3030	KANOAJAN_00684	B2IRD1	Cadmium-transporting ATPase
+EF3030	KANOAJAN_00685	A0A0B7LF81	SWF/SNF family helicase
+EF3030	KANOAJAN_00686	B2IRC9	Macrolide-efflux protein
+EF3030	KANOAJAN_00687	B2IRC8	hypothetical protein
+EF3030	KANOAJAN_00688	A0A0H2UQZ0	Lanthionine biosynthesis protein LanL
+EF3030	KANOAJAN_00689	B2IRC6	hypothetical protein
+EF3030	KANOAJAN_00690	B2IRC5	tRNA (adenine(22)-N(1))-methyltransferase
+EF3030	KANOAJAN_00691	A0A0B7LE08	Putative GTP cyclohydrolase 1 type 2 protein YbgI
+EF3030	KANOAJAN_00692	B2IRC3	Glycine/D-amino acid oxidases family protein
+EF3030	KANOAJAN_00693	C1CFI9	UDP-glucose 4-epimerase
+EF3030	KANOAJAN_00694	B2IRC0	Bactoprenol glucosyl transferase
+EF3030	KANOAJAN_00695	B2IRB9	hypothetical protein
+EF3030	KANOAJAN_00696	A0A0B7L934	Ferredoxin
+EF3030	KANOAJAN_00697	A0A0H2UR49	Hypothetical protein
+EF3030	KANOAJAN_00698	A0A0B7LFT9	Cytidylate kinase
+EF3030	KANOAJAN_00699	C1C8J1	Protein PhnA
+EF3030	KANOAJAN_00700	A0A0H2UQX7	Hypothetical protein
+EF3030	KANOAJAN_00701	Q8DNZ1	Major facilitator superfamily transporter-permease
+EF3030	KANOAJAN_00702	Q97PL0	tRNA pseudouridine synthase A
+EF3030	KANOAJAN_00703	A0A0H2UR72	Pyridoxal kinase%2C thiD family
+EF3030	KANOAJAN_00704	A0A149VLG4	Substrate-specific component PdxU2 of putative pyridoxin-related ECF transporter
+EF3030	KANOAJAN_00705	A0A4J1XKP8	hypothetical protein
+EF3030	KANOAJAN_00706	B2INW7	hypothetical protein
+EF3030	KANOAJAN_00707	A0A4J2D862	IS3 family transposase ISSpn11
+EF3030	KANOAJAN_00708	A0A0H2UR67	Xaa-Pro dipeptidase
+EF3030	KANOAJAN_00709	A0A0H2ZML1	Putative amidotransferase similar to cobyric acid synthase
+EF3030	KANOAJAN_00710	A0A0H2UQV8	Mur ligase family protein
+EF3030	KANOAJAN_00711	A0A0E8T5I3	Pyridine nucleotide-disulfide oxidoreductase
+EF3030	KANOAJAN_00712	A0A098Z5G6	Major facilitator oxalate:formate antiporter
+EF3030	KANOAJAN_00713	C1C8H4	DEAD-box ATP-dependent RNA helicase CshA
+EF3030	KANOAJAN_00714	C1CSK2	GTP-sensing transcriptional pleiotropic repressor CodY
+EF3030	KANOAJAN_00715	Q8DP02	Nicotinamidase
+EF3030	KANOAJAN_00716		tRNA-Leu(aag)
+EF3030	KANOAJAN_00717	Q8DP03	Multiple sugar ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_00718	A0A098Z665	SAM-dependent methyltransferase
+EF3030	KANOAJAN_00719	C1CFG1	Adenine phosphoribosyltransferase
+EF3030	KANOAJAN_00720	Q8DP05	Homoserine O-succinyltransferase
+EF3030	KANOAJAN_00721	A0A0E9GY54	Chromosome replication initiation protein DnaD
+EF3030	KANOAJAN_00722	Q04JH4	Triosephosphate isomerase
+EF3030	KANOAJAN_00723	A0A0H2XFA2	1%2C4-beta-N-acetylmuramidase%2C lyzozyme LytC
+EF3030	KANOAJAN_00724	A0A264SLW6	Bifunctional non-specific DNA-binding protein/ferroxidase Dpr
+EF3030	KANOAJAN_00725	A0A0B7L9Q4	Dihydrofolate reductase
+EF3030	KANOAJAN_00726	Q8CYI3	Hypothetical protein
+EF3030	KANOAJAN_00727	Q04JH9	ATP-dependent Clp protease ATP-binding subunit ClpX
+EF3030	KANOAJAN_00728	Q04JI0	GTP-binding protein EngB
+EF3030	KANOAJAN_00729	Q8DP09	RidA/YER057c/UK114 superfamily protein
+EF3030	KANOAJAN_00730	A0A098ZHY2	Putative P-loop-containing kinase
+EF3030	KANOAJAN_00731	Q97PN8	LPPG:FO 2-phospho-L-lactate transferase-like protein
+EF3030	KANOAJAN_00732	Q97PN9	Putative cytoplasmic protein
+EF3030	KANOAJAN_00733	Q97PP0	Thioredoxin reductase
+EF3030	KANOAJAN_00734	Q8DP14	Bacterial checkpoint controller DisA
+EF3030	KANOAJAN_00735	Q8DP15	Hypothetical protein
+EF3030	KANOAJAN_00736	Q97PP4	Phosphoglucosamine mutase
+EF3030	KANOAJAN_00737	B2IR77	Hypothetical protein
+EF3030	KANOAJAN_00738	Q97PP6	DegV family protein
+EF3030	KANOAJAN_00739	B2IR75	4-hydroxy-tetrahydrodipicolinate reductase
+EF3030	KANOAJAN_00740	B2IR74	CCA tRNA nucleotidyltransferase
+EF3030	KANOAJAN_00741	B2IR73	ATPase component of ABC transporter with duplicated ATPase domains
+EF3030	KANOAJAN_00742	C1CFD7	Cobalt-zinc-cadmium resistance protein
+EF3030	KANOAJAN_00743		SSRC10
+EF3030	KANOAJAN_00744	C1CFD6	Calcium-transporting ATPase
+EF3030	KANOAJAN_00745	A0A0H2UQV0	Glutathione S-transferase
+EF3030	KANOAJAN_00746	C1C8E2	Peptide deformylase
+EF3030	KANOAJAN_00747	A0A0B7M1N9	Cell shape-determining protein
+EF3030	KANOAJAN_00748	A0A229FM92	Hypothetical protein
+EF3030	KANOAJAN_00749		SpR20_sRNA
+EF3030	KANOAJAN_00750	A0A0E8ZIF4	hypothetical protein
+EF3030	KANOAJAN_00751	B1ICW7	Hypothetical protein
+EF3030	KANOAJAN_00752	A0A0U0AX51	Hypothetical protein
+EF3030	KANOAJAN_00753	A0A6G2D9G7	Aspartate aminotransferase
+EF3030	KANOAJAN_00754	B2IR62	Putative lactoylglutathione lyase
+EF3030	KANOAJAN_00755	C1CFC3	Asparaginyl-tRNA synthetase
+EF3030	KANOAJAN_00756	Q04JK8	SSU ribosomal protein S6p
+EF3030	KANOAJAN_00757	P66855	Single-stranded DNA-binding protein
+EF3030	KANOAJAN_00758	Q04JL0	SSU ribosomal protein S18p
+EF3030	KANOAJAN_00759	B2IR57	Bifunctional lipoprotein rotamase A/peptidyl-prolyl cis-trans isomerase
+EF3030	KANOAJAN_00760	Q8DP29	General stress protein 13
+EF3030	KANOAJAN_00761	C1C8C5	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase
+EF3030	KANOAJAN_00762	C1C8C4	Putative endonuclease
+EF3030	KANOAJAN_00763	Q04JL5	Manganese-dependent inorganic pyrophosphatase
+EF3030	KANOAJAN_00764	C1CFB4	Glutamate synthase [NADPH] large chain
+EF3030	KANOAJAN_00765	B2IR51	hypothetical protein
+EF3030	KANOAJAN_00766	A0A4J2D019	hypothetical protein
+EF3030	KANOAJAN_00767	B2IR50	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+EF3030	KANOAJAN_00768	B2IR49	Putative cell division protein YtgP
+EF3030	KANOAJAN_00769	C1CFA9	Oligopeptide ABC transporter oligopeptide-binding protein AliB
+EF3030	KANOAJAN_00770	B2IR46	Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+EF3030	KANOAJAN_00771	B2IR45	ABC transporter%2C ATP-binding/permease protein
+EF3030	KANOAJAN_00772	A0A0B7L8U4	ABC transporter ATP-binding/permease protein
+EF3030	KANOAJAN_00773	B2IQY5	Cystathionine gamma-synthase
+EF3030	KANOAJAN_00774	A0A0B7M805	Bifunctional PLP-dependent beta-cystathionase/maltose regulon repressor
+EF3030	KANOAJAN_00775	B2IQY3	SWF/SNF family helicase
+EF3030	KANOAJAN_00776	B2IQY2	Hypothetical protein
+EF3030	KANOAJAN_00777	Q8DP40	UDP-N-acetylmuramate--alanine ligase
+EF3030	KANOAJAN_00778	B2IQY7	hypothetical protein
+EF3030	KANOAJAN_00779	Q8DP41	Acetyltransferase%2C GNAT family
+EF3030	KANOAJAN_00780	A0A0B7LH84	Endolytic murein transglycosylase MltG
+EF3030	KANOAJAN_00781	Q8DP42	Transcription elongation factor GreA
+EF3030	KANOAJAN_00782	A0A4J2F697	Hypothetical protein
+EF3030	KANOAJAN_00783	Q8CYJ9	Acetyltransferase
+EF3030	KANOAJAN_00784	B2IQX7	ISSpn8 transposase
+EF3030	KANOAJAN_00785	Q79RW7	ATP synthase F0 sector subunit c
+EF3030	KANOAJAN_00786	Q79MQ8	ATP synthase F0 sector subunit a
+EF3030	KANOAJAN_00787	Q04HT5	ATP synthase F0 sector subunit b
+EF3030	KANOAJAN_00788	Q04HT6	ATP synthase F1 sector delta chain
+EF3030	KANOAJAN_00789	C1CF95	ATP synthase F1 sector alpha chain
+EF3030	KANOAJAN_00790	C1CSC9	ATP synthase F1 sector gamma chain
+EF3030	KANOAJAN_00791	C1CLK6	ATP synthase F1 sector beta chain
+EF3030	KANOAJAN_00792	Q04N64	ATP synthase F1 sector epsilon chain
+EF3030	KANOAJAN_00793	Q8DP45	6-phosphogluconolactonase
+EF3030	KANOAJAN_00794	B2IQW7	Hypothetical protein
+EF3030	KANOAJAN_00795	B1ICS5	TPR-repeat-containing protein
+EF3030	KANOAJAN_00796	C1CF86	Glutamine ABC transporter permease GlnP6
+EF3030	KANOAJAN_00797	Q8DP49	Glutamine ABC transporter ATP-binding protein GlnQ6
+EF3030	KANOAJAN_00798	B2IQW3	Glutamine ABC transporter substrate-binding protein GlnH6
+EF3030	KANOAJAN_00799	B2IQW2	Bacterocin transport accessory protein
+EF3030	KANOAJAN_00800		Srn266
+EF3030	KANOAJAN_00801	A0A4J1U7S1	IS1167 transposase Orf1
+EF3030	KANOAJAN_00802	A0A0T8X5W3	hypothetical protein
+EF3030	KANOAJAN_00803	A0A4F2S025	IS1167 transposase
+EF3030	KANOAJAN_00804	B2IQV9	Phosphoglucomutase
+EF3030	KANOAJAN_00805	A0A5E8DY65	hypothetical protein
+EF3030	KANOAJAN_00806	C1CF78	Hypothetical protein
+EF3030	KANOAJAN_00807	A0A559FCV4	Hypothetical protein
+EF3030	KANOAJAN_00808	C1C885	Cell wall surface anchor family protein MucB
+EF3030	KANOAJAN_00809	C1C884	Major intrinsic protein family aquaporin
+EF3030	KANOAJAN_00810	B2IQV2	Translation elongation factor Tu
+EF3030	KANOAJAN_00811	A0A4J2FL21	IS630 family transposase ISSpn2
+EF3030	KANOAJAN_00812	A0A4J1UEN9	ATP-dependent RNA helicase YfmL
+EF3030	KANOAJAN_00813	A0A0U0GQD0	Oxidoreductase%2C Gfo/Idh/MocA family
+EF3030	KANOAJAN_00814	A0A654UCS1	hypothetical protein
+EF3030	KANOAJAN_00815	B2IQU5	Peptidoglycan N-acetylglucosamine deacetylase
+EF3030	KANOAJAN_00816	C1C873	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
+EF3030	KANOAJAN_00817		SpR19_sRNA
+EF3030	KANOAJAN_00818	A0A4G4FJM8	hypothetical protein
+EF3030	KANOAJAN_00819	A0A9P1LV21	hypothetical protein
+EF3030	KANOAJAN_00820	C1CQP3	Glycyl-tRNA synthetase alpha chain
+EF3030	KANOAJAN_00821	A0A9P1QCB1	Glycyl-tRNA synthetase beta chain
+EF3030	KANOAJAN_00822	C1CLH3	Hypothetical protein
+EF3030	KANOAJAN_00823	B2IQT9	Fumarate reductase%2C flavoprotein subunit precursor
+EF3030	KANOAJAN_00824	B2IQT8	Fumarate reductase%2C flavoprotein subunit precursor
+EF3030	KANOAJAN_00825	Q8DP69	Putative thiamin biosynthesis lipoprotein
+EF3030	KANOAJAN_00826	C1C864	NADH peroxidase
+EF3030	KANOAJAN_00827	Q97PX2	Pyridoxal 5'-phosphate synthase%2C synthase subunit PdxS
+EF3030	KANOAJAN_00828	B2IQT4	Pyridoxal 5'-phosphate synthase%2C glutaminase subunit PdxT
+EF3030	KANOAJAN_00829	A0A4N6A8N2	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00830	B2IQT2	Hypothetical protein
+EF3030	KANOAJAN_00831	B2IQT1	Hemolysin III
+EF3030	KANOAJAN_00832	B2IQT0	Hypothetical protein
+EF3030	KANOAJAN_00833	B2IQS9	Acetyltransferase
+EF3030	KANOAJAN_00834	A0A4H9C0S5	Methylated-DNA--protein-cysteine methyltransferase
+EF3030	KANOAJAN_00835	Q8DP75	Arsenate reductase
+EF3030	KANOAJAN_00836	Q8DP76	Cysteine ABC transporter permease protein
+EF3030	KANOAJAN_00837	Q8DP77	Cysteine ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00838	Q8CYL0	Hypothetical protein
+EF3030	KANOAJAN_00839	B2IQS3	Thioredoxin reductase
+EF3030	KANOAJAN_00840	C1C852	23S rRNA (guanosine(2251)-2'-O)-methyltransferase
+EF3030	KANOAJAN_00841	Q04JP7	Peptide deformylase
+EF3030	KANOAJAN_00842	B2IQR9	Capsule biosynthesis protein CapA
+EF3030	KANOAJAN_00843	Q8CYL3	hypothetical protein
+EF3030	KANOAJAN_00844	B2IQR7	HAD superfamily hydrolase
+EF3030	KANOAJAN_00845	C1C847	Bifunctional N-acetylneuraminate cytidylyltransferase/platelet activating factor
+EF3030	KANOAJAN_00846	B2IQR5	C3-degrading proteinase
+EF3030	KANOAJAN_00847	B2IQR4	Beta-lactamase%2C class C
+EF3030	KANOAJAN_00848	Q8DP82	Drug/metabolite transporter superfamily protein
+EF3030	KANOAJAN_00849	Q8DP83	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
+EF3030	KANOAJAN_00850	B2IQR1	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
+EF3030	KANOAJAN_00851		SpR18_sRNA
+EF3030	KANOAJAN_00852	B2IQR0	IS66 family transposase Orf1
+EF3030	KANOAJAN_00853	Q7WVV7	IS66 family transposase Orf2
+EF3030	KANOAJAN_00854	A0A0T8C7E0	hypothetical protein
+EF3030	KANOAJAN_00855	A0A0U0KMF4	hypothetical protein
+EF3030	KANOAJAN_00856	B2IQQ4	Duplicated ATPase component of energizing module of putative ECF transporter
+EF3030	KANOAJAN_00857	A0A0B7LM34	Transmembrane component of energizing module of putative ECF transporter
+EF3030	KANOAJAN_00858	Q8CYL9	Substrate-specific component of putative ECF transporter
+EF3030	KANOAJAN_00859	B2IQQ1	ABC transporter ATP-binding/permease protein
+EF3030	KANOAJAN_00860	A0A822QDB5	ABC transporter ATP-binding/permease protein
+EF3030	KANOAJAN_00861	Q8CYM0	Transcriptional regulator%2C AraC family
+EF3030	KANOAJAN_00862	Q8RT72	Type II restriction-modification system methyltransferase
+EF3030	KANOAJAN_00863	B2IQP6	hypothetical protein
+EF3030	KANOAJAN_00864	B2IQP5	hypothetical protein
+EF3030	KANOAJAN_00865	B2IQP4	Peptidase%2C U32 family large subunit (C1)
+EF3030	KANOAJAN_00866	A0A4J1VQ12	Peptidase%2C U32 family large subunit (C1)
+EF3030	KANOAJAN_00867	B2IQM9	Multidrug efflux ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00868	C1C823	Multidrug efflux ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00869	A0A4N6PCS7	Hypothetical protein
+EF3030	KANOAJAN_00870	C1CF10	Transcriptional repressor
+EF3030	KANOAJAN_00871	Q8CYM4	Hypothetical protein
+EF3030	KANOAJAN_00872	Q8DP97	Nicotinate phosphoribosyltransferase
+EF3030	KANOAJAN_00873	Q04JT1	NAD synthetase
+EF3030	KANOAJAN_00874	C1C817	Acetyltransferase%2C GNAT family
+EF3030	KANOAJAN_00875	A0A0B7KSA0	Hypothetical protein
+EF3030	KANOAJAN_00876	A0A6G2CT29	Choline-binding protein CbpM
+EF3030	KANOAJAN_00877	B2IQN5	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EF3030	KANOAJAN_00878	B2IQN4	Glucosamine-6-phosphate deaminase
+EF3030	KANOAJAN_00879	B2IQN3	SSU ribosomal protein S21p
+EF3030	KANOAJAN_00880	B2IMI6	IS1167 transposase
+EF3030	KANOAJAN_00881		Srn266
+EF3030	KANOAJAN_00882	A0A229FYZ7	HPr kinase/phosphorylase
+EF3030	KANOAJAN_00883	B2IQN1	Prolipoprotein diacylglyceryl transferase
+EF3030	KANOAJAN_00884	Q8DPA4	General stress protein
+EF3030	KANOAJAN_00885	B2IQM6	Hypothetical protein
+EF3030	KANOAJAN_00886	Q8DPA6	Putative radical SAM family enzyme
+EF3030	KANOAJAN_00887	B2IQM4	Acyl-ACP thioesterase
+EF3030	KANOAJAN_00888	Q8DPA7	Putative NagD-like phosphatase
+EF3030	KANOAJAN_00889	C1C805	Integral membrane protein
+EF3030	KANOAJAN_00890	Q97Q26	Transcriptional regulator SpxA1
+EF3030	KANOAJAN_00891	Q04JU6	Hypothetical protein
+EF3030	KANOAJAN_00892	C1CEZ1	Inositol-1-monophosphatase
+EF3030	KANOAJAN_00893	B2IQL8	tRNA and rRNA cytosine-C5-methylase
+EF3030	KANOAJAN_00894	A0A0B7MDL7	Hypothetical protein
+EF3030	KANOAJAN_00895	Q97Q31	Phosphate ABC transporter periplasmic phosphate-binding protein PstS2
+EF3030	KANOAJAN_00896	Q8DPB2	Phosphate transport system permease protein PstC2
+EF3030	KANOAJAN_00897	Q8DPB3	Phosphate transport system permease protein PstA2
+EF3030	KANOAJAN_00898	C1CEY5	Phosphate transport ATP-binding protein PstB2_1
+EF3030	KANOAJAN_00899	C1CEY4	Phosphate transport ATP-binding protein PstB2_2
+EF3030	KANOAJAN_00900	Q8DPB6	Phosphate transport system regulatory protein PhoU2
+EF3030	KANOAJAN_00901	B2IQL1	Amino acid ABC transporter amino acid-binding/permease protein
+EF3030	KANOAJAN_00902	A0A0T8LVI1	Putative transcriptional regulator of pyridoxine metabolism
+EF3030	KANOAJAN_00903	A0A4L7JM47	Alpha-acetolactate decarboxylase
+EF3030	KANOAJAN_00904	A0A0T8ERW0	Hypothetical protein
+EF3030	KANOAJAN_00905	C1CL98	UDP-N-acetylenolpyruvoylglucosamine reductase
+EF3030	KANOAJAN_00906	C1CEX7	Spermidine/putrescine import ABC transporter ATP-binding protein PotA
+EF3030	KANOAJAN_00907	B1ICI7	Spermidine/putrescine import ABC transporter permease protein PotB
+EF3030	KANOAJAN_00908	C1C7Y7	Spermidine/putrescine import ABC transporter permease protein PotC
+EF3030	KANOAJAN_00909	C1C7Y6	Spermidine/putrescine import ABC transporter substrate-binding protein PotD
+EF3030	KANOAJAN_00910	Q8DPC6	Hypothetical protein
+EF3030	KANOAJAN_00911	A0A4J2B698	Alanyl-tRNA synthetase
+EF3030	KANOAJAN_00912	C1C7Y2	Cytoplasmic alpha-amylase
+EF3030	KANOAJAN_00913	A0A0U0KUL7	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00914	A0A6I3VER5	ABC transporter permease
+EF3030	KANOAJAN_00915	A0A4F8JSE4	Putative ribosomal RNA large subunit methyltransferase YwbD
+EF3030	KANOAJAN_00916	Q04JX0	3-dehydroquinate dehydratase I
+EF3030	KANOAJAN_00917	Q3HZZ5	Shikimate/quinate 5-dehydrogenase I beta
+EF3030	KANOAJAN_00918	Q3I068	3-dehydroquinate synthase
+EF3030	KANOAJAN_00919	C1CL83	Chorismate synthase
+EF3030	KANOAJAN_00920	C1CEW2	Prephenate dehydrogenase
+EF3030	KANOAJAN_00921	Q8DPD3	Transcriptional regulator
+EF3030	KANOAJAN_00922	B2IQI9	5-Enolpyruvylshikimate-3-phosphate synthase
+EF3030	KANOAJAN_00923	B2IQI8	Shikimate kinase I
+EF3030	KANOAJAN_00924	B2IQI7	Prephenate dehydratase
+EF3030	KANOAJAN_00925	Q8DPD6	LytR-CpsA-Psr subfamily F1 cell envelope-associated transcriptional attenuator
+EF3030	KANOAJAN_00926	B2IQI4	Lipopolysaccharide cholinephosphotransferase LicD3
+EF3030	KANOAJAN_00927	B2IQI3	Glycosyltransferase%2C group 1 family
+EF3030	KANOAJAN_00928	B2IQI2	Glycosyltransferase%2C group 2 family
+EF3030	KANOAJAN_00929	B2IQI1	Teichoic acid ribitol polymerase
+EF3030	KANOAJAN_00930	C1CEV2	TarQ
+EF3030	KANOAJAN_00931	B2IQH9	Adaptor protein MecA
+EF3030	KANOAJAN_00932	Q8DPE1	Homoserine dehydrogenase
+EF3030	KANOAJAN_00933	Q04JY7	Homoserine kinase
+EF3030	KANOAJAN_00934	P0A3Q9	Peptide methionine sulfoxide reductase MsrAB1
+EF3030	KANOAJAN_00935	B2IQH5	ABC transporter ATP-binding/permease protein
+EF3030	KANOAJAN_00936	B2IQH4	ABC transporter ATP-binding/permease protein
+EF3030	KANOAJAN_00937	A0A7U0F9H6	Methylthioadenosine deaminase
+EF3030	KANOAJAN_00938		L10_leader
+EF3030	KANOAJAN_00939	Q04JZ3	LSU ribosomal protein L10p (P0)
+EF3030	KANOAJAN_00940	A0A098ZBL3	LSU ribosomal protein L7/L12 (P1/P2)
+EF3030	KANOAJAN_00941	B2IQA5	hypothetical protein
+EF3030	KANOAJAN_00942	B2IQA4	NADP-specific glutamate dehydrogenase
+EF3030	KANOAJAN_00943	Q8DPG2	Ferrous iron transport peroxidase EfeB
+EF3030	KANOAJAN_00944	Q8CYP5	Ferrous iron transport permease EfeU
+EF3030	KANOAJAN_00945	A0AA87CAZ5	LSU ribosomal protein L31p
+EF3030	KANOAJAN_00946	C1C7S7	DHH family phosphoesterase Pde2
+EF3030	KANOAJAN_00947	A0A0E8HLI6	Flavodoxin
+EF3030	KANOAJAN_00948	B2IQ95	Chorismate mutase I
+EF3030	KANOAJAN_00949	Q97QC4	ClC-type fluoride channel
+EF3030	KANOAJAN_00950	Q97QC5	ClC-type fluoride channel
+EF3030	KANOAJAN_00951	Q97QC6	LSU ribosomal protein L19p
+EF3030	KANOAJAN_00952		tRNA-Arg(cct)
+EF3030	KANOAJAN_00953	A0A0B4ZN83	hypothetical protein
+EF3030	KANOAJAN_00954	A0A0T7TTP9	Positive transcriptional regulator%2C MutR family
+EF3030	KANOAJAN_00955	B2IQ85	hypothetical protein
+EF3030	KANOAJAN_00956	B2IQ84	hypothetical protein
+EF3030	KANOAJAN_00957	B2IQ83	hypothetical protein
+EF3030	KANOAJAN_00958	B2IQ82	Sugar phosphatase YidA
+EF3030	KANOAJAN_00959	Q8DPG9	dNTP triphosphohydrolase
+EF3030	KANOAJAN_00960	B2IQ80	Hypothetical protein
+EF3030	KANOAJAN_00961	Q8DPH0	Signal recognition particle associated protein
+EF3030	KANOAJAN_00962	C1CEP2	Signal recognition particle protein Ffh
+EF3030	KANOAJAN_00963	A0A0H2ZMV8	Uracil permease
+EF3030	KANOAJAN_00964		SpF44_sRNA
+EF3030	KANOAJAN_00965	B2IQ76	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+EF3030	KANOAJAN_00966	Q8DPH4	LemA
+EF3030	KANOAJAN_00967	Q8DPH5	Heat shock protein HtpX
+EF3030	KANOAJAN_00968	B2IQ73	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00969		SpF43_sRNA
+EF3030	KANOAJAN_00970	B1IC71	BlpT protein
+EF3030	KANOAJAN_00971	B2IQ72	Protein%2C clustered with ribosomal protein L32p
+EF3030	KANOAJAN_00972	Q8DPH8	Endonuclease III
+EF3030	KANOAJAN_00973		PyrR
+EF3030	KANOAJAN_00974	Q04K45	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
+EF3030	KANOAJAN_00975	C1CR29	Aspartate carbamoyltransferase
+EF3030	KANOAJAN_00976	A0A064BWJ2	Carbamoyl-phosphate synthase small chain CarA
+EF3030	KANOAJAN_00977	B8ZJT9	Carbamoyl-phosphate synthase large chain CarB
+EF3030	KANOAJAN_00978	A0A2R2HVC5	Lipopolysaccharide cholinephosphotransferase LicD2
+EF3030	KANOAJAN_00979	Q9X4D4	Lipopolysaccharide cholinephosphotransferase LicD1
+EF3030	KANOAJAN_00980	B2IQ64	Membrane protein TacF involved in the export of O-antigen and teichoic acid
+EF3030	KANOAJAN_00981	A0A064BWJ5	Ribitol-5-phosphate cytidylyltransferase
+EF3030	KANOAJAN_00982	B2IQ62	Ribulose-5-phosphate reductase
+EF3030	KANOAJAN_00983	B2IQ61	Choline kinase LicA
+EF3030	KANOAJAN_00984	C1CEM2	Choline permease LicB
+EF3030	KANOAJAN_00985	Q93MI4	Cholinephosphate cytidylyltransferase LicC
+EF3030	KANOAJAN_00986	B2IQ58	DNA protecting protein DprA
+EF3030	KANOAJAN_00987	I0J991	ISSpn8 transposase
+EF3030	KANOAJAN_00988	A0A0T7ZS55	Hypothetical protein
+EF3030	KANOAJAN_00989	B2IQ56	Chloramphenicol acetyltransferase
+EF3030	KANOAJAN_00990	C1C727	Methionyl-tRNA synthetase
+EF3030	KANOAJAN_00991	A0A0T7ZX26	Tyrosine-protein phosphatase
+EF3030	KANOAJAN_00992	A0A7X3BXV2	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00993	B2IQ52	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_00994	A0A0B7LMW6	Antibiotic ABC transporter permease protein
+EF3030	KANOAJAN_00995	C1C733	Multidrug ABC transporter permease protein
+EF3030	KANOAJAN_00996	B2IQ49	hypothetical protein
+EF3030	KANOAJAN_00997	B2IQ47	hypothetical protein
+EF3030	KANOAJAN_00998	C1C734	Putative repressor protein%2C phage associated
+EF3030	KANOAJAN_00999		pemK
+EF3030	KANOAJAN_01000	A0A0U0I1A6	hypothetical protein
+EF3030	KANOAJAN_01001	B2IQ45	hypothetical protein
+EF3030	KANOAJAN_01002	A0A0T8TE08	Peptidase E
+EF3030	KANOAJAN_01003	B2IQ43	hypothetical protein
+EF3030	KANOAJAN_01004	B2IQ42	hypothetical protein
+EF3030	KANOAJAN_01005	A0A0H2ZRW0	Cell division protein FtsW
+EF3030	KANOAJAN_01006	B2IQ40	Phosphoenolpyruvate carboxylase
+EF3030	KANOAJAN_01007		T-box
+EF3030	KANOAJAN_01008	A0A0T8VJT9	ABC transporter substrate-binding protein
+EF3030	KANOAJAN_01009	Q8DPW3	Putative tryptophan-specific ABC transporter permease protein TrpY
+EF3030	KANOAJAN_01010	Q8DPW2	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01011	C1CE59	DNA primase
+EF3030	KANOAJAN_01012	P0A4J0	RNA polymerase sigma factor RpoD
+EF3030	KANOAJAN_01013	Q8DPW0	Putative aromatic ring hydroxylating enzyme
+EF3030	KANOAJAN_01014	A0A0H2ZPH7	Diglucosyl diacylglycerol synthase LafB
+EF3030	KANOAJAN_01015	C1CE63	1%2C2-diacylglycerol 3-glucosyltransferase LafA
+EF3030	KANOAJAN_01016	C1CE64	Hypothetical protein
+EF3030	KANOAJAN_01017	C1CE65	Hypothetical protein
+EF3030	KANOAJAN_01018	A0A0B7LKD4	GTP-binding protein ObgE
+EF3030	KANOAJAN_01019	C1CE67	Hypothetical protein
+EF3030	KANOAJAN_01020	C1CD04	IS1167 transposase
+EF3030	KANOAJAN_01021	C1CF69	hypothetical protein
+EF3030	KANOAJAN_01022	B2IQ26	IS1167 transposase Orf1
+EF3030	KANOAJAN_01023		Srn266
+EF3030	KANOAJAN_01024		group-II-D1D4-3
+EF3030	KANOAJAN_01025	Q97QW6	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EF3030	KANOAJAN_01026	B1IBM4	Ribosomal-protein-S5p-alanine acetyltransferase
+EF3030	KANOAJAN_01027	Q8DPV2	Cytosolic protein containing multiple CBS domains
+EF3030	KANOAJAN_01028	B2IQ22	Methionine aminopeptidase
+EF3030	KANOAJAN_01029	A0A4J2FE91	hypothetical protein
+EF3030	KANOAJAN_01030	B2IQ21	IS1381 transposase OrfA
+EF3030	KANOAJAN_01031	C1CFV0	IS1381 transposase OrfB
+EF3030	KANOAJAN_01032	A0A0E9A2L0	ATP-dependent DNA helicase PcrA
+EF3030	KANOAJAN_01033	A0A062WLA7	DNA repair protein RadC
+EF3030	KANOAJAN_01034	B2IQ17	Glutamine amidotransferase%2C class I
+EF3030	KANOAJAN_01035	C1CRJ3	Redox-sensitive transcriptional regulator Rex
+EF3030	KANOAJAN_01036	Q8CYS1	Hypothetical protein
+EF3030	KANOAJAN_01037	Q8CYS0	Hypothetical protein
+EF3030	KANOAJAN_01038	C1CE80	Cysteine desulfurase
+EF3030	KANOAJAN_01039	P65242	Ribose-phosphate pyrophosphokinase
+EF3030	KANOAJAN_01040	Q8DPU3	Adenylate cyclase
+EF3030	KANOAJAN_01041	Q8DPU2	GTP pyrophosphokinase
+EF3030	KANOAJAN_01042	B2IQ09	NAD kinase
+EF3030	KANOAJAN_01043	Q8DPU1	RluD-like protein
+EF3030	KANOAJAN_01044	Q8DPU0	Phosphate acetyltransferase
+EF3030	KANOAJAN_01045		SpR14_sRNA
+EF3030	KANOAJAN_01045		
+EF3030	KANOAJAN_01046	Q04KI6	Hypothetical protein co-occurring with RecR
+EF3030	KANOAJAN_01047	A0A0B7M7N6	Hypothetical protein
+EF3030	KANOAJAN_01048		L21_leader
+EF3030	KANOAJAN_01049	Q97QU4	LSU ribosomal protein L21p
+EF3030	KANOAJAN_01050	Q8DPT7	Putative ribosomal protein
+EF3030	KANOAJAN_01051	Q04KI2	LSU ribosomal protein L27p
+EF3030	KANOAJAN_01052	Q8DPT6	Bifunctional FMN adenylyltransferase/riboflavin kinase RibF
+EF3030	KANOAJAN_01053	Q8DPT5	Transporter
+EF3030	KANOAJAN_01054	C1CE99	DegV family protein
+EF3030	KANOAJAN_01055	C1CEA0	DNA-binding protein HlpA
+EF3030	KANOAJAN_01056	B2IPZ5	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01057	Q8DPT1	Positive transcriptional regulator%2C MutR family
+EF3030	KANOAJAN_01058	B2IPZ2	Macrolide efflux ABC transporter membrane-spanning permease
+EF3030	KANOAJAN_01059	A0AAD2Q8W6	DNA ligase (NAD(+))
+EF3030	KANOAJAN_01060	B2IPZ0	Putative glycogen debranching enzyme
+EF3030	KANOAJAN_01061	B2IPY8	Glyceraldehyde-3-phosphate dehydrogenase (NADP(+))
+EF3030	KANOAJAN_01062	B2IPY7	1%2C4-alpha-glucan-branching enzyme GlgB
+EF3030	KANOAJAN_01063	B2IPY6	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgC
+EF3030	KANOAJAN_01064	Q8DPS4	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgD
+EF3030	KANOAJAN_01065	B2IPY4	Glycogen biosynthesis ADP-glucose--glucan transglucosylase GlgA
+EF3030	KANOAJAN_01066	B2IPY3	Phosphoserine phosphatase
+EF3030	KANOAJAN_01067	B2IPY1	Glycerate kinase
+EF3030	KANOAJAN_01068	B2IPY0	Glycerate kinase
+EF3030	KANOAJAN_01069	Q8CYR5	Hypothetical protein
+EF3030	KANOAJAN_01070	Q8DPS0	Enolase
+EF3030	KANOAJAN_01071	A0A132UFZ9	IS1167 transposase
+EF3030	KANOAJAN_01072	A0A0T8X5W3	hypothetical protein
+EF3030	KANOAJAN_01073	A0A4J1WFF8	IS1167 transposase Orf1
+EF3030	KANOAJAN_01074		Srn266
+EF3030	KANOAJAN_01075	A0A4K6U0R7	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_01076	A0AAE9QWE4	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_01077	A0A822Q8B3	ATP-dependent nuclease subunit RexB
+EF3030	KANOAJAN_01078	A0A4J1ZM36	ATP-dependent nuclease subunit RexA
+EF3030	KANOAJAN_01079	C1CEB9	Hypothetical protein
+EF3030	KANOAJAN_01080	B2IPX1	IgA1 protease ZmpA
+EF3030	KANOAJAN_01081	A0A4J2BLN9	Zinc metalloprotease ZmpB precursor
+EF3030	KANOAJAN_01082	B2IPW9	50S ribosomal subunit maturation GTPase RbgA
+EF3030	KANOAJAN_01083	B5E4Q2	Ribonuclease HII
+EF3030	KANOAJAN_01084	B2IPW7	Voltage-gated chloride channel family protein
+EF3030	KANOAJAN_01085	C1CKQ9	Tyrosine recombinase XerS
+EF3030	KANOAJAN_01086	B2IPW5	Lipoate-protein ligase A
+EF3030	KANOAJAN_01087	Q8VPK8	Dihydrolipoamide dehydrogenase of acetoin dehydrogenase
+EF3030	KANOAJAN_01088	A0A0B7M968	Dihydrolipoamide acetyltransferase (E2) component of acetoin dehydrogenase complex
+EF3030	KANOAJAN_01089	C1C7D4	Acetoin dehydrogenase E1 component beta-subunit
+EF3030	KANOAJAN_01090	B2IPW1	Acetoin dehydrogenase E1 component alpha-subunit
+EF3030	KANOAJAN_01091	B2IPV9	Dihydrolipoamide acetyltransferase
+EF3030	KANOAJAN_01092	A0A0B7L0U2	Hypothetical protein
+EF3030	KANOAJAN_01093	A0A0B7M963	Dihydroorotase
+EF3030	KANOAJAN_01094	A0A0T8RY05	8-oxo-dGTP diphosphatase MutX
+EF3030	KANOAJAN_01095	B2IPV6	Uracil-DNA glycosylase%2C family 1
+EF3030	KANOAJAN_01096	A0A0D6J8I6	Hypothetical protein
+EF3030	KANOAJAN_01097	A0A0T8F0F7	2-haloalkanoic acid dehalogenase
+EF3030	KANOAJAN_01098	A0A0T9ZX06	hypothetical protein
+EF3030	KANOAJAN_01099	C1C7E3	IS1381 transposase OrfB
+EF3030	KANOAJAN_01100	B2IPV1	hypothetical protein
+EF3030	KANOAJAN_01101	A0A7X2XKH2	Pneumococcal histidine triad protein B
+EF3030	KANOAJAN_01102	A0A0B7LFZ1	Phosphoenolpyruvate-protein phosphotransferase of PTS
+EF3030	KANOAJAN_01103	Q8DPQ0	Phosphotransferase system%2C phosphocarrier protein HPr
+EF3030	KANOAJAN_01104	Q8DPP9	Glutaredoxin-like protein NrdH
+EF3030	KANOAJAN_01105	Q8CWR3	Ribonucleotide reductase of class Ib%2C alpha subunit
+EF3030	KANOAJAN_01106	Q8DPP8	Ribonucleotide reductase of class Ib%2C beta subunit
+EF3030	KANOAJAN_01107	B2IPU6	IS1167 transposase Orf2
+EF3030	KANOAJAN_01108	A0A4J1STI3	hypothetical protein
+EF3030	KANOAJAN_01109	B2IPU5	IS1167 transposase Orf1
+EF3030	KANOAJAN_01110		Srn266
+EF3030	KANOAJAN_01111	B2IPU4	Lactose phosphotransferase system repressor
+EF3030	KANOAJAN_01112	B2IPU3	hypothetical protein
+EF3030	KANOAJAN_01113	A0A4J1TX37	6-phospho-beta-galactosidase
+EF3030	KANOAJAN_01114	A0A0T7I5Q4	IS200/IS605 family transposase ISSpn6
+EF3030	KANOAJAN_01115	A0AAD2I416	Lactose-specific PTS IIBC components
+EF3030	KANOAJAN_01116	C1C7F7	Lactose-specific PTS IIA component
+EF3030	KANOAJAN_01117	A0A0E8T086	Beta-glucoside bgl operon antiterminator LacT%2C BglG family
+EF3030	KANOAJAN_01118	C1C7F9	Tagatose 1%2C6-diphosphate aldolase
+EF3030	KANOAJAN_01119	C1CEF2	Tagatose-6-phosphate kinase LacC
+EF3030	KANOAJAN_01120	A0A0B7L883	Galactose-6-phosphate isomerase%2C LacB subunit
+EF3030	KANOAJAN_01121	Q8DPN9	Galactose-6-phosphate isomerase%2C LacA subunit
+EF3030	KANOAJAN_01122	Q8DPN8	Aldose epimerase
+EF3030	KANOAJAN_01123	A0A0Y1WZQ0	IS1381 transposase OrfB
+EF3030	KANOAJAN_01124	A0AAE9QRU0	IS5 family transposase ISSpn7
+EF3030	KANOAJAN_01125	C1C7G6	Galactose-specific PTS IIB component
+EF3030	KANOAJAN_01126	Q8CYQ9	Galactose-specific PTS IIA component
+EF3030	KANOAJAN_01127	A0A4J2GJL6	Hypothetical protein
+EF3030	KANOAJAN_01128	Q8DPN5	Translation elongation factor LepA
+EF3030	KANOAJAN_01129	A0A0E8AWB1	Serine/threonine protein phosphatase
+EF3030	KANOAJAN_01130	A0AA86Y2A3	DNA repair protein RecN
+EF3030	KANOAJAN_01131	C1CEG6	Arginine pathway regulatory protein AhrC
+EF3030	KANOAJAN_01132	B1IC06	RNA-binding methyltransferase
+EF3030	KANOAJAN_01133	B2IPS5	(2E%2C6E)-farnesyl diphosphate synthase
+EF3030	KANOAJAN_01134	Q04KB1	Exodeoxyribonuclease VII small subunit
+EF3030	KANOAJAN_01135	Q04KB0	Exodeoxyribonuclease VII large subunit
+EF3030	KANOAJAN_01136	Q04KA9	Uridine kinase
+EF3030	KANOAJAN_01137	Q8CYQ8	Hypothetical protein
+EF3030	KANOAJAN_01138	B2IPS0	Hypothetical protein
+EF3030	KANOAJAN_01139	A0A4J1YHA4	tRNA pseudouridine synthase B
+EF3030	KANOAJAN_01140	A0A0I8HTW1	Hypothetical protein
+EF3030	KANOAJAN_01141	A0A0H2UQB9	Hypothetical protein
+EF3030	KANOAJAN_01142	B2IPR6	Cystathionine gamma-synthase
+EF3030	KANOAJAN_01143	B2IPR5	O-acetyl-L-homoserine sulfhydrylase
+EF3030	KANOAJAN_01144	B2IPR4	Formate-nitrate transporter
+EF3030	KANOAJAN_01145	Q8DPM3	Sortase SrtA%2C LPXTG specific
+EF3030	KANOAJAN_01146	Q9R867	DNA gyrase subunit A
+EF3030	KANOAJAN_01147	A0AA87CBD3	L-lactate dehydrogenase
+EF3030	KANOAJAN_01148	B2IPR0	hypothetical protein
+EF3030	KANOAJAN_01149	B2IPQ9	mRNA interferase RelE2
+EF3030	KANOAJAN_01150	A0A558SUE3	Replicon stabilization protein RelB2
+EF3030	KANOAJAN_01151	Q9RCS5	Zn-dependent hydrolase VicX
+EF3030	KANOAJAN_01152	C1CEI3	Two-component system sensor histidine kinase VicK
+EF3030	KANOAJAN_01153	Q9S1K0	Two-component system response regulator VicR
+EF3030	KANOAJAN_01154	B2IPQ4	A/G-specific adenine glycosylase
+EF3030	KANOAJAN_01155	B1IC26	Formate--tetrahydrofolate ligase
+EF3030	KANOAJAN_01156	A0A098Z7G4	Phosphopantothenoylcysteine synthetase
+EF3030	KANOAJAN_01157	Q8DPL3	Phosphopantothenoylcysteine decarboxylase
+EF3030	KANOAJAN_01158	Q8DPL2	Substrate-specific component PanT of putative pantothenate ECF transporter
+EF3030	KANOAJAN_01159	C1CEJ0	Substrate-specific component NiaX of putative niacin ECF transporter
+EF3030	KANOAJAN_01160	A0A0T7TLM8	Transcriptional repressor of NAD biosynthesis
+EF3030	KANOAJAN_01161	A0A098ZQV4	MutT/Nudix family protein
+EF3030	KANOAJAN_01162	A0A4G4JFG4	Acetyltransferase
+EF3030	KANOAJAN_01163	A0A4J1UP58	Acetyltransferase
+EF3030	KANOAJAN_01164	A0A0E9GUS4	Acetyltransferase
+EF3030	KANOAJAN_01165	C1C7L7	Excinuclease ABC subunit B
+EF3030	KANOAJAN_01166	A0A0B7M3X4	CAAX amino terminal protease family protein
+EF3030	KANOAJAN_01167	A0A4J2G5L2	Glutamine ABC transporter GlnHP5%2C containing substrate-binding and permease domains
+EF3030	KANOAJAN_01168	A0A0B7LWY7	Glutamine transport ATP-binding protein GlnQ
+EF3030	KANOAJAN_01169	A0A0T7K543	Glucose-6-phosphate 1-dehydrogenase
+EF3030	KANOAJAN_01170		Srn266
+EF3030	KANOAJAN_01171	A0AA95DCH7	IS1167 transposase
+EF3030	KANOAJAN_01172	A0A4J1TCJ0	Signal recognition particle receptor FtsY
+EF3030	KANOAJAN_01173	A0A4J1YEX5	Hydrolase%2C HAD superfamily
+EF3030	KANOAJAN_01174	A0A4J1RMT5	Hydrolase%2C HAD superfamily
+EF3030	KANOAJAN_01175	A0A4J1UYQ6	Chromosome partition protein SMC
+EF3030	KANOAJAN_01176	A0A064C285	Ribonuclease III
+EF3030	KANOAJAN_01177		tRNA-Arg(ccg)
+EF3030	KANOAJAN_01178	B2IPN4	GMP reductase
+EF3030	KANOAJAN_01179	B2IPN3	Hypothetical protein
+EF3030	KANOAJAN_01180	B2IPN2	Endonuclease
+EF3030	KANOAJAN_01181	B2IPN1	Hypothetical protein
+EF3030	KANOAJAN_01182	B2IPM8	3-isopropylmalate dehydratase small subunit
+EF3030	KANOAJAN_01183	C1C7N4	Putative membrane protein
+EF3030	KANOAJAN_01184	B2IPM4	3-isopropylmalate dehydrogenase
+EF3030	KANOAJAN_01185	B2IPM3	2-isopropylmalate synthase
+EF3030	KANOAJAN_01186	B2IPM2	2-isopropylmalate synthase
+EF3030	KANOAJAN_01187	C1CEL4	Hypothetical protein
+EF3030	KANOAJAN_01188	B2IPM0	Cytoplasmic copper homeostasis protein CutC
+EF3030	KANOAJAN_01189	A0A0T8H830	Hypothetical protein related to heme utilization
+EF3030	KANOAJAN_01190	A0A0B7LJD6	DNA topoisomerase I
+EF3030	KANOAJAN_01191	Q8DPI8	Integral membrane protein
+EF3030	KANOAJAN_01192	I0J991	ISSpn8 transposase
+EF3030	KANOAJAN_01193	A0A0T8M1D8	IS1182 family transposase ISBcy1
+EF3030	KANOAJAN_01194	A0A0T9GLB7	hypothetical protein
+EF3030	KANOAJAN_01195	A0A0T8GFA5	IS1182 family transposase ISAco1
+EF3030	KANOAJAN_01196	A0A7X2XMN1	hypothetical protein
+EF3030	KANOAJAN_01197	A0AA44MS06	hypothetical protein
+EF3030	KANOAJAN_01198	A0A098ANV4	Tn5252 Orf9 protein
+EF3030	KANOAJAN_01199	A0A098ANV0	Tn5252 Orf10 protein
+EF3030	KANOAJAN_01200		group-II-D1D4-3
+EF3030	KANOAJAN_01201	A0A6G2DL08	hypothetical protein
+EF3030	KANOAJAN_01202	A0A0T8JWL1	putative protein
+EF3030	KANOAJAN_01203	A0A098ZIW8	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
+EF3030	KANOAJAN_01204	A0A0B7LG50	Antitoxin PezA
+EF3030	KANOAJAN_01205	A0A0B7L7M7	hypothetical protein
+EF3030	KANOAJAN_01206	A0AA95DFD5	Neopullulanase
+EF3030	KANOAJAN_01207	A0A0T8A2T7	Neopullulanase
+EF3030	KANOAJAN_01208	B2IPK3	Transcriptional regulator
+EF3030	KANOAJAN_01209	Q8DPY1	Putative hydrolase
+EF3030	KANOAJAN_01210	B2IPK1	Hypothetical protein
+EF3030	KANOAJAN_01211	B2IPK0	Hypothetical protein
+EF3030	KANOAJAN_01212	B2IPJ6	Hypothetical protein
+EF3030	KANOAJAN_01213	B2IPJ5	Phage integrase
+EF3030	KANOAJAN_01214	Q8CYT9	Hypothetical protein
+EF3030	KANOAJAN_01215		pemK
+EF3030	KANOAJAN_01216	B2IPJ3	hypothetical protein
+EF3030	KANOAJAN_01217	B2IPJ2	hypothetical protein
+EF3030	KANOAJAN_01218	A0A0B7LIN9	hypothetical protein
+EF3030	KANOAJAN_01219	A0A4J1SI96	hypothetical protein
+EF3030	KANOAJAN_01220	B2IPJ8	Mobilization protein A
+EF3030	KANOAJAN_01221	A0A0B7LJA1	hypothetical protein
+EF3030	KANOAJAN_01222	A0A0B7LCG2	Putative type II restriction endonuclease
+EF3030	KANOAJAN_01223	B2IPJ1	Iron compound ABC uptake transporter ATP-binding protein PiaD
+EF3030	KANOAJAN_01224	Q8DPY4	Iron compound ABC uptake transporter permease protein PiaC
+EF3030	KANOAJAN_01225	B2IPI9	Iron compound ABC uptake transporter permease protein PiaB
+EF3030	KANOAJAN_01226	Q8DPY6	Iron compound ABC uptake transporter substrate-binding protein PiaA
+EF3030	KANOAJAN_01227	A0A0B7LP89	Hypothetical protein
+EF3030	KANOAJAN_01228		SpF39_sRNA
+EF3030	KANOAJAN_01229		SpF61_sRNA
+EF3030	KANOAJAN_01229		
+EF3030	KANOAJAN_01230	B1IBI7	23S rRNA (uracil(1939)-C(5))-methyltransferase
+EF3030	KANOAJAN_01231	C1CE19	Extracellular protein
+EF3030	KANOAJAN_01232	C1C701	Pneumococcal vaccine antigen A
+EF3030	KANOAJAN_01233	A0A6A8VKT1	Pseudouridylate synthase%2C 23S RNA-specific
+EF3030	KANOAJAN_01234	A0AAD2K9Z7	Serine hydroxymethyltransferase
+EF3030	KANOAJAN_01235	A0A0B7L9L3	N-acetyltransferase%2C GCN5-family
+EF3030	KANOAJAN_01236	A0AAD2K9S9	Threonylcarbamoyl-AMP synthase TsaC
+EF3030	KANOAJAN_01237	A0A0B7LFU8	Peptide chain release factor N(5)-glutamine methyltransferase
+EF3030	KANOAJAN_01238	C1CRE0	Peptide chain release factor 1
+EF3030	KANOAJAN_01239	C1CE11	Thymidine kinase
+EF3030	KANOAJAN_01240	B2IPH4	Bifunctional 4-oxalocrotonate tautomerase/xylose transport system permease protein XylH
+EF3030	KANOAJAN_01241	A0A822RV44	GTPase and tRNA-U34 5-formylation enzyme MnmE
+EF3030	KANOAJAN_01242	C1CE08	4-hydroxy-tetrahydrodipicolinate synthase
+EF3030	KANOAJAN_01243	A0A064C4U3	Aspartate-semialdehyde dehydrogenase
+EF3030	KANOAJAN_01244		asd
+EF3030	KANOAJAN_01245		tRNA-Thr(ggt)
+EF3030	KANOAJAN_01246	Q8DQ01	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
+EF3030	KANOAJAN_01247		preQ1-II
+EF3030	KANOAJAN_01248	A0A0T8LFD3	GtrA family protein
+EF3030	KANOAJAN_01249	A0A0T8LFB4	Large-conductance mechanosensitive channel MscL
+EF3030	KANOAJAN_01250	B2IPG6	IS4 family transposase ISSsu2
+EF3030	KANOAJAN_01251	B2IPG5	IS4 family transposase ISSsu2
+EF3030	KANOAJAN_01252	C1CE03	Ferrochelatase%2C protoheme ferro-lyase
+EF3030	KANOAJAN_01253	B2IPG2	Tripeptide aminopeptidase PepT
+EF3030	KANOAJAN_01254	A0A0T8Z1J5	hypothetical protein
+EF3030	KANOAJAN_01255	A0A0B7KWR4	hypothetical protein
+EF3030	KANOAJAN_01256	A0A0B7LLD3	Pneumococcal histidine triad protein E
+EF3030	KANOAJAN_01257	A0A6G2DVA1	Pneumococcal histidine triad protein E
+EF3030	KANOAJAN_01258	A0AAD2I2G5	Pneumococcal histidine triad protein B
+EF3030	KANOAJAN_01259	Q8DQ09	Laminin-binding surface protein
+EF3030	KANOAJAN_01260	B2IPF3	Cationic amino acid transporter%2C APC Superfamily
+EF3030	KANOAJAN_01261		SpF36_sRNA
+EF3030	KANOAJAN_01261		
+EF3030	KANOAJAN_01262	C1CDZ5	Thiol:disulfide oxidoreductase
+EF3030	KANOAJAN_01263	C1CDZ4	Cytochrome c-type biogenesis protein CcdA-2
+EF3030	KANOAJAN_01264	Q8CYU8	Hypothetical protein
+EF3030	KANOAJAN_01265	B2IPE7	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_01266	C1CDY9	Glycerophosphoryl diester phosphodiesterase
+EF3030	KANOAJAN_01267	B2IPE5	DNA polymerase III epsilon subunit
+EF3030	KANOAJAN_01268	A0A0H2UPQ5	Transcriptional regulator OrfX
+EF3030	KANOAJAN_01269	B2IPE3	Bifunctional 5'-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+EF3030	KANOAJAN_01270	Q8CYV2	Hypothetical protein
+EF3030	KANOAJAN_01271	B2IPE1	ADP-ribose pyrophosphatase
+EF3030	KANOAJAN_01272	A0A0T7SWK3	Bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate N-acetyltransferase
+EF3030	KANOAJAN_01273	A0A0B7LBL0	1%2C4-beta-N-acetylmuramidase%2C lyzozyme M1
+EF3030	KANOAJAN_01274	Q8DQ19	Membrane protein
+EF3030	KANOAJAN_01275	C1CDY0	Transcriptional regulator
+EF3030	KANOAJAN_01276	Q8DQ21	Phosphoglycerate mutase family 5 protein
+EF3030	KANOAJAN_01277	A0A4J1USY9	hypothetical protein
+EF3030	KANOAJAN_01278	A0A0T8T3N3	IS3 family transposase ISSpn1
+EF3030	KANOAJAN_01279	Q97R51	Putative parvulin type peptidyl-prolyl isomerase PrsA
+EF3030	KANOAJAN_01280	Q8DQ25	O-methyltransferase family protein
+EF3030	KANOAJAN_01281	B2IPD2	Oligoendopeptidase F
+EF3030	KANOAJAN_01282	B2IPD1	Competence protein CoiA
+EF3030	KANOAJAN_01283	C1CDX2	Tellurite methyltransferase TehB
+EF3030	KANOAJAN_01284	Q97R56	tmRNA-binding protein SmpB
+EF3030	KANOAJAN_01285	A0A9P1PNT5	3'-to-5' exoribonuclease RNase R
+EF3030	KANOAJAN_01286	Q8DQ31	Protein-export membrane protein SecG
+EF3030	KANOAJAN_01287	C1CDW7	Multidrug resistance efflux pump PmrA
+EF3030	KANOAJAN_01288	B2IPC5	Dephospho-CoA kinase
+EF3030	KANOAJAN_01289	Q97R61	Formamidopyrimidine-DNA glycosylase MutM
+EF3030	KANOAJAN_01290	A0A0B7LRL2	GTP-binding protein Era
+EF3030	KANOAJAN_01291	B2IPC2	Diacylglycerol kinase
+EF3030	KANOAJAN_01292	Q97R63	Metal-dependent hydrolase YbeY
+EF3030	KANOAJAN_01293	B2IPC0	Fibronectin/fibrinogen-binding protein
+EF3030	KANOAJAN_01294	Q4W1Z5	Endo-beta-N-acetylglucosaminidase LytB
+EF3030	KANOAJAN_01295	B2IPB8	Dihydroorotate dehydrogenase (NAD(+))%2C catalytic subunit
+EF3030	KANOAJAN_01296	B2IPB7	Dihydroorotate dehydrogenase (NAD(+))%2C electron transfer subunit
+EF3030	KANOAJAN_01297	C1CDV7	Lactoylglutathione lyase
+EF3030	KANOAJAN_01298	Q04KW7	LSU ribosomal protein L20p
+EF3030	KANOAJAN_01299	Q04KW8	LSU ribosomal protein L35p
+EF3030	KANOAJAN_01300	B2IPB3	Translation initiation factor 3
+EF3030	KANOAJAN_01301		L20_leader
+EF3030	KANOAJAN_01302	C1CDV2	Hypothetical protein
+EF3030	KANOAJAN_01303	C1CDV1	ABC transporter%2C ATP-binding protein
+EF3030	KANOAJAN_01304	B2IPA9	Late competence DNA transporter ComEC
+EF3030	KANOAJAN_01305	B2IPA8	Late competence DNA receptor ComEA
+EF3030	KANOAJAN_01306	B2IPA7	Acetyltransferase%2C GNAT family
+EF3030	KANOAJAN_01307	A0AA86XHG5	Alanine dehydrogenase
+EF3030	KANOAJAN_01308	B2IPA5	Alanine dehydrogenase 2
+EF3030	KANOAJAN_01309	Q8CYV8	hypothetical protein
+EF3030	KANOAJAN_01310	Q8CYV9	Acetyltransferase
+EF3030	KANOAJAN_01311	A0AA44MQQ7	IS1381 transposase OrfB
+EF3030	KANOAJAN_01312	B2IP03	IS5 family transposase IS1515
+EF3030	KANOAJAN_01313	Q8DQ46	Phosphate starvation-inducible protein PhoH
+EF3030	KANOAJAN_01314	Q97R80	Hypothetical protein
+EF3030	KANOAJAN_01315	Q8DQ48	S1 RNA-binding domain protein
+EF3030	KANOAJAN_01316	Q97R82	Ribosome-recycling factor
+EF3030	KANOAJAN_01317	A0A0B7LE88	Uridine monophosphate kinase
+EF3030	KANOAJAN_01318	A0A0T9GHY8	Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO
+EF3030	KANOAJAN_01319	B2IP97	IS5 family transposase ISSpn7
+EF3030	KANOAJAN_01320	A0A4L7JUD1	IS1381 transposase OrfB
+EF3030	KANOAJAN_01321	A0A0B7M0Z7	Replication protein
+EF3030	KANOAJAN_01322	A0A0T8E219	Replication protein
+EF3030	KANOAJAN_01323	C1CDT5	hypothetical protein
+EF3030	KANOAJAN_01324	Q8DQ55	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+EF3030	KANOAJAN_01325	Q97R89	DNA replication initiation control protein YabA
+EF3030	KANOAJAN_01326	B2IP91	DNA polymerase III delta prime subunit
+EF3030	KANOAJAN_01327	A0A0E8IAV1	Thymidylate kinase
+EF3030	KANOAJAN_01328	B2IP89	Pyrroline-5-carboxylate reductase
+EF3030	KANOAJAN_01329	B2IP88	Gamma-glutamyl phosphate reductase
+EF3030	KANOAJAN_01330	B2IP87	Glutamate 5-kinase
+EF3030	KANOAJAN_01331	Q9KGZ1	Teichoic acid phosphorylcholine esterase%2C choline-binding protein CbpE
+EF3030	KANOAJAN_01332	B2IP85	Ribosomal large subunit pseudouridine synthase D
+EF3030	KANOAJAN_01333	Q8DQ64	Lipoprotein signal peptidase
+EF3030	KANOAJAN_01334	Q8DQ65	Cysteine and methionine metabolism regulator CmbR%2C LysR family
+EF3030	KANOAJAN_01335	C1CDS3	CAAX amino terminal protease family protein
+EF3030	KANOAJAN_01336	Q8CYW4	Hypothetical protein
+EF3030	KANOAJAN_01337	B1IB91	Hydrolase%2C HAD superfamily
+EF3030	KANOAJAN_01338	C1CDS0	N-carbamoylputrescine amidase
+EF3030	KANOAJAN_01339	Q97RA4	Agmatine deiminase
+EF3030	KANOAJAN_01340	A0A0H2UPS0	Carboxynorspermidine decarboxylase
+EF3030	KANOAJAN_01341	C1C6Q1	Carboxynorspermidine synthase
+EF3030	KANOAJAN_01342	P66836	Spermidine synthase
+EF3030	KANOAJAN_01343	A0A0H2UPL1	hypothetical protein
+EF3030	KANOAJAN_01344	A0A0H2UPK4	Arginine decarboxylase
+EF3030	KANOAJAN_01345	A0A4J1UVP8	ISSpn8 transposase
+EF3030	KANOAJAN_01346	B2IP72	Hypothetical protein
+EF3030	KANOAJAN_01347	B2IP71	ABC transporter permease protein
+EF3030	KANOAJAN_01348	C1CDQ8	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01349	A0A0B7KXN1	Hypothetical protein
+EF3030	KANOAJAN_01350	Q8CYW5	Hypothetical protein
+EF3030	KANOAJAN_01351		Spd-sr07
+EF3030	KANOAJAN_01351		
+EF3030	KANOAJAN_01352	A0A5C8QW28	Putative phage shock protein C
+EF3030	KANOAJAN_01353	A0A0T8S1J5	Putative SprT family zinc-dependent metallopeptidase
+EF3030	KANOAJAN_01354	A0A0B7LIN4	Transcription accessory protein
+EF3030	KANOAJAN_01355	C1CDQ2	Hypothetical protein
+EF3030	KANOAJAN_01356	C1CDQ1	Putative permease
+EF3030	KANOAJAN_01357	A0A0T7JSI6	ABC transporter substrate-binding protein
+EF3030	KANOAJAN_01358	A0A0U0FI83	Hypothetical protein
+EF3030	KANOAJAN_01359	A0A0H2UPQ6	Hypothetical protein
+EF3030	KANOAJAN_01360	A0AA95D9T2	IS5 family transposase ISSpn7
+EF3030	KANOAJAN_01361	A0A0X8ZFS2	Membrane-associated protein
+EF3030	KANOAJAN_01362	A0A064C0M3	Pyruvate kinase
+EF3030	KANOAJAN_01363	Q97RC6	6-phosphofructokinase
+EF3030	KANOAJAN_01364	A0A4J1N0P1	DNA polymerase III alpha subunit
+EF3030	KANOAJAN_01365	A0A4H9BQJ8	Xaa-Pro dipeptidyl-peptidase
+EF3030	KANOAJAN_01366	C1CDP1	Arginine pathway regulatory protein ArgR2
+EF3030	KANOAJAN_01367	A0A4H9BNV3	Hypothetical protein
+EF3030	KANOAJAN_01368	A0A5E8DUV9	Type I restriction-modification system restriction subunit R
+EF3030	KANOAJAN_01369	C1CDN9	hypothetical protein
+EF3030	KANOAJAN_01370	C1CDN8	Tyrosine recombinase XerC
+EF3030	KANOAJAN_01371	C1CDN7	hypothetical protein
+EF3030	KANOAJAN_01372	C1CDN6	hypothetical protein
+EF3030	KANOAJAN_01373	A0A0H2UPP5	hypothetical protein
+EF3030	KANOAJAN_01374	Q8DQ91	Type I restriction-modification system DNA-methyltransferase subunit M
+EF3030	KANOAJAN_01375	B2IP15	ATP-grasp-domain-containing protein
+EF3030	KANOAJAN_01376	Q8CYX4	hypothetical protein
+EF3030	KANOAJAN_01377	Q8CYX6	hypothetical protein
+EF3030	KANOAJAN_01378	B2IP12	Putative alpha-dextrin endo-1%2C6-alpha-glucosidase
+EF3030	KANOAJAN_01379	Q97RE1	tRNA 4-thiouridine synthase ThiI
+EF3030	KANOAJAN_01380	B2IP10	Putative cysteine desulfurase
+EF3030	KANOAJAN_01381	A0A0B7M7A1	Acetyltransferase
+EF3030	KANOAJAN_01382	A0A0H2ZQ12	DNA translocase FtsK
+EF3030	KANOAJAN_01383	B2IP07	Fructose-specific PTS IIABC components
+EF3030	KANOAJAN_01384	B2IP06	1-phosphofructokinase
+EF3030	KANOAJAN_01385	Q8DQ97	Transcriptional repressor of the fructose operon%2C DeoR family
+EF3030	KANOAJAN_01386		tRNA-Ser(gga)
+EF3030	KANOAJAN_01387	B2INZ3	hypothetical protein
+EF3030	KANOAJAN_01388	A0A0B7M8B7	hypothetical protein
+EF3030	KANOAJAN_01389	B2INZ7	hypothetical protein
+EF3030	KANOAJAN_01390		transfer-messenger RNA%2C SsrA
+EF3030	KANOAJAN_01391	Q8DQ98	Coordinator of zonal cell elongation
+EF3030	KANOAJAN_01392	Q75Y43	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
+EF3030	KANOAJAN_01393	Q8DQA0	Iron-sulfur cluster assembly protein SufB
+EF3030	KANOAJAN_01394	C1CDL9	Putative iron-sulfur cluster assembly scaffold protein for SUF system SufE2
+EF3030	KANOAJAN_01395	C1CDL8	Cysteine desulfurase SufS
+EF3030	KANOAJAN_01396	A0AA86JA12	Iron-sulfur cluster assembly protein SufD
+EF3030	KANOAJAN_01397	Q8DQA4	Iron-sulfur cluster assembly ATPase protein SufC
+EF3030	KANOAJAN_01398	Q8CYX9	Hypothetical protein
+EF3030	KANOAJAN_01399	A0AA86JH76	DNA polymerase III subunits gamma and tau
+EF3030	KANOAJAN_01400	Q8DQA6	GAF domain-containing protein
+EF3030	KANOAJAN_01401		Srn266
+EF3030	KANOAJAN_01402	A0A4J2AFN9	IS1167 transposase Orf1
+EF3030	KANOAJAN_01403	A0A559A0J2	hypothetical protein
+EF3030	KANOAJAN_01404	A0A132UFZ9	IS1167 transposase
+EF3030	KANOAJAN_01405	A0A0T7NMD7	SSU ribosomal protein S1p
+EF3030	KANOAJAN_01406		tRNA-Gln(ttg)
+EF3030	KANOAJAN_01407		tRNA-Tyr(gta)
+EF3030	KANOAJAN_01408	Q8CYY0	Hypothetical protein
+EF3030	KANOAJAN_01409	Q04L55	Pyrrolidone-carboxylate peptidase
+EF3030	KANOAJAN_01410	Q8DQB0	Putative membrane protein
+EF3030	KANOAJAN_01411	C1CDK5	Hypothetical protein
+EF3030	KANOAJAN_01412	B2INX6	Oligopeptide ABC transporter substrate-binding protein
+EF3030	KANOAJAN_01413	C1CDK3	Branched-chain amino acid aminotransferase
+EF3030	KANOAJAN_01414	Q3HYI2	Topoisomerase IV subunit A
+EF3030	KANOAJAN_01415	B2INX2	Restriction enzyme BcgI alpha chain-like protein
+EF3030	KANOAJAN_01416	Q3HZ70	Topoisomerase IV subunit B
+EF3030	KANOAJAN_01417	A0A0B7M4T6	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+EF3030	KANOAJAN_01418	A0A4J1RRK1	IS3 family transposase ISSpn4
+EF3030	KANOAJAN_01419	Q8CM57	hypothetical protein
+EF3030	KANOAJAN_01420	B2INW7	hypothetical protein
+EF3030	KANOAJAN_01421	B2INW6	IS3 family transposase ISSpn11
+EF3030	KANOAJAN_01422	C1C6I2	Putative deoxyribose-specific ABC transporter permease protein
+EF3030	KANOAJAN_01423	B2INW4	Putative deoxyribose-specific ABC transporter permease protein
+EF3030	KANOAJAN_01424	Q8DQC1	Putative deoxyribose-specific ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01425	C1C6H9	Nucleoside-binding protein
+EF3030	KANOAJAN_01426	C1C6H8	Cytidine deaminase
+EF3030	KANOAJAN_01427	B2INW0	Deoxyribose-phosphate aldolase
+EF3030	KANOAJAN_01428	B2INV9	Pyrimidine-nucleoside phosphorylase
+EF3030	KANOAJAN_01429	B2INV8	16S rRNA (guanine(1207)-N(2))-methyltransferase
+EF3030	KANOAJAN_01430	B2INV7	Hypothetical protein
+EF3030	KANOAJAN_01431	C1CS52	Pantothenate kinase
+EF3030	KANOAJAN_01432	Q8CWS0	SSU ribosomal protein S20p
+EF3030	KANOAJAN_01433	B2INV4	FlaR-related DNA topology modulation protein
+EF3030	KANOAJAN_01434	C1CS55	Purine nucleoside phosphorylase
+EF3030	KANOAJAN_01435	B2INV2	Thiol-activated cytolysin
+EF3030	KANOAJAN_01436	C1CDI1	hypothetical protein
+EF3030	KANOAJAN_01437	B2INV0	hypothetical protein
+EF3030	KANOAJAN_01438	Q8CWS2	Bifunctional purine nucleoside phosphorylase/N-ribosylnicotinamide phosphorylase
+EF3030	KANOAJAN_01439	B2INU8	hypothetical protein
+EF3030	KANOAJAN_01440	B2INU7	hypothetical protein
+EF3030	KANOAJAN_01441	B2INU6	Phosphopentomutase
+EF3030	KANOAJAN_01442	Q04L82	Ribose 5-phosphate isomerase A
+EF3030	KANOAJAN_01443	B2INU3	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+EF3030	KANOAJAN_01444	B2INU2	hypothetical protein
+EF3030	KANOAJAN_01445	B1IAZ5	Bifunctional methylenetetrahydrofolate dehydrogenase (NADP+)/methenyltetrahydrofolate cyclohydrolase
+EF3030	KANOAJAN_01446	C1CDH2	Glutamine ABC transporter ATP-binding protein GlnQ4
+EF3030	KANOAJAN_01447	A0AA87CCJ7	Glutamine ABC transporter permease GlnP4
+EF3030	KANOAJAN_01448	Q8DQD6	Hypothetical protein
+EF3030	KANOAJAN_01449	C1CDG9	ATP-dependent Clp protease ATP-binding subunit ClpE
+EF3030	KANOAJAN_01450	A0AA95D9Y4	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_01451	C1C6F5	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_01452	B2INT5	MutT/Nudix family protein
+EF3030	KANOAJAN_01453	Q8CYY5	Hypothetical protein
+EF3030	KANOAJAN_01454	A0A0E8SUC9	Septation ring formation regulator EzrA
+EF3030	KANOAJAN_01455	Q59957	DNA gyrase subunit B
+EF3030	KANOAJAN_01456	Q8DQE6	Hydrolase%2C haloacid dehalogenase-like family
+EF3030	KANOAJAN_01457	Q8DQE7	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+EF3030	KANOAJAN_01458	Q8DQE8	Cell shape-determining protein RodA
+EF3030	KANOAJAN_01459	B2INS6	Bifunctional DinG family ATP-dependent helicase YoaA/DnaQ family exonuclease
+EF3030	KANOAJAN_01460	B2INS5	Protease
+EF3030	KANOAJAN_01461	B2INS4	Hypothetical protein
+EF3030	KANOAJAN_01462	Q7B3G0	Two-component system sensor histidine kinase CiaH
+EF3030	KANOAJAN_01463	C1CDF5	Two-component system response regulator CiaR
+EF3030	KANOAJAN_01464	B2INS1	Lysyl aminopeptidase PepN
+EF3030	KANOAJAN_01465	B2INS0	Hypothetical protein
+EF3030	KANOAJAN_01466	C1C6D9	PEP-utilizing enzyme family protein
+EF3030	KANOAJAN_01467	A0A0B7LQW1	MutT/Nudix family protein
+EF3030	KANOAJAN_01468	Q8CWS3	3-Ketoacyl-ACP reductase
+EF3030	KANOAJAN_01469	B2INR6	Hypothetical protein
+EF3030	KANOAJAN_01470	Q8DQF4	Putative oxidoreductase
+EF3030	KANOAJAN_01471	A0A6G2DMB9	Hypothetical protein
+EF3030	KANOAJAN_01472	A0A0T8EX74	Transcriptional regulator%2C PadR family
+EF3030	KANOAJAN_01473		Srn266
+EF3030	KANOAJAN_01474	B2IMI6	IS1167 transposase
+EF3030	KANOAJAN_01475	A0AA86YDQ8	Methionyl-tRNA synthetase
+EF3030	KANOAJAN_01476	A0A4N9R523	ABC transporter permease protein
+EF3030	KANOAJAN_01477	Q8DQF8	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01478	A0AA95D7S6	Periplasmic component of efflux system
+EF3030	KANOAJAN_01479	A0A0T8RUU7	Glutathione reductase
+EF3030	KANOAJAN_01480	B1IAV8	Substrate-specific component BioY of biotin ECF transporter
+EF3030	KANOAJAN_01481	A0AAE4K2W2	Hypothetical protein
+EF3030	KANOAJAN_01482	B2INF8	Hypothetical protein
+EF3030	KANOAJAN_01483	Q8CYZ1	Anaerobic ribonucleoside-triphosphate reductase
+EF3030	KANOAJAN_01484	Q97RM4	tRNA (guanine(37)-N(1))-methyltransferase
+EF3030	KANOAJAN_01485	Q8DQG3	16S rRNA processing protein RimM
+EF3030	KANOAJAN_01486	B1IAV1	hypothetical protein
+EF3030	KANOAJAN_01487	C1CDC4	KH domain RNA-binding protein
+EF3030	KANOAJAN_01488	Q04LD0	SSU ribosomal protein S16p
+EF3030	KANOAJAN_01489	A0A0T8FBY8	Hypothetical protein
+EF3030	KANOAJAN_01490	C1CDB9	Peptidyl-prolyl cis-trans isomerase
+EF3030	KANOAJAN_01491	C1C6B2	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01492	A0A0B7LG10	VanZF-related protein
+EF3030	KANOAJAN_01493	A0A0U0N161	Bifunctional 23S rRNA (adenine(2503)-C(2))-methyltransferase/tRNA (adenine(37)-C(2))-methyltransferase
+EF3030	KANOAJAN_01494	C1C6A9	hypothetical protein
+EF3030	KANOAJAN_01495	C1C6A8	Manganese superoxide dismutase
+EF3030	KANOAJAN_01496	B2INE7	DNA polymerase III delta subunit
+EF3030	KANOAJAN_01497	Q9X9S0	Dihydroorotate dehydrogenase (fumarate)
+EF3030	KANOAJAN_01498	Q8DQH0	S-adenosylmethionine synthetase
+EF3030	KANOAJAN_01499	A0A0T8VDB1	ATP-dependent RNA helicase YqfR
+EF3030	KANOAJAN_01500	Q8CYZ8	Exodeoxyribonuclease III
+EF3030	KANOAJAN_01501	Q8DQH2	Maltose- and glucose-specific PTS IICBA components
+EF3030	KANOAJAN_01502	A0A0E9GYX9	Cell division protein FtsX
+EF3030	KANOAJAN_01503	C1C6A0	Cell division transporter%2C ATP-binding protein FtsE
+EF3030	KANOAJAN_01504	A0A6I3U7D7	Peptide chain release factor 2
+EF3030	KANOAJAN_01505	Q8DQH6	CBS domain protein
+EF3030	KANOAJAN_01506	C1CDA2	Branched-chain amino acid transport ATP-binding protein LivF
+EF3030	KANOAJAN_01507	C1C696	Branched-chain amino acid transport ATP-binding protein LivG
+EF3030	KANOAJAN_01508	Q8DQH9	Branched-chain amino acid transport system permease protein LivM
+EF3030	KANOAJAN_01509	A0A0E8IRS7	High-affinity branched-chain amino acid transport system permease protein LivH
+EF3030	KANOAJAN_01510	C1C693	High-affinity leucine-specific transport system%2C periplasmic binding protein LivJ
+EF3030	KANOAJAN_01511	A0A0T9AB05	Hypothetical protein
+EF3030	KANOAJAN_01512	Q04LF4	ATP-dependent Clp protease proteolytic subunit ClpP
+EF3030	KANOAJAN_01513	A0A0T8MLU5	Uracil phosphoribosyltransferase
+EF3030	KANOAJAN_01514	C1CD94	dCMP deaminase
+EF3030	KANOAJAN_01515	Q8DQI5	Transcriptional regulator%2C AcrR family
+EF3030	KANOAJAN_01516	B2INC5	DegV family protein
+EF3030	KANOAJAN_01517	B2INC4	NAD(FAD)-utilizing dehydrogenase
+EF3030	KANOAJAN_01518	B2INC3	MutT/Nudix family protein
+EF3030	KANOAJAN_01519	B2INC2	HTH-type transcriptional activator mta
+EF3030	KANOAJAN_01520	B2INC1	Sodium-dependent transporter
+EF3030	KANOAJAN_01521	B2INC0	Sodium-dependent transporter
+EF3030	KANOAJAN_01522	B2INB8	Mannose-6-phosphate isomerase
+EF3030	KANOAJAN_01523	B2INB7	6-phospho-beta-glucosidase
+EF3030	KANOAJAN_01524	A0A4J1Y2F2	IS630 family transposase ISSpn2
+EF3030	KANOAJAN_01525		Srn266
+EF3030	KANOAJAN_01526	B2IMI6	IS1167 transposase
+EF3030	KANOAJAN_01527	B1IAQ3	Hypothetical protein
+EF3030	KANOAJAN_01528	C1CD82	Pyruvate oxidase
+EF3030	KANOAJAN_01529	A0A0T8EYZ3	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
+EF3030	KANOAJAN_01530	C1C677	Copper-exporting ATPase
+EF3030	KANOAJAN_01531	C1CD79	Negative transcriptional regulator of copper transport operon
+EF3030	KANOAJAN_01532		TPP
+EF3030	KANOAJAN_01533	A0A0B7LGA8	Hydroxymethylpyrimidine phosphate kinase ThiD
+EF3030	KANOAJAN_01534	C1CD77	Thiamin-phosphate pyrophosphorylase
+EF3030	KANOAJAN_01535	Q97RR9	Hydroxyethylthiazole kinase
+EF3030	KANOAJAN_01536	Q8CZ02	Substrate-specific component ThiW of putative thiazole ECF transporter
+EF3030	KANOAJAN_01537	Q8DQK0	Thiaminase II TenA
+EF3030	KANOAJAN_01538	Q8DQK1	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+EF3030	KANOAJAN_01539	A0A2I5LX48	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+EF3030	KANOAJAN_01540	C1CD71	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+EF3030	KANOAJAN_01541		TPP
+EF3030	KANOAJAN_01542	A0A062WTJ4	Thiamin-phosphate pyrophosphorylase
+EF3030	KANOAJAN_01543	A0A559BUT6	Hydroxyethylthiazole kinase
+EF3030	KANOAJAN_01544	A0A655HI35	Hypothetical protein
+EF3030	KANOAJAN_01545	A0A0B7L9L6	Thiaminase II
+EF3030	KANOAJAN_01546		TPP
+EF3030	KANOAJAN_01547	Q8DQK7	L-Lactate 2-monooxygenase
+EF3030	KANOAJAN_01548	A0A0E8ITM3	Class II lysyl-tRNA synthetase
+EF3030	KANOAJAN_01549	B2IN94	L-Lactate 2-monooxygenase
+EF3030	KANOAJAN_01550	A0A0T8WN03	hypothetical protein
+EF3030	KANOAJAN_01551	A0A0E8IYD8	Glutamine ABC transporter ATP-binding protein GlnQ3
+EF3030	KANOAJAN_01552	A0A0E7X885	Glutamine ABC transporter ATP-binding protein GlnQ3
+EF3030	KANOAJAN_01553	A0A0E8IT87	Amino acid ABC transporter amino acid-binding/permease protein
+EF3030	KANOAJAN_01554	A0A0E8ZVN9	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01555	A0AAE9U2I8	Hypothetical protein
+EF3030	KANOAJAN_01556	A0A0B7M6H9	Hypothetical protein
+EF3030	KANOAJAN_01557	B1IAM9	Hypothetical protein
+EF3030	KANOAJAN_01558	A0A822Q133	Hypothetical protein
+EF3030	KANOAJAN_01559	A0A822Q8E7	Orotate phosphoribosyltransferase
+EF3030	KANOAJAN_01560	A0A0E8T5G7	Orotidine 5'-phosphate decarboxylase
+EF3030	KANOAJAN_01561		PyrR
+EF3030	KANOAJAN_01562	B2IN84	Putative membrane spanning protein
+EF3030	KANOAJAN_01563	B2IN83	Fluoroquinolones export ATP-binding protein
+EF3030	KANOAJAN_01564	A0A0B4ZK12	Hypothetical protein
+EF3030	KANOAJAN_01565	A0A098ZC64	hypothetical protein
+EF3030	KANOAJAN_01566	A0A098Z062	hypothetical protein
+EF3030	KANOAJAN_01567	B2IN80	Hypothetical protein
+EF3030	KANOAJAN_01568	A0A098ZLB8	Hypothetical protein
+EF3030	KANOAJAN_01569	A0A822Q4I1	Cell division protein DivIB
+EF3030	KANOAJAN_01570	A0A0B7LCX2	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+EF3030	KANOAJAN_01571	A0A0E8T602	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+EF3030	KANOAJAN_01572	Q8DQM3	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01573	A0A098ZEV5	Putative immunity protein
+EF3030	KANOAJAN_01574	A0AA86MCE8	Hypothetical protein
+EF3030	KANOAJAN_01575	Q8CZ11	Putative membrane protein
+EF3030	KANOAJAN_01576	A0AA86Y837	GTP-binding protein TypA
+EF3030	KANOAJAN_01577	B2IN70	Ribosomal small subunit pseudouridine synthase A
+EF3030	KANOAJAN_01578	Q8CZ12	Hypothetical protein
+EF3030	KANOAJAN_01579	Q8DQM7	Rhodanese-like domain protein
+EF3030	KANOAJAN_01580	Q8DQM8	Hypothetical protein
+EF3030	KANOAJAN_01581	Q8DQM9	Methionine biosynthesis and transport regulator MtaR%2C LysR family
+EF3030	KANOAJAN_01582	C1C637	Short-chain dehydrogenase
+EF3030	KANOAJAN_01583	C1CQF2	Ribonuclease Z
+EF3030	KANOAJAN_01584	B2IMY7	Cystathionine beta-lyase
+EF3030	KANOAJAN_01585	Q8DQN2	GTP-binding protein HflX
+EF3030	KANOAJAN_01586	A0A654U945	tRNA dimethylallyltransferase MiaA
+EF3030	KANOAJAN_01587	Q8CZ15	Hypothetical protein
+EF3030	KANOAJAN_01588	B2IMY1	Thymidylate synthase
+EF3030	KANOAJAN_01589	C1CD35	Glucokinase
+EF3030	KANOAJAN_01590	B2IMX9	Endo-beta-N-acetylglucosaminidase%2C choline-binding protein CbpL
+EF3030	KANOAJAN_01591	A0A0B7L7P7	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+EF3030	KANOAJAN_01592	B2IMX7	Bifunctional para-aminobenzoate synthase%2C aminase component/aminodeoxychorismate lyase
+EF3030	KANOAJAN_01593	B2IMX6	hypothetical protein
+EF3030	KANOAJAN_01594	B2IMX5	YwlG
+EF3030	KANOAJAN_01595	Q8DQN7	Two-component sensor kinase YesM
+EF3030	KANOAJAN_01596	Q8DQN8	Two-component response regulator YesN
+EF3030	KANOAJAN_01597	C1C622	Peptide methionine sulfoxide reductase MsrAB2
+EF3030	KANOAJAN_01598	A0AA87CBX6	Thiol:disulfide oxidoreductase
+EF3030	KANOAJAN_01599	C1CD25	Cytochrome c-type biogenesis protein CcdA-1
+EF3030	KANOAJAN_01600	A0A237K353	Inner membrane protein YihY
+EF3030	KANOAJAN_01601	A0A0H2UP25	Na+/H+ antiporter
+EF3030	KANOAJAN_01602	A0A0B7MD14	Hypothetical protein
+EF3030	KANOAJAN_01603	Q8DQP3	Putative rRNA methylase YtqB
+EF3030	KANOAJAN_01604	A0AA86XIX1	hypothetical protein
+EF3030	KANOAJAN_01605	A0A4M9XIK4	hypothetical protein
+EF3030	KANOAJAN_01606	Q8CZ20	Hypothetical protein
+EF3030	KANOAJAN_01607		SpF25_sRNA
+EF3030	KANOAJAN_01608	A0A0B7LSI7	hypothetical protein
+EF3030	KANOAJAN_01609	A0A4J2DSS5	hypothetical protein
+EF3030	KANOAJAN_01610	A0A4J1XBT9	Beta-galactosidase BgaA
+EF3030	KANOAJAN_01611	Q8DQP5	Galactose-specific PTS IIC component
+EF3030	KANOAJAN_01612	Q8CZ23	Galactose-specific PTS IIB component
+EF3030	KANOAJAN_01613	A0A5E8DZP1	Galactose-specific PTS IIA component
+EF3030	KANOAJAN_01614	A0A4N2RLY0	Serine protease PrtA precursor
+EF3030	KANOAJAN_01615	A0A2U3RYK5	Hypothetical protein
+EF3030	KANOAJAN_01616	B1IAI1	hypothetical protein
+EF3030	KANOAJAN_01617	A0A0H2UP15	hypothetical protein
+EF3030	KANOAJAN_01618	A0A0H2UP10	Multidrug ABC transporter permease protein
+EF3030	KANOAJAN_01619	C1CD09	Antibiotic ABC transporter permease protein
+EF3030	KANOAJAN_01620	C1C603	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01621	A0A0H2UP07	Hypothetical protein
+EF3030	KANOAJAN_01622		Intron_gpII
+EF3030	KANOAJAN_01623	Q04LP6	LSU ribosomal protein L1p (L10Ae)
+EF3030	KANOAJAN_01624	Q97RZ6	LSU ribosomal protein L11p (L12e)
+EF3030	KANOAJAN_01625	B2IMU6	L%2CD-carboxypeptidase
+EF3030	KANOAJAN_01626	Q8CZ25	Histidine triad family protein
+EF3030	KANOAJAN_01627	A0A0H2ZNC3	Deblocking aminopeptidase
+EF3030	KANOAJAN_01628	C1C5Z4	Branched-chain amino acid transport system carrier protein
+EF3030	KANOAJAN_01629		SpF22_sRNA
+EF3030	KANOAJAN_01630	B2IMU2	hypothetical protein
+EF3030	KANOAJAN_01631	C1CCZ5	Uracil-DNA glycosylase
+EF3030	KANOAJAN_01632	B2IMU0	Dipeptidase PepV
+EF3030	KANOAJAN_01633	B2IMT9	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dihydropteridine reductase
+EF3030	KANOAJAN_01634	A0A121IWV5	Cysteine ABC transporter substrate-binding protein
+EF3030	KANOAJAN_01635	A0A2I5LWX1	Serine/threonine protein phosphatase
+EF3030	KANOAJAN_01636	A0A2I5LWR7	Excinuclease ABC subunit C
+EF3030	KANOAJAN_01637	C1C5Y5	Putative Zn-dependent protease
+EF3030	KANOAJAN_01638	Q4TUI8	tRNA-dependent lipid II-Ala--L-alanine ligase MurN
+EF3030	KANOAJAN_01639	Q4TUJ7	tRNA-dependent lipid II--L-alanine/serine ligase MurM
+EF3030	KANOAJAN_01640	B2IMT0	Tributyrin esterase
+EF3030	KANOAJAN_01641	Q8DQR3	Ribonuclease J2
+EF3030	KANOAJAN_01642	B2IMS8	Single-stranded-DNA-specific exonuclease RecJ
+EF3030	KANOAJAN_01643	B2IMS7	Glutamine ABC transporter ATP-binding protein GlnQ4
+EF3030	KANOAJAN_01644	A0A4J1QEQ3	Glutamine ABC transporter substrate-binding protein GlnH2
+EF3030	KANOAJAN_01645	B2IMS5	Glutamine ABC transporter permease GlnP2a
+EF3030	KANOAJAN_01646	Q8DQR8	Glutamine ABC transporter permease GlnP2b
+EF3030	KANOAJAN_01647	B2IMS3	Oxidoreductase
+EF3030	KANOAJAN_01648	C1CCX9	Class II fructose-bisphosphate aldolase
+EF3030	KANOAJAN_01649	B2IMS1	Two-component system sensor histidine kinase VncS
+EF3030	KANOAJAN_01650	C1CCX7	Two-component system response regulator VncR
+EF3030	KANOAJAN_01651	B9W4V1	Peptide ABC transporter membrane-spanning permease Vex3
+EF3030	KANOAJAN_01652	B2IMR7	ABC transporter ATP-binding protein Vex2
+EF3030	KANOAJAN_01653	C1C5W8	Peptide ABC transporter membrane-spanning permease Vex1
+EF3030	KANOAJAN_01654		Intron_gpII
+EF3030	KANOAJAN_01655	B2IMR5	hypothetical protein
+EF3030	KANOAJAN_01656	B2IMR4	Leucine rich protein
+EF3030	KANOAJAN_01657	Q8DQS7	Mini-ribonuclease III
+EF3030	KANOAJAN_01658	B2IMR2	Cysteinyl-tRNA synthetase
+EF3030	KANOAJAN_01659	B2IMR1	Acetyltransferase%2C GNAT family
+EF3030	KANOAJAN_01660	B2IMR0	Serine acetyltransferase
+EF3030	KANOAJAN_01661	B5E2A0	Polyribonucleotide nucleotidyltransferase
+EF3030	KANOAJAN_01662	B2IMQ8	5%2C10-methylenetetrahydrofolate reductase
+EF3030	KANOAJAN_01663	B2IMQ7	5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase
+EF3030	KANOAJAN_01664	B2IMQ6	Antitoxin HigA
+EF3030	KANOAJAN_01665	B2IMQ5	ISSpn8 transposase
+EF3030	KANOAJAN_01666	B2IMQ4	Putative integral membrane protein
+EF3030	KANOAJAN_01667	B2IMQ3	Phenylalanyl-tRNA synthetase beta chain
+EF3030	KANOAJAN_01668	C1C5V1	N1-spermidine/spermine acetyltransferase PaiA
+EF3030	KANOAJAN_01669	Q8DQT8	Phenylalanyl-tRNA synthetase alpha chain
+EF3030	KANOAJAN_01670	B2IMQ0	6-phospho-beta-glucosidase
+EF3030	KANOAJAN_01671	B2IMP9	Beta-glucoside-specific PTS IIBCA components
+EF3030	KANOAJAN_01672	B2IMP8	Beta-glucoside bgl operon antiterminator BglG
+EF3030	KANOAJAN_01673		SpF19_sRNA
+EF3030	KANOAJAN_01674	B2IMP7	hypothetical protein
+EF3030	KANOAJAN_01675	B2IMP6	hypothetical protein
+EF3030	KANOAJAN_01676	B2IMP4	hypothetical protein
+EF3030	KANOAJAN_01677	A0A0U0M4J2	hypothetical protein
+EF3030	KANOAJAN_01678	B2IMP3	IS3 family transposase ISSpn11
+EF3030	KANOAJAN_01679	A0AA95IJZ2	hypothetical protein
+EF3030	KANOAJAN_01680	A0AA95DBE7	IS3 family transposase ISSpn4
+EF3030	KANOAJAN_01681	C1CCV3	Fic domain protein
+EF3030	KANOAJAN_01682	A0AA87CE21	hypothetical protein
+EF3030	KANOAJAN_01683	B2IMF7	hypothetical protein
+EF3030	KANOAJAN_01684	B2IMF6	Valyl-tRNA synthetase
+EF3030	KANOAJAN_01685	A0A0U0NAD6	hypothetical protein
+EF3030	KANOAJAN_01686	B2IMF4	Acetyltransferase
+EF3030	KANOAJAN_01687	A0A0B7LJ17	Hypothetical protein
+EF3030	KANOAJAN_01688	B2IMF1	Hypothetical protein
+EF3030	KANOAJAN_01689	Q8CZ41	Hypothetical protein
+EF3030	KANOAJAN_01690	B2IME9	Hypothetical protein
+EF3030	KANOAJAN_01691	Q8CZ42	Glycerate kinase
+EF3030	KANOAJAN_01692	B1IA84	Hypothetical protein
+EF3030	KANOAJAN_01693	B1IA83	Hypothetical protein
+EF3030	KANOAJAN_01694	B2IME6	Hypothetical protein
+EF3030	KANOAJAN_01695	B2IME5	Ribosome-binding factor A
+EF3030	KANOAJAN_01696	B2IME4	Translation initiation factor 2
+EF3030	KANOAJAN_01697	C1CCT7	L7Ae family ribosomal protein
+EF3030	KANOAJAN_01698	Q8DQV4	Putative nucleic-acid-binding protein implicated in transcription termination
+EF3030	KANOAJAN_01699	C1CCT5	Transcription termination/antitermination protein NusA
+EF3030	KANOAJAN_01700	C1CQ44	Bacterial ribosome SSU maturation protein RimP
+EF3030	KANOAJAN_01701	A0A0B7KV02	tRNA (guanine46-N7-)-methyltransferase
+EF3030	KANOAJAN_01702	C1CCT2	Aminoglycoside phosphotransferase family protein
+EF3030	KANOAJAN_01703	Q9EW58	Putative protease
+EF3030	KANOAJAN_01704	Q9FBH0	Immunity protein BlpZ
+EF3030	KANOAJAN_01705	B2IMD5	Bacteriocin immunity protein BlpY
+EF3030	KANOAJAN_01706	B2IMD4	hypothetical protein
+EF3030	KANOAJAN_01707	A0A6I3TPS6	hypothetical protein
+EF3030	KANOAJAN_01708	Q9ETA3	hypothetical protein
+EF3030	KANOAJAN_01709	Q9ETC8	Bacteriocin lactacin-F subunit LafA
+EF3030	KANOAJAN_01710	B2IMD0	IS1381 transposase OrfB
+EF3030	KANOAJAN_01711	G3ECD6	IS5 family transposase ISSpn7
+EF3030	KANOAJAN_01712	C1C5Q7	hypothetical protein
+EF3030	KANOAJAN_01713	Q9EW64	hypothetical protein
+EF3030	KANOAJAN_01714	G3EBR6	Bacteriocin BlpU
+EF3030	KANOAJAN_01715	B2IMC6	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+EF3030	KANOAJAN_01716	B2IMC5	Competence-stimulating peptide ABC transporter permease protein ComB
+EF3030	KANOAJAN_01717	Q9F2F8	Peptide pheromone BlpC
+EF3030	KANOAJAN_01718	B2IMC4	Two-component system sensor histidine kinase BlpH
+EF3030	KANOAJAN_01719	B2IMC3	Two-component system response regulator BlpR
+EF3030	KANOAJAN_01720	B2IMC2	BlpS protein
+EF3030	KANOAJAN_01721	Q9FBH2	BlpT protein
+EF3030	KANOAJAN_01722	A0A0B7MFR7	ABC transporter permease protein EcsB
+EF3030	KANOAJAN_01723	C1CCR3	ABC transporter ATP-binding protein EcsA
+EF3030	KANOAJAN_01724	Q8DQW8	Histidine triad nucleotide-binding protein
+EF3030	KANOAJAN_01725	Q8CZ48	Hypothetical protein
+EF3030	KANOAJAN_01726	C1C5P0	Hypothetical protein
+EF3030	KANOAJAN_01727	A0AA95DAJ9	Chaperone protein DnaJ
+EF3030	KANOAJAN_01728	A0AA95DAH0	hypothetical protein
+EF3030	KANOAJAN_01729	B2IMB5	Chaperone protein DnaK
+EF3030	KANOAJAN_01730	B2IMB4	Heat shock protein GrpE
+EF3030	KANOAJAN_01731	C1CQ16	Heat-inducible transcription repressor HrcA
+EF3030	KANOAJAN_01732	B1IA49	Hypothetical protein
+EF3030	KANOAJAN_01733	B1IA47	Type I restriction-modification system restriction subunit R
+EF3030	KANOAJAN_01734	B1IA46	Type I restriction-modification system DNA-methyltransferase subunit M
+EF3030	KANOAJAN_01735	A0AA47H3N8	Type I restriction-modification system%2C specificity subunit S type F
+EF3030	KANOAJAN_01736	A0A0B7LDQ8	Type I restriction-modification system%2C specificity subunit S component 2.2
+EF3030	KANOAJAN_01737	C1CCQ0	Integrase/recombinase CreX (XerC/CodV family)
+EF3030	KANOAJAN_01738	A0A4J2BLZ1	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
+EF3030	KANOAJAN_01739	C1C5M8	hypothetical protein
+EF3030	KANOAJAN_01740	B1IA39	Glutamine synthetase type I
+EF3030	KANOAJAN_01741	Q8DQX7	Transcriptional regulator%2C MerR family
+EF3030	KANOAJAN_01742	A0A0I9GA67	Hypothetical protein
+EF3030	KANOAJAN_01743	C1CQ04	Phosphoglycerate kinase
+EF3030	KANOAJAN_01744	B2IMA1	Endo-beta-N-acetylglucosaminidase EndoD
+EF3030	KANOAJAN_01745	A0AA87C5H8	Endo-beta-N-acetylglucosaminidase EndoD
+EF3030	KANOAJAN_01746	B2IM99	Sodium-dependent phosphate transporter NptA
+EF3030	KANOAJAN_01747	Q8DQY0	CTP synthase
+EF3030	KANOAJAN_01748	Q04LZ9	DNA-directed RNA polymerase delta subunit
+EF3030	KANOAJAN_01749	Q8CZ53	Hypothetical protein
+EF3030	KANOAJAN_01750	B2IM95	Hypothetical protein
+EF3030	KANOAJAN_01751	B2IM94	Membrane-associated phospholipid phosphatase
+EF3030	KANOAJAN_01752	A0AA86XGY0	Substrate-specific component RibU of riboflavin ECF transporter
+EF3030	KANOAJAN_01753		FMN
+EF3030	KANOAJAN_01754	A0A0H2UNS5	tRNA (cytidine(34)-2'-O)-methyltransferase
+EF3030	KANOAJAN_01755		23S-methyl
+EF3030	KANOAJAN_01756	C1CCN3	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+EF3030	KANOAJAN_01757	B2IM90	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+EF3030	KANOAJAN_01758	B2IM89	Hypothetical protein
+EF3030	KANOAJAN_01759	C1CIX7	Substrate-specific component MtsA of methionine-regulated ECF transporter
+EF3030	KANOAJAN_01760	C1CCM9	Hypothetical protein
+EF3030	KANOAJAN_01761	C1CCM8	Trk family potassium uptake protein TrkA
+EF3030	KANOAJAN_01762	B2IM85	Trk family potassium uptake protein TrkH
+EF3030	KANOAJAN_01763	A0A4J2B8V2	Lactose-specific PTS IIBC components
+EF3030	KANOAJAN_01764	A0A0T9I2B2	Hypothetical protein
+EF3030	KANOAJAN_01765	A0A0U0DZP2	Hypothetical protein
+EF3030	KANOAJAN_01766	B2IM82	hypothetical protein
+EF3030	KANOAJAN_01767	B2IM81	Pyruvate formate-lyase
+EF3030	KANOAJAN_01768	B2IM80	DNA polymerase IV
+EF3030	KANOAJAN_01769		Srn266
+EF3030	KANOAJAN_01770	A0A822Q9T5	IS1167 transposase
+EF3030	KANOAJAN_01771	Q04M23	Undecaprenyl-diphosphatase
+EF3030	KANOAJAN_01772	C1CDR5	hypothetical protein
+EF3030	KANOAJAN_01773	B2IM76	hypothetical protein
+EF3030	KANOAJAN_01774	B2IM74	Hypothetical protein
+EF3030	KANOAJAN_01775	C1CCL6	Glutamine ABC transporter permease GlnHP1
+EF3030	KANOAJAN_01776	B1I9P2	Glutamine ABC transporter ATP-binding protein GlnQ1
+EF3030	KANOAJAN_01777	B2IM71	Hypothetical protein
+EF3030	KANOAJAN_01778	B2IM69	Threonine dehydratase
+EF3030	KANOAJAN_01779	Q8CZ61	Hypothetical protein
+EF3030	KANOAJAN_01780	B2ILU8	hypothetical protein
+EF3030	KANOAJAN_01781	B2ILY8	Ketol-acid reductoisomerase
+EF3030	KANOAJAN_01782	Q8DR04	Acetolactate synthase small subunit
+EF3030	KANOAJAN_01783	C1CCK7	Acetolactate synthase large subunit
+EF3030	KANOAJAN_01784	C1CCK6	Dihydroxyacetone kinase-like protein
+EF3030	KANOAJAN_01785	C1CCK5	Putative alkaline-shock protein
+EF3030	KANOAJAN_01786	A0A064BZB4	LSU ribosomal protein L28p
+EF3030	KANOAJAN_01787	A0A4J1RIX1	ISNCY family transposase IS1202
+EF3030	KANOAJAN_01788	A0A4J1QAZ5	Putative CDP-glycerol:glycerophosphate glycerophosphotransferase
+EF3030	KANOAJAN_01789	B2ILY0	Peptide chain release factor 3
+EF3030	KANOAJAN_01790	A0A064C277	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit C/glutamyl-tRNA(Glu) amidotransferase subunit C
+EF3030	KANOAJAN_01791	B2ILX8	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit A/glutamyl-tRNA(Glu) amidotransferase subunit A
+EF3030	KANOAJAN_01792	B2ILX7	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit B/glutamyl-tRNA(Glu) amidotransferase subunit B
+EF3030	KANOAJAN_01793	Q04M43	Translation elongation factor P
+EF3030	KANOAJAN_01794	Q8DR12	Alkaline shock protein
+EF3030	KANOAJAN_01795	B2ILX4	Transcription termination protein NusB
+EF3030	KANOAJAN_01796	C1C5G7	hypothetical protein
+EF3030	KANOAJAN_01797	B2ILX3	Hypothetical protein
+EF3030	KANOAJAN_01798	A0A0U0N7F6	Acetyl-coenzyme A carboxyl transferase alpha chain
+EF3030	KANOAJAN_01799	Q7CRB7	Acetyl-coenzyme A carboxyl transferase beta chain
+EF3030	KANOAJAN_01800	Q9FBB9	Biotin carboxylase of acetyl-CoA carboxylase
+EF3030	KANOAJAN_01801	B2ILW9	3-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+EF3030	KANOAJAN_01802	Q9FBC1	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+EF3030	KANOAJAN_01803	Q8DR14	3-oxoacyl-(acyl-carrier-protein) synthase FabF
+EF3030	KANOAJAN_01804	C1CCI6	3-oxoacyl-[acyl-carrier protein] reductase FabG1
+EF3030	KANOAJAN_01805	Q9FBC4	Malonyl CoA-acyl carrier protein transacylase FabD
+EF3030	KANOAJAN_01806	Q8DR17	Enoyl-(acyl-carrier-protein) reductase FabK
+EF3030	KANOAJAN_01807	P0A2W1	Acyl carrier protein
+EF3030	KANOAJAN_01808	Q04M58	3-oxoacyl-(acyl-carrier-protein) synthase FabH
+EF3030	KANOAJAN_01809	Q8DR18	Transcriptional regulator of fatty acid biosynthesis FabT
+EF3030	KANOAJAN_01810	C1CCI0	Trans-2%2Ccis-3-Decenoyl-ACP isomerase
+EF3030	KANOAJAN_01811	Q8DR20	Aspartokinase
+EF3030	KANOAJAN_01812	Q8DR21	Putative regulator of the mannose operon ManO
+EF3030	KANOAJAN_01813	A0A822Q3E5	Seryl-tRNA synthetase
+EF3030	KANOAJAN_01814	B2ILV6	Exfoliative toxin A
+EF3030	KANOAJAN_01815	Q8DR24	Macrophage infectivity potentiator protein
+EF3030	KANOAJAN_01816	B2ILV4	Sodium/glycine symporter GlyP
+EF3030	KANOAJAN_01817		Glycine
+EF3030	KANOAJAN_01818	B2ILV2	Recombination inhibitory protein MutS2
+EF3030	KANOAJAN_01819	C1C5E3	Z-ring positive regulator ZapB
+EF3030	KANOAJAN_01820	C1CCH1	Z-ring positive regulator ZapA
+EF3030	KANOAJAN_01821	Q3HYP6	Ribonuclease HIII
+EF3030	KANOAJAN_01822	Q3I0J2	Signal peptidase I
+EF3030	KANOAJAN_01823	A0A4G4T2Z6	RecD-like DNA helicase YrrC
+EF3030	KANOAJAN_01824	C1CIQ2	Cell division trigger factor
+EF3030	KANOAJAN_01825	B5E7E0	Mannitol-1-phosphate 5-dehydrogenase
+EF3030	KANOAJAN_01826	C1C5D5	Mannitol-specific PTS IIA component
+EF3030	KANOAJAN_01827	B2ILU1	Mannitol operon activator%2C BglG family
+EF3030	KANOAJAN_01828	A0A822QCM5	Mannitol-specific PTS IIBC components
+EF3030	KANOAJAN_01829	A0AA47CG74	hypothetical protein
+EF3030	KANOAJAN_01830	B2ILT8	IS3 family transposase ISSpn11
+EF3030	KANOAJAN_01831	Q8DR37	hypothetical protein
+EF3030	KANOAJAN_01832	Q8DR38	IS3 family transposase ISSpn11
+EF3030	KANOAJAN_01833	B2ILT5	Choline-binding protein CbpF
+EF3030	KANOAJAN_01834	B2ILT4	Choline-binding protein CbpK
+EF3030	KANOAJAN_01835	B2ILT3	hypothetical protein
+EF3030	KANOAJAN_01836	C1CCF6	Hypothetical protein
+EF3030	KANOAJAN_01837	B2ILS9	hypothetical protein
+EF3030	KANOAJAN_01838	Q9S1J7	Two-component transcriptional regulator VraR
+EF3030	KANOAJAN_01839	A0A0B7LE21	Two-component system sensor histidine kinase VraS
+EF3030	KANOAJAN_01840	C1CCF1	Cell wall-active antibiotics response protein VraT
+EF3030	KANOAJAN_01841	Q97SH8	Isopentenyl-diphosphate delta-isomerase%2C FMN-dependent
+EF3030	KANOAJAN_01842	A0A0B7LM49	Phosphomevalonate kinase
+EF3030	KANOAJAN_01843	B2ILS3	Diphosphomevalonate decarboxylase
+EF3030	KANOAJAN_01844	A0A0H2UNK6	Mevalonate kinase
+EF3030	KANOAJAN_01845	A0A822Q888	hypothetical protein
+EF3030	KANOAJAN_01846	A0A0I8L9H0	hypothetical protein
+EF3030	KANOAJAN_01847	C1CCE4	Macrolide-efflux protein
+EF3030	KANOAJAN_01848	C1CCE3	Choline-binding protein CbpF
+EF3030	KANOAJAN_01849	C1CCE2	Choline-binding protein CbpF
+EF3030	KANOAJAN_01850	C1CCE1	Orphan response regulator RitR
+EF3030	KANOAJAN_01851	Q8DR54	6-phosphogluconate dehydrogenase%2C decarboxylating
+EF3030	KANOAJAN_01852	C1CCD9	Mid-cell-anchored protein Z
+EF3030	KANOAJAN_01853	A0A4J1NHK2	23S rRNA (guanine(2445)-N(2))-methyltransferase
+EF3030	KANOAJAN_01854		RNaseP_bact_b
+EF3030	KANOAJAN_01855	Q97SI9	Cell division protein GpsB
+EF3030	KANOAJAN_01856	Q97SJ0	Hypothetical protein
+EF3030	KANOAJAN_01857	C1CIN1	RecU Holliday junction resolvase
+EF3030	KANOAJAN_01858	A5YH39	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A
+EF3030	KANOAJAN_01859	A0A4N9BH24	Endo-alpha-N-acetylgalactosaminidase Eng
+EF3030	KANOAJAN_01860	A0A4P8GBE9	Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA
+EF3030	KANOAJAN_01861	A0A654UCG4	hypothetical protein
+EF3030	KANOAJAN_01862	A0A4J1YPJ4	hypothetical protein
+EF3030	KANOAJAN_01863	P97007	dTDP-4-dehydrorhamnose reductase Cps2O
+EF3030	KANOAJAN_01864	Q8DR64	dTDP-glucose 4%2C6-dehydratase Cps2N
+EF3030	KANOAJAN_01865	P97005	dTDP-4-dehydrorhamnose 3%2C5-epimerase Cps2M
+EF3030	KANOAJAN_01866	Q4JZ08	Glucose-1-phosphate thymidylyltransferase Cps2L
+EF3030	KANOAJAN_01867	Q4K0U5	UDP-N-acetylglucosamine 2-epimerase
+EF3030	KANOAJAN_01868	G3GH20	hypothetical protein
+EF3030	KANOAJAN_01869	P97001	hypothetical protein
+EF3030	KANOAJAN_01870	P97000	hypothetical protein
+EF3030	KANOAJAN_01871	G3GH17	Lipopolysaccharide cholinephosphotransferase LicD1
+EF3030	KANOAJAN_01872	Q54522	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+EF3030	KANOAJAN_01873	G3GHA5	Undecaprenyl-phosphate galactosephosphotransferase Cps2E
+EF3030	KANOAJAN_01874	G3GH14	Tyrosine-protein kinase Cps2D
+EF3030	KANOAJAN_01875	G3GH58	Capsular biosynthesis protein Cps2C
+EF3030	KANOAJAN_01876	Q4K383	Tyrosine-protein phosphatase Cps2B
+EF3030	KANOAJAN_01877	G3GHA1	Exopolysaccharide biosynthesis transcriptional regulator Cps2A
+EF3030	KANOAJAN_01878	I0J9B7	hypothetical protein
+EF3030	KANOAJAN_01879	A0A0T9IWF8	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_01880	A0A4J2DCP2	Glucan 1%2C6-alpha-glucosidase
+EF3030	KANOAJAN_01881	C1CBC0	ATP-dependent Zn protease
+EF3030	KANOAJAN_01882	Q04MC2	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
+EF3030	KANOAJAN_01883	A0AA95D9Z3	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
+EF3030	KANOAJAN_01884	P0CB59	Phospho-N-acetylmuramoyl-pentapeptide- transferase
+EF3030	KANOAJAN_01885	B2Y4H0	Penicillin-binding protein 2X
+EF3030	KANOAJAN_01886	Q8DR70	Cell division protein FtsL
+EF3030	KANOAJAN_01887	A0A098Z6E2	16S rRNA (cytosine(1402)-N(4))-methyltransferase MraW
+EF3030	KANOAJAN_01888	Q8DR71	Transcriptional regulator%2C PbsX family
+EF3030	KANOAJAN_01889	A0A4F6G1D6	hypothetical protein
+EF3030	KANOAJAN_01890	C1CBA9	Hypothetical protein
+EF3030	KANOAJAN_01891	C1CCA5	hypothetical protein
+EF3030	KANOAJAN_01892	C1CCA4	Transcriptional regulator RegR
+EF3030	KANOAJAN_01893	A0A4J1ZCT1	Oligohyaluronate lyase
+EF3030	KANOAJAN_01894	A0A822Q7S8	Preprotein translocase subunit YajC
+EF3030	KANOAJAN_01895	A0A0T8LNX8	Hyaluronate-oligosaccharide-specific PTS IID component
+EF3030	KANOAJAN_01896	Q8DR75	Hyaluronate-oligosaccharide-specific PTS IIC component
+EF3030	KANOAJAN_01897	C1CC99	Hyaluronate-oligosaccharide-specific PTS IIB component
+EF3030	KANOAJAN_01898	A0A4J2DAV6	Unsaturated chondroitin disaccharide hydrolase
+EF3030	KANOAJAN_01899	A0A0T7IXY5	Hyaluronate-oligosaccharide-specific PTS IIA component
+EF3030	KANOAJAN_01900	Q8DR79	2-deoxy-D-gluconate 3-dehydrogenase
+EF3030	KANOAJAN_01901	C1CB98	Putative 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+EF3030	KANOAJAN_01902	A0A0X9BY46	2-dehydro-3-deoxygluconokinase
+EF3030	KANOAJAN_01903	C1CB96	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxyphosphogluconate aldolase
+EF3030	KANOAJAN_01904	A0A0B7L7X1	IS200/IS605 family transposase ISStin10
+EF3030	KANOAJAN_01905	A0A4J2AA62	Hyaluronate lyase precursor SpnHL
+EF3030	KANOAJAN_01906	A0A0B7KT23	Glutathione peroxidase family protein
+EF3030	KANOAJAN_01907		SpF11_sRNA
+EF3030	KANOAJAN_01908	A0AAD2KGC6	Maltodextrin glucosidase
+EF3030	KANOAJAN_01909		SpF10_sRNA
+EF3030	KANOAJAN_01909		
+EF3030	KANOAJAN_01910	A0A0B7LX26	hypothetical protein
+EF3030	KANOAJAN_01911	Q8CZ76	Hypothetical protein
+EF3030	KANOAJAN_01912	C1CC87	Tyrosine recombinase XerC
+EF3030	KANOAJAN_01913	Q8CWU4	SSU ribosomal protein S9p (S16e)
+EF3030	KANOAJAN_01914	Q8CWU5	LSU ribosomal protein L13p (L13Ae)
+EF3030	KANOAJAN_01915		L13_leader
+EF3030	KANOAJAN_01916	Q8CZ79	Hypothetical protein
+EF3030	KANOAJAN_01917	C1CC82	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+EF3030	KANOAJAN_01918	C1CIH2	GTP cyclohydrolase I type 1
+EF3030	KANOAJAN_01919	A0A654UBA6	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+EF3030	KANOAJAN_01920	A0AA86XV92	Dihydropteroate synthase
+EF3030	KANOAJAN_01921	A0A4L4EU68	Membrane-bound protease%2C CAAX family
+EF3030	KANOAJAN_01922	A0A6G2D8T7	Guanine-hypoxanthine permease
+EF3030	KANOAJAN_01923	C1CC76	Hydrolase%2C HAD superfamily
+EF3030	KANOAJAN_01924	Q8DR96	Alcohol dehydrogenase
+EF3030	KANOAJAN_01925	C1CB58	Mannose-specific PTS IIAB components
+EF3030	KANOAJAN_01926	Q8DR98	Mannose-specific PTS IIC component
+EF3030	KANOAJAN_01927	Q8DR99	Mannose-specific PTS IID component
+EF3030	KANOAJAN_01928	A0A4J1U5R7	Aminopeptidase C
+EF3030	KANOAJAN_01929	C1CC69	Ribosomal small subunit pseudouridine synthase A
+EF3030	KANOAJAN_01930	Q8DRA2	Membrane protein
+EF3030	KANOAJAN_01931	A0AAD2I5D7	Aminopeptidase PepS
+EF3030	KANOAJAN_01932	C1CC66	Hypothetical protein
+EF3030	KANOAJAN_01933	Q8DRA4	mRNA interferase RelE1
+EF3030	KANOAJAN_01934	C1CC64	Antitoxin RelB1
+EF3030	KANOAJAN_01935	B2ISK0	DNA polymerase III
+EF3030	KANOAJAN_01936	C1CPE5	Translation elongation factor G
+EF3030	KANOAJAN_01937	Q8CWU6	SSU ribosomal protein S7p (S5e)
+EF3030	KANOAJAN_01938	E2DP60	SSU ribosomal protein S12p (S23e)
+EF3030	KANOAJAN_01939	B2IP24	IS1380 family transposase ISSpn5
+EF3030	KANOAJAN_01940	B2ISJ3	Pullulanase SpuA
+EF3030	KANOAJAN_01941	B2ISJ2	Oxidoreductase
+EF3030	KANOAJAN_01942	A0A0T7ZRQ2	Glucosamine--fructose-6-phosphate aminotransferase
+EF3030	KANOAJAN_01943	Q8DRA9	6-phospho-beta-glucosidase
+EF3030	KANOAJAN_01944	A0A0B7L2A5	Prolyl-tRNA synthetase
+EF3030	KANOAJAN_01945	Q8DRB1	Intramembrane protease Eep
+EF3030	KANOAJAN_01946	C1CB37	Phosphatidate cytidylyltransferase
+EF3030	KANOAJAN_01947	B2ISI6	Undecaprenyl diphosphate synthase
+EF3030	KANOAJAN_01948		csRNA
+EF3030	KANOAJAN_01949	A0A0T8YBI6	Hypothetical protein
+EF3030	KANOAJAN_01950	B5E6T3	Holliday junction DNA helicase RuvB
+EF3030	KANOAJAN_01951		csRNA
+EF3030	KANOAJAN_01952	A0A380LRV0	Acetyltransferase%2C GNAT family
+EF3030	KANOAJAN_01953	A0AA86MNV8	Acetyltransferase%2C GNAT family
+EF3030	KANOAJAN_01954	A0A4J1XBF4	Leucyl-tRNA synthetase
+EF3030	KANOAJAN_01955	Q8DRB7	Glycerol dehydrogenase
+EF3030	KANOAJAN_01956	B2ISH8	Transaldolase
+EF3030	KANOAJAN_01957	Q8DRB9	Pyruvate formate-lyase
+EF3030	KANOAJAN_01958	B2ISH6	Cellobiose-specific PTS IIC component
+EF3030	KANOAJAN_01959	Q8DRC1	Cellobiose-specific PTS IIB component
+EF3030	KANOAJAN_01960	C1CC41	Cellobiose-specific PTS IIA component
+EF3030	KANOAJAN_01961	C1CC40	Transcriptional regulator
+EF3030	KANOAJAN_01962	A0A0H2UN76	Transcriptional regulator%2C DeoR family
+EF3030	KANOAJAN_01963	Q8DRC5	Pyruvate formate-lyase activating enzyme
+EF3030	KANOAJAN_01964	B2ISH0	putative protein
+EF3030	KANOAJAN_01965	B2ISG9	hypothetical protein
+EF3030	KANOAJAN_01966	B2ISG8	Ferric iron ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01967	B2ISG7	Ferric iron ABC transporter ATP-binding protein
+EF3030	KANOAJAN_01968	A0AAE9U2Z6	Iron(III)-transport system permease protein SfuB
+EF3030	KANOAJAN_01969	B2IS61	Iron(III)-transport system permease protein SfuB
+EF3030	KANOAJAN_01970	A0A0B7M6X8	Phosphoglycerate mutase family protein
+EF3030	KANOAJAN_01971		csRNA
+EF3030	KANOAJAN_01972	C1CIC6	hypothetical protein
+EF3030	KANOAJAN_01973	C1CC34	ACT domain-containing transcriptional regulator
+EF3030	KANOAJAN_01974		L17DE
+EF3030	KANOAJAN_01975	Q8CWU8	LSU ribosomal protein L17p
+EF3030	KANOAJAN_01976	Q04ML1	DNA-directed RNA polymerase alpha subunit
+EF3030	KANOAJAN_01977	Q04ML2	SSU ribosomal protein S11p (S14e)
+EF3030	KANOAJAN_01978	Q04ML3	SSU ribosomal protein S13p (S18e)
+EF3030	KANOAJAN_01979	P0A496	LSU ribosomal protein L36p
+EF3030	KANOAJAN_01980	Q04ML4	Translation initiation factor 1
+EF3030	KANOAJAN_01981	Q97SU1	Adenylate kinase
+EF3030	KANOAJAN_01982	Q8DRD5	Protein translocase subunit SecY
+EF3030	KANOAJAN_01983	Q97SU3	LSU ribosomal protein L15p (L27Ae)
+EF3030	KANOAJAN_01984	B2IS58	LSU ribosomal protein L30p (L7e)
+EF3030	KANOAJAN_01985	Q04ML9	SSU ribosomal protein S5p (S2e)
+EF3030	KANOAJAN_01986	Q97SU6	LSU ribosomal protein L18p (L5e)
+EF3030	KANOAJAN_01987	Q8CWV3	LSU ribosomal protein L6p (L9e)
+EF3030	KANOAJAN_01988	Q04MM2	SSU ribosomal protein S8p (S15Ae)
+EF3030	KANOAJAN_01989	Q04MM3	SSU ribosomal protein S14p (S29e)
+EF3030	KANOAJAN_01990	Q97SV1	LSU ribosomal protein L5p (L11e)
+EF3030	KANOAJAN_01991	Q04MM5	LSU ribosomal protein L24p (L26e)
+EF3030	KANOAJAN_01992	Q04MM6	LSU ribosomal protein L14p (L23e)
+EF3030	KANOAJAN_01993	Q04MM7	SSU ribosomal protein S17p (S11e)
+EF3030	KANOAJAN_01994	A0A0B7M1U7	LSU ribosomal protein L29p (L35e)
+EF3030	KANOAJAN_01995	Q04MM9	LSU ribosomal protein L16p (L10e)
+EF3030	KANOAJAN_01996	Q04MN0	SSU ribosomal protein S3p (S3e)
+EF3030	KANOAJAN_01997	Q04MN1	LSU ribosomal protein L22p (L17e)
+EF3030	KANOAJAN_01998	Q04MN2	SSU ribosomal protein S19p (S15e)
+EF3030	KANOAJAN_01999	Q97SV2	LSU ribosomal protein L2p (L8e)
+EF3030	KANOAJAN_02000	Q97SV3	LSU ribosomal protein L23p (L23Ae)
+EF3030	KANOAJAN_02001	Q8CWV7	LSU ribosomal protein L4p (L1e)
+EF3030	KANOAJAN_02002	Q97SV5	LSU ribosomal protein L3p (L3e)
+EF3030	KANOAJAN_02003	Q04MN7	SSU ribosomal protein S10p (S20e)
+EF3030	KANOAJAN_02004	Q8CZ85	Hypothetical protein
+EF3030	KANOAJAN_02005	C1CAK9	Ribonucleotide reductase of class III%2C activating protein
+EF3030	KANOAJAN_02006	B2IS36	Acetyltransferase
+EF3030	KANOAJAN_02007	C1CC00	Ribonucleotide reductase of class III%2C large subunit
+EF3030	KANOAJAN_02008	C1CAK5	Competence-damage induced protein
+EF3030	KANOAJAN_02009	Q8DRD8	Hypothetical protein
+EF3030	KANOAJAN_02010	B2IS32	Cardiolipin synthetase
+EF3030	KANOAJAN_02011	A0A0T8LR20	Hypothetical protein
+EF3030	KANOAJAN_02012	B2IS30	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+EF3030	KANOAJAN_02013	Q97SX0	Hypothetical protein
+EF3030	KANOAJAN_02014	Q8DRE2	Putative pre-16S rRNA nuclease YqgF
+EF3030	KANOAJAN_02015	Q97SX1	Hypothetical protein
+EF3030	KANOAJAN_02016	C1CBZ2	Hypothetical protein
+EF3030	KANOAJAN_02017	Q8DRE3	Transcriptional regulator SpxA2
+EF3030	KANOAJAN_02018	A0A0U0MLG7	MP-%2CMA-%2CMS-%2CAP-%2CNP-specific aminopeptidase YpdF
+EF3030	KANOAJAN_02019	A0A0B7M0T8	Excinuclease ABC subunit A UvrA
+EF3030	KANOAJAN_02020	Q8DRE5	Magnesium and cobalt transport protein CorA1
+EF3030	KANOAJAN_02021	A0A064C1E4	Integral membrane protein
+EF3030	KANOAJAN_02022	A0A0U0LDX2	Muramoyltetrapeptide carboxypeptidase
+EF3030	KANOAJAN_02023	A0A4L7JNP3	CAAX amino terminal protease family protein
+EF3030	KANOAJAN_02024	Q8CWV9	DNA-3-methyladenine glycosylase
+EF3030	KANOAJAN_02025	C1CI73	Holliday junction DNA helicase RuvA
+EF3030	KANOAJAN_02026		FMN
+EF3030	KANOAJAN_02027	A0A0D6J4V4	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+EF3030	KANOAJAN_02028	B2IS13	Riboflavin synthase RibE
+EF3030	KANOAJAN_02029	A0A654UA13	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
+EF3030	KANOAJAN_02030	Q04MR3	6%2C7-dimethyl-8-ribityllumazine synthase RibH
+EF3030	KANOAJAN_02031	Q04MR4	DNA mismatch repair protein HexB
+EF3030	KANOAJAN_02032	A0A0H2UNA2	DNA-binding protein
+EF3030	KANOAJAN_02033	Q8CZ92	Hypothetical protein
+EF3030	KANOAJAN_02034	B2IS07	NRAMP family Mn2+/Fe2+ transporter
+EF3030	KANOAJAN_02035	Q97T03	Ribonucleotide reduction protein NrdI
+EF3030	KANOAJAN_02036	A0A4L2UMH4	Hypothetical protein
+EF3030	KANOAJAN_02037	Q8DRF5	Two-component system response regulator
+EF3030	KANOAJAN_02038	A0A0E9GWT7	Two-component system sensor histidine kinase
+EF3030	KANOAJAN_02039	Q8DRF7	Hypothetical protein
+EF3030	KANOAJAN_02040	A0A0B7LBC3	Substrate-specific component of putative ECF transporter
+EF3030	KANOAJAN_02041	C1CAH3	Methionine ABC transporter permease protein
+EF3030	KANOAJAN_02042	C1CAH2	Methionine ABC transporter ATP-binding protein
+EF3030	KANOAJAN_02043	A0AA36V989	N-acyl-L-amino acid amidohydrolase
+EF3030	KANOAJAN_02044	A0A0H2ZPC6	Methionine ABC transporter substrate-binding protein
+EF3030	KANOAJAN_02045	A0A0T8YST1	Cysteine ABC transporter substrate-binding protein
+EF3030	KANOAJAN_02046	A0A0B7MAF7	Cysteine ABC transporter substrate-binding protein
+EF3030	KANOAJAN_02047	B2IRM8	hypothetical protein
+EF3030	KANOAJAN_02048	B2IRM7	Macrolide-efflux protein
+EF3030	KANOAJAN_02049	B2IRN4	Hypothetical protein
+EF3030	KANOAJAN_02050	B2IRN3	Hypothetical protein
+EF3030	KANOAJAN_02051	B2IRN2	hypothetical protein
+EF3030	KANOAJAN_02052	A0A6G2D4V0	Macrolide-efflux protein
+EF3030	KANOAJAN_02053	B2IRN1	Nisin biosynthesis protein NisC
+EF3030	KANOAJAN_02054	A0A0T7YBC7	Nisin biosynthesis protein NisB
+EF3030	KANOAJAN_02055	A0A4J1R3M9	Hypothetical protein
+EF3030	KANOAJAN_02056	B2IRM1	hypothetical protein
+EF3030	KANOAJAN_02057	B2IRM0	hypothetical protein
+EF3030	KANOAJAN_02058	C1CBV4	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_02059	B2IRL8	Family 2 glycosyltransferase
+EF3030	KANOAJAN_02060	B1I845	Exopolysaccharide biosynthesis glycosyltransferase EpsF
+EF3030	KANOAJAN_02061		Srn266
+EF3030	KANOAJAN_02062	C1CAF8	IS1167 transposase
+EF3030	KANOAJAN_02063	C1CBV1	IS1167 transposase Orf2
+EF3030	KANOAJAN_02064	A0A0E8GP02	N(6)-L-threonylcarbamoyladenine synthase TsaD
+EF3030	KANOAJAN_02065	B1I842	Ribosomal-protein-S18p-alanine acetyltransferase
+EF3030	KANOAJAN_02066	A0A0E8Z5L6	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+EF3030	KANOAJAN_02067	Q8CZA0	Two-peptide bacteriocin peptide CibA
+EF3030	KANOAJAN_02068	C1CAF2	Two-peptide bacteriocin peptide CibB
+EF3030	KANOAJAN_02069	A0A4J1SJW5	Hypothetical protein
+EF3030	KANOAJAN_02070	C1CBU5	Hypothetical protein
+EF3030	KANOAJAN_02071	C1CBU4	Ribonuclease J1 (endonuclease and 5' exonuclease)
+EF3030	KANOAJAN_02072	C1CBU2	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+EF3030	KANOAJAN_02073	A0A6G2D3Y2	MutT/Nudix family protein
+EF3030	KANOAJAN_02074		Spd-sr37
+EF3030	KANOAJAN_02074		
+EF3030	KANOAJAN_02075	C1CI29	tRNA-specific 2-thiouridylase MnmA
+EF3030	KANOAJAN_02076	Q9LAZ3	Surface protein PspA precursor
+EF3030	KANOAJAN_02077		SpF03_sRNA
+EF3030	KANOAJAN_02078	A0A0B7LD21	Pyridoxamine 5'-phosphate oxidase
+EF3030	KANOAJAN_02079	A0A0B7L5C6	Hypothetical protein
+EF3030	KANOAJAN_02080	B2IRJ9	Hypothetical protein
+EF3030	KANOAJAN_02081	B2IRJ8	Hypothetical protein
+EF3030	KANOAJAN_02082	B2IRJ7	Hypothetical protein
+EF3030	KANOAJAN_02083	B2IRJ6	Hypothetical protein
+EF3030	KANOAJAN_02084	Q8CZA8	Hypothetical protein
+EF3030	KANOAJAN_02085	A0A6B9PW06	hypothetical protein
+EF3030	KANOAJAN_02086	C1CAD6	Hypothetical protein
+EF3030	KANOAJAN_02087	C1CAD5	Hypothetical protein
+EF3030	KANOAJAN_02088	Q8CZB0	Hypothetical protein
+EF3030	KANOAJAN_02089	B2IRJ2	Lactococcin-G-processing and transport ATP-binding protein LagD
+EF3030	KANOAJAN_02090	B2IRJ1	Hypothetical protein
+EF3030	KANOAJAN_02091		Bacilli-1
+EF3030	KANOAJAN_02091		
+EF3030	KANOAJAN_02092	B2IRJ0	Argininosuccinate synthase
+EF3030	KANOAJAN_02093	B2IRI9	Amino acid ABC transporter substrate-binding/permease protein
+EF3030	KANOAJAN_02094	Q8DRI7	ABC transporter ATP-binding protein
+EF3030	KANOAJAN_02095	C1CAC4	Amino acid ABC transporter membrane-spanning permease
+EF3030	KANOAJAN_02096	C1CAC3	Putative bacteriocin
+EF3030	KANOAJAN_02097	C1CAC1	Aggregation-promoting factor
+EF3030	KANOAJAN_02098	Q8DRI9	L-serine dehydratase%2C beta subunit
+EF3030	KANOAJAN_02099	Q8DRJ0	L-serine dehydratase%2C alpha subunit
+EF3030	KANOAJAN_02100	B2IRI1	Phosphoglycolate phosphatase
+EF3030	KANOAJAN_02101	B2IRI0	Hypothetical protein
+EF3030	KANOAJAN_02102	C1CBR9	Putative UDP-GlcNAc 4%2C6-dehydratase AatA
+EF3030	KANOAJAN_02103	B1I800	Glycosyltransferase%2C group 2 family
+EF3030	KANOAJAN_02104	A0A0H2UMY2	Cyanate permease
+EF3030	KANOAJAN_02105	C1C9Z6	Transcriptional regulator%2C PadR family
+EF3030	KANOAJAN_02106	A0A0H2UN16	Integral membrane protein (putative)
+EF3030	KANOAJAN_02107	Q8CZB9	Putative membrane-associated protein
+EF3030	KANOAJAN_02108	A0A4N9GY32	Putative membrane protein
+EF3030	KANOAJAN_02109	A0AAD2K9Z0	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+EF3030	KANOAJAN_02110	Q04MY5	hypothetical protein
+EF3030	KANOAJAN_02111	B2IRH0	ABC transporter substrate-binding protein
+EF3030	KANOAJAN_02112	B2IRG9	ABC transporter permease protein
+EF3030	KANOAJAN_02113	Q8DRJ8	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+EF3030	KANOAJAN_02114	A0AA86XNR3	Hypothetical protein
+EF3030	KANOAJAN_02115	A0AAD2KAL2	Hypothetical protein
+EF3030	KANOAJAN_02116		SpF01_sRNA
+EF3030	KANOAJAN_02117	Q04MZ3	SSU ribosomal protein S4p (S9e)
+EF3030	KANOAJAN_02118	Q9S1J1	Two-component system sensor histidine kinase
+EF3030	KANOAJAN_02119	B2IRG2	Two-component system response regulator
+EF3030	KANOAJAN_02120	A0A6I3UT83	Cell wall surface anchor family protein PavB
+EF3030	KANOAJAN_02121	Q8CZC3	hypothetical protein
+EF3030	KANOAJAN_02122	Q8DRK3	hypothetical protein
+EF3030	KANOAJAN_02123	Q8DRK4	Trk family potassium uptake protein CabP
+EF3030	KANOAJAN_02124	Q8DRK5	Trk family potassium uptake protein
+EF3030	KANOAJAN_02125	Q8DRK6	Uridine phosphorylase
+EF3030	KANOAJAN_02126	A0AAD2I3Y4	Sulfurtransferase
+EF3030	KANOAJAN_02127	A0AAD2I2K9	Hypothetical protein
+EF3030	KANOAJAN_02128	Q8DRK7	Hypothetical protein
+EF3030	KANOAJAN_02129	A0A0B7LME7	Glyoxalase family protein
+EF3030	KANOAJAN_02130	A0A0B7M4V6	Aldose 1-epimerase
+EF3030	KANOAJAN_02131	A0A0B7KP13	Galactosamine-6-phosphate isomerase
+EF3030	KANOAJAN_02132	Q8DRL0	Galactosamine-specific PTS IIA component
+EF3030	KANOAJAN_02133	B2IRE5	Galactosamine-specific PTS IID component
+EF3030	KANOAJAN_02134	C1CBN7	Galactosamine-specific PTS IIC component
+EF3030	KANOAJAN_02135	Q8DRL3	Galactosamine-specific PTS IIB component
+EF3030	KANOAJAN_02136	A0A0B7L1X5	Beta-galactosidase
+EF3030	KANOAJAN_02137	A0A0H2UMU7	Transcriptional regulator%2C GntR family
+EF3030	KANOAJAN_02138	A0A4J1UKP4	Beta-hexosaminidase StrH
+EF3030	KANOAJAN_02139	C1C9W0	Adenylosuccinate lyase
+EF3030	KANOAJAN_02140	A0A0Y2K120	Hypothetical protein
+EF3030	KANOAJAN_02141	A0A0E9GUQ6	N5-carboxyaminoimidazole ribonucleotide synthase
+EF3030	KANOAJAN_02142	C1CBM9	N5-carboxyaminoimidazole ribonucleotide mutase
+EF3030	KANOAJAN_02143	A0A4J2C2U6	Phosphoribosylamine--glycine ligase
+EF3030	KANOAJAN_02144	B2IR40	Bifunctional inosine monophosphate cyclohydrolase/phosphoribosylaminoimidazolecarboxamide formyltransferase
+EF3030	KANOAJAN_02145	Q8DRM2	Teicoplanin resistance protein VanZ
+EF3030	KANOAJAN_02146	Q8DRM3	Phosphoribosylglycinamide formyltransferase
+EF3030	KANOAJAN_02147	A0A0T8LLS8	Phosphoribosylformylglycinamidine cyclo-ligase
+EF3030	KANOAJAN_02148	A0A4J2C366	Amidophosphoribosyltransferase
+EF3030	KANOAJAN_02149	A0AAD2IM67	Phosphoribosylformylglycinamidine synthase%2C synthetase and glutamine amidotransferase subunits
+EF3030	KANOAJAN_02150	Q07296	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EF3030	KANOAJAN_02151	B2IR33	Competence-stimulating peptide ABC transporter permease protein ComB
+EF3030	KANOAJAN_02152	B2IR32	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+EF3030	KANOAJAN_02153	C1CHD8	Hypothetical protein
+EF3030	KANOAJAN_02154	Q8DRN0	Bacteriocin BlpU
+EF3030	KANOAJAN_02155	B2IR28	Acyl carrier protein
+EF3030	KANOAJAN_02156	B8ZJM1	Phosphate:acyl-ACP acyltransferase PlsX
+EF3030	KANOAJAN_02157	Q97TA7	DNA recombination and repair protein RecO
+EF3030	KANOAJAN_02158	B2IR24	N-acetyl-L%2CL-diaminopimelate aminotransferase
+EF3030	KANOAJAN_02159	A0A0T8S6U2	Putative membrane protein YeiH
+EF3030	KANOAJAN_02160	A0AA86XGR1	Hypothetical protein
+EF3030	KANOAJAN_02161	Q8DRN7	CoA-binding protein
+EF3030	KANOAJAN_02162	B2IR20	DNA polymerase I
+EF3030	KANOAJAN_02163	B2IR18	hypothetical protein
+EF3030	KANOAJAN_02164	B2IR17	Ribose-phosphate pyrophosphokinase
+EF3030	KANOAJAN_02165	B2IR16	hypothetical protein
+EF3030	KANOAJAN_02166	B2IR15	IS3 family transposase ISSpn4
+EF3030	KANOAJAN_02167	A0A0B7LKL9	hypothetical protein
+EF3030	KANOAJAN_02168	B2IR13	hypothetical protein
+EF3030	KANOAJAN_02169	C1CHC1	Carbonic anhydrase
+EF3030	KANOAJAN_02170	B2IR11	DNA repair protein RadA
+EF3030	KANOAJAN_02171	A0A6G2DNX4	Hypothetical protein
+EF3030	KANOAJAN_02172	Q8DRP2	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+EF3030	KANOAJAN_02173		Bacteria_small_SRP
+EF3030	KANOAJAN_02174	B2IR08	tRNA-specific adenosine-34 deaminase
+EF3030	KANOAJAN_02175		csRNA
+EF3030	KANOAJAN_02176	B2IR07	Adenylosuccinate synthetase
+EF3030	KANOAJAN_02177	Q8CZD0	Competence positive regulator ComW
+EF3030	KANOAJAN_02178	B2IR05	IS1167 transposase Orf1
+EF3030	KANOAJAN_02179	A0A2U3RX19	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_02180	A0AAE9QWE4	IS630 family transposase IS630-Spn1
+EF3030	KANOAJAN_02181		tRNA-Asn(gtt)
+EF3030	KANOAJAN_02182		5S ribosomal RNA
+EF3030	KANOAJAN_02183		23S ribosomal RNA
+EF3030	KANOAJAN_02184		tRNA-Ala(tgc)
+EF3030	KANOAJAN_02185		16S ribosomal RNA
+EF3030	KANOAJAN_02186		tRNA-Glu(ttc)
+EF3030	KANOAJAN_02187	B2IMI0	Competence-specific sigma factor ComX
+EF3030	KANOAJAN_02188	C1C994	Cell division protein FtsH
+EF3030	KANOAJAN_02189	Q97TC4	Hypoxanthine-guanine phosphoribosyltransferase
+EF3030	KANOAJAN_02190	B5E578	tRNA(Ile)-lysidine synthetase TilS
+EF3030	KANOAJAN_02191	C1C991	Hypothetical protein
+EF3030	KANOAJAN_02192	C1CH89	Hypothetical protein
+EF3030	KANOAJAN_02193	Q8CZD2	Cell division protein DivIC
+EF3030	KANOAJAN_02194	P64406	Ribosome-associated heat shock protein
+EF3030	KANOAJAN_02195	B2IQZ4	Transcription-repair coupling factor
+EF3030	KANOAJAN_02196	B2IQZ3	Peptidyl-tRNA hydrolase
+EF3030	KANOAJAN_02197	Q8DRQ3	GTP-binding and nucleic acid-binding protein YchF
+EF3030	KANOAJAN_02198	B2IQZ1	Hypothetical protein
+EF3030	KANOAJAN_02199	A0A916P993	hypothetical protein
+EF3030	KANOAJAN_02200	A0AA95DD15	Alpha-galactosidase
+EF3030	KANOAJAN_02201	A0A654UCG5	Alpha-galactosidase
+EF3030	KANOAJAN_02202	A0A4M3JR08	Alpha-galactosidase
+EF3030	KANOAJAN_02203	A0A6G2D7U3	Bifunctional biotin operon repressor/Biotin--protein ligase
+EF3030	KANOAJAN_02204	A0AA95D6T4	Bifunctional biotin operon repressor/Biotin--protein ligase
+EF3030	KANOAJAN_02205	A0A4J1XEZ8	Bifunctional biotin operon repressor/Biotin--protein ligase
+EF3030	KANOAJAN_02206		tRNA-Ser(gct)
+EF3030	KANOAJAN_02206		
+EF3030	KANOAJAN_02207		tRNA-Ile(gat)
+EF3030	KANOAJAN_02208		tRNA-Gly(tcc)
+EF3030	KANOAJAN_02209		tRNA-Phe(gaa)
+EF3030	KANOAJAN_02210		tRNA-Met(cat)
+EF3030	KANOAJAN_02211		tRNA-Ser(tga)
+EF3030	KANOAJAN_02212		tRNA-Met(cat)
+EF3030	KANOAJAN_02213		tRNA-Met(cat)
+EF3030	KANOAJAN_02213		
+EF3030	KANOAJAN_02214		tRNA-Pro(tgg)
+EF3030	KANOAJAN_02215		tRNA-Arg(acg)
+EF3030	KANOAJAN_02216		tRNA-Gly(gcc)
+EF3030	KANOAJAN_02217		tRNA-Thr(tgt)
+EF3030	KANOAJAN_02218		tRNA-Leu(tag)
+EF3030	KANOAJAN_02219		tRNA-Lys(ttt)
+EF3030	KANOAJAN_02219		
+EF3030	KANOAJAN_02220		tRNA-Asp(gtc)
+EF3030	KANOAJAN_02221		tRNA-Val(tac)
+EF3030	KANOAJAN_02222		5S ribosomal RNA
+EF3030	KANOAJAN_02223		23S ribosomal RNA
+EF3030	KANOAJAN_02224		tRNA-Ala(tgc)
+EF3030	KANOAJAN_02225		16S ribosomal RNA
+EF3030	KANOAJAN_02226		tRNA-Glu(ttc)
+EF3030	KANOAJAN_02227	Q9S461	hypothetical protein
+EF3030	KANOAJAN_02228	A0A916L592	ATP-dependent zinc metalloprotease FtsH

@@ -1,0 +1,2359 @@
+strain	locus_tag	uniprot	product
+Spn1439-106	AKFHGGLM_00001	A0AA44S615	DNA polymerase III beta subunit
+Spn1439-106	AKFHGGLM_00002	A0AA86Y265	Hypothetical protein
+Spn1439-106	AKFHGGLM_00003	C1C985	GTP-binding and nucleic acid-binding protein YchF
+Spn1439-106	AKFHGGLM_00004	Q97TD1	Peptidyl-tRNA hydrolase
+Spn1439-106	AKFHGGLM_00005	C1C987	Transcription-repair coupling factor
+Spn1439-106	AKFHGGLM_00006	P64406	Ribosome-associated heat shock protein
+Spn1439-106	AKFHGGLM_00007	Q8CZD2	Cell division protein DivIC
+Spn1439-106	AKFHGGLM_00008	C1CH89	Hypothetical protein
+Spn1439-106	AKFHGGLM_00009	C1C991	Hypothetical protein
+Spn1439-106	AKFHGGLM_00010	C1C992	tRNA(Ile)-lysidine synthetase TilS
+Spn1439-106	AKFHGGLM_00011	C1C993	Hypoxanthine-guanine phosphoribosyltransferase
+Spn1439-106	AKFHGGLM_00012	C1C994	Cell division protein FtsH
+Spn1439-106	AKFHGGLM_00013	C1C995	IS1167 transposase
+Spn1439-106	AKFHGGLM_00014		Srn266
+Spn1439-106	AKFHGGLM_00015	Q9R2W8	Competence-specific sigma factor ComX
+Spn1439-106	AKFHGGLM_00016		tRNA-Glu(ttc)
+Spn1439-106	AKFHGGLM_00017		16S ribosomal RNA
+Spn1439-106	AKFHGGLM_00018		tRNA-Ala(tgc)
+Spn1439-106	AKFHGGLM_00019		23S ribosomal RNA
+Spn1439-106	AKFHGGLM_00020		5S ribosomal RNA
+Spn1439-106	AKFHGGLM_00021		tRNA-Asn(gtt)
+Spn1439-106	AKFHGGLM_00022	C1C999	IS1167 transposase Orf1
+Spn1439-106	AKFHGGLM_00023	C1C9A0	Competence positive regulator ComW
+Spn1439-106	AKFHGGLM_00024	C1C9A1	Adenylosuccinate synthetase
+Spn1439-106	AKFHGGLM_00025		csRNA
+Spn1439-106	AKFHGGLM_00026	C1CHA2	tRNA-specific adenosine-34 deaminase
+Spn1439-106	AKFHGGLM_00027		Bacteria_small_SRP
+Spn1439-106	AKFHGGLM_00028	Q8DRP2	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+Spn1439-106	AKFHGGLM_00029	Q8DRP1	Hypothetical protein
+Spn1439-106	AKFHGGLM_00030	C1C9S1	DNA repair protein RadA
+Spn1439-106	AKFHGGLM_00031	C1CHC1	Carbonic anhydrase
+Spn1439-106	AKFHGGLM_00032	C1C9S3	hypothetical protein
+Spn1439-106	AKFHGGLM_00033	B2IR17	Ribose-phosphate pyrophosphokinase
+Spn1439-106	AKFHGGLM_00034	A0A0U0IDH7	IS1167 transposase Orf1
+Spn1439-106	AKFHGGLM_00035		Srn266
+Spn1439-106	AKFHGGLM_00036	C1C9S6	hypothetical protein
+Spn1439-106	AKFHGGLM_00037	A0A0B7M9C2	hypothetical protein
+Spn1439-106	AKFHGGLM_00038	C1C9S9	DNA polymerase I
+Spn1439-106	AKFHGGLM_00039	C1C9T0	CoA-binding protein
+Spn1439-106	AKFHGGLM_00040	C1C9T1	Putative membrane protein YeiH
+Spn1439-106	AKFHGGLM_00041	C1C9T2	N-acetyl-L%2CL-diaminopimelate aminotransferase
+Spn1439-106	AKFHGGLM_00042	Q97TA7	DNA recombination and repair protein RecO
+Spn1439-106	AKFHGGLM_00043	C1C9T4	Phosphate:acyl-ACP acyltransferase PlsX
+Spn1439-106	AKFHGGLM_00044	Q9F7T4	Acyl carrier protein
+Spn1439-106	AKFHGGLM_00045	Q8DRN1	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_00046	C1C9T7	Bacteriocin BlpU
+Spn1439-106	AKFHGGLM_00047	C1CHE0	Transcriptional regulator
+Spn1439-106	AKFHGGLM_00048	C1CHE1	hypothetical protein
+Spn1439-106	AKFHGGLM_00049	C1CHE2	hypothetical protein
+Spn1439-106	AKFHGGLM_00050	A0A0B7LY35	hypothetical protein
+Spn1439-106	AKFHGGLM_00051	C1CHE4	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00052	C1CHE5	hypothetical protein
+Spn1439-106	AKFHGGLM_00053	C1C9U6	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+Spn1439-106	AKFHGGLM_00054	C1CBL9	Competence-stimulating peptide ABC transporter permease protein ComB
+Spn1439-106	AKFHGGLM_00055	A0A558ZGD3	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Spn1439-106	AKFHGGLM_00056	C1C9U9	Phosphoribosylformylglycinamidine synthase%2C synthetase and glutamine amidotransferase subunits
+Spn1439-106	AKFHGGLM_00057	C1C9V0	Amidophosphoribosyltransferase
+Spn1439-106	AKFHGGLM_00058	A0A062WPB5	Phosphoribosylformylglycinamidine cyclo-ligase
+Spn1439-106	AKFHGGLM_00059	Q8DRM3	Phosphoribosylglycinamide formyltransferase
+Spn1439-106	AKFHGGLM_00060	Q8DRM2	Teicoplanin resistance protein VanZ
+Spn1439-106	AKFHGGLM_00061	A0A0B7LXN4	Bifunctional inosine monophosphate cyclohydrolase/phosphoribosylaminoimidazolecarboxamide formyltransferase
+Spn1439-106	AKFHGGLM_00062	A0AAE9QPJ7	Phosphoribosylamine--glycine ligase
+Spn1439-106	AKFHGGLM_00063	C1CBM9	N5-carboxyaminoimidazole ribonucleotide mutase
+Spn1439-106	AKFHGGLM_00064	C1C9V8	N5-carboxyaminoimidazole ribonucleotide synthase
+Spn1439-106	AKFHGGLM_00065	C1C9V9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00066	C1C9W0	Adenylosuccinate lyase
+Spn1439-106	AKFHGGLM_00067	A0A4J1S4B7	Beta-hexosaminidase StrH
+Spn1439-106	AKFHGGLM_00068	A0A0H2UMU7	Transcriptional regulator%2C GntR family
+Spn1439-106	AKFHGGLM_00069	C1C9W3	Beta-galactosidase
+Spn1439-106	AKFHGGLM_00070	Q8DRL3	Galactosamine-specific PTS IIB component
+Spn1439-106	AKFHGGLM_00071	C1CBN7	Galactosamine-specific PTS IIC component
+Spn1439-106	AKFHGGLM_00072	B2IRE5	Galactosamine-specific PTS IID component
+Spn1439-106	AKFHGGLM_00073	Q8DRL0	Galactosamine-specific PTS IIA component
+Spn1439-106	AKFHGGLM_00074	C1C9W8	Galactosamine-6-phosphate isomerase
+Spn1439-106	AKFHGGLM_00075	C1C9W9	Aldose 1-epimerase
+Spn1439-106	AKFHGGLM_00076	C1C9X0	Glyoxalase family protein
+Spn1439-106	AKFHGGLM_00077	A0A9P1Q1S1	Hypothetical protein
+Spn1439-106	AKFHGGLM_00078	C1C9X2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00079	C1C9X3	hypothetical protein
+Spn1439-106	AKFHGGLM_00080	C1C9X5	Uridine phosphorylase
+Spn1439-106	AKFHGGLM_00081	C1CBP8	Trk family potassium uptake protein
+Spn1439-106	AKFHGGLM_00082	Q8DRK4	Trk family potassium uptake protein CabP
+Spn1439-106	AKFHGGLM_00083	C1C9X9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00084	Q8DRK3	hypothetical protein
+Spn1439-106	AKFHGGLM_00085	Q8CZC3	hypothetical protein
+Spn1439-106	AKFHGGLM_00086	A0A6G2D8M6	Cell wall surface anchor family protein PavB
+Spn1439-106	AKFHGGLM_00087	C1C9Y3	Two-component system response regulator
+Spn1439-106	AKFHGGLM_00088	C1C9Y4	Two-component system sensor histidine kinase
+Spn1439-106	AKFHGGLM_00089	Q04MZ3	SSU ribosomal protein S4p (S9e)
+Spn1439-106	AKFHGGLM_00090		SpF01_sRNA
+Spn1439-106	AKFHGGLM_00091	A0A4V0JXY7	hypothetical protein
+Spn1439-106	AKFHGGLM_00092	Q8DRJ8	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+Spn1439-106	AKFHGGLM_00093	B2IRG9	ABC transporter permease protein
+Spn1439-106	AKFHGGLM_00094	B2IRH0	ABC transporter substrate-binding protein
+Spn1439-106	AKFHGGLM_00095	C1C9Z1	hypothetical protein
+Spn1439-106	AKFHGGLM_00096	A0A4J2GT95	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+Spn1439-106	AKFHGGLM_00097	A0A4J2GKW8	Putative membrane protein
+Spn1439-106	AKFHGGLM_00098	A0A4J2GTA2	Putative membrane-associated protein
+Spn1439-106	AKFHGGLM_00099	C1C9Z5	Integral membrane protein (putative)
+Spn1439-106	AKFHGGLM_00100	C1C9Z6	Transcriptional regulator%2C PadR family
+Spn1439-106	AKFHGGLM_00101	C1C9Z7	Cyanate permease
+Spn1439-106	AKFHGGLM_00102	C1C9Z9	hypothetical protein
+Spn1439-106	AKFHGGLM_00103	C1C9Z9	hypothetical protein
+Spn1439-106	AKFHGGLM_00104	C1C9Z9	hypothetical protein
+Spn1439-106	AKFHGGLM_00105	C1CAB5	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1%2C3-galactosyltransferase
+Spn1439-106	AKFHGGLM_00106	C1CAB6	Putative UDP-GlcNAc 4%2C6-dehydratase AatA
+Spn1439-106	AKFHGGLM_00107	C1CAB7	Hypothetical protein
+Spn1439-106	AKFHGGLM_00108	C1CAB8	Phosphoglycolate phosphatase
+Spn1439-106	AKFHGGLM_00109	Q8DRJ0	L-serine dehydratase%2C alpha subunit
+Spn1439-106	AKFHGGLM_00110	C1CAC0	L-serine dehydratase%2C beta subunit
+Spn1439-106	AKFHGGLM_00111	C1CAC1	Aggregation-promoting factor
+Spn1439-106	AKFHGGLM_00112	C1CAC3	Putative bacteriocin
+Spn1439-106	AKFHGGLM_00113	A0A6I3U3U5	Amino acid ABC transporter membrane-spanning permease
+Spn1439-106	AKFHGGLM_00114	Q8DRI7	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00115	C1CAC6	Amino acid ABC transporter substrate-binding/permease protein
+Spn1439-106	AKFHGGLM_00116	A0A0T8WIH5	Argininosuccinate synthase
+Spn1439-106	AKFHGGLM_00117	A0A6G2DX97	Argininosuccinate synthase
+Spn1439-106	AKFHGGLM_00118	C1CAC7	Argininosuccinate lyase
+Spn1439-106	AKFHGGLM_00119		Bacilli-1
+Spn1439-106	AKFHGGLM_00119		
+Spn1439-106	AKFHGGLM_00120	C1CAC8	Hypothetical protein
+Spn1439-106	AKFHGGLM_00121	A0A9P1LSM5	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+Spn1439-106	AKFHGGLM_00122	C1CBT2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00123	C1CAD1	HlyD family secretion protein
+Spn1439-106	AKFHGGLM_00124	C1CAD2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00125		SpF03_sRNA
+Spn1439-106	AKFHGGLM_00126		Bacilli-1
+Spn1439-106	AKFHGGLM_00126		
+Spn1439-106	AKFHGGLM_00127	Q8CZB0	Hypothetical protein
+Spn1439-106	AKFHGGLM_00128	C1CAD5	Hypothetical protein
+Spn1439-106	AKFHGGLM_00129	C1CAD6	Hypothetical protein
+Spn1439-106	AKFHGGLM_00130	C1CAD7	hypothetical protein
+Spn1439-106	AKFHGGLM_00131	C1CAD8	Hypothetical protein
+Spn1439-106	AKFHGGLM_00132	C1CAD9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00133	C1CAE0	Hypothetical protein
+Spn1439-106	AKFHGGLM_00134	C1CAE2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00135	C1CAE3	Hypothetical protein
+Spn1439-106	AKFHGGLM_00136	C1CAE4	Hypothetical protein
+Spn1439-106	AKFHGGLM_00137	A0A0T8B7Z8	Pyridoxamine 5'-phosphate oxidase
+Spn1439-106	AKFHGGLM_00138		SpF03_sRNA
+Spn1439-106	AKFHGGLM_00139		Bacilli-1
+Spn1439-106	AKFHGGLM_00139		
+Spn1439-106	AKFHGGLM_00140	C1CAE5	hypothetical protein
+Spn1439-106	AKFHGGLM_00141	C1CAE6	Surface protein PspA precursor
+Spn1439-106	AKFHGGLM_00142	C1CAE7	tRNA-specific 2-thiouridylase MnmA
+Spn1439-106	AKFHGGLM_00143		Spd-sr37
+Spn1439-106	AKFHGGLM_00143		
+Spn1439-106	AKFHGGLM_00144	C1CAE8	MutT/Nudix family protein
+Spn1439-106	AKFHGGLM_00145	C1CAE9	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Spn1439-106	AKFHGGLM_00146	C1CBU4	Ribonuclease J1 (endonuclease and 5' exonuclease)
+Spn1439-106	AKFHGGLM_00147	Q97T34	Hypothetical protein
+Spn1439-106	AKFHGGLM_00148	A0A0E8HIW7	Hypothetical protein
+Spn1439-106	AKFHGGLM_00149	C1CAF2	Two-peptide bacteriocin peptide CibB
+Spn1439-106	AKFHGGLM_00150	A0A4J2CDD9	Two-peptide bacteriocin peptide CibA
+Spn1439-106	AKFHGGLM_00151	C1CAF4	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Spn1439-106	AKFHGGLM_00152	C1CAF5	Ribosomal-protein-S18p-alanine acetyltransferase
+Spn1439-106	AKFHGGLM_00153	C1CAF6	N(6)-L-threonylcarbamoyladenine synthase TsaD
+Spn1439-106	AKFHGGLM_00154	C1CBV1	IS1167 transposase Orf2
+Spn1439-106	AKFHGGLM_00155	C1CAF8	IS1167 transposase
+Spn1439-106	AKFHGGLM_00156		Srn266
+Spn1439-106	AKFHGGLM_00157	C1CAF9	Exopolysaccharide biosynthesis glycosyltransferase EpsF
+Spn1439-106	AKFHGGLM_00158	C1CBV4	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00159	A0A0B7L2P0	hypothetical protein
+Spn1439-106	AKFHGGLM_00160	A0A4N3QCD2	Asparagine synthetase
+Spn1439-106	AKFHGGLM_00161	C1CAG2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00162	A0A6I3UZ51	UDP-glucose 6-dehydrogenase
+Spn1439-106	AKFHGGLM_00163	A0A4J1T7A5	UDP-glucose 6-dehydrogenase
+Spn1439-106	AKFHGGLM_00164	C1CAG3	Positive transcriptional regulator%2C MutR family
+Spn1439-106	AKFHGGLM_00165	C1CAG4	hypothetical protein
+Spn1439-106	AKFHGGLM_00166	Q8CZ96	Hypothetical protein
+Spn1439-106	AKFHGGLM_00167	C1CAG6	Macrolide-efflux protein
+Spn1439-106	AKFHGGLM_00168	A0A4J2FJ64	Hypothetical protein
+Spn1439-106	AKFHGGLM_00169	A0AAD2IJP1	hypothetical protein
+Spn1439-106	AKFHGGLM_00170	C1CAG8	hypothetical protein
+Spn1439-106	AKFHGGLM_00171	C1CAG9	Cysteine ABC transporter substrate-binding protein
+Spn1439-106	AKFHGGLM_00172	C1CBW5	Methionine ABC transporter substrate-binding protein
+Spn1439-106	AKFHGGLM_00173	C1CAH1	N-acyl-L-amino acid amidohydrolase
+Spn1439-106	AKFHGGLM_00174	C1CAH2	Methionine ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00175	C1CAH3	Methionine ABC transporter permease protein
+Spn1439-106	AKFHGGLM_00176	Q8CZ94	Substrate-specific component of putative ECF transporter
+Spn1439-106	AKFHGGLM_00177	C1CBX0	Hypothetical protein
+Spn1439-106	AKFHGGLM_00178	A0A6G2D826	Two-component system sensor histidine kinase
+Spn1439-106	AKFHGGLM_00179	C1CAH7	Two-component system response regulator
+Spn1439-106	AKFHGGLM_00180	C1CBX3	Hypothetical protein
+Spn1439-106	AKFHGGLM_00181	Q97T03	Ribonucleotide reduction protein NrdI
+Spn1439-106	AKFHGGLM_00182	B2IS07	NRAMP family Mn2+/Fe2+ transporter
+Spn1439-106	AKFHGGLM_00183	C1CAI1	Hypothetical protein
+Spn1439-106	AKFHGGLM_00184	C1CAI2	DNA-binding protein
+Spn1439-106	AKFHGGLM_00185	A0A0U0C821	DNA mismatch repair protein HexB
+Spn1439-106	AKFHGGLM_00186	Q04MR3	6%2C7-dimethyl-8-ribityllumazine synthase RibH
+Spn1439-106	AKFHGGLM_00187	C1CAI6	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
+Spn1439-106	AKFHGGLM_00188	C1CAI7	Riboflavin synthase RibE
+Spn1439-106	AKFHGGLM_00189	C1CBY2	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+Spn1439-106	AKFHGGLM_00190		FMN
+Spn1439-106	AKFHGGLM_00191	C1CI73	Holliday junction DNA helicase RuvA
+Spn1439-106	AKFHGGLM_00192	C1CAJ0	DNA-3-methyladenine glycosylase
+Spn1439-106	AKFHGGLM_00193	C1CAJ1	CAAX amino terminal protease family protein
+Spn1439-106	AKFHGGLM_00194	C1CBY6	Muramoyltetrapeptide carboxypeptidase
+Spn1439-106	AKFHGGLM_00195	C1CBY7	Integral membrane protein
+Spn1439-106	AKFHGGLM_00196	Q8DRE5	Magnesium and cobalt transport protein CorA1
+Spn1439-106	AKFHGGLM_00197	C1CAJ5	Excinuclease ABC subunit A UvrA
+Spn1439-106	AKFHGGLM_00198	C1CBZ0	MP-%2CMA-%2CMS-%2CAP-%2CNP-specific aminopeptidase YpdF
+Spn1439-106	AKFHGGLM_00199	Q8DRE3	Transcriptional regulator SpxA2
+Spn1439-106	AKFHGGLM_00200	C1CBZ2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00201	Q97SX1	Hypothetical protein
+Spn1439-106	AKFHGGLM_00202	Q8DRE2	Putative pre-16S rRNA nuclease YqgF
+Spn1439-106	AKFHGGLM_00203	Q97SX0	Hypothetical protein
+Spn1439-106	AKFHGGLM_00204	C1CAK2	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+Spn1439-106	AKFHGGLM_00205	C1CAK3	Hypothetical protein
+Spn1439-106	AKFHGGLM_00206	Q8DRD9	Cardiolipin synthetase
+Spn1439-106	AKFHGGLM_00207	Q8DRD8	Hypothetical protein
+Spn1439-106	AKFHGGLM_00208	C1CAK5	Competence-damage induced protein
+Spn1439-106	AKFHGGLM_00209	C1CC00	Ribonucleotide reductase of class III%2C large subunit
+Spn1439-106	AKFHGGLM_00210	Q8CZ86	Acetyltransferase
+Spn1439-106	AKFHGGLM_00211	C1CAK9	Ribonucleotide reductase of class III%2C activating protein
+Spn1439-106	AKFHGGLM_00212	Q8CZ85	Hypothetical protein
+Spn1439-106	AKFHGGLM_00213	Q04MN7	SSU ribosomal protein S10p (S20e)
+Spn1439-106	AKFHGGLM_00214	Q97SV5	LSU ribosomal protein L3p (L3e)
+Spn1439-106	AKFHGGLM_00215	Q8CWV7	LSU ribosomal protein L4p (L1e)
+Spn1439-106	AKFHGGLM_00216	Q97SV3	LSU ribosomal protein L23p (L23Ae)
+Spn1439-106	AKFHGGLM_00217	Q97SV2	LSU ribosomal protein L2p (L8e)
+Spn1439-106	AKFHGGLM_00218	Q04MN2	SSU ribosomal protein S19p (S15e)
+Spn1439-106	AKFHGGLM_00219	Q04MN1	LSU ribosomal protein L22p (L17e)
+Spn1439-106	AKFHGGLM_00220	Q04MN0	SSU ribosomal protein S3p (S3e)
+Spn1439-106	AKFHGGLM_00221	Q04MM9	LSU ribosomal protein L16p (L10e)
+Spn1439-106	AKFHGGLM_00222	A0A0B7M1U7	LSU ribosomal protein L29p (L35e)
+Spn1439-106	AKFHGGLM_00223	Q04MM7	SSU ribosomal protein S17p (S11e)
+Spn1439-106	AKFHGGLM_00224	Q04MM6	LSU ribosomal protein L14p (L23e)
+Spn1439-106	AKFHGGLM_00225	Q04MM5	LSU ribosomal protein L24p (L26e)
+Spn1439-106	AKFHGGLM_00226	Q97SV1	LSU ribosomal protein L5p (L11e)
+Spn1439-106	AKFHGGLM_00227	Q04MM3	SSU ribosomal protein S14p (S29e)
+Spn1439-106	AKFHGGLM_00228	Q04MM2	SSU ribosomal protein S8p (S15Ae)
+Spn1439-106	AKFHGGLM_00229	C1CAM7	LSU ribosomal protein L6p (L9e)
+Spn1439-106	AKFHGGLM_00230	Q97SU6	LSU ribosomal protein L18p (L5e)
+Spn1439-106	AKFHGGLM_00231	Q04ML9	SSU ribosomal protein S5p (S2e)
+Spn1439-106	AKFHGGLM_00232	Q97SU4	LSU ribosomal protein L30p (L7e)
+Spn1439-106	AKFHGGLM_00233	Q97SU3	LSU ribosomal protein L15p (L27Ae)
+Spn1439-106	AKFHGGLM_00234	Q8DRD5	Protein translocase subunit SecY
+Spn1439-106	AKFHGGLM_00235	C1CAN3	Adenylate kinase
+Spn1439-106	AKFHGGLM_00236	Q04ML4	Translation initiation factor 1
+Spn1439-106	AKFHGGLM_00237	P0A496	LSU ribosomal protein L36p
+Spn1439-106	AKFHGGLM_00238	Q04ML3	SSU ribosomal protein S13p (S18e)
+Spn1439-106	AKFHGGLM_00239	Q04ML2	SSU ribosomal protein S11p (S14e)
+Spn1439-106	AKFHGGLM_00240	Q04ML1	DNA-directed RNA polymerase alpha subunit
+Spn1439-106	AKFHGGLM_00241	Q8CWU8	LSU ribosomal protein L17p
+Spn1439-106	AKFHGGLM_00242		L17DE
+Spn1439-106	AKFHGGLM_00243	C1CC34	ACT domain-containing transcriptional regulator
+Spn1439-106	AKFHGGLM_00244	A0A4J2FS44	hypothetical protein
+Spn1439-106	AKFHGGLM_00245		csRNA
+Spn1439-106	AKFHGGLM_00246	B1I8M8	Phosphoglycerate mutase family protein
+Spn1439-106	AKFHGGLM_00247	A0A0I5YB69	Iron(III)-transport system permease protein SfuB
+Spn1439-106	AKFHGGLM_00248	A0A4J2FMF0	Iron(III)-transport system permease protein SfuB
+Spn1439-106	AKFHGGLM_00249	A0A4J2FKG6	Ferric iron ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00250	A0AAD2IGF6	Ferric iron ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00251	A0A0B7M5G4	hypothetical protein
+Spn1439-106	AKFHGGLM_00252	A0A064C2Y1	putative protein
+Spn1439-106	AKFHGGLM_00253	C1CAP6	Pyruvate formate-lyase activating enzyme
+Spn1439-106	AKFHGGLM_00254	B1I8X4	Transcriptional regulator%2C DeoR family
+Spn1439-106	AKFHGGLM_00255	Q8DRC3	Transcriptional regulator
+Spn1439-106	AKFHGGLM_00256	C1CC41	Cellobiose-specific PTS IIA component
+Spn1439-106	AKFHGGLM_00257	A0A0H2UNC3	Cellobiose-specific PTS IIB component
+Spn1439-106	AKFHGGLM_00258	A0A4J2FRV6	Cellobiose-specific PTS IIC component
+Spn1439-106	AKFHGGLM_00259	Q8DRB9	Pyruvate formate-lyase
+Spn1439-106	AKFHGGLM_00260	B2ISH8	Transaldolase
+Spn1439-106	AKFHGGLM_00261	Q8DRB7	Glycerol dehydrogenase
+Spn1439-106	AKFHGGLM_00262	Q97SS0	Leucyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_00263	B1I8Y3	hypothetical protein
+Spn1439-106	AKFHGGLM_00264	B1I8Y4	Acetyltransferase%2C GNAT family
+Spn1439-106	AKFHGGLM_00265	B1I8Y5	Acetyltransferase%2C GNAT family
+Spn1439-106	AKFHGGLM_00266		csRNA
+Spn1439-106	AKFHGGLM_00267		csRNA
+Spn1439-106	AKFHGGLM_00268	Q8CWU7	Holliday junction DNA helicase RuvB
+Spn1439-106	AKFHGGLM_00269	Q8CZ82	Hypothetical protein
+Spn1439-106	AKFHGGLM_00270		csRNA
+Spn1439-106	AKFHGGLM_00271	Q8DRB3	Undecaprenyl diphosphate synthase
+Spn1439-106	AKFHGGLM_00272	C1CB37	Phosphatidate cytidylyltransferase
+Spn1439-106	AKFHGGLM_00273	Q8DRB1	Intramembrane protease Eep
+Spn1439-106	AKFHGGLM_00274	A0A4N0DG87	Prolyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_00275	A0A4J2FS37	6-phospho-beta-glucosidase
+Spn1439-106	AKFHGGLM_00276	A0A0T7ZRQ2	Glucosamine--fructose-6-phosphate aminotransferase
+Spn1439-106	AKFHGGLM_00277	A0A098Z6A0	Oxidoreductase
+Spn1439-106	AKFHGGLM_00278	A0A0E8YYQ4	Pullulanase SpuA
+Spn1439-106	AKFHGGLM_00279	E2DP60	SSU ribosomal protein S12p (S23e)
+Spn1439-106	AKFHGGLM_00280	Q8CWU6	SSU ribosomal protein S7p (S5e)
+Spn1439-106	AKFHGGLM_00281	C1CPE5	Translation elongation factor G
+Spn1439-106	AKFHGGLM_00282	A0A4N2RGE0	DNA polymerase III
+Spn1439-106	AKFHGGLM_00283	A0A0B7LB05	Antitoxin RelB1
+Spn1439-106	AKFHGGLM_00284	Q8DRA4	mRNA interferase RelE1
+Spn1439-106	AKFHGGLM_00285	A0A0I7HCD2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00286	C1CB51	Aminopeptidase PepS
+Spn1439-106	AKFHGGLM_00287	C1CC68	Membrane protein
+Spn1439-106	AKFHGGLM_00288	A0A4N0DI24	Ribosomal small subunit pseudouridine synthase A
+Spn1439-106	AKFHGGLM_00289	C1CC70	Aminopeptidase C
+Spn1439-106	AKFHGGLM_00290	Q8DR99	Mannose-specific PTS IID component
+Spn1439-106	AKFHGGLM_00291	Q8DR98	Mannose-specific PTS IIC component
+Spn1439-106	AKFHGGLM_00292	C1CB58	Mannose-specific PTS IIAB components
+Spn1439-106	AKFHGGLM_00293	Q8DR96	Alcohol dehydrogenase
+Spn1439-106	AKFHGGLM_00294	A0AAD2IJJ4	Hydrolase%2C HAD superfamily
+Spn1439-106	AKFHGGLM_00295	C1CB61	Guanine-hypoxanthine permease
+Spn1439-106	AKFHGGLM_00296	C1CB62	Membrane-bound protease%2C CAAX family
+Spn1439-106	AKFHGGLM_00297	C1CB63	Dihydropteroate synthase
+Spn1439-106	AKFHGGLM_00298	A0A4J2FNE7	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+Spn1439-106	AKFHGGLM_00299	B8ZL26	GTP cyclohydrolase I type 1
+Spn1439-106	AKFHGGLM_00300	C1CB66	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Spn1439-106	AKFHGGLM_00301	C1CB67	Hypothetical protein
+Spn1439-106	AKFHGGLM_00302		L13_leader
+Spn1439-106	AKFHGGLM_00303	Q8CWU5	LSU ribosomal protein L13p (L13Ae)
+Spn1439-106	AKFHGGLM_00304	Q8CWU4	SSU ribosomal protein S9p (S16e)
+Spn1439-106	AKFHGGLM_00305	C1CB70	Tyrosine recombinase XerC
+Spn1439-106	AKFHGGLM_00306	C1CB71	hypothetical protein
+Spn1439-106	AKFHGGLM_00307	A0A0T8EUS7	hypothetical protein
+Spn1439-106	AKFHGGLM_00308	C1CB73	hypothetical protein
+Spn1439-106	AKFHGGLM_00309	C1CB74	hypothetical protein
+Spn1439-106	AKFHGGLM_00310	C1CB75	hypothetical protein
+Spn1439-106	AKFHGGLM_00311	C1CB76	Tyrosine recombinase XerC
+Spn1439-106	AKFHGGLM_00312	A0A4K3FPS3	hypothetical protein
+Spn1439-106	AKFHGGLM_00313	Q8CM37	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_00314	A0A4J1TNK2	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_00315	A0A0I5ME24	Hypothetical protein
+Spn1439-106	AKFHGGLM_00316	A0A4J1XWA6	6-phospho-beta-glucosidase
+Spn1439-106	AKFHGGLM_00317	Q8DR88	Hypothetical protein
+Spn1439-106	AKFHGGLM_00318	C1CB84	Cellobiose-specific PTS IIB component
+Spn1439-106	AKFHGGLM_00319	A0A4J1V572	Transcriptional antiterminator of lichenan operon%2C BglG family
+Spn1439-106	AKFHGGLM_00320	B2ISN1	Cellobiose-specific PTS IIA component
+Spn1439-106	AKFHGGLM_00321	A0A4K3FN94	Hypothetical protein
+Spn1439-106	AKFHGGLM_00322	A0A4K3FLN4	Cellobiose-specific PTS IIC component
+Spn1439-106	AKFHGGLM_00323	Q8CZ76	Hypothetical protein
+Spn1439-106	AKFHGGLM_00324	A0A0B7LX26	hypothetical protein
+Spn1439-106	AKFHGGLM_00325		SpF10_sRNA
+Spn1439-106	AKFHGGLM_00325		
+Spn1439-106	AKFHGGLM_00326	C1CB90	Maltodextrin glucosidase
+Spn1439-106	AKFHGGLM_00327	C1C5Q9	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_00328	A0A4J2A6U9	IS5 family transposase IS1515
+Spn1439-106	AKFHGGLM_00329		SpF11_sRNA
+Spn1439-106	AKFHGGLM_00330	C1CB93	Glutathione peroxidase family protein
+Spn1439-106	AKFHGGLM_00331	A0A4J2GQA8	Hyaluronate lyase precursor SpnHL
+Spn1439-106	AKFHGGLM_00332	A0A0B7L7X1	IS200/IS605 family transposase ISStin10
+Spn1439-106	AKFHGGLM_00333	C1CB96	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxyphosphogluconate aldolase
+Spn1439-106	AKFHGGLM_00334	B2ISN9	2-dehydro-3-deoxygluconokinase
+Spn1439-106	AKFHGGLM_00335	C1CB98	Putative 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+Spn1439-106	AKFHGGLM_00336	Q8DR79	2-deoxy-D-gluconate 3-dehydrogenase
+Spn1439-106	AKFHGGLM_00337	Q8DR78	Hyaluronate-oligosaccharide-specific PTS IIA component
+Spn1439-106	AKFHGGLM_00338	C1CC98	Unsaturated chondroitin disaccharide hydrolase
+Spn1439-106	AKFHGGLM_00339	C1CBA2	Hyaluronate-oligosaccharide-specific PTS IIB component
+Spn1439-106	AKFHGGLM_00340	Q8DR75	Hyaluronate-oligosaccharide-specific PTS IIC component
+Spn1439-106	AKFHGGLM_00341	C1CBA4	Hyaluronate-oligosaccharide-specific PTS IID component
+Spn1439-106	AKFHGGLM_00342	Q8DR73	Preprotein translocase subunit YajC
+Spn1439-106	AKFHGGLM_00343	A0A4J2GNP1	Oligohyaluronate lyase
+Spn1439-106	AKFHGGLM_00344	C1CCA4	Transcriptional regulator RegR
+Spn1439-106	AKFHGGLM_00345	C1CCA5	hypothetical protein
+Spn1439-106	AKFHGGLM_00346	C1CBA9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00347	C1CBB0	hypothetical protein
+Spn1439-106	AKFHGGLM_00348	Q8DR71	Transcriptional regulator%2C PbsX family
+Spn1439-106	AKFHGGLM_00349	H8ZYQ3	16S rRNA (cytosine(1402)-N(4))-methyltransferase MraW
+Spn1439-106	AKFHGGLM_00350	Q8DR70	Cell division protein FtsL
+Spn1439-106	AKFHGGLM_00351	A0A4J2GGN2	Penicillin-binding protein 2X
+Spn1439-106	AKFHGGLM_00352	A0AA86Y5M4	Phospho-N-acetylmuramoyl-pentapeptide- transferase
+Spn1439-106	AKFHGGLM_00353	A0A4J2GH66	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
+Spn1439-106	AKFHGGLM_00354		group-II-D1D4-3
+Spn1439-106	AKFHGGLM_00355	A0A4G4F412	hypothetical protein
+Spn1439-106	AKFHGGLM_00356	Q04MC2	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
+Spn1439-106	AKFHGGLM_00357	C1CBC0	ATP-dependent Zn protease
+Spn1439-106	AKFHGGLM_00358	C1CBC1	Glucan 1%2C6-alpha-glucosidase
+Spn1439-106	AKFHGGLM_00359	C1CBC2	S-ribosylhomocysteinase
+Spn1439-106	AKFHGGLM_00360	A0AAD2KEZ4	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_00361	C1CBC5	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_00362	A0A4J2A6U9	IS5 family transposase IS1515
+Spn1439-106	AKFHGGLM_00363	A0AA44MQQ7	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_00364	C1CBC8	Exopolysaccharide biosynthesis transcriptional regulator Cps2A
+Spn1439-106	AKFHGGLM_00365	H6ULS2	Tyrosine-protein phosphatase Cps2B
+Spn1439-106	AKFHGGLM_00366	Q7WVX1	Capsular biosynthesis protein Cps2C
+Spn1439-106	AKFHGGLM_00367	Q7WVX0	Tyrosine-protein kinase Cps2D
+Spn1439-106	AKFHGGLM_00368	Q7WVW9	Sugar transferases involved in lipopolysaccharide synthesis
+Spn1439-106	AKFHGGLM_00369	Q7WVW8	hypothetical protein
+Spn1439-106	AKFHGGLM_00370	Q4JYQ4	hypothetical protein
+Spn1439-106	AKFHGGLM_00371	C1CBD4	hypothetical protein
+Spn1439-106	AKFHGGLM_00372	C1CBD5	lipid II flippase MurJ
+Spn1439-106	AKFHGGLM_00373	Q4K312	hypothetical protein
+Spn1439-106	AKFHGGLM_00374	C1CBD7	D-inositol-3-phosphate glycosyltransferase
+Spn1439-106	AKFHGGLM_00375	C1CBD8	hypothetical protein
+Spn1439-106	AKFHGGLM_00376	Q7WVW2	Putative UDP-GlcNAc 4%2C6-dehydratase AatA
+Spn1439-106	AKFHGGLM_00377	Q7WVW1	UDP-glucose 6-dehydrogenase Cps2K
+Spn1439-106	AKFHGGLM_00378	C1CBE1	UDP-2-acetamido-2%2C6-beta-L-arabino-hexul-4-ose reductase
+Spn1439-106	AKFHGGLM_00379	Q4K1W9	UDP-2%2C3-diacetamido-2%2C3-dideoxy-D-glucuronate 2-epimerase
+Spn1439-106	AKFHGGLM_00380	A0A0H2UQD5	IS66 family transposase Orf1
+Spn1439-106	AKFHGGLM_00381	Q7WVV7	IS66 family transposase Orf2
+Spn1439-106	AKFHGGLM_00382	A0A0E7Z8M3	hypothetical protein
+Spn1439-106	AKFHGGLM_00383	A0A380LQT6	hypothetical protein
+Spn1439-106	AKFHGGLM_00384	A0A654UCG4	hypothetical protein
+Spn1439-106	AKFHGGLM_00385	A0AA86Y1S1	IS1380 family transposase ISSpn5
+Spn1439-106	AKFHGGLM_00386	A0AAD2Q8N3	IS1380 family transposase ISSpn5
+Spn1439-106	AKFHGGLM_00387	T2BPT2	Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA
+Spn1439-106	AKFHGGLM_00388	A0A4J2G4Q1	Endo-alpha-N-acetylgalactosaminidase Eng
+Spn1439-106	AKFHGGLM_00389	C1CBE9	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A
+Spn1439-106	AKFHGGLM_00390	Q04M97	RecU Holliday junction resolvase
+Spn1439-106	AKFHGGLM_00391	Q8DR58	Hypothetical protein
+Spn1439-106	AKFHGGLM_00392	Q97SI9	Cell division protein GpsB
+Spn1439-106	AKFHGGLM_00393		RNaseP_bact_b
+Spn1439-106	AKFHGGLM_00394	C1CBF3	23S rRNA (guanine(2445)-N(2))-methyltransferase
+Spn1439-106	AKFHGGLM_00395	C1CBF4	Mid-cell-anchored protein Z
+Spn1439-106	AKFHGGLM_00396	Q8DR54	6-phosphogluconate dehydrogenase%2C decarboxylating
+Spn1439-106	AKFHGGLM_00397	C1CBF6	Orphan response regulator RitR
+Spn1439-106	AKFHGGLM_00398	C1C5B6	Choline-binding protein CbpF
+Spn1439-106	AKFHGGLM_00399	C1C5B7	Macrolide-efflux protein
+Spn1439-106	AKFHGGLM_00400	B2ILS1	hypothetical protein
+Spn1439-106	AKFHGGLM_00401	A0A4J2GAK1	hypothetical protein
+Spn1439-106	AKFHGGLM_00402	C1C5C0	Mevalonate kinase
+Spn1439-106	AKFHGGLM_00403	Q8DR50	Diphosphomevalonate decarboxylase
+Spn1439-106	AKFHGGLM_00404	C1C5C2	Phosphomevalonate kinase
+Spn1439-106	AKFHGGLM_00405	C1C5C3	Isopentenyl-diphosphate delta-isomerase%2C FMN-dependent
+Spn1439-106	AKFHGGLM_00406	C1C5C4	Cell wall-active antibiotics response protein VraT
+Spn1439-106	AKFHGGLM_00407	C1C5C5	Two-component system sensor histidine kinase VraS
+Spn1439-106	AKFHGGLM_00408	Q9S1J7	Two-component transcriptional regulator VraR
+Spn1439-106	AKFHGGLM_00409	C1C5C9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00410	A0A4J2FDC2	Glutamyl endopeptidase
+Spn1439-106	AKFHGGLM_00411	A0A0I5GRX2	Surface protein PspA precursor
+Spn1439-106	AKFHGGLM_00412	C1C5D0	Choline-binding protein CbpK
+Spn1439-106	AKFHGGLM_00413	C1C5D1	IS3 family transposase ISSpn4
+Spn1439-106	AKFHGGLM_00414	C1C5D2	IS3 family transposase ISSpn11
+Spn1439-106	AKFHGGLM_00415	C1C5D3	Mannitol-specific PTS IIBC components
+Spn1439-106	AKFHGGLM_00416	C1C5D4	Mannitol operon activator%2C BglG family
+Spn1439-106	AKFHGGLM_00417	C1C5D5	Mannitol-specific PTS IIA component
+Spn1439-106	AKFHGGLM_00418	A0AA86Y881	Mannitol-1-phosphate 5-dehydrogenase
+Spn1439-106	AKFHGGLM_00419	C1C5D8	Cell division trigger factor
+Spn1439-106	AKFHGGLM_00420	C1C5D9	RecD-like DNA helicase YrrC
+Spn1439-106	AKFHGGLM_00421	Q3I0J5	Signal peptidase I
+Spn1439-106	AKFHGGLM_00422	C1C5E1	Ribonuclease HIII
+Spn1439-106	AKFHGGLM_00423	C1CCH1	Z-ring positive regulator ZapA
+Spn1439-106	AKFHGGLM_00424	C1C5E3	Z-ring positive regulator ZapB
+Spn1439-106	AKFHGGLM_00425	C1C5E4	Recombination inhibitory protein MutS2
+Spn1439-106	AKFHGGLM_00426		Glycine
+Spn1439-106	AKFHGGLM_00427	C1C5E5	Sodium/glycine symporter GlyP
+Spn1439-106	AKFHGGLM_00428	Q8DR24	Macrophage infectivity potentiator protein
+Spn1439-106	AKFHGGLM_00429	C1C5E7	Exfoliative toxin A
+Spn1439-106	AKFHGGLM_00430	C1CIR2	Seryl-tRNA synthetase
+Spn1439-106	AKFHGGLM_00431	C1C5E9	Putative regulator of the mannose operon ManO
+Spn1439-106	AKFHGGLM_00432	C1C5F0	Aspartokinase
+Spn1439-106	AKFHGGLM_00433	C1CCI0	Trans-2%2Ccis-3-Decenoyl-ACP isomerase
+Spn1439-106	AKFHGGLM_00434	Q8DR18	Transcriptional regulator of fatty acid biosynthesis FabT
+Spn1439-106	AKFHGGLM_00435	Q04M58	3-oxoacyl-(acyl-carrier-protein) synthase FabH
+Spn1439-106	AKFHGGLM_00436	P0A2W1	Acyl carrier protein
+Spn1439-106	AKFHGGLM_00437	C1C5F6	Enoyl-(acyl-carrier-protein) reductase FabK
+Spn1439-106	AKFHGGLM_00438	Q9FBC4	Malonyl CoA-acyl carrier protein transacylase FabD
+Spn1439-106	AKFHGGLM_00439	Q9FBC3	3-oxoacyl-[acyl-carrier protein] reductase FabG1
+Spn1439-106	AKFHGGLM_00440	C1C5F9	3-oxoacyl-(acyl-carrier-protein) synthase FabF
+Spn1439-106	AKFHGGLM_00441	C1C5G0	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Spn1439-106	AKFHGGLM_00442	C1C5G1	3-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+Spn1439-106	AKFHGGLM_00443	Q9FBB9	Biotin carboxylase of acetyl-CoA carboxylase
+Spn1439-106	AKFHGGLM_00444	Q7CRB7	Acetyl-coenzyme A carboxyl transferase beta chain
+Spn1439-106	AKFHGGLM_00445	A0A064BZA7	Acetyl-coenzyme A carboxyl transferase alpha chain
+Spn1439-106	AKFHGGLM_00446	A0A4J2AQS9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00447	C1C5G7	hypothetical protein
+Spn1439-106	AKFHGGLM_00448	C1C5G8	Transcription termination protein NusB
+Spn1439-106	AKFHGGLM_00449	C1C5G9	Alkaline shock protein
+Spn1439-106	AKFHGGLM_00450	Q04M43	Translation elongation factor P
+Spn1439-106	AKFHGGLM_00451	C1C5H1	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit B/glutamyl-tRNA(Glu) amidotransferase subunit B
+Spn1439-106	AKFHGGLM_00452	C1C5H2	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit A/glutamyl-tRNA(Glu) amidotransferase subunit A
+Spn1439-106	AKFHGGLM_00453	Q04M40	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit C/glutamyl-tRNA(Glu) amidotransferase subunit C
+Spn1439-106	AKFHGGLM_00454	A0A0U0EEM5	Peptide chain release factor 3
+Spn1439-106	AKFHGGLM_00455	A0A064BZB4	LSU ribosomal protein L28p
+Spn1439-106	AKFHGGLM_00456	C1CCK5	Putative alkaline-shock protein
+Spn1439-106	AKFHGGLM_00457	C1CCK6	Dihydroxyacetone kinase-like protein
+Spn1439-106	AKFHGGLM_00458	C1CCK7	Acetolactate synthase large subunit
+Spn1439-106	AKFHGGLM_00459	Q8DR04	Acetolactate synthase small subunit
+Spn1439-106	AKFHGGLM_00460	A0A654UAJ9	Ketol-acid reductoisomerase
+Spn1439-106	AKFHGGLM_00461	C1C5I1	hypothetical protein
+Spn1439-106	AKFHGGLM_00462	Q8CZ61	Hypothetical protein
+Spn1439-106	AKFHGGLM_00463	C1CCL2	Threonine dehydratase
+Spn1439-106	AKFHGGLM_00464	Q8CZ60	Hypothetical protein
+Spn1439-106	AKFHGGLM_00465	C1C5I6	Glutamine ABC transporter ATP-binding protein GlnQ1
+Spn1439-106	AKFHGGLM_00466	C1C5I7	Glutamine ABC transporter permease GlnHP1
+Spn1439-106	AKFHGGLM_00467	C1C5I8	Hypothetical protein
+Spn1439-106	AKFHGGLM_00468	C1C5J0	hypothetical protein
+Spn1439-106	AKFHGGLM_00469	C1CDR5	hypothetical protein
+Spn1439-106	AKFHGGLM_00470	Q04M23	Undecaprenyl-diphosphatase
+Spn1439-106	AKFHGGLM_00471	C1C5J4	DNA polymerase IV
+Spn1439-106	AKFHGGLM_00472	C1C5J6	Pyruvate formate-lyase
+Spn1439-106	AKFHGGLM_00473	C1C5J7	hypothetical protein
+Spn1439-106	AKFHGGLM_00474	Q8DQZ5	Hypothetical protein
+Spn1439-106	AKFHGGLM_00475	C1C5J9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00476	Q8DQZ4	Xylose repressor protein
+Spn1439-106	AKFHGGLM_00477	C1C5K1	Cellobiose-specific PTS IIC component
+Spn1439-106	AKFHGGLM_00478	C1C5K2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00479	Q8DQZ2	Lactose-specific PTS IIA component
+Spn1439-106	AKFHGGLM_00480	C1C5K4	6-phospho-beta-galactosidase
+Spn1439-106	AKFHGGLM_00481	C1C5K5	Lactose-specific PTS IIBC components
+Spn1439-106	AKFHGGLM_00482	C1C5K6	Trk family potassium uptake protein TrkH
+Spn1439-106	AKFHGGLM_00483	C1C5K7	Trk family potassium uptake protein TrkA
+Spn1439-106	AKFHGGLM_00484	C1CCM9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00485	C1C5K9	Substrate-specific component MtsA of methionine-regulated ECF transporter
+Spn1439-106	AKFHGGLM_00486	C1C5L0	Hypothetical protein
+Spn1439-106	AKFHGGLM_00487	C1C5L1	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+Spn1439-106	AKFHGGLM_00488	C1CCN3	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+Spn1439-106	AKFHGGLM_00489		23S-methyl
+Spn1439-106	AKFHGGLM_00490	A0A0H2UNS5	tRNA (cytidine(34)-2'-O)-methyltransferase
+Spn1439-106	AKFHGGLM_00491		FMN
+Spn1439-106	AKFHGGLM_00492	C1C5L4	Substrate-specific component RibU of riboflavin ECF transporter
+Spn1439-106	AKFHGGLM_00493	A0A0B7LW17	Membrane-associated phospholipid phosphatase
+Spn1439-106	AKFHGGLM_00494	C1C5L6	Hypothetical protein
+Spn1439-106	AKFHGGLM_00495	C1C5L7	Hypothetical protein
+Spn1439-106	AKFHGGLM_00496	Q04LZ9	DNA-directed RNA polymerase delta subunit
+Spn1439-106	AKFHGGLM_00497	Q8DQY0	CTP synthase
+Spn1439-106	AKFHGGLM_00498	C1C5M1	Sodium-dependent phosphate transporter NptA
+Spn1439-106	AKFHGGLM_00499	A0A4J2GAQ7	Endo-beta-N-acetylglucosaminidase EndoD
+Spn1439-106	AKFHGGLM_00500	C1C5M3	Phosphoglycerate kinase
+Spn1439-106	AKFHGGLM_00501	Q8CZ51	Hypothetical protein
+Spn1439-106	AKFHGGLM_00502	Q8DQX7	Transcriptional regulator%2C MerR family
+Spn1439-106	AKFHGGLM_00503	C1C5M6	Glutamine synthetase type I
+Spn1439-106	AKFHGGLM_00504	C1C5M8	hypothetical protein
+Spn1439-106	AKFHGGLM_00505	A0A4N2G0D7	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
+Spn1439-106	AKFHGGLM_00506	A0A4J1WCM7	Type I restriction-modification system%2C specificity subunit S type F
+Spn1439-106	AKFHGGLM_00507	A0A0B7LDQ8	Type I restriction-modification system%2C specificity subunit S component 2.2
+Spn1439-106	AKFHGGLM_00508	C1CCQ0	Integrase/recombinase CreX (XerC/CodV family)
+Spn1439-106	AKFHGGLM_00509	A0A6I3U7E3	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
+Spn1439-106	AKFHGGLM_00510	A0A4J2BIN4	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
+Spn1439-106	AKFHGGLM_00511	A0A4J1WIH5	Type I restriction-modification system%2C specificity subunit S type F
+Spn1439-106	AKFHGGLM_00512	C1CCQ2	Type I restriction-modification system DNA-methyltransferase subunit M
+Spn1439-106	AKFHGGLM_00513	C1C5N2	Type I restriction-modification system restriction subunit R
+Spn1439-106	AKFHGGLM_00514	C1C5N4	Hypothetical protein
+Spn1439-106	AKFHGGLM_00515	C1C5N5	Heat-inducible transcription repressor HrcA
+Spn1439-106	AKFHGGLM_00516	B2IMB4	Heat shock protein GrpE
+Spn1439-106	AKFHGGLM_00517	Q04LY0	Chaperone protein DnaK
+Spn1439-106	AKFHGGLM_00518		SpF14_sRNA
+Spn1439-106	AKFHGGLM_00519	C1CCQ9	Chaperone protein DnaJ
+Spn1439-106	AKFHGGLM_00520	Q8CZ48	Hypothetical protein
+Spn1439-106	AKFHGGLM_00521	Q8DQW8	Histidine triad nucleotide-binding protein
+Spn1439-106	AKFHGGLM_00522	Q8DQW7	ABC transporter ATP-binding protein EcsA
+Spn1439-106	AKFHGGLM_00523	C1C5P4	ABC transporter permease protein EcsB
+Spn1439-106	AKFHGGLM_00524	Q9FBH2	BlpT protein
+Spn1439-106	AKFHGGLM_00525	C1C5P6	BlpS protein
+Spn1439-106	AKFHGGLM_00526	C1C5P7	Two-component system response regulator BlpR
+Spn1439-106	AKFHGGLM_00527	Q9F2F5	Two-component system sensor histidine kinase BlpH
+Spn1439-106	AKFHGGLM_00528	Q9ETW0	Peptide pheromone BlpC
+Spn1439-106	AKFHGGLM_00529	C1C5Q0	Competence-stimulating peptide ABC transporter permease protein ComB
+Spn1439-106	AKFHGGLM_00530	A0A4L0NQI8	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+Spn1439-106	AKFHGGLM_00531	Q9ETN5	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+Spn1439-106	AKFHGGLM_00532	Q9EU53	hypothetical protein
+Spn1439-106	AKFHGGLM_00533	Q9ETM2	hypothetical protein
+Spn1439-106	AKFHGGLM_00534	Q9ETB1	Bacteriocin BlpU
+Spn1439-106	AKFHGGLM_00535	Q9EW64	hypothetical protein
+Spn1439-106	AKFHGGLM_00536	C1C5Q7	hypothetical protein
+Spn1439-106	AKFHGGLM_00537	A0A4J2A6U9	IS5 family transposase IS1515
+Spn1439-106	AKFHGGLM_00538	A0AA44MQQ7	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_00539	C1C5R0	hypothetical protein
+Spn1439-106	AKFHGGLM_00540	C1C5R1	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_00541	Q9ETC8	Bacteriocin lactacin-F subunit LafA
+Spn1439-106	AKFHGGLM_00542	Q2ES34	hypothetical protein
+Spn1439-106	AKFHGGLM_00543	Q9FBH1	hypothetical protein
+Spn1439-106	AKFHGGLM_00544	Q9ETT3	hypothetical protein
+Spn1439-106	AKFHGGLM_00545	C1C5R9	Bacteriocin immunity protein BlpY
+Spn1439-106	AKFHGGLM_00546	C1C5S0	Immunity protein BlpZ
+Spn1439-106	AKFHGGLM_00547	C1C5S1	Putative protease
+Spn1439-106	AKFHGGLM_00548	C1CCT2	Aminoglycoside phosphotransferase family protein
+Spn1439-106	AKFHGGLM_00549	A0A0B7KV02	tRNA (guanine46-N7-)-methyltransferase
+Spn1439-106	AKFHGGLM_00550	C1CQ44	Bacterial ribosome SSU maturation protein RimP
+Spn1439-106	AKFHGGLM_00551	C1CCT5	Transcription termination/antitermination protein NusA
+Spn1439-106	AKFHGGLM_00552	Q8DQV4	Putative nucleic-acid-binding protein implicated in transcription termination
+Spn1439-106	AKFHGGLM_00553	C1C5S7	L7Ae family ribosomal protein
+Spn1439-106	AKFHGGLM_00554	C1CQ48	Translation initiation factor 2
+Spn1439-106	AKFHGGLM_00555	C1CQ49	Ribosome-binding factor A
+Spn1439-106	AKFHGGLM_00556	C1C5T0	IS1167 transposase Orf2
+Spn1439-106	AKFHGGLM_00557	A0A4J2GQQ9	hypothetical protein
+Spn1439-106	AKFHGGLM_00558	C1C5T1	IS1167 transposase Orf1
+Spn1439-106	AKFHGGLM_00559		Srn266
+Spn1439-106	AKFHGGLM_00560	A0A4K8PUZ2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00561	A0A4J2D7F3	Hypothetical protein
+Spn1439-106	AKFHGGLM_00562	C1C5T2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00563	C1C5T3	Hypothetical protein
+Spn1439-106	AKFHGGLM_00564	Q8CZ42	Glycerate kinase
+Spn1439-106	AKFHGGLM_00565	A0A4J2GII2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00566	C1CCU5	Hypothetical protein
+Spn1439-106	AKFHGGLM_00567	C1CCU6	Hypothetical protein
+Spn1439-106	AKFHGGLM_00568	C1C5U0	Hypothetical protein
+Spn1439-106	AKFHGGLM_00569	A0A4J2GHZ1	Acetyltransferase
+Spn1439-106	AKFHGGLM_00570	A0A0T8GN13	hypothetical protein
+Spn1439-106	AKFHGGLM_00571	A0A4J2GI03	Valyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_00572	A0A0B7LSY0	hypothetical protein
+Spn1439-106	AKFHGGLM_00573	A0A6I3U6B0	hypothetical protein
+Spn1439-106	AKFHGGLM_00574	C1C5U5	Fic domain protein
+Spn1439-106	AKFHGGLM_00575	A0A4J1XLM8	IS3 family transposase ISSpn11
+Spn1439-106	AKFHGGLM_00576	A0A4J2ARN3	IS3 family transposase ISSpn11
+Spn1439-106	AKFHGGLM_00577	A0A0T7TBM9	hypothetical protein
+Spn1439-106	AKFHGGLM_00578		SpF19_sRNA
+Spn1439-106	AKFHGGLM_00579	A0A064C2F5	Beta-glucoside bgl operon antiterminator BglG
+Spn1439-106	AKFHGGLM_00580	C1C5U8	Beta-glucoside-specific PTS IIBCA components
+Spn1439-106	AKFHGGLM_00581	C1C5U9	6-phospho-beta-glucosidase
+Spn1439-106	AKFHGGLM_00582	Q97S36	Phenylalanyl-tRNA synthetase alpha chain
+Spn1439-106	AKFHGGLM_00583	C1C5V1	N1-spermidine/spermine acetyltransferase PaiA
+Spn1439-106	AKFHGGLM_00584	C1C5V2	Phenylalanyl-tRNA synthetase beta chain
+Spn1439-106	AKFHGGLM_00585	C1C5V3	Putative integral membrane protein
+Spn1439-106	AKFHGGLM_00586	C1C5V4	ISSpn8 transposase
+Spn1439-106	AKFHGGLM_00587	A0AAD2I5E1	ISSpn8 transposase
+Spn1439-106	AKFHGGLM_00588	A0A9P1VKF8	Antitoxin HigA
+Spn1439-106	AKFHGGLM_00589	A0A4J2FGP1	5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase
+Spn1439-106	AKFHGGLM_00590	A0A4J2FGQ0	5%2C10-methylenetetrahydrofolate reductase
+Spn1439-106	AKFHGGLM_00591	C1C5V9	Polyribonucleotide nucleotidyltransferase
+Spn1439-106	AKFHGGLM_00592	C1C5W0	Serine acetyltransferase
+Spn1439-106	AKFHGGLM_00593	C1C5W1	Acetyltransferase%2C GNAT family
+Spn1439-106	AKFHGGLM_00594	Q97S25	Cysteinyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_00595	Q8DQS7	Mini-ribonuclease III
+Spn1439-106	AKFHGGLM_00596	C1C5W4	Leucine rich protein
+Spn1439-106	AKFHGGLM_00597	A0A0B7LNJ9	hypothetical protein
+Spn1439-106	AKFHGGLM_00598		Intron_gpII
+Spn1439-106	AKFHGGLM_00599	C1C5W8	Peptide ABC transporter membrane-spanning permease Vex1
+Spn1439-106	AKFHGGLM_00600	C1C5W9	ABC transporter ATP-binding protein Vex2
+Spn1439-106	AKFHGGLM_00601	Q9S4J0	Peptide ABC transporter membrane-spanning permease Vex3
+Spn1439-106	AKFHGGLM_00602	C1CCX7	Two-component system response regulator VncR
+Spn1439-106	AKFHGGLM_00603	C1C5X3	Two-component system sensor histidine kinase VncS
+Spn1439-106	AKFHGGLM_00604	C1CCX9	Class II fructose-bisphosphate aldolase
+Spn1439-106	AKFHGGLM_00605	C1C5X5	Oxidoreductase
+Spn1439-106	AKFHGGLM_00606	C1C5X6	Glutamine ABC transporter permease GlnP2b
+Spn1439-106	AKFHGGLM_00607	C1C5X7	Glutamine ABC transporter permease GlnP2a
+Spn1439-106	AKFHGGLM_00608	C1C5X8	Glutamine ABC transporter substrate-binding protein GlnH2
+Spn1439-106	AKFHGGLM_00609	A0AAE9QME2	Glutamine ABC transporter ATP-binding protein GlnQ4
+Spn1439-106	AKFHGGLM_00610	C1C5Y0	Single-stranded-DNA-specific exonuclease RecJ
+Spn1439-106	AKFHGGLM_00611	A0A062WLG2	Ribonuclease J2
+Spn1439-106	AKFHGGLM_00612	C1C5Y2	Tributyrin esterase
+Spn1439-106	AKFHGGLM_00613	C1C5Y3	tRNA-dependent lipid II--L-alanine/serine ligase MurM
+Spn1439-106	AKFHGGLM_00614	C1C5Y4	tRNA-dependent lipid II-Ala--L-alanine ligase MurN
+Spn1439-106	AKFHGGLM_00615	C1C5Y5	Putative Zn-dependent protease
+Spn1439-106	AKFHGGLM_00616	C1C5Y6	Excinuclease ABC subunit C
+Spn1439-106	AKFHGGLM_00617	C1C5Y7	Serine/threonine protein phosphatase
+Spn1439-106	AKFHGGLM_00618	C1C5Y8	Cysteine ABC transporter substrate-binding protein
+Spn1439-106	AKFHGGLM_00619	B2IMT9	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dihydropteridine reductase
+Spn1439-106	AKFHGGLM_00620	C1C5Z0	Dipeptidase PepV
+Spn1439-106	AKFHGGLM_00621	C1C5Z1	Uracil-DNA glycosylase
+Spn1439-106	AKFHGGLM_00622	C1C5Z2	hypothetical protein
+Spn1439-106	AKFHGGLM_00623		SpF22_sRNA
+Spn1439-106	AKFHGGLM_00624	C1C5Z4	Branched-chain amino acid transport system carrier protein
+Spn1439-106	AKFHGGLM_00625	C1C5Z5	Deblocking aminopeptidase
+Spn1439-106	AKFHGGLM_00626	C1C5Z6	Histidine triad family protein
+Spn1439-106	AKFHGGLM_00627	C1C5Z7	L%2CD-carboxypeptidase
+Spn1439-106	AKFHGGLM_00628	Q97RZ6	LSU ribosomal protein L11p (L12e)
+Spn1439-106	AKFHGGLM_00629	Q04LP6	LSU ribosomal protein L1p (L10Ae)
+Spn1439-106	AKFHGGLM_00630	C1C600	Hypothetical protein
+Spn1439-106	AKFHGGLM_00631	A0A0B7LEL3	Hypothetical protein
+Spn1439-106	AKFHGGLM_00632	A0A4J2DER0	Hypothetical protein
+Spn1439-106	AKFHGGLM_00633	C1C603	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00634	C1CD09	Antibiotic ABC transporter permease protein
+Spn1439-106	AKFHGGLM_00635	Q8DQP8	Multidrug ABC transporter permease protein
+Spn1439-106	AKFHGGLM_00636	A0A0I9AJU6	hypothetical protein
+Spn1439-106	AKFHGGLM_00637	C1C606	Hypothetical protein
+Spn1439-106	AKFHGGLM_00638	C1C607	Serine protease PrtA precursor
+Spn1439-106	AKFHGGLM_00639	A0A6G2DW14	Galactose-specific PTS IIA component
+Spn1439-106	AKFHGGLM_00640	Q8CZ23	Galactose-specific PTS IIB component
+Spn1439-106	AKFHGGLM_00641	C1CD15	Galactose-specific PTS IIC component
+Spn1439-106	AKFHGGLM_00642	C1C612	Beta-galactosidase BgaA
+Spn1439-106	AKFHGGLM_00643	C1C613	hypothetical protein
+Spn1439-106	AKFHGGLM_00644	C1C614	hypothetical protein
+Spn1439-106	AKFHGGLM_00645		SpF25_sRNA
+Spn1439-106	AKFHGGLM_00646	C1C615	Hypothetical protein
+Spn1439-106	AKFHGGLM_00647	A0A4M9XIK4	hypothetical protein
+Spn1439-106	AKFHGGLM_00648	A0A0I5YSN9	hypothetical protein
+Spn1439-106	AKFHGGLM_00649	A0A6G2DIM4	Putative rRNA methylase YtqB
+Spn1439-106	AKFHGGLM_00650	C1C617	Hypothetical protein
+Spn1439-106	AKFHGGLM_00651	C1C618	Na+/H+ antiporter
+Spn1439-106	AKFHGGLM_00652	A0A237K353	Inner membrane protein YihY
+Spn1439-106	AKFHGGLM_00653	C1CD25	Cytochrome c-type biogenesis protein CcdA-1
+Spn1439-106	AKFHGGLM_00654	C1C621	Thiol:disulfide oxidoreductase
+Spn1439-106	AKFHGGLM_00655	C1C622	Peptide methionine sulfoxide reductase MsrAB2
+Spn1439-106	AKFHGGLM_00656	Q8DQN8	Two-component response regulator YesN
+Spn1439-106	AKFHGGLM_00657	C1C624	Two-component sensor kinase YesM
+Spn1439-106	AKFHGGLM_00658	C1C625	YwlG
+Spn1439-106	AKFHGGLM_00659	A0A4J2FM84	Zinc metalloprotease ZmpB precursor
+Spn1439-106	AKFHGGLM_00660	C1C627	Bifunctional para-aminobenzoate synthase%2C aminase component/aminodeoxychorismate lyase
+Spn1439-106	AKFHGGLM_00661	C1C628	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+Spn1439-106	AKFHGGLM_00662	C1C629	Endo-beta-N-acetylglucosaminidase%2C choline-binding protein CbpL
+Spn1439-106	AKFHGGLM_00663	C1C630	Glucokinase
+Spn1439-106	AKFHGGLM_00664	Q04LL8	Thymidylate synthase
+Spn1439-106	AKFHGGLM_00665	Q8CZ15	Hypothetical protein
+Spn1439-106	AKFHGGLM_00666	C1C633	tRNA dimethylallyltransferase MiaA
+Spn1439-106	AKFHGGLM_00667	C1C634	GTP-binding protein HflX
+Spn1439-106	AKFHGGLM_00668	C1C635	Cystathionine beta-lyase
+Spn1439-106	AKFHGGLM_00669	C1CQF2	Ribonuclease Z
+Spn1439-106	AKFHGGLM_00670	C1C637	Short-chain dehydrogenase
+Spn1439-106	AKFHGGLM_00671	C1C638	Methionine biosynthesis and transport regulator MtaR%2C LysR family
+Spn1439-106	AKFHGGLM_00672	Q8DQM8	Hypothetical protein
+Spn1439-106	AKFHGGLM_00673	Q8DQM7	Rhodanese-like domain protein
+Spn1439-106	AKFHGGLM_00674	C1C641	Hypothetical protein
+Spn1439-106	AKFHGGLM_00675	C1C642	Ribosomal small subunit pseudouridine synthase A
+Spn1439-106	AKFHGGLM_00676	A0AA86Y837	GTP-binding protein TypA
+Spn1439-106	AKFHGGLM_00677	Q8CZ11	Putative membrane protein
+Spn1439-106	AKFHGGLM_00678	C1C645	Hypothetical protein
+Spn1439-106	AKFHGGLM_00679	C1C646	Putative immunity protein
+Spn1439-106	AKFHGGLM_00680	Q8DQM3	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00681	A0AAD2IGV2	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Spn1439-106	AKFHGGLM_00682	C1C649	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Spn1439-106	AKFHGGLM_00683	A0A4J2FEN9	Cell division protein DivIB
+Spn1439-106	AKFHGGLM_00684		PyrR
+Spn1439-106	AKFHGGLM_00685	C1C651	Orotidine 5'-phosphate decarboxylase
+Spn1439-106	AKFHGGLM_00686	C1C652	Orotate phosphoribosyltransferase
+Spn1439-106	AKFHGGLM_00687	A0A0B7LBR9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00688	C1C654	Hypothetical protein
+Spn1439-106	AKFHGGLM_00689	C1C655	Hypothetical protein
+Spn1439-106	AKFHGGLM_00690	C1C656	Hypothetical protein
+Spn1439-106	AKFHGGLM_00691	C1C657	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00692	C1C658	Amino acid ABC transporter amino acid-binding/permease protein
+Spn1439-106	AKFHGGLM_00693	A0A100FEM4	Glutamine ABC transporter ATP-binding protein GlnQ3
+Spn1439-106	AKFHGGLM_00694	A0A0I9CA19	Glutamine ABC transporter ATP-binding protein GlnQ3
+Spn1439-106	AKFHGGLM_00695	C1C659	Glutamine ABC transporter permease GlnP3b
+Spn1439-106	AKFHGGLM_00696	C1C660	Glutamine ABC transporter permease GlnP3a
+Spn1439-106	AKFHGGLM_00697	C1CD65	L-Lactate 2-monooxygenase
+Spn1439-106	AKFHGGLM_00698	Q8CWS5	Class II lysyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_00699	C1C663	L-Lactate 2-monooxygenase
+Spn1439-106	AKFHGGLM_00700		TPP
+Spn1439-106	AKFHGGLM_00701	Q8DQK6	Thiaminase II
+Spn1439-106	AKFHGGLM_00702	C1C665	Hypothetical protein
+Spn1439-106	AKFHGGLM_00703	Q8DQK5	Hydroxyethylthiazole kinase
+Spn1439-106	AKFHGGLM_00704	A0A0I8S1A5	Thiamin-phosphate pyrophosphorylase
+Spn1439-106	AKFHGGLM_00705		TPP
+Spn1439-106	AKFHGGLM_00706	C1CD71	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+Spn1439-106	AKFHGGLM_00707	B1IAP2	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+Spn1439-106	AKFHGGLM_00708	Q8DQK1	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+Spn1439-106	AKFHGGLM_00709	B1IAP4	Thiaminase II TenA
+Spn1439-106	AKFHGGLM_00710	Q8CZ02	Substrate-specific component ThiW of putative thiazole ECF transporter
+Spn1439-106	AKFHGGLM_00711	A0A4I6QVS1	Hydroxyethylthiazole kinase
+Spn1439-106	AKFHGGLM_00712	A0A0B7M6G1	Thiamin-phosphate pyrophosphorylase
+Spn1439-106	AKFHGGLM_00713	B1IAP8	Hydroxymethylpyrimidine phosphate kinase ThiD
+Spn1439-106	AKFHGGLM_00714		TPP
+Spn1439-106	AKFHGGLM_00715	C1CD79	Negative transcriptional regulator of copper transport operon
+Spn1439-106	AKFHGGLM_00716	C1C677	Copper-exporting ATPase
+Spn1439-106	AKFHGGLM_00717	A0A4J2FF32	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
+Spn1439-106	AKFHGGLM_00718	B2INB2	Pyruvate oxidase
+Spn1439-106	AKFHGGLM_00719	Q8CZ01	Hypothetical protein
+Spn1439-106	AKFHGGLM_00720	A0A4J2FL21	IS630 family transposase ISSpn2
+Spn1439-106	AKFHGGLM_00721	A0A4J2FK70	IS630 family transposase ISSpn2
+Spn1439-106	AKFHGGLM_00722	C1C683	6-phospho-beta-glucosidase
+Spn1439-106	AKFHGGLM_00723	A0AAE9U2I0	Mannose-6-phosphate isomerase
+Spn1439-106	AKFHGGLM_00724	A0A4J2FKH7	Sodium-dependent transporter
+Spn1439-106	AKFHGGLM_00725	C1CD89	hypothetical protein
+Spn1439-106	AKFHGGLM_00726	B2INC3	MutT/Nudix family protein
+Spn1439-106	AKFHGGLM_00727	Q8DQI7	NAD(FAD)-utilizing dehydrogenase
+Spn1439-106	AKFHGGLM_00728	Q97RQ6	DegV family protein
+Spn1439-106	AKFHGGLM_00729	Q8DQI5	Transcriptional regulator%2C AcrR family
+Spn1439-106	AKFHGGLM_00730	C1CD94	dCMP deaminase
+Spn1439-106	AKFHGGLM_00731	Q8DQI3	Uracil phosphoribosyltransferase
+Spn1439-106	AKFHGGLM_00732	Q04LF4	ATP-dependent Clp protease proteolytic subunit ClpP
+Spn1439-106	AKFHGGLM_00733	A0A0T9AB05	Hypothetical protein
+Spn1439-106	AKFHGGLM_00734	C1CD98	High-affinity leucine-specific transport system%2C periplasmic binding protein LivJ
+Spn1439-106	AKFHGGLM_00735	C1CD99	High-affinity branched-chain amino acid transport system permease protein LivH
+Spn1439-106	AKFHGGLM_00736	Q8DQH9	Branched-chain amino acid transport system permease protein LivM
+Spn1439-106	AKFHGGLM_00737	Q8DQH8	Branched-chain amino acid transport ATP-binding protein LivG
+Spn1439-106	AKFHGGLM_00738	C1C697	Branched-chain amino acid transport ATP-binding protein LivF
+Spn1439-106	AKFHGGLM_00739	A0A4J2CK65	CBS domain protein
+Spn1439-106	AKFHGGLM_00740	Q2MGI2	Peptide chain release factor 2
+Spn1439-106	AKFHGGLM_00741	C1C6A0	Cell division transporter%2C ATP-binding protein FtsE
+Spn1439-106	AKFHGGLM_00742	B2INE0	Cell division protein FtsX
+Spn1439-106	AKFHGGLM_00743	C1CDA7	Maltose- and glucose-specific PTS IICBA components
+Spn1439-106	AKFHGGLM_00744	C1C6A3	Exodeoxyribonuclease III
+Spn1439-106	AKFHGGLM_00745	C1C6A4	ATP-dependent RNA helicase YqfR
+Spn1439-106	AKFHGGLM_00746	C1C6A5	S-adenosylmethionine synthetase
+Spn1439-106	AKFHGGLM_00747	Q9X9S0	Dihydroorotate dehydrogenase (fumarate)
+Spn1439-106	AKFHGGLM_00748	C1C6A7	DNA polymerase III delta subunit
+Spn1439-106	AKFHGGLM_00749	C1C6A8	Manganese superoxide dismutase
+Spn1439-106	AKFHGGLM_00750	C1C6A9	hypothetical protein
+Spn1439-106	AKFHGGLM_00751	A0AA95DA20	Bifunctional 23S rRNA (adenine(2503)-C(2))-methyltransferase/tRNA (adenine(37)-C(2))-methyltransferase
+Spn1439-106	AKFHGGLM_00752	A0A4L0PEU9	VanZF-related protein
+Spn1439-106	AKFHGGLM_00753	C1C6B2	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00754	A0A4J2FJJ2	Peptidyl-prolyl cis-trans isomerase
+Spn1439-106	AKFHGGLM_00755	Q8CYZ5	Hypothetical protein
+Spn1439-106	AKFHGGLM_00756	Q04LD0	SSU ribosomal protein S16p
+Spn1439-106	AKFHGGLM_00757	C1CDC4	KH domain RNA-binding protein
+Spn1439-106	AKFHGGLM_00758	A0A4J1R377	hypothetical protein
+Spn1439-106	AKFHGGLM_00759	Q8DQG3	16S rRNA processing protein RimM
+Spn1439-106	AKFHGGLM_00760	Q97RM4	tRNA (guanine(37)-N(1))-methyltransferase
+Spn1439-106	AKFHGGLM_00761	Q8CYZ1	Anaerobic ribonucleoside-triphosphate reductase
+Spn1439-106	AKFHGGLM_00762	B2INF8	Hypothetical protein
+Spn1439-106	AKFHGGLM_00763	Q8DQG2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00764	A0AA44MRN6	Substrate-specific component BioY of biotin ECF transporter
+Spn1439-106	AKFHGGLM_00765	C1C6C6	Glutathione reductase
+Spn1439-106	AKFHGGLM_00766	C1C6C7	Periplasmic component of efflux system
+Spn1439-106	AKFHGGLM_00767	Q8DQF8	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00768	C1C6C9	ABC transporter permease protein
+Spn1439-106	AKFHGGLM_00769	C1C6D0	Methionyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_00770	A0A4J1WG14	Hypothetical protein
+Spn1439-106	AKFHGGLM_00771	Q8DQF6	Transcriptional regulator%2C PadR family
+Spn1439-106	AKFHGGLM_00772	C1C6D3	Hypothetical protein
+Spn1439-106	AKFHGGLM_00773	C1C6D4	Putative oxidoreductase
+Spn1439-106	AKFHGGLM_00774	B2INR6	Hypothetical protein
+Spn1439-106	AKFHGGLM_00775	C1C6D6	3-Ketoacyl-ACP reductase
+Spn1439-106	AKFHGGLM_00776	C1C6D7	MutT/Nudix family protein
+Spn1439-106	AKFHGGLM_00777	Q8CYY8	Acetyltransferase%2C GNAT family
+Spn1439-106	AKFHGGLM_00778	C1C6D9	PEP-utilizing enzyme family protein
+Spn1439-106	AKFHGGLM_00779	C1C6E0	Hypothetical protein
+Spn1439-106	AKFHGGLM_00780	C1C6E1	Lysyl aminopeptidase PepN
+Spn1439-106	AKFHGGLM_00781	C1CDF5	Two-component system response regulator CiaR
+Spn1439-106	AKFHGGLM_00782	Q7B3G0	Two-component system sensor histidine kinase CiaH
+Spn1439-106	AKFHGGLM_00783	Q8CYY6	Hypothetical protein
+Spn1439-106	AKFHGGLM_00784	C1C6E5	Protease
+Spn1439-106	AKFHGGLM_00785	C1C6E6	Bifunctional DinG family ATP-dependent helicase YoaA/DnaQ family exonuclease
+Spn1439-106	AKFHGGLM_00786	C1C6E7	Cell shape-determining protein RodA
+Spn1439-106	AKFHGGLM_00787	Q8DQE7	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+Spn1439-106	AKFHGGLM_00788	Q8DQE6	Hydrolase%2C haloacid dehalogenase-like family
+Spn1439-106	AKFHGGLM_00789	Q59957	DNA gyrase subunit B
+Spn1439-106	AKFHGGLM_00790	Q8DQE5	Septation ring formation regulator EzrA
+Spn1439-106	AKFHGGLM_00791	Q8CYY5	Hypothetical protein
+Spn1439-106	AKFHGGLM_00792	A0A4J2FGX0	MutT/Nudix family protein
+Spn1439-106	AKFHGGLM_00793	C1C6F5	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_00794	C1C6F7	ATP-dependent Clp protease ATP-binding subunit ClpE
+Spn1439-106	AKFHGGLM_00795	Q8DQD6	Hypothetical protein
+Spn1439-106	AKFHGGLM_00796	A0AA87CCJ7	Glutamine ABC transporter permease GlnP4
+Spn1439-106	AKFHGGLM_00797	A0A0E8ZV25	Glutamine ABC transporter ATP-binding protein GlnQ4
+Spn1439-106	AKFHGGLM_00798	C1C6G1	Bifunctional methylenetetrahydrofolate dehydrogenase (NADP+)/methenyltetrahydrofolate cyclohydrolase
+Spn1439-106	AKFHGGLM_00799	C1C6G2	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+Spn1439-106	AKFHGGLM_00800	Q04L82	Ribose 5-phosphate isomerase A
+Spn1439-106	AKFHGGLM_00801	C1CS61	Phosphopentomutase
+Spn1439-106	AKFHGGLM_00802	Q8CYY4	hypothetical protein
+Spn1439-106	AKFHGGLM_00803	C1C6G6	hypothetical protein
+Spn1439-106	AKFHGGLM_00804	C1C6G7	Bifunctional purine nucleoside phosphorylase/N-ribosylnicotinamide phosphorylase
+Spn1439-106	AKFHGGLM_00805	C1C6G8	hypothetical protein
+Spn1439-106	AKFHGGLM_00806	C1C6G9	Thiol-activated cytolysin
+Spn1439-106	AKFHGGLM_00807	Q8CWS1	Purine nucleoside phosphorylase
+Spn1439-106	AKFHGGLM_00808	C1C6H1	FlaR-related DNA topology modulation protein
+Spn1439-106	AKFHGGLM_00809	Q8CWS0	SSU ribosomal protein S20p
+Spn1439-106	AKFHGGLM_00810	C1C6H3	Pantothenate kinase
+Spn1439-106	AKFHGGLM_00811	C1CDI7	Hypothetical protein
+Spn1439-106	AKFHGGLM_00812	C1C6H5	16S rRNA (guanine(1207)-N(2))-methyltransferase
+Spn1439-106	AKFHGGLM_00813	A0A0B7M3D2	Pyrimidine-nucleoside phosphorylase
+Spn1439-106	AKFHGGLM_00814	C1C6H7	Deoxyribose-phosphate aldolase
+Spn1439-106	AKFHGGLM_00815	C1C6H8	Cytidine deaminase
+Spn1439-106	AKFHGGLM_00816	C1C6H9	Nucleoside-binding protein
+Spn1439-106	AKFHGGLM_00817	C1C6I0	Putative deoxyribose-specific ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00818	B2INW4	Putative deoxyribose-specific ABC transporter permease protein
+Spn1439-106	AKFHGGLM_00819	C1C6I2	Putative deoxyribose-specific ABC transporter permease protein
+Spn1439-106	AKFHGGLM_00820	C1C6I3	IS3 family transposase ISSpn11
+Spn1439-106	AKFHGGLM_00821	C1C6I4	IS3 family transposase ISSpn11
+Spn1439-106	AKFHGGLM_00822	Q04L63	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+Spn1439-106	AKFHGGLM_00823	Q3HZ74	Topoisomerase IV subunit B
+Spn1439-106	AKFHGGLM_00824	B2INX2	Restriction enzyme BcgI alpha chain-like protein
+Spn1439-106	AKFHGGLM_00825	Q3HYJ3	Topoisomerase IV subunit A
+Spn1439-106	AKFHGGLM_00826	C1CDK3	Branched-chain amino acid aminotransferase
+Spn1439-106	AKFHGGLM_00827	C1CDK4	Oligopeptide ABC transporter substrate-binding protein
+Spn1439-106	AKFHGGLM_00828	C1CDK5	Hypothetical protein
+Spn1439-106	AKFHGGLM_00829	Q8DQB0	Putative membrane protein
+Spn1439-106	AKFHGGLM_00830	Q04L55	Pyrrolidone-carboxylate peptidase
+Spn1439-106	AKFHGGLM_00831	Q8CYY0	Hypothetical protein
+Spn1439-106	AKFHGGLM_00832		tRNA-Tyr(gta)
+Spn1439-106	AKFHGGLM_00833		tRNA-Gln(ttg)
+Spn1439-106	AKFHGGLM_00834	C1CDK9	SSU ribosomal protein S1p
+Spn1439-106	AKFHGGLM_00835	C1C6J6	IS1167 transposase Orf2
+Spn1439-106	AKFHGGLM_00836	A0AA95D7A8	hypothetical protein
+Spn1439-106	AKFHGGLM_00837	C1C6J7	IS1167 transposase Orf1
+Spn1439-106	AKFHGGLM_00838		Srn266
+Spn1439-106	AKFHGGLM_00839	Q8DQA6	GAF domain-containing protein
+Spn1439-106	AKFHGGLM_00840	C1CDL4	DNA polymerase III subunits gamma and tau
+Spn1439-106	AKFHGGLM_00841	Q8CYX9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00842	Q8DQA4	Iron-sulfur cluster assembly ATPase protein SufC
+Spn1439-106	AKFHGGLM_00843	A0A4J2FPK2	Iron-sulfur cluster assembly protein SufD
+Spn1439-106	AKFHGGLM_00844	C1C6K3	Cysteine desulfurase SufS
+Spn1439-106	AKFHGGLM_00845	C1CDL9	Putative iron-sulfur cluster assembly scaffold protein for SUF system SufE2
+Spn1439-106	AKFHGGLM_00846	A0A4J1VPG7	Iron-sulfur cluster assembly protein SufB
+Spn1439-106	AKFHGGLM_00847	C1C6K6	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
+Spn1439-106	AKFHGGLM_00848	Q8DQ98	Coordinator of zonal cell elongation
+Spn1439-106	AKFHGGLM_00849		transfer-messenger RNA%2C SsrA
+Spn1439-106	AKFHGGLM_00850		tRNA-Ser(gga)
+Spn1439-106	AKFHGGLM_00851	C1C6K8	Transcriptional repressor of the fructose operon%2C DeoR family
+Spn1439-106	AKFHGGLM_00852	C1C6K9	1-phosphofructokinase
+Spn1439-106	AKFHGGLM_00853	C1C6L0	Fructose-specific PTS IIABC components
+Spn1439-106	AKFHGGLM_00854	A0A4J2FRM6	DNA translocase FtsK
+Spn1439-106	AKFHGGLM_00855	C1C6L2	Acetyltransferase
+Spn1439-106	AKFHGGLM_00856	A0A4J2FUT8	Putative cysteine desulfurase
+Spn1439-106	AKFHGGLM_00857	C1C6L4	tRNA 4-thiouridine synthase ThiI
+Spn1439-106	AKFHGGLM_00858	C1C6L5	Putative alpha-dextrin endo-1%2C6-alpha-glucosidase
+Spn1439-106	AKFHGGLM_00859	A0AA86XKG9	hypothetical protein
+Spn1439-106	AKFHGGLM_00860	Q8CYX4	hypothetical protein
+Spn1439-106	AKFHGGLM_00861	C1C6L6	ATP-grasp-domain-containing protein
+Spn1439-106	AKFHGGLM_00862	C1C6L7	Type I restriction-modification system DNA-methyltransferase subunit M
+Spn1439-106	AKFHGGLM_00863	A0A4J1SM82	Type I restriction-modification system specificity subunit S
+Spn1439-106	AKFHGGLM_00864	A0A4J2FRJ1	hypothetical protein
+Spn1439-106	AKFHGGLM_00865	C1CDN6	hypothetical protein
+Spn1439-106	AKFHGGLM_00866	C1C6M0	hypothetical protein
+Spn1439-106	AKFHGGLM_00867	C1C6M1	Tyrosine recombinase XerC
+Spn1439-106	AKFHGGLM_00868	C1CDN9	hypothetical protein
+Spn1439-106	AKFHGGLM_00869	C1C6M3	Type I restriction-modification system restriction subunit R
+Spn1439-106	AKFHGGLM_00870	Q8DQ88	Arginine pathway regulatory protein ArgR2
+Spn1439-106	AKFHGGLM_00871	Q97RC8	Xaa-Pro dipeptidyl-peptidase
+Spn1439-106	AKFHGGLM_00872	C1C6M7	DNA polymerase III alpha subunit
+Spn1439-106	AKFHGGLM_00873	C1C6M8	6-phosphofructokinase
+Spn1439-106	AKFHGGLM_00874	C1C6M9	Pyruvate kinase
+Spn1439-106	AKFHGGLM_00875	Q8CYX1	Membrane-associated protein
+Spn1439-106	AKFHGGLM_00876	G3ECD6	IS5 family transposase ISSpn7
+Spn1439-106	AKFHGGLM_00877	Q8CYW9	Hypothetical protein
+Spn1439-106	AKFHGGLM_00878	C1C6N4	Hypothetical protein
+Spn1439-106	AKFHGGLM_00879	Q8DQ82	ABC transporter substrate-binding protein
+Spn1439-106	AKFHGGLM_00880	Q8DQ81	Putative permease
+Spn1439-106	AKFHGGLM_00881	C1CDQ2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00882	C1C6N8	hypothetical protein
+Spn1439-106	AKFHGGLM_00883	A0A4J1QKF1	Transcription accessory protein
+Spn1439-106	AKFHGGLM_00884	A0A0T7JDL8	Putative SprT family zinc-dependent metallopeptidase
+Spn1439-106	AKFHGGLM_00885	A0A0T9GM43	Putative phage shock protein C
+Spn1439-106	AKFHGGLM_00886		Spd-sr07
+Spn1439-106	AKFHGGLM_00886		
+Spn1439-106	AKFHGGLM_00887	A0A0T8SIY2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00888	C1C6P2	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_00889	A0A4J2FP30	ABC transporter permease protein
+Spn1439-106	AKFHGGLM_00890	B1IB83	Hypothetical protein
+Spn1439-106	AKFHGGLM_00891	A0A4J2FP06	ISSpn8 transposase
+Spn1439-106	AKFHGGLM_00892	A0A4J2FPB1	Arginine decarboxylase
+Spn1439-106	AKFHGGLM_00893	A0AAD2KG40	hypothetical protein
+Spn1439-106	AKFHGGLM_00894	A0A4J2FVG1	hypothetical protein
+Spn1439-106	AKFHGGLM_00895	P66836	Spermidine synthase
+Spn1439-106	AKFHGGLM_00896	C1C6Q1	Carboxynorspermidine synthase
+Spn1439-106	AKFHGGLM_00897	A0A4J2FUF6	Carboxynorspermidine decarboxylase
+Spn1439-106	AKFHGGLM_00898	A0A0X9UX06	Agmatine deiminase
+Spn1439-106	AKFHGGLM_00899	Q8DQ67	N-carbamoylputrescine amidase
+Spn1439-106	AKFHGGLM_00900	Q8DQ66	Hydrolase%2C HAD superfamily
+Spn1439-106	AKFHGGLM_00901	Q8CYW4	Hypothetical protein
+Spn1439-106	AKFHGGLM_00902	C1C6Q7	CAAX amino terminal protease family protein
+Spn1439-106	AKFHGGLM_00903	Q8DQ65	Cysteine and methionine metabolism regulator CmbR%2C LysR family
+Spn1439-106	AKFHGGLM_00904	Q8DQ64	Lipoprotein signal peptidase
+Spn1439-106	AKFHGGLM_00905	Q8DQ63	Ribosomal large subunit pseudouridine synthase D
+Spn1439-106	AKFHGGLM_00906	A0A4J1YX11	Teichoic acid phosphorylcholine esterase%2C choline-binding protein CbpE
+Spn1439-106	AKFHGGLM_00907	B2IP87	Glutamate 5-kinase
+Spn1439-106	AKFHGGLM_00908	C1C6R4	Gamma-glutamyl phosphate reductase
+Spn1439-106	AKFHGGLM_00909	C1C6R5	Pyrroline-5-carboxylate reductase
+Spn1439-106	AKFHGGLM_00910	A0A062WLV3	Thymidylate kinase
+Spn1439-106	AKFHGGLM_00911	C1C6R7	DNA polymerase III delta prime subunit
+Spn1439-106	AKFHGGLM_00912	Q97R89	DNA replication initiation control protein YabA
+Spn1439-106	AKFHGGLM_00913	C1C6R9	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+Spn1439-106	AKFHGGLM_00914	C1C6S0	hypothetical protein
+Spn1439-106	AKFHGGLM_00915	C1C6S1	Replication protein
+Spn1439-106	AKFHGGLM_00916	Q8DPU9	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_00917	A0A4J1YFT0	IS5 family transposase ISSpn7
+Spn1439-106	AKFHGGLM_00918	Q8DQ51	Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO
+Spn1439-106	AKFHGGLM_00919	Q8DQ50	Uridine monophosphate kinase
+Spn1439-106	AKFHGGLM_00920	C1CRV3	Ribosome-recycling factor
+Spn1439-106	AKFHGGLM_00921	Q8DQ48	S1 RNA-binding domain protein
+Spn1439-106	AKFHGGLM_00922	Q8DQ47	Hypothetical protein
+Spn1439-106	AKFHGGLM_00923	Q8DQ46	Phosphate starvation-inducible protein PhoH
+Spn1439-106	AKFHGGLM_00924	Q8CYV9	Acetyltransferase
+Spn1439-106	AKFHGGLM_00925	Q8CYV8	hypothetical protein
+Spn1439-106	AKFHGGLM_00926	Q8DQ45	Alanine dehydrogenase
+Spn1439-106	AKFHGGLM_00927	A0A0E8P851	Alanine dehydrogenase
+Spn1439-106	AKFHGGLM_00928	A0A0E9A013	Acetyltransferase%2C GNAT family
+Spn1439-106	AKFHGGLM_00929	A0A4J2G3Q3	Late competence DNA receptor ComEA
+Spn1439-106	AKFHGGLM_00930	A0A4J2D6E1	Late competence DNA transporter ComEC
+Spn1439-106	AKFHGGLM_00931	C1C6T3	hypothetical protein
+Spn1439-106	AKFHGGLM_00932	C1C6T4	ABC transporter%2C ATP-binding protein
+Spn1439-106	AKFHGGLM_00933	C1C6T5	Hypothetical protein
+Spn1439-106	AKFHGGLM_00934		L20_leader
+Spn1439-106	AKFHGGLM_00935	Q04KW9	Translation initiation factor 3
+Spn1439-106	AKFHGGLM_00936	Q04KW8	LSU ribosomal protein L35p
+Spn1439-106	AKFHGGLM_00937	Q04KW7	LSU ribosomal protein L20p
+Spn1439-106	AKFHGGLM_00938	C1CDV7	Lactoylglutathione lyase
+Spn1439-106	AKFHGGLM_00939	C1C6U0	Dihydroorotate dehydrogenase (NAD(+))%2C electron transfer subunit
+Spn1439-106	AKFHGGLM_00940	C1C6U1	Dihydroorotate dehydrogenase (NAD(+))%2C catalytic subunit
+Spn1439-106	AKFHGGLM_00941	C1C6U2	Endo-beta-N-acetylglucosaminidase LytB
+Spn1439-106	AKFHGGLM_00942	A0A4J2FNH3	Fibronectin/fibrinogen-binding protein
+Spn1439-106	AKFHGGLM_00943	Q8DQ35	Metal-dependent hydrolase YbeY
+Spn1439-106	AKFHGGLM_00944	Q8DQ34	Diacylglycerol kinase
+Spn1439-106	AKFHGGLM_00945	A0A0B7L0X2	GTP-binding protein Era
+Spn1439-106	AKFHGGLM_00946	A0A4J2FS41	Formamidopyrimidine-DNA glycosylase MutM
+Spn1439-106	AKFHGGLM_00947	A0A6I3VK08	Dephospho-CoA kinase
+Spn1439-106	AKFHGGLM_00948	C1CDW7	Multidrug resistance efflux pump PmrA
+Spn1439-106	AKFHGGLM_00949	Q8DQ31	Protein-export membrane protein SecG
+Spn1439-106	AKFHGGLM_00950	A0A4J2FQI3	3'-to-5' exoribonuclease RNase R
+Spn1439-106	AKFHGGLM_00951	Q8DQ29	tmRNA-binding protein SmpB
+Spn1439-106	AKFHGGLM_00952	C1CDX2	Tellurite methyltransferase TehB
+Spn1439-106	AKFHGGLM_00953	A0A4J2FN93	Competence protein CoiA
+Spn1439-106	AKFHGGLM_00954	A0A4J2FQF1	Oligoendopeptidase F
+Spn1439-106	AKFHGGLM_00955	A0A0I8AKP8	O-methyltransferase family protein
+Spn1439-106	AKFHGGLM_00956	Q8DQ24	Putative parvulin type peptidyl-prolyl isomerase PrsA
+Spn1439-106	AKFHGGLM_00957	A0A4J2FN72	Putative transposase InsK for insertion sequence element IS150
+Spn1439-106	AKFHGGLM_00958	A0A4I9Q0H5	hypothetical protein
+Spn1439-106	AKFHGGLM_00959	A0A4J2FN57	Phosphoglycerate mutase family 5 protein
+Spn1439-106	AKFHGGLM_00960	C1CDY0	Transcriptional regulator
+Spn1439-106	AKFHGGLM_00961	Q8DQ19	Membrane protein
+Spn1439-106	AKFHGGLM_00962	C1CDY2	1%2C4-beta-N-acetylmuramidase%2C lyzozyme M1
+Spn1439-106	AKFHGGLM_00963	C1C6W6	Bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate N-acetyltransferase
+Spn1439-106	AKFHGGLM_00964	A0A0H2UPW5	ADP-ribose pyrophosphatase
+Spn1439-106	AKFHGGLM_00965	Q8CYV2	Hypothetical protein
+Spn1439-106	AKFHGGLM_00966	C1C6W9	Bifunctional 5'-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+Spn1439-106	AKFHGGLM_00967	A0A0H2UPQ5	Transcriptional regulator OrfX
+Spn1439-106	AKFHGGLM_00968	C1CDY8	DNA polymerase III epsilon subunit
+Spn1439-106	AKFHGGLM_00969	C1CDY9	Glycerophosphoryl diester phosphodiesterase
+Spn1439-106	AKFHGGLM_00970	C1CGU6	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_00971	C1C6X5	Hypothetical protein
+Spn1439-106	AKFHGGLM_00972	C1CDZ4	Cytochrome c-type biogenesis protein CcdA-2
+Spn1439-106	AKFHGGLM_00973	C1CDZ5	Thiol:disulfide oxidoreductase
+Spn1439-106	AKFHGGLM_00974		SpF36_sRNA
+Spn1439-106	AKFHGGLM_00974		
+Spn1439-106	AKFHGGLM_00975	Q8CWR7	Cationic amino acid transporter%2C APC Superfamily
+Spn1439-106	AKFHGGLM_00976	C1C6X9	Laminin-binding surface protein
+Spn1439-106	AKFHGGLM_00977	C1C6Y0	Pneumococcal histidine triad protein B
+Spn1439-106	AKFHGGLM_00978	C1C6Y1	Pneumococcal histidine triad protein E
+Spn1439-106	AKFHGGLM_00979	A0A0B7LLD3	Pneumococcal histidine triad protein E
+Spn1439-106	AKFHGGLM_00980	C1C6Y2	hypothetical protein
+Spn1439-106	AKFHGGLM_00981	C1C6Y3	hypothetical protein
+Spn1439-106	AKFHGGLM_00982	C1C6Y4	Tripeptide aminopeptidase PepT
+Spn1439-106	AKFHGGLM_00983	C1C6Y5	Ferrochelatase%2C protoheme ferro-lyase
+Spn1439-106	AKFHGGLM_00984	Q8DQ03	Large-conductance mechanosensitive channel MscL
+Spn1439-106	AKFHGGLM_00985	C1C6Y7	GtrA family protein
+Spn1439-106	AKFHGGLM_00986		preQ1-II
+Spn1439-106	AKFHGGLM_00987	Q8DQ01	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
+Spn1439-106	AKFHGGLM_00988		tRNA-Thr(ggt)
+Spn1439-106	AKFHGGLM_00989		asd
+Spn1439-106	AKFHGGLM_00990	Q8DQ00	Aspartate-semialdehyde dehydrogenase
+Spn1439-106	AKFHGGLM_00991	C1CK93	4-hydroxy-tetrahydrodipicolinate synthase
+Spn1439-106	AKFHGGLM_00992	A0A064C204	GTPase and tRNA-U34 5-formylation enzyme MnmE
+Spn1439-106	AKFHGGLM_00993	B2IPH4	Bifunctional 4-oxalocrotonate tautomerase/xylose transport system permease protein XylH
+Spn1439-106	AKFHGGLM_00994	C1C6Z3	Thymidine kinase
+Spn1439-106	AKFHGGLM_00995	C1C6Z4	Spermine/spermidine acetyltransferase
+Spn1439-106	AKFHGGLM_00996	Q8DPZ4	Peptide chain release factor 1
+Spn1439-106	AKFHGGLM_00997	Q8DPZ3	Peptide chain release factor N(5)-glutamine methyltransferase
+Spn1439-106	AKFHGGLM_00998	C1C6Z7	Threonylcarbamoyl-AMP synthase TsaC
+Spn1439-106	AKFHGGLM_00999	C1C6Z8	N-acetyltransferase%2C GCN5-family
+Spn1439-106	AKFHGGLM_01000	C1C6Z9	Serine hydroxymethyltransferase
+Spn1439-106	AKFHGGLM_01001	B1IBI4	Pseudouridylate synthase%2C 23S RNA-specific
+Spn1439-106	AKFHGGLM_01002	C1C701	Pneumococcal vaccine antigen A
+Spn1439-106	AKFHGGLM_01003	C1C702	Extracellular protein
+Spn1439-106	AKFHGGLM_01004	C1C703	23S rRNA (uracil(1939)-C(5))-methyltransferase
+Spn1439-106	AKFHGGLM_01005	C1C705	hypothetical protein
+Spn1439-106	AKFHGGLM_01006	C1C706	hypothetical protein
+Spn1439-106	AKFHGGLM_01007	A0A0T8NKE4	hypothetical protein
+Spn1439-106	AKFHGGLM_01008	C1C707	hypothetical protein
+Spn1439-106	AKFHGGLM_01009	C1C708	hypothetical protein
+Spn1439-106	AKFHGGLM_01010	C1C709	Tn5253 hypothetical protein
+Spn1439-106	AKFHGGLM_01011	C1C710	hypothetical protein
+Spn1439-106	AKFHGGLM_01012	A0A0T9ZU04	Tn5253 putative CAAX amino terminal protease
+Spn1439-106	AKFHGGLM_01013	C1C712	hypothetical protein
+Spn1439-106	AKFHGGLM_01014	C1C713	hypothetical protein
+Spn1439-106	AKFHGGLM_01015	C1C714	hypothetical protein
+Spn1439-106	AKFHGGLM_01016	C1C715	hypothetical protein
+Spn1439-106	AKFHGGLM_01017	C1C716	hypothetical protein
+Spn1439-106	AKFHGGLM_01018	A0A0T9ZU39	hypothetical protein
+Spn1439-106	AKFHGGLM_01019	A0A0T9ZU39	hypothetical protein
+Spn1439-106	AKFHGGLM_01020	C1C717	hypothetical protein
+Spn1439-106	AKFHGGLM_01021	C1C718	hypothetical protein
+Spn1439-106	AKFHGGLM_01022	C1C719	hypothetical protein
+Spn1439-106	AKFHGGLM_01023	A0A0T9GLB7	hypothetical protein
+Spn1439-106	AKFHGGLM_01024	A0AAD2Q7U0	IS1182 family transposase ISBcy1
+Spn1439-106	AKFHGGLM_01025	C1C721	ISSpn8 transposase
+Spn1439-106	AKFHGGLM_01026	A0AA44MQQ7	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01027	A0A0T8EX65	hypothetical protein
+Spn1439-106	AKFHGGLM_01028	A0A0T7JD86	hypothetical protein
+Spn1439-106	AKFHGGLM_01029	A0A0T8EX55	Acyl carrier protein
+Spn1439-106	AKFHGGLM_01030	A0A0T8AV73	hypothetical protein
+Spn1439-106	AKFHGGLM_01031	A0A0T8EX30	hypothetical protein
+Spn1439-106	AKFHGGLM_01032	A0A0T7JD88	Long-chain-fatty-acid--CoA ligase
+Spn1439-106	AKFHGGLM_01033	A0A4J2FZ60	Histidinol-phosphate aminotransferase
+Spn1439-106	AKFHGGLM_01034	A0A0T7JD98	hypothetical protein
+Spn1439-106	AKFHGGLM_01035	A0A0T8NQG6	Chloramphenicol acetyltransferase
+Spn1439-106	AKFHGGLM_01036	C1C727	Methionyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_01037	A0A0T7ZX26	Tyrosine-protein phosphatase
+Spn1439-106	AKFHGGLM_01038	A0A237K3R9	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01039	A0A4N2HCH5	Antibiotic ABC transporter permease protein
+Spn1439-106	AKFHGGLM_01040	C1C733	Multidrug ABC transporter permease protein
+Spn1439-106	AKFHGGLM_01041	B2IQ49	hypothetical protein
+Spn1439-106	AKFHGGLM_01042	B2IQ47	hypothetical protein
+Spn1439-106	AKFHGGLM_01043	C1C734	Putative repressor protein%2C phage associated
+Spn1439-106	AKFHGGLM_01044		pemK
+Spn1439-106	AKFHGGLM_01045	A0A0U0I1A6	hypothetical protein
+Spn1439-106	AKFHGGLM_01046	B2IQ45	Phage integrase
+Spn1439-106	AKFHGGLM_01047	A0A4J2FS10	hypothetical protein
+Spn1439-106	AKFHGGLM_01048	C1C736	23S rRNA (uracil(1939)-C(5))-methyltransferase
+Spn1439-106	AKFHGGLM_01049		SpF61_sRNA
+Spn1439-106	AKFHGGLM_01049		
+Spn1439-106	AKFHGGLM_01050		SpF39_sRNA
+Spn1439-106	AKFHGGLM_01051	C1CE21	Hypothetical protein
+Spn1439-106	AKFHGGLM_01052	C1C738	hypothetical protein
+Spn1439-106	AKFHGGLM_01053	Q8DPY6	Iron compound ABC uptake transporter substrate-binding protein PiaA
+Spn1439-106	AKFHGGLM_01054	B2IPI9	Iron compound ABC uptake transporter permease protein PiaB
+Spn1439-106	AKFHGGLM_01055	Q8DPY4	Iron compound ABC uptake transporter permease protein PiaC
+Spn1439-106	AKFHGGLM_01056	Q8DPY3	Iron compound ABC uptake transporter ATP-binding protein PiaD
+Spn1439-106	AKFHGGLM_01057	Q8CYU1	Putative type II restriction endonuclease
+Spn1439-106	AKFHGGLM_01058		pemK
+Spn1439-106	AKFHGGLM_01059	Q8CYT9	Hypothetical protein
+Spn1439-106	AKFHGGLM_01060	C1C746	Phage integrase
+Spn1439-106	AKFHGGLM_01061	B2IPJ6	Hypothetical protein
+Spn1439-106	AKFHGGLM_01062	B2IPK0	Hypothetical protein
+Spn1439-106	AKFHGGLM_01063	C1C749	Hypothetical protein
+Spn1439-106	AKFHGGLM_01064	C1C750	Putative hydrolase
+Spn1439-106	AKFHGGLM_01065	C1C751	Transcriptional regulator
+Spn1439-106	AKFHGGLM_01066	C1C752	Neopullulanase
+Spn1439-106	AKFHGGLM_01067	C1C753	hypothetical protein
+Spn1439-106	AKFHGGLM_01068	C1C755	Antitoxin PezA
+Spn1439-106	AKFHGGLM_01069	C1C756	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
+Spn1439-106	AKFHGGLM_01070	C1C757	hypothetical protein
+Spn1439-106	AKFHGGLM_01071		group-II-D1D4-3
+Spn1439-106	AKFHGGLM_01072	C1C758	Tn5252 Orf10 protein
+Spn1439-106	AKFHGGLM_01073	C1C759	Tn5252 Orf9 protein
+Spn1439-106	AKFHGGLM_01074	A0A0T9ABQ3	hypothetical protein
+Spn1439-106	AKFHGGLM_01075	A0A4J1UWN0	hypothetical protein
+Spn1439-106	AKFHGGLM_01076	C1C760	D-alanine--D-alanine ligase
+Spn1439-106	AKFHGGLM_01077	A0A0T8T2C8	hypothetical protein
+Spn1439-106	AKFHGGLM_01078		Srn266
+Spn1439-106	AKFHGGLM_01079	C1C762	Aminoglycoside N(6')-acetyltransferase type 1
+Spn1439-106	AKFHGGLM_01080	A0A0T8TE08	Peptidase E
+Spn1439-106	AKFHGGLM_01081	C1C764	Cell division protein FtsW
+Spn1439-106	AKFHGGLM_01082	C1C765	Phosphoenolpyruvate carboxylase
+Spn1439-106	AKFHGGLM_01083		T-box
+Spn1439-106	AKFHGGLM_01084	C1C766	ABC transporter substrate-binding protein
+Spn1439-106	AKFHGGLM_01085	Q8DPW3	Putative tryptophan-specific ABC transporter permease protein TrpY
+Spn1439-106	AKFHGGLM_01086	Q8DPW2	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01087	C1C769	DNA primase
+Spn1439-106	AKFHGGLM_01088	P0A4J0	RNA polymerase sigma factor RpoD
+Spn1439-106	AKFHGGLM_01089	Q8DPW0	Putative aromatic ring hydroxylating enzyme
+Spn1439-106	AKFHGGLM_01090	C1CE62	Diglucosyl diacylglycerol synthase LafB
+Spn1439-106	AKFHGGLM_01091	C1CE63	1%2C2-diacylglycerol 3-glucosyltransferase LafA
+Spn1439-106	AKFHGGLM_01092	C1CE64	Hypothetical protein
+Spn1439-106	AKFHGGLM_01093	C1CE65	Hypothetical protein
+Spn1439-106	AKFHGGLM_01094	A0A0B7KQJ6	GTP-binding protein ObgE
+Spn1439-106	AKFHGGLM_01095	C1CE67	Hypothetical protein
+Spn1439-106	AKFHGGLM_01096		group-II-D1D4-3
+Spn1439-106	AKFHGGLM_01097	Q97QW6	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Spn1439-106	AKFHGGLM_01098	C1C779	Ribosomal-protein-S5p-alanine acetyltransferase
+Spn1439-106	AKFHGGLM_01099	C1C780	Cytosolic protein containing multiple CBS domains
+Spn1439-106	AKFHGGLM_01100	Q8DPV1	Methionine aminopeptidase
+Spn1439-106	AKFHGGLM_01101	A0A654UAI4	hypothetical protein
+Spn1439-106	AKFHGGLM_01102	C1C782	IS5 family transposase ISSpn7
+Spn1439-106	AKFHGGLM_01103	C1C783	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01104	A0AA95IH04	ATP-dependent DNA helicase PcrA
+Spn1439-106	AKFHGGLM_01105	A0A062WLA7	DNA repair protein RadC
+Spn1439-106	AKFHGGLM_01106	C1C786	Glutamine amidotransferase%2C class I
+Spn1439-106	AKFHGGLM_01107	C1CRJ3	Redox-sensitive transcriptional regulator Rex
+Spn1439-106	AKFHGGLM_01108	Q8CYS1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01109	Q8CYS0	Hypothetical protein
+Spn1439-106	AKFHGGLM_01110	C1CE80	Cysteine desulfurase
+Spn1439-106	AKFHGGLM_01111	P65242	Ribose-phosphate pyrophosphokinase
+Spn1439-106	AKFHGGLM_01112	A0A064C1X1	Adenylate cyclase
+Spn1439-106	AKFHGGLM_01113	Q8DPU2	GTP pyrophosphokinase
+Spn1439-106	AKFHGGLM_01114	B2IQ09	NAD kinase
+Spn1439-106	AKFHGGLM_01115	C1C795	RluD-like protein
+Spn1439-106	AKFHGGLM_01116	C1C796	Phosphate acetyltransferase
+Spn1439-106	AKFHGGLM_01117		SpR14_sRNA
+Spn1439-106	AKFHGGLM_01117		
+Spn1439-106	AKFHGGLM_01118	Q04KI6	Hypothetical protein co-occurring with RecR
+Spn1439-106	AKFHGGLM_01119	A0A0B7M7N6	Hypothetical protein
+Spn1439-106	AKFHGGLM_01120		L21_leader
+Spn1439-106	AKFHGGLM_01121	Q97QU4	LSU ribosomal protein L21p
+Spn1439-106	AKFHGGLM_01122	C1CE93	Putative ribosomal protein
+Spn1439-106	AKFHGGLM_01123	Q04KI2	LSU ribosomal protein L27p
+Spn1439-106	AKFHGGLM_01124	Q8DPT6	Bifunctional FMN adenylyltransferase/riboflavin kinase RibF
+Spn1439-106	AKFHGGLM_01125	C1C7A5	Transporter
+Spn1439-106	AKFHGGLM_01126	C1C7A6	DegV family protein
+Spn1439-106	AKFHGGLM_01127	C1CEA0	DNA-binding protein HlpA
+Spn1439-106	AKFHGGLM_01128	C1C7A8	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01129	C1C7A9	Positive transcriptional regulator%2C MutR family
+Spn1439-106	AKFHGGLM_01130	C1C7B0	Macrolide efflux ABC transporter membrane-spanning permease
+Spn1439-106	AKFHGGLM_01131	C1C7B1	DNA ligase (NAD(+))
+Spn1439-106	AKFHGGLM_01132	C1C7B2	Putative glycogen debranching enzyme
+Spn1439-106	AKFHGGLM_01133	C1C7B3	Glyceraldehyde-3-phosphate dehydrogenase (NADP(+))
+Spn1439-106	AKFHGGLM_01134	C1C7B4	1%2C4-alpha-glucan-branching enzyme GlgB
+Spn1439-106	AKFHGGLM_01135	Q97QS7	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgC
+Spn1439-106	AKFHGGLM_01136	C1C7B6	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgD
+Spn1439-106	AKFHGGLM_01137	C1CRM3	Glycogen biosynthesis ADP-glucose--glucan transglucosylase GlgA
+Spn1439-106	AKFHGGLM_01138	B2IPY3	Phosphoserine phosphatase
+Spn1439-106	AKFHGGLM_01139	A0A6A8VMR9	Glycerate kinase
+Spn1439-106	AKFHGGLM_01140	Q8CYR5	Hypothetical protein
+Spn1439-106	AKFHGGLM_01141	C1CRM6	Enolase
+Spn1439-106	AKFHGGLM_01142	C1C7C2	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_01143	C1C7C3	ATP-dependent nuclease subunit RexB
+Spn1439-106	AKFHGGLM_01144	A0A4J2FWR5	ATP-dependent nuclease subunit RexA
+Spn1439-106	AKFHGGLM_01145	C1C7C5	Hypothetical protein
+Spn1439-106	AKFHGGLM_01146	C1C7C6	IgA1 protease ZmpA
+Spn1439-106	AKFHGGLM_01147	E6Y3U2	Tn5253 hypothetical protein
+Spn1439-106	AKFHGGLM_01148	E6Y3U3	hypothetical protein
+Spn1439-106	AKFHGGLM_01149	E6Y3U4	hypothetical protein
+Spn1439-106	AKFHGGLM_01150	E6Y3U5	hypothetical protein
+Spn1439-106	AKFHGGLM_01151	Q9ZBB5	hypothetical protein
+Spn1439-106	AKFHGGLM_01152	D3GM91	Tn5253 hypothetical protein
+Spn1439-106	AKFHGGLM_01153	E4Z7F0	hypothetical protein
+Spn1439-106	AKFHGGLM_01154	D3GM89	Tn5253 putative CAAX amino terminal protease
+Spn1439-106	AKFHGGLM_01155	E6Y3V0	hypothetical protein
+Spn1439-106	AKFHGGLM_01156	D3GM87	hypothetical protein
+Spn1439-106	AKFHGGLM_01157	D3GM86	hypothetical protein
+Spn1439-106	AKFHGGLM_01158	E8ZCT8	hypothetical protein
+Spn1439-106	AKFHGGLM_01159	E8ZCT7	hypothetical protein
+Spn1439-106	AKFHGGLM_01160	D3GM83	hypothetical protein
+Spn1439-106	AKFHGGLM_01161	E7AJI6	hypothetical protein
+Spn1439-106	AKFHGGLM_01162	E8ZCT4	hypothetical protein
+Spn1439-106	AKFHGGLM_01163	E8ZCT3	hypothetical protein
+Spn1439-106	AKFHGGLM_01164	E8ZCT2	hypothetical protein
+Spn1439-106	AKFHGGLM_01165	B2IQE7	hypothetical protein
+Spn1439-106	AKFHGGLM_01166	B2IQE8	hypothetical protein
+Spn1439-106	AKFHGGLM_01167	B2IQE9	hypothetical protein
+Spn1439-106	AKFHGGLM_01168	B7UTY4	hypothetical protein
+Spn1439-106	AKFHGGLM_01169	B1IC91	hypothetical protein
+Spn1439-106	AKFHGGLM_01170	B2IRY6	hypothetical protein
+Spn1439-106	AKFHGGLM_01171	B2IRY7	hypothetical protein
+Spn1439-106	AKFHGGLM_01172	B2IRY8	hypothetical protein
+Spn1439-106	AKFHGGLM_01173	E8ZCX8	hypothetical protein
+Spn1439-106	AKFHGGLM_01174	B2IRZ0	hypothetical protein
+Spn1439-106	AKFHGGLM_01175	E8ZCR9	hypothetical protein
+Spn1439-106	AKFHGGLM_01176		sRNA_0030
+Spn1439-106	AKFHGGLM_01177	B0RJY0	Translation elongation factor G
+Spn1439-106	AKFHGGLM_01178	B1IC82	hypothetical protein
+Spn1439-106	AKFHGGLM_01179	B7UTW8	hypothetical protein
+Spn1439-106	AKFHGGLM_01180	B2IQG0	hypothetical protein
+Spn1439-106	AKFHGGLM_01181		pemK
+Spn1439-106	AKFHGGLM_01182	P61624	hypothetical protein
+Spn1439-106	AKFHGGLM_01183	B2IS01	Transposase from transposon Tn916
+Spn1439-106	AKFHGGLM_01184	B7UTW2	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01185	B7UTW1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01186	B7UTV9	hypothetical protein
+Spn1439-106	AKFHGGLM_01187	B7UTV8	hypothetical protein
+Spn1439-106	AKFHGGLM_01188	E8ZCQ3	hypothetical protein
+Spn1439-106	AKFHGGLM_01189	E8ZCQ2	hypothetical protein
+Spn1439-106	AKFHGGLM_01190	B6ZCD7	hypothetical protein
+Spn1439-106	AKFHGGLM_01191	E8ZCP9	hypothetical protein
+Spn1439-106	AKFHGGLM_01192	B6ZCD5	hypothetical protein
+Spn1439-106	AKFHGGLM_01193	E7AJH6	hypothetical protein
+Spn1439-106	AKFHGGLM_01194	B6ZCD3	hypothetical protein
+Spn1439-106	AKFHGGLM_01195	E6Y3Z7	Antitoxin PezA
+Spn1439-106	AKFHGGLM_01196	E6Y3Z8	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
+Spn1439-106	AKFHGGLM_01197	E6Y3Z9	hypothetical protein
+Spn1439-106	AKFHGGLM_01198	B6ZCC9	hypothetical protein
+Spn1439-106	AKFHGGLM_01199	B6ZCC8	Chloramphenicol acetyltransferase
+Spn1439-106	AKFHGGLM_01200	E6Y402	hypothetical protein
+Spn1439-106	AKFHGGLM_01201	B2IQC3	hypothetical protein
+Spn1439-106	AKFHGGLM_01202	E6Y406	Neopullulanase
+Spn1439-106	AKFHGGLM_01203	E6Y407	hypothetical protein
+Spn1439-106	AKFHGGLM_01204	C1C755	Antitoxin PezA
+Spn1439-106	AKFHGGLM_01205	A0A4P0AAE0	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
+Spn1439-106	AKFHGGLM_01206	E6Y410	hypothetical protein
+Spn1439-106	AKFHGGLM_01207	E6Y411	DNA polymerase IV
+Spn1439-106	AKFHGGLM_01208	A0A4J2G8W2	hypothetical protein
+Spn1439-106	AKFHGGLM_01209	Q54886	hypothetical protein
+Spn1439-106	AKFHGGLM_01210	Q54885	Tn5252 Orf10 protein
+Spn1439-106	AKFHGGLM_01211	B7UTU9	Tn5252 Orf9 protein
+Spn1439-106	AKFHGGLM_01212	E6Y416	hypothetical protein
+Spn1439-106	AKFHGGLM_01213	Q54881	Putative repressor protein%2C phage associated
+Spn1439-106	AKFHGGLM_01214		pemK
+Spn1439-106	AKFHGGLM_01215	E6Y419	hypothetical protein
+Spn1439-106	AKFHGGLM_01216	E6Y420	Tyrosine recombinase XerC
+Spn1439-106	AKFHGGLM_01217	C1CEC2	50S ribosomal subunit maturation GTPase RbgA
+Spn1439-106	AKFHGGLM_01218	C1C7C8	Ribonuclease HII
+Spn1439-106	AKFHGGLM_01219	C1C7C9	Voltage-gated chloride channel family protein
+Spn1439-106	AKFHGGLM_01220	C1C7D0	Tyrosine recombinase XerS
+Spn1439-106	AKFHGGLM_01221	C1C7D1	Lipoate-protein ligase A
+Spn1439-106	AKFHGGLM_01222	C1C7D2	Dihydrolipoamide dehydrogenase of acetoin dehydrogenase
+Spn1439-106	AKFHGGLM_01223	C1C7D3	Dihydrolipoamide acetyltransferase (E2) component of acetoin dehydrogenase complex
+Spn1439-106	AKFHGGLM_01224	C1C7D4	Acetoin dehydrogenase E1 component beta-subunit
+Spn1439-106	AKFHGGLM_01225	Q8DPQ7	Acetoin dehydrogenase E1 component alpha-subunit
+Spn1439-106	AKFHGGLM_01226	A0A0B7KSQ1	Dihydrolipoamide acetyltransferase
+Spn1439-106	AKFHGGLM_01227	A0A0B7L0U2	Hypothetical protein
+Spn1439-106	AKFHGGLM_01228	C1C7D7	Dihydroorotase
+Spn1439-106	AKFHGGLM_01229	C1CED3	8-oxo-dGTP diphosphatase MutX
+Spn1439-106	AKFHGGLM_01230	C1C7D9	Uracil-DNA glycosylase%2C family 1
+Spn1439-106	AKFHGGLM_01231	A0A4F7K4L7	Hypothetical protein
+Spn1439-106	AKFHGGLM_01232	C1C7E1	2-haloalkanoic acid dehalogenase
+Spn1439-106	AKFHGGLM_01233	C1C7E2	hypothetical protein
+Spn1439-106	AKFHGGLM_01234	C1C7E3	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01235	C1C7E4	hypothetical protein
+Spn1439-106	AKFHGGLM_01236	C1C7E5	Pneumococcal histidine triad protein B
+Spn1439-106	AKFHGGLM_01237	C1C7E6	Pneumococcal histidine triad protein A
+Spn1439-106	AKFHGGLM_01238	A0A0B7LFZ1	Phosphoenolpyruvate-protein phosphotransferase of PTS
+Spn1439-106	AKFHGGLM_01239	Q8DPQ0	Phosphotransferase system%2C phosphocarrier protein HPr
+Spn1439-106	AKFHGGLM_01240	Q8DPP9	Glutaredoxin-like protein NrdH
+Spn1439-106	AKFHGGLM_01241	Q8CWR3	Ribonucleotide reductase of class Ib%2C alpha subunit
+Spn1439-106	AKFHGGLM_01242	Q8DPP8	Ribonucleotide reductase of class Ib%2C beta subunit
+Spn1439-106	AKFHGGLM_01243	C1C7F3	Lactose phosphotransferase system repressor
+Spn1439-106	AKFHGGLM_01244	B2IPU2	6-phospho-beta-galactosidase
+Spn1439-106	AKFHGGLM_01245	C1C7F6	Lactose-specific PTS IIBC components
+Spn1439-106	AKFHGGLM_01246	C1C7F7	Lactose-specific PTS IIA component
+Spn1439-106	AKFHGGLM_01247	C1C7F8	Beta-glucoside bgl operon antiterminator LacT%2C BglG family
+Spn1439-106	AKFHGGLM_01248	C1C7F9	Tagatose 1%2C6-diphosphate aldolase
+Spn1439-106	AKFHGGLM_01249	C1C7G0	Tagatose-6-phosphate kinase LacC
+Spn1439-106	AKFHGGLM_01250	Q8DPP0	Galactose-6-phosphate isomerase%2C LacB subunit
+Spn1439-106	AKFHGGLM_01251	C1C7G2	Galactose-6-phosphate isomerase%2C LacA subunit
+Spn1439-106	AKFHGGLM_01252	C1C7G3	Aldose epimerase
+Spn1439-106	AKFHGGLM_01253	A0A4J2GE91	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01254	A0A4J1TBX8	IS5 family transposase ISSpn7
+Spn1439-106	AKFHGGLM_01255	C1C7G6	Galactose-specific PTS IIB component
+Spn1439-106	AKFHGGLM_01256	C1C7G7	Galactose-specific PTS IIA component
+Spn1439-106	AKFHGGLM_01257	A0A4J2GEB1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01258	A0A0B7KYK3	Translation elongation factor LepA
+Spn1439-106	AKFHGGLM_01259	C1C7H0	Serine/threonine protein phosphatase
+Spn1439-106	AKFHGGLM_01260	C1C7H1	DNA repair protein RecN
+Spn1439-106	AKFHGGLM_01261	C1C7H2	Arginine pathway regulatory protein AhrC
+Spn1439-106	AKFHGGLM_01262	C1C7H3	RNA-binding methyltransferase
+Spn1439-106	AKFHGGLM_01263	C1C7H4	(2E%2C6E)-farnesyl diphosphate synthase
+Spn1439-106	AKFHGGLM_01264	Q04KB1	Exodeoxyribonuclease VII small subunit
+Spn1439-106	AKFHGGLM_01265	C1C7H6	Exodeoxyribonuclease VII large subunit
+Spn1439-106	AKFHGGLM_01266	Q04KA9	Uridine kinase
+Spn1439-106	AKFHGGLM_01267	Q8CYQ8	Hypothetical protein
+Spn1439-106	AKFHGGLM_01268	A0A0B4ZIX7	Hypothetical protein
+Spn1439-106	AKFHGGLM_01269	C1C7H9	tRNA pseudouridine synthase B
+Spn1439-106	AKFHGGLM_01270	C1C7I0	Hypothetical protein
+Spn1439-106	AKFHGGLM_01271	C1C7I1	Cystathionine gamma-synthase
+Spn1439-106	AKFHGGLM_01272	C1C7I2	O-acetyl-L-homoserine sulfhydrylase
+Spn1439-106	AKFHGGLM_01273	C1C7I3	Formate-nitrate transporter
+Spn1439-106	AKFHGGLM_01274	Q8DPM3	Sortase SrtA%2C LPXTG specific
+Spn1439-106	AKFHGGLM_01275	Q3HZH7	DNA gyrase subunit A
+Spn1439-106	AKFHGGLM_01276	C1C7I6	L-lactate dehydrogenase
+Spn1439-106	AKFHGGLM_01277	C1C7I7	hypothetical protein
+Spn1439-106	AKFHGGLM_01278	Q8CYQ7	mRNA interferase RelE2
+Spn1439-106	AKFHGGLM_01279	A0A558SUE3	Replicon stabilization protein RelB2
+Spn1439-106	AKFHGGLM_01280	Q9RCS5	Zn-dependent hydrolase VicX
+Spn1439-106	AKFHGGLM_01281	C1CEI3	Two-component system sensor histidine kinase VicK
+Spn1439-106	AKFHGGLM_01282	Q9S1K0	Two-component system response regulator VicR
+Spn1439-106	AKFHGGLM_01283	Q8DPL6	A/G-specific adenine glycosylase
+Spn1439-106	AKFHGGLM_01284	C1CKW9	Formate--tetrahydrofolate ligase
+Spn1439-106	AKFHGGLM_01285	C1CEI7	Phosphopantothenoylcysteine synthetase
+Spn1439-106	AKFHGGLM_01286	Q8DPL3	Phosphopantothenoylcysteine decarboxylase
+Spn1439-106	AKFHGGLM_01287	Q8DPL2	Substrate-specific component PanT of putative pantothenate ECF transporter
+Spn1439-106	AKFHGGLM_01288	C1CEJ0	Substrate-specific component NiaX of putative niacin ECF transporter
+Spn1439-106	AKFHGGLM_01289	Q8DPL1	Transcriptional repressor of NAD biosynthesis
+Spn1439-106	AKFHGGLM_01290	C1C7K0	hypothetical protein
+Spn1439-106	AKFHGGLM_01291	A0A0H2UQD5	IS66 family transposase Orf1
+Spn1439-106	AKFHGGLM_01292	C1C7K2	IS66 family transposase Orf2
+Spn1439-106	AKFHGGLM_01293	C1C7K3	IS630 family transposase ISSpn2
+Spn1439-106	AKFHGGLM_01294	C1C7K4	IS1167 transposase Orf1
+Spn1439-106	AKFHGGLM_01295		Srn266
+Spn1439-106	AKFHGGLM_01296	A0A4J2G4F7	hypothetical protein
+Spn1439-106	AKFHGGLM_01297	C1C7K5	Adaptive-response sensory-kinase SasA
+Spn1439-106	AKFHGGLM_01298	C1C7K6	Two-component system response regulator
+Spn1439-106	AKFHGGLM_01299	C1C7K7	hypothetical protein
+Spn1439-106	AKFHGGLM_01300	C1C7K8	hypothetical protein
+Spn1439-106	AKFHGGLM_01301	C1C7K9	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01302	C1C7L0	Multidrug resistance ABC transporter ATP-binding and permease protein
+Spn1439-106	AKFHGGLM_01303	C1C7L1	hypothetical protein
+Spn1439-106	AKFHGGLM_01304	C1C7L2	hypothetical protein
+Spn1439-106	AKFHGGLM_01305	C1C7L3	hypothetical protein
+Spn1439-106	AKFHGGLM_01306	C1C7L5	Acetyltransferase
+Spn1439-106	AKFHGGLM_01307	C1C7L6	Acetyltransferase
+Spn1439-106	AKFHGGLM_01308	C1C7L7	Excinuclease ABC subunit B
+Spn1439-106	AKFHGGLM_01309	A0A4J2G897	CAAX amino terminal protease family protein
+Spn1439-106	AKFHGGLM_01310	C1C7L9	Glutamine ABC transporter GlnHP5%2C containing substrate-binding and permease domains
+Spn1439-106	AKFHGGLM_01311	Q8DPK4	Glutamine transport ATP-binding protein GlnQ
+Spn1439-106	AKFHGGLM_01312	C1C7M1	Glucose-6-phosphate 1-dehydrogenase
+Spn1439-106	AKFHGGLM_01313	C1C7M2	Signal recognition particle receptor FtsY
+Spn1439-106	AKFHGGLM_01314	Q8DPK1	Hydrolase%2C HAD superfamily
+Spn1439-106	AKFHGGLM_01315	C1CEK2	Hydrolase%2C HAD superfamily
+Spn1439-106	AKFHGGLM_01316	A0A4J2GA84	Chromosome partition protein SMC
+Spn1439-106	AKFHGGLM_01317	A0A0B7M364	Ribonuclease III
+Spn1439-106	AKFHGGLM_01318		tRNA-Arg(ccg)
+Spn1439-106	AKFHGGLM_01319	Q8DPJ7	GMP reductase
+Spn1439-106	AKFHGGLM_01320	A0A0U0AED0	Hypothetical protein
+Spn1439-106	AKFHGGLM_01321	C1C7M9	Endonuclease
+Spn1439-106	AKFHGGLM_01322	Q8CYQ2	Hypothetical protein
+Spn1439-106	AKFHGGLM_01323	C1C7N3	3-isopropylmalate dehydratase small subunit
+Spn1439-106	AKFHGGLM_01324	C1C7N4	Putative membrane protein
+Spn1439-106	AKFHGGLM_01325	C1C7N5	3-isopropylmalate dehydrogenase
+Spn1439-106	AKFHGGLM_01326	C1C7N6	2-isopropylmalate synthase
+Spn1439-106	AKFHGGLM_01327	C1C7N7	2-isopropylmalate synthase
+Spn1439-106	AKFHGGLM_01328	C1CEL4	Hypothetical protein
+Spn1439-106	AKFHGGLM_01329	C1C7N9	Cytoplasmic copper homeostasis protein CutC
+Spn1439-106	AKFHGGLM_01330	Q8DPJ0	Hypothetical protein related to heme utilization
+Spn1439-106	AKFHGGLM_01331	C1C7P1	DNA topoisomerase I
+Spn1439-106	AKFHGGLM_01332	C1C7P2	Integral membrane protein
+Spn1439-106	AKFHGGLM_01333	C1C7P4	DNA protecting protein DprA
+Spn1439-106	AKFHGGLM_01334	Q93MI4	Cholinephosphate cytidylyltransferase LicC
+Spn1439-106	AKFHGGLM_01335	C1CEM2	Choline permease LicB
+Spn1439-106	AKFHGGLM_01336	C1C7P7	Choline kinase LicA
+Spn1439-106	AKFHGGLM_01337	C1CEM4	Ribulose-5-phosphate reductase
+Spn1439-106	AKFHGGLM_01338	A0A064BWJ5	Ribitol-5-phosphate cytidylyltransferase
+Spn1439-106	AKFHGGLM_01339	C1C7Q0	Membrane protein TacF involved in the export of O-antigen and teichoic acid
+Spn1439-106	AKFHGGLM_01340	C1C7Q1	Lipopolysaccharide cholinephosphotransferase LicD1
+Spn1439-106	AKFHGGLM_01341	C1C7Q2	Lipopolysaccharide cholinephosphotransferase LicD2
+Spn1439-106	AKFHGGLM_01342	C1C7Q3	Carbamoyl-phosphate synthase large chain CarB
+Spn1439-106	AKFHGGLM_01343	A0A064BWJ2	Carbamoyl-phosphate synthase small chain CarA
+Spn1439-106	AKFHGGLM_01344	C1C7Q5	Aspartate carbamoyltransferase
+Spn1439-106	AKFHGGLM_01345	Q04K45	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
+Spn1439-106	AKFHGGLM_01346		PyrR
+Spn1439-106	AKFHGGLM_01347	Q8DPH8	Endonuclease III
+Spn1439-106	AKFHGGLM_01348	C1C7Q8	Protein%2C clustered with ribosomal protein L32p
+Spn1439-106	AKFHGGLM_01349	C1C7Q9	BlpT protein
+Spn1439-106	AKFHGGLM_01350		SpF43_sRNA
+Spn1439-106	AKFHGGLM_01351	C1C7R0	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01352	C1C7R1	IS1167 transposase Orf2
+Spn1439-106	AKFHGGLM_01353	C1C7R2	IS1167 transposase
+Spn1439-106	AKFHGGLM_01354		Srn266
+Spn1439-106	AKFHGGLM_01355	C1CEN8	Heat shock protein HtpX
+Spn1439-106	AKFHGGLM_01356	C1C7R4	LemA
+Spn1439-106	AKFHGGLM_01357	Q97QD4	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+Spn1439-106	AKFHGGLM_01358		SpF44_sRNA
+Spn1439-106	AKFHGGLM_01359	C1C7R6	Uracil permease
+Spn1439-106	AKFHGGLM_01360	C1C7R7	Signal recognition particle protein Ffh
+Spn1439-106	AKFHGGLM_01361	C1C7R8	Signal recognition particle associated protein
+Spn1439-106	AKFHGGLM_01362	C1C7R9	Hypothetical protein
+Spn1439-106	AKFHGGLM_01363	C1C7S0	dNTP triphosphohydrolase
+Spn1439-106	AKFHGGLM_01364	C1C7S1	Sugar phosphatase YidA
+Spn1439-106	AKFHGGLM_01365		tRNA-Arg(cct)
+Spn1439-106	AKFHGGLM_01366	Q97QC6	LSU ribosomal protein L19p
+Spn1439-106	AKFHGGLM_01367	C1C7S3	ClC-type fluoride channel
+Spn1439-106	AKFHGGLM_01368	C1C7S4	ClC-type fluoride channel
+Spn1439-106	AKFHGGLM_01369	C1C7S5	Chorismate mutase I
+Spn1439-106	AKFHGGLM_01370	C1CEQ2	Flavodoxin
+Spn1439-106	AKFHGGLM_01371	C1C7S7	DHH family phosphoesterase Pde2
+Spn1439-106	AKFHGGLM_01372	A0AA87CAZ5	LSU ribosomal protein L31p
+Spn1439-106	AKFHGGLM_01373	C1C7S9	Ferrous iron transport permease EfeU
+Spn1439-106	AKFHGGLM_01374	A0A4K8XC10	IS630 family transposase ISSpn2
+Spn1439-106	AKFHGGLM_01375	C1C7T0	IS630 family transposase ISSpn2
+Spn1439-106	AKFHGGLM_01376	C1CEQ8	NADP-specific glutamate dehydrogenase
+Spn1439-106	AKFHGGLM_01377	Q8CYP4	Hypothetical protein
+Spn1439-106	AKFHGGLM_01378	C1C7T3	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01379		SpF25_sRNA
+Spn1439-106	AKFHGGLM_01380	C1C7T4	hypothetical protein
+Spn1439-106	AKFHGGLM_01381	C1C7T5	N-acetylmannosamine kinase
+Spn1439-106	AKFHGGLM_01382	A0A4M3K394	4-hydroxy-tetrahydrodipicolinate synthase
+Spn1439-106	AKFHGGLM_01383	A0A6G2DLZ8	hypothetical protein
+Spn1439-106	AKFHGGLM_01384	Q8DPF7	Cytidine deaminase
+Spn1439-106	AKFHGGLM_01385	Q8DPF6	Phosphatidylglycerophosphatase
+Spn1439-106	AKFHGGLM_01386	Q8CYP1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01387	Q8DPF5	Oligopeptide transport ATP-binding protein
+Spn1439-106	AKFHGGLM_01388	C1C7U1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01389	C1C7U2	Hypothetical protein
+Spn1439-106	AKFHGGLM_01390	C1C7U3	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01391	C1C7U4	ABC transporter ATP-binding/membrane spanning protein
+Spn1439-106	AKFHGGLM_01392	C1C7U5	Protease II
+Spn1439-106	AKFHGGLM_01393	C1C7U6	Lanthionine biosynthesis protein LanL
+Spn1439-106	AKFHGGLM_01394	C1C7U1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01395	C1C7U8	Tn5253 putative CAAX amino terminal protease
+Spn1439-106	AKFHGGLM_01396	E7AJJ3	hypothetical protein
+Spn1439-106	AKFHGGLM_01397	C1C7V0	Tn5253 hypothetical protein
+Spn1439-106	AKFHGGLM_01398	A0A0I7T0S0	hypothetical protein
+Spn1439-106	AKFHGGLM_01399	A0A098ANF2	hypothetical protein
+Spn1439-106	AKFHGGLM_01400		rli38
+Spn1439-106	AKFHGGLM_01401	Q04JZ4	LSU ribosomal protein L7/L12 (P1/P2)
+Spn1439-106	AKFHGGLM_01402	A0AA95IIQ5	LSU ribosomal protein L10p (P0)
+Spn1439-106	AKFHGGLM_01403		L10_leader
+Spn1439-106	AKFHGGLM_01404	A0A4J2G0A4	Methylthioadenosine deaminase
+Spn1439-106	AKFHGGLM_01405	C1C7V8	ABC transporter ATP-binding/permease protein
+Spn1439-106	AKFHGGLM_01406	C1C7V9	ABC transporter ATP-binding/permease protein
+Spn1439-106	AKFHGGLM_01407	A0A0B7L4L0	Peptide methionine sulfoxide reductase MsrAB1
+Spn1439-106	AKFHGGLM_01408	Q04JY7	Homoserine kinase
+Spn1439-106	AKFHGGLM_01409	C1C7W2	Homoserine dehydrogenase
+Spn1439-106	AKFHGGLM_01410	C1C7W3	Adaptor protein MecA
+Spn1439-106	AKFHGGLM_01411	C1C7W4	TarQ
+Spn1439-106	AKFHGGLM_01412	Q8CYN0	Teichoic acid ribitol polymerase
+Spn1439-106	AKFHGGLM_01413	C1C7W6	Glycosyltransferase%2C group 2 family
+Spn1439-106	AKFHGGLM_01414	A0A4J2FU54	Glycosyltransferase%2C group 1 family
+Spn1439-106	AKFHGGLM_01415	C1C7W8	Lipopolysaccharide cholinephosphotransferase LicD3
+Spn1439-106	AKFHGGLM_01416	Q8DPD6	LytR-CpsA-Psr subfamily F1 cell envelope-associated transcriptional attenuator
+Spn1439-106	AKFHGGLM_01417	C1C7X0	Prephenate dehydratase
+Spn1439-106	AKFHGGLM_01418	C1CEV9	Shikimate kinase I
+Spn1439-106	AKFHGGLM_01419	C1CL80	5-Enolpyruvylshikimate-3-phosphate synthase
+Spn1439-106	AKFHGGLM_01420	C1CL81	Transcriptional regulator
+Spn1439-106	AKFHGGLM_01421	C1CEW2	Prephenate dehydrogenase
+Spn1439-106	AKFHGGLM_01422	C1CL83	Chorismate synthase
+Spn1439-106	AKFHGGLM_01423	Q3I071	3-dehydroquinate synthase
+Spn1439-106	AKFHGGLM_01424	C1C7X7	Shikimate/quinate 5-dehydrogenase I beta
+Spn1439-106	AKFHGGLM_01425	Q04JX0	3-dehydroquinate dehydratase I
+Spn1439-106	AKFHGGLM_01426	C1C7X9	Putative ribosomal RNA large subunit methyltransferase YwbD
+Spn1439-106	AKFHGGLM_01427	C1CEW8	ABC transporter permease
+Spn1439-106	AKFHGGLM_01428	C1C7Y1	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01429	C1C7Y2	Cytoplasmic alpha-amylase
+Spn1439-106	AKFHGGLM_01430	A0A4N7NRN6	Alanyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_01431	C1C7Y4	Hypothetical protein
+Spn1439-106	AKFHGGLM_01432	A0A0B7M5K7	Spermidine/putrescine import ABC transporter substrate-binding protein PotD
+Spn1439-106	AKFHGGLM_01433	A0AA95D8C2	Spermidine/putrescine import ABC transporter permease protein PotC
+Spn1439-106	AKFHGGLM_01434	B2IQK4	Spermidine/putrescine import ABC transporter permease protein PotB
+Spn1439-106	AKFHGGLM_01435	Q04JW0	Spermidine/putrescine import ABC transporter ATP-binding protein PotA
+Spn1439-106	AKFHGGLM_01436	A0AAE9TY41	UDP-N-acetylenolpyruvoylglucosamine reductase
+Spn1439-106	AKFHGGLM_01437	A0A4J2FTK1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01438	A0A0B7M026	Hypothetical protein
+Spn1439-106	AKFHGGLM_01439	C1C7Z1	Alpha-acetolactate decarboxylase
+Spn1439-106	AKFHGGLM_01440	C1C7Z2	Putative transcriptional regulator of pyridoxine metabolism
+Spn1439-106	AKFHGGLM_01441	C1C7Z3	Amino acid ABC transporter amino acid-binding/permease protein
+Spn1439-106	AKFHGGLM_01442	Q8DPB6	Phosphate transport system regulatory protein PhoU2
+Spn1439-106	AKFHGGLM_01443	C1CEY4	Phosphate transport ATP-binding protein PstB2_2
+Spn1439-106	AKFHGGLM_01444	C1CEY5	Phosphate transport ATP-binding protein PstB2_1
+Spn1439-106	AKFHGGLM_01445	Q8DPB3	Phosphate transport system permease protein PstA2
+Spn1439-106	AKFHGGLM_01446	Q8DPB2	Phosphate transport system permease protein PstC2
+Spn1439-106	AKFHGGLM_01447	Q97Q31	Phosphate ABC transporter periplasmic phosphate-binding protein PstS2
+Spn1439-106	AKFHGGLM_01448	A0A0B7MDL7	Hypothetical protein
+Spn1439-106	AKFHGGLM_01449	C1C801	tRNA and rRNA cytosine-C5-methylase
+Spn1439-106	AKFHGGLM_01450	C1C802	Inositol-1-monophosphatase
+Spn1439-106	AKFHGGLM_01451	Q04JU6	Hypothetical protein
+Spn1439-106	AKFHGGLM_01452	Q97Q26	Transcriptional regulator SpxA1
+Spn1439-106	AKFHGGLM_01453	C1C805	Integral membrane protein
+Spn1439-106	AKFHGGLM_01454	C1C806	Putative NagD-like phosphatase
+Spn1439-106	AKFHGGLM_01455	C1C807	Acyl-ACP thioesterase
+Spn1439-106	AKFHGGLM_01456	Q8DPA6	Putative radical SAM family enzyme
+Spn1439-106	AKFHGGLM_01457	C1CEZ8	Hypothetical protein
+Spn1439-106	AKFHGGLM_01458	Q8DPA4	General stress protein
+Spn1439-106	AKFHGGLM_01459	C1CF00	Prolipoprotein diacylglyceryl transferase
+Spn1439-106	AKFHGGLM_01460	A0A229FYZ7	HPr kinase/phosphorylase
+Spn1439-106	AKFHGGLM_01461	B2IQN3	SSU ribosomal protein S21p
+Spn1439-106	AKFHGGLM_01462	Q8DPA1	Glucosamine-6-phosphate deaminase
+Spn1439-106	AKFHGGLM_01463	C1C815	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Spn1439-106	AKFHGGLM_01464	A0A4N5NE36	Choline-binding protein CbpM
+Spn1439-106	AKFHGGLM_01465	A0A0B7L6F0	Hypothetical protein
+Spn1439-106	AKFHGGLM_01466	C1C817	Acetyltransferase%2C GNAT family
+Spn1439-106	AKFHGGLM_01467	C1C818	NAD synthetase
+Spn1439-106	AKFHGGLM_01468	C1C819	Nicotinate phosphoribosyltransferase
+Spn1439-106	AKFHGGLM_01469	Q8CYM4	Hypothetical protein
+Spn1439-106	AKFHGGLM_01470	C1C821	Transcriptional repressor
+Spn1439-106	AKFHGGLM_01471	C1C822	Hypothetical protein
+Spn1439-106	AKFHGGLM_01472	A0A4J2FT52	Multidrug efflux ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01473	A0AAD2I689	Peptidase%2C U32 family large subunit (C1)
+Spn1439-106	AKFHGGLM_01474	A0A0E8T183	hypothetical protein
+Spn1439-106	AKFHGGLM_01475	A0A4J2FZH1	Peptidase%2C U32 family large subunit (C1)
+Spn1439-106	AKFHGGLM_01476	Q8DP93	hypothetical protein
+Spn1439-106	AKFHGGLM_01477	Q8DP92	hypothetical protein
+Spn1439-106	AKFHGGLM_01478	Q8RT72	Type II restriction-modification system methyltransferase
+Spn1439-106	AKFHGGLM_01479	Q8CYM0	Transcriptional regulator%2C AraC family
+Spn1439-106	AKFHGGLM_01480	C1C835	ABC transporter ATP-binding/permease protein
+Spn1439-106	AKFHGGLM_01481	C1C836	ABC transporter ATP-binding/permease protein
+Spn1439-106	AKFHGGLM_01482	C1C837	Substrate-specific component of putative ECF transporter
+Spn1439-106	AKFHGGLM_01483	C1C838	Transmembrane component of energizing module of putative ECF transporter
+Spn1439-106	AKFHGGLM_01484	C1C839	Duplicated ATPase component of energizing module of putative ECF transporter
+Spn1439-106	AKFHGGLM_01485	A0A4J2FZD1	hypothetical protein
+Spn1439-106	AKFHGGLM_01486	A0A4H5ARH2	hypothetical protein
+Spn1439-106	AKFHGGLM_01487	C1C840	IS66 family transposase Orf2
+Spn1439-106	AKFHGGLM_01488	C1C841	IS66 family transposase Orf1
+Spn1439-106	AKFHGGLM_01489		SpR18_sRNA
+Spn1439-106	AKFHGGLM_01490	Q04JQ8	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
+Spn1439-106	AKFHGGLM_01491	C1C843	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
+Spn1439-106	AKFHGGLM_01492	C1C844	Drug/metabolite transporter superfamily protein
+Spn1439-106	AKFHGGLM_01493	C1CF32	Beta-lactamase%2C class C
+Spn1439-106	AKFHGGLM_01494	C1C846	C3-degrading proteinase
+Spn1439-106	AKFHGGLM_01495	C1C847	Bifunctional N-acetylneuraminate cytidylyltransferase/platelet activating factor
+Spn1439-106	AKFHGGLM_01496	C1C848	HAD superfamily hydrolase
+Spn1439-106	AKFHGGLM_01497	A0A0D6J814	hypothetical protein
+Spn1439-106	AKFHGGLM_01498	Q8CYL2	Capsule biosynthesis protein CapA
+Spn1439-106	AKFHGGLM_01499	Q04JP7	Peptide deformylase
+Spn1439-106	AKFHGGLM_01500	C1C852	23S rRNA (guanosine(2251)-2'-O)-methyltransferase
+Spn1439-106	AKFHGGLM_01501	C1CF40	Thioredoxin reductase
+Spn1439-106	AKFHGGLM_01502	C1CF41	Hypothetical protein
+Spn1439-106	AKFHGGLM_01503	Q8DP77	Cysteine ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01504	Q8DP76	Cysteine ABC transporter permease protein
+Spn1439-106	AKFHGGLM_01505	Q8DP75	Arsenate reductase
+Spn1439-106	AKFHGGLM_01506	C1C858	Methylated-DNA--protein-cysteine methyltransferase
+Spn1439-106	AKFHGGLM_01507	C1CF46	Acetyltransferase
+Spn1439-106	AKFHGGLM_01508	Q8CYK8	Hypothetical protein
+Spn1439-106	AKFHGGLM_01509	C1C861	Hemolysin III
+Spn1439-106	AKFHGGLM_01510	Q97PX3	Pyridoxal 5'-phosphate synthase%2C glutaminase subunit PdxT
+Spn1439-106	AKFHGGLM_01511	Q97PX2	Pyridoxal 5'-phosphate synthase%2C synthase subunit PdxS
+Spn1439-106	AKFHGGLM_01512	C1C864	NADH peroxidase
+Spn1439-106	AKFHGGLM_01513	C1C866	Putative thiamin biosynthesis lipoprotein
+Spn1439-106	AKFHGGLM_01514	C1C867	Fumarate reductase%2C flavoprotein subunit precursor
+Spn1439-106	AKFHGGLM_01515	C1C868	Fumarate reductase%2C flavoprotein subunit precursor
+Spn1439-106	AKFHGGLM_01516	Q8DP67	Hypothetical protein
+Spn1439-106	AKFHGGLM_01517	C1C870	Glycyl-tRNA synthetase beta chain
+Spn1439-106	AKFHGGLM_01518	C1CQP3	Glycyl-tRNA synthetase alpha chain
+Spn1439-106	AKFHGGLM_01519	C1C872	hypothetical protein
+Spn1439-106	AKFHGGLM_01520		SpR19_sRNA
+Spn1439-106	AKFHGGLM_01521	B2IQU4	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
+Spn1439-106	AKFHGGLM_01522	B2IQU5	Peptidoglycan N-acetylglucosamine deacetylase
+Spn1439-106	AKFHGGLM_01523	C1CF62	hypothetical protein
+Spn1439-106	AKFHGGLM_01524	C1C876	Oxidoreductase%2C Gfo/Idh/MocA family
+Spn1439-106	AKFHGGLM_01525	C1C877	ATP-dependent RNA helicase YfmL
+Spn1439-106	AKFHGGLM_01526	C1C878	IS630 family transposase ISSpn2
+Spn1439-106	AKFHGGLM_01527	C1C879	IS630 family transposase ISSpn2
+Spn1439-106	AKFHGGLM_01528	A0A4J1TXJ2	Mobile element protein
+Spn1439-106	AKFHGGLM_01529	B2IQV2	Translation elongation factor Tu
+Spn1439-106	AKFHGGLM_01530	A0AA44MQQ7	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01531	A0A4J2A6U9	IS5 family transposase IS1515
+Spn1439-106	AKFHGGLM_01532	C1C884	Major intrinsic protein family aquaporin
+Spn1439-106	AKFHGGLM_01533	C1C885	Cell wall surface anchor family protein MucB
+Spn1439-106	AKFHGGLM_01534	C1C886	Hypothetical protein
+Spn1439-106	AKFHGGLM_01535	C1C887	Hypothetical protein
+Spn1439-106	AKFHGGLM_01536	C1C888	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_01537	C1C890	Phosphoglucomutase
+Spn1439-106	AKFHGGLM_01538	Q8DP51	Bacterocin transport accessory protein
+Spn1439-106	AKFHGGLM_01539	Q8DP50	Glutamine ABC transporter substrate-binding protein GlnH6
+Spn1439-106	AKFHGGLM_01540	C1C893	Glutamine ABC transporter ATP-binding protein GlnQ6
+Spn1439-106	AKFHGGLM_01541	C1CF86	Glutamine ABC transporter permease GlnP6
+Spn1439-106	AKFHGGLM_01542	C1C895	TPR-repeat-containing protein
+Spn1439-106	AKFHGGLM_01543	Q8DP46	Hypothetical protein
+Spn1439-106	AKFHGGLM_01544	Q8DP45	6-phosphogluconolactonase
+Spn1439-106	AKFHGGLM_01545	Q04N64	ATP synthase F1 sector epsilon chain
+Spn1439-106	AKFHGGLM_01546	C1CLK6	ATP synthase F1 sector beta chain
+Spn1439-106	AKFHGGLM_01547	C1CSC9	ATP synthase F1 sector gamma chain
+Spn1439-106	AKFHGGLM_01548	C1CF95	ATP synthase F1 sector alpha chain
+Spn1439-106	AKFHGGLM_01549	Q04HT6	ATP synthase F1 sector delta chain
+Spn1439-106	AKFHGGLM_01550	Q04HT5	ATP synthase F0 sector subunit b
+Spn1439-106	AKFHGGLM_01551	Q6Y861	ATP synthase F0 sector subunit a
+Spn1439-106	AKFHGGLM_01552	Q79RW7	ATP synthase F0 sector subunit c
+Spn1439-106	AKFHGGLM_01553	A0A4J2E7H5	hypothetical protein
+Spn1439-106	AKFHGGLM_01554	Q8CYJ9	Acetyltransferase
+Spn1439-106	AKFHGGLM_01555	C1C8A7	Hypothetical protein
+Spn1439-106	AKFHGGLM_01556	Q8DP42	Transcription elongation factor GreA
+Spn1439-106	AKFHGGLM_01557	C1C8A9	Endolytic murein transglycosylase MltG
+Spn1439-106	AKFHGGLM_01558	Q8DP41	Acetyltransferase%2C GNAT family
+Spn1439-106	AKFHGGLM_01559	Q8CYJ7	hypothetical protein
+Spn1439-106	AKFHGGLM_01560	A0AA86X9E6	UDP-N-acetylmuramate--alanine ligase
+Spn1439-106	AKFHGGLM_01561	C1CFA6	Hypothetical protein
+Spn1439-106	AKFHGGLM_01562	A0A4J2GC01	SWF/SNF family helicase
+Spn1439-106	AKFHGGLM_01563	C1C8B5	Bifunctional PLP-dependent beta-cystathionase/maltose regulon repressor
+Spn1439-106	AKFHGGLM_01564	C1C8B6	Cystathionine gamma-synthase
+Spn1439-106	AKFHGGLM_01565	A0A4J2GEV1	ABC transporter%2C ATP-binding/permease protein
+Spn1439-106	AKFHGGLM_01566	A0A0T8EML3	Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+Spn1439-106	AKFHGGLM_01567	P0A4G1	Oligopeptide ABC transporter oligopeptide-binding protein AliB
+Spn1439-106	AKFHGGLM_01568	C1C8B8	Putative cell division protein YtgP
+Spn1439-106	AKFHGGLM_01569	C1C8B9	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+Spn1439-106	AKFHGGLM_01570	C1C8C0	Hypothetical protein
+Spn1439-106	AKFHGGLM_01571	C1C8C1	hypothetical protein
+Spn1439-106	AKFHGGLM_01572	Q8CYJ2	Glutamate synthase [NADPH] large chain
+Spn1439-106	AKFHGGLM_01573	Q04JL5	Manganese-dependent inorganic pyrophosphatase
+Spn1439-106	AKFHGGLM_01574	Q97PR7	Putative endonuclease
+Spn1439-106	AKFHGGLM_01575	C1C8C5	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase
+Spn1439-106	AKFHGGLM_01576	Q8DP29	General stress protein 13
+Spn1439-106	AKFHGGLM_01577	C1CFB9	Bifunctional lipoprotein rotamase A/peptidyl-prolyl cis-trans isomerase
+Spn1439-106	AKFHGGLM_01578	Q04JL0	SSU ribosomal protein S18p
+Spn1439-106	AKFHGGLM_01579	P66855	Single-stranded DNA-binding protein
+Spn1439-106	AKFHGGLM_01580	Q04JK8	SSU ribosomal protein S6p
+Spn1439-106	AKFHGGLM_01581	C1CFC3	Asparaginyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_01582	A0A4J2DJA4	Putative lactoylglutathione lyase
+Spn1439-106	AKFHGGLM_01583	A0A0B7LNH4	Aspartate aminotransferase
+Spn1439-106	AKFHGGLM_01584	A0A098ZCY9	Hypothetical protein
+Spn1439-106	AKFHGGLM_01585	C1C8D6	Hypothetical protein
+Spn1439-106	AKFHGGLM_01586	A0A4J2GCD2	Pneumococcal collagen-like protein PclA
+Spn1439-106	AKFHGGLM_01587	A0A237JXZ2	M protein trans-acting positive regulator Mga1
+Spn1439-106	AKFHGGLM_01588	Q8DP23	hypothetical protein
+Spn1439-106	AKFHGGLM_01589	Q8CYI7	Hypothetical protein
+Spn1439-106	AKFHGGLM_01590		SpR20_sRNA
+Spn1439-106	AKFHGGLM_01591	A0AA44MQQ7	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01592	A0A4J2A6U9	IS5 family transposase IS1515
+Spn1439-106	AKFHGGLM_01593	A0A0B7M1N9	Cell shape-determining protein
+Spn1439-106	AKFHGGLM_01594	A0A0U0ANN2	Peptide deformylase
+Spn1439-106	AKFHGGLM_01595	A0A4N7S1V2	Glutathione S-transferase
+Spn1439-106	AKFHGGLM_01596	A0A4J2GGE9	Calcium-transporting ATPase
+Spn1439-106	AKFHGGLM_01597		SSRC10
+Spn1439-106	AKFHGGLM_01598	C1CFD7	Cobalt-zinc-cadmium resistance protein
+Spn1439-106	AKFHGGLM_01599	A0A0E8A9T1	ATPase component of ABC transporter with duplicated ATPase domains
+Spn1439-106	AKFHGGLM_01600	Q97PP9	CCA tRNA nucleotidyltransferase
+Spn1439-106	AKFHGGLM_01601	Q04JJ1	4-hydroxy-tetrahydrodipicolinate reductase
+Spn1439-106	AKFHGGLM_01602	A0A0T8QKT9	DegV family protein
+Spn1439-106	AKFHGGLM_01603	B2IR77	Hypothetical protein
+Spn1439-106	AKFHGGLM_01604	C1CSI0	Phosphoglucosamine mutase
+Spn1439-106	AKFHGGLM_01605	Q8DP15	Hypothetical protein
+Spn1439-106	AKFHGGLM_01606	Q8DP14	Bacterial checkpoint controller DisA
+Spn1439-106	AKFHGGLM_01607	B1ICY3	Thioredoxin reductase
+Spn1439-106	AKFHGGLM_01608	Q8DP12	Putative cytoplasmic protein
+Spn1439-106	AKFHGGLM_01609	A0A6G2DM05	LPPG:FO 2-phospho-L-lactate transferase-like protein
+Spn1439-106	AKFHGGLM_01610	A0AAD2I8N6	Putative P-loop-containing kinase
+Spn1439-106	AKFHGGLM_01611	Q8DP09	RidA/YER057c/UK114 superfamily protein
+Spn1439-106	AKFHGGLM_01612	Q04JI0	GTP-binding protein EngB
+Spn1439-106	AKFHGGLM_01613	Q04JH9	ATP-dependent Clp protease ATP-binding subunit ClpX
+Spn1439-106	AKFHGGLM_01614	Q8CYI3	Hypothetical protein
+Spn1439-106	AKFHGGLM_01615	Q9F6Y5	Dihydrofolate reductase
+Spn1439-106	AKFHGGLM_01616	A0A264SLW6	Bifunctional non-specific DNA-binding protein/ferroxidase Dpr
+Spn1439-106	AKFHGGLM_01617	A0A0H2XFA2	1%2C4-beta-N-acetylmuramidase%2C lyzozyme LytC
+Spn1439-106	AKFHGGLM_01618	Q04JH4	Triosephosphate isomerase
+Spn1439-106	AKFHGGLM_01619	C1C8G6	Chromosome replication initiation protein DnaD
+Spn1439-106	AKFHGGLM_01620	Q8DP05	Homoserine O-succinyltransferase
+Spn1439-106	AKFHGGLM_01621	C1CFG1	Adenine phosphoribosyltransferase
+Spn1439-106	AKFHGGLM_01622	B1ICZ8	SAM-dependent methyltransferase
+Spn1439-106	AKFHGGLM_01623	Q8DP03	Multiple sugar ABC transporter%2C ATP-binding protein
+Spn1439-106	AKFHGGLM_01624		tRNA-Leu(aag)
+Spn1439-106	AKFHGGLM_01625	Q8DP02	Nicotinamidase
+Spn1439-106	AKFHGGLM_01626	C1CSK2	GTP-sensing transcriptional pleiotropic repressor CodY
+Spn1439-106	AKFHGGLM_01627	C1C8H4	DEAD-box ATP-dependent RNA helicase CshA
+Spn1439-106	AKFHGGLM_01628	C1C8H5	Major facilitator oxalate:formate antiporter
+Spn1439-106	AKFHGGLM_01629	A0AA44MQQ7	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01630	A0A4J2A6U9	IS5 family transposase IS1515
+Spn1439-106	AKFHGGLM_01631	C1C8H8	Major facilitator oxalate:formate antiporter
+Spn1439-106	AKFHGGLM_01632	C1C8H9	Pyridine nucleotide-disulfide oxidoreductase
+Spn1439-106	AKFHGGLM_01633	C1C8I0	Mur ligase family protein
+Spn1439-106	AKFHGGLM_01634	C1CFH1	Putative amidotransferase similar to cobyric acid synthase
+Spn1439-106	AKFHGGLM_01635	C1CFH2	Xaa-Pro dipeptidase
+Spn1439-106	AKFHGGLM_01636	C1C8I3	IS3 family transposase ISSpn11
+Spn1439-106	AKFHGGLM_01637	A0AAD2IK19	hypothetical protein
+Spn1439-106	AKFHGGLM_01638	C1C8I5	Substrate-specific component PdxU2 of putative pyridoxin-related ECF transporter
+Spn1439-106	AKFHGGLM_01639	C1C8I6	Pyridoxal kinase%2C thiD family
+Spn1439-106	AKFHGGLM_01640	Q97PL0	tRNA pseudouridine synthase A
+Spn1439-106	AKFHGGLM_01641	Q8DNZ1	Major facilitator superfamily transporter-permease
+Spn1439-106	AKFHGGLM_01642	Q8CYI1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01643	C1C8J1	Protein PhnA
+Spn1439-106	AKFHGGLM_01644	A0A4J2GJC3	Cytidylate kinase
+Spn1439-106	AKFHGGLM_01645	C1C8J3	Hypothetical protein
+Spn1439-106	AKFHGGLM_01646	C1CFI7	Ferredoxin
+Spn1439-106	AKFHGGLM_01647	C1C8J5	Bactoprenol glucosyl transferase
+Spn1439-106	AKFHGGLM_01648	C1CFI9	UDP-glucose 4-epimerase
+Spn1439-106	AKFHGGLM_01649	C1C8J7	Hypothetical protein
+Spn1439-106	AKFHGGLM_01650	C1C8J8	Glycine/D-amino acid oxidases family protein
+Spn1439-106	AKFHGGLM_01651	C1C8J9	Putative GTP cyclohydrolase 1 type 2 protein YbgI
+Spn1439-106	AKFHGGLM_01652	C1CFJ3	tRNA (adenine(22)-N(1))-methyltransferase
+Spn1439-106	AKFHGGLM_01653	B2IRC6	hypothetical protein
+Spn1439-106	AKFHGGLM_01654	C1C8K1	Lanthionine biosynthesis protein LanL
+Spn1439-106	AKFHGGLM_01655	A0A4J2GK44	IS3 family transposase ISSpn4
+Spn1439-106	AKFHGGLM_01656	C1C8K3	IS3 family transposase ISSpn11
+Spn1439-106	AKFHGGLM_01657	C1C8K4	hypothetical protein
+Spn1439-106	AKFHGGLM_01658	C1C8K5	IS3 family transposase ISSpn11
+Spn1439-106	AKFHGGLM_01659	C1C8K6	Transketolase
+Spn1439-106	AKFHGGLM_01660	C1C8K7	Ribulose-phosphate 3-epimerase
+Spn1439-106	AKFHGGLM_01661	C1C8K8	Fructose-specific PTS IIABC components
+Spn1439-106	AKFHGGLM_01662	C1C8K9	Fructose-specific PTS IIABC components
+Spn1439-106	AKFHGGLM_01663	C1C8L0	Fructose-specific PTS IIABC components
+Spn1439-106	AKFHGGLM_01664	B1I6Z5	hypothetical protein
+Spn1439-106	AKFHGGLM_01665	C1C8L2	Transcriptional antiterminator of lichenan operon%2C BglG family
+Spn1439-106	AKFHGGLM_01666	C1C8L3	Cadmium-transporting ATPase
+Spn1439-106	AKFHGGLM_01667	B2IRD2	Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase
+Spn1439-106	AKFHGGLM_01668	Q8DNY0	Cadmium resistance protein CadD
+Spn1439-106	AKFHGGLM_01669	Q97PI9	SSU ribosomal protein S15p (S13e)
+Spn1439-106	AKFHGGLM_01670	C1C8L7	Rrf2-linked NADH-flavin reductase
+Spn1439-106	AKFHGGLM_01671	Q8CYH9	Hypothetical protein
+Spn1439-106	AKFHGGLM_01672	Q8CYH8	hypothetical protein
+Spn1439-106	AKFHGGLM_01673	Q8CYH7	hypothetical protein
+Spn1439-106	AKFHGGLM_01674	C1CSP6	Threonyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_01675	C1C8M2	Two-component system sensor histidine kinase
+Spn1439-106	AKFHGGLM_01676	C1CFK2	Two-component system response regulator
+Spn1439-106	AKFHGGLM_01677	C1C8M4	Esterase/lipase
+Spn1439-106	AKFHGGLM_01678	C1C8M5	Hypothetical protein
+Spn1439-106	AKFHGGLM_01679	Q8DNX5	Rrf2 family transcriptional regulator%2C group III
+Spn1439-106	AKFHGGLM_01680	A0A6A8VMJ1	Putative diadenosine tetraphosphatase
+Spn1439-106	AKFHGGLM_01681	C1C8M8	Mn-dependent transcriptional regulator MntR
+Spn1439-106	AKFHGGLM_01682	C1C8N0	hypothetical protein
+Spn1439-106	AKFHGGLM_01683	C1C8N2	Hypothetical protein
+Spn1439-106	AKFHGGLM_01684	Q8DNX2	D-tyrosyl-tRNA(Tyr) deacylase
+Spn1439-106	AKFHGGLM_01685	C1CFL5	Bifunctional guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase/(p)ppGpp synthetase II
+Spn1439-106	AKFHGGLM_01686	A0A916L487	hypothetical protein
+Spn1439-106	AKFHGGLM_01687	A0AA44S635	Hydroxyacylglutathione hydrolase
+Spn1439-106	AKFHGGLM_01688	C1C8N7	Neutral endopeptidase O
+Spn1439-106	AKFHGGLM_01689	B2IRQ4	Manganese ABC transporter%2C ATP-binding protein PsaB
+Spn1439-106	AKFHGGLM_01690	C1CFM0	Manganese ABC transporter%2C inner membrane permease protein PsaC
+Spn1439-106	AKFHGGLM_01691	D2CTJ2	Manganese ABC transporter%2C periplasmic-binding protein PsaA
+Spn1439-106	AKFHGGLM_01692	C1C8P1	Thiol peroxidase%2C Tpx-type
+Spn1439-106	AKFHGGLM_01693	C1C8P2	ABC transporter%2C permease protein
+Spn1439-106	AKFHGGLM_01694	C1C8P3	ABC transporter%2C ATP-binding protein
+Spn1439-106	AKFHGGLM_01695	C1C8P4	Putative large secreted protein
+Spn1439-106	AKFHGGLM_01696	C1CFM7	Phosphoglycerate mutase
+Spn1439-106	AKFHGGLM_01697	C1C8P6	Hypothetical protein
+Spn1439-106	AKFHGGLM_01698	C1C8P7	hypothetical protein
+Spn1439-106	AKFHGGLM_01699	C1C8P8	Isoleucyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_01700	Q8CYG2	hypothetical protein
+Spn1439-106	AKFHGGLM_01701	C1C8Q0	Cell division initiation protein DivIVA
+Spn1439-106	AKFHGGLM_01702	C1CFN3	YlmH
+Spn1439-106	AKFHGGLM_01703	Q9ZHB6	Cell division integral membrane protein YlmG%2C YGGT family
+Spn1439-106	AKFHGGLM_01704	Q8DNW1	FtsZ-interacting protein related to cell division YlmF
+Spn1439-106	AKFHGGLM_01705	C1C8Q4	YlmE
+Spn1439-106	AKFHGGLM_01706	C1C8Q5	Cell division protein FtsZ
+Spn1439-106	AKFHGGLM_01707	Q9ZHC0	Cell division protein FtsA
+Spn1439-106	AKFHGGLM_01708	C1CFN9	Putative membrane protein
+Spn1439-106	AKFHGGLM_01709	C1C8Q8	MutT/nudix family protein phosphohydrolase
+Spn1439-106	AKFHGGLM_01710	C1C8Q9	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+Spn1439-106	AKFHGGLM_01711	C1C8R0	D-alanine--D-alanine ligase
+Spn1439-106	AKFHGGLM_01712	Q9R2M1	Recombination protein RecR
+Spn1439-106	AKFHGGLM_01713	Q75YC0	Penicillin-binding protein 2B
+Spn1439-106	AKFHGGLM_01714	C1C8R3	Sialic acid utilization regulator%2C RpiR family
+Spn1439-106	AKFHGGLM_01715	Q8DNV3	N-acetylmannosamine kinase
+Spn1439-106	AKFHGGLM_01716	C1C8R5	4-hydroxy-tetrahydrodipicolinate synthase
+Spn1439-106	AKFHGGLM_01717	C1C8R6	hypothetical protein
+Spn1439-106	AKFHGGLM_01718	A0A9P1PLH0	Hypothetical protein
+Spn1439-106	AKFHGGLM_01719	C1C8R8	Protein YjgK%2C linked to biofilm formation
+Spn1439-106	AKFHGGLM_01720	Q8DNV0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 2
+Spn1439-106	AKFHGGLM_01721	C1C8S0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 1
+Spn1439-106	AKFHGGLM_01722	Q8DNU8	ABC transporter%2C putative N-acetylneuraminate-binding protein
+Spn1439-106	AKFHGGLM_01723	C1C8S2	N-acetylglucosamine-specific PTS IIABC components
+Spn1439-106	AKFHGGLM_01724	P65521	N-acetylmannosamine-6-phosphate 2-epimerase
+Spn1439-106	AKFHGGLM_01725	C1CFQ6	Oxidoreductase
+Spn1439-106	AKFHGGLM_01726	C1C8S5	Sialidase
+Spn1439-106	AKFHGGLM_01727	Q8DNU4	ABC transporter%2C permease protein
+Spn1439-106	AKFHGGLM_01728	Q8DNU3	ABC transporter membrane-spanning permease%2C sugar transport YcjO
+Spn1439-106	AKFHGGLM_01729	Q8DNU2	ABC transporter substrate-binding protein - sugar transport
+Spn1439-106	AKFHGGLM_01730	A0A0B7MDG4	Putative beta-D-galactosidase
+Spn1439-106	AKFHGGLM_01731	A0A0B7LMD7	Hypothetical protein
+Spn1439-106	AKFHGGLM_01732	A0A4J2F9M6	Sialidase NanA
+Spn1439-106	AKFHGGLM_01733	Q8CYF7	Hypothetical protein
+Spn1439-106	AKFHGGLM_01734	A0A0E8T064	Bifunctional acetyl xylan esterase 1/cephalosporin-C deacetylase
+Spn1439-106	AKFHGGLM_01735	A0A4J2CIX1	ATP-dependent DNA helicase RecG
+Spn1439-106	AKFHGGLM_01736	Q04J74	Alanine racemase
+Spn1439-106	AKFHGGLM_01737	B2IRV4	Holo-[acyl-carrier protein] synthase
+Spn1439-106	AKFHGGLM_01738	Q8DNU0	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+Spn1439-106	AKFHGGLM_01739	C1CFS0	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+Spn1439-106	AKFHGGLM_01740	A0A4J2G2M6	Protein translocase subunit SecA
+Spn1439-106	AKFHGGLM_01741	A0A0T8YLG5	hypothetical protein
+Spn1439-106	AKFHGGLM_01742	A0A6I3VF50	hypothetical protein
+Spn1439-106	AKFHGGLM_01743	A0A4J2G2A4	MutR-like transcriptional regulator
+Spn1439-106	AKFHGGLM_01744	A0A237JXL5	Hypothetical protein
+Spn1439-106	AKFHGGLM_01745	B2IRW3	Hypothetical protein
+Spn1439-106	AKFHGGLM_01746	Q04J64	GTP-binding protein EngA
+Spn1439-106	AKFHGGLM_01747	A0A0T7T899	NADPH-flavin oxidoreductase
+Spn1439-106	AKFHGGLM_01748	A0A4J2G840	Helicase loader DnaI
+Spn1439-106	AKFHGGLM_01749	A0AAD2I1X1	Helicase loader DnaB
+Spn1439-106	AKFHGGLM_01750	B2IRW8	Ribonucleotide reductase transcriptional regulator NrdR
+Spn1439-106	AKFHGGLM_01751	Q8DNT4	Transcriptional regulator%2C GntR family
+Spn1439-106	AKFHGGLM_01752	C1CFT6	Multidrug ABC transporter%2C ATP-binding protein
+Spn1439-106	AKFHGGLM_01753	A0A229G0F0	ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01754	C1CFT8	ABC transporter membrane-spanning permease - Na+ export
+Spn1439-106	AKFHGGLM_01755	C1C8V4	ABC transporter ATP-binding protein - Na+ export
+Spn1439-106	AKFHGGLM_01756	C1CFU1	Immunoreactive protein Se23.5-like protein
+Spn1439-106	AKFHGGLM_01757	C1C8V7	Fructokinase
+Spn1439-106	AKFHGGLM_01758	A0A4J2A6U9	IS5 family transposase IS1515
+Spn1439-106	AKFHGGLM_01759	A0AA44MQQ7	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01760	A0A4J2G2D2	Sucrose-specific PTS IIBCA components
+Spn1439-106	AKFHGGLM_01761	C1C8W0	Sucrose-6-phosphate hydrolase
+Spn1439-106	AKFHGGLM_01762	C1C8W1	Sucrose operon repressor ScrR%2C LacI family
+Spn1439-106	AKFHGGLM_01763	A0A0B7KQE6	Hydroxymethylglutaryl-CoA reductase
+Spn1439-106	AKFHGGLM_01764	C1CFU8	Hydroxymethylglutaryl-CoA synthase
+Spn1439-106	AKFHGGLM_01765	A0A0T8IC43	Hypothetical protein
+Spn1439-106	AKFHGGLM_01766	C1CDT7	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01767	C1CFV2	Putative membrane-spanning protein
+Spn1439-106	AKFHGGLM_01768	Q8DNS1	Membrane protein
+Spn1439-106	AKFHGGLM_01769	C1CFV4	Serine/threonine protein kinase StkP
+Spn1439-106	AKFHGGLM_01770	C1CFV5	Protein serine/threonine phosphatase PhpP
+Spn1439-106	AKFHGGLM_01771	C1C8X1	16S rRNA (cytosine(967)-C(5))-methyltransferase
+Spn1439-106	AKFHGGLM_01772	Q97PA6	Methionyl-tRNA formyltransferase
+Spn1439-106	AKFHGGLM_01773	C1C8X3	Helicase PriA essential for oriC/DnaA-independent DNA replication
+Spn1439-106	AKFHGGLM_01774	Q04J38	DNA-directed RNA polymerase omega subunit
+Spn1439-106	AKFHGGLM_01775	Q97PA3	Guanylate kinase
+Spn1439-106	AKFHGGLM_01776	Q04J36	Ribonuclease Y
+Spn1439-106	AKFHGGLM_01777	C1C8X7	Antitoxin YefM
+Spn1439-106	AKFHGGLM_01778	C1C8X8	hypothetical protein
+Spn1439-106	AKFHGGLM_01779	C1C8X9	Methyltransferase
+Spn1439-106	AKFHGGLM_01780	Q8DNQ9	Ribosomal silencing factor RsfA
+Spn1439-106	AKFHGGLM_01781	Q8DNQ8	Isochorismatase
+Spn1439-106	AKFHGGLM_01782	C1C8Y2	HAD superfamily hydrolase YqeK
+Spn1439-106	AKFHGGLM_01783	C1C8Y3	Nicotinate-nucleotide adenylyltransferase
+Spn1439-106	AKFHGGLM_01784	Q8DNQ6	RNA-binding protein
+Spn1439-106	AKFHGGLM_01785	C1C8Y5	GTP-binding protein YqeH%2C required for biogenesis of 30S ribosome subunit
+Spn1439-106	AKFHGGLM_01786	B2ISA1	Hydrolase%2C HAD subfamily IIIA
+Spn1439-106	AKFHGGLM_01787	C1CFX3	Magnesium and cobalt transport protein CorA2
+Spn1439-106	AKFHGGLM_01788	C1C8Y8	Potassium efflux system KefA protein
+Spn1439-106	AKFHGGLM_01789	C1C8Y9	Serine/threonine transporter SstT
+Spn1439-106	AKFHGGLM_01790	C1C8Z0	Membrane protein
+Spn1439-106	AKFHGGLM_01791	C1C8Z1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01792	C1C8Z2	hypothetical protein
+Spn1439-106	AKFHGGLM_01793	C1CFX7	hypothetical protein
+Spn1439-106	AKFHGGLM_01794	C1C8Z4	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+Spn1439-106	AKFHGGLM_01795	C1C8Z5	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+Spn1439-106	AKFHGGLM_01796	A0A0I9F7B2	Protein translocase subunit SecA
+Spn1439-106	AKFHGGLM_01797	C1CFY1	Accessory Sec system protein Asp3
+Spn1439-106	AKFHGGLM_01798	C1C8Z7	Accessory Sec system protein Asp2
+Spn1439-106	AKFHGGLM_01799	C1C8Z8	Accessory Sec system protein Asp1
+Spn1439-106	AKFHGGLM_01800	C1C8Z9	Protein translocase subunit SecY
+Spn1439-106	AKFHGGLM_01801	A0A0E8ZL85	Glycosyltransferase%2C group 2 family
+Spn1439-106	AKFHGGLM_01802	A0AAD2IK34	Glycosyltransferase%2C group 2 family
+Spn1439-106	AKFHGGLM_01803	C1C901	Glycosyltransferase GlyE
+Spn1439-106	AKFHGGLM_01804	C1C902	Glycosyltransferase GlyE
+Spn1439-106	AKFHGGLM_01805	C1C903	Glycosyltransferase GlyD
+Spn1439-106	AKFHGGLM_01806	C1C904	Glucosyltransferase 3
+Spn1439-106	AKFHGGLM_01807	A0A4J1WNG3	Glycosyltransferase GlyG
+Spn1439-106	AKFHGGLM_01808	A0AAD2QAF9	Glycosyltransferase%2C group 2 family
+Spn1439-106	AKFHGGLM_01809	C1C905	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+Spn1439-106	AKFHGGLM_01810	C1C906	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+Spn1439-106	AKFHGGLM_01811	A0AA44MQQ7	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_01812	A0A4J2A6U9	IS5 family transposase IS1515
+Spn1439-106	AKFHGGLM_01813	C1C909	Glycosyltransferase%2C group 2 family
+Spn1439-106	AKFHGGLM_01814	A0A4J2G159	hypothetical protein
+Spn1439-106	AKFHGGLM_01815	C1CFZ4	Transcriptional regulator%2C MarR family
+Spn1439-106	AKFHGGLM_01816	Q8CYE5	Hypothetical protein
+Spn1439-106	AKFHGGLM_01817	C1CFZ6	Thioredoxin
+Spn1439-106	AKFHGGLM_01818	C1C916	NADPH-dependent 7-cyano-7-deazaguanine reductase
+Spn1439-106	AKFHGGLM_01819	C1C917	Aquaporin Z
+Spn1439-106	AKFHGGLM_01820	C1C918	hypothetical protein
+Spn1439-106	AKFHGGLM_01821	C1CG01	Putative membrane protein
+Spn1439-106	AKFHGGLM_01822	C1C920	Oligoendopeptidase F
+Spn1439-106	AKFHGGLM_01823	C1C921	16S rRNA (uracil(1498)-N(3))-methyltransferase
+Spn1439-106	AKFHGGLM_01824	C1C922	Ribosomal protein L11 methyltransferase
+Spn1439-106	AKFHGGLM_01825	C1C923	7%2C8-dihydro-8-oxoguanine-triphosphatase
+Spn1439-106	AKFHGGLM_01826	Q8CYE3	Hypothetical protein
+Spn1439-106	AKFHGGLM_01827	A0AAD2II69	Hypothetical protein
+Spn1439-106	AKFHGGLM_01828	Q8DNP2	Addiction module antitoxin HicB
+Spn1439-106	AKFHGGLM_01829	Q8CYD9	Hypothetical protein
+Spn1439-106	AKFHGGLM_01830	C1C930	Chromosome segregation helicase
+Spn1439-106	AKFHGGLM_01831		tRNA-Lys(ctt)
+Spn1439-106	AKFHGGLM_01832	A0A4J2FZK5	Sucrose-6-phosphate hydrolase
+Spn1439-106	AKFHGGLM_01833	Q8DNN9	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+Spn1439-106	AKFHGGLM_01834	A0A6I3TD86	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+Spn1439-106	AKFHGGLM_01835	A0A5R9AZ51	Multiple sugar ABC transporter%2C substrate-binding protein
+Spn1439-106	AKFHGGLM_01836	C1C943	Multiple sugar metabolism operon regulatory protein
+Spn1439-106	AKFHGGLM_01837	C1C944	M protein trans-acting positive regulator Mga2
+Spn1439-106	AKFHGGLM_01838	C1C945	Membrane protein
+Spn1439-106	AKFHGGLM_01839	B2ISG1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01840	Q8DNN4	Small integral membrane protein
+Spn1439-106	AKFHGGLM_01841	Q8DNN3	General stress protein%2C Gls24 family
+Spn1439-106	AKFHGGLM_01842	A0A0T8QRS1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01843	A0A0U0JSX7	Acetyltransferase
+Spn1439-106	AKFHGGLM_01844	A0A4J1VGV4	Type IV prepilin peptidase
+Spn1439-106	AKFHGGLM_01845	C1CG39	Transcriptional regulator%2C Xre family
+Spn1439-106	AKFHGGLM_01846	A0A0B7LDD1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01847	B5E7M2	Tryptophan synthase alpha chain
+Spn1439-106	AKFHGGLM_01848	A0A4J1X8G6	Tryptophan synthase beta chain
+Spn1439-106	AKFHGGLM_01849	Q97P31	Phosphoribosylanthranilate isomerase
+Spn1439-106	AKFHGGLM_01850	A0A4J1ULJ1	Indole-3-glycerol phosphate synthase
+Spn1439-106	AKFHGGLM_01851	Q04IY6	Anthranilate phosphoribosyltransferase
+Spn1439-106	AKFHGGLM_01852	C1C970	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
+Spn1439-106	AKFHGGLM_01853	C1C971	Anthranilate synthase%2C aminase component
+Spn1439-106	AKFHGGLM_01854	C1C974	Hypothetical protein
+Spn1439-106	AKFHGGLM_01855	Q8DNM4	Galactose operon repressor%2C GalR-LacI family
+Spn1439-106	AKFHGGLM_01856	Q8CYD4	Hypothetical protein
+Spn1439-106	AKFHGGLM_01857	Q8DNM3	Mg(2+)-transport-ATPase-associated protein MgtC
+Spn1439-106	AKFHGGLM_01858	C1CG52	Iron(III)-transport system permease protein SfuB
+Spn1439-106	AKFHGGLM_01859	C1CG53	ABC transporter%2C ATP-binding protein
+Spn1439-106	AKFHGGLM_01860	C1C979	ABC transporter%2C substrate-binding protein
+Spn1439-106	AKFHGGLM_01861	C1C980	Hypothetical protein
+Spn1439-106	AKFHGGLM_01862	C1C9A2	hypothetical protein
+Spn1439-106	AKFHGGLM_01863	C7G4B8	Plasmin- and fibronectin-binding protein PfbA
+Spn1439-106	AKFHGGLM_01864	C1C9A4	Putative UDP-4-keto-6-deoxy-D-glucose 4-transaminase AatB
+Spn1439-106	AKFHGGLM_01865	C1C9A5	Sugar transferases involved in lipopolysaccharide synthesis
+Spn1439-106	AKFHGGLM_01866	C1C9A6	ABC transporter%2C ATP-binding/permease protein
+Spn1439-106	AKFHGGLM_01867	C1C9A7	ABC transporter%2C ATP-binding/permease protein
+Spn1439-106	AKFHGGLM_01868	C1CG68	hypothetical protein
+Spn1439-106	AKFHGGLM_01869	Q8CYC7	hypothetical protein
+Spn1439-106	AKFHGGLM_01870	A0A654U8D1	hypothetical protein
+Spn1439-106	AKFHGGLM_01871	C1C9B1	Exodeoxyribonuclease III
+Spn1439-106	AKFHGGLM_01872	A0A0B7M891	hypothetical protein
+Spn1439-106	AKFHGGLM_01873	A0AAD2IGX4	hypothetical protein
+Spn1439-106	AKFHGGLM_01874		Purine
+Spn1439-106	AKFHGGLM_01875	Q3I0D6	Xanthine phosphoribosyltransferase
+Spn1439-106	AKFHGGLM_01876	C1C9B3	Xanthine permease
+Spn1439-106	AKFHGGLM_01877	C1C9B4	Type-2 restriction enzyme DpnII
+Spn1439-106	AKFHGGLM_01878	C1C9B5	Type II restriction-modification system methyltransferase
+Spn1439-106	AKFHGGLM_01879	A0A0D6J5K4	Modification methylase DpnIIA
+Spn1439-106	AKFHGGLM_01880	A0A0M3KL39	Thioesterase
+Spn1439-106	AKFHGGLM_01881	C1C9B8	Galactose-1-phosphate uridylyltransferase
+Spn1439-106	AKFHGGLM_01882	A0AAE9QS56	Galactokinase
+Spn1439-106	AKFHGGLM_01883	Q8DNK6	Galactose operon repressor%2C GalR-LacI family
+Spn1439-106	AKFHGGLM_01884	C1CG80	Alcohol dehydrogenase
+Spn1439-106	AKFHGGLM_01885	Q8DNK4	Transcriptional regulator%2C MerR family
+Spn1439-106	AKFHGGLM_01886	Q8DNK3	Cobalt-zinc-cadmium resistance protein CzcD
+Spn1439-106	AKFHGGLM_01887	A0A0H2ZQB6	Transcriptional regulator SczA%2C TetR family
+Spn1439-106	AKFHGGLM_01888	Q8DNK1	Ribosyl nicotinamide transporter PnuC
+Spn1439-106	AKFHGGLM_01889	A0A0T7KAV4	Glycine betaine/L-proline transport substrate-binding/permease protein ProWX
+Spn1439-106	AKFHGGLM_01890	Q9XBN6	Glycine betaine/L-proline transport ATP-binding protein ProV
+Spn1439-106	AKFHGGLM_01891	C1C9C9	Hypothetical protein
+Spn1439-106	AKFHGGLM_01892	C1C9D0	Transcriptional regulator%2C MarR family
+Spn1439-106	AKFHGGLM_01893	C1C9D1	Hypothetical protein
+Spn1439-106	AKFHGGLM_01894	Q8DNJ7	Glutamyl aminopeptidase
+Spn1439-106	AKFHGGLM_01895	C1C9D4	UDP-glucose 4-epimerase
+Spn1439-106	AKFHGGLM_01896	C1C9D5	Iron compound ABC uptake transporter permease protein PiuB
+Spn1439-106	AKFHGGLM_01897	C1C9D6	Iron compound ABC uptake transporter permease protein PiuC
+Spn1439-106	AKFHGGLM_01898	C1CG95	Iron compound ABC uptake transporter ATP-binding protein PiuD
+Spn1439-106	AKFHGGLM_01899	C1C9D8	Iron compound ABC uptake transporter substrate-binding protein PiuA
+Spn1439-106	AKFHGGLM_01900	C1C9D9	Putative membrane protein insertion efficiency factor YidD
+Spn1439-106	AKFHGGLM_01901	Q8DNJ0	Ribosomal large subunit pseudouridine synthase B
+Spn1439-106	AKFHGGLM_01902	Q8DNI9	Segregation and condensation protein B
+Spn1439-106	AKFHGGLM_01903	A0A0T8RTE1	Segregation and condensation protein A
+Spn1439-106	AKFHGGLM_01904	C1CGA1	Tyrosine recombinase XerD
+Spn1439-106	AKFHGGLM_01905	C1C9E4	CBS domain protein
+Spn1439-106	AKFHGGLM_01906	Q8DNI8	Phosphoesterase
+Spn1439-106	AKFHGGLM_01907	C1C9E6	Nucleoside 5-triphosphatase RdgB (dHAPTP%2C dITP%2C XTP-specific)
+Spn1439-106	AKFHGGLM_01908	Q04IS7	Glutamate racemase
+Spn1439-106	AKFHGGLM_01909	B2ISY0	Hypothetical protein
+Spn1439-106	AKFHGGLM_01910	C1C9E9	Trehalose-6-phosphate hydrolase
+Spn1439-106	AKFHGGLM_01911	C1C9F0	Trehalose-specific PTS IIBCA components
+Spn1439-106	AKFHGGLM_01912	A0A4G3V364	Trehalose operon transcriptional repressor
+Spn1439-106	AKFHGGLM_01913		Srn266
+Spn1439-106	AKFHGGLM_01914	A0A4N2H2H1	IS1167 transposase Orf1
+Spn1439-106	AKFHGGLM_01915	A0AA95D7A8	hypothetical protein
+Spn1439-106	AKFHGGLM_01916	A0A4J2G3Y2	IS1167 transposase
+Spn1439-106	AKFHGGLM_01917		Srn266
+Spn1439-106	AKFHGGLM_01918	C1C9F4	IS1167 transposase
+Spn1439-106	AKFHGGLM_01919	C1C9F5	IS1167 transposase Orf2
+Spn1439-106	AKFHGGLM_01920	B2ISY6	Peptide ABC transporter ATP-binding protein AmiF
+Spn1439-106	AKFHGGLM_01921	C1C9F7	Peptide ABC transporter ATP-binding protein AmiE
+Spn1439-106	AKFHGGLM_01922	C1CGB7	Peptide ABC transporter permease AmiD
+Spn1439-106	AKFHGGLM_01923	C1C9F9	Peptide ABC transporter permease AmiC
+Spn1439-106	AKFHGGLM_01924	C1C9G0	Peptide ABC transporter substrate-binding protein AmiA
+Spn1439-106	AKFHGGLM_01925	Q8CYC1	Wall teichoic acid biosynthesis protein RafX
+Spn1439-106	AKFHGGLM_01926	C1C9G2	Sucrose phosphorylase
+Spn1439-106	AKFHGGLM_01927	C1C9G3	hypothetical protein
+Spn1439-106	AKFHGGLM_01928	C1C9G4	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG
+Spn1439-106	AKFHGGLM_01929	C1C9G5	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmF
+Spn1439-106	AKFHGGLM_01930	C1C9G6	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
+Spn1439-106	AKFHGGLM_01931	C1C9G7	Alpha-galactosidase
+Spn1439-106	AKFHGGLM_01932	C1C9G8	Multiple sugar metabolism operon regulatory protein MsmR
+Spn1439-106	AKFHGGLM_01933	C1C9G9	Bifunctional biotin operon repressor/Biotin--protein ligase
+Spn1439-106	AKFHGGLM_01934		Srn266
+Spn1439-106	AKFHGGLM_01935	C1C9H0	hypothetical protein
+Spn1439-106	AKFHGGLM_01936		tRNA-Ser(gct)
+Spn1439-106	AKFHGGLM_01936		
+Spn1439-106	AKFHGGLM_01937		tRNA-Ile(gat)
+Spn1439-106	AKFHGGLM_01938		tRNA-Gly(tcc)
+Spn1439-106	AKFHGGLM_01939		tRNA-Phe(gaa)
+Spn1439-106	AKFHGGLM_01940		tRNA-Met(cat)
+Spn1439-106	AKFHGGLM_01941		tRNA-Ser(tga)
+Spn1439-106	AKFHGGLM_01942		tRNA-Met(cat)
+Spn1439-106	AKFHGGLM_01943		tRNA-Met(cat)
+Spn1439-106	AKFHGGLM_01944		tRNA-Pro(tgg)
+Spn1439-106	AKFHGGLM_01945		tRNA-Arg(acg)
+Spn1439-106	AKFHGGLM_01946		tRNA-Leu(taa)
+Spn1439-106	AKFHGGLM_01947		tRNA-Gly(gcc)
+Spn1439-106	AKFHGGLM_01948		tRNA-Thr(tgt)
+Spn1439-106	AKFHGGLM_01949		tRNA-Leu(tag)
+Spn1439-106	AKFHGGLM_01950		tRNA-Lys(ttt)
+Spn1439-106	AKFHGGLM_01950		
+Spn1439-106	AKFHGGLM_01951		tRNA-Asp(gtc)
+Spn1439-106	AKFHGGLM_01952		tRNA-Val(tac)
+Spn1439-106	AKFHGGLM_01953		5S ribosomal RNA
+Spn1439-106	AKFHGGLM_01954		23S ribosomal RNA
+Spn1439-106	AKFHGGLM_01955		tRNA-Ala(tgc)
+Spn1439-106	AKFHGGLM_01956		16S ribosomal RNA
+Spn1439-106	AKFHGGLM_01957		tRNA-Glu(ttc)
+Spn1439-106	AKFHGGLM_01958	C1C9H1	RNA methyltransferase%2C TrmA family
+Spn1439-106	AKFHGGLM_01959	A0A4J2GI33	Regulatory protein RecX
+Spn1439-106	AKFHGGLM_01960	Q8DNH5	Cysteinyl-tRNA synthetase related protein
+Spn1439-106	AKFHGGLM_01961		Spy392987
+Spn1439-106	AKFHGGLM_01961		
+Spn1439-106	AKFHGGLM_01962	C1C9H4	Epoxyqueuosine reductase QueH
+Spn1439-106	AKFHGGLM_01963	C1C9H5	Epoxyqueuosine reductase QueH
+Spn1439-106	AKFHGGLM_01964	Q04IQ3	Heat shock protein 60 family chaperone GroEL
+Spn1439-106	AKFHGGLM_01965	C1CML8	Heat shock protein 60 family co-chaperone GroES
+Spn1439-106	AKFHGGLM_01966	Q8DNH4	Single-stranded DNA-binding protein SsbB
+Spn1439-106	AKFHGGLM_01967	C1C9H9	Short-chain dehydrogenase
+Spn1439-106	AKFHGGLM_01968	Q8DNH2	Phenylalanyl-tRNA synthetase domain protein
+Spn1439-106	AKFHGGLM_01969	Q8DNH1	Thioredoxin
+Spn1439-106	AKFHGGLM_01970	Q8CYB9	Hypothetical protein
+Spn1439-106	AKFHGGLM_01971	C1C9I4	Membrane protein
+Spn1439-106	AKFHGGLM_01972	C1C9I5	Response regulator of the LytR/AlgR family protein
+Spn1439-106	AKFHGGLM_01973	C1C9I6	Phosphatidylglycerophosphatase B
+Spn1439-106	AKFHGGLM_01974	Q8CYB6	Hypothetical protein
+Spn1439-106	AKFHGGLM_01975	C1C9I8	putative ABC transporter ATP-binding protein
+Spn1439-106	AKFHGGLM_01976	C1C9I9	Multidrug resistance ABC transporter ATP-binding and permease protein
+Spn1439-106	AKFHGGLM_01977	A0A916L6H8	hypothetical protein
+Spn1439-106	AKFHGGLM_01978	A0A111CNC9	hypothetical protein
+Spn1439-106	AKFHGGLM_01979	Q04IN9	Transcriptional regulatory protein YeeN
+Spn1439-106	AKFHGGLM_01980	Q2XU26	Pneumolysin
+Spn1439-106	AKFHGGLM_01981	C1C9J3	Hypothetical protein
+Spn1439-106	AKFHGGLM_01982	Q8CYB4	Hypothetical protein
+Spn1439-106	AKFHGGLM_01983	B2IM15	Hypothetical protein
+Spn1439-106	AKFHGGLM_01984	C1C9J6	hypothetical protein
+Spn1439-106	AKFHGGLM_01985	C1C9J8	Hypothetical protein
+Spn1439-106	AKFHGGLM_01986	C1C9J9	Hypothetical protein
+Spn1439-106	AKFHGGLM_01987	C1C9K0	hypothetical protein
+Spn1439-106	AKFHGGLM_01988	C1C9K1	hypothetical protein
+Spn1439-106	AKFHGGLM_01989	C1C9K2	hypothetical protein
+Spn1439-106	AKFHGGLM_01990	C1C9K3	Putative toxin
+Spn1439-106	AKFHGGLM_01991	A0A0T8ACV9	Putative toxin
+Spn1439-106	AKFHGGLM_01992	C1CGM2	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+Spn1439-106	AKFHGGLM_01993	C1C9K7	MATE efflux family protein DinF
+Spn1439-106	AKFHGGLM_01994	C1CMP5	DNA recombination/repair protein RecA
+Spn1439-106	AKFHGGLM_01995	C1C9K9	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucleotide amidase
+Spn1439-106	AKFHGGLM_01996	Q8DNG0	Transcriptional regulator LytR
+Spn1439-106	AKFHGGLM_01997	Q8DNF9	Acetyltransferase
+Spn1439-106	AKFHGGLM_01998	Q8DNF8	TsaE protein%2C required for threonylcarbamoyladenosine t(6)A37 formation in tRNA
+Spn1439-106	AKFHGGLM_01999	Q8CYA2	Immunity factor ComM
+Spn1439-106	AKFHGGLM_02000	C1C9L4	Putative transcriptional regulator PlcR
+Spn1439-106	AKFHGGLM_02001	C1CA00	Hypothetical protein
+Spn1439-106	AKFHGGLM_02002	A0A4J2CW64	hypothetical protein
+Spn1439-106	AKFHGGLM_02003	Q8DNF2	ABC transporter%2C ATP-binding protein
+Spn1439-106	AKFHGGLM_02004	Q8CY96	hypothetical protein
+Spn1439-106	AKFHGGLM_02005	Q04IK8	Nucleoside diphosphate kinase
+Spn1439-106	AKFHGGLM_02006	A0A4J2D414	DNA-directed RNA polymerase beta' subunit
+Spn1439-106	AKFHGGLM_02007	A0A0B7L1K2	DNA-directed RNA polymerase beta subunit
+Spn1439-106	AKFHGGLM_02008		Lacto-rpoB
+Spn1439-106	AKFHGGLM_02009		tRNA-Cys(gca)
+Spn1439-106	AKFHGGLM_02010	C1CGP5	Putative hemolysin
+Spn1439-106	AKFHGGLM_02011	C1CGP6	DNA-entry nuclease
+Spn1439-106	AKFHGGLM_02012	A0A0B7L886	Competence-associated EpuA protein
+Spn1439-106	AKFHGGLM_02013	Q97NQ4	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Spn1439-106	AKFHGGLM_02014	A0A0E8TAE0	Hypothetical protein
+Spn1439-106	AKFHGGLM_02015	C1CA13	Lon-like protease
+Spn1439-106	AKFHGGLM_02016	Q97NQ2	Phosphopantetheine adenylyltransferase
+Spn1439-106	AKFHGGLM_02017	C1CA15	16S rRNA (guanine(966)-N(2))-methyltransferase
+Spn1439-106	AKFHGGLM_02018	Q97NQ0	Aspartate--ammonia ligase
+Spn1439-106	AKFHGGLM_02019	C1CA17	Membrane protein
+Spn1439-106	AKFHGGLM_02020	C1CA18	rRNA methylase
+Spn1439-106	AKFHGGLM_02021	Q8DNE2	Putative nucleoside phosphatase
+Spn1439-106	AKFHGGLM_02022	Q97NP5	Inner membrane protein translocase component YidC1
+Spn1439-106	AKFHGGLM_02023	Q8DNE0	Pyruvate formate-lyase activating enzyme
+Spn1439-106	AKFHGGLM_02024	C1CA22	Diaminopimelate decarboxylase
+Spn1439-106	AKFHGGLM_02025	C1CGQ9	PurR: transcription regulator associated with purine metabolism
+Spn1439-106	AKFHGGLM_02026	C1CA24	3'->5' exoribonuclease YhaM
+Spn1439-106	AKFHGGLM_02027	C1CA25	DNA recombination protein RmuC
+Spn1439-106	AKFHGGLM_02028	Q8DND6	Thiamin pyrophosphokinase
+Spn1439-106	AKFHGGLM_02029	B2IM65	Ribulose-phosphate 3-epimerase
+Spn1439-106	AKFHGGLM_02030	C1CGR4	Ribosome small subunit-stimulated GTPase RsgA
+Spn1439-106	AKFHGGLM_02031	C1CA29	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase
+Spn1439-106	AKFHGGLM_02032	C1CA30	Hypothetical protein
+Spn1439-106	AKFHGGLM_02033	C1CA31	ABC transporter%2C ATP-binding protein
+Spn1439-106	AKFHGGLM_02034	C1CA32	Putative immunity protein
+Spn1439-106	AKFHGGLM_02035	C1CGR9	Hypothetical protein
+Spn1439-106	AKFHGGLM_02036	C1CA34	Transcriptional regulator
+Spn1439-106	AKFHGGLM_02037	C1CA35	Ribonuclease M5
+Spn1439-106	AKFHGGLM_02038	C1CA36	Putative deoxyribonuclease TatD
+Spn1439-106	AKFHGGLM_02039	Q8CY93	Cell wall surface anchor family protein
+Spn1439-106	AKFHGGLM_02040	Q04IH6	LSU ribosomal protein L34p
+Spn1439-106	AKFHGGLM_02041	C1CGS5	Alanine transaminase
+Spn1439-106	AKFHGGLM_02042	Q8CY92	Hypothetical protein
+Spn1439-106	AKFHGGLM_02043	C1CGS7	Universal stress protein family protein
+Spn1439-106	AKFHGGLM_02044	C1CA42	Hydrolase%2C HAD superfamily
+Spn1439-106	AKFHGGLM_02045	C1CA43	L-asparaginase
+Spn1439-106	AKFHGGLM_02046	C1CA44	Hypothetical protein
+Spn1439-106	AKFHGGLM_02047	C1CA45	Catabolite control protein A
+Spn1439-106	AKFHGGLM_02048	C1CA46	Two-component system response regulator
+Spn1439-106	AKFHGGLM_02049	C1CA47	Two-component system sensor histidine kinase
+Spn1439-106	AKFHGGLM_02050	C1CA48	ABC transporter%2C permease protein
+Spn1439-106	AKFHGGLM_02051	C1CA49	ABC transporter%2C ATP-binding protein
+Spn1439-106	AKFHGGLM_02052	C1CA50	Hypothetical protein
+Spn1439-106	AKFHGGLM_02053	A0A0B7MA59	Hypothetical protein
+Spn1439-106	AKFHGGLM_02054		tRNA-Pro(tgg)
+Spn1439-106	AKFHGGLM_02055		tRNA-Arg(acg)
+Spn1439-106	AKFHGGLM_02056		tRNA-Leu(taa)
+Spn1439-106	AKFHGGLM_02057		tRNA-Gly(gcc)
+Spn1439-106	AKFHGGLM_02058		tRNA-Thr(tgt)
+Spn1439-106	AKFHGGLM_02059		tRNA-Leu(tag)
+Spn1439-106	AKFHGGLM_02060		tRNA-Lys(ttt)
+Spn1439-106	AKFHGGLM_02060		
+Spn1439-106	AKFHGGLM_02061		tRNA-Asp(gtc)
+Spn1439-106	AKFHGGLM_02062		tRNA-Val(tac)
+Spn1439-106	AKFHGGLM_02063		5S ribosomal RNA
+Spn1439-106	AKFHGGLM_02064		23S ribosomal RNA
+Spn1439-106	AKFHGGLM_02065		tRNA-Ala(tgc)
+Spn1439-106	AKFHGGLM_02066		16S ribosomal RNA
+Spn1439-106	AKFHGGLM_02067		tRNA-Glu(ttc)
+Spn1439-106	AKFHGGLM_02068	Q9R2W8	Competence-specific sigma factor ComX
+Spn1439-106	AKFHGGLM_02069	C1CGT9	Transcription antitermination protein NusG
+Spn1439-106	AKFHGGLM_02070	Q8DNB7	Protein translocase subunit SecE
+Spn1439-106	AKFHGGLM_02071	C1CA56	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
+Spn1439-106	AKFHGGLM_02072	A0AAE9QQ26	RluD-like protein
+Spn1439-106	AKFHGGLM_02073	B2IMI7	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
+Spn1439-106	AKFHGGLM_02074	A0AA36PY29	ABC transporter%2C permease protein
+Spn1439-106	AKFHGGLM_02075	A0A4J1PYU9	ABC transporter%2C permease protein
+Spn1439-106	AKFHGGLM_02076	A0A4H9EVP4	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_02077	C1CGU6	IS630 family transposase IS630-Spn1
+Spn1439-106	AKFHGGLM_02078	Q8DNB2	Quinolinate phosphoribosyltransferase
+Spn1439-106	AKFHGGLM_02079	C1CA63	Malonate permease
+Spn1439-106	AKFHGGLM_02080	A0A0B7LBS6	hypothetical protein
+Spn1439-106	AKFHGGLM_02081	Q8DNB0	Transcriptional regulator%2C GntR family
+Spn1439-106	AKFHGGLM_02082	C1CA66	6-phospho-beta-glucosidase
+Spn1439-106	AKFHGGLM_02083	C1CA67	Cellobiose-specific PTS IIC component
+Spn1439-106	AKFHGGLM_02084	C1CA68	Cellobiose-specific PTS IIB component
+Spn1439-106	AKFHGGLM_02085	B2IMJ8	Cellobiose-specific PTS IIA component
+Spn1439-106	AKFHGGLM_02086	C1CGV5	Bifunctional acetaldehyde dehydrogenase/alcohol dehydrogenase
+Spn1439-106	AKFHGGLM_02087	Q8CY89	Hypothetical protein
+Spn1439-106	AKFHGGLM_02088	C1CA73	Low molecular weight protein tyrosine phosphatase
+Spn1439-106	AKFHGGLM_02089	Q8DNA3	Preprotein translocase subunit YajC
+Spn1439-106	AKFHGGLM_02090	C1CA75	Transketolase
+Spn1439-106	AKFHGGLM_02091	Q8DNA1	Putative L-ascorbate-6-phosphate lactonase UlaG
+Spn1439-106	AKFHGGLM_02092	C1CA77	Transcriptional antiterminator
+Spn1439-106	AKFHGGLM_02093	C1CA78	L-ribulose-5-phosphate 4-epimerase
+Spn1439-106	AKFHGGLM_02094	C1CA79	L-xylulose 5-phosphate 3-epimerase
+Spn1439-106	AKFHGGLM_02095	C1CA80	3-keto-L-gulonate 6-phosphate decarboxylase
+Spn1439-106	AKFHGGLM_02096	C1CA81	Ascorbate-specific PTS IIA component
+Spn1439-106	AKFHGGLM_02097	Q8DN95	Ascorbate-specific PTS IIB component
+Spn1439-106	AKFHGGLM_02098	C1CA83	Ascorbate-specific PTS IIC component
+Spn1439-106	AKFHGGLM_02099	C1CA84	Sakacin A production response regulator
+Spn1439-106	AKFHGGLM_02100	C1CA85	KH domain RNA-binding protein
+Spn1439-106	AKFHGGLM_02101	C1CA86	Inner membrane protein translocase component YidC2
+Spn1439-106	AKFHGGLM_02102	Q8DN92	Ribonuclease P protein component
+Spn1439-106	AKFHGGLM_02103	C1CA89	Acetate kinase
+Spn1439-106	AKFHGGLM_02104	C1CA90	Adenine-specific methyltransferase
+Spn1439-106	AKFHGGLM_02105	C1CA91	IS1381 transposase OrfA
+Spn1439-106	AKFHGGLM_02106	C1CA92	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_02107	C1CA93	hypothetical protein
+Spn1439-106	AKFHGGLM_02108	C1CA94	Late competence protein ComGG
+Spn1439-106	AKFHGGLM_02109	C1CA95	Late competence protein ComGF
+Spn1439-106	AKFHGGLM_02110	A0A0B7KTY0	Late competence protein ComGE
+Spn1439-106	AKFHGGLM_02111	A0A654UAX8	Late competence protein ComGD
+Spn1439-106	AKFHGGLM_02112	C1CA98	Late competence protein ComGC
+Spn1439-106	AKFHGGLM_02113	A0A4J2GJU9	Late competence protein ComGB
+Spn1439-106	AKFHGGLM_02114	C1CAA0	Late competence protein ComGA
+Spn1439-106	AKFHGGLM_02115	Q8DN85	DNA-binding protein
+Spn1439-106	AKFHGGLM_02116	C1CAA2	Putative Zn-dependent alcohol dehydrogenase
+Spn1439-106	AKFHGGLM_02117	B2IMN1	N-acetylglucosamine-6-phosphate deacetylase
+Spn1439-106	AKFHGGLM_02118	C1CAA4	Acyltransferase family protein
+Spn1439-106	AKFHGGLM_02119	C1CTW4	tRNA-guanine transglycosylase
+Spn1439-106	AKFHGGLM_02120	C1CAA7	Membrane protein
+Spn1439-106	AKFHGGLM_02121	A0A6G2DAS0	Pyrrolidone-carboxylate peptidase
+Spn1439-106	AKFHGGLM_02122	A0A0U0C4K8	Pyrrolidone-carboxylate peptidase
+Spn1439-106	AKFHGGLM_02123	C1CAA8	Hypothetical protein
+Spn1439-106	AKFHGGLM_02124	C1CGZ2	hypothetical protein
+Spn1439-106	AKFHGGLM_02125	C1CGZ3	Surface immunogenic protein
+Spn1439-106	AKFHGGLM_02126	A0A4J2GK39	Hydrolase%2C haloacid dehalogenase-like family
+Spn1439-106	AKFHGGLM_02127	C1CGZ5	Multi antimicrobial extrusion family transporter
+Spn1439-106	AKFHGGLM_02128	C1CAB2	Threonine synthase
+Spn1439-106	AKFHGGLM_02129	C1CGZ7	Hypothetical protein
+Spn1439-106	AKFHGGLM_02130		tRNA-Leu(caa)
+Spn1439-106	AKFHGGLM_02131		tRNA-Gln(ttg)
+Spn1439-106	AKFHGGLM_02132		tRNA-His(gtg)
+Spn1439-106	AKFHGGLM_02133		tRNA-Trp(cca)
+Spn1439-106	AKFHGGLM_02134		tRNA-Tyr(gta)
+Spn1439-106	AKFHGGLM_02135		tRNA-Phe(gaa)
+Spn1439-106	AKFHGGLM_02136		tRNA-Met(cat)
+Spn1439-106	AKFHGGLM_02137		tRNA-Ser(tga)
+Spn1439-106	AKFHGGLM_02138		tRNA-Ile(gat)
+Spn1439-106	AKFHGGLM_02139		tRNA-Gly(tcc)
+Spn1439-106	AKFHGGLM_02140		tRNA-Val(tac)
+Spn1439-106	AKFHGGLM_02141		5S ribosomal RNA
+Spn1439-106	AKFHGGLM_02142		23S ribosomal RNA
+Spn1439-106	AKFHGGLM_02143		tRNA-Ala(tgc)
+Spn1439-106	AKFHGGLM_02144		16S ribosomal RNA
+Spn1439-106	AKFHGGLM_02145		tRNA-Glu(ttc)
+Spn1439-106	AKFHGGLM_02146	Q8DN75	Cytidine/deoxycytidylate deaminase family protein
+Spn1439-106	AKFHGGLM_02147	Q8CWN5	Glutamyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_02148	Q8DN74	Glucose-6-phosphate isomerase
+Spn1439-106	AKFHGGLM_02149	C1CH02	Glutamine amidotransferase%2C class I
+Spn1439-106	AKFHGGLM_02150	C1CH03	Multidrug resistance ABC transporter ATP-binding and permease protein
+Spn1439-106	AKFHGGLM_02151	C1CAQ3	hypothetical protein
+Spn1439-106	AKFHGGLM_02152	C1CAQ4	Multidrug resistance ABC transporter ATP-binding and permease protein
+Spn1439-106	AKFHGGLM_02153		patAB
+Spn1439-106	AKFHGGLM_02153		
+Spn1439-106	AKFHGGLM_02154	B2IMZ6	DNA mismatch repair protein HexA
+Spn1439-106	AKFHGGLM_02155		SpR10_sRNA
+Spn1439-106	AKFHGGLM_02155		
+Spn1439-106	AKFHGGLM_02156	P0A2Y3	Arginine pathway regulatory protein ArgR1
+Spn1439-106	AKFHGGLM_02157	Q8DN69	Arginyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_02158	A0A4J2GBS6	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_02159	A0A0B7M7L7	Putative cupin superfamily protein
+Spn1439-106	AKFHGGLM_02160	Q9S1J6	Two-component system response regulator PnpR
+Spn1439-106	AKFHGGLM_02161	Q9S1J5	Two-component system sensor histidine kinase PnpS
+Spn1439-106	AKFHGGLM_02162	Q8DN64	Phosphate ABC transporter periplasmic phosphate-binding protein PstS1
+Spn1439-106	AKFHGGLM_02163	C1CH14	Phosphate transport system permease protein PstC1
+Spn1439-106	AKFHGGLM_02164	Q9X4T2	Phosphate transport system permease protein PstA1
+Spn1439-106	AKFHGGLM_02165	C1CAR5	Phosphate transport ATP-binding protein PstB1
+Spn1439-106	AKFHGGLM_02166	C1CAR6	Phosphate transport system regulatory protein PhoU1
+Spn1439-106	AKFHGGLM_02167	B2IN08	IS1380 family transposase ISSpn5
+Spn1439-106	AKFHGGLM_02168	A0A0B7LS42	hypothetical protein
+Spn1439-106	AKFHGGLM_02169	C1CTZ5	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+Spn1439-106	AKFHGGLM_02170	C1CH21	UTP--glucose-1-phosphate uridylyltransferase
+Spn1439-106	AKFHGGLM_02171		tracrRNA
+Spn1439-106	AKFHGGLM_02172	Q8DN57	Rhomboid family serine protease
+Spn1439-106	AKFHGGLM_02173	C1CAS2	5-formyltetrahydrofolate cyclo-ligase
+Spn1439-106	AKFHGGLM_02174	C1CAS3	N-acetyl-L%2CL-diaminopimelate deacetylase
+Spn1439-106	AKFHGGLM_02175	Q8DN54	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+Spn1439-106	AKFHGGLM_02176	C1CAS5	Drug/metabolite transporter superfamily permease
+Spn1439-106	AKFHGGLM_02177	C1CAS6	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1B
+Spn1439-106	AKFHGGLM_02178	C1CAS7	Tyrosyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_02179	C1CAS8	Lead%2C cadmium%2C zinc and mercury transporting ATPase
+Spn1439-106	AKFHGGLM_02180	Q8CY77	Hypothetical protein
+Spn1439-106	AKFHGGLM_02181	C1CAT0	23S rRNA (guanine(745)-N(1))-methyltransferase
+Spn1439-106	AKFHGGLM_02182	C1CAT1	Hypothetical protein
+Spn1439-106	AKFHGGLM_02183	C1CH34	Hypothetical protein
+Spn1439-106	AKFHGGLM_02184	C1CAT2	Maltodextrin phosphorylase
+Spn1439-106	AKFHGGLM_02185	C1CAT3	4-alpha-glucanotransferase (amylomaltase)
+Spn1439-106	AKFHGGLM_02186	C1CH37	Maltose/maltodextrin ABC transporter%2C substrate binding periplasmic protein MalX
+Spn1439-106	AKFHGGLM_02187	P0A4N2	Maltose/maltodextrin ABC transporter%2C permease protein MalC
+Spn1439-106	AKFHGGLM_02188	C1CH39	Maltose/maltodextrin ABC transporter%2C permease protein MalD
+Spn1439-106	AKFHGGLM_02189	C1CAT7	Maltodextrose utilization protein MalA
+Spn1439-106	AKFHGGLM_02190	C1CH41	Maltose operon transcriptional repressor MalR%2C LacI family
+Spn1439-106	AKFHGGLM_02191	C1CAT9	hypothetical protein
+Spn1439-106	AKFHGGLM_02192	C1CAU0	Integral membrane protein
+Spn1439-106	AKFHGGLM_02193	C1CAU1	Aspartyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_02194	C1CAU3	Hypothetical protein
+Spn1439-106	AKFHGGLM_02195	C1CAU4	Membrane-bound protease%2C CAAX family
+Spn1439-106	AKFHGGLM_02196	C1CAU5	Hypothetical protein
+Spn1439-106	AKFHGGLM_02197	Q8CY71	Hypothetical protein
+Spn1439-106	AKFHGGLM_02198	C1CH50	Transcriptional regulator%2C Cro/CI family
+Spn1439-106	AKFHGGLM_02199	A0A6G2DME0	Hypothetical protein
+Spn1439-106	AKFHGGLM_02200	C1CAV1	Histidyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_02201	A0A4J2FZU1	IS1380 family transposase ISSpn5
+Spn1439-106	AKFHGGLM_02202	A0A4J2G2W4	hypothetical protein
+Spn1439-106	AKFHGGLM_02203	C1CAV2	Beta-N-acetylglucosaminidase/beta-glucosidase
+Spn1439-106	AKFHGGLM_02204	C1CAV3	Beta-N-acetylglucosaminidase/beta-glucosidase
+Spn1439-106	AKFHGGLM_02205	C1CAV4	hypothetical protein
+Spn1439-106	AKFHGGLM_02206	C1CAV5	2-deoxy-D-gluconate 3-dehydrogenase
+Spn1439-106	AKFHGGLM_02207	C1CAV6	Mannonate dehydratase
+Spn1439-106	AKFHGGLM_02208	C1CAV7	Uronate isomerase
+Spn1439-106	AKFHGGLM_02209	C1CAV8	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxyphosphogluconate aldolase
+Spn1439-106	AKFHGGLM_02210	C1CAV9	Pyruvate dehydrogenase complex repressor
+Spn1439-106	AKFHGGLM_02211	C1CAW0	Beta-glucuronidase
+Spn1439-106	AKFHGGLM_02212	C1CAW1	2-dehydro-3-deoxygluconokinase
+Spn1439-106	AKFHGGLM_02213	C1CAW2	Putative glycoside/cation symporter YagG
+Spn1439-106	AKFHGGLM_02214	C1CAW3	DNA-entry nuclease
+Spn1439-106	AKFHGGLM_02215	C1CAW4	hypothetical protein
+Spn1439-106	AKFHGGLM_02216	C1CAW5	Competence-associated EpuA protein
+Spn1439-106	AKFHGGLM_02217	C1CAW6	Macrolide-efflux protein
+Spn1439-106	AKFHGGLM_02218	C1CAW7	Positive transcriptional regulator%2C MutR family
+Spn1439-106	AKFHGGLM_02219	C1CH57	Putative aromatic ring hydroxylating enzyme
+Spn1439-106	AKFHGGLM_02220	C1CAX0	Hypothetical protein
+Spn1439-106	AKFHGGLM_02221	Q04I44	Dihydroxy-acid dehydratase
+Spn1439-106	AKFHGGLM_02222	C1CAX2	hypothetical protein
+Spn1439-106	AKFHGGLM_02223	C1CAX3	hypothetical protein
+Spn1439-106	AKFHGGLM_02224	C1CAX4	Putative transport protein SgaT
+Spn1439-106	AKFHGGLM_02225	Q8CY69	Putative PTS IIB component
+Spn1439-106	AKFHGGLM_02226	C1CAX6	Transcription antiterminator%2C BglG family
+Spn1439-106	AKFHGGLM_02227	C1CAX7	Membrane protease family protein
+Spn1439-106	AKFHGGLM_02228	Q8CY67	Hypothetical protein
+Spn1439-106	AKFHGGLM_02229	Q8CWN3	LSU ribosomal protein L32p
+Spn1439-106	AKFHGGLM_02230	Q04I36	LSU ribosomal protein L33p
+Spn1439-106	AKFHGGLM_02231	C1CH69	Choline-binding protein CbpN
+Spn1439-106	AKFHGGLM_02232	C1CH70	hypothetical protein
+Spn1439-106	AKFHGGLM_02233	A0A4J2G3E0	hypothetical protein
+Spn1439-106	AKFHGGLM_02234	C1CAY3	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_02235	C1CAY4	IS1381 transposase OrfB
+Spn1439-106	AKFHGGLM_02236	C1CAY6	hypothetical protein
+Spn1439-106	AKFHGGLM_02237	C1CAY7	Glycosyl hydrolase-related protein
+Spn1439-106	AKFHGGLM_02238	C1CAY8	N-acetylmannosamine kinase
+Spn1439-106	AKFHGGLM_02239	C1CAY9	Alpha-mannosidase
+Spn1439-106	AKFHGGLM_02240	C1CAZ0	Hypothetical protein
+Spn1439-106	AKFHGGLM_02241	A0A4J2G239	Alpha-1%2C2-mannosidase
+Spn1439-106	AKFHGGLM_02242	A0A4J1XHR3	Glycosyl hydrolase family 29 alpha-L-fucosidase
+Spn1439-106	AKFHGGLM_02243	C1CAZ3	Arginine deiminase
+Spn1439-106	AKFHGGLM_02244	A0A0B7LE02	Ornithine carbamoyltransferase
+Spn1439-106	AKFHGGLM_02245	C1CAZ5	Carbamate kinase
+Spn1439-106	AKFHGGLM_02246	Q8CLX6	Arginine/ornithine antiporter ArcD
+Spn1439-106	AKFHGGLM_02247	A0A4J1SA26	Putative Xaa-His dipeptidase
+Spn1439-106	AKFHGGLM_02248	A0A4J2EA28	IgA1 protease
+Spn1439-106	AKFHGGLM_02249	A0A0B7MDS5	hypothetical protein
+Spn1439-106	AKFHGGLM_02250	Q8DN26	Putative stomatin/prohibitin-family membrane protease subunit YbbK
+Spn1439-106	AKFHGGLM_02251	C1CHF6	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization
+Spn1439-106	AKFHGGLM_02252	A0A4J2AE55	Bifunctional L-fucose isomerase/D-arabinose ketol-isomerase
+Spn1439-106	AKFHGGLM_02253	C1CB03	L-fuculose phosphate aldolase
+Spn1439-106	AKFHGGLM_02254	C1CB04	hypothetical protein
+Spn1439-106	AKFHGGLM_02255	C1CB05	Alpha-galactosidase
+Spn1439-106	AKFHGGLM_02256	C1CB06	hypothetical protein
+Spn1439-106	AKFHGGLM_02257	C1CB07	hypothetical protein
+Spn1439-106	AKFHGGLM_02258	B2INI3	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+Spn1439-106	AKFHGGLM_02259	C1CB09	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+Spn1439-106	AKFHGGLM_02260	C1CB10	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
+Spn1439-106	AKFHGGLM_02261	C1CB11	L-fuculokinase
+Spn1439-106	AKFHGGLM_02262	C1CHG7	L-fucose operon activator
+Spn1439-106	AKFHGGLM_02263		SpF66_sRNA
+Spn1439-106	AKFHGGLM_02264		SpF66_sRNA
+Spn1439-106	AKFHGGLM_02265	A0A4J2FVG5	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
+Spn1439-106	AKFHGGLM_02266	C1CHG9	Zinc ABC transporter%2C permease protein AdcB
+Spn1439-106	AKFHGGLM_02267	C1CHH0	Zinc ABC transporter%2C ATP-binding protein AdcC
+Spn1439-106	AKFHGGLM_02268	Q8DN14	Transcriptional repressor AdcR for Zn(2+)-responsive expression
+Spn1439-106	AKFHGGLM_02269	C1CB18	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+Spn1439-106	AKFHGGLM_02270	Q04HZ9	D-alanine--poly(phosphoribitol) ligase subunit 2
+Spn1439-106	AKFHGGLM_02271	A0A0B7L8I4	D-alanyl transfer protein DltB
+Spn1439-106	AKFHGGLM_02272	A0A4J2FV36	D-alanine--poly(phosphoribitol) ligase subunit 1
+Spn1439-106	AKFHGGLM_02273	B2INJ7	Macrolide-efflux protein
+Spn1439-106	AKFHGGLM_02274		Intron_gpII
+Spn1439-106	AKFHGGLM_02275	C1CBF7	hypothetical protein
+Spn1439-106	AKFHGGLM_02276		group-II-D1D4-1
+Spn1439-106	AKFHGGLM_02277		group-II-D1D4-3
+Spn1439-106	AKFHGGLM_02278	A0A4J1NJ06	hypothetical protein
+Spn1439-106	AKFHGGLM_02279	C1CBF8	Hypothetical protein
+Spn1439-106	AKFHGGLM_02280	C1CBF9	hypothetical protein
+Spn1439-106	AKFHGGLM_02281	C1CBG0	Glycerol uptake facilitator protein
+Spn1439-106	AKFHGGLM_02282	C1CBG1	Alpha-glycerophosphate oxidase
+Spn1439-106	AKFHGGLM_02283	C1CBG2	Glycerol kinase
+Spn1439-106	AKFHGGLM_02284	C1CBG3	Trans-acting positive regulator
+Spn1439-106	AKFHGGLM_02285	Q04HY8	Chaperonin%2C heat shock protein 33
+Spn1439-106	AKFHGGLM_02286	C1CBG5	tRNA dihydrouridine synthase B
+Spn1439-106	AKFHGGLM_02287	F2WWN8	Choline-binding protein A
+Spn1439-106	AKFHGGLM_02288	Q8DN04	Rhomboid family integral membrane protein
+Spn1439-106	AKFHGGLM_02289	C1CBG8	Two-component system sensor histidine kinase
+Spn1439-106	AKFHGGLM_02290	C1CBG9	Two-component system response regulator
+Spn1439-106	AKFHGGLM_02291	C1CBH2	ATP-dependent Clp protease ATP-binding subunit ClpC
+Spn1439-106	AKFHGGLM_02292	C1CBH3	Transcriptional regulator CtsR
+Spn1439-106	AKFHGGLM_02293	Q8DMZ8	Thiamin ABC transporter ThiZ%2C ATPase component
+Spn1439-106	AKFHGGLM_02294	Q8DMZ7	Thiamin ABC transporter ThiY%2C substrate-binding component
+Spn1439-106	AKFHGGLM_02295	C1CBH6	Thiamin ABC transporter ThiX%2C transmembrane component
+Spn1439-106	AKFHGGLM_02296	C1CBH7	Cytoplasmic thiamin-binding component of thiamin ABC transporter
+Spn1439-106	AKFHGGLM_02297		TPP
+Spn1439-106	AKFHGGLM_02298	C1CBH8	Choline-binding protein D
+Spn1439-106	AKFHGGLM_02299	Q8DMZ3	Hypothetical protein
+Spn1439-106	AKFHGGLM_02300	Q8DMZ2	Replicative DNA helicase DnaC
+Spn1439-106	AKFHGGLM_02301	Q04HX2	LSU ribosomal protein L9p
+Spn1439-106	AKFHGGLM_02302	C1CBI2	DHH family phosphoesterase Pde1
+Spn1439-106	AKFHGGLM_02303	C1CBI3	Ribosome hibernation promotion factor%2C long form
+Spn1439-106	AKFHGGLM_02304	C1CBI4	Phosphoribosyltransferase domain protein%2C ComF operon protein C
+Spn1439-106	AKFHGGLM_02305	C1CBI5	DNA transporter ATPase%2C ComF operon protein A
+Spn1439-106	AKFHGGLM_02306	C1CBI6	Protein co-occurring with transport systems
+Spn1439-106	AKFHGGLM_02307	C1CBI7	Cysteine synthase
+Spn1439-106	AKFHGGLM_02308	C1CBI8	hypothetical protein
+Spn1439-106	AKFHGGLM_02309	C1CBI9	IS630 family transposase ISSpn2
+Spn1439-106	AKFHGGLM_02310	C1CBJ0	IS66 family transposase Orf2
+Spn1439-106	AKFHGGLM_02311		SpF51_sRNA
+Spn1439-106	AKFHGGLM_02312	C1CBJ1	Translation elongation factor Ts
+Spn1439-106	AKFHGGLM_02313	C1CUD2	SSU ribosomal protein S2p (SAe)
+Spn1439-106	AKFHGGLM_02314	C1CHL5	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
+Spn1439-106	AKFHGGLM_02315	C1CHL6	Cell shape-determining protein MreD
+Spn1439-106	AKFHGGLM_02316	C1CHL7	Cell shape-determining protein MreC
+Spn1439-106	AKFHGGLM_02317	Q8DMY1	Transmembrane component of general energizing module of ECF transporter
+Spn1439-106	AKFHGGLM_02318	Q8DMY0	ATPase component of general energizing module of ECF transporter
+Spn1439-106	AKFHGGLM_02319	C1CHM0	ATPase component of general energizing module of ECF transporter
+Spn1439-106	AKFHGGLM_02320	Q8DMX8	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Spn1439-106	AKFHGGLM_02321	C1CBK0	Transcriptional regulator
+Spn1439-106	AKFHGGLM_02322	A0A4J2G1S2	Peptidase%2C M16 family
+Spn1439-106	AKFHGGLM_02323	B1IAD7	Zinc protease
+Spn1439-106	AKFHGGLM_02324	Q8DMX4	Hypothetical protein
+Spn1439-106	AKFHGGLM_02325	A0A0T8CCQ9	DNA recombination and repair protein RecF
+Spn1439-106	AKFHGGLM_02326	Q8DMX2	Inosine-5'-monophosphate dehydrogenase
+Spn1439-106	AKFHGGLM_02327	C1CHM8	Tryptophanyl-tRNA synthetase
+Spn1439-106	AKFHGGLM_02328	Q8DMX1	ABC transporter%2C ATP-binding protein
+Spn1439-106	AKFHGGLM_02329	C1CBK8	ABC transporter%2C permease protein
+Spn1439-106	AKFHGGLM_02330	Q8DMW8	hypothetical protein
+Spn1439-106	AKFHGGLM_02331	C1CBL0	hypothetical protein
+Spn1439-106	AKFHGGLM_02332	Q8DMW6	Transcriptional regulator%2C AcrR family
+Spn1439-106	AKFHGGLM_02333		tRNA-Asn(gtt)
+Spn1439-106	AKFHGGLM_02334		tRNA-Glu(ttc)
+Spn1439-106	AKFHGGLM_02335	Q8DMW5	Two-component system response regulator ComE
+Spn1439-106	AKFHGGLM_02336	C1CBL3	Two-component system sensor histidine kinase ComD
+Spn1439-106	AKFHGGLM_02337	Q5QIA8	Competence-stimulating peptide precursor ComC
+Spn1439-106	AKFHGGLM_02338		tRNA-Arg(tct)
+Spn1439-106	AKFHGGLM_02339	Q04HU2	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
+Spn1439-106	AKFHGGLM_02340	B2IP00	Serine protease%2C DegP/HtrA
+Spn1439-106	AKFHGGLM_02341	C1CBL7	Chromosome partitioning protein ParB
+Spn1439-106	AKFHGGLM_02342	O08397	Chromosomal replication initiator protein DnaA
+Spn1439-106	AKFHGGLM_02343	A0A0B7L3E5	DNA polymerase III beta subunit

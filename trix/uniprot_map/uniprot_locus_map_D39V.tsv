@@ -1,0 +1,2301 @@
+strain	locus_tag	uniprot	product
+D39V	SPV_0001	Q04N63	Chromosomal replication initiator protein DnaA
+D39V	SPV_0002	A0A0H2ZR23	DNA polymerase III beta subunit
+D39V	SPV_0003	A0A0H2ZNI8	Hypothetical protein
+D39V	SPV_0004	A0A0H2ZP25	GTP-binding and nucleic acid-binding protein YchF
+D39V	SPV_0005	Q04N59	Peptidyl-tRNA hydrolase
+D39V	SPV_0006	A0A0H2ZNN6	Transcription-repair coupling factor
+D39V	SPV_0007	A0A0H2ZLU2	Ribosome-associated heat shock protein
+D39V	SPV_0008	A0A0H2ZNW1	Cell division protein DivIC
+D39V	SPV_0009	A0A0H2ZQX2	Hypothetical protein
+D39V	SPV_0010	A0A0H2ZN49	Hypothetical protein
+D39V	SPV_0011	Q04N53	tRNA(Ile)-lysidine synthetase TilS
+D39V	SPV_0012	A0A0H2ZP27	Hypoxanthine-guanine phosphoribosyltransferase
+D39V	SPV_0013	A0A0H2ZMA2	Cell division protein FtsH
+D39V	SPV_0014	A0A0H2ZLC3	Competence-specific sigma factor ComX
+D39V	SPV_0015		tRNA-Glu-UUC
+D39V	SPV_0016		16S ribosomal RNA
+D39V	SPV_0017		tRNA-Ala-UGC
+D39V	SPV_0018		23S ribosomal RNA
+D39V	SPV_0019		5S ribosomal RNA
+D39V	SPV_0020		tRNA-Asn-GUU
+D39V	SPV_2070		IS630-Spn1 transposase%2C degenerate
+D39V	SPV_2073		IS1167 transposase Orf2%2C degenerate
+D39V	SPV_2076		IS1167 transposase Orf1%2C degenerate
+D39V	SPV_0023	A0A0H2ZMA7	Competence positive regulator ComW
+D39V	SPV_0024	Q04N48	Adenylosuccinate synthetase
+D39V	SPV_2078		csRNA3
+D39V	SPV_0025	A0A0H2ZPW3	tRNA-specific adenosine-34 deaminase
+D39V	SPV_0026		scRNA
+D39V	SPV_2459		Ribo-seq-identified ORF 1
+D39V	SPV_0027	A0A0H2ZNQ0	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+D39V	SPV_0028	A0A0H2ZPI4	Hypothetical protein
+D39V	SPV_0029	A0A0H2ZP87	DNA repair protein RadA
+D39V	SPV_0030	A0A0H2ZMP3	Carbonic anhydrase
+D39V	SPV_2079		Protease PrsW%2C degenerate
+D39V	SPV_0033	A0A0H2ZP84	Ribose-phosphate pyrophosphokinase
+D39V	SPV_0034		IS1167 transposase%2C truncation
+D39V	SPV_2081		ncRNA of unknown function
+D39V	SPV_2460		Ribo-seq-identified ORF 2
+D39V	SPV_2082		Hypothetical protein%2C degenerate
+D39V	SPV_0038	A0A0H2ZQE1	DNA polymerase I
+D39V	SPV_0039	A0A0H2ZM19	CoA-binding protein
+D39V	SPV_0040	A0A0H2ZNK5	(Putative) Membrane protein YeiH
+D39V	SPV_0041	A0A0H2ZP06	N-acetyl-L%2CL-diaminopimelate aminotransferase
+D39V	SPV_0042	Q04N32	DNA recombination and repair protein RecO
+D39V	SPV_0043	Q04N31	Phosphate:acyl-ACP acyltransferase PlsX
+D39V	SPV_0044	A0A0H2ZLY7	Acyl carrier protein
+D39V	SPV_0045		ISSpn7 transposase%2C truncation
+D39V	SPV_0046	A0A0H2ZPL2	Bacteriocin BlpK
+D39V	SPV_0047	A0A0H2ZLZ6	Hypothetical protein
+D39V	SPV_2462		Ribo-seq-identified ORF 4
+D39V	SPV_2461		Nasopharyngeal colonization factor
+D39V	SPV_2084		ncRNA of unknown function
+D39V	SPV_2085		IS1167 transposase Orf2
+D39V	SPV_0048		IS1167 transposase Orf1
+D39V	SPV_2086		ncRNA of unknown function
+D39V	SPV_0049	A0A0H2ZPI8	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+D39V	SPV_0050	A0A0H2ZN80	Competence-stimulating peptide ABC transporter permease protein ComB
+D39V	SPV_0051	Q04N25	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+D39V	SPV_0052	A0A0H2ZNL6	Phosphoribosylformylglycinamidine synthase%2C synthetase and glutamine amidotransferase subunits
+D39V	SPV_0053	A0A0H2ZM99	Amidophosphoribosyltransferase
+D39V	SPV_0054	Q04N22	Phosphoribosylformylglycinamidine cyclo-ligase
+D39V	SPV_0055	A0A0H2ZNE9	Phosphoribosylglycinamide formyltransferase
+D39V	SPV_0056	A0A0H2ZQX1	Teicoplanin resistance protein VanZ
+D39V	SPV_0057	Q04N19	Bifunctional inosine monophosphate cyclohydrolase/phosphoribosylaminoimidazolecarboxamide formyltransferase
+D39V	SPV_0058	A0A0H2ZRR1	Phosphoribosylamine--glycine ligase
+D39V	SPV_0059	A0A0H2ZMM8	N5-carboxyaminoimidazole ribonucleotide mutase
+D39V	SPV_0060	A0A0H2ZNN1	N5-carboxyaminoimidazole ribonucleotide synthase
+D39V	SPV_0061	A0A0H2ZPP9	Hypothetical protein
+D39V	SPV_0062	A0A0H2ZQC4	Adenylosuccinate lyase
+D39V	SPV_0063	A0A0H2ZQY4	Beta-N-acetyl-hexosaminidase
+D39V	SPV_0064	A0A0H2ZMA3	Transcriptional regulator%2C GntR family
+D39V	SPV_0065	A0A0H2ZQE5	Beta-galactosidase
+D39V	SPV_0066	A0A0H2ZMS0	Galactosamine-specific PTS IIB component
+D39V	SPV_0067	A0A0H2ZLL4	Galactosamine-specific PTS IIC component
+D39V	SPV_0068	A0A0H2ZKY1	Galactosamine-specific PTS IID component
+D39V	SPV_0069	A0A0H2ZP76	Galactosamine-specific PTS IIA component
+D39V	SPV_0070	A0A0H2ZMS8	Galactosamine-6-phosphate isomerase
+D39V	SPV_0071	A0A0H2ZRU4	Aldose 1-epimerase
+D39V	SPV_2087		Hypothetical protein
+D39V	SPV_0072	A0A0H2ZQ49	Fe(2+)- or Mn(2+)-dependent catechol 2,3 dioxygenase, catechol extradiol dioxygenase
+D39V	SPV_0073	A0A0H2ZNA4	Persulfide-sensing member of the copper-sensitive operon repressor superfamily
+D39V	SPV_2088		Hypothetical protein
+D39V	SPV_2089		Rhodanese-like domain-containing protein%2C degenerate
+D39V	SPV_2090		CoA-disulfide reductase
+D39V	SPV_0074	A0A0H2ZP23	Uridine phosphorylase
+D39V	SPV_2091		Hypothetical protein
+D39V	SPV_0076	A0A0H2ZPD0	Trk family potassium uptake protein
+D39V	SPV_0077	A0A0H2ZNB5	Trk family potassium uptake protein CabP
+D39V	SPV_2463		Ribo-seq-identified ORF 5
+D39V	SPV_2092		Glycosyltransferase%2C degenerate
+D39V	SPV_0080	A0A0H2ZM01	Cell wall surface anchor family protein PavB
+D39V	SPV_0081	A0A0H2ZQF8	Two-component regulatory system response regulator
+D39V	SPV_0082	A0A0H2ZME3	Two-component regulatory system histidine kinase
+D39V	SPV_2577		ncRNA of unknown function
+D39V	SPV_2464		Ribo-seq-identified ORF 6
+D39V	SPV_0083	Q04MZ3	SSU ribosomal protein S4p (S9e)
+D39V	SPV_2093		IS630-Spn1 transposase%2C truncation
+D39V	SPV_2094		ISSpn2 transposase Orf1%2C truncation
+D39V	SPV_0086	A0A0H2ZNK0	Hypothetical protein
+D39V	SPV_0087	A0A0H2ZNI5	Hypothetical protein
+D39V	SPV_0088	A0A0H2ZMK4	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+D39V	SPV_0089	A0A0H2ZQN0	ABC transporter permease protein
+D39V	SPV_0090	A0A0H2ZQK8	ABC transporter substrate-binding protein
+D39V	SPV_0091	Q04MY5	Rhodanese domain protein UPF0176%2C Firmicutes subgroup
+D39V	SPV_0092	A0A0H2ZMR2	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+D39V	SPV_0093	A0A0H2ZQV5	(Putative) Membrane protein
+D39V	SPV_0094	A0A0H2ZLW1	(Putative) Membrane-associated protein
+D39V	SPV_0095	A0A0H2ZN93	(Putative) integral membrane protein
+D39V	SPV_0096	A0A0H2ZN96	Transcriptional regulator%2C PadR family
+D39V	SPV_0097	A0A0H2ZLV2	Cyanate permease
+D39V	SPV_0098	A0A0H2ZQH2	Glycosyltransferase%2C group 2 family
+D39V	SPV_0099	A0A0H2ZRZ4	(Putative) UDP-GlcNAc 4%2C6-dehydratase AatA
+D39V	SPV_2095		Hypothetical protein
+D39V	SPV_0101	A0A0H2ZND9	Phosphoglycolate phosphatase
+D39V	SPV_0102	A0A0H2ZPZ7	L-serine dehydratase%2C alpha subunit
+D39V	SPV_0103	A0A0H2ZNL2	L-serine dehydratase%2C beta subunit
+D39V	SPV_0104	A0A0H2ZQH1	Aggregation-promoting factor
+D39V	SPV_2096		Hypothetical protein%2C degenerate
+D39V	SPV_2555		Ribo-seq-identified ORF 97
+D39V	SPV_0106	A0A0H2ZRQ0	(Putative) Streptococcin A Bacteriocin
+D39V	SPV_0107	A0A0H2ZNA1	(Putative) Streptococcin A Immunity protein
+D39V	SPV_0108	A0A0H2ZR74	(Putative) Streptococcin A Transporter
+D39V	SPV_0109	A0A0H2ZN67	Amino acid ABC transporter substrate-binding/permease protein%2C (Putative) periplasmic amino acid-binding protein
+D39V	SPV_0110	Q04MW7	Argininosuccinate synthase
+D39V	SPV_0111	Q04MW6	Argininosuccinate lyase
+D39V	SPV_0112	A0A0H2ZKX1	Transcriptional regulator of rtg locus
+D39V	SPV_2467		Pheromone in Rtg/SHP-like quorum-sensing system RtgR/RtgS
+D39V	SPV_2465		Ribo-seq-identified ORF 7
+D39V	SPV_2466		Ribo-seq-identified ORF 8
+D39V	SPV_0113		Peptide ABC transporter ATP-binding/permease protein%2C degenerate%2C Peptidase-containing ABC transporter for double-glycine peptides
+D39V	SPV_0114	A0A0H2ZPL8	(Putative) GyrI-like protein
+D39V	SPV_0115	A0A0H2ZQ33	HlyD family secretion protein%2C (Putative) RtgA transporter accessory protein 
+D39V	SPV_0116	A0A0H2ZNL8	Double-glycine peptide transported by RtgAB
+D39V	SPV_2574		Hypothetical protein
+D39V	SPV_2468		Ribo-seq-identified ORF 10
+D39V	SPV_2469		Ribo-seq-identified ORF 11
+D39V	SPV_2575		Transcriptional regulator of rtg locus (degenerate)
+D39V	SPV_2470		Pheromone in Rtg/SHP-like quorum-sensing system RtgR/RtgS
+D39V	SPV_2099		(Putative) protein in rtg locus
+D39V	SPV_0117	A0A0H2ZPG0	(Putative) Double-glycine containing bacteriocin precursor peptide
+D39V	SPV_2100		(Putative) protein in rtg locus
+D39V	SPV_2556		Ribo-seq-identified ORF 98
+D39V	SPV_2557		Ribo-seq-identified ORF 99
+D39V	SPV_0118	A0A0H2ZN92	Hypothetical protein
+D39V	SPV_2101		Hypothetical protein
+D39V	SPV_2558		Ribo-seq-identified ORF 100
+D39V	SPV_0119	A0A0H2ZLQ0	(Putative) Integral membrane protein
+D39V	SPV_2471		Ribo-seq-identified ORF 13
+D39V	SPV_2472		Ribo-seq-identified ORF 14
+D39V	SPV_0120	A0A0H2ZMZ8	(Putative) Integral membrane protein
+D39V	SPV_0121	A0A0H2ZPP0	(Putative) Double-glycine containing bacteriocin precursor peptide
+D39V	SPV_2102		(Putative) protein in rtg locus
+D39V	SPV_0122	A0A0H2ZMM9	(Putative) Integral membrane protein
+D39V	SPV_0123	A0A0H2ZPA0	(Putative) Double-glycine containing bacteriocin precursor peptide
+D39V	SPV_0124	A0A0H2ZP96	(Putative) Integral membrane protein
+D39V	SPV_2473		Ribo-seq-identified ORF 15
+D39V	SPV_2103		Pyridoxamine 5'-phosphate oxidase
+D39V	SPV_2578		ncRNA of unknown function
+D39V	SPV_2104		Hypothetical protein%2C degenerate
+D39V	SPV_2106		Hypothetical protein
+D39V	SPV_0126	A0A0H2ZMX6	Surface protein PspA precursor
+D39V	SPV_0127	Q04MV1	tRNA-specific 2-thiouridylase MnmA
+D39V	SPV_2107		ncRNA of unknown function
+D39V	SPV_2474		Ribo-seq-identified ORF 16
+D39V	SPV_0128	A0A0H2ZNG9	MutT/Nudix family protein
+D39V	SPV_0129	Q04MU9	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+D39V	SPV_0130	A0A0H2ZMS9	Ribonuclease J1 (endonuclease and 5' exonuclease)
+D39V	SPV_0131	Q04MU7	Hypothetical protein
+D39V	SPV_2108		Hypothetical protein
+D39V	SPV_2109		CibAB immunity factor CibC
+D39V	SPV_0132	A0A0H2ZQ79	Two-peptide bacteriocin peptide CibB
+D39V	SPV_0133	A0A0H2ZQ92	Two-peptide bacteriocin peptide CibA
+D39V	SPV_0134	A0A0H2ZPI7	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+D39V	SPV_0135	A0A0H2ZNQ1	Ribosomal-protein-S18p-alanine acetyltransferase
+D39V	SPV_0136	Q04MU2	N(6)-L-threonylcarbamoyladenine synthase TsaD
+D39V	SPV_2110		ISSsu6 transposase Orf2%2C degenerate
+D39V	SPV_2113		ISSsu6 transposase Orf1%2C degenerate
+D39V	SPV_2559		Ribo-seq-identified ORF 101
+D39V	SPV_2115		ISSsu3 transposase Orf2%2C degenerate
+D39V	SPV_2116		ISSsu3 transposase Orf1%2C truncation
+D39V	SPV_0138	A0A0H2ZNI1	Exopolysaccharide biosynthesis glycosyltransferase EpsF
+D39V	SPV_0139	A0A0H2ZQY6	Family 2 glycosyltransferase
+D39V	SPV_0140	A0A0H2ZP40	ABC transporter ATP-binding protein
+D39V	SPV_2117		Hypothetical protein%2C degenerate
+D39V	SPV_0141	A0A0H2ZL78	Asparagine synthetase
+D39V	SPV_0142	A0A0H2ZPV2	Hypothetical protein
+D39V	SPV_0143	A0A0H2ZLQ4	UDP-glucose 6-dehydrogenase
+D39V	SPV_2119		ncRNA of unknown function
+D39V	SPV_2475		Ribo-seq-identified ORF 17
+D39V	SPV_0144	A0A0H2ZP86	Positive transcriptional regulator%2C MutR family%2C RGG transcriptional regulator%2C regulator of vp1 locus
+D39V	SPV_2573		Signal peptide in Rgg144/SHP144 quorum-sensing system
+D39V	SPV_0145	A0A0H2ZNW2	Virulence peptide with glycine-glycine motif
+D39V	SPV_0146	A0A0H2ZP35	CAAX protease
+D39V	SPV_0147	A0A0H2ZMC7	(Putative) Abi family transmembrane protease
+D39V	SPV_0148	A0A0H2ZQ01	(Putative) Major facilitator superfamily 1 type transporter%2C Macrolide-efflux protein
+D39V	SPV_0149	A0A0H2ZNR8	Branched-chain amino acid transport protein
+D39V	SPV_0150	A0A0H2ZR50	Cysteine ABC transporter substrate-binding protein
+D39V	SPV_0151	A0A0H2ZPC6	Methionine ABC transporter substrate-binding protein
+D39V	SPV_0152	A0A0H2ZLI6	N-acyl-L-amino acid amidohydrolase
+D39V	SPV_0153	A0A0H2ZNA0	Methionine ABC transporter ATP-binding protein
+D39V	SPV_0154	A0A0H2ZRJ0	Methionine ABC transporter permease protein
+D39V	SPV_0155	A0A0H2ZPF5	Substrate-specific component of putative ECF transporter
+D39V	SPV_0156	A0A0H2ZMX4	Hypothetical protein
+D39V	SPV_0157	A0A0H2ZM94	Two-component regulatory system histidine kinase YesM
+D39V	SPV_0158	A0A0H2ZQE7	Two-component regulatory system response regulator YesN
+D39V	SPV_0159	A0A0H2ZPA5	Hypothetical protein
+D39V	SPV_0160	A0A0H2ZML8	Ribonucleotide reduction protein NrdI
+D39V	SPV_2476		Ribo-seq-identified ORF 18
+D39V	SPV_0161	A0A0H2ZPK9	NRAMP family Mn2+/Fe2+ transporter
+D39V	SPV_0162	A0A0H2ZMW3	Hypothetical protein
+D39V	SPV_0163	A0A0H2ZPD9	DNA-binding protein
+D39V	SPV_0165	Q04MR4	DNA mismatch repair protein HexB
+D39V	SPV_0166	Q04MR3	6%2C7-dimethyl-8-ribityllumazine synthase RibH
+D39V	SPV_0167	A0A0H2ZMP2	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
+D39V	SPV_0168	A0A0H2ZQT1	Riboflavin synthase RibE
+D39V	SPV_0169	A0A0H2ZLX4	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+D39V	SPV_2477		Ribo-seq-identified ORF 19
+D39V	SPV_2581		
+D39V	SPV_0170	Q04MQ9	Holliday junction DNA helicase RuvA
+D39V	SPV_0171	A0A0H2ZNT9	DNA-3-methyladenine glycosylase
+D39V	SPV_0172	A0A0H2ZLT4	CAAX amino terminal protease family protein
+D39V	SPV_0173	A0A0H2ZQ27	Muramoyltetrapeptide carboxypeptidase
+D39V	SPV_0174	A0A0H2ZPN0	Integral membrane protein
+D39V	SPV_0175	A0A0H2ZMR3	Magnesium and cobalt transport protein CorA1
+D39V	SPV_0176	A0A0H2ZQ77	Excinuclease ABC subunit A UvrA
+D39V	SPV_0177	A0A0H2ZP73	MP-%2CMA-%2CMS-%2CAP-%2CNP-specific aminopeptidase YpdF 
+D39V	SPV_0178	A0A0H2ZPS1	Transcriptional regulator SpxA2
+D39V	SPV_0179	A0A0H2ZMJ7	Hypothetical protein
+D39V	SPV_0180	Q04MP9	Hypothetical protein
+D39V	SPV_0181	Q04MP8	(Putative) Pre-16S rRNA nuclease YqgF
+D39V	SPV_0182	Q04MP7	Hypothetical protein
+D39V	SPV_2480		Ribo-seq-identified ORF 22
+D39V	SPV_2478		Ribo-seq-identified ORF 20
+D39V	SPV_2479		Ribo-seq-identified ORF 21
+D39V	SPV_0183	A0A0H2ZQ04	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+D39V	SPV_0184	A0A0H2ZMT9	Hypothetical protein
+D39V	SPV_2481		Ribo-seq-identified ORF 23
+D39V	SPV_0185	A0A0H2ZPC3	Cardiolipin synthetase
+D39V	SPV_2121		Hypothetical protein
+D39V	SPV_0186	A0A0H2ZMA6	Competence-damage induced protein
+D39V	SPV_0187	A0A0H2ZR20	Ribonucleotide reductase of class III%2C large subunit
+D39V	SPV_0188	A0A0H2ZM37	Hypothetical protein
+D39V	SPV_0189	A0A0H2ZS14	Acetyltransferase
+D39V	SPV_0190	A0A0H2ZPT0	Ribonucleotide reductase of class III%2C activating protein
+D39V	SPV_0191	A0A0H2ZPZ6	Hypothetical protein
+D39V	SPV_2483		Ribo-seq-identified ORF 25
+D39V	SPV_2482		Ribo-seq-identified ORF 24
+D39V	SPV_0192	Q04MN7	SSU ribosomal protein S10p (S20e)
+D39V	SPV_0193	Q04MN6	LSU ribosomal protein L3p (L3e)
+D39V	SPV_0194	Q04MN5	LSU ribosomal protein L4p (L1e)
+D39V	SPV_0195	Q04MN4	LSU ribosomal protein L23p (L23Ae)
+D39V	SPV_0196	Q04MN3	LSU ribosomal protein L2p (L8e)
+D39V	SPV_0197	Q04MN2	SSU ribosomal protein S19p (S15e)
+D39V	SPV_0198	Q04MN1	LSU ribosomal protein L22p (L17e)
+D39V	SPV_0199	Q04MN0	SSU ribosomal protein S3p (S3e)
+D39V	SPV_0200	Q04MM9	LSU ribosomal protein L16p (L10e)
+D39V	SPV_0201	Q04MM8	LSU ribosomal protein L29p (L35e)
+D39V	SPV_0202	Q04MM7	SSU ribosomal protein S17p (S11e)
+D39V	SPV_0203	Q04MM6	LSU ribosomal protein L14p (L23e)
+D39V	SPV_0204	Q04MM5	LSU ribosomal protein L24p (L26e)
+D39V	SPV_0205	Q04MM4	LSU ribosomal protein L5p (L11e)
+D39V	SPV_0206	Q04MM3	SSU ribosomal protein S14p (S29e)
+D39V	SPV_2484		Ribo-seq-identified ORF 26
+D39V	SPV_2485		Ribo-seq-identified ORF 27
+D39V	SPV_0207	Q04MM2	SSU ribosomal protein S8p (S15Ae)
+D39V	SPV_0208	Q04MM1	LSU ribosomal protein L6p (L9e)
+D39V	SPV_0209	Q04MM0	LSU ribosomal protein L18p (L5e)
+D39V	SPV_0210	Q04ML9	SSU ribosomal protein S5p (S2e)
+D39V	SPV_0211	Q04ML8	LSU ribosomal protein L30p (L7e)
+D39V	SPV_0212	Q04ML7	LSU ribosomal protein L15p (L27Ae)
+D39V	SPV_0213	A0A0H2ZPM6	Protein translocase subunit SecY
+D39V	SPV_0214	Q04ML5	Adenylate kinase
+D39V	SPV_0215	Q04ML4	Translation initiation factor 1
+D39V	SPV_2122		LSU ribosomal protein L36p
+D39V	SPV_0216	Q04ML3	SSU ribosomal protein S13p (S18e)
+D39V	SPV_0217	Q04ML2	SSU ribosomal protein S11p (S14e)
+D39V	SPV_0218	Q04ML1	DNA-directed RNA polymerase alpha subunit
+D39V	SPV_0219	Q04ML0	LSU ribosomal protein L17p
+D39V	SPV_0220	A0A0H2ZQA5	ACT domain-containing transcriptional regulator
+D39V	SPV_0221		Hypothetical protein%2C degenerate
+D39V	SPV_2125		csRNA5
+D39V	SPV_0222	A0A0H2ZPG4	Phosphoglycerate mutase family protein
+D39V	SPV_2126		Ferric iron ABC transporter permease protein%2C degenerate [pseudogene]
+D39V	SPV_0225	A0A0H2ZQA6	Ferric iron ABC transporter ATP-binding protein
+D39V	SPV_2127		Ferric iron ABC transporter iron-binding protein%2C degenerate [pseudogene]
+D39V	SPV_0228	A0A0H2ZMR6	Transcriptional regulator%2C AraC family
+D39V	SPV_0229	A0A0H2ZRH1	Pyruvate formate-lyase activating enzyme
+D39V	SPV_0230	A0A0H2ZPI6	Transcriptional regulator%2C DeoR family
+D39V	SPV_0231	A0A0H2ZRV1	Transcriptional regulator
+D39V	SPV_0232	A0A0H2ZP36	Cellobiose-specific PTS IIA component
+D39V	SPV_0233	A0A0H2ZLA9	Cellobiose-specific PTS IIB component
+D39V	SPV_0234	A0A0H2ZPD6	Cellobiose-specific PTS IIC component
+D39V	SPV_0235	A0A0H2ZLW6	Pyruvate formate-lyase
+D39V	SPV_0236	A0A0H2ZPP4	Transaldolase
+D39V	SPV_0237	A0A0H2ZMZ2	Glycerol dehydrogenase
+D39V	SPV_0238	Q04MJ2	Leucyl-tRNA synthetase
+D39V	SPV_0239	A0A0H2ZMG2	Acetyltransferase%2C GNAT family
+D39V	SPV_0240	A0A0H2ZRB7	Acetyltransferase%2C GNAT family
+D39V	SPV_2129		csRNA1
+D39V	SPV_2130		csRNA2
+D39V	SPV_2131		Type I addiction module antitoxin%2C Fst family
+D39V	SPV_2132		Type I addiction module toxin%2C Fst family
+D39V	SPV_0241	Q04MI9	Holliday junction DNA helicase RuvB
+D39V	SPV_0242	A0A0H2ZPQ6	Hypothetical protein
+D39V	SPV_2133		csRNA4
+D39V	SPV_0243	A0A0H2ZMV5	Undecaprenyl diphosphate synthase
+D39V	SPV_0244	A0A0H2ZQ96	Phosphatidate cytidylyltransferase
+D39V	SPV_0245	A0A0H2ZMH0	Intramembrane protease Eep
+D39V	SPV_0246	Q04MI4	Prolyl-tRNA synthetase
+D39V	SPV_0247	A0A0H2ZQ21	6-phospho-beta-glucosidase
+D39V	SPV_0248	A0A0H2ZP45	Glucosamine--fructose-6-phosphate aminotransferase
+D39V	SPV_0249	A0A0H2ZLN3	Oxidoreductase
+D39V	SPV_0250	A0A0H2ZL64	Pullulanase SpuA
+D39V	SPV_0251	Q04MH9	SSU ribosomal protein S12p (S23e)
+D39V	SPV_0252	Q04MH8	SSU ribosomal protein S7p (S5e)
+D39V	SPV_2486		Ribo-seq-identified ORF 28
+D39V	SPV_0253	Q04MH7	Translation elongation factor G
+D39V	SPV_0254	Q04MH6	DNA polymerase III
+D39V	SPV_0255	A0A0H2ZQG1	Antitoxin RelB1
+D39V	SPV_0256	A0A0H2ZMQ0	mRNA interferase RelE1
+D39V	SPV_0257	A0A0H2ZNS6	Hypothetical protein
+D39V	SPV_0258	A0A0H2ZQA9	Aminopeptidase PepS
+D39V	SPV_0259	A0A0H2ZN85	Membrane protein
+D39V	SPV_0260	A0A0H2ZP13	Ribosomal small subunit pseudouridine synthase A
+D39V	SPV_0261	A0A0H2ZR44	Aminopeptidase C
+D39V	SPV_0262	A0A0H2ZQN6	Mannose-specific PTS IID component
+D39V	SPV_0263	A0A0H2ZNJ8	Mannose-specific PTS IIC component
+D39V	SPV_0264	A0A0H2ZLY8	Mannose-specific PTS IIAB components
+D39V	SPV_0265	A0A0H2ZPZ1	Alcohol dehydrogenase
+D39V	SPV_2134		Hypothetical protein
+D39V	SPV_0266	A0A0H2ZP83	Hydrolase%2C HAD superfamily
+D39V	SPV_0267	A0A0H2ZMJ6	Guanine-hypoxanthine permease
+D39V	SPV_0268	A0A0H2ZPT2	Membrane-bound protease%2C CAAX family
+D39V	SPV_0269	A0A0H2ZPY0	Dihydropteroate synthase
+D39V	SPV_0270	A0A0H2ZQI4	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+D39V	SPV_0271	Q04MF9	GTP cyclohydrolase I type 1
+D39V	SPV_0272	A0A0H2ZRK9	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+D39V	SPV_0273	A0A0H2ZN76	Hypothetical protein
+D39V	SPV_2582		
+D39V	SPV_2487		Ribo-seq-identified ORF 29
+D39V	SPV_0274	A0A0H2ZMT8	LSU ribosomal protein L13p (L13Ae)
+D39V	SPV_0275	Q04MF5	SSU ribosomal protein S9p (S16e)
+D39V	SPV_2135		IS630-Spn1 transposase%2C truncation
+D39V	SPV_0276	A0A0H2ZPP5	Hypothetical protein
+D39V	SPV_0277	A0A0H2ZM73	6-phospho-beta-glucosidase
+D39V	SPV_0278	A0A0H2ZMY4	Hypothetical protein
+D39V	SPV_0279	A0A0H2ZRG9	Cellobiose-specific PTS IIB component
+D39V	SPV_0280	A0A0H2ZQ37	Transcriptional antiterminator of lichenan operon%2C BglG family
+D39V	SPV_0281	A0A0H2ZN30	Cellobiose-specific PTS IIA component
+D39V	SPV_0282	A0A0H2ZMR9	Hypothetical protein
+D39V	SPV_0283	A0A0H2ZPM8	Cellobiose-specific PTS IIC component
+D39V	SPV_0284	A0A0H2ZM72	Hypothetical protein
+D39V	SPV_2137		Hypothetical protein%2C degenerate
+D39V	SPV_2139		ncRNA of unknown function
+D39V	SPV_0285	A0A0H2ZNX8	Maltodextrin glucosidase
+D39V	SPV_0286	A0A0H2ZQC6	Glutathione peroxidase family protein
+D39V	SPV_0287	A0A0H2ZNM5	Hyaluronate lyase precursor SpnHL
+D39V	SPV_0288		IS200S transposase%2C degenerate
+D39V	SPV_0289	A0A0H2ZMY0	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxyphosphogluconate aldolase
+D39V	SPV_0290	A0A0H2ZNH2	2-dehydro-3-deoxygluconokinase
+D39V	SPV_0291	A0A0H2ZM59	(Putative) 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+D39V	SPV_0292	A0A0H2ZQC1	2-deoxy-D-gluconate 3-dehydrogenase
+D39V	SPV_0293	A0A0H2ZMX1	Hyaluronate-oligosaccharide-specific PTS IIA component
+D39V	SPV_0294	A0A0H2ZR34	Unsaturated chondroitin disaccharide hydrolase
+D39V	SPV_0295	A0A0H2ZN95	Hyaluronate-oligosaccharide-specific PTS IIB component
+D39V	SPV_0296	A0A0H2ZLJ9	Hyaluronate-oligosaccharide-specific PTS IIC component
+D39V	SPV_0297	A0A0H2ZMZ6	Hyaluronate-oligosaccharide-specific PTS IID component
+D39V	SPV_0298	A0A0H2ZMV1	Preprotein translocase subunit YajC
+D39V	SPV_2141	A0A0H2ZQW7	Oligohyaluronate lyase
+D39V	SPV_0301	A0A0H2ZM41	Transcriptional regulator RegR
+D39V	SPV_2142		Hypothetical protein
+D39V	SPV_0302	A0A0H2ZNW8	Hypothetical protein
+D39V	SPV_0303	A0A0H2ZLF3	Transcriptional regulator%2C PbsX family
+D39V	SPV_0304	Q04MC7	16S rRNA (cytosine(1402)-N(4))-methyltransferase MraW
+D39V	SPV_0305	A0A0H2ZP65	Cell division protein FtsL
+D39V	SPV_0306	A0A0H2ZRH4	Penicillin-binding protein 2X
+D39V	SPV_0307	Q04MC4	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+D39V	SPV_2488		Ribo-seq-identified ORF 30
+D39V	SPV_0308	A0A0H2ZMB9	(Putative) ATP-dependent Clp proteinase ATP-binding subunit ClpL
+D39V	SPV_0309	Q04MC2	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
+D39V	SPV_0310	Q04MC1	Hemin transporter
+D39V	SPV_0311	A0A0H2ZQ08	Glucan 1%2C6-alpha-glucosidase
+D39V	SPV_0313	A0A0H2ZQL8	S-ribosylhomocysteinase
+D39V	SPV_2143		IS630-Spn1 transposase%2C degenerate
+D39V	SPV_0315	Q9ZII9	Exopolysaccharide biosynthesis transcriptional regulator Cps2A
+D39V	SPV_0316	Q9ZII8	Tyrosine-protein phosphatase Cps2B
+D39V	SPV_0317	Q9ZII7	Capsular biosynthesis protein Cps2C
+D39V	SPV_0318	Q9ZII6	Tyrosine-protein kinase Cps2D
+D39V	SPV_0319	Q9ZII5	Undecaprenyl-phosphate galactosephosphotransferase Cps2E
+D39V	SPV_0320	Q9ZII4	Alpha-D-GlcNAc alpha-1%2C2-L-rhamnosyltransferase Cps2T
+D39V	SPV_0321	A0A0H2ZPF7	Alpha-L-Rha alpha-1%2C3-L-rhamnosyltransferase Cps2F
+D39V	SPV_0322	A0A0H2ZQD3	Glycosyltransferase Cps2G
+D39V	SPV_0323	Q9ZII1	Capsular synthesis protein Cps2H
+D39V	SPV_0324	Q9ZII0	(Putative) Glycosyltransferase Cps2I
+D39V	SPV_0325	Q9ZIH9	Polysaccharide biosynthesis protein Cps2J
+D39V	SPV_0326	Q9ZIH8	UDP-glucose 6-dehydrogenase Cps2K
+D39V	SPV_0327	Q9ZIH7	UDP-galactopyranose mutase Cps2P
+D39V	SPV_0328	Q9ZIH6	Glucose-1-phosphate thymidylyltransferase Cps2L
+D39V	SPV_0329	Q9ZIH5	dTDP-4-dehydrorhamnose 3%2C5-epimerase Cps2M
+D39V	SPV_0330	Q04MA3	dTDP-glucose 4%2C6-dehydratase Cps2N
+D39V	SPV_0331	Q04MA2	dTDP-4-dehydrorhamnose reductase Cps2O
+D39V	SPV_2144		IS66 family transposase Orf2%2C truncation
+D39V	SPV_2146		IS66 family transposase Orf3%2C degenerate
+D39V	SPV_0334	A0A0H2ZNQ3	Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA
+D39V	SPV_0335	A0A0H2ZM17	Endo-alpha-N-acetylgalactosaminidase Eng
+D39V	SPV_0336	A0A0H2ZPH2	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A
+D39V	SPV_0337	Q04M97	RecU Holliday junction resolvase
+D39V	SPV_0338	Q04M96	Hypothetical protein
+D39V	SPV_0339	Q04M95	Cell division protein GpsB
+D39V	SPV_0340		Ribonuclease P RNA component
+D39V	SPV_0341	A0A0H2ZS09	23S rRNA (guanine(2445)-N(2))-methyltransferase
+D39V	SPV_0342	A0A0H2ZPG7	Mid-cell-anchored protein Z
+D39V	SPV_0343	A0A0H2ZLA5	6-phosphogluconate dehydrogenase%2C decarboxylating
+D39V	SPV_0344	A0A0H2ZPA6	Orphan response regulator RitR%2C Reponse regulator for regulation of iron transport
+D39V	SPV_0345	A0A0H2ZLD8	Choline-binding protein CbpF
+D39V	SPV_0346	A0A0H2ZQX9	Mevalonate kinase
+D39V	SPV_0347	A0A0H2ZN59	Diphosphomevalonate decarboxylase
+D39V	SPV_0348	A0A0H2ZR70	Phosphomevalonate kinase
+D39V	SPV_0349	Q04M86	Isopentenyl-diphosphate delta-isomerase%2C FMN-dependent
+D39V	SPV_0350	A0A0H2ZQR9	Cell wall-active antibiotics response protein LiaF
+D39V	SPV_0351	A0A0H2ZM15	Two-component regulatory system histidine kinase LiaS
+D39V	SPV_0352	A0A0H2ZRR6	Two-component regulatory system response regulator LiaR
+D39V	SPV_2148		DNA alkylation repair enzyme AlkD%2C degenerate
+D39V	SPV_0355	A0A0H2ZPX6	Hypothetical protein
+D39V	SPV_0356		Choline-binding protein CbpG%2C degenerate
+D39V	SPV_0357	A0A0H2ZND3	Choline-binding protein CbpK
+D39V	SPV_0358		ISSpn11 transposase Orf2%2C degenerate
+D39V	SPV_2155		ISSpn11 transposase Orf1%2C degenerate
+D39V	SPV_0360	A0A0H2ZNA3	Mannitol-specific PTS IIBC components
+D39V	SPV_0361	A0A0H2ZQR1	Mannitol operon activator%2C BglG family
+D39V	SPV_0362	A0A0H2ZMM6	Mannitol-specific PTS IIA component
+D39V	SPV_0363	Q04M75	Mannitol-1-phosphate 5-dehydrogenase
+D39V	SPV_0364	A0A0H2ZP75	Hypothetical protein
+D39V	SPV_0365	Q04M73	Cell division trigger factor
+D39V	SPV_0366	A0A0H2ZMS3	RecD-like DNA helicase YrrC
+D39V	SPV_0367	A0A0H2ZLR8	Signal peptidase I
+D39V	SPV_0368	Q04M70	Ribonuclease HIII
+D39V	SPV_0369	A0A0H2ZR51	Z-ring positive regulator ZapA
+D39V	SPV_0370	A0A0H2ZL61	Z-ring positive regulator ZapB
+D39V	SPV_0371	Q04M67	Recombination inhibitory protein MutS2
+D39V	SPV_2583		
+D39V	SPV_0372	A0A0H2ZMA0	Sodium/glycine symporter GlyP
+D39V	SPV_0373	A0A0H2ZNM1	Macrophage infectivity potentiator protein.%2C alkylhydroperoxidase
+D39V	SPV_0374	A0A0H2ZQ89	Exfoliative toxin A
+D39V	SPV_0375	Q04M63	Seryl-tRNA synthetase
+D39V	SPV_2584		
+D39V	SPV_0376	A0A0H2ZNM8	(Putative) Regulator of the mannose operon ManO
+D39V	SPV_0377	A0A0H2ZN74	Aspartokinase
+D39V	SPV_0378	A0A0H2ZQ93	Trans-2%2Ccis-3-Decenoyl-ACP isomerase
+D39V	SPV_0379	A0A0H2ZNZ9	Transcriptional regulator of fatty acid biosynthesis FabT
+D39V	SPV_0380	Q04M58	3-oxoacyl-(acyl-carrier-protein) synthase FabH
+D39V	SPV_0381	A0A0H2ZPN8	Acyl carrier protein
+D39V	SPV_0382	A0A0H2ZNM6	Enoyl-(acyl-carrier-protein) reductase FabK
+D39V	SPV_0383	A0A0H2ZQZ1	Malonyl CoA-acyl carrier protein transacylase FabD
+D39V	SPV_0384	A0A0H2ZMC0	3-oxoacyl-[acyl-carrier protein] reductase FabG1
+D39V	SPV_0385	A0A0H2ZMK1	3-oxoacyl-(acyl-carrier-protein) synthase FabF
+D39V	SPV_0386	A0A0H2ZN18	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+D39V	SPV_0387	Q04M51	3-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+D39V	SPV_0388	A0A0H2ZNI3	Biotin carboxylase of acetyl-CoA carboxylase
+D39V	SPV_0389	A0A0H2ZMQ2	Acetyl-coenzyme A carboxyl transferase beta chain
+D39V	SPV_0390	Q04M48	Acetyl-coenzyme A carboxyl transferase alpha chain
+D39V	SPV_0391	A0A0H2ZNA9	Biofilm-regulating peptide
+D39V	SPV_2157		(Putative) Membrane peptidase%2C degenerate
+D39V	SPV_2158		Hypothetical protein
+D39V	SPV_0393	Q04M45	Transcription termination protein NusB
+D39V	SPV_0394	A0A0H2ZNA2	Alkaline shock protein
+D39V	SPV_0395	Q04M43	Translation elongation factor P
+D39V	SPV_0396	Q04M42	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit B/glutamyl-tRNA(Glu) amidotransferase subunit B
+D39V	SPV_0397	Q04M41	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit A/glutamyl-tRNA(Glu) amidotransferase subunit A
+D39V	SPV_0398	Q04M40	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit C/glutamyl-tRNA(Glu) amidotransferase subunit C
+D39V	SPV_2489		Ribo-seq-identified ORF 31
+D39V	SPV_0399	Q04M39	Peptide chain release factor 3
+D39V	SPV_2491		Ribo-seq-identified ORF 33
+D39V	SPV_2490		Ribo-seq-identified ORF 32
+D39V	SPV_0400	A0A0H2ZMZ5	(Putative) CDP-glycerol:glycerophosphate glycerophosphotransferase
+D39V	SPV_0401	Q04M37	LSU ribosomal protein L28p
+D39V	SPV_0402	A0A0H2ZN02	(Putative) Alkaline-shock protein
+D39V	SPV_0403	A0A0H2ZQS9	Dihydroxyacetone kinase-like protein / kinase of FakB-bound FA
+D39V	SPV_0404	A0A0H2ZP39	Acetolactate synthase large subunit
+D39V	SPV_0405	A0A0H2ZMX9	Acetolactate synthase small subunit
+D39V	SPV_0406	Q04M32	Ketol-acid reductoisomerase
+D39V	SPV_2492		Ribo-seq-identified ORF 34
+D39V	SPV_2159		Hypothetical protein%2C degenerate
+D39V	SPV_0408	A0A0H2ZMK2	Hypothetical protein
+D39V	SPV_0409	A0A0H2ZPH6	Threonine dehydratase
+D39V	SPV_2493		Ribo-seq-identified ORF 35
+D39V	SPV_0410	A0A0H2ZN01	Negative regulator of cps locus
+D39V	SPV_0411	A0A0H2ZQG0	Glutamine ABC transporter ATP-binding protein GlnQ1
+D39V	SPV_0412	A0A0H2ZNS9	Glutamine ABC transporter permease GlnHP1
+D39V	SPV_0414	A0A0H2ZNN9	Hypothetical protein
+D39V	SPV_0413	A0A0H2ZQ36	Degenerate transposase
+D39V	SPV_2160		IS110 family transposase%2C degenerate
+D39V	SPV_0417	Q04M23	Undecaprenyl-diphosphatase
+D39V	SPV_0418	A0A0H2ZNT5	Hypothetical protein
+D39V	SPV_0419	Q04M21	DNA polymerase IV
+D39V	SPV_2163		Hypothetical protein
+D39V	SPV_2560		Ribo-seq-identified ORF 102
+D39V	SPV_0420	A0A0H2ZQE4	Pyruvate formate-lyase
+D39V	SPV_2164		Hypothetical protein%2C degenerate
+D39V	SPV_0422	A0A0H2ZLS5	Hypothetical protein
+D39V	SPV_2165		Hypothetical protein
+D39V	SPV_2166		PTS IIB component%2C truncation
+D39V	SPV_0423	A0A0H2ZQ06	Xylose repressor protein
+D39V	SPV_0424	A0A0H2ZNL4	Cellobiose-specific PTS IIC component
+D39V	SPV_0425	A0A0H2ZN87	Hypothetical protein
+D39V	SPV_0426	A0A0H2ZPS5	Lactose-specific PTS IIA component
+D39V	SPV_0427	A0A0H2ZNU6	6-phospho-beta-galactosidase
+D39V	SPV_0428	A0A0H2ZMC5	Lactose-specific PTS IIBC components
+D39V	SPV_0429	A0A0H2ZRQ3	Trk family potassium uptake protein TrkH
+D39V	SPV_0430	A0A0H2ZLN5	Trk family potassium uptake protein TrkA
+D39V	SPV_0431	A0A0H2ZRK5	Hypothetical protein
+D39V	SPV_0432	Q04M08	Substrate-specific component MtsA of methionine-regulated ECF transporter
+D39V	SPV_0433	A0A0H2ZPC7	Hypothetical protein
+D39V	SPV_0434	A0A0H2ZPL1	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+D39V	SPV_0435	A0A0H2ZQP4	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+D39V	SPV_2167		
+D39V	SPV_0436	A0A0H2ZLI9	tRNA (cytidine(34)-2'-O)-methyltransferase
+D39V	SPV_2585		
+D39V	SPV_0437	A0A0H2ZPP6	Substrate-specific component RibU of riboflavin ECF transporter
+D39V	SPV_0438	A0A0H2ZPY3	Membrane-associated phospholipid phosphatase
+D39V	SPV_0439	A0A0H2ZRY4	Hypothetical protein
+D39V	SPV_0440	A0A0H2ZNK3	Hypothetical protein
+D39V	SPV_0441	Q04LZ9	DNA-directed RNA polymerase delta subunit
+D39V	SPV_2494		Ribo-seq-identified ORF 36
+D39V	SPV_0442	A0A0H2ZM98	CTP synthase
+D39V	SPV_0443	A0A0H2ZN05	Sodium-dependent phosphate transporter NptA
+D39V	SPV_0444	A0A0H2ZR12	Endo-beta-N-acetylglucosaminidase EndoD
+D39V	SPV_0445	Q04LZ5	Phosphoglycerate kinase
+D39V	SPV_0446	A0A0H2ZM40	Hypothetical protein
+D39V	SPV_0447	A0A0H2ZRB1	Transcriptional regulator%2C MerR family
+D39V	SPV_0448	A0A0H2ZNI4	Glutamine synthetase type I
+D39V	SPV_2168		Hypothetical protein
+D39V	SPV_0449	A0A0H2ZMQ3	Hypothetical protein
+D39V	SPV_0453	A0A0H2ZM63	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
+D39V	SPV_0452	A0A0H2ZLW9	Integrase/recombinase CreX (XerC/CodV family)
+D39V	SPV_2169		Type I restriction-modification system%2C specificity subunit S component 2.2
+D39V	SPV_2170		Type I restriction-modification system%2C specificity subunit S type F
+D39V	SPV_0454	A0A0H2ZNQ8	Type I restriction-modification system DNA-methyltransferase subunit M
+D39V	SPV_0455	A0A0H2ZM06	Type I restriction-modification system restriction subunit R
+D39V	SPV_0456	A0A0H2ZPT4	Hypothetical protein
+D39V	SPV_0457	A0A0H2ZML5	Hypothetical protein
+D39V	SPV_0458	Q04LY2	Heat-inducible transcription repressor HrcA
+D39V	SPV_0459	Q04LY1	Heat shock protein GrpE
+D39V	SPV_0460	Q04LY0	Chaperone protein DnaK
+D39V	SPV_2171		Hypothetical protein
+D39V	SPV_0461	A0A0H2ZPF6	Chaperone protein DnaJ
+D39V	SPV_0462	A0A0H2ZP80	Hypothetical protein
+D39V	SPV_0463	A0A0H2ZNA6	Histidine triad nucleotide-binding protein
+D39V	SPV_0464	A0A0H2ZMK7	ABC transporter ATP-binding protein EcsA%2C SHP exporter
+D39V	SPV_0465	A0A0H2ZNU9	ABC transporter permease protein EcsB%2C SHP exporter
+D39V	SPV_0466	A0A0H2ZND4	BlpT protein
+D39V	SPV_0467	A0A0H2ZP79	BlpS protein
+D39V	SPV_0468	A0A0H2ZLB7	Two-component regulatory system response regulator BlpR
+D39V	SPV_0469	A0A0H2ZLP4	Two-component regulatory system histidine kinase BlpH
+D39V	SPV_0470	A0A0H2ZPC9	Peptide pheromone BlpC
+D39V	SPV_0471		Peptide ABC transporter permease protein BlpB%2C degenerate
+D39V	SPV_0472		Peptide ABC transporter ATP-binding/permease protein BlpA%2C degenerate
+D39V	SPV_2176		PncW
+D39V	SPV_0473	A0A0H2ZNZ6	Bacteriocin immunity protein BlpY
+D39V	SPV_0474	A0A0H2ZQ60	Immunity protein BlpZ
+D39V	SPV_2495		Ribo-seq-identified ORF 37
+D39V	SPV_0475	A0A0H2ZM24	(Putative) Protease
+D39V	SPV_0476	A0A0H2ZQL5	pneumococcal spatiotemporal cell cycle regulator that interacts with FtsZ and controls DNA replication by modulating the activity of DnaA%2C Aminoglycoside phosphotransferase family protein
+D39V	SPV_0477	Q04LW5	tRNA (guanine(46)-N7-)-methyltransferase
+D39V	SPV_0478	Q04LW4	Bacterial ribosome SSU maturation protein RimP
+D39V	SPV_0479	A0A0H2ZL13	Transcription termination/antitermination protein NusA
+D39V	SPV_0480	A0A0H2ZNG1	(Putative) Nucleic-acid-binding protein implicated in transcription termination
+D39V	SPV_0481	A0A0H2ZLU6	L7Ae family ribosomal protein
+D39V	SPV_0482	Q04LW0	Translation initiation factor 2
+D39V	SPV_0483	Q04LV9	Ribosome-binding factor A
+D39V	SPV_0484	A0A0H2ZNN8	Hypothetical protein
+D39V	SPV_0485	A0A0H2ZLE3	Hypothetical protein
+D39V	SPV_0486	A0A0H2ZNI2	Hypothetical protein
+D39V	SPV_2177		Hypothetical protein
+D39V	SPV_0487	A0A0H2ZRJ1	Glycerate kinase
+D39V	SPV_0488	A0A0H2ZMR0	Hypothetical protein
+D39V	SPV_0489	A0A0H2ZR45	Hypothetical protein
+D39V	SPV_0490	A0A0H2ZMK3	Hypothetical protein
+D39V	SPV_2586		
+D39V	SPV_2496		Ribo-seq-identified ORF 38
+D39V	SPV_0491	A0A0H2ZPK0	Hypothetical protein
+D39V	SPV_0492	A0A0H2ZQ99	Acetyltransferase
+D39V	SPV_0493	A0A0H2ZMI2	Hypothetical protein
+D39V	SPV_0494	A0A0H2ZN81	Valyl-tRNA synthetase
+D39V	SPV_0495	A0A0H2ZQZ0	Hypothetical protein
+D39V	SPV_0496	A0A0H2ZNS3	Fic domain protein
+D39V	SPV_2178		ISSpn11 transposase Orf2%2C degenerate
+D39V	SPV_2179		ISSpn11 transposase Orf1%2C degenerate
+D39V	SPV_0500		DEAD/DEAH box family DNA/RNA helicase%2C degenerate
+D39V	SPV_2185		ncRNA of unknown function
+D39V	SPV_2497		Ribo-seq-identified ORF 39
+D39V	SPV_0501	A0A0H2ZPK8	Beta-glucoside bgl operon antiterminator BglG
+D39V	SPV_0502	A0A0H2ZLM4	Beta-glucoside-specific PTS IIBCA components
+D39V	SPV_0503	A0A0H2ZN61	6-phospho-beta-glucosidase
+D39V	SPV_2587		
+D39V	SPV_0504	Q04LU1	Phenylalanyl-tRNA synthetase alpha chain
+D39V	SPV_0505	A0A0H2ZP71	N1-spermidine/spermine acetyltransferase PaiA
+D39V	SPV_0506	A0A0H2ZRI4	Phenylalanyl-tRNA synthetase beta chain
+D39V	SPV_0507	A0A0H2ZMS7	(Putative) Integral membrane protein
+D39V	SPV_0508		ISSpn8 transposase%2C truncation
+D39V	SPV_0509	A0A0H2ZM33	Antitoxin HigA
+D39V	SPV_0510	Q04LT6	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+D39V	SPV_0511	A0A0H2ZP69	5%2C10-methylenetetrahydrofolate reductase
+D39V	SPV_2579		ncRNA of unknown function
+D39V	SPV_0512	Q04LT4	Polyribonucleotide nucleotidyltransferase
+D39V	SPV_0513	A0A0H2ZPF0	Serine acetyltransferase
+D39V	SPV_0514	A0A0H2ZMN8	Acetyltransferase%2C GNAT family
+D39V	SPV_0515	A0A0H2ZQD1	Cysteinyl-tRNA synthetase
+D39V	SPV_0516	A0A0H2ZMB1	Mini-ribonuclease III
+D39V	SPV_0517	A0A0H2ZP61	Leucine rich protein
+D39V	SPV_2188		Hypothetical protein%2C degenerate
+D39V	SPV_2189		Maturase-related protein%2C degenerate
+D39V	SPV_0521	A0A0H2ZM28	Peptide ABC transporter membrane-spanning permease Vex1
+D39V	SPV_0522	A0A0H2ZPB1	ABC transporter ATP-binding protein Vex2
+D39V	SPV_0523	A0A0H2ZLM9	Peptide ABC transporter membrane-spanning permease Vex3
+D39V	SPV_2576	Q8DQS1	Autolysis-inducing factor
+D39V	SPV_0524	A0A0H2ZPY6	Two-component regulatory system response regulator VncR
+D39V	SPV_0525	A0A0H2ZKZ7	Two-component regulatory system histidine kinase VncS
+D39V	SPV_0526	A0A0H2ZNC5	Class II fructose-bisphosphate aldolase
+D39V	SPV_0527	A0A0H2ZM38	Oxidoreductase
+D39V	SPV_0528	A0A0H2ZP10	Glutamine ABC transporter permease GlnP2b
+D39V	SPV_0529	A0A0H2ZMP7	Glutamine ABC transporter permease GlnP2a
+D39V	SPV_0530	A0A0H2ZPK1	Glutamine ABC transporter substrate-binding protein GlnH2
+D39V	SPV_0531		Glutamine ABC transporter ATP-binding protein GlnQ2%2C degenerate
+D39V	SPV_0532	A0A0H2ZRL7	Single-stranded-DNA-specific exonuclease RecJ
+D39V	SPV_0533	A0A0H2ZNV7	Ribonuclease J2
+D39V	SPV_0534	A0A0H2ZPC1	Tributyrin esterase
+D39V	SPV_0535	A0A0H2ZLA6	tRNA-dependent lipid II--L-alanine/serine ligase MurM
+D39V	SPV_0536	A0A0H2ZM89	tRNA-dependent lipid II-Ala--L-alanine ligase MurN
+D39V	SPV_0537	A0A0H2ZN89	(Putative) Zn-dependent protease
+D39V	SPV_0538	Q04LQ9	Excinuclease ABC subunit C
+D39V	SPV_0539	A0A0H2ZNG4	Serine/threonine protein phosphatase
+D39V	SPV_0540	A0A0H2ZR83	Cysteine ABC transporter substrate-binding protein
+D39V	SPV_0541	A0A0H2ZR18	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dihydropteridine reductase
+D39V	SPV_0542	A0A0H2ZMN4	Dipeptidase PepV
+D39V	SPV_0543	A0A0H2ZRG4	Uracil-DNA glycosylase
+D39V	SPV_2192		Rhodanese family protein%2C degenerate
+D39V	SPV_0546	A0A0H2ZQD0	Branched-chain amino acid transport system carrier protein
+D39V	SPV_0547	A0A0H2ZNC3	Deblocking aminopeptidase
+D39V	SPV_0548	A0A0H2ZM85	Histidine triad family protein
+D39V	SPV_0549	A0A0H2ZP28	L%2CD-carboxypeptidase
+D39V	SPV_0550	Q04LP7	LSU ribosomal protein L11p (L12e)
+D39V	SPV_0551	Q04LP6	LSU ribosomal protein L1p (L10Ae)
+D39V	SPV_0552	A0A0H2ZMU2	Hypothetical protein
+D39V	SPV_0553	A0A0H2ZQ00	Hypothetical protein
+D39V	SPV_2498		Ribo-seq-identified ORF 40
+D39V	SPV_2193		Hypothetical protein
+D39V	SPV_0554	A0A0H2ZNT7	ABC transporter ATP-binding protein
+D39V	SPV_0555	A0A0H2ZN14	Antibiotic ABC transporter permease protein
+D39V	SPV_0556	A0A0H2ZQI2	Multidrug ABC transporter permease protein
+D39V	SPV_2499		Ribo-seq-identified ORF 41
+D39V	SPV_0557		Acetyltransferase%2C degenerate
+D39V	SPV_2500		Ribo-seq-identified ORF 42
+D39V	SPV_2196		Hypothetical protein
+D39V	SPV_0558	A0A0H2ZRA8	Serine protease PrtA precursor
+D39V	SPV_0559	A0A0H2ZP11	Galactose-specific PTS IIA component
+D39V	SPV_0560	A0A0H2ZN45	Galactose-specific PTS IIB component
+D39V	SPV_0561	A0A0H2ZQC7	Galactose-specific PTS IIC component
+D39V	SPV_0562	A0A0H2ZMI1	Beta-galactosidase BgaA
+D39V	SPV_0563		IS1182 family transposase%2C degenerate
+D39V	SPV_2200		ncRNA of unknown function
+D39V	SPV_0564	A0A0H2ZN60	Hypothetical protein
+D39V	SPV_2201		(Putative) Fe-S oxidoreductase%2C degenerate
+D39V	SPV_0567	A0A0H2ZNB7	(Putative) RRNA methylase YtqB
+D39V	SPV_0568	A0A0H2ZND0	Hypothetical protein
+D39V	SPV_0569	A0A0H2ZPG1	Na+/H+ antiporter
+D39V	SPV_0570	A0A0H2ZQ66	Inner membrane protein YihY
+D39V	SPV_0571	A0A0H2ZMH7	Cytochrome c-type biogenesis protein CcdA-1
+D39V	SPV_0572	A0A0H2ZR14	Thiol:disulfide oxidoreductase.%2C surface-exposed thioredoxin-family lipoprotein
+D39V	SPV_0573	A0A0H2ZLK9	Peptide methionine sulfoxide reductase MsrAB2
+D39V	SPV_0574	A0A0H2ZP70	Two-component regulatory system response regulator YesN
+D39V	SPV_0575	A0A0H2ZLB2	Two-component regulatory system histidine kinase YesM
+D39V	SPV_0576	Q04LM3	YwlG
+D39V	SPV_0577	A0A0H2ZN64	Zinc metalloprotease ZmpB precursor
+D39V	SPV_0578	A0A0H2ZQ98	Bifunctional para-aminobenzoate synthase%2C aminase component/aminodeoxychorismate lyase
+D39V	SPV_2202		Hypothetical protein
+D39V	SPV_0579	A0A0H2ZNY8	Endo-beta-N-acetylglucosaminidase%2C choline-binding protein CbpL
+D39V	SPV_0580	A0A0H2ZPW6	Glucokinase
+D39V	SPV_0581	Q04LL8	Thymidylate synthase
+D39V	SPV_0582	A0A0H2ZMX2	Hypothetical protein
+D39V	SPV_0583	Q04LL6	tRNA dimethylallyltransferase MiaA
+D39V	SPV_0584	A0A0H2ZQ13	GTP-binding protein HflX
+D39V	SPV_0585	A0A0H2ZQT8	Cystathionine beta-lyase
+D39V	SPV_0586	Q04LL3	Ribonuclease Z
+D39V	SPV_0587	A0A0H2ZMR8	Short-chain dehydrogenase
+D39V	SPV_0588	A0A0H2ZQ29	Methionine biosynthesis and transport regulator MtaR%2C LysR family
+D39V	SPV_0589	A0A0H2ZNQ4	Hypothetical protein
+D39V	SPV_0590	A0A0H2ZLF6	Rhodanese-like domain protein
+D39V	SPV_2501		Ribo-seq-identified ORF 43
+D39V	SPV_0591	A0A0H2ZPZ0	Hypothetical protein
+D39V	SPV_0592	A0A0H2ZPE0	Ribosomal small subunit pseudouridine synthase A
+D39V	SPV_0593	A0A0H2ZQ39	GTP-binding protein TypA
+D39V	SPV_0594	A0A0H2ZLP7	(Putative) Membrane protein
+D39V	SPV_0595	A0A0H2ZPE8	(Putative) Streptococcin C bacteriocin
+D39V	SPV_0596	A0A0H2ZMM0	(Putative) Streptococcin C Immunity protein
+D39V	SPV_0597	A0A0H2ZQ50	ABC transporter ATP-binding protein%2C (Putative) Streptococcin C Transporter
+D39V	SPV_0598	Q04LK1	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+D39V	SPV_0599	Q04LK0	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+D39V	SPV_0600	A0A0H2ZRE3	Cell division protein DivIB
+D39V	SPV_0601	A0A0H2ZPM7	Hypothetical protein
+D39V	SPV_0602	A0A0H2ZLH4	Hypothetical protein
+D39V	SPV_2203		Peptidase%2C M50 family%2C degenerate
+D39V	SPV_2205		HesA/MoeB/ThiF family protein%2C degenerate
+D39V	SPV_2207		Hypothetical protein
+D39V	SPV_0605		ABC transporter%2C ATP-binding protein%2C degenerate
+D39V	SPV_0606	A0A0H2ZMU6	(Putative) Membrane spanning protein
+D39V	SPV_0607		IS30 family transposase%2C degenerate
+D39V	SPV_2588		
+D39V	SPV_0608	Q04LJ3	Orotidine 5'-phosphate decarboxylase
+D39V	SPV_0609	Q04LJ2	Orotate phosphoribosyltransferase
+D39V	SPV_0610	A0A0H2ZP19	Hypothetical protein
+D39V	SPV_0611	A0A0H2ZRK1	Hypothetical protein
+D39V	SPV_0612	A0A0H2ZQW3	Hypothetical protein
+D39V	SPV_0613	A0A0H2ZNS2	Hypothetical protein
+D39V	SPV_0614	A0A0H2ZPM4	ABC transporter ATP-binding protein
+D39V	SPV_0615		Glutamine ABC transporter substrate-binding protein GlnH3%2C degenerate
+D39V	SPV_0616	A0A0H2ZLR6	Glutamine ABC transporter ATP-binding protein GlnQ3
+D39V	SPV_0617	A0A0H2ZNY9	Glutamine ABC transporter permease GlnP3b
+D39V	SPV_0618	A0A0H2ZQC0	Glutamine ABC transporter permease GlnP3a
+D39V	SPV_0619	A0A0H2ZN83	L-Lactate 2-monooxygenase
+D39V	SPV_2502		Ribo-seq-identified ORF 44
+D39V	SPV_0620	Q04LI2	Class II lysyl-tRNA synthetase
+D39V	SPV_0621	A0A0H2ZRA5	L-Lactate 2-monooxygenase
+D39V	SPV_2589		
+D39V	SPV_0622	A0A0H2ZN50	Thiaminase II
+D39V	SPV_2213		Hypothetical protein
+D39V	SPV_0623	Q04LH9	Hydroxyethylthiazole kinase
+D39V	SPV_0624	A0A0H2ZQ09	Thiamin-phosphate pyrophosphorylase
+D39V	SPV_2590		
+D39V	SPV_0625	A0A0H2ZNH5	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+D39V	SPV_0626	A0A0H2ZQ88	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+D39V	SPV_0627	A0A0H2ZN70	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+D39V	SPV_0628	A0A0H2ZRP7	Thiaminase II TenA
+D39V	SPV_0629	A0A0H2ZQE2	Substrate-specific component ThiW of putative thiazole ECF transporter
+D39V	SPV_0630	Q04LH2	Hydroxyethylthiazole kinase
+D39V	SPV_0631	A0A0H2ZMD7	Thiamin-phosphate pyrophosphorylase
+D39V	SPV_0632	A0A0H2ZP09	Hydroxymethylpyrimidine phosphate kinase ThiD
+D39V	SPV_2503		Ribo-seq-identified ORF 45
+D39V	SPV_2591		
+D39V	SPV_0633	A0A0H2ZLC1	Negative transcriptional regulator of copper transport operon
+D39V	SPV_0634	A0A0H2ZPL4	Copper-exporting ATPase
+D39V	SPV_0635	A0A0H2ZQ91	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
+D39V	SPV_2504		Ribo-seq-identified ORF 46
+D39V	SPV_0636	A0A0H2ZP58	Pyruvate oxidase
+D39V	SPV_0637	A0A0H2ZR27	Hypothetical protein
+D39V	SPV_2214		ISSpn2 transposase%2C truncation
+D39V	SPV_0640		6-phospho-beta-glucosidase%2C truncation
+D39V	SPV_0641	A0A0H2ZPC2	Mannose-6-phosphate isomerase
+D39V	SPV_0642	A0A0H2ZME7	Sodium-dependent transporter
+D39V	SPV_0643		Regulator of the PmrA multidrug efflux pump%2C degenerate
+D39V	SPV_0644	A0A0H2ZLR1	MutT/Nudix family protein
+D39V	SPV_0645	A0A0H2ZR16	NAD(FAD)-utilizing dehydrogenase
+D39V	SPV_0646	A0A0H2ZPL7	DegV family protein /-binding polyunsaturated FA
+D39V	SPV_0647	A0A0H2ZQ31	Fatty acid saturation regulator%2C AcrR family transcriptional regulator
+D39V	SPV_0648	A0A0H2ZN16	dCMP deaminase
+D39V	SPV_0649	A0A0H2ZM67	Uracil phosphoribosyltransferase
+D39V	SPV_2505		Ribo-seq-identified ORF 47
+D39V	SPV_0650	Q04LF4	ATP-dependent Clp protease proteolytic subunit ClpP
+D39V	SPV_0651	Q04LF3	Hypothetical protein
+D39V	SPV_0652	A0A0H2ZLW7	High-affinity leucine-specific transport system%2C periplasmic-binding protein LivJ
+D39V	SPV_0653	A0A0H2ZM30	High-affinity branched-chain amino acid transport system permease protein LivH
+D39V	SPV_0654	A0A0H2ZPX3	Branched-chain amino acid transport system permease protein LivM
+D39V	SPV_0655	A0A0H2ZMY8	Branched-chain amino acid transport ATP-binding protein LivG
+D39V	SPV_0656	A0A0H2ZPS6	Branched-chain amino acid transport ATP-binding protein LivF
+D39V	SPV_0657	A0A0H2ZPI9	CBS domain protein
+D39V	SPV_2506		Ribo-seq-identified ORF 48
+D39V	SPV_0658	A0A0H2ZNW9	Peptide chain release factor 2
+D39V	SPV_0659	A0A0H2ZM82	Cell division transporter%2C ATP-binding protein FtsE
+D39V	SPV_0660	Q04LE4	Cell division protein FtsX
+D39V	SPV_0661	A0A0H2ZQ94	Maltose- and glucose-specific PTS IICBA components
+D39V	SPV_0662	A0A0H2ZML3	Exodeoxyribonuclease III
+D39V	SPV_0663	A0A0H2ZPR8	ATP-dependent RNA helicase YqfR
+D39V	SPV_2507		Ribo-seq-identified ORF 49
+D39V	SPV_0664	Q04LE0	S-adenosylmethionine synthetase
+D39V	SPV_0665	A0A0H2ZP32	Dihydroorotate dehydrogenase (fumarate)
+D39V	SPV_0666	A0A0H2ZMB0	DNA polymerase III delta subunit
+D39V	SPV_0667	A0A0H2ZLU4	Manganese superoxide dismutase
+D39V	SPV_0668	A0A0H2ZN07	(Putative) DUF1027 domain protein
+D39V	SPV_0669	Q04LD5	Bifunctional 23S rRNA (adenine(2503)-C(2))-methyltransferase/tRNA (adenine(37)-C(2))-methyltransferase
+D39V	SPV_0670	A0A0H2ZNQ7	VanZF-related protein
+D39V	SPV_0671	A0A0H2ZN36	ABC transporter ATP-binding protein
+D39V	SPV_0672	A0A0H2ZR80	Peptidyl-prolyl cis-trans isomerase
+D39V	SPV_0673	A0A0H2ZPJ4	Hypothetical protein
+D39V	SPV_2218		Hypothetical protein%2C truncation
+D39V	SPV_0674	Q04LD0	SSU ribosomal protein S16p
+D39V	SPV_0675	A0A0H2ZMB4	KH domain RNA-binding protein
+D39V	SPV_2219		Nucleoside triphosphate pyrophosphohydrolase MazG-like domain protein%2C degenerate
+D39V	SPV_2220		Alpha/beta fold family hydrolase%2C degenerate
+D39V	SPV_0678	Q04LC6	16S rRNA processing protein RimM
+D39V	SPV_0679	Q04LC5	tRNA (guanine(37)-N(1))-methyltransferase
+D39V	SPV_0680	A0A0H2ZMP4	Anaerobic ribonucleoside-triphosphate reductase
+D39V	SPV_0681	A0A0H2ZPM1	Hypothetical protein
+D39V	SPV_0683	A0A0H2ZRF1	Hypothetical protein
+D39V	SPV_0682	A0A0H2ZN28	Hypothetical protein
+D39V	SPV_0684	A0A0H2ZLZ7	Substrate-specific component BioY of biotin ECF transporter
+D39V	SPV_0685	A0A0H2ZQK4	Glutathione reductase
+D39V	SPV_0686	A0A0H2ZLT7	Periplasmic component of efflux system
+D39V	SPV_0687	A0A0H2ZMS1	ABC transporter ATP-binding protein
+D39V	SPV_0688	A0A0H2ZQW6	ABC transporter permease protein
+D39V	SPV_0689	A0A0H2ZN97	Methionyl-tRNA synthetase
+D39V	SPV_0690	A0A0H2ZR08	Hypothetical protein
+D39V	SPV_0691	A0A0H2ZMD3	﻿Phenolic acid decarboxylase transcriptional regulator
+D39V	SPV_0692	A0A0H2ZPE7	Hypothetical protein
+D39V	SPV_0693	A0A0H2ZLY3	(Putative) Oxidoreductase
+D39V	SPV_0694	A0A0H2ZPV1	Hypothetical protein
+D39V	SPV_0695	A0A0H2ZLG6	3-Ketoacyl-ACP reductase
+D39V	SPV_0696	A0A0H2ZNP0	MutT/Nudix family protein
+D39V	SPV_0697	A0A0H2ZPJ3	Acetyltransferase%2C GNAT family
+D39V	SPV_0698	A0A0H2ZNP1	PEP-utilizing enzyme family protein
+D39V	SPV_0699	A0A0H2ZPX7	Hypothetical protein
+D39V	SPV_0700	A0A0H2ZN13	Lysyl aminopeptidase PepN
+D39V	SPV_0701	A0A0H2ZLN7	Two-component regulatory system response regulator CiaR
+D39V	SPV_0702	A0A0H2ZQ10	Two-component regulatory system histidine kinase CiaH
+D39V	SPV_0703	A0A0H2ZQF1	(Putative) SEDS (Shape%2C Elongation%2C Division%2C Sporulation) protein
+D39V	SPV_0704	A0A0H2ZPN6	Protease
+D39V	SPV_0705	A0A0H2ZQF3	Bifunctional DinG family ATP-dependent helicase YoaA/DnaQ family exonuclease
+D39V	SPV_0706	A0A0H2ZMY5	Cell shape-determining protein RodA
+D39V	SPV_0707	A0A0H2ZPQ4	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+D39V	SPV_0708	A0A0H2ZM46	Hydrolase%2C haloacid dehalogenase-like family
+D39V	SPV_0709	A0A0H2ZP21	DNA gyrase subunit B
+D39V	SPV_0710	Q04L94	Septation ring formation regulator EzrA
+D39V	SPV_2221		ISSpn2 transposase%2C truncation
+D39V	SPV_0713		IS66 family transposase%2C degenerate
+D39V	SPV_0714	A0A0H2ZM10	Hypothetical protein
+D39V	SPV_0715	A0A0H2ZLQ6	MutT/Nudix family protein
+D39V	SPV_2223		IS630-Spn1 transposase%2C degenerate
+D39V	SPV_0717	A0A0H2ZNG6	ATP-dependent Clp protease ATP-binding subunit ClpE
+D39V	SPV_0718	A0A0H2ZMN3	Hypothetical protein
+D39V	SPV_0719	A0A0H2ZQB0	(Putative) Permease protein of amino acid ABC transporter
+D39V	SPV_0720	A0A0H2ZN99	(Putative) ATP-binding protein of amino acid ABC transporter
+D39V	SPV_0721	Q04L84	Bifunctional methylenetetrahydrofolate dehydrogenase (NADP+)/methenyltetrahydrofolate cyclohydrolase
+D39V	SPV_0722	A0A0H2ZPX2	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+D39V	SPV_2508		Ribo-seq-identified ORF 50
+D39V	SPV_0723	Q04L82	Ribose 5-phosphate isomerase A
+D39V	SPV_0724	Q04L81	Phosphopentomutase
+D39V	SPV_0725		Hypothetical protein%2C degenerate
+D39V	SPV_0726	A0A0H2ZMH6	Bifunctional purine nucleoside phosphorylase/N-ribosylnicotinamide phosphorylase
+D39V	SPV_2226		ncRNA of unknown function
+D39V	SPV_2561		Ribo-seq-identified ORF 103
+D39V	SPV_2227		Fucolectin-related protein%2C degenerate
+D39V	SPV_0729	A0A0H2ZQR4	Thiol-activated cytolysin
+D39V	SPV_0730	Q04L76	Purine nucleoside phosphorylase
+D39V	SPV_0731	A0A0H2ZP77	FlaR-related DNA topology modulation protein
+D39V	SPV_0732	Q04L74	SSU ribosomal protein S20p
+D39V	SPV_0733	Q04L73	Pantothenate kinase
+D39V	SPV_0734	A0A0H2ZPL9	Hypothetical protein
+D39V	SPV_2228		Hypothetical protein
+D39V	SPV_0735	A0A0H2ZMN6	16S rRNA (guanine(1207)-N(2))-methyltransferase
+D39V	SPV_0736	A0A0H2ZPY7	Pyrimidine-nucleoside phosphorylase
+D39V	SPV_0737	Q04L69	Deoxyribose-phosphate aldolase
+D39V	SPV_0738	A0A0H2ZNY5	Cytidine deaminase
+D39V	SPV_0739	A0A0H2ZR79	Substrate-binding portion of nucleoside ABC transporter PnrABCD
+D39V	SPV_0740	A0A0H2ZMV7	(Putative) ATP-binding protein in nucleoside-specific ABC transporter PnrABCD
+D39V	SPV_0741	A0A0H2ZMW5	(Putative) Permease in nucleoside-specific ABC transporter PnrABCD
+D39V	SPV_0742	A0A0H2ZPB8	(Putative) Permease in nucleoside-specific ABC transporter PnrABCD
+D39V	SPV_0743		ISSpn11 transposase Orf1%2C degenerate
+D39V	SPV_0744		ISSpn11 transposase Orf2%2C degenerate
+D39V	SPV_0745	Q04L63	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+D39V	SPV_0746	A0A0H2ZNP3	Topoisomerase IV subunit B
+D39V	SPV_2233		Restriction enzyme BcgI alpha chain-like protein
+D39V	SPV_0747	A0A0H2ZPD8	Hypothetical protein
+D39V	SPV_0748	A0A0H2ZMD1	Topoisomerase IV subunit A
+D39V	SPV_0749	A0A0H2ZNB6	Branched-chain amino acid aminotransferase
+D39V	SPV_0750	A0A0H2ZM54	Oligopeptide ABC transporter substrate-binding protein
+D39V	SPV_2509		Ribo-seq-identified ORF 51
+D39V	SPV_0751	A0A0H2ZPB0	Hypothetical protein
+D39V	SPV_0752	A0A0H2ZRN4	(Putative) Membrane protein
+D39V	SPV_0753	Q04L55	Pyrrolidone-carboxylate peptidase
+D39V	SPV_0754	A0A0H2ZPF4	Hypothetical protein
+D39V	SPV_0755		tRNA-Tyr-GUA
+D39V	SPV_0756		tRNA-Gln-UUG
+D39V	SPV_2510		Ribo-seq-identified ORF 52
+D39V	SPV_0757	A0A0H2ZLT2	SSU ribosomal protein S1p
+D39V	SPV_0758		IS1167A transposase%2C degenerate
+D39V	SPV_0759	A0A0H2ZLN4	GAF domain-containing protein
+D39V	SPV_0760	A0A0H2ZNH8	DNA polymerase III subunits gamma and tau
+D39V	SPV_0761	A0A0H2ZL53	Hypothetical protein
+D39V	SPV_2511		Ribo-seq-identified ORF 53
+D39V	SPV_0762	A0A0H2ZRV3	Iron-sulfur cluster assembly ATPase protein SufC
+D39V	SPV_0763	A0A0H2ZMP6	Iron-sulfur cluster assembly protein SufD
+D39V	SPV_0764	A0A0H2ZPW5	Cysteine desulfurase SufS
+D39V	SPV_0765	A0A0H2ZQG7	(Putative) Iron-sulfur cluster assembly scaffold protein for SUF system SufE2
+D39V	SPV_0766	A0A0H2ZM29	Iron-sulfur cluster assembly protein SufB
+D39V	SPV_0767	A0A0H2ZQ17	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
+D39V	SPV_0768	A0A0H2ZP63	Coordinator of zonal cell elongation
+D39V	SPV_0769		tmRNA
+D39V	SPV_0770		tRNA-Ser-GGA
+D39V	SPV_0771	A0A0H2ZLV6	Transcriptional repressor of the fructose operon%2C DeoR family
+D39V	SPV_0772	A0A0H2ZPQ7	1-phosphofructokinase
+D39V	SPV_0773	A0A0H2ZN94	Fructose-specific PTS IIABC components
+D39V	SPV_0774	A0A0H2ZQ12	DNA translocase FtsK
+D39V	SPV_0775	A0A0H2ZPY1	Acetyltransferase
+D39V	SPV_0776	A0A0H2ZMD8	(Putative) Cysteine desulfurase
+D39V	SPV_0777	Q04L36	tRNA 4-thiouridine synthase ThiI
+D39V	SPV_0778	A0A0H2ZLU8	(Putative) Alpha-dextrin endo-1%2C6-alpha-glucosidase
+D39V	SPV_2238		Hypothetical protein%2C degenerate
+D39V	SPV_0781	A0A0H2ZQ40	ATP-grasp-domain-containing protein
+D39V	SPV_2239		Hypothetical protein
+D39V	SPV_0782	A0A0H2ZMF0	Type I restriction-modification system DNA-methyltransferase subunit M
+D39V	SPV_0783	A0A0H2ZLC9	Type I restriction-modification system specificity subunit S
+D39V	SPV_0784	A0A0H2ZP49	Type I restriction-modification system restriction subunit R
+D39V	SPV_0785	A0A0H2ZME5	Hypothetical protein
+D39V	SPV_0786	A0A0H2ZPQ5	Arginine pathway regulatory protein ArgR2
+D39V	SPV_0787	Q04L26	Xaa-Pro dipeptidyl-peptidase
+D39V	SPV_0788	A0A0H2ZQC3	DNA polymerase III alpha subunit
+D39V	SPV_0789	Q04L24	6-phosphofructokinase
+D39V	SPV_0790	A0A0H2ZQE0	Pyruvate kinase
+D39V	SPV_2240		Transcriptional regulator%2C Xre family%2C degenerate
+D39V	SPV_2562		Ribo-seq-identified ORF 104
+D39V	SPV_0792	A0A0H2ZNX7	Membrane-associated protein
+D39V	SPV_0793	A0A0H2ZN62	Hypothetical protein
+D39V	SPV_0794		ISSpn7 transposase%2C truncation
+D39V	SPV_0795	A0A0H2ZMM3	Hypothetical protein
+D39V	SPV_0796	A0A0H2ZRU0	Hypothetical protein
+D39V	SPV_0797	A0A0H2ZPH0	ABC transporter substrate-binding protein
+D39V	SPV_0798	A0A0H2ZPM5	(Putative) Permease
+D39V	SPV_0799	A0A0H2ZLR7	Hypothetical protein
+D39V	SPV_2242		(Putative) Capsular polysaccharide biosynthesis protein%2C degenerate
+D39V	SPV_0802	A0A0H2ZMZ1	Transcription accessory protein
+D39V	SPV_2244		(Putative) SprT family zinc-dependent metallopeptidase
+D39V	SPV_0803	A0A0H2ZR39	(Putative) Phage shock protein C
+D39V	SPV_2245		Hypothetical protein
+D39V	SPV_2246		Hypothetical protein
+D39V	SPV_0804	A0A0H2ZN40	ABC transporter ATP-binding protein
+D39V	SPV_0805	A0A0H2ZPF3	ABC transporter permease protein
+D39V	SPV_0806	A0A0H2ZLI1	Hypothetical protein
+D39V	SPV_0807	A0A0H2ZPB5	ISSpn8 transposase
+D39V	SPV_0808	A0A0H2ZM04	Hypothetical protein
+D39V	SPV_2247		ncRNA of unknown function
+D39V	SPV_0809	A0A0H2ZRA0	Arginine decarboxylase
+D39V	SPV_0810		IS110 family transposase%2C degenerate
+D39V	SPV_0811	A0A0H2ZMJ1	Spermidine synthase
+D39V	SPV_0812	A0A0H2ZP94	Carboxynorspermidine synthase
+D39V	SPV_0813	A0A0H2ZMC9	Carboxynorspermidine decarboxylase
+D39V	SPV_0814	Q04L01	Agmatine deiminase
+D39V	SPV_0815	A0A0H2ZR25	N-carbamoylputrescine amidase
+D39V	SPV_0816	A0A0H2ZNR9	Hydrolase%2C HAD superfamily
+D39V	SPV_2249		(Putative) Double-glycine containing peptide
+D39V	SPV_0817	A0A0H2ZQ38	CAAX amino terminal protease family protein
+D39V	SPV_2250		Hypothetical protein
+D39V	SPV_0818	A0A0H2ZM26	Cysteine and methionine metabolism regulator CmbR%2C LysR family
+D39V	SPV_0819	A0A0H2ZPM0	Lipoprotein signal peptidase
+D39V	SPV_0820	A0A0H2ZLJ4	Ribosomal large subunit pseudouridine synthase D
+D39V	SPV_0821	A0A0H2ZNT8	Teichoic acid phosphorylcholine esterase%2C choline-binding protein CbpE
+D39V	SPV_0822	Q04KZ3	Glutamate 5-kinase
+D39V	SPV_0823	Q04KZ2	Gamma-glutamyl phosphate reductase
+D39V	SPV_0824	A0A0H2ZNT1	Pyrroline-5-carboxylate reductase
+D39V	SPV_0825	Q04KZ0	Thymidylate kinase
+D39V	SPV_0826	A0A0H2ZM57	DNA polymerase III delta prime subunit
+D39V	SPV_0827	Q04KY8	DNA replication initiation control protein YabA
+D39V	SPV_0828	A0A0H2ZMT4	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+D39V	SPV_0829	A0A0H2ZQG2	DUF1706 domain-containing protein
+D39V	SPV_0831	A0A0H2ZNP6	Replication protein
+D39V	SPV_2251		ISSpn7 transposase%2C degenerate
+D39V	SPV_2592		
+D39V	SPV_2563		Ribo-seq-identified ORF 105
+D39V	SPV_0833	Q04KY2	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+D39V	SPV_0834	Q04KY1	Uridine monophosphate kinase
+D39V	SPV_0835	Q04KY0	Ribosome-recycling factor
+D39V	SPV_0836	A0A0H2ZLJ5	S1 RNA-binding domain protein
+D39V	SPV_0837	Q04KX8	Hypothetical protein
+D39V	SPV_0838	A0A0H2ZMV3	Phosphate starvation-inducible protein PhoH
+D39V	SPV_0839	A0A0H2ZP99	Acetyltransferase
+D39V	SPV_2252		Hypothetical protein%2C degenerate
+D39V	SPV_0841		Alanine dehydrogenase%2C degenerate
+D39V	SPV_0842	A0A0H2ZNX5	Acetyltransferase%2C GNAT family
+D39V	SPV_0843	A0A0H2ZPM3	Late competence DNA receptor ComEA
+D39V	SPV_0844	A0A0H2ZM48	Late competence DNA transporter ComEC
+D39V	SPV_2256		Hypothetical protein
+D39V	SPV_2257		ABC transporter ATP-binding protein%2C degenerate
+D39V	SPV_0846	A0A0H2ZRC4	Hypothetical protein
+D39V	SPV_2258		
+D39V	SPV_2512		Ribo-seq-identified ORF 54
+D39V	SPV_0847	Q04KW9	Translation initiation factor 3
+D39V	SPV_0848	Q04KW8	LSU ribosomal protein L35p
+D39V	SPV_0849	Q04KW7	LSU ribosomal protein L20p
+D39V	SPV_0850	A0A0H2ZN15	Lactoylglutathione lyase
+D39V	SPV_2593		
+D39V	SPV_2513		Ribo-seq-identified ORF 55
+D39V	SPV_0851	A0A0H2ZMC4	Dihydroorotate dehydrogenase (NAD(+))%2C electron transfer subunit
+D39V	SPV_0852	A0A0H2ZRF9	Dihydroorotate dehydrogenase (NAD(+))%2C catalytic subunit
+D39V	SPV_0853	A0A0H2ZR63	Endo-beta-N-acetylglucosaminidase LytB
+D39V	SPV_0854	A0A0H2ZPC8	Fibronectin/fibrinogen-binding protein
+D39V	SPV_0855	Q04KW1	Metal-dependent hydrolase YbeY
+D39V	SPV_0856	A0A0H2ZMU1	Diacylglycerol kinase
+D39V	SPV_0857	Q04KV9	GTP-binding protein Era
+D39V	SPV_0858	A0A0H2ZNP5	Formamidopyrimidine-DNA glycosylase MutM
+D39V	SPV_0859	A0A0H2ZR88	Dephospho-CoA kinase
+D39V	SPV_0860	A0A0H2ZN71	Multidrug resistance efflux pump PmrA
+D39V	SPV_2259		LSU ribosomal protein L33p
+D39V	SPV_0861	A0A0H2ZQX6	Protein-export membrane protein SecG
+D39V	SPV_0862	A0A0H2ZNQ5	3'-to-5' exoribonuclease RNase R
+D39V	SPV_0863	Q04KV3	tmRNA-binding protein SmpB
+D39V	SPV_0864	A0A0H2ZMT7	Tellurite methyltransferase TehB
+D39V	SPV_0865	A0A0H2ZNC2	Competence protein CoiA
+D39V	SPV_0866	A0A0H2ZL72	Oligoendopeptidase F
+D39V	SPV_0867	A0A0H2ZMH1	O-methyltransferase family protein
+D39V	SPV_0868	Q04KU8	(Putative) Parvulin type peptidyl-prolyl isomerase PrsA
+D39V	SPV_2260		ISSpn11 transposase Orf2%2C truncation
+D39V	SPV_2262		ISSpn11 transposase Orf1%2C truncation
+D39V	SPV_0870	A0A0H2ZQJ1	Phosphoglycerate mutase family 5 protein
+D39V	SPV_0871	A0A0H2ZNK1	Transcriptional regulator
+D39V	SPV_0872	A0A0H2ZQS6	Membrane protein
+D39V	SPV_0873	A0A0H2ZPV5	1%2C4-beta-N-acetylmuramidase%2C lyzozyme M1
+D39V	SPV_0874	Q04KU2	Bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate N-acetyltransferase
+D39V	SPV_0875	A0A0H2ZMG9	ADP-ribose pyrophosphatase
+D39V	SPV_0876	A0A0H2ZNG3	(Putative) Cell wall biogenesis protein MacP
+D39V	SPV_0877	A0A0H2ZQH7	Bifunctional 5'-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+D39V	SPV_0878	A0A0H2ZKY7	Transcriptional regulator OrfX%2C Regulator of Chromosome Segregation
+D39V	SPV_0879	A0A0H2ZM96	DNA polymerase III epsilon subunit
+D39V	SPV_0880	A0A0H2ZQ11	Cell wall-anchored teichoic acid hydrolase
+D39V	SPV_2263		IS630-Spn1 transposase%2C truncation
+D39V	SPV_0883	A0A0H2ZNV2	Hypothetical protein
+D39V	SPV_0884	A0A0H2ZRG1	Hypothetical protein
+D39V	SPV_0885	A0A0H2ZPB6	Cytochrome c-type biogenesis protein CcdA-2
+D39V	SPV_0886	A0A0H2ZRJ5	Thiol:disulfide oxidoreductase.%2C surface-exposed thioredoxin-family lipoprotein
+D39V	SPV_0887	A0A0H2ZND5	Cationic amino acid transporter%2C APC Superfamily
+D39V	SPV_0888	A0A0H2ZN35	Laminin-binding surface protein
+D39V	SPV_2265		Pneumococcal histidine triad protein D
+D39V	SPV_2266		Phosphoenolpyruvate-dihydroxyacetone phosphotransferase subunit DhaM%2C degenerate
+D39V	SPV_1034	A0A0H2ZPD2	2-haloalkanoic acid dehalogenase%2C Pyrimidine 5′‐nucleotidase
+D39V	SPV_1033	A0A0H2ZL46	Hypothetical protein
+D39V	SPV_1032	Q04KE2	Uracil-DNA glycosylase%2C family 1
+D39V	SPV_1031	A0A0H2ZN52	8-oxo-dGTP diphosphatase MutX
+D39V	SPV_1030	A0A0H2ZM00	Dihydroorotase
+D39V	SPV_2267		Hypothetical protein
+D39V	SPV_1029	A0A0H2ZRK2	Dihydrolipoamide acetyltransferase
+D39V	SPV_1028	A0A0H2ZN82	Acetoin dehydrogenase E1 component alpha-subunit
+D39V	SPV_1027	A0A0H2ZQ55	Acetoin dehydrogenase E1 component beta-subunit
+D39V	SPV_1026	A0A0H2ZLY0	Dihydrolipoamide acetyltransferase (E2) component of acetoin dehydrogenase complex
+D39V	SPV_1025	A0A0H2ZLP5	Dihydrolipoamide dehydrogenase of acetoin dehydrogenase
+D39V	SPV_1024	A0A0H2ZP81	Lipoate-protein ligase A
+D39V	SPV_1023	Q04KF1	Tyrosine recombinase XerS
+D39V	SPV_2519		Ribo-seq-identified ORF 61
+D39V	SPV_1021	A0A0H2ZRM2	Voltage-gated chloride channel family protein
+D39V	SPV_1020	Q04KF4	Ribonuclease HII
+D39V	SPV_1019	A0A0H2ZLM5	50S ribosomal subunit maturation GTPase RbgA
+D39V	SPV_2518		Ribo-seq-identified ORF 60
+D39V	SPV_1018	A0A0H2ZPI5	IgA1 protease ZmpA
+D39V	SPV_1017	A0A0H2ZRB0	Hypothetical protein
+D39V	SPV_1016	Q04KF8	ATP-dependent nuclease subunit RexA
+D39V	SPV_1015	Q04KF9	ATP-dependent nuclease subunit RexB
+D39V	SPV_2268		IS630-Spn1 transposase%2C degenerate
+D39V	SPV_1013	A0A0H2ZNK4	Phage integrase%2C site-specific tyrosine recombinase
+D39V	SPV_1012	Q04KG2	Enolase
+D39V	SPV_1010	A0A0H2ZRY9	Hypothetical protein
+D39V	SPV_1011	A0A0H2ZLS4	Glycerate kinase
+D39V	SPV_1009		Phosphoserine phosphatase%2C degenerate
+D39V	SPV_1008	Q04KG5	Glycogen biosynthesis ADP-glucose--glucan transglucosylase GlgA
+D39V	SPV_1007	A0A0H2ZNV9	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgD
+D39V	SPV_1006	Q04KG7	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgC
+D39V	SPV_1005	Q04KG8	1%2C4-alpha-glucan-branching enzyme GlgB
+D39V	SPV_1004	A0A0H2ZNN4	Glyceraldehyde-3-phosphate dehydrogenase (NADP(+))
+D39V	SPV_1003	A0A0H2ZMG1	Hypothetical protein
+D39V	SPV_1002	A0A0H2ZLE5	(Putative) Glycogen debranching enzyme
+D39V	SPV_1001	Q04KH2	DNA ligase (NAD(+))
+D39V	SPV_1000	A0A0H2ZLT1	Macrolide efflux ABC transporter membrane-spanning permease
+D39V	SPV_0999	A0A0H2ZPJ0	Positive transcriptional regulator%2C MutR family
+D39V	SPV_0998	A0A0H2ZQ80	ABC transporter ATP-binding protein
+D39V	SPV_0997	A0A0H2ZMW4	DNA-binding protein HlpA
+D39V	SPV_2517		Ribo-seq-identified ORF 59
+D39V	SPV_0996	A0A0H2ZQB2	DegV family protein /-binding saturated & monounsaturated FA
+D39V	SPV_0995	A0A0H2ZMU9	Transporter
+D39V	SPV_0994	A0A0H2ZRN9	Bifunctional FMN adenylyltransferase/riboflavin kinase RibF
+D39V	SPV_0993	A0A0H2ZPD5	Hypothetical protein
+D39V	SPV_0992	A0A0H2ZND2	Hypothetical protein
+D39V	SPV_2516		Ribo-seq-identified ORF 58
+D39V	SPV_0991	Q04KI2	LSU ribosomal protein L27p
+D39V	SPV_0990	A0A0H2ZMG0	(Putative) Ribosomal protein
+D39V	SPV_0989	Q04KI4	LSU ribosomal protein L21p
+D39V	SPV_2270		
+D39V	SPV_0988	A0A0H2ZPH9	Hypothetical protein
+D39V	SPV_0987	Q04KI6	Hypothetical protein co-occurring with RecR
+D39V	SPV_2580		ncRNA of unknown function
+D39V	SPV_2271		IS1167 transposase Orf1
+D39V	SPV_0986		IS1167 transposase Orf2%2C degenerate
+D39V	SPV_0985	A0A0H2ZPD3	Phosphate acetyltransferase
+D39V	SPV_0984	A0A0H2ZNP4	RluD-like protein
+D39V	SPV_0983	Q04KI9	NAD kinase
+D39V	SPV_0982	A0A0H2ZN46	GTP pyrophosphokinase
+D39V	SPV_0981	A0A0H2ZMW8	Adenylate cyclase
+D39V	SPV_0980	A0A0H2ZRD4	Ribose-phosphate pyrophosphokinase
+D39V	SPV_0979	A0A0H2ZM13	Cysteine desulfurase
+D39V	SPV_0978	A0A0H2ZLI7	Hypothetical protein
+D39V	SPV_0977	A0A0H2ZPI1	Hypothetical protein
+D39V	SPV_0976	Q04KJ6	Redox-sensitive transcriptional regulator Rex
+D39V	SPV_0974	A0A0H2ZRF7	Glutamine amidotransferase%2C class I
+D39V	SPV_0975	Q04KJ8	DNA repair protein RadC
+D39V	SPV_0973	A0A0H2ZN88	ATP-dependent DNA helicase PcrA
+D39V	SPV_2274		ISSpn7 transposase%2C degenerate
+D39V	SPV_0970	A0A0H2ZPK7	Methionine aminopeptidase
+D39V	SPV_0969	A0A0H2ZR90	Cytosolic protein containing multiple CBS domains SpxR
+D39V	SPV_0968	A0A0H2ZNU3	Ribosomal-protein-S5p-alanine acetyltransferase
+D39V	SPV_0967	A0A0H2ZNL3	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+D39V	SPV_0966		IS1167A transposase%2C degenerate
+D39V	SPV_0965	A0A0H2ZMH5	Hypothetical protein
+D39V	SPV_0964	Q04KK7	GTP-binding protein ObgE
+D39V	SPV_0963	A0A0H2ZN58	Hypothetical protein
+D39V	SPV_0962	A0A0H2ZNJ5	Hypothetical protein
+D39V	SPV_0961	A0A0H2ZMQ4	1%2C2-diacylglycerol 3-glucosyltransferase LafA
+D39V	SPV_0960	A0A0H2ZPH7	Diglucosyl diacylglycerol synthase LafB
+D39V	SPV_0959	A0A0H2ZQ95	(Putative) Aromatic ring hydroxylating enzyme
+D39V	SPV_0958	A0A0H2ZQA1	RNA polymerase sigma factor RpoD
+D39V	SPV_0957	A0A0H2ZMA9	DNA primase
+D39V	SPV_0956	A0A0H2ZPQ8	ABC transporter ATP-binding protein
+D39V	SPV_0955	A0A0H2ZMA4	(Putative) Tryptophan-specific ABC transporter permease protein TrpY
+D39V	SPV_0954	A0A0H2ZRK0	ABC transporter substrate-binding protein
+D39V	SPV_2594		
+D39V	SPV_0953	Q04KL8	Phosphoenolpyruvate carboxylase
+D39V	SPV_0952	A0A0H2ZRW0	Peptidoglycan polymerase FtsW
+D39V	SPV_2278		IS1381A transposase Orf1%2C truncation
+D39V	SPV_0951	A0A0H2ZN39	(Putative) Repressor protein%2C phage associated
+D39V	SPV_0950	A0A0H2ZLT5	Macrolide ABC transporter membrane-spanning permease
+D39V	SPV_0949	A0A0H2ZP08	N-acetylneuraminate synthase
+D39V	SPV_0948	A0A0H2ZPT1	Nikkomycin biosynthesis protein%2C carboxylase
+D39V	SPV_0947	A0A0H2ZMG7	Hypothetical protein
+D39V	SPV_0946	A0A0H2ZN84	Hypothetical protein
+D39V	SPV_0945	A0A0H2ZQ03	Long-chain-fatty-acid--CoA ligase
+D39V	SPV_0944	A0A0H2ZLB6	Nodulation protein L
+D39V	SPV_0943	A0A0H2ZQ28	Hypothetical protein
+D39V	SPV_2279		Hypothetical protein%2C truncation
+D39V	SPV_0941	A0A0H2ZP16	GlcNAc-PI de-N-acetylase
+D39V	SPV_0940	A0A0H2ZM34	UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase
+D39V	SPV_2282		Small hydrophobic peptide SHP%2C Signal peptide in Rgg939/SHP939 quorum-sensing system
+D39V	SPV_0939	A0A0H2ZNB8	Positive transcriptional regulator%2C MutR family%2C Rgg family transcriptional regulator in Rgg939/SHP939 quorum-sensing system
+D39V	SPV_2283		Tn5252 relaxase%2C degenerate
+D39V	SPV_0935	A0A0H2ZQ23	Tn5252 Orf9 protein
+D39V	SPV_0934	A0A0H2ZMK5	Tn5252 Orf10 protein
+D39V	SPV_2285		(Putative) Phosphoesterase%2C degenerate
+D39V	SPV_0931	A0A0H2ZLI2	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
+D39V	SPV_0930	A0A0H2ZMN0	Antitoxin PezA
+D39V	SPV_2286		Hypothetical protein
+D39V	SPV_2287		Hypothetical protein%2C degenerate
+D39V	SPV_0927	A0A0H2ZQJ3	Neopullulanase
+D39V	SPV_0926	A0A0H2ZRQ7	Transcriptional regulator
+D39V	SPV_0925	A0A0H2ZMK8	(Putative) Hydrolase
+D39V	SPV_0924	A0A0H2ZRC2	Hypothetical protein
+D39V	SPV_0923	A0A0H2ZM42	Hypothetical protein
+D39V	SPV_0922	A0A0H2ZPY9	Hypothetical protein
+D39V	SPV_0921	A0A0H2ZLP9	Phage integrase
+D39V	SPV_0920	A0A0H2ZNI9	Hypothetical protein
+D39V	SPV_0919	A0A0H2ZR59	Hypothetical protein
+D39V	SPV_2288		(Putative) Type II restriction endonuclease
+D39V	SPV_2564		Ribo-seq-identified ORF 106
+D39V	SPV_0918	A0A0H2ZLQ5	Iron compound ABC uptake transporter ATP-binding protein PiaD
+D39V	SPV_0917	A0A0H2ZPF2	Iron compound ABC uptake transporter permease protein PiaC
+D39V	SPV_0916	A0A0H2ZPU7	Iron compound ABC uptake transporter permease protein PiaB
+D39V	SPV_0915	A0A0H2ZRN8	Iron compound ABC uptake transporter substrate-binding protein PiaA
+D39V	SPV_2515		Ribo-seq-identified ORF 57
+D39V	SPV_2289		Hypothetical protein%2C degenerate
+D39V	SPV_2290		Hypothetical protein
+D39V	SPV_2291		ncRNA of unknown function
+D39V	SPV_2565		Ribo-seq-identified ORF 107
+D39V	SPV_2566		Ribo-seq-identified ORF 108
+D39V	SPV_2567		Ribo-seq-identified ORF 109
+D39V	SPV_0914	A0A0H2ZMQ8	23S rRNA (uracil(1939)-C(5))-methyltransferase
+D39V	SPV_0913	A0A0H2ZPS2	Extracellular protein
+D39V	SPV_0912	A0A0H2ZQP0	membrane-bound peptidoglycan glycosidase B%2C Pneumococcal vaccine antigen A
+D39V	SPV_0911	A0A0H2ZMU3	Topoisomerase activity regulator
+D39V	SPV_0910	Q04KR0	Serine hydroxymethyltransferase
+D39V	SPV_0909	A0A0H2ZL58	N-acetyltransferase%2C GCN5-family
+D39V	SPV_0908	A0A0H2ZPD7	Threonylcarbamoyl-AMP synthase TsaC
+D39V	SPV_0907	A0A0H2ZRD8	Peptide chain release factor N(5)-glutamine methyltransferase
+D39V	SPV_0906	Q04KR4	Peptide chain release factor 1
+D39V	SPV_0905	A0A0H2ZMY2	Spermine/spermidine acetyltransferase
+D39V	SPV_0904	A0A0H2ZNP9	Thymidine kinase
+D39V	SPV_0903	A0A0H2ZMI4	Bifunctional 4-oxalocrotonate tautomerase/xylose transport system permease protein XylH
+D39V	SPV_0902	Q04KR8	GTPase and tRNA-U34 5-formylation enzyme MnmE
+D39V	SPV_0901	Q04KR9	4-hydroxy-tetrahydrodipicolinate synthase
+D39V	SPV_0900	A0A0H2ZNR4	Aspartate-semialdehyde dehydrogenase
+D39V	SPV_2292		asd RNA motif
+D39V	SPV_2514		Ribo-seq-identified ORF 56
+D39V	SPV_0899		tRNA-Thr-GGU
+D39V	SPV_0898	A0A0H2ZLD5	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
+D39V	SPV_2595		
+D39V	SPV_0897	A0A0H2ZPV9	GtrA family protein
+D39V	SPV_0896	A0A0H2ZMT3	Large-conductance mechanosensitive channel MscL
+D39V	SPV_0895	Q04KS4	Ferrochelatase%2C protoheme ferro-lyase
+D39V	SPV_0894	Q04KS5	Tripeptide aminopeptidase PepT
+D39V	SPV_2293		Histidine triad protein%2C degenerate
+D39V	SPV_0890	A0A0H2ZNY2	Pneumococcal histidine triad protein E
+D39V	SPV_2297		Pneumococcal histidine triad protein B
+D39V	SPV_1038	A0A0H2ZRF0	Pneumococcal histidine triad protein A
+D39V	SPV_2298		Hypothetical protein
+D39V	SPV_1039	A0A0H2ZMY1	Phosphoenolpyruvate-protein phosphotransferase of PTS
+D39V	SPV_1040	A0A0H2ZP52	Phosphotransferase system%2C phosphocarrier protein HPr
+D39V	SPV_1041	A0A0H2ZQM2	Glutaredoxin-like protein NrdH
+D39V	SPV_1042	A0A0H2ZNG8	Ribonucleotide reductase of class Ib%2C alpha subunit
+D39V	SPV_1043	A0A0H2ZQ78	Ribonucleotide reductase of class Ib%2C beta subunit
+D39V	SPV_1044	A0A0H2ZPE4	Lactose phosphotransferase system repressor
+D39V	SPV_2299		DUF3884 domain-containing protein%2C degenerate
+D39V	SPV_1046	A0A0H2ZPZ8	6-phospho-beta-galactosidase
+D39V	SPV_1047	A0A0H2ZLK0	Lactose-specific PTS IIBC components
+D39V	SPV_1048	A0A0H2ZP74	Lactose-specific PTS IIA component
+D39V	SPV_1049	A0A0H2ZS04	Beta-glucoside bgl operon antiterminator LacT%2C BglG family
+D39V	SPV_2300		ncRNA of unknown function
+D39V	SPV_2301		Tagatose 1%2C6-bisphosphate aldolase LacD%2C degenerate
+D39V	SPV_1051	Q04KC3	Tagatose-6-phosphate kinase LacC
+D39V	SPV_1052	Q04KC2	Galactose-6-phosphate isomerase%2C LacB subunit
+D39V	SPV_1053	Q04KC1	Galactose-6-phosphate isomerase%2C LacA subunit
+D39V	SPV_1054	A0A0H2ZQH5	Aldose epimerase
+D39V	SPV_2304		ISSpn7 transposase%2C degenerate
+D39V	SPV_1057	A0A0H2ZQ54	Galactose-specific PTS IIB component
+D39V	SPV_1058		Galactose-specific PTS IIA component%2C degenerate
+D39V	SPV_1059	A0A0H2ZQS3	Hypothetical protein
+D39V	SPV_2520		Ribo-seq-identified ORF 62
+D39V	SPV_1060	Q04KB7	Translation elongation factor LepA
+D39V	SPV_1061	A0A0H2ZPY2	Serine/threonine protein phosphatase
+D39V	SPV_1062	A0A0H2ZQS2	DNA repair protein RecN
+D39V	SPV_1063	A0A0H2ZLV7	Arginine pathway regulatory protein AhrC
+D39V	SPV_1064	A0A0H2ZPG8	RNA-binding methyltransferase
+D39V	SPV_1065	A0A0H2ZMT5	(2E%2C6E)-farnesyl diphosphate synthase
+D39V	SPV_1066	Q04KB1	Exodeoxyribonuclease VII small subunit
+D39V	SPV_1067	Q04KB0	Exodeoxyribonuclease VII large subunit
+D39V	SPV_1068	Q04KA9	Uridine kinase
+D39V	SPV_1069	A0A0H2ZME9	Hypothetical protein
+D39V	SPV_2309		Hypothetical protein
+D39V	SPV_1070	Q04KA7	tRNA pseudouridine synthase B
+D39V	SPV_1071	A0A0H2ZQ71	Hypothetical protein
+D39V	SPV_1072	A0A0H2ZNJ9	DNA inversion modulator A
+D39V	SPV_2310		Bifunctional O-acetylhomoserine sulfhydrylase/O-succinylhomoserine sulfhydrylase%2C degenerate
+D39V	SPV_1075	A0A0H2ZP85	Formate-nitrate transporter
+D39V	SPV_1076	A0A0H2ZM58	Sortase SrtA%2C LPXTG specific
+D39V	SPV_1077	A0A0H2ZP22	DNA gyrase subunit A
+D39V	SPV_1078	Q04K99	L-lactate dehydrogenase
+D39V	SPV_1079	A0A0H2ZPQ1	Type II restriction-modification system endonuclease
+D39V	SPV_1080	A0A0H2ZLY1	Type II restriction-modification system methyltransferase
+D39V	SPV_1081	A0A0H2ZN86	mRNA interferase RelE2
+D39V	SPV_1082	A0A0H2ZRH8	Replicon stabilization protein RelB2
+D39V	SPV_1083	A0A0H2ZQT7	Zn-dependent hydrolase VicX
+D39V	SPV_1084	A0A0H2ZNH9	Two-component regulatory system histidine kinase VicK
+D39V	SPV_1085	A0A0H2ZN37	Two-component regulatory system response regulator VicR
+D39V	SPV_1086	A0A0H2ZP17	A/G-specific adenine glycosylase
+D39V	SPV_1087	Q04K90	Formate--tetrahydrofolate ligase
+D39V	SPV_1088	A0A0H2ZPA4	Phosphopantothenoylcysteine synthetase
+D39V	SPV_1089	A0A0H2ZNH6	Phosphopantothenoylcysteine decarboxylase
+D39V	SPV_1090	A0A0H2ZML4	Substrate-specific component PanT of putative pantothenate ECF transporter
+D39V	SPV_1091	A0A0H2ZM93	Substrate-specific component NiaX of putative niacin ECF transporter
+D39V	SPV_1093	A0A0H2ZND1	Transcriptional repressor of NAD biosynthesis
+D39V	SPV_1092	A0A0H2ZNF2	MutT/Nudix family protein
+D39V	SPV_1094	A0A0H2ZNR3	Acetyltransferase
+D39V	SPV_1095	A0A0H2ZRL2	Acetyltransferase
+D39V	SPV_1096	Q04K81	Excinuclease ABC subunit B
+D39V	SPV_1097	A0A0H2ZLZ1	CAAX amino terminal protease family protein
+D39V	SPV_1098	A0A0H2ZPN9	Glutamine ABC transporter GlnHP5%2C containing substrate-binding and permease domains
+D39V	SPV_1099	A0A0H2ZPL5	Glutamine transport ATP-binding protein GlnQ
+D39V	SPV_1100	A0A0H2ZNC9	Glucose-6-phosphate 1-dehydrogenase
+D39V	SPV_1101	A0A0H2ZPS0	Signal recognition particle receptor FtsY
+D39V	SPV_1102	A0A0H2ZLM0	Hydrolase%2C HAD superfamily
+D39V	SPV_1103	A0A0H2ZR64	Hydrolase%2C HAD superfamily
+D39V	SPV_1104	A0A0H2ZNG5	Chromosome partition protein SMC
+D39V	SPV_1105	Q04K72	Ribonuclease III
+D39V	SPV_1106		tRNA-Arg-CCG
+D39V	SPV_1107	Q04K71	GMP reductase
+D39V	SPV_1108	A0A0H2ZQ67	Hypothetical protein
+D39V	SPV_1109	A0A0H2ZLX9	Endonuclease
+D39V	SPV_1110	A0A0H2ZQ15	Hypothetical protein
+D39V	SPV_1111	A0A0H2ZMT1	Hypothetical protein
+D39V	SPV_1112	A0A0H2ZPX1	Hypothetical protein
+D39V	SPV_1113	A0A0H2ZLX2	(Putative) 3-isopropylmalate dehydratase small subunit
+D39V	SPV_2311		(Putative) Membrane protein
+D39V	SPV_1115	A0A0H2ZQY3	3-isopropylmalate dehydrogenase
+D39V	SPV_1116		2-isopropylmalate synthase%2C degenerate
+D39V	SPV_1117	A0A0H2ZNW7	Hypothetical protein
+D39V	SPV_1118	A0A0H2ZQU4	Cytoplasmic copper homeostasis protein CutC
+D39V	SPV_1119	A0A0H2ZN57	Hypothetical protein related to heme utilization
+D39V	SPV_1120	A0A0H2ZPV8	DNA topoisomerase I
+D39V	SPV_1121	A0A0H2ZMP8	Integral membrane protein
+D39V	SPV_2521		Ribo-seq-identified ORF 63
+D39V	SPV_2314		Hypothetical protein
+D39V	SPV_1122	A0A0H2ZNN5	DNA protecting protein DprA
+D39V	SPV_1123	A0A0H2ZN66	Cholinephosphate cytidylyltransferase LicC
+D39V	SPV_1124	A0A0H2ZNP8	Choline permease LicB
+D39V	SPV_1125	A0A0H2ZMW1	Choline kinase LicA
+D39V	SPV_1126	A0A0H2ZPK4	Ribulose-5-phosphate reductase
+D39V	SPV_1127	Q04K52	Ribitol-5-phosphate cytidylyltransferase
+D39V	SPV_1128	A0A0H2ZNA7	Membrane protein TacF involved in the export of O-antigen and teichoic acid
+D39V	SPV_1129	A0A0H2ZPP8	Lipopolysaccharide cholinephosphotransferase LicD1
+D39V	SPV_1130	A0A0H2ZMN9	Lipopolysaccharide cholinephosphotransferase LicD2
+D39V	SPV_1131	Q04K48	Carbamoyl-phosphate synthase large chain CarB
+D39V	SPV_2596		
+D39V	SPV_1132	A0A0H2ZLH6	Carbamoyl-phosphate synthase small chain CarA
+D39V	SPV_1133	Q04K46	Aspartate carbamoyltransferase
+D39V	SPV_1134	Q04K45	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
+D39V	SPV_2597		
+D39V	SPV_1135	A0A0H2ZMI5	Endonuclease III
+D39V	SPV_1136	A0A0H2ZQ69	Protein%2C clustered with ribosomal protein L32p
+D39V	SPV_2315		BlpT-like protein%2C fusion family protein%2C degenerate
+D39V	SPV_2317		ncRNA of unknown function
+D39V	SPV_1137	A0A0H2ZRU3	ABC transporter ATP-binding protein
+D39V	SPV_1138	Q04K41	Heat shock protein HtpX
+D39V	SPV_1139	A0A0H2ZNX9	LemA
+D39V	SPV_1140	Q04K39	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+D39V	SPV_2598		
+D39V	SPV_1141	A0A0H2ZMV8	Uracil permease
+D39V	SPV_1142	A0A0H2ZM11	Signal recognition particle protein Ffh
+D39V	SPV_1143	Q04K36	Signal recognition particle associated protein
+D39V	SPV_1144	A0A0H2ZNK7	Hypothetical protein
+D39V	SPV_1145	A0A0H2ZNW6	dNTP triphosphohydrolase
+D39V	SPV_1146	A0A0H2ZR06	Sugar phosphatase YidA
+D39V	SPV_1147		tRNA-Arg-CCU
+D39V	SPV_1148	Q04K32	LSU ribosomal protein L19p
+D39V	SPV_2599		
+D39V	SPV_1149	A0A0H2ZMJ4	ClC-type fluoride channel
+D39V	SPV_1150	A0A0H2ZQN3	ClC-type fluoride channel
+D39V	SPV_1151	A0A0H2ZPA2	Chorismate mutase I
+D39V	SPV_1152	A0A0H2ZRE4	Flavodoxin
+D39V	SPV_1153	A0A0H2ZNP2	DHH family phosphoesterase Pde2
+D39V	SPV_1154	Q04K26	LSU ribosomal protein L31p
+D39V	SPV_1155	A0A0H2ZPZ4	Ferrous iron transport permease EfeU
+D39V	SPV_1156	A0A0H2ZND6	Ferrous iron transport peroxidase EfeB
+D39V	SPV_2318		ISSpn2 transposase Orf1%2C truncation
+D39V	SPV_1158	A0A0H2ZR49	NADP-specific glutamate dehydrogenase
+D39V	SPV_2522		Ribo-seq-identified ORF 64
+D39V	SPV_1159	A0A0H2ZNM4	Hypothetical protein
+D39V	SPV_1160	A0A0H2ZNL0	ABC transporter ATP-binding protein
+D39V	SPV_2523		Ribo-seq-identified ORF 65
+D39V	SPV_2319		IS1182 family transposase%2C degenerate
+D39V	SPV_1162	A0A0H2ZQM5	N-acetylmannosamine kinase
+D39V	SPV_2320		N-acetylneuraminate lyase%2C degenerate
+D39V	SPV_1164	A0A0H2ZNN0	Cytidine deaminase
+D39V	SPV_1165	A0A0H2ZM35	Phosphatidylglycerophosphatase
+D39V	SPV_1166	A0A0H2ZMT6	Hypothetical protein
+D39V	SPV_1167	A0A0H2ZN10	Oligopeptide transport ATP-binding protein
+D39V	SPV_1168	A0A0H2ZM90	Dipeptide transport system permease protein
+D39V	SPV_1169	A0A0H2ZP07	Oligopeptide transport system permease protein
+D39V	SPV_1170	A0A0H2ZM44	Oligopeptide ABC transporter substrate-binding protein
+D39V	SPV_1171	A0A0H2ZP95	N-acetylneuraminate epimerase
+D39V	SPV_1172	A0A0H2ZPZ3	N-acetylmannosamine-6-phosphate 2-epimerase
+D39V	SPV_1173		ISSpn7 transposase%2C truncation
+D39V	SPV_2323		ISSpn2 transposase Orf2%2C truncation
+D39V	SPV_1174	A0A0H2ZRJ7	Hypothetical protein
+D39V	SPV_2325		Hypothetical protein
+D39V	SPV_1175	A0A0H2ZLV5	Hypothetical protein
+D39V	SPV_1176	A0A0H2ZMW2	ABC transporter ATP-binding protein
+D39V	SPV_1177	A0A0H2ZQ53	ABC transporter ATP-binding/membrane spanning protein
+D39V	SPV_1178	A0A0H2ZPV3	Protease II
+D39V	SPV_1179	A0A0H2ZMF7	Lanthionine biosynthesis protein LanL
+D39V	SPV_2326		Hypothetical protein
+D39V	SPV_1180	A0A0H2ZMG5	(Putative) Tn5253 CAAX amino terminal protease
+D39V	SPV_2327		Tn5253 hypothetical protein%2C degenerate
+D39V	SPV_1182	A0A0H2ZQF6	Tn5253 hypothetical protein
+D39V	SPV_2328		Tn5253 hypothetical protein%2C truncation
+D39V	SPV_2329		Tn5253 replication initiator protein A%2C truncation
+D39V	SPV_1185	A0A0H2ZR67	Tn5253 hypothetical protein
+D39V	SPV_1186	A0A0H2ZMU7	Hypothetical protein
+D39V	SPV_1187	Q04JZ4	LSU ribosomal protein L7/L12 (P1/P2)
+D39V	SPV_1188	Q04JZ3	LSU ribosomal protein L10p (P0)
+D39V	SPV_1189	A0A0H2ZQR0	Hypothetical protein
+D39V	SPV_2330		
+D39V	SPV_1190	A0A0H2ZLS2	Methylthioadenosine deaminase
+D39V	SPV_1191	A0A0H2ZNQ2	Fosfomycin efflux pump A
+D39V	SPV_1192	A0A0H2ZMX8	Fosfomycin efflux pump B
+D39V	SPV_1193	A0A0H2ZP44	Peptide methionine sulfoxide reductase MsrAB1
+D39V	SPV_2331		Hypothetical protein
+D39V	SPV_1194	Q04JY7	Homoserine kinase
+D39V	SPV_1195	A0A0H2ZNU7	Homoserine dehydrogenase
+D39V	SPV_1196	Q04JY5	Adaptor protein MecA
+D39V	SPV_1197	A0A0H2ZNC6	TarQ
+D39V	SPV_1198	A0A0H2ZMI6	Teichoic acid ribitol polymerase
+D39V	SPV_1199	A0A0H2ZQJ6	Glycosyltransferase%2C group 2 family
+D39V	SPV_1200	A0A0H2ZP56	Glycosyltransferase%2C group 1 family
+D39V	SPV_1201	A0A0H2ZNB4	Lipopolysaccharide cholinephosphotransferase LicD3
+D39V	SPV_1202	A0A0H2ZMX3	LytR-CpsA-Psr subfamily F1 cell envelope-associated transcriptional attenuator
+D39V	SPV_1203	A0A0H2ZM27	Prephenate dehydratase
+D39V	SPV_1204	A0A0H2ZQ07	Shikimate kinase I
+D39V	SPV_1205	Q04JX6	5-Enolpyruvylshikimate-3-phosphate synthase
+D39V	SPV_1206	Q04JX5	Transcriptional regulator
+D39V	SPV_1207	A0A0H2ZN90	Prephenate dehydrogenase
+D39V	SPV_1208	Q04JX3	Chorismate synthase
+D39V	SPV_1209	Q04JX2	3-dehydroquinate synthase
+D39V	SPV_1210	Q04JX1	Shikimate/quinate 5-dehydrogenase I beta
+D39V	SPV_1211	Q04JX0	3-dehydroquinate dehydratase I
+D39V	SPV_1212	A0A0H2ZPA8	(Putative) Ribosomal RNA large subunit methyltransferase YwbD
+D39V	SPV_2524		Ribo-seq-identified ORF 66
+D39V	SPV_2525		Ribo-seq-identified ORF 67
+D39V	SPV_1213	A0A0H2ZNX0	ABC transporter permease
+D39V	SPV_1214	A0A0H2ZMF6	ABC transporter ATP-binding protein
+D39V	SPV_1215	A0A0H2ZNX4	Cytoplasmic alpha-amylase
+D39V	SPV_1216	Q04JW5	Alanyl-tRNA synthetase
+D39V	SPV_1217	A0A0H2ZLY4	Hypothetical protein
+D39V	SPV_2600		
+D39V	SPV_2527		Ribo-seq-identified ORF 69
+D39V	SPV_2526		Ribo-seq-identified ORF 68
+D39V	SPV_1218	A0A0H2ZN21	Spermidine/putrescine import ABC transporter substrate-binding protein PotD
+D39V	SPV_1219	A0A0H2ZR42	Spermidine/putrescine import ABC transporter permease protein PotC
+D39V	SPV_1220	A0A0H2ZMN7	Spermidine/putrescine import ABC transporter permease protein PotB
+D39V	SPV_1221	Q04JW0	Spermidine/putrescine import ABC transporter ATP-binding protein PotA
+D39V	SPV_1222	Q04JV9	UDP-N-acetylenolpyruvoylglucosamine reductase
+D39V	SPV_1223	A0A0H2ZPB7	Hypothetical protein
+D39V	SPV_1224	A0A0H2ZQB4	Alpha-acetolactate decarboxylase
+D39V	SPV_1225	A0A0H2ZML0	(Putative) Transcriptional regulator of pyridoxine metabolism
+D39V	SPV_1226	A0A0H2ZQB5	Amino acid ABC transporter amino acid-binding/permease protein
+D39V	SPV_1227	A0A0H2ZMB2	Phosphate transport system regulatory protein PhoU2
+D39V	SPV_1228	A0A0H2ZNE8	Phosphate transport ATP-binding protein PstB2_2
+D39V	SPV_1229	A0A0H2ZNE6	Phosphate transport ATP-binding protein PstB2_1
+D39V	SPV_1230	A0A0H2ZQV6	Phosphate transport system permease protein PstA2
+D39V	SPV_1231	A0A0H2ZPH4	Phosphate transport system permease protein PstC2
+D39V	SPV_1232	A0A0H2ZRH2	Phosphate ABC transporter periplasmic phosphate-binding protein PstS2
+D39V	SPV_2528		Ribo-seq-identified ORF 70
+D39V	SPV_2332		Hypothetical protein
+D39V	SPV_2333		Hypothetical protein
+D39V	SPV_1233	A0A0H2ZP60	tRNA and rRNA cytosine-C5-methylase
+D39V	SPV_1234	A0A0H2ZMH9	Inositol-1-monophosphatase
+D39V	SPV_1235	Q04JU6	Hypothetical protein
+D39V	SPV_1236	A0A0H2ZN42	Transcriptional regulator SpxA1
+D39V	SPV_1237	A0A0H2ZM71	Integral membrane protein
+D39V	SPV_1238	A0A0H2ZP43	(Putative) NagD-like phosphatase
+D39V	SPV_1239	A0A0H2ZN03	Acyl-ACP thioesterase
+D39V	SPV_1240	A0A0H2ZPZ5	(Putative) Radical SAM family enzyme
+D39V	SPV_1241	A0A0H2ZQC9	Hypothetical protein
+D39V	SPV_1242	A0A0H2ZLW8	General stress protein
+D39V	SPV_1243	Q04JT8	Prolipoprotein diacylglyceryl transferase
+D39V	SPV_1244	Q04JT7	HPr kinase/phosphorylase
+D39V	SPV_1245	Q04JT6	SSU ribosomal protein S21p
+D39V	SPV_2529		Ribo-seq-identified ORF 71
+D39V	SPV_1246	Q04JT5	Glucosamine-6-phosphate deaminase
+D39V	SPV_1247	Q04JT4	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+D39V	SPV_1248	A0A0H2ZRP5	Choline-binding protein CbpM
+D39V	SPV_2530		Ribo-seq-identified ORF 72
+D39V	SPV_2334		Hypothetical protein
+D39V	SPV_2568		Ribo-seq-identified ORF 110
+D39V	SPV_1249	A0A0H2ZND8	Acetyltransferase%2C GNAT family
+D39V	SPV_1250	Q04JT1	NAD synthetase
+D39V	SPV_1251	A0A0H2ZM51	Nicotinate phosphoribosyltransferase
+D39V	SPV_1252	A0A0H2ZQW1	Hypothetical protein
+D39V	SPV_1253	A0A0H2ZQV8	Transcriptional repressor
+D39V	SPV_1254	A0A0H2ZNE2	Hypothetical protein
+D39V	SPV_1255	A0A0H2ZPE3	Multidrug efflux ABC transporter ATP-binding protein
+D39V	SPV_1256	A0A0H2ZM09	Peptidase%2C U32 family large subunit (C1)
+D39V	SPV_1257	A0A0H2ZQB1	Hypothetical protein
+D39V	SPV_1258	A0A0H2ZP62	Peptidase%2C U32 family large subunit (C1)
+D39V	SPV_2531		Ribo-seq-identified ORF 73
+D39V	SPV_1259		Type II restriction-modification system endonuclease%2C degenerate
+D39V	SPV_1260	A0A0H2ZR68	Type II restriction-modification system methyltransferase
+D39V	SPV_1261	A0A0H2ZPW8	Hypothetical protein
+D39V	SPV_1262	A0A0H2ZKX7	Transcriptional regulator%2C AraC family
+D39V	SPV_1263	A0A0H2ZPS8	ABC transporter ATP-binding/permease protein
+D39V	SPV_1264	A0A0H2ZNA5	ABC transporter ATP-binding/permease protein
+D39V	SPV_1265	A0A0H2ZRI9	Substrate-specific component of putative ECF transporter
+D39V	SPV_1266	A0A0H2ZN31	Transmembrane component of energizing module of putative ECF transporter
+D39V	SPV_1267	A0A0H2ZNV3	Duplicated ATPase component of energizing module of putative ECF transporter
+D39V	SPV_2532		Ribo-seq-identified ORF 74
+D39V	SPV_2337		IS66 family transposase Orf3%2C degenerate
+D39V	SPV_1272	A0A0H2ZNV5	IS66 family transposase Orf2
+D39V	SPV_1273	A0A0H2ZQA3	IS66 family transposase Orf1
+D39V	SPV_1274	Q04JQ8	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
+D39V	SPV_1275	A0A0H2ZM22	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
+D39V	SPV_1276	A0A0H2ZPJ2	Drug/metabolite transporter superfamily protein
+D39V	SPV_1277	A0A0H2ZQ32	Beta-lactamase%2C class C
+D39V	SPV_1278	A0A0H2ZNB9	C3-degrading proteinase
+D39V	SPV_1279	A0A0H2ZLB1	Bifunctional N-acetylneuraminate cytidylyltransferase/platelet activating factor
+D39V	SPV_1280	A0A0H2ZQI3	HAD superfamily hydrolase
+D39V	SPV_2338		Capsule biosynthesis protein CapA%2C degenerate
+D39V	SPV_1284	A0A0H2ZM55	Hypothetical protein
+D39V	SPV_1285	Q04JP7	Peptide deformylase
+D39V	SPV_1286	A0A0H2ZQV0	23S rRNA (guanosine(2251)-2'-O)-methyltransferase
+D39V	SPV_1287	A0A0H2ZQI7	Thioredoxin reductase
+D39V	SPV_1288	A0A0H2ZMQ9	Hypothetical protein
+D39V	SPV_1289	A0A0H2ZQE6	Cysteine ABC transporter ATP-binding protein
+D39V	SPV_1290	A0A0H2ZN43	Cysteine ABC transporter permease protein
+D39V	SPV_1291	A0A0H2ZMR7	Arsenate reductase
+D39V	SPV_1292	A0A0H2ZQ30	Methylated-DNA--protein-cysteine methyltransferase
+D39V	SPV_1293	A0A0H2ZLR0	Acetyltransferase
+D39V	SPV_1294	A0A0H2ZPR7	Hypothetical protein
+D39V	SPV_1295	A0A0H2ZN55	Hemolysin III
+D39V	SPV_1296	Q04JN6	Pyridoxal 5'-phosphate synthase%2C glutaminase subunit PdxT
+D39V	SPV_1297	Q04JN5	Pyridoxal 5'-phosphate synthase%2C synthase subunit PdxS
+D39V	SPV_1298	A0A0H2ZPB4	NADH peroxidase
+D39V	SPV_1299	A0A0H2ZLX6	Hypothetical protein
+D39V	SPV_1300	A0A0H2ZP92	(Putative) Thiamin biosynthesis lipoprotein
+D39V	SPV_1301	A0A0H2ZP54	Fumarate reductase%2C flavoprotein subunit precursor
+D39V	SPV_1302	A0A0H2ZQ70	Fumarate reductase%2C flavoprotein subunit precursor
+D39V	SPV_1303	Q04JM9	Hypothetical protein
+D39V	SPV_1304	Q04JM8	Glycyl-tRNA synthetase beta chain
+D39V	SPV_1305	Q04JM7	Glycyl-tRNA synthetase alpha chain
+D39V	SPV_2339		Hypothetical protein%2C degenerate
+D39V	SPV_2601		
+D39V	SPV_1308	A0A0H2ZN56	Oxidoreductase of aldo/keto reductase family%2C subgroup 1
+D39V	SPV_1309	A0A0H2ZN69	Peptidoglycan N-acetylglucosamine deacetylase
+D39V	SPV_2340		Hypothetical protein%2C degenerate
+D39V	SPV_1311	A0A0H2ZN65	Oxidoreductase%2C Gfo/Idh/MocA family
+D39V	SPV_1312	A0A0H2ZQB8	ATP-dependent RNA helicase YfmL
+D39V	SPV_2341		ISSpn2 transposase Orf2%2C truncation
+D39V	SPV_2343		ISSpn11 transposase Orf2%2C degenerate
+D39V	SPV_1315		ISSpn11 transposase Orf1%2C degenerate
+D39V	SPV_2348		ISSpn2 transposase Orf1%2C truncation
+D39V	SPV_1317	A0A0H2ZQL9	Mobile element protein
+D39V	SPV_1318	Q04N79	Translation elongation factor Tu
+D39V	SPV_1319	A0A0H2ZQ48	Hypothetical protein
+D39V	SPV_1320	A0A0H2ZLY2	Major intrinsic protein family aquaporin%2C O2 influx facilitator protein pneumococcal aquaporin Pn-aqpC
+D39V	SPV_1321	A0A0H2ZNK2	Cell wall surface anchor family protein MucB
+D39V	SPV_1322	A0A0H2ZMB5	Hypothetical protein
+D39V	SPV_1323	A0A0H2ZQL1	Hypothetical protein
+D39V	SPV_2349		IS630-Spn1 related transposase%2C degenerate
+D39V	SPV_1326	A0A0H2ZN08	Phosphoglucomutase
+D39V	SPV_1327	A0A0H2ZQB3	Bacterocin transport accessory protein
+D39V	SPV_1328	A0A0H2ZLG0	Glutamine ABC transporter substrate-binding protein GlnH6
+D39V	SPV_1329	A0A0H2ZP26	Glutamine ABC transporter ATP-binding protein GlnQ6
+D39V	SPV_1330	A0A0H2ZNY7	Glutamine ABC transporter permease GlnP6
+D39V	SPV_1331	A0A0H2ZNR7	TPR-repeat-containing protein
+D39V	SPV_1332	A0A0H2ZQV2	Coordinator of zonal cell elongation
+D39V	SPV_1333	A0A0H2ZL92	6-phosphogluconolactonase
+D39V	SPV_1334	Q04N64	ATP synthase F1 sector epsilon chain
+D39V	SPV_1335	Q04HT9	ATP synthase F1 sector beta chain
+D39V	SPV_1336	Q04HT8	ATP synthase F1 sector gamma chain
+D39V	SPV_1337	Q04HT7	ATP synthase F1 sector alpha chain
+D39V	SPV_1338	Q04HT6	ATP synthase F1 sector delta chain
+D39V	SPV_1339	Q04HT5	ATP synthase F0 sector subunit b
+D39V	SPV_1340	Q04HT4	ATP synthase F0 sector subunit a
+D39V	SPV_1341	Q04HT3	ATP synthase F0 sector subunit c
+D39V	SPV_1342	A0A0H2ZQN7	ISSpn8 transposase
+D39V	SPV_2533		Ribo-seq-identified ORF 75
+D39V	SPV_2534		Ribo-seq-identified ORF 76
+D39V	SPV_1343	A0A0H2ZLP0	Acetyltransferase
+D39V	SPV_1344	A0A0H2ZPM2	Hypothetical protein
+D39V	SPV_1345	Q04HS9	Transcription elongation factor GreA
+D39V	SPV_1346	A0A0H2ZLQ1	membrane-bound peptidoglycan glycosidase A%2C Endolytic murein transglycosylase MltG
+D39V	SPV_1347	A0A0H2ZQ52	Acetyltransferase%2C GNAT family
+D39V	SPV_1348	A0A0H2ZNW5	N-terminal acetyltransferase related protein
+D39V	SPV_1349	Q04HS5	UDP-N-acetylmuramate--alanine ligase
+D39V	SPV_1350	A0A0H2ZMG8	Positive regulator of FtsZ-ring formation
+D39V	SPV_1351	A0A0H2ZPR1	SWF/SNF family helicase
+D39V	SPV_1352	A0A0H2ZQ25	Bifunctional PLP-dependent beta-cystathionase/maltose regulon repressor
+D39V	SPV_1353	A0A0H2ZM83	Cystathionine gamma-synthase
+D39V	SPV_2351		Lipid A export ATP-binding/permease protein MsbA%2C degenerate
+D39V	SPV_1357	A0A0H2ZNJ1	Oligopeptide ABC transporter oligopeptide-binding protein AliB
+D39V	SPV_1358	A0A0H2ZQ43	(Putative) Cell division protein YtgP%2C (Putative) lipid II flippase
+D39V	SPV_1359	Q04JL8	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+D39V	SPV_1360	A0A0H2ZP97	Hypothetical protein
+D39V	SPV_1361		Hypothetical protein%2C degenerate
+D39V	SPV_1362	A0A0H2ZMF1	Glutamate synthase [NADPH] large chain
+D39V	SPV_1363	Q04JL5	Manganese-dependent inorganic pyrophosphatase
+D39V	SPV_1364	Q04JL4	(Putative) Endonuclease
+D39V	SPV_1365	A0A0H2ZPW4	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase
+D39V	SPV_1366	A0A0H2ZPW2	General stress protein 13%2C conserved virulence factor D
+D39V	SPV_1367	A0A0H2ZLJ0	Bifunctional lipoprotein rotamase A/peptidyl-prolyl cis-trans isomerase
+D39V	SPV_1368	Q04JL0	SSU ribosomal protein S18p
+D39V	SPV_1369	A0A0H2ZQW0	Single-stranded DNA-binding protein
+D39V	SPV_1370	Q04JK8	SSU ribosomal protein S6p
+D39V	SPV_1371	Q04JK7	Asparaginyl-tRNA synthetase
+D39V	SPV_1372	A0A0H2ZNG2	(Putative) Lactoylglutathione lyase
+D39V	SPV_1373	A0A0H2ZNI6	Aspartate aminotransferase
+D39V	SPV_1374	A0A0H2ZN09	Spatio-temporal regulator of PBP1a and PBP2b required for pneumococcal morphogenesis
+D39V	SPV_2356		Hypothetical protein
+D39V	SPV_1375	A0A0H2ZRU6	NAD(P)H:FMN ferric reductase
+D39V	SPV_1376	A0A0H2ZM64	Pneumococcal collagen-like protein PclA
+D39V	SPV_1377	A0A0H2ZQ44	M protein trans-acting positive regulator Mga1
+D39V	SPV_1378	Q04JK0	UPF0246 protein YaaA
+D39V	SPV_1379	A0A0H2ZN91	Hypothetical protein
+D39V	SPV_1380	A0A0H2ZR55	Cell shape-determining protein
+D39V	SPV_1381	A0A0H2ZM43	Peptide deformylase
+D39V	SPV_1382	A0A0H2ZP14	Glutathione S-transferase
+D39V	SPV_1383	A0A0H2ZP05	Calcium-transporting ATPase
+D39V	SPV_2602		
+D39V	SPV_2535		Ribo-seq-identified ORF 77
+D39V	SPV_1384	A0A0H2ZQA7	Cobalt-zinc-cadmium resistance protein
+D39V	SPV_1385	A0A0H2ZP78	ATPase component of ABC transporter with duplicated ATPase domains
+D39V	SPV_1386	A0A0H2ZQ02	CCA tRNA nucleotidyltransferase
+D39V	SPV_1387	Q04JJ1	4-hydroxy-tetrahydrodipicolinate reductase
+D39V	SPV_1388	A0A0H2ZPE6	DegV family protein /-binding saturated FA
+D39V	SPV_1389	A0A0H2ZLK3	Hypothetical protein
+D39V	SPV_1390	Q04JI8	Phosphoglucosamine mutase
+D39V	SPV_1391	A0A0H2ZR21	Hypothetical protein
+D39V	SPV_1392	A0A0H2ZPG9	Bacterial checkpoint controller%2C diadenylate cyclase
+D39V	SPV_1393	Q04JI5	Thioredoxin reductase
+D39V	SPV_1394	Q04JI4	(Putative) Cytoplasmic protein
+D39V	SPV_1395	A0A0H2ZPW9	LPPG:FO 2-phospho-L-lactate transferase-like protein
+D39V	SPV_1396	Q04JI2	(Putative) P-loop-containing kinase
+D39V	SPV_1397	A0A0H2ZPH1	RidA/YER057c/UK114 superfamily protein
+D39V	SPV_1398	Q04JI0	GTP-binding protein EngB
+D39V	SPV_1399	Q04JH9	ATP-dependent Clp protease ATP-binding subunit ClpX
+D39V	SPV_1400	A0A0H2ZNU0	Hypothetical protein
+D39V	SPV_1401	A0A0H2ZQQ1	Dihydrofolate reductase
+D39V	SPV_1402	A0A0H2ZMB7	Bifunctional non-specific DNA-binding protein/ferroxidase Dpr
+D39V	SPV_1403	A0A0H2ZNC0	1%2C4-beta-N-acetylmuramidase%2C lyzozyme LytC
+D39V	SPV_1404	Q04JH4	Triosephosphate isomerase
+D39V	SPV_1405	A0A0H2ZNT4	Chromosome replication initiation protein DnaD
+D39V	SPV_1406	Q04JH2	Homoserine O-succinyltransferase
+D39V	SPV_1407	Q04JH1	Adenine phosphoribosyltransferase
+D39V	SPV_1408	A0A0H2ZRM9	SAM-dependent methyltransferase
+D39V	SPV_2357		Hypothetical protein
+D39V	SPV_1409	A0A0H2ZMS4	Multiple sugar ABC transporter%2C ATP-binding protein
+D39V	SPV_1410		tRNA-Leu-AAG
+D39V	SPV_1411	A0A0H2ZP64	Nicotinamidase
+D39V	SPV_1412	Q04JG7	GTP-sensing transcriptional pleiotropic repressor CodY
+D39V	SPV_1413	A0A0H2ZMU0	DEAD-box ATP-dependent RNA helicase CshA
+D39V	SPV_2536		Ribo-seq-identified ORF 78
+D39V	SPV_1414	A0A0H2ZNJ0	Major facilitator oxalate:formate antiporter
+D39V	SPV_1415	A0A0H2ZMK9	Pyridine nucleotide-disulfide oxidoreductase
+D39V	SPV_1416	A0A0H2ZQ14	Mur ligase family protein
+D39V	SPV_1417	A0A0H2ZML1	(Putative) Amidotransferase similar to cobyric acid synthase
+D39V	SPV_1418	A0A0H2ZNZ1	Xaa-Pro dipeptidase
+D39V	SPV_1419	A0A0H2ZRH6	Hypothetical protein
+D39V	SPV_1420		ISSpn11 transposase Orf2%2C degenerate
+D39V	SPV_1421		ISSpn11 transposase Orf1%2C truncation
+D39V	SPV_1422	A0A0H2ZMM1	Substrate-specific component PdxU2 of putative pyridoxin-related ECF transporter
+D39V	SPV_1423	A0A0H2ZPN3	Pyridoxal kinase%2C thiD family
+D39V	SPV_1424	Q04JF7	tRNA pseudouridine synthase A
+D39V	SPV_2362	Q8CYI2	Hypothetical protein
+D39V	SPV_1425	A0A0H2ZN33	Major facilitator superfamily transporter-permease
+D39V	SPV_1426	A0A0H2ZNB1	Hypothetical protein
+D39V	SPV_1427	A0A0H2ZPR0	Protein PhnA
+D39V	SPV_1428	Q04JF3	Cytidylate kinase
+D39V	SPV_1429	A0A0H2ZPH5	S protein%2C LysM domain-containing PBP1a activity regulator
+D39V	SPV_1430	A0A0H2ZNF8	Ferredoxin
+D39V	SPV_1431	A0A0H2ZMR1	Bactoprenol glucosyl transferase
+D39V	SPV_1432	A0A0H2ZN75	UDP-glucose 4-epimerase
+D39V	SPV_2363		Hypothetical protein
+D39V	SPV_1433	A0A0H2ZNV4	Glycine/D-amino acid oxidases family
+D39V	SPV_1434	A0A0H2ZRG7	(Putative) GTP cyclohydrolase 1 type 2 protein YbgI
+D39V	SPV_1435	A0A0H2ZN19	tRNA (adenine(22)-N(1))-methyltransferase
+D39V	SPV_1436	A0A0H2ZMK6	Cadmium-transporting ATPase
+D39V	SPV_1437	A0A0H2ZM31	Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase
+D39V	SPV_1438	A0A0H2ZNF0	Cadmium resistance protein CadD
+D39V	SPV_2537		Ribo-seq-identified ORF 79
+D39V	SPV_1439	Q04JE2	SSU ribosomal protein S15p (S13e)
+D39V	SPV_2603		
+D39V	SPV_2538		Ribo-seq-identified ORF 80
+D39V	SPV_1440	A0A0H2ZNI0	NAD(P)H-dependent quinone reductase
+D39V	SPV_1441	A0A0H2ZPJ7	Hypothetical protein
+D39V	SPV_2364	A0A0B7KM99	Hypothetical protein
+D39V	SPV_2604		
+D39V	SPV_2365		Hypothetical protein%2C degenerate
+D39V	SPV_1444	Q04JD7	Threonyl-tRNA synthetase
+D39V	SPV_1445	A0A0H2ZQU9	Two-component regulatory system histidine kinase SirH
+D39V	SPV_1446	A0A0H2ZP68	Two-component regulatory system response regulator SirR
+D39V	SPV_1447	A0A0H2ZPN5	Esterase/lipase
+D39V	SPV_2366	Q8CYH5	Hypothetical protein
+D39V	SPV_1448	A0A0H2ZNG7	Rrf2-family transcriptional repressor
+D39V	SPV_1449	A0A0H2ZMZ4	(Putative) Diadenosine tetraphosphatase
+D39V	SPV_1450	A0A0H2ZQ59	Mn-dependent transcriptional regulator MntR
+D39V	SPV_1451	A0A0H2ZR98	Hypothetical protein
+D39V	SPV_2367		Hypothetical protein%2C degenerate
+D39V	SPV_1454	A0A0H2ZPN7	Hypothetical protein
+D39V	SPV_2369	Q8CYH0	Hypothetical protein
+D39V	SPV_2569		Ribo-seq-identified ORF 111
+D39V	SPV_2370	A0A166YLX7	Hypothetical protein
+D39V	SPV_2371		Hypothetical protein%2C degenerate
+D39V	SPV_1457	Q04JC5	D-tyrosyl-tRNA(Tyr) deacylase
+D39V	SPV_1458	A0A0H2ZP47	Bifunctional guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase/(p)ppGpp synthetase II
+D39V	SPV_2372	Q8CYG7	Hypothetical protein
+D39V	SPV_1459	A0A0H2ZMA8	Hydroxyacylglutathione hydrolase
+D39V	SPV_1460	A0A0H2ZQ35	Neutral endopeptidase O
+D39V	SPV_1461	A0A0H2ZNF3	Manganese ABC transporter%2C ATP-binding protein PsaB
+D39V	SPV_1462	A0A0H2ZPI2	Manganese ABC transporter%2C inner membrane permease protein PsaC
+D39V	SPV_1463	A0A0H2ZNT6	Manganese ABC transporter%2C periplasmic-binding protein PsaA
+D39V	SPV_1464	Q04JB8	Thiol peroxidase%2C Tpx-type
+D39V	SPV_2539		Ribo-seq-identified ORF 81
+D39V	SPV_1465	A0A0H2ZNF1	ABC transporter%2C permease protein
+D39V	SPV_1466	A0A0H2ZNE3	ABC transporter%2C ATP-binding protein
+D39V	SPV_1467	A0A0H2ZM36	(Putative) Large secreted protein
+D39V	SPV_1468	Q04JB4	Phosphoglycerate mutase
+D39V	SPV_1469	A0A0H2ZMD5	Hypothetical protein
+D39V	SPV_2373		Prophage Lp1 protein 6%2C degenerate
+D39V	SPV_1472	Q04JB0	Isoleucyl-tRNA synthetase
+D39V	SPV_2605		
+D39V	SPV_1474	A0A0H2ZM91	Cell division initiation protein DivIVA
+D39V	SPV_1475	A0A0H2ZPR4	YlmH
+D39V	SPV_1476	A0A0H2ZQH9	Cell division integral membrane protein YlmG%2C YGGT family
+D39V	SPV_1477	Q04JA5	FtsZ-interacting protein related to cell division YlmF
+D39V	SPV_1478	A0A0H2ZNL5	YlmE
+D39V	SPV_1479	A0A0H2ZNE0	Cell division protein FtsZ
+D39V	SPV_1480	A0A0H2ZPT5	Cell division protein FtsA
+D39V	SPV_1481	A0A0H2ZN72	(Putative) Membrane protein
+D39V	SPV_1482	A0A0H2ZPN4	MutT/nudix family protein phosphohydrolase
+D39V	SPV_1483	A0A0H2ZN51	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+D39V	SPV_1484	Q04J98	D-alanine--D-alanine ligase
+D39V	SPV_1485	Q04J97	Recombination protein RecR
+D39V	SPV_1486	A0A0H2ZQ75	Penicillin-binding protein 2B
+D39V	SPV_1487	A0A0H2ZPE9	Sialic acid utilization regulator%2C RpiR family
+D39V	SPV_1488	A0A0H2ZMQ1	N-acetylmannosamine kinase
+D39V	SPV_2375		N-acetylneuraminate lyase%2C degenerate
+D39V	SPV_1490	A0A0H2ZM23	Hypothetical protein
+D39V	SPV_1491	A0A0H2ZN73	Hypothetical protein
+D39V	SPV_1492	A0A0H2ZMG6	Protein YjgK%2C linked to biofilm formation
+D39V	SPV_1493	A0A0H2ZMJ0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 2
+D39V	SPV_1494	A0A0H2ZQ63	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 1
+D39V	SPV_1495	A0A0H2ZL68	ABC transporter%2C putative N-acetylneuraminate-binding protein
+D39V	SPV_1496	A0A0H2ZPV4	N-acetylglucosamine-specific PTS IIABC components
+D39V	SPV_1497	A0A0H2ZNE7	N-acetylmannosamine-6-phosphate 2-epimerase
+D39V	SPV_1498	A0A0H2ZN12	Oxidoreductase
+D39V	SPV_1499	A0A0H2ZRC7	Sialidase
+D39V	SPV_1500	A0A0H2ZPI0	ABC transporter%2C permease protein
+D39V	SPV_1501	A0A0H2ZME4	ABC transporter membrane-spanning permease%2C sugar transport YcjO
+D39V	SPV_1502	A0A0H2ZNS4	ABC transporter substrate-binding protein - sugar transport
+D39V	SPV_1503	A0A0H2ZMS2	(Putative) Beta-D-galactosidase
+D39V	SPV_1504	A0A0H2ZQ85	Sialidase NanA
+D39V	SPV_1505	A0A0H2ZLG3	Hypothetical protein
+D39V	SPV_2377		Hypothetical protein
+D39V	SPV_1506	A0A0H2ZR57	Bifunctional acetyl xylan esterase 1/cephalosporin-C deacetylase
+D39V	SPV_2378		ncRNA of unknown function
+D39V	SPV_2540		Ribo-seq-identified ORF 82
+D39V	SPV_1507	A0A0H2ZP34	ATP-dependent DNA helicase RecG
+D39V	SPV_1508	Q04J74	Alanine racemase
+D39V	SPV_1509	Q04J73	Holo-[acyl-carrier protein] synthase
+D39V	SPV_1510	A0A0H2ZNQ6	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha
+D39V	SPV_1511	A0A0H2ZQ82	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha
+D39V	SPV_1512	Q04J70	Protein translocase subunit SecA
+D39V	SPV_1513		ABC transporter, degenerate protein
+D39V	SPV_1514	A0A0H2ZNH1	ABC transporter, ATP-binding protein
+D39V	SPV_1515	A0A0H2ZMY9	ABC transporter, membrane protein
+D39V	SPV_1516	A0A0H2ZQB7	ABC transporter, membrane protein
+D39V	SPV_1517	A0A0H2ZPR6	ABC transporter, protein
+D39V	SPV_2541		Ribo-seq-identified ORF 83
+D39V	SPV_2542		Pheromone in Rgg1518/SHP1518 quorum-sensing system
+D39V	SPV_1518	A0A0H2ZPR9	MutR-like transcriptional regulator%2C Rgg family transcriptional regulator in Rgg1518/SHP1518 quorum-sensing system
+D39V	SPV_2381	A0A2U3S1B0	Hypothetical protein
+D39V	SPV_2382	Q8CYF1	Hypothetical protein
+D39V	SPV_1519	Q04J64	GTP-binding protein EngA
+D39V	SPV_1520	A0A0H2ZQ46	NADPH-flavin oxidoreductase
+D39V	SPV_1521	A0A0H2ZP53	Helicase loader DnaI
+D39V	SPV_1522	A0A0H2ZLP2	Helicase loader DnaB
+D39V	SPV_1523	Q04J60	Ribonucleotide reductase transcriptional regulator NrdR
+D39V	SPV_1524	A0A0H2ZQS8	Transcriptional regulator%2C GntR family
+D39V	SPV_1525	A0A0H2ZN68	Multidrug ABC transporter%2C ATP-binding protein
+D39V	SPV_1526	A0A0H2ZMN5	ABC transporter ATP-binding protein
+D39V	SPV_2383		ncRNA of unknown function
+D39V	SPV_1527	A0A0H2ZQT3	ABC transporter membrane-spanning permease - Na+ export
+D39V	SPV_1528	A0A0H2ZP37	ABC transporter ATP-binding protein - Na+ export
+D39V	SPV_2384		Hypothetical protein
+D39V	SPV_1529		ISSpn8 transposase%2C truncation
+D39V	SPV_1530	A0A0H2ZMF8	Immunoreactive protein Se23.5-like protein
+D39V	SPV_1531	A0A0H2ZPG3	Fructokinase
+D39V	SPV_1532	A0A0H2ZRJ4	Sucrose-specific PTS IIBCA components
+D39V	SPV_1533	A0A0H2ZMA5	Hypothetical protein
+D39V	SPV_1534	A0A0H2ZPQ2	Sucrose-6-phosphate hydrolase
+D39V	SPV_1535	A0A0H2ZNG0	Sucrose operon repressor ScrR%2C LacI family
+D39V	SPV_1536	A0A0H2ZP57	Hydroxymethylglutaryl-CoA reductase
+D39V	SPV_1537	A0A0H2ZLW5	Hydroxymethylglutaryl-CoA synthase
+D39V	SPV_1538	A0A0H2ZNJ3	Hypothetical protein
+D39V	SPV_1539		ISSpn7 transposase%2C degenerate
+D39V	SPV_1540	A0A0H2ZNZ2	(Putative) Membrane-spanning protein
+D39V	SPV_1541	A0A0H2ZNC7	Membrane protein
+D39V	SPV_1542	Q04J43	Serine/threonine protein kinase StkP
+D39V	SPV_1543	Q04J42	Protein serine/threonine phosphatase PhpP
+D39V	SPV_1544	A0A0H2ZQW9	16S rRNA (cytosine(967)-C(5))-methyltransferase
+D39V	SPV_1545	Q04J40	Methionyl-tRNA formyltransferase
+D39V	SPV_1546	A0A0H2ZQP3	Helicase PriA essential for oriC/DnaA-independent DNA replication
+D39V	SPV_1547	Q04J38	DNA-directed RNA polymerase omega subunit
+D39V	SPV_1548	A0A0H2ZPY5	Guanylate kinase
+D39V	SPV_1549	Q04J36	Ribonuclease Y
+D39V	SPV_1550	A0A0H2ZMD4	YoeB toxin protein
+D39V	SPV_1551	A0A0H2ZR31	Antitoxin YefM
+D39V	SPV_1552	Q04J33	UPF0348 protein family
+D39V	SPV_1553	A0A0H2ZRF5	Methyltransferase
+D39V	SPV_1554	A0A0H2ZMW6	Ribosomal silencing factor RsfA
+D39V	SPV_1555	A0A0H2ZQ47	Isochorismatase
+D39V	SPV_1556	A0A0H2ZLH1	HAD superfamily hydrolase YqeK
+D39V	SPV_1557	A0A0H2ZM20	Nicotinate-nucleotide adenylyltransferase
+D39V	SPV_1558	A0A0H2ZMV6	RNA-binding protein
+D39V	SPV_2543		Ribo-seq-identified ORF 85
+D39V	SPV_1559	A0A0H2ZN17	GTP-binding protein YqeH%2C required for biogenesis of 30S ribosome subunit
+D39V	SPV_1560	A0A0H2ZQE3	Hydrolase%2C HAD subfamily IIIA
+D39V	SPV_1561	A0A0H2ZN41	Magnesium and cobalt transport protein CorA2
+D39V	SPV_1562	A0A0H2ZQM9	Potassium efflux system KefA protein
+D39V	SPV_2388		Dicarboxylate/amino acid:Na+/H+ symporter%2C degenerate
+D39V	SPV_1564	A0A0H2ZRN3	Membrane protein
+D39V	SPV_1565	A0A0H2ZPJ6	Transcriptional regulator%2C MarR family
+D39V	SPV_1566	A0A0H2ZLS3	Hypothetical protein
+D39V	SPV_1567	A0A0H2ZQR8	Thioredoxin
+D39V	SPV_1568	A0A0H2ZM70	NADPH-dependent 7-cyano-7-deazaguanine reductase
+D39V	SPV_2389	B1I7N9	Hypothetical protein
+D39V	SPV_1569	A0A0H2ZMJ8	Aquaporin for hydrogenperoxide
+D39V	SPV_1570	A0A0H2ZMG4	Hypothetical protein
+D39V	SPV_2390	B1I7P2	(Putative) Membrane protein
+D39V	SPV_1571	A0A0H2ZPT7	Oligoendopeptidase F
+D39V	SPV_1572	A0A0H2ZLS7	16S rRNA (uracil(1498)-N(3))-methyltransferase
+D39V	SPV_1573	Q04J12	Ribosomal protein L11 methyltransferase
+D39V	SPV_1574	A0A0H2ZMT2	7%2C8-dihydro-8-oxoguanine-triphosphatase
+D39V	SPV_1575	A0A0H2ZQ56	Hypothetical protein
+D39V	SPV_1576	A0A0H2ZMD0	Hypothetical protein
+D39V	SPV_1577	A0A0H2ZMF2	Addiction module antitoxin HicB
+D39V	SPV_2391	B1I7Q0	Addiction module toxin HicA
+D39V	SPV_1578	A0A0H2ZPH8	Hypothetical protein
+D39V	SPV_1579	A0A0H2ZN04	Hypothetical protein
+D39V	SPV_1580	A0A0H2ZP67	Chromosome segregation helicase
+D39V	SPV_2392		6S RNA
+D39V	SPV_1581		tRNA-Lys-CUU
+D39V	SPV_1582	A0A0H2ZQF5	Sucrose-6-phosphate hydrolase%2C cytoplasmic sucrose-6-phosphate (S-6-P) hydrolase
+D39V	SPV_1583	A0A0H2ZNJ6	Multiple sugar ABC transporter%2C membrane-spanning permease protein%2C Transmembrane component of SuST1/SusT2 ABC Transporter
+D39V	SPV_1584	A0A0H2ZM49	Multiple sugar ABC transporter%2C membrane-spanning permease protein%2C Transmembrane component of SuST1/SusT2 ABC Transporter
+D39V	SPV_1585	A0A0H2ZPW1	Multiple sugar ABC transporter%2C substrate-binding protein%2C solute-binding lipoprotein SusX
+D39V	SPV_1586	A0A0H2ZM77	Multiple sugar metabolism operon regulatory protein%2C sucrose utilization system repressor
+D39V	SPV_1587	A0A0H2ZN44	M protein trans-acting positive regulator Mga2
+D39V	SPV_2393		Transglycosylase-associated protein%2C degenerate
+D39V	SPV_1588	A0A0H2ZMQ5	(Putative) Hemin importer, protein
+D39V	SPV_1589	A0A0H2ZM81	(Putative) Hemin importer, lipoprotein
+D39V	SPV_1590	A0A0H2ZNN3	(Putative) Hemin importer, protein
+D39V	SPV_1591	A0A0H2ZMH3	(Putative) Hemin importer, protein
+D39V	SPV_1592	A0A0H2ZRB5	Acetyltransferase
+D39V	SPV_1593	A0A0H2ZPC4	Type IV prepilin peptidase
+D39V	SPV_1594	A0A0H2ZN26	Replication Interfering Protein B (anti-toxin in RipAB toxin-antitoxin system)
+D39V	SPV_1595	A0A0H2ZQ57	Replication Interfering Protein A (toxin in RipAB toxin-antitoxin system)
+D39V	SPV_1596	Q04IZ0	Tryptophan synthase alpha chain
+D39V	SPV_1597	Q04IY9	Tryptophan synthase beta chain
+D39V	SPV_1598	Q04IY8	Phosphoribosylanthranilate isomerase
+D39V	SPV_1599	Q04IY7	Indole-3-glycerol phosphate synthase
+D39V	SPV_1600	Q04IY6	Anthranilate phosphoribosyltransferase
+D39V	SPV_1601	A0A0H2ZMY6	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2C amidotransferase component
+D39V	SPV_1602	A0A0H2ZPU3	Anthranilate synthase%2C aminase component
+D39V	SPV_1603	A0A0H2ZME8	Hypothetical protein
+D39V	SPV_2394		Hypothetical protein
+D39V	SPV_2570		Ribo-seq-identified ORF 112
+D39V	SPV_2606		
+D39V	SPV_2571		Ribo-seq-identified ORF 113
+D39V	SPV_1605	A0A0H2ZPF9	Galactose operon repressor%2C GalR-LacI family
+D39V	SPV_2395	Q8CYD4	Hypothetical protein
+D39V	SPV_1606	A0A0H2ZM03	Mg(2+)-transport-ATPase-associated protein MgtC
+D39V	SPV_1607	A0A0H2ZPF8	Iron(III)-transport system permease protein SfuB
+D39V	SPV_1608	A0A0H2ZP31	ABC transporter%2C ATP-binding protein
+D39V	SPV_1609	A0A0H2ZL87	ABC transporter%2C substrate-binding protein
+D39V	SPV_1610	A0A0H2ZMM7	Hypothetical protein
+D39V	SPV_1612	A0A0H2ZMQ6	UDP-glucose 4-epimerase
+D39V	SPV_1613	A0A0H2ZQK0	Galactose-1-phosphate uridylyltransferase
+D39V	SPV_1614	A0A0H2ZNJ7	Phosphate transport system protein PhoU3
+D39V	SPV_2396		Hypothetical protein%2C degenerate
+D39V	SPV_1617	A0A0H2ZMD2	Plasmin- and fibronectin-binding protein PfbA
+D39V	SPV_1618	A0A0H2ZRV6	Hypothetical protein
+D39V	SPV_1619	A0A0H2ZN23	(Putative) UDP-4-keto-6-deoxy-D-glucose 4-transaminase AatB
+D39V	SPV_1620	A0A0H2ZRD5	Sugar transferases involved in lipopolysaccharide synthesis
+D39V	SPV_1621	A0A0H2ZMX7	ABC transporter%2C ATP-binding/permease protein
+D39V	SPV_1622	A0A0H2ZML2	ABC transporter%2C ATP-binding/permease protein
+D39V	SPV_2397		(Putative) Membrane protein YetF%2C truncation
+D39V	SPV_2398		Hypothetical protein%2C degenerate
+D39V	SPV_1626	A0A0H2ZMW7	Exodeoxyribonuclease III
+D39V	SPV_1627		Hypothetical protein%2C degenerate
+D39V	SPV_2607		
+D39V	SPV_1628	Q04IV9	Xanthine phosphoribosyltransferase
+D39V	SPV_1629	A0A0H2ZPY8	Xanthine permease
+D39V	SPV_1630	A0A0H2ZME6	Type II restriction-modification system component DpnD
+D39V	SPV_1631	A0A0H2ZQ73	Type II restriction-modification system endonuclease DpnC
+D39V	SPV_1632	A0A0H2ZMG3	Thioesterase
+D39V	SPV_1633	A0A0H2ZRT4	Galactose-1-phosphate uridylyltransferase
+D39V	SPV_1634	A0A0H2ZNM7	Galactokinase
+D39V	SPV_1635	A0A0H2ZLH0	Galactose operon repressor%2C GalR-LacI family
+D39V	SPV_1636	A0A0H2ZNM3	Alcohol dehydrogenase
+D39V	SPV_1637	A0A0H2ZLV3	Transcriptional regulator%2C MerR family
+D39V	SPV_1638	A0A0H2ZPX0	Cobalt-zinc-cadmium resistance protein CzcD
+D39V	SPV_1639	A0A0H2ZQB6	Transcriptional regulator SczA%2C TetR family
+D39V	SPV_1640	A0A0H2ZLN1	Ribosyl nicotinamide transporter PnuC
+D39V	SPV_2400	C1C9F2	IS1167 transposase Orf1
+D39V	SPV_1641		IS1167 transposase Orf2%2C degenerate
+D39V	SPV_1642	A0A0H2ZQB9	High affinity ergothioneine-binding permease-solute-binding domain (SBD) fusion protein.%2C Ergothioneine uptake ATP-binding cassette (ABC) transporter EgtUV subunit.
+D39V	SPV_1643	A0A0H2ZLL3	Ergothioneine uptake ATP-binding cassette (ABC) transporter EgtUV subunit EgtV.
+D39V	SPV_1644	A0A0H2ZPU5	Hypothetical protein
+D39V	SPV_1645	A0A0H2ZNU8	Transcriptional regulator%2C MarR family
+D39V	SPV_1646	A0A0H2ZPK3	Hypothetical protein
+D39V	SPV_1647	A0A0H2ZP50	Glutamyl aminopeptidase
+D39V	SPV_1648	A0A0H2ZM95	UDP-glucose 4-epimerase
+D39V	SPV_1649	A0A0H2ZMI3	Iron compound ABC uptake transporter permease protein PiuB
+D39V	SPV_1650	A0A0H2ZRB6	Iron compound ABC uptake transporter permease protein PiuC
+D39V	SPV_1651	A0A0H2ZNK9	Iron compound ABC uptake transporter ATP-binding protein PiuD
+D39V	SPV_1652	A0A0H2ZMC3	Iron compound ABC uptake transporter substrate-binding protein PiuA
+D39V	SPV_1653	Q04IT5	(Putative) Membrane protein insertion efficiency factor YidD
+D39V	SPV_1654	A0A0H2ZM97	Ribosomal large subunit pseudouridine synthase B
+D39V	SPV_1655	Q04IT3	Segregation and condensation protein B
+D39V	SPV_1656	Q04IT2	Segregation and condensation protein A
+D39V	SPV_1657	Q04IT1	Tyrosine recombinase XerD
+D39V	SPV_1658	A0A0H2ZN00	CBS domain protein
+D39V	SPV_1659	A0A0H2ZPB9	Phosphoesterase
+D39V	SPV_1660	A0A0H2ZMR5	Nucleoside 5-triphosphatase RdgB (dHAPTP%2C dITP%2C XTP-specific)
+D39V	SPV_1661	Q04IS7	Glutamate racemase
+D39V	SPV_2544		Ribo-seq-identified ORF 86
+D39V	SPV_1662	Q04IS6	Hypothetical protein
+D39V	SPV_1663	A0A0H2ZM66	Trehalose-6-phosphate hydrolase
+D39V	SPV_1664	A0A0H2ZRL6	Trehalose-specific PTS IIBCA components
+D39V	SPV_1665	A0A0H2ZNB2	Trehalose operon transcriptional repressor
+D39V	SPV_1666		ISSpn14 transposase Orf1%2C degenerate
+D39V	SPV_2404		ISSpn14 transposase Orf2%2C degenerate
+D39V	SPV_1667	A0A0H2ZQ26	Peptide ABC transporter ATP-binding protein AmiF
+D39V	SPV_1668	A0A0H2ZMH2	Peptide ABC transporter ATP-binding protein AmiE
+D39V	SPV_1669	A0A0H2ZPJ1	Peptide ABC transporter permease AmiD
+D39V	SPV_1670	A0A0H2ZRM1	Peptide ABC transporter permease AmiC
+D39V	SPV_1671	A0A0H2ZLE0	Peptide ABC transporter substrate-binding protein AmiA
+D39V	SPV_1672	A0A0H2ZQ42	Wall teichoic acid biosynthesis protein RafX
+D39V	SPV_1673	A0A0H2ZLN9	Sucrose phosphorylase
+D39V	SPV_1674	A0A0H2ZR62	Hypothetical protein
+D39V	SPV_1675	A0A0H2ZNT3	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG
+D39V	SPV_1676	A0A0H2ZQ51	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmF
+D39V	SPV_1677	A0A0H2ZPT8	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
+D39V	SPV_1678	A0A0H2ZLX3	Alpha-galactosidase
+D39V	SPV_1679	A0A0H2ZQ45	Multiple sugar metabolism operon regulatory protein MsmR
+D39V	SPV_1680	A0A0H2ZLU1	Bifunctional biotin operon repressor/Biotin--protein ligase
+D39V	SPV_1681		IS1167 transposase%2C degenerate
+D39V	SPV_1682		tRNA-Ser-GCU
+D39V	SPV_1683		tRNA-Ile-GAU
+D39V	SPV_1684		tRNA-Gly-UCC
+D39V	SPV_1685		tRNA-Phe-GAA
+D39V	SPV_1686		tRNA-fMet-CAU
+D39V	SPV_1687		tRNA-Ser-UGA
+D39V	SPV_1688		tRNA-Ile2-CAU
+D39V	SPV_1689		tRNA-Met-CAU
+D39V	SPV_1690		tRNA-Pro-UGG
+D39V	SPV_1691		tRNA-Arg-ACG
+D39V	SPV_1692		tRNA-Leu-UAA
+D39V	SPV_1693		tRNA-Gly-GCC
+D39V	SPV_1694		tRNA-Thr-UGU
+D39V	SPV_1695		tRNA-Leu-UAG
+D39V	SPV_1696		tRNA-Lys-UUU
+D39V	SPV_1697		tRNA-Asp-GUC
+D39V	SPV_1698		tRNA-Val-UAC
+D39V	SPV_1699		5S ribosomal RNA
+D39V	SPV_1700		23S ribosomal RNA
+D39V	SPV_1701		tRNA-Ala-UGC
+D39V	SPV_1702		16S ribosomal RNA
+D39V	SPV_1703		tRNA-Glu-UUC
+D39V	SPV_1704	A0A0H2ZPR2	RNA methyltransferase%2C TrmA family
+D39V	SPV_1705	Q04IQ7	Regulatory protein RecX
+D39V	SPV_1706	Q04IQ6	Cysteinyl-tRNA synthetase related protein
+D39V	SPV_1707	A0A0H2ZNM0	Hypothetical protein
+D39V	SPV_1708	A0A0H2ZPJ8	ISSpn14 transposase
+D39V	SPV_1709	Q04IQ3	Heat shock protein 60 family chaperone GroEL
+D39V	SPV_1710	Q04IQ2	Heat shock protein 60 family co-chaperone GroES
+D39V	SPV_1711	A0A0H2ZNF9	Single-stranded DNA-binding protein SsbB
+D39V	SPV_1712	A0A0H2ZPK2	Short-chain dehydrogenase
+D39V	SPV_1713	A0A0H2ZLZ0	Phenylalanyl-tRNA synthetase domain protein
+D39V	SPV_1714	A0A0H2ZQ19	Thioredoxin
+D39V	SPV_1715	A0A0H2ZMZ9	Hypothetical protein
+D39V	SPV_2407		Hypothetical protein
+D39V	SPV_1716	A0A0H2ZM16	Hypothetical protein
+D39V	SPV_1717	A0A0H2ZQ22	Membrane protein
+D39V	SPV_1718	A0A0H2ZNR0	Response regulator of the LytR/AlgR family
+D39V	SPV_1719	A0A0H2ZQ62	Phosphatidylglycerophosphatase B
+D39V	SPV_1720	A0A0H2ZMX0	Hypothetical protein
+D39V	SPV_2408		Multidrug resistance ABC transporter ATP-binding and permease protein%2C degenerate
+D39V	SPV_2411		Transcriptional regulator%2C MarR family%2C degenerate
+D39V	SPV_1725	Q04IN9	Transcriptional regulatory protein YeeN
+D39V	SPV_2545		Ribo-seq-identified ORF 87
+D39V	SPV_1726	Q04IN8	Pneumolysin
+D39V	SPV_1727	A0A0H2ZPU1	Hypothetical protein
+D39V	SPV_1728	A0A0H2ZMJ2	Hypothetical protein
+D39V	SPV_1729	A0A0H2ZND7	Hypothetical protein
+D39V	SPV_1730		ISSpn7 transposase%2C truncation
+D39V	SPV_2414		ISSpn7 transposase%2C truncation
+D39V	SPV_1731	A0A0H2ZPU4	Hypothetical protein
+D39V	SPV_1732	A0A0H2ZQ83	Hypothetical protein
+D39V	SPV_2416		Hypothetical protein%2C degenerate
+D39V	SPV_2417		Hypothetical protein%2C degenerate
+D39V	SPV_1736	A0A0H2ZP30	(Putative) Toxin
+D39V	SPV_2418	A0AAX3HHR7	(Putative) Toxin
+D39V	SPV_2419	Q8CYA4	(Putative) Antitoxin Xre
+D39V	SPV_1737	A0A0H2ZPA7	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+D39V	SPV_2546		Ribo-seq-identified ORF 88
+D39V	SPV_1738	A0A0H2ZPV0	MATE efflux family protein DinF
+D39V	SPV_1739	Q04IM6	DNA recombination/repair protein RecA
+D39V	SPV_1740	Q04IM5	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucleotide amidase
+D39V	SPV_1741	A0A0H2ZNL9	LytR-CpsA-Psr family protein
+D39V	SPV_1742	A0A0H2ZP88	Acetyltransferase
+D39V	SPV_1743	A0A0H2ZNN7	TsaE protein%2C required for threonylcarbamoyladenosine t(6)A37 formation in tRNA%2C Ubiquitous bacterial protein kinase
+D39V	SPV_1744	A0A0H2ZPE5	Immunity factor ComM
+D39V	SPV_1745	A0A0H2ZRZ9	(Putative) Transcriptional regulator PlcR%2C intracellular receptor for PhrA/TprA quorum-sensing system%2C+Q7643 regulator of lantibiotic production
+D39V	SPV_1746	A0A0H2ZP15	Signal peptide in PhrA/TprA quorum-sensing system
+D39V	SPV_1747	Q8CYA0	Class II two-component lantibiotic peptide PneA1%2C (Putative) Bacteriocin precursor peptide
+D39V	SPV_1748	A0A0H2ZM88	Class II two-component lantibiotic peptide PneA2%2C (Putative) Bacteriocin precursor peptide
+D39V	SPV_1749	A0A0H2ZQD2	Lanthionine biosynthesis protein LanM%2C (Putative) Bifunctional bacteriocin modification enzyme
+D39V	SPV_1750	A0A0H2ZPP3	(Putative) Flavin adenine dinucleotide (FAD)-dependent flavoprotein WrbA%2C (Putative) FAD-dependent flavoprotein
+D39V	SPV_1751	A0A0H2ZNT0	(Putative) Peptidase involvedin bacteriocin biosynthesis
+D39V	SPV_1752	A0A0H2ZPD4	Toxin secretion ABC transporter%2C (Putative) Bacteriocin transporter 
+D39V	SPV_1753	A0A0H2ZMB3	Epidermin leader peptide processing serine protease EPIP precursor%2C (Putative) Peptidase involvedin bacteriocin biosynthesis
+D39V	SPV_1754	A0A0H2ZQ16	(Putative) Streptococcin E immunity protein (possibly truncated)
+D39V	SPV_1755	A0A0H2ZP59	ABC transporter%2C ATP-binding protein%2C (Putative) Streptococcin E transporter
+D39V	SPV_2420		Hypothetical protein%2C degenerate
+D39V	SPV_2572		Ribo-seq-identified ORF 114
+D39V	SPV_1757	Q04IK8	Nucleoside diphosphate kinase
+D39V	SPV_1758	Q04IK7	DNA-directed RNA polymerase beta' subunit
+D39V	SPV_1759	Q04IK6	DNA-directed RNA polymerase beta subunit
+D39V	SPV_2421		
+D39V	SPV_1760		tRNA-Cys-GCA
+D39V	SPV_1761	A0A0H2ZLT8	(Putative) Hemolysin
+D39V	SPV_1762	A0A0H2ZNQ9	DNA-entry nuclease
+D39V	SPV_1763	A0A0H2ZNX6	Competence-associated EpuA protein
+D39V	SPV_1764	A0A0H2ZQS7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+D39V	SPV_2422	A0A0T8QCG6	Hypothetical protein
+D39V	SPV_1765	A0A0H2ZNY4	Lon-like protease
+D39V	SPV_1766	Q04IK0	Phosphopantetheine adenylyltransferase
+D39V	SPV_1767	A0A0H2ZQ24	16S rRNA (guanine(966)-N(2))-methyltransferase
+D39V	SPV_1768	Q04IJ8	Aspartate--ammonia ligase
+D39V	SPV_1769	A0A0H2ZPQ3	Membrane protein
+D39V	SPV_1771	A0A0H2ZPS9	rRNA methylase
+D39V	SPV_1772	A0A0H2ZMY3	(Putative) Nucleoside phosphatase
+D39V	SPV_1773	A0A0H2ZRG2	Inner membrane protein translocase component YidC1
+D39V	SPV_1774	A0A0H2ZPG2	Pyruvate formate-lyase activating enzyme
+D39V	SPV_1775	A0A0H2ZPJ5	Diaminopimelate decarboxylase
+D39V	SPV_1776	A0A0H2ZLC6	PurR: transcription regulator associated with purine metabolism
+D39V	SPV_1777	A0A0H2ZNW3	3'->5' exoribonuclease YhaM
+D39V	SPV_1778	A0A0H2ZQA2	DNA recombination protein RmuC
+D39V	SPV_1779	A0A0H2ZNV8	Thiamin pyrophosphokinase
+D39V	SPV_1780	A0A0H2ZM74	Ribulose-phosphate 3-epimerase
+D39V	SPV_1781	A0A0H2ZNW0	Ribosome small subunit-stimulated GTPase RsgA
+D39V	SPV_1782	Q04II4	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase
+D39V	SPV_1783	A0A0H2ZRI1	Hypothetical protein
+D39V	SPV_1784	A0A0H2ZLF1	ABC transporter%2C (Putative) Streptococcin B transporter
+D39V	SPV_1785	A0A0H2ZQK1	(Putative) Streptococcin B immunity protein
+D39V	SPV_1786	A0A0H2ZNR1	Transcriptional regulator
+D39V	SPV_1787	A0A0H2ZM69	Ribonuclease M5
+D39V	SPV_1788	A0A0H2ZNX3	(Putative) Deoxyribonuclease TatD
+D39V	SPV_1789	A0A0H2ZNY6	Cell wall surface anchor family protein
+D39V	SPV_1790	Q04IH6	LSU ribosomal protein L34p
+D39V	SPV_2547		Ribo-seq-identified ORF 89
+D39V	SPV_1791	A0A0H2ZPC0	Alanine transaminase
+D39V	SPV_1792	A0A0H2ZPL0	Hypothetical protein
+D39V	SPV_1793	A0A0H2ZLK6	Universal stress protein family protein
+D39V	SPV_1794	A0A0H2ZP04	Hydrolase%2C HAD superfamily
+D39V	SPV_1796	A0A0H2ZNF4	L-asparaginase
+D39V	SPV_1795	A0A0H2ZLR5	Hypothetical protein
+D39V	SPV_1797	A0A0H2ZQ65	Catabolite control protein A
+D39V	SPV_1798	A0A0H2ZNM2	Two-component regulatory system response regulator
+D39V	SPV_1799	A0A0H2ZLL8	Two-component regulatory system histidine kinase
+D39V	SPV_1800	A0A0H2ZPP1	ABC transporter%2C permease protein
+D39V	SPV_1801	A0A0H2ZMU8	ABC transporter%2C ATP-binding protein
+D39V	SPV_1802	A0A0H2ZP90	Hypothetical protein
+D39V	SPV_1803	A0A0H2ZL07	Hypothetical protein
+D39V	SPV_2548		Ribo-seq-identified ORF 90
+D39V	SPV_1804		tRNA-Pro-UGG
+D39V	SPV_1805		tRNA-Arg-ACG
+D39V	SPV_1806		tRNA-Leu-UAA
+D39V	SPV_1807		tRNA-Gly-GCC
+D39V	SPV_1808		tRNA-Thr-UGU
+D39V	SPV_1809		tRNA-Leu-UAG
+D39V	SPV_1810		tRNA-Lys-UUU
+D39V	SPV_1811		tRNA-Asp-GUC
+D39V	SPV_1812		tRNA-Val-UAC
+D39V	SPV_1813		5S ribosomal RNA
+D39V	SPV_1814		23S ribosomal RNA
+D39V	SPV_1815		tRNA-Ala-UGC
+D39V	SPV_1816		16S ribosomal RNA
+D39V	SPV_1817		tRNA-Glu-UUC
+D39V	SPV_1818	A0A0H2ZLC3	Competence-specific sigma factor ComX
+D39V	SPV_1819	A0A0H2ZN77	Transcription antitermination protein NusG
+D39V	SPV_1820	A0A0H2ZQZ7	Protein translocase subunit SecE
+D39V	SPV_2423	Q8CWN7	LSU ribosomal protein L33p
+D39V	SPV_1821	A0A0H2ZMF9	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
+D39V	SPV_1822	A0A0H2ZM65	RluD-like protein
+D39V	SPV_1823	A0A0H2ZNS0	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
+D39V	SPV_1824	A0A0H2ZMC2	ABC transporter%2C permease protein
+D39V	SPV_1825		IS630-Spn1 transposase%2C degenerate
+D39V	SPV_1826	A0A0H2ZQE9	Quinolinate phosphoribosyltransferase
+D39V	SPV_1827	A0A0H2ZQX7	Malonate permease
+D39V	SPV_2426		Transposase%2C truncation
+D39V	SPV_1828	A0A0H2ZN22	Hypothetical protein
+D39V	SPV_2549		Ribo-seq-identified ORF 91
+D39V	SPV_2550		Ribo-seq-identified ORF 92
+D39V	SPV_1829	A0A0H2ZNW4	Transcriptional regulator%2C GntR family
+D39V	SPV_1830	A0A0H2ZMH4	6-phospho-beta-glucosidase
+D39V	SPV_1831	A0A0H2ZN34	Cellobiose-specific PTS IIC component
+D39V	SPV_1832	A0A0H2ZMS6	Cellobiose-specific PTS IIB component
+D39V	SPV_1833	A0A0H2ZR72	Cellobiose-specific PTS IIA component
+D39V	SPV_1834	A0A0H2ZM56	Bifunctional acetaldehyde dehydrogenase/alcohol dehydrogenase
+D39V	SPV_1836	A0A0H2ZPU8	Hypothetical protein
+D39V	SPV_1837	A0A0H2ZQ64	Low molecular weight protein tyrosine phosphatase
+D39V	SPV_1838	A0A0H2ZP20	Preprotein translocase subunit YajC
+D39V	SPV_1839	A0A0H2ZLU9	Transketolase
+D39V	SPV_1840	A0A0H2ZNE1	(Putative) L-ascorbate-6-phosphate lactonase UlaG
+D39V	SPV_1841	A0A0H2ZLZ5	Transcriptional antiterminator
+D39V	SPV_1842	A0A0H2ZN24	L-ribulose-5-phosphate 4-epimerase
+D39V	SPV_1843	A0A0H2ZMI7	L-xylulose 5-phosphate 3-epimerase
+D39V	SPV_1844	A0A0H2ZNZ0	3-keto-L-gulonate 6-phosphate decarboxylase
+D39V	SPV_1845	A0A0H2ZMA1	Ascorbate-specific PTS IIA component
+D39V	SPV_1846	A0A0H2ZQ86	Ascorbate-specific PTS IIB component
+D39V	SPV_1847	A0A0H2ZQJ0	Ascorbate-specific PTS IIC component
+D39V	SPV_1848	A0A0H2ZMD6	Sakacin A production response regulator
+D39V	SPV_1849	A0A0H2ZPS7	KH domain RNA-binding protein
+D39V	SPV_1850	A0A0H2ZNL7	Inner membrane protein translocase component YidC2
+D39V	SPV_1851	Q04ID0	Ribonuclease P protein component
+D39V	SPV_1852	A0A0H2ZPX9	Hypothetical protein
+D39V	SPV_1853	Q04IC8	Acetate kinase
+D39V	SPV_1854	A0A0H2ZPE2	Adenine-specific methyltransferase
+D39V	SPV_2427		S-adenosylmethionine-dependent methyltransferase%2C degenerate
+D39V	SPV_1857	A0A0H2ZLL1	Late competence protein ComGG
+D39V	SPV_1858	A0A0H2ZN48	Late competence protein ComGF
+D39V	SPV_1859	A0A0H2ZN63	Late competence protein ComGE
+D39V	SPV_1860	A0A0H2ZPL6	Late competence protein ComGD
+D39V	SPV_1861	A0A0H2ZM76	Late competence protein ComGC
+D39V	SPV_1862	A0A0H2ZMF5	Late competence protein ComGB
+D39V	SPV_1863	A0A0H2ZPB3	Late competence protein ComGA
+D39V	SPV_1864	A0A0H2ZMH8	DNA-binding protein
+D39V	SPV_1865	A0A0H2ZRI0	(Putative) Zn-dependent alcohol dehydrogenase
+D39V	SPV_1866	A0A0H2ZNU1	N-acetylglucosamine-6-phosphate deacetylase
+D39V	SPV_1867	A0A0H2ZPN2	Acyltransferase family
+D39V	SPV_1868	Q04IB3	tRNA-guanine transglycosylase
+D39V	SPV_1869	A0A0H2ZM61	Membrane protein
+D39V	SPV_1870		Pyrrolidone-carboxylate peptidase%2C degenerate
+D39V	SPV_1871	A0A0H2ZQT9	Hypothetical protein
+D39V	SPV_1872		Transcriptional regulator%2C MarR family%2C degenerate
+D39V	SPV_1873	A0A0H2ZM52	Hypothetical protein
+D39V	SPV_1874	A0A0H2ZNC4	Surface immunogenic protein%2C LysM domain-containing protein%2C+Q8033 (Putative) N-acetylmuramidase
+D39V	SPV_1875	A0A0H2ZNZ3	Hydrolase%2C haloacid dehalogenase-like family
+D39V	SPV_1876	A0A0H2ZNH4	Multi antimicrobial extrusion family transporter
+D39V	SPV_1877	A0A0H2ZQQ0	Threonine synthase
+D39V	SPV_1878	A0A0H2ZLM8	Hypothetical protein
+D39V	SPV_2551		Ribo-seq-identified ORF 93
+D39V	SPV_1879		tRNA-Leu-CAA
+D39V	SPV_1880		tRNA-Gln-UUG
+D39V	SPV_1881		tRNA-His-GUG
+D39V	SPV_1882		tRNA-Trp-CCA
+D39V	SPV_1883		tRNA-Tyr-GUA
+D39V	SPV_1884		tRNA-Phe-GAA
+D39V	SPV_1885		tRNA-fMet-CAU
+D39V	SPV_1886		tRNA-Ser-UGA
+D39V	SPV_1887		tRNA-Ile-GAU
+D39V	SPV_1888		tRNA-Gly-UCC
+D39V	SPV_1889		tRNA-Val-UAC
+D39V	SPV_1890		5S ribosomal RNA
+D39V	SPV_1891		23S ribosomal RNA
+D39V	SPV_1892		tRNA-Ala-UGC
+D39V	SPV_1893		16S ribosomal RNA
+D39V	SPV_1894		tRNA-Glu-UUC
+D39V	SPV_1895	A0A0H2ZMB6	Cytidine/deoxycytidylate deaminase family protein
+D39V	SPV_1896	Q04IA3	Glutamyl-tRNA synthetase
+D39V	SPV_1897	Q04IA2	Glucose-6-phosphate isomerase
+D39V	SPV_1898	A0A0H2ZPA1	Hypothetical protein
+D39V	SPV_1899	A0A0H2ZPK6	Glutamine amidotransferase%2C class I
+D39V	SPV_1900	A0A0H2ZMU4	Multidrug resistance ABC transporter ATP-binding and permease protein
+D39V	SPV_2432		IS110 family transposase%2C degenerate
+D39V	SPV_1902	A0A0H2ZRX9	Multidrug resistance ABC transporter ATP-binding and permease protein
+D39V	SPV_2433		ncRNA of unknown function
+D39V	SPV_1903	Q04I96	DNA mismatch repair protein HexA
+D39V	SPV_1904	A0A0H2ZPQ9	Arginine pathway regulatory protein ArgR1
+D39V	SPV_1905	Q04I94	Arginyl-tRNA synthetase
+D39V	SPV_1906	A0A0H2ZPV7	IS1381 transposase OrfB
+D39V	SPV_2434		IS1381 transposase OrfA%2C truncation
+D39V	SPV_1907	A0A0H2ZMI9	(Putative) Cupin superfamily protein
+D39V	SPV_1908	A0A0H2ZNY1	Two-component regulatory system response regulator PnpR
+D39V	SPV_1909	A0A0H2ZML6	Two-component regulatory system histidine kinase PnpS
+D39V	SPV_1910	A0A0H2ZQM6	Phosphate ABC transporter periplasmic phosphate-binding protein PstS1
+D39V	SPV_1911	A0A0H2ZN20	Phosphate transport system permease protein PstC1
+D39V	SPV_1912	A0A0H2ZPQ0	Phosphate transport system permease protein PstA1
+D39V	SPV_1913	A0A0H2ZQ97	Phosphate transport ATP-binding protein PstB1
+D39V	SPV_1914	A0A0H2ZMP1	Phosphate transport system regulatory protein PhoU1
+D39V	SPV_1915		ISSpn5 transposase%2C truncation
+D39V	SPV_1916	A0A0H2ZQ34	Transcriptional regulator
+D39V	SPV_1917	A0A0H2ZNE5	Hypothetical protein
+D39V	SPV_1918	Q04I82	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+D39V	SPV_1919	A0A0H2ZMV4	UTP--glucose-1-phosphate uridylyltransferase
+D39V	SPV_1920	A0A0H2ZQD4	Rhomboid family serine protease
+D39V	SPV_1921	A0A0H2ZMI8	5-formyltetrahydrofolate cyclo-ligase
+D39V	SPV_1922	Q04I78	N-acetyl-L%2CL-diaminopimelate deacetylase
+D39V	SPV_1923	Q04I77	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+D39V	SPV_2436		ncRNA of unknown function
+D39V	SPV_1924	A0A0H2ZLQ9	Drug/metabolite transporter superfamily permease
+D39V	SPV_1925	A0A0H2ZPW7	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1B
+D39V	SPV_1926	Q04I74	Tyrosyl-tRNA synthetase
+D39V	SPV_1927	A0A0H2ZRH7	Lead%2C cadmium%2C zinc and mercury transporting ATPase
+D39V	SPV_1928	A0A0H2ZMP5	Hypothetical protein
+D39V	SPV_1929	A0A0H2ZQC5	23S rRNA (guanine(745)-N(1))-methyltransferase
+D39V	SPV_1930	A0A0H2ZQ05	Hypothetical protein
+D39V	SPV_1931	A0A0H2ZMX5	Hypothetical protein
+D39V	SPV_2437	C1CH34	Hypothetical protein
+D39V	SPV_1932	A0A0H2ZN54	Maltodextrin phosphorylase
+D39V	SPV_1933	A0A0H2ZQT2	4-alpha-glucanotransferase (amylomaltase)
+D39V	SPV_2552		Ribo-seq-identified ORF 94
+D39V	SPV_1934	A0A0H2ZQ87	Maltose/maltodextrin ABC transporter%2C substrate-binding periplasmic protein MalX
+D39V	SPV_1935	A0A0H2ZMC6	Maltose/maltodextrin ABC transporter%2C permease protein MalC
+D39V	SPV_1936	A0A0H2ZRM7	Maltose/maltodextrin ABC transporter%2C permease protein MalD
+D39V	SPV_1937	A0A0H2ZNC1	Maltodextrose utilization protein MalA
+D39V	SPV_1938	A0A0H2ZQG8	Maltose operon transcriptional repressor MalR%2C LacI family
+D39V	SPV_1939	A0A0H2ZNE4	Hypothetical protein
+D39V	SPV_1940	A0A0H2ZRS0	Integral membrane protein
+D39V	SPV_1941	Q04I59	Aspartyl-tRNA synthetase
+D39V	SPV_1942	A0A0H2ZPA3	Hypothetical protein
+D39V	SPV_1943	A0A0H2ZL02	Hypothetical protein
+D39V	SPV_1944	A0A0H2ZQD6	Membrane-bound protease%2C CAAX family
+D39V	SPV_1945	A0A0H2ZLL9	Hypothetical protein
+D39V	SPV_1946	A0A0H2ZPU6	Hypothetical protein
+D39V	SPV_1947	A0A0H2ZMI0	Transcriptional regulator%2C Cro/CI family
+D39V	SPV_1948	A0A0H2ZLA1	Hypothetical protein
+D39V	SPV_1949	A0A0H2ZPL3	Hypothetical protein
+D39V	SPV_1950	Q04I50	Histidyl-tRNA synthetase
+D39V	SPV_1951	A0A0H2ZP66	Macrolide-efflux protein
+D39V	SPV_1952	A0A0H2ZN27	Positive transcriptional regulator%2C MutR family
+D39V	SPV_1953	A0A0H2ZPC5	Hypothetical protein
+D39V	SPV_1954	A0A0H2ZP01	(Putative) Aromatic ring hydroxylating enzyme
+D39V	SPV_1955	A0A0H2ZQQ5	Hypothetical protein
+D39V	SPV_1956	Q04I44	Dihydroxy-acid dehydratase
+D39V	SPV_1957	A0A0H2ZL49	Transketolase C-terminal-like protein
+D39V	SPV_1958	A0A0H2ZKZ2	Transketolase N-terminal-like protein
+D39V	SPV_1959	A0A0H2ZNZ7	(Putative) Transport protein SgaT
+D39V	SPV_1960	A0A0H2ZP18	(Putative) PTS IIB component
+D39V	SPV_1961	A0A0H2ZPA9	Transcription antiterminator%2C BglG family
+D39V	SPV_1962	A0A0H2ZQD8	Membrane protease family protein
+D39V	SPV_2438	C1CH66	Hypothetical protein
+D39V	SPV_1963	Q04I37	LSU ribosomal protein L32p
+D39V	SPV_1964	Q04I36	LSU ribosomal protein L33p
+D39V	SPV_1965	A0A0H2ZN79	Choline-binding protein CbpN
+D39V	SPV_1966	A0A0H2ZPR5	IS1381 transposase OrfA
+D39V	SPV_1967	A0A0H2ZLD4	IS1381 transposase OrfB
+D39V	SPV_2439		Hypothetical protein%2C degenerate
+D39V	SPV_1969	A0A0H2ZNK8	Hexosaminidase%2C Glycosyl hydrolase-related protein
+D39V	SPV_1970	A0A0H2ZPZ2	N-acetylmannosamine kinase.%2CROK family protein
+D39V	SPV_1971	A0A0H2ZNP7	alpha-1%2C+Q80253-mannosidase
+D39V	SPV_1972	A0A0H2ZRC8	alpha-1%2C6-mannosidase
+D39V	SPV_1973	A0A0H2ZNM9	Alpha-1%2C2-mannosidase
+D39V	SPV_1974	A0A0H2ZR86	alpha-1,3/4-fucosidase,Q8023%2C Glycosyl hydrolase family 29 alpha-L-fucosidase
+D39V	SPV_2441		Hypothetical protein
+D39V	SPV_2442		ncRNA of unknown function
+D39V	SPV_1975		Arginine deiminase%2C degenerate
+D39V	SPV_1976	Q04I25	Ornithine carbamoyltransferase
+D39V	SPV_1977	A0A0H2ZQF0	Carbamate kinase
+D39V	SPV_1978	A0A0H2ZNX2	Arginine/ornithine antiporter ArcD
+D39V	SPV_1979	A0A0H2ZPW0	(Putative) Xaa-His dipeptidase
+D39V	SPV_1980		ISSpn4 transposase Orf1%2C truncation
+D39V	SPV_1981	A0A0H2ZNZ8	IgA1 protease
+D39V	SPV_2446		Hypothetical protein%2C degenerate
+D39V	SPV_1983	A0A0H2ZMT0	Hypothetical protein
+D39V	SPV_1984	A0A0H2ZQC2	(Putative) Stomatin/prohibitin-family membrane protease subunit YbbK
+D39V	SPV_1985	A0A0H2ZLH7	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization
+D39V	SPV_1986	Q04I16	Bifunctional L-fucose isomerase/D-arabinose ketol-isomerase
+D39V	SPV_1987	A0A0H2ZMV0	Fucolectin-related protein
+D39V	SPV_1988	A0A0H2ZQF7	(Putative) Large secreted protein
+D39V	SPV_1989	A0A0H2ZNN2	Mannose-specific PTS IID component
+D39V	SPV_1990	A0A0H2ZQQ8	Mannose-specific PTS IIC component
+D39V	SPV_1991	A0A0H2ZNS8	PTS IIB component
+D39V	SPV_1992	A0A0H2ZQD9	PTS IIA component
+D39V	SPV_1993	A0A0H2ZNZ5	L-fucose mutarotase
+D39V	SPV_1994	A0A0H2ZQ74	L-fuculose phosphate aldolase
+D39V	SPV_1995	A0A0H2ZP02	L-fuculokinase
+D39V	SPV_1996	A0A0H2ZQ81	L-fucose operon activator
+D39V	SPV_2447		Type I addiction module antitoxin%2C Fst family
+D39V	SPV_2448		Type I addiction module toxin%2C Fst family
+D39V	SPV_2449		Type I addiction module antitoxin%2C Fst family
+D39V	SPV_2450		Type I addiction module toxin%2C Fst family
+D39V	SPV_1997	A0A0H2ZNU5	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
+D39V	SPV_1998	A0A0H2ZPP7	Zinc ABC transporter%2C permease protein AdcB
+D39V	SPV_1999	A0A0H2ZMZ3	Zinc ABC transporter%2C ATP-binding protein AdcC
+D39V	SPV_2000	Q04I02	Transcriptional repressor AdcR for Zn(2+)-responsive expression
+D39V	SPV_2002	A0A0H2ZNR2	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+D39V	SPV_2003	Q04HZ9	D-alanine--poly(phosphoribitol) ligase subunit 2
+D39V	SPV_2004	A0A0H2ZMM5	D-alanyl transfer protein DltB
+D39V	SPV_2005	Q04HZ7	D-alanine--poly(phosphoribitol) ligase subunit 1
+D39V	SPV_2006	A0A0H2ZNF5	D-alanyl-lipoteichoic acid biosynthesis protein DltX
+D39V	SPV_2007	A0A0H2ZRT0	Macrolide-efflux protein
+D39V	SPV_2008		Mobile element protein%2C degenerate
+D39V	SPV_2009	A0A0H2ZPZ9	Hypothetical protein
+D39V	SPV_2010	A0A0H2ZM45	Hypothetical protein
+D39V	SPV_2011	A0A0H2ZPJ9	Aquaporin for glycerol
+D39V	SPV_2012	A0A0H2ZNU4	Alpha-glycerophosphate oxidase
+D39V	SPV_2013	Q04HZ0	Glycerol kinase
+D39V	SPV_2014	A0A0H2ZQF2	Trans-acting positive regulator
+D39V	SPV_2015	Q04HY8	Chaperonin%2C heat shock protein 33
+D39V	SPV_2016	A0A0H2ZPX5	tRNA dihydrouridine synthase B
+D39V	SPV_2017	A0A0H2ZLS0	Choline-binding protein A
+D39V	SPV_2018	A0A0H2ZNY3	Rhomboid family integral membrane protein
+D39V	SPV_2019	A0A0H2ZM62	Two-component regulatory system histidine kinase
+D39V	SPV_2020	A0A0H2ZNF6	Two-component regulatory system response regulator
+D39V	SPV_2021	A0A0H2ZMN2	Hypothetical protein
+D39V	SPV_2453		Hypothetical protein
+D39V	SPV_2022	A0A0H2ZP24	ATP-dependent Clp protease ATP-binding subunit ClpC
+D39V	SPV_2023	A0A0H2ZPV6	Transcriptional regulator CtsR
+D39V	SPV_2024	A0A0H2ZR97	Thiamin ABC transporter ThiZ%2C ATPase component
+D39V	SPV_2025	A0A0H2ZPB2	Thiamin ABC transporter ThiY%2C substrate-binding component
+D39V	SPV_2026	A0A0H2ZM80	Thiamin ABC transporter ThiX%2C transmembrane component
+D39V	SPV_2027	A0A0H2ZR04	Cytoplasmic thiamin-binding component of thiamin ABC transporter
+D39V	SPV_2608		
+D39V	SPV_2553		Ribo-seq-identified ORF 95
+D39V	SPV_2028	A0A0H2ZP12	Choline-binding protein D
+D39V	SPV_2454		ncRNA of unknown function
+D39V	SPV_2029	A0A0H2ZMR4	Hypothetical protein
+D39V	SPV_2030	A0A0H2ZNF7	Replicative DNA helicase DnaC
+D39V	SPV_2031	Q04HX2	LSU ribosomal protein L9p
+D39V	SPV_2032	A0A0H2ZQZ4	DHH family phosphoesterase Pde1
+D39V	SPV_2554		Ribo-seq-identified ORF 96
+D39V	SPV_2033	A0A0H2ZQJ5	Ribosome hibernation promotion factor%2C long form
+D39V	SPV_2034	A0A0H2ZMW9	Phosphoribosyltransferase domain protein%2C ComF operon protein C
+D39V	SPV_2035	A0A0H2ZP72	DNA transporter ATPase%2C ComF operon protein A
+D39V	SPV_2036	A0A0H2ZL95	Protein co-occurring with transport systems
+D39V	SPV_2037	A0A0H2ZPN1	Cysteine synthase
+D39V	SPV_2455		IS66 family transposase%2C Orf3%2C truncation
+D39V	SPV_2039		ISSpn2 transposase Orf2%2C truncation
+D39V	SPV_2040		IS66 family transposase Orf2%2C truncation
+D39V	SPV_2041	Q04HW4	Translation elongation factor Ts
+D39V	SPV_2042	Q04HW3	SSU ribosomal protein S2p (SAe)
+D39V	SPV_2458		ncRNA of unknown function
+D39V	SPV_2043	A0A0H2ZQ76	Secreted antigen GbpB/SagA/PcsB%2C (Putative) peptidoglycan hydrolase
+D39V	SPV_2044	A0A0H2ZMK0	Cell shape-determining protein MreD
+D39V	SPV_2045	A0A0H2ZP55	Cell shape-determining protein MreC
+D39V	SPV_2046	A0A0H2ZPG6	Transmembrane component of general energizing module of ECF transporter
+D39V	SPV_2047	Q04HV8	ATPase component of general energizing module of ECF transporter
+D39V	SPV_2048	Q04HV7	ATPase component of general energizing module of ECF transporter
+D39V	SPV_2049	A0A0H2ZR10	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+D39V	SPV_2050	A0A0H2ZLW2	Transcriptional regulator
+D39V	SPV_2051	A0A0H2ZP91	Peptidase%2C M16 family
+D39V	SPV_2052	A0A0H2ZLA0	Zinc protease
+D39V	SPV_2053	A0A0H2ZLW0	Hypothetical protein
+D39V	SPV_2054	Q04HV1	DNA recombination and repair protein RecF
+D39V	SPV_2055	A0A0H2ZNT2	Inosine-5'-monophosphate dehydrogenase
+D39V	SPV_2056	A0A0H2ZQU2	Tryptophanyl-tRNA synthetase
+D39V	SPV_2057	A0A0H2ZME2	ABC transporter%2C ATP-binding protein
+D39V	SPV_2058	A0A0H2ZQQ2	ABC transporter%2C permease protein
+D39V	SPV_2059		Phage infection protein%2C degenerate
+D39V	SPV_2060	A0A0H2ZQA8	Transcriptional regulator%2C AcrR family
+D39V	SPV_2061		tRNA-Asn-GUU
+D39V	SPV_2062		tRNA-Glu-UUC
+D39V	SPV_2063	A0A0H2ZLR3	Two-component regulatory system response regulator ComE
+D39V	SPV_2064	A0A0H2ZM50	Two-component regulatory system histidine kinase ComD
+D39V	SPV_2065	A0A0H2ZQ41	Competence-stimulating peptide precursor ComC
+D39V	SPV_2066		tRNA-Arg-UCU
+D39V	SPV_2067	Q04HU2	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
+D39V	SPV_2068	A0A0H2ZQD7	Serine protease%2C DegP/HtrA
+D39V	SPV_2069	A0A0H2ZM78	Chromosome partitioning protein ParB

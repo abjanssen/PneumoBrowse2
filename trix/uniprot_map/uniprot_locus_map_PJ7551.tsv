@@ -1,0 +1,2442 @@
+strain	locus_tag	uniprot	product
+PJ7551	OIJFJHOI_00001	A0AA44S615	DNA polymerase III beta subunit
+PJ7551	OIJFJHOI_00002	A0AA86Y265	Hypothetical protein
+PJ7551	OIJFJHOI_00003	Q8DRQ3	GTP-binding and nucleic acid-binding protein YchF
+PJ7551	OIJFJHOI_00004	A0A0I7I3D7	Peptidyl-tRNA hydrolase
+PJ7551	OIJFJHOI_00005	A0A4N2RES5	Transcription-repair coupling factor
+PJ7551	OIJFJHOI_00006	P64406	Ribosome-associated heat shock protein
+PJ7551	OIJFJHOI_00007	Q8CZD2	Cell division protein DivIC
+PJ7551	OIJFJHOI_00008	C1CH89	Hypothetical protein
+PJ7551	OIJFJHOI_00009	A0A0B7KZ95	Hypothetical protein
+PJ7551	OIJFJHOI_00010	C1CN76	tRNA(Ile)-lysidine synthetase TilS
+PJ7551	OIJFJHOI_00011	C1C993	Hypoxanthine-guanine phosphoribosyltransferase
+PJ7551	OIJFJHOI_00012	O69076	Cell division protein FtsH
+PJ7551	OIJFJHOI_00013	Q9R2W8	Competence-specific sigma factor ComX
+PJ7551	OIJFJHOI_00014		tRNA-Glu(ttc)
+PJ7551	OIJFJHOI_00014		
+PJ7551	OIJFJHOI_00015		16S ribosomal RNA
+PJ7551	OIJFJHOI_00015		
+PJ7551	OIJFJHOI_00016		tRNA-Ala(tgc)
+PJ7551	OIJFJHOI_00016		
+PJ7551	OIJFJHOI_00017		23S ribosomal RNA
+PJ7551	OIJFJHOI_00017		
+PJ7551	OIJFJHOI_00018		5S ribosomal RNA
+PJ7551	OIJFJHOI_00018		
+PJ7551	OIJFJHOI_00019		tRNA-Asn(gtt)
+PJ7551	OIJFJHOI_00019		
+PJ7551	OIJFJHOI_00020	A0A4J1VSX9	IS630 family transposase IS630-Spn1
+PJ7551	OIJFJHOI_00021	Q8DRP7	IS630 family transposase IS630-Spn1
+PJ7551	OIJFJHOI_00022	Q8DRP4	IS1167 transposase Orf1
+PJ7551	OIJFJHOI_00023	A0A9P1V7R1	Competence positive regulator ComW
+PJ7551	OIJFJHOI_00024	A0A4J1NCS9	Adenylosuccinate synthetase
+PJ7551	OIJFJHOI_00025		csRNA
+PJ7551	OIJFJHOI_00025		
+PJ7551	OIJFJHOI_00026	C1CHA2	tRNA-specific adenosine-34 deaminase
+PJ7551	OIJFJHOI_00027		Bacteria_small_SRP
+PJ7551	OIJFJHOI_00027		
+PJ7551	OIJFJHOI_00028	Q8DRP2	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PJ7551	OIJFJHOI_00029	A0A0U0QB31	Hypothetical protein
+PJ7551	OIJFJHOI_00030	C1C9S1	DNA repair protein RadA
+PJ7551	OIJFJHOI_00031	C1CHC1	Carbonic anhydrase
+PJ7551	OIJFJHOI_00032	C1C9S3	hypothetical protein
+PJ7551	OIJFJHOI_00033	B2IR17	Ribose-phosphate pyrophosphokinase
+PJ7551	OIJFJHOI_00034	A0A4J1ZAL3	hypothetical protein
+PJ7551	OIJFJHOI_00035		Srn266
+PJ7551	OIJFJHOI_00035		
+PJ7551	OIJFJHOI_00036	A0A6A8VL91	hypothetical protein
+PJ7551	OIJFJHOI_00037	A0A0B7L6Z9	hypothetical protein
+PJ7551	OIJFJHOI_00038	A0A6I3VLN8	DNA polymerase I
+PJ7551	OIJFJHOI_00039	Q8DRN7	CoA-binding protein
+PJ7551	OIJFJHOI_00040	A0A4J2B2W4	Hypothetical protein
+PJ7551	OIJFJHOI_00041	A0A0T8MW21	Putative membrane protein YeiH
+PJ7551	OIJFJHOI_00042	B1I7I5	N-acetyl-L%2CL-diaminopimelate aminotransferase
+PJ7551	OIJFJHOI_00043	Q97TA7	DNA recombination and repair protein RecO
+PJ7551	OIJFJHOI_00044	Q04N31	Phosphate:acyl-ACP acyltransferase PlsX
+PJ7551	OIJFJHOI_00045	B2IR28	Acyl carrier protein
+PJ7551	OIJFJHOI_00046	Q8DRN0	Bacteriocin BlpU
+PJ7551	OIJFJHOI_00047	C1CHD8	Hypothetical protein
+PJ7551	OIJFJHOI_00048	A0AA86JU05	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+PJ7551	OIJFJHOI_00049	A0A0B7L1W6	Competence-stimulating peptide ABC transporter permease protein ComB
+PJ7551	OIJFJHOI_00050	A0A558ZGD3	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+PJ7551	OIJFJHOI_00051	B2IR35	Phosphoribosylformylglycinamidine synthase%2C synthetase and glutamine amidotransferase subunits
+PJ7551	OIJFJHOI_00052	A0A0E8P8H6	Amidophosphoribosyltransferase
+PJ7551	OIJFJHOI_00053	A0A062WPB5	Phosphoribosylformylglycinamidine cyclo-ligase
+PJ7551	OIJFJHOI_00054	C1CBM5	Phosphoribosylglycinamide formyltransferase
+PJ7551	OIJFJHOI_00055	A0A0B7LES9	Teicoplanin resistance protein VanZ
+PJ7551	OIJFJHOI_00056	A0A6G2D8F8	Bifunctional inosine monophosphate cyclohydrolase/phosphoribosylaminoimidazolecarboxamide formyltransferase
+PJ7551	OIJFJHOI_00057	A0AA95D8J7	Phosphoribosylamine--glycine ligase
+PJ7551	OIJFJHOI_00058	C1CBM9	N5-carboxyaminoimidazole ribonucleotide mutase
+PJ7551	OIJFJHOI_00059	A0A0B7M8G2	N5-carboxyaminoimidazole ribonucleotide synthase
+PJ7551	OIJFJHOI_00060	Q8CZC6	Hypothetical protein
+PJ7551	OIJFJHOI_00061	C1C9W0	Adenylosuccinate lyase
+PJ7551	OIJFJHOI_00062	A0AA87C9M0	Beta-hexosaminidase StrH
+PJ7551	OIJFJHOI_00063	A0A0H2UMU7	Transcriptional regulator%2C GntR family
+PJ7551	OIJFJHOI_00064	A0A0B7L1X5	Beta-galactosidase
+PJ7551	OIJFJHOI_00065	Q8DRL3	Galactosamine-specific PTS IIB component
+PJ7551	OIJFJHOI_00066	C1CBN7	Galactosamine-specific PTS IIC component
+PJ7551	OIJFJHOI_00067	B2IRE5	Galactosamine-specific PTS IID component
+PJ7551	OIJFJHOI_00068	Q8DRL0	Galactosamine-specific PTS IIA component
+PJ7551	OIJFJHOI_00069	A0A0U0M1F0	Galactosamine-6-phosphate isomerase
+PJ7551	OIJFJHOI_00070	C1CBP1	Aldose 1-epimerase
+PJ7551	OIJFJHOI_00071	A0A4J2B8Y4	Glyoxalase family protein
+PJ7551	OIJFJHOI_00072	B1I7X5	Hypothetical protein
+PJ7551	OIJFJHOI_00073	A0AA86MN56	Hypothetical protein
+PJ7551	OIJFJHOI_00074	A0A0B7LUC6	Sulfurtransferase
+PJ7551	OIJFJHOI_00075	A0A064C1D6	Uridine phosphorylase
+PJ7551	OIJFJHOI_00076	C1CBP8	Trk family potassium uptake protein
+PJ7551	OIJFJHOI_00077	Q8DRK4	Trk family potassium uptake protein CabP
+PJ7551	OIJFJHOI_00078	A0A098Z228	Hypothetical protein
+PJ7551	OIJFJHOI_00079	A0AA86XJ74	Putative glycosyltransferase EpsH
+PJ7551	OIJFJHOI_00080	A0A0B7LI78	hypothetical protein
+PJ7551	OIJFJHOI_00081	A0A6G2DMI0	Cell wall surface anchor family protein PavB
+PJ7551	OIJFJHOI_00082	B2IRG2	Two-component system response regulator
+PJ7551	OIJFJHOI_00083	C1C9Y4	Two-component system sensor histidine kinase
+PJ7551	OIJFJHOI_00084	Q04MZ3	SSU ribosomal protein S4p (S9e)
+PJ7551	OIJFJHOI_00085		SpF01_sRNA
+PJ7551	OIJFJHOI_00085		
+PJ7551	OIJFJHOI_00086	A0A0D6J4D0	hypothetical protein
+PJ7551	OIJFJHOI_00087	Q8DRJ8	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+PJ7551	OIJFJHOI_00088	B2IRG9	ABC transporter permease protein
+PJ7551	OIJFJHOI_00089	B2IRH0	ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_00090	Q04MY5	hypothetical protein
+PJ7551	OIJFJHOI_00091	A0A6G2D961	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+PJ7551	OIJFJHOI_00092	B1I7Z5	Putative membrane protein
+PJ7551	OIJFJHOI_00093	Q8CZB9	Putative membrane-associated protein
+PJ7551	OIJFJHOI_00094	B1I7Z7	Integral membrane protein (putative)
+PJ7551	OIJFJHOI_00095	Q8DRJ5	Transcriptional regulator%2C PadR family
+PJ7551	OIJFJHOI_00096	B1I7Z9	Cyanate permease
+PJ7551	OIJFJHOI_00097	A0A4L8JFL7	Glycosyltransferase%2C group 2 family
+PJ7551	OIJFJHOI_00098	A0A4J1TM37	Putative UDP-GlcNAc 4%2C6-dehydratase AatA
+PJ7551	OIJFJHOI_00099	A0A4J1NBE1	Hypothetical protein
+PJ7551	OIJFJHOI_00100	C1CBS0	Phosphoglycolate phosphatase
+PJ7551	OIJFJHOI_00101	B1I804	L-serine dehydratase%2C alpha subunit
+PJ7551	OIJFJHOI_00102	Q8DRI9	L-serine dehydratase%2C beta subunit
+PJ7551	OIJFJHOI_00103	A0A0B7LLH3	Aggregation-promoting factor
+PJ7551	OIJFJHOI_00104	Q8CZB4	Hypothetical protein
+PJ7551	OIJFJHOI_00105	B2IRJ2	Lactococcin-G-processing and transport ATP-binding protein LagD
+PJ7551	OIJFJHOI_00106	A0AAD2I3F0	Hypothetical protein
+PJ7551	OIJFJHOI_00107	C1CAD5	Hypothetical protein
+PJ7551	OIJFJHOI_00108	A0AA36PVD8	Hypothetical protein
+PJ7551	OIJFJHOI_00109	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_00110	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_00111	A0A4J2BH81	Hypothetical protein
+PJ7551	OIJFJHOI_00112	A0A0D6J4A6	Hypothetical protein
+PJ7551	OIJFJHOI_00113	B1I823	Hypothetical protein
+PJ7551	OIJFJHOI_00114	A0A4P0AJ37	Hypothetical protein
+PJ7551	OIJFJHOI_00115	A0A4J1XFL2	Hypothetical protein
+PJ7551	OIJFJHOI_00116	A0A4J1VQ49	Hypothetical protein
+PJ7551	OIJFJHOI_00117	A0A4J1QTX9	Pyridoxamine 5'-phosphate oxidase
+PJ7551	OIJFJHOI_00118		SpF03_sRNA
+PJ7551	OIJFJHOI_00118		
+PJ7551	OIJFJHOI_00119		Bacilli-1
+PJ7551	OIJFJHOI_00119		
+PJ7551	OIJFJHOI_00120	A0A0D6J4Z7	hypothetical protein
+PJ7551	OIJFJHOI_00121	Q8KQK5	Surface protein PspA precursor
+PJ7551	OIJFJHOI_00122	A0A0B7MBM1	tRNA-specific 2-thiouridylase MnmA
+PJ7551	OIJFJHOI_00123		Spd-sr37
+PJ7551	OIJFJHOI_00123		
+PJ7551	OIJFJHOI_00124	A0A0B7L8K0	MutT/Nudix family protein
+PJ7551	OIJFJHOI_00125	Q97T36	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+PJ7551	OIJFJHOI_00126	Q8DRH7	Ribonuclease J1 (endonuclease and 5' exonuclease)
+PJ7551	OIJFJHOI_00127	C1CBU5	Hypothetical protein
+PJ7551	OIJFJHOI_00128	A0A0E8GNB1	hypothetical protein
+PJ7551	OIJFJHOI_00129	A0A0B7LRV1	Two-peptide bacteriocin peptide CibB
+PJ7551	OIJFJHOI_00130	Q8CZA0	Two-peptide bacteriocin peptide CibA
+PJ7551	OIJFJHOI_00131	A0A0E8Z5L6	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PJ7551	OIJFJHOI_00132	A0A0E9GJD4	Ribosomal-protein-S18p-alanine acetyltransferase
+PJ7551	OIJFJHOI_00133	A0A064BZS6	N(6)-L-threonylcarbamoyladenine synthase TsaD
+PJ7551	OIJFJHOI_00134	A0A4K4UAJ7	hypothetical protein
+PJ7551	OIJFJHOI_00135	A0AA36PIF3	IS1167 transposase
+PJ7551	OIJFJHOI_00136		Srn266
+PJ7551	OIJFJHOI_00136		
+PJ7551	OIJFJHOI_00137	B2IRL6	Exopolysaccharide biosynthesis glycosyltransferase EpsF
+PJ7551	OIJFJHOI_00138	A0A098ZKN5	Exopolysaccharide biosynthesis glycosyltransferase EpsF
+PJ7551	OIJFJHOI_00139	A0A4M9WTJ4	Family 2 glycosyltransferase
+PJ7551	OIJFJHOI_00140	A0AAE4K0V8	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00141	A0A8B5XHG1	hypothetical protein
+PJ7551	OIJFJHOI_00142	A0A0D6J4X8	hypothetical protein
+PJ7551	OIJFJHOI_00143	A0A0D6J4N4	hypothetical protein
+PJ7551	OIJFJHOI_00144	A0A0D6J5G2	hypothetical protein
+PJ7551	OIJFJHOI_00145	A0AA36PVE7	hypothetical protein
+PJ7551	OIJFJHOI_00146	Q8CZ99	Hypothetical protein
+PJ7551	OIJFJHOI_00147	A0A4P0AIV4	UDP-glucose 6-dehydrogenase
+PJ7551	OIJFJHOI_00148	A0AA36PVN8	Positive transcriptional regulator%2C MutR family
+PJ7551	OIJFJHOI_00149	Q8CZ98	Hypothetical protein
+PJ7551	OIJFJHOI_00150	A0A0H2UN53	Hypothetical protein
+PJ7551	OIJFJHOI_00151	A0A0T8U5U6	Hypothetical protein
+PJ7551	OIJFJHOI_00152	A0A0T8NYK7	Macrolide-efflux protein
+PJ7551	OIJFJHOI_00153	B1I8D3	hypothetical protein
+PJ7551	OIJFJHOI_00154	A0A0B7MBX7	hypothetical protein
+PJ7551	OIJFJHOI_00155	A0A0B7MAF7	Cysteine ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_00156	A0A064BZU0	Cysteine ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_00157	C1CBW5	Methionine ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_00158	A0A0B7LRB5	N-acyl-L-amino acid amidohydrolase
+PJ7551	OIJFJHOI_00159	C1CAH2	Methionine ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00160	C1CAH3	Methionine ABC transporter permease protein
+PJ7551	OIJFJHOI_00161	Q8CZ94	Substrate-specific component of putative ECF transporter
+PJ7551	OIJFJHOI_00162	Q8DRF7	Hypothetical protein
+PJ7551	OIJFJHOI_00163	A0A0E8TCE3	Two-component system sensor histidine kinase
+PJ7551	OIJFJHOI_00164	A0A0E8H6R0	Two-component system response regulator
+PJ7551	OIJFJHOI_00165	A0A4L2UMH4	Hypothetical protein
+PJ7551	OIJFJHOI_00166	Q97T03	Ribonucleotide reduction protein NrdI
+PJ7551	OIJFJHOI_00167	A0A4J1QRY4	NRAMP family Mn2+/Fe2+ transporter
+PJ7551	OIJFJHOI_00168	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_00169	Q8CZ92	Hypothetical protein
+PJ7551	OIJFJHOI_00170	C1CBX7	DNA-binding protein
+PJ7551	OIJFJHOI_00171		SpF56_sRNA
+PJ7551	OIJFJHOI_00171		
+PJ7551	OIJFJHOI_00172	A0A0B7LCD9	Putative transcriptional regulator PlcR
+PJ7551	OIJFJHOI_00173	A0AA86XKG4	hypothetical protein
+PJ7551	OIJFJHOI_00174	A0A0H2UN75	Coenzyme A biosynthesis bifunctional protein CoaBC
+PJ7551	OIJFJHOI_00175	A0A0U0C8E2	hypothetical protein
+PJ7551	OIJFJHOI_00176	A0A0H2UNA7	2-[(L-alanin-3-ylcarbamoyl)methyl]-2-hydroxybutanedioate decarboxylase
+PJ7551	OIJFJHOI_00177	A0A0H2UN34	hypothetical protein
+PJ7551	OIJFJHOI_00178	A0A0H2UN36	hypothetical protein
+PJ7551	OIJFJHOI_00179	A0A4J1WD08	DNA mismatch repair protein HexB
+PJ7551	OIJFJHOI_00180	Q04MR3	6%2C7-dimethyl-8-ribityllumazine synthase RibH
+PJ7551	OIJFJHOI_00181	C1CBY0	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
+PJ7551	OIJFJHOI_00182	B2IS13	Riboflavin synthase RibE
+PJ7551	OIJFJHOI_00183	C1CBY2	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+PJ7551	OIJFJHOI_00184		FMN
+PJ7551	OIJFJHOI_00184		
+PJ7551	OIJFJHOI_00185	Q8DRE8	Holliday junction DNA helicase RuvA
+PJ7551	OIJFJHOI_00186	A0A0B7M4M9	DNA-3-methyladenine glycosylase
+PJ7551	OIJFJHOI_00187	A0A4J2BE82	CAAX amino terminal protease family protein
+PJ7551	OIJFJHOI_00188	A0A4J1VW80	Muramoyltetrapeptide carboxypeptidase
+PJ7551	OIJFJHOI_00189	A0A064C1E4	Integral membrane protein
+PJ7551	OIJFJHOI_00190	Q8DRE5	Magnesium and cobalt transport protein CorA1
+PJ7551	OIJFJHOI_00191	A0A4J1W1H9	Excinuclease ABC subunit A UvrA
+PJ7551	OIJFJHOI_00192	A0A0T7KEH1	MP-%2CMA-%2CMS-%2CAP-%2CNP-specific aminopeptidase YpdF
+PJ7551	OIJFJHOI_00193	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_00194	Q8DRE3	Transcriptional regulator SpxA2
+PJ7551	OIJFJHOI_00195	A0A0B7MB49	Hypothetical protein
+PJ7551	OIJFJHOI_00196	Q97SX1	Hypothetical protein
+PJ7551	OIJFJHOI_00197	Q8DRE2	Putative pre-16S rRNA nuclease YqgF
+PJ7551	OIJFJHOI_00198	Q97SX0	Hypothetical protein
+PJ7551	OIJFJHOI_00199	A0AAD2IGN0	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+PJ7551	OIJFJHOI_00200	A0A0E8YXY9	Hypothetical protein
+PJ7551	OIJFJHOI_00201	Q8DRD9	Cardiolipin synthetase
+PJ7551	OIJFJHOI_00202	Q8DRD8	Hypothetical protein
+PJ7551	OIJFJHOI_00203	C1CAK5	Competence-damage induced protein
+PJ7551	OIJFJHOI_00204	A0A6G2DBD1	Ribonucleotide reductase of class III%2C large subunit
+PJ7551	OIJFJHOI_00205	C1CC01	Hypothetical protein
+PJ7551	OIJFJHOI_00206	A0A064BZX0	Acetyltransferase
+PJ7551	OIJFJHOI_00207	A0A4M3JQB6	Ribonucleotide reductase of class III%2C activating protein
+PJ7551	OIJFJHOI_00208	B2IS38	Hypothetical protein
+PJ7551	OIJFJHOI_00209	Q04MN7	SSU ribosomal protein S10p (S20e)
+PJ7551	OIJFJHOI_00210	Q97SV5	LSU ribosomal protein L3p (L3e)
+PJ7551	OIJFJHOI_00211	Q8CWV7	LSU ribosomal protein L4p (L1e)
+PJ7551	OIJFJHOI_00212	Q97SV3	LSU ribosomal protein L23p (L23Ae)
+PJ7551	OIJFJHOI_00213	Q97SV2	LSU ribosomal protein L2p (L8e)
+PJ7551	OIJFJHOI_00214	Q04MN2	SSU ribosomal protein S19p (S15e)
+PJ7551	OIJFJHOI_00215	Q04MN1	LSU ribosomal protein L22p (L17e)
+PJ7551	OIJFJHOI_00216	Q04MN0	SSU ribosomal protein S3p (S3e)
+PJ7551	OIJFJHOI_00217	Q04MM9	LSU ribosomal protein L16p (L10e)
+PJ7551	OIJFJHOI_00218	A0A0B7M1U7	LSU ribosomal protein L29p (L35e)
+PJ7551	OIJFJHOI_00219	Q04MM7	SSU ribosomal protein S17p (S11e)
+PJ7551	OIJFJHOI_00220	Q04MM6	LSU ribosomal protein L14p (L23e)
+PJ7551	OIJFJHOI_00221	Q04MM5	LSU ribosomal protein L24p (L26e)
+PJ7551	OIJFJHOI_00222	Q97SV1	LSU ribosomal protein L5p (L11e)
+PJ7551	OIJFJHOI_00223	Q04MM3	SSU ribosomal protein S14p (S29e)
+PJ7551	OIJFJHOI_00224	Q04MM2	SSU ribosomal protein S8p (S15Ae)
+PJ7551	OIJFJHOI_00225	B8ZKP5	LSU ribosomal protein L6p (L9e)
+PJ7551	OIJFJHOI_00226	Q97SU6	LSU ribosomal protein L18p (L5e)
+PJ7551	OIJFJHOI_00227	Q04ML9	SSU ribosomal protein S5p (S2e)
+PJ7551	OIJFJHOI_00228	Q97SU4	LSU ribosomal protein L30p (L7e)
+PJ7551	OIJFJHOI_00229	Q97SU3	LSU ribosomal protein L15p (L27Ae)
+PJ7551	OIJFJHOI_00230	Q8DRD5	Protein translocase subunit SecY
+PJ7551	OIJFJHOI_00231	A0A4J1SHW3	Adenylate kinase
+PJ7551	OIJFJHOI_00232	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_00233	A0A4G7IYQ6	ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_00234	A0A4J2CMY7	ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_00235	A0A4J1P8G6	hypothetical protein
+PJ7551	OIJFJHOI_00236	A0A4J1RMD1	Putative tryptophan-specific ABC transporter permease protein TrpY
+PJ7551	OIJFJHOI_00237	A0A4J1P1T2	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00238	Q8DNI5	Trehalose operon transcriptional repressor
+PJ7551	OIJFJHOI_00239	A0A4J2D1H6	Trehalose-specific PTS IIBCA components
+PJ7551	OIJFJHOI_00240	A0A0T7ZKR7	Trehalose-6-phosphate hydrolase
+PJ7551	OIJFJHOI_00241	B2ISY0	Hypothetical protein
+PJ7551	OIJFJHOI_00242	A0A0D6J6X9	Glutamate racemase
+PJ7551	OIJFJHOI_00243	A0A0D6J624	Nucleoside 5-triphosphatase RdgB (dHAPTP%2C dITP%2C XTP-specific)
+PJ7551	OIJFJHOI_00244	C1CGA3	Phosphoesterase
+PJ7551	OIJFJHOI_00245	Q9EUQ9	CBS domain protein
+PJ7551	OIJFJHOI_00246	C1C9E3	Tyrosine recombinase XerD
+PJ7551	OIJFJHOI_00247	A0A0T8RTE1	Segregation and condensation protein A
+PJ7551	OIJFJHOI_00248	A0A4J2CMV1	Segregation and condensation protein B
+PJ7551	OIJFJHOI_00249	Q8DNJ0	Ribosomal large subunit pseudouridine synthase B
+PJ7551	OIJFJHOI_00250	C1CG97	Putative membrane protein insertion efficiency factor YidD
+PJ7551	OIJFJHOI_00251	C1C9D8	Iron compound ABC uptake transporter substrate-binding protein PiuA
+PJ7551	OIJFJHOI_00252	B1I881	Iron compound ABC uptake transporter ATP-binding protein PiuD
+PJ7551	OIJFJHOI_00253	Q8DNJ4	Iron compound ABC uptake transporter permease protein PiuC
+PJ7551	OIJFJHOI_00254	A0A0H2ZMI3	Iron compound ABC uptake transporter permease protein PiuB
+PJ7551	OIJFJHOI_00255	A0A0E7ZNQ0	UDP-glucose 4-epimerase
+PJ7551	OIJFJHOI_00256	Q8DNJ7	Glutamyl aminopeptidase
+PJ7551	OIJFJHOI_00257	Q8CYC3	Hypothetical protein
+PJ7551	OIJFJHOI_00258	A0A0T7YGB8	Transcriptional regulator%2C MarR family
+PJ7551	OIJFJHOI_00259	B1I874	Hypothetical protein
+PJ7551	OIJFJHOI_00260	Q9XBN6	Glycine betaine/L-proline transport ATP-binding protein ProV
+PJ7551	OIJFJHOI_00261	A0A0F7YB19	Glycine betaine/L-proline transport substrate-binding/permease protein ProWX
+PJ7551	OIJFJHOI_00262	Q8DNK1	Ribosyl nicotinamide transporter PnuC
+PJ7551	OIJFJHOI_00263	A0A0H2ZQB6	Transcriptional regulator SczA%2C TetR family
+PJ7551	OIJFJHOI_00264	Q8DNK3	Cobalt-zinc-cadmium resistance protein CzcD
+PJ7551	OIJFJHOI_00265	Q8DNK4	Transcriptional regulator%2C MerR family
+PJ7551	OIJFJHOI_00266	A0A4J1RK93	Alcohol dehydrogenase
+PJ7551	OIJFJHOI_00267	A0A6G2DH86	Galactose operon repressor%2C GalR-LacI family
+PJ7551	OIJFJHOI_00268	A0A6G2D9Y9	Galactokinase
+PJ7551	OIJFJHOI_00269	A0AAD2IIE1	Galactose-1-phosphate uridylyltransferase
+PJ7551	OIJFJHOI_00270	A0A0M3KL39	Thioesterase
+PJ7551	OIJFJHOI_00271	A0A0D6J5K4	Modification methylase DpnIIA
+PJ7551	OIJFJHOI_00272	C1C9B5	Type II restriction-modification system methyltransferase
+PJ7551	OIJFJHOI_00273	C1C9B4	Type-2 restriction enzyme DpnII
+PJ7551	OIJFJHOI_00274	B2ISU7	Xanthine permease
+PJ7551	OIJFJHOI_00275	Q3I0D0	Xanthine phosphoribosyltransferase
+PJ7551	OIJFJHOI_00276		Purine
+PJ7551	OIJFJHOI_00276		
+PJ7551	OIJFJHOI_00277	A0AAD2IGX4	hypothetical protein
+PJ7551	OIJFJHOI_00278	A0A0B7M891	hypothetical protein
+PJ7551	OIJFJHOI_00279	C1CG71	Exodeoxyribonuclease III
+PJ7551	OIJFJHOI_00280	A0AA86MHZ7	hypothetical protein
+PJ7551	OIJFJHOI_00281	C1CG69	hypothetical protein
+PJ7551	OIJFJHOI_00282	C1C9A8	hypothetical protein
+PJ7551	OIJFJHOI_00283	A0A4J1TH43	ABC transporter%2C ATP-binding/permease protein
+PJ7551	OIJFJHOI_00284	A0A4J1RPT6	ABC transporter%2C ATP-binding/permease protein
+PJ7551	OIJFJHOI_00285	Q8DNL5	Sugar transferases involved in lipopolysaccharide synthesis
+PJ7551	OIJFJHOI_00286	A0A4J1TFZ3	Putative UDP-4-keto-6-deoxy-D-glucose 4-transaminase AatB
+PJ7551	OIJFJHOI_00287	C7G4B8	Plasmin- and fibronectin-binding protein PfbA
+PJ7551	OIJFJHOI_00288	B2IST5	hypothetical protein
+PJ7551	OIJFJHOI_00289	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_00290	Q8CYD2	Hypothetical protein
+PJ7551	OIJFJHOI_00291	C1C979	ABC transporter%2C substrate-binding protein
+PJ7551	OIJFJHOI_00292	C1CG53	ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_00293	A0A0H2ZPF8	Iron(III)-transport system permease protein SfuB
+PJ7551	OIJFJHOI_00294	Q8DNM3	Mg(2+)-transport-ATPase-associated protein MgtC
+PJ7551	OIJFJHOI_00295	Q8CYD4	Hypothetical protein
+PJ7551	OIJFJHOI_00296	Q8DNM4	Galactose operon repressor%2C GalR-LacI family
+PJ7551	OIJFJHOI_00297	C1C974	Hypothetical protein
+PJ7551	OIJFJHOI_00298	A0AA86Y6N1	Anthranilate synthase%2C aminase component
+PJ7551	OIJFJHOI_00299	B2ISS5	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
+PJ7551	OIJFJHOI_00300	C1CT54	Anthranilate phosphoribosyltransferase
+PJ7551	OIJFJHOI_00301	C1CT53	Indole-3-glycerol phosphate synthase
+PJ7551	OIJFJHOI_00302	C1CT52	Phosphoribosylanthranilate isomerase
+PJ7551	OIJFJHOI_00303	C1CT51	Tryptophan synthase beta chain
+PJ7551	OIJFJHOI_00304	C1CT50	Tryptophan synthase alpha chain
+PJ7551	OIJFJHOI_00305	Q8CYD6	Hypothetical protein
+PJ7551	OIJFJHOI_00306	C1CG39	Transcriptional regulator%2C Xre family
+PJ7551	OIJFJHOI_00307	A0A0B7M7B9	Type IV prepilin peptidase
+PJ7551	OIJFJHOI_00308	A0A4P0AM63	Acetyltransferase
+PJ7551	OIJFJHOI_00309	A0A0B7M2Q2	Xylose repressor protein
+PJ7551	OIJFJHOI_00310	A0A4J1RJQ0	Cellobiose-specific PTS IIC component
+PJ7551	OIJFJHOI_00311	C1CG34	hypothetical protein
+PJ7551	OIJFJHOI_00312	A0A4M2MV14	hypothetical protein
+PJ7551	OIJFJHOI_00313	C1CG33	Cellobiose-specific PTS IIB component
+PJ7551	OIJFJHOI_00314	A0A0B7L004	Lactose-specific PTS IIA component
+PJ7551	OIJFJHOI_00315	B2ISF4	Cellobiose-specific PTS IIC component
+PJ7551	OIJFJHOI_00316	A0AA95DDI7	Arylsulfatase
+PJ7551	OIJFJHOI_00317	A0A4J1SSP4	Formylglycine-generating enzyme
+PJ7551	OIJFJHOI_00318	C1C952	hypothetical protein
+PJ7551	OIJFJHOI_00319	Q97P39	Hypothetical protein
+PJ7551	OIJFJHOI_00320	Q8DNN3	General stress protein%2C Gls24 family
+PJ7551	OIJFJHOI_00321	Q8DNN4	Small integral membrane protein
+PJ7551	OIJFJHOI_00322	B2ISG1	Hypothetical protein
+PJ7551	OIJFJHOI_00323	C1C945	Membrane protein
+PJ7551	OIJFJHOI_00324	C1C944	M protein trans-acting positive regulator Mga2
+PJ7551	OIJFJHOI_00325	Q8DNN6	Multiple sugar metabolism operon regulatory protein
+PJ7551	OIJFJHOI_00326	A0A5R9AZ51	Multiple sugar ABC transporter%2C substrate-binding protein
+PJ7551	OIJFJHOI_00327	Q8DNN8	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+PJ7551	OIJFJHOI_00328	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_00329	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_00330	Q8DNN9	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+PJ7551	OIJFJHOI_00331	A0AAD2I1P1	Sucrose-6-phosphate hydrolase
+PJ7551	OIJFJHOI_00332		tRNA-Lys(ctt)
+PJ7551	OIJFJHOI_00332		
+PJ7551	OIJFJHOI_00333	A0A0B7LPC1	Chromosome segregation helicase
+PJ7551	OIJFJHOI_00334	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_00335	A0A558T616	Addiction module toxin HicA
+PJ7551	OIJFJHOI_00336	Q8DNP2	Addiction module antitoxin HicB
+PJ7551	OIJFJHOI_00337	Q8CYE2	Hypothetical protein
+PJ7551	OIJFJHOI_00338	A0A0B7M0K1	Hypothetical protein
+PJ7551	OIJFJHOI_00339	A0A0B7LUM0	7%2C8-dihydro-8-oxoguanine-triphosphatase
+PJ7551	OIJFJHOI_00340	A0A4M9XP08	Ribosomal protein L11 methyltransferase
+PJ7551	OIJFJHOI_00341	A0A4J2DQ93	16S rRNA (uracil(1498)-N(3))-methyltransferase
+PJ7551	OIJFJHOI_00342	Q8DNP6	Oligoendopeptidase F
+PJ7551	OIJFJHOI_00343	B1I7P2	Putative membrane protein
+PJ7551	OIJFJHOI_00344	B1I7P1	Hypothetical protein
+PJ7551	OIJFJHOI_00345	C1CFZ9	Aquaporin Z
+PJ7551	OIJFJHOI_00346	A0A2U3S1M3	NADPH-dependent 7-cyano-7-deazaguanine reductase
+PJ7551	OIJFJHOI_00347	C1CFZ6	Thioredoxin
+PJ7551	OIJFJHOI_00348	Q8CYE5	Hypothetical protein
+PJ7551	OIJFJHOI_00349	C1CFZ4	Transcriptional regulator%2C MarR family
+PJ7551	OIJFJHOI_00350	A0A4V0ITV9	hypothetical protein
+PJ7551	OIJFJHOI_00351	A0A4J1ZM84	hypothetical protein
+PJ7551	OIJFJHOI_00352	A0A4J2AV72	hypothetical protein
+PJ7551	OIJFJHOI_00353	A0A4J2AV72	hypothetical protein
+PJ7551	OIJFJHOI_00354	A0A4J2AV72	hypothetical protein
+PJ7551	OIJFJHOI_00355	A0A4J1ZM84	hypothetical protein
+PJ7551	OIJFJHOI_00356	A0A4H9EKQ3	hypothetical protein
+PJ7551	OIJFJHOI_00357	A0A4J2F7K9	Glycosyltransferase%2C group 2 family
+PJ7551	OIJFJHOI_00358	A0A6G2DW49	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+PJ7551	OIJFJHOI_00359	B1I7N3	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+PJ7551	OIJFJHOI_00360	A0A0H5LL85	Glycosyltransferase GlyG
+PJ7551	OIJFJHOI_00361	B1I7N2	Glucosyltransferase 3
+PJ7551	OIJFJHOI_00362	A0A6G2DW52	Glycosyltransferase GlyD
+PJ7551	OIJFJHOI_00363	C1CFY7	Glycosyltransferase GlyE
+PJ7551	OIJFJHOI_00364	A0A4J1S4E3	Glycosyltransferase GlyE
+PJ7551	OIJFJHOI_00365	A0A0E8PCT4	Glycosyltransferase%2C group 2 family
+PJ7551	OIJFJHOI_00366	A0A0I5SXJ4	Glycosyltransferase%2C group 2 family
+PJ7551	OIJFJHOI_00367	C1CFY4	Protein translocase subunit SecY
+PJ7551	OIJFJHOI_00368	A0A4J2F6S6	Accessory Sec system protein Asp1
+PJ7551	OIJFJHOI_00369	A0AA44MXQ0	Accessory Sec system protein Asp2
+PJ7551	OIJFJHOI_00370	C1CFY1	Accessory Sec system protein Asp3
+PJ7551	OIJFJHOI_00371	A0A6G2DMV0	Protein translocase subunit SecA
+PJ7551	OIJFJHOI_00372	B1I7M1	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+PJ7551	OIJFJHOI_00373	A0A6G2DWF0	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+PJ7551	OIJFJHOI_00374	C1CFX7	hypothetical protein
+PJ7551	OIJFJHOI_00375	C1CFX6	hypothetical protein
+PJ7551	OIJFJHOI_00376	A0A4N2L103	Hypothetical protein
+PJ7551	OIJFJHOI_00377	Q8DNQ1	Membrane protein
+PJ7551	OIJFJHOI_00378	A0A4J2D6H5	Serine/threonine transporter SstT
+PJ7551	OIJFJHOI_00379	B2ISA3	Potassium efflux system KefA protein
+PJ7551	OIJFJHOI_00380	A0A0E7Q9P1	Magnesium and cobalt transport protein CorA2
+PJ7551	OIJFJHOI_00381	B2ISA1	Hydrolase%2C HAD subfamily IIIA
+PJ7551	OIJFJHOI_00382	B2ISA0	GTP-binding protein YqeH%2C required for biogenesis of 30S ribosome subunit
+PJ7551	OIJFJHOI_00383	A0A4J2B7T4	RNA-binding protein
+PJ7551	OIJFJHOI_00384	P65505	Nicotinate-nucleotide adenylyltransferase
+PJ7551	OIJFJHOI_00385	A0A0E8T0X8	HAD superfamily hydrolase YqeK
+PJ7551	OIJFJHOI_00386	Q8DNQ8	Isochorismatase
+PJ7551	OIJFJHOI_00387	Q8DNQ9	Ribosomal silencing factor RsfA
+PJ7551	OIJFJHOI_00388	A0A4K3WU33	Methyltransferase
+PJ7551	OIJFJHOI_00389	C1CM77	hypothetical protein
+PJ7551	OIJFJHOI_00390	A0A0H2ZR31	Antitoxin YefM
+PJ7551	OIJFJHOI_00391	Q04J36	Ribonuclease Y
+PJ7551	OIJFJHOI_00392	Q97PA3	Guanylate kinase
+PJ7551	OIJFJHOI_00393	Q04J38	DNA-directed RNA polymerase omega subunit
+PJ7551	OIJFJHOI_00394	A0A0B7L7F5	Helicase PriA essential for oriC/DnaA-independent DNA replication
+PJ7551	OIJFJHOI_00395	C1CM71	Methionyl-tRNA formyltransferase
+PJ7551	OIJFJHOI_00396	A0A0B7M2W1	16S rRNA (cytosine(967)-C(5))-methyltransferase
+PJ7551	OIJFJHOI_00397	A0A0H2UR71	Protein serine/threonine phosphatase PhpP
+PJ7551	OIJFJHOI_00398	C1CFV4	Serine/threonine protein kinase StkP
+PJ7551	OIJFJHOI_00399	Q8DNS1	Membrane protein
+PJ7551	OIJFJHOI_00400	C1CFV2	Putative membrane-spanning protein
+PJ7551	OIJFJHOI_00401	C1C8W5	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_00402	A0A0U0LLS1	Hypothetical protein
+PJ7551	OIJFJHOI_00403	A0A6I3U3C0	Hydroxymethylglutaryl-CoA synthase
+PJ7551	OIJFJHOI_00404	A0A6I3U1Y5	Hydroxymethylglutaryl-CoA reductase
+PJ7551	OIJFJHOI_00405	Q8DNS6	Sucrose operon repressor ScrR%2C LacI family
+PJ7551	OIJFJHOI_00406	Q8DNS7	Sucrose-6-phosphate hydrolase
+PJ7551	OIJFJHOI_00407	Q8DNS8	Sucrose-specific PTS IIBCA components
+PJ7551	OIJFJHOI_00408	B1I778	Fructokinase
+PJ7551	OIJFJHOI_00409	C1CFU1	Immunoreactive protein Se23.5-like protein
+PJ7551	OIJFJHOI_00410	C1C8V4	ABC transporter ATP-binding protein - Na+ export
+PJ7551	OIJFJHOI_00411	A0A0B7MDD4	ABC transporter membrane-spanning permease - Na+ export
+PJ7551	OIJFJHOI_00412	A0A229G0F0	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00413	C1CFT6	Multidrug ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_00414	A0A6G2DM99	Transcriptional regulator%2C GntR family
+PJ7551	OIJFJHOI_00415	B2IRW8	Ribonucleotide reductase transcriptional regulator NrdR
+PJ7551	OIJFJHOI_00416	A0A4J1VDW5	Helicase loader DnaB
+PJ7551	OIJFJHOI_00417	C1CFT2	Helicase loader DnaI
+PJ7551	OIJFJHOI_00418	C1CFT1	NADPH-flavin oxidoreductase
+PJ7551	OIJFJHOI_00419	Q04J64	GTP-binding protein EngA
+PJ7551	OIJFJHOI_00420	Q8CYF1	Hypothetical protein
+PJ7551	OIJFJHOI_00421	A0A6G2DL87	Hypothetical protein
+PJ7551	OIJFJHOI_00422	A0A0U0KR74	Hypothetical protein
+PJ7551	OIJFJHOI_00423	A0A4J2DZQ4	Hypothetical protein
+PJ7551	OIJFJHOI_00424	A0A0E7Q0U1	ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_00425	A0A822QFP4	hypothetical protein
+PJ7551	OIJFJHOI_00426	A0A064C3L7	Protein translocase subunit SecA
+PJ7551	OIJFJHOI_00427	C1CFS0	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+PJ7551	OIJFJHOI_00428	Q8DNU0	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+PJ7551	OIJFJHOI_00429	B2IRV4	Holo-[acyl-carrier protein] synthase
+PJ7551	OIJFJHOI_00430	A0A4K3C6U3	Alanine racemase
+PJ7551	OIJFJHOI_00431	A0AA86X9V2	ATP-dependent DNA helicase RecG
+PJ7551	OIJFJHOI_00432	C1CFR5	Bifunctional acetyl xylan esterase 1/cephalosporin-C deacetylase
+PJ7551	OIJFJHOI_00433	Q8CYF7	Hypothetical protein
+PJ7551	OIJFJHOI_00434	B8XTV2	Sialidase NanA
+PJ7551	OIJFJHOI_00435	A0A4J1SAE2	Putative beta-D-galactosidase
+PJ7551	OIJFJHOI_00436	Q8DNU2	ABC transporter substrate-binding protein - sugar transport
+PJ7551	OIJFJHOI_00437	C1CFQ9	ABC transporter membrane-spanning permease%2C sugar transport YcjO
+PJ7551	OIJFJHOI_00438	C1CFQ8	ABC transporter%2C permease protein
+PJ7551	OIJFJHOI_00439	A0A064C258	Sialidase
+PJ7551	OIJFJHOI_00440	C1CFQ6	Oxidoreductase
+PJ7551	OIJFJHOI_00441	P65521	N-acetylmannosamine-6-phosphate 2-epimerase
+PJ7551	OIJFJHOI_00442	A0A4J1S844	N-acetylglucosamine-specific PTS IIABC components
+PJ7551	OIJFJHOI_00443	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_00444	A0A4J1QTW0	IS1381 transposase OrfA
+PJ7551	OIJFJHOI_00445	A0A822RPB7	N-acetylglucosamine-specific PTS IIABC components
+PJ7551	OIJFJHOI_00446	Q8DNU8	ABC transporter%2C putative N-acetylneuraminate-binding protein
+PJ7551	OIJFJHOI_00447	C1C8S0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 1
+PJ7551	OIJFJHOI_00448	Q8DNV0	ABC transporter%2C putative N-acetylneuraminate transport system permease protein 2
+PJ7551	OIJFJHOI_00449	A0AA86XR90	Protein YjgK%2C linked to biofilm formation
+PJ7551	OIJFJHOI_00450	A0AA86XD88	Hypothetical protein
+PJ7551	OIJFJHOI_00451	B1I739	hypothetical protein
+PJ7551	OIJFJHOI_00452	A0A0I9E5S7	4-hydroxy-tetrahydrodipicolinate synthase
+PJ7551	OIJFJHOI_00453	Q8DNV3	N-acetylmannosamine kinase
+PJ7551	OIJFJHOI_00454	C1C8R3	Sialic acid utilization regulator%2C RpiR family
+PJ7551	OIJFJHOI_00455	A5YHE0	Penicillin-binding protein 2B
+PJ7551	OIJFJHOI_00456	Q04J97	Recombination protein RecR
+PJ7551	OIJFJHOI_00457	B5E721	D-alanine--D-alanine ligase
+PJ7551	OIJFJHOI_00458	A0A4J2C5C1	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+PJ7551	OIJFJHOI_00459	A0A6I3VKX8	MutT/nudix family protein phosphohydrolase
+PJ7551	OIJFJHOI_00460	C1CFN9	Putative membrane protein
+PJ7551	OIJFJHOI_00461	A0A0B7MDU8	Cell division protein FtsA
+PJ7551	OIJFJHOI_00462	Q8DNV9	Cell division protein FtsZ
+PJ7551	OIJFJHOI_00463	A0A237K7W2	YlmE
+PJ7551	OIJFJHOI_00464	Q8DNW1	FtsZ-interacting protein related to cell division YlmF
+PJ7551	OIJFJHOI_00465	Q9ZHB6	Cell division integral membrane protein YlmG%2C YGGT family
+PJ7551	OIJFJHOI_00466	A0A4J2A8Y1	YlmH
+PJ7551	OIJFJHOI_00467	C1CFN2	Cell division initiation protein DivIVA
+PJ7551	OIJFJHOI_00468	A0A6G2DA44	Isoleucyl-tRNA synthetase
+PJ7551	OIJFJHOI_00469	A0A4N2RXJ2	hypothetical protein
+PJ7551	OIJFJHOI_00470	B2IRR2	Hypothetical protein
+PJ7551	OIJFJHOI_00471	C1CFM7	Phosphoglycerate mutase
+PJ7551	OIJFJHOI_00472	A0A4N2RXK1	Putative large secreted protein
+PJ7551	OIJFJHOI_00473	A0A062WQP8	ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_00474	A0A4J1NL90	ABC transporter%2C permease protein
+PJ7551	OIJFJHOI_00475	A0A4J1Y032	ABC transporter%2C permease protein
+PJ7551	OIJFJHOI_00476	B2IRQ7	Thiol peroxidase%2C Tpx-type
+PJ7551	OIJFJHOI_00477	D2CTJ2	Manganese ABC transporter%2C periplasmic-binding protein PsaA
+PJ7551	OIJFJHOI_00478	C1CFM0	Manganese ABC transporter%2C inner membrane permease protein PsaC
+PJ7551	OIJFJHOI_00479	B2IRQ4	Manganese ABC transporter%2C ATP-binding protein PsaB
+PJ7551	OIJFJHOI_00480	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_00481	A0A654U8Y8	Neutral endopeptidase O
+PJ7551	OIJFJHOI_00482	A0AA44S635	Hydroxyacylglutathione hydrolase
+PJ7551	OIJFJHOI_00483	A0A0H2ZP47	Bifunctional guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase/(p)ppGpp synthetase II
+PJ7551	OIJFJHOI_00484	Q8DNX2	D-tyrosyl-tRNA(Tyr) deacylase
+PJ7551	OIJFJHOI_00485	A0A0H2ZLZ3	hypothetical protein
+PJ7551	OIJFJHOI_00486	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_00487	A0A4F3K787	Hypothetical protein
+PJ7551	OIJFJHOI_00488	A0A4N9BGU5	hypothetical protein
+PJ7551	OIJFJHOI_00489	C1CFL1	Hypothetical protein
+PJ7551	OIJFJHOI_00490	Q8CYH1	Hypothetical protein
+PJ7551	OIJFJHOI_00491	A0A4L4Z458	hypothetical protein
+PJ7551	OIJFJHOI_00492	C1CFK7	Mn-dependent transcriptional regulator MntR
+PJ7551	OIJFJHOI_00493	Q8DNX4	Putative diadenosine tetraphosphatase
+PJ7551	OIJFJHOI_00494	C1CFK5	Rrf2 family transcriptional regulator%2C group III
+PJ7551	OIJFJHOI_00495	C1CFK4	Hypothetical protein
+PJ7551	OIJFJHOI_00496	C1CFK3	Esterase/lipase
+PJ7551	OIJFJHOI_00497	C1CFK2	Two-component system response regulator
+PJ7551	OIJFJHOI_00498	A0A6G2D9F0	Two-component system sensor histidine kinase
+PJ7551	OIJFJHOI_00499	A0A916L4F0	Threonyl-tRNA synthetase
+PJ7551	OIJFJHOI_00500	Q8CYH8	hypothetical protein
+PJ7551	OIJFJHOI_00501	A0A558SGK6	Hypothetical protein
+PJ7551	OIJFJHOI_00502	A0A4J1SC63	Rrf2-linked NADH-flavin reductase
+PJ7551	OIJFJHOI_00503	A0A4J2GNZ6	Rrf2-linked NADH-flavin reductase
+PJ7551	OIJFJHOI_00504	Q97PI9	SSU ribosomal protein S15p (S13e)
+PJ7551	OIJFJHOI_00505	Q8DNY0	Cadmium resistance protein CadD
+PJ7551	OIJFJHOI_00506	B2IRD2	Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase
+PJ7551	OIJFJHOI_00507	A0A6G2DAB2	Cadmium-transporting ATPase
+PJ7551	OIJFJHOI_00508	C1CFJ3	tRNA (adenine(22)-N(1))-methyltransferase
+PJ7551	OIJFJHOI_00509	C1CFJ2	Putative GTP cyclohydrolase 1 type 2 protein YbgI
+PJ7551	OIJFJHOI_00510	A0A0U0DAG5	Glycine/D-amino acid oxidases family protein
+PJ7551	OIJFJHOI_00511	C1CFI9	UDP-glucose 4-epimerase
+PJ7551	OIJFJHOI_00512	C1C8J5	Bactoprenol glucosyl transferase
+PJ7551	OIJFJHOI_00513	A0A0B7LS92	hypothetical protein
+PJ7551	OIJFJHOI_00514	C1CFI7	Ferredoxin
+PJ7551	OIJFJHOI_00515	C1C8J3	Hypothetical protein
+PJ7551	OIJFJHOI_00516	A0A064C099	Cytidylate kinase
+PJ7551	OIJFJHOI_00517	C1C8J1	Protein PhnA
+PJ7551	OIJFJHOI_00518	A0A0H2UQX7	Hypothetical protein
+PJ7551	OIJFJHOI_00519	Q8DNZ1	Major facilitator superfamily transporter-permease
+PJ7551	OIJFJHOI_00520	Q97PL0	tRNA pseudouridine synthase A
+PJ7551	OIJFJHOI_00521	C1CFH8	Pyridoxal kinase%2C thiD family
+PJ7551	OIJFJHOI_00522	C1CFH7	Substrate-specific component PdxU2 of putative pyridoxin-related ECF transporter
+PJ7551	OIJFJHOI_00523	A0A654Z6U1	hypothetical protein
+PJ7551	OIJFJHOI_00524	A0A064C567	hypothetical protein
+PJ7551	OIJFJHOI_00525	C1CFH4	IS3 family transposase ISSpn11
+PJ7551	OIJFJHOI_00526	C1CFH2	Xaa-Pro dipeptidase
+PJ7551	OIJFJHOI_00527	C1CFH1	Putative amidotransferase similar to cobyric acid synthase
+PJ7551	OIJFJHOI_00528	C1CFH0	Mur ligase family protein
+PJ7551	OIJFJHOI_00529	C1CFG9	Pyridine nucleotide-disulfide oxidoreductase
+PJ7551	OIJFJHOI_00530	C1C8H8	Major facilitator oxalate:formate antiporter
+PJ7551	OIJFJHOI_00531	C1C8H5	Major facilitator oxalate:formate antiporter
+PJ7551	OIJFJHOI_00532	P0A4D7	DEAD-box ATP-dependent RNA helicase CshA
+PJ7551	OIJFJHOI_00533	C1CSK2	GTP-sensing transcriptional pleiotropic repressor CodY
+PJ7551	OIJFJHOI_00534	A0A098Z872	Nicotinamidase
+PJ7551	OIJFJHOI_00535		tRNA-Leu(aag)
+PJ7551	OIJFJHOI_00535		
+PJ7551	OIJFJHOI_00536	Q8DP03	Multiple sugar ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_00537	A0A098Z665	SAM-dependent methyltransferase
+PJ7551	OIJFJHOI_00538	C1CFG1	Adenine phosphoribosyltransferase
+PJ7551	OIJFJHOI_00539	Q8DP05	Homoserine O-succinyltransferase
+PJ7551	OIJFJHOI_00540	A0A0U0BA28	Chromosome replication initiation protein DnaD
+PJ7551	OIJFJHOI_00541	Q04JH4	Triosephosphate isomerase
+PJ7551	OIJFJHOI_00542	A0A4J1ZWD5	1%2C4-beta-N-acetylmuramidase%2C lyzozyme LytC
+PJ7551	OIJFJHOI_00543	A0A264SLW6	Bifunctional non-specific DNA-binding protein/ferroxidase Dpr
+PJ7551	OIJFJHOI_00544	A0A0B7L9Q4	Dihydrofolate reductase
+PJ7551	OIJFJHOI_00545	Q8CYI3	Hypothetical protein
+PJ7551	OIJFJHOI_00546	Q04JH9	ATP-dependent Clp protease ATP-binding subunit ClpX
+PJ7551	OIJFJHOI_00547	Q04JI0	GTP-binding protein EngB
+PJ7551	OIJFJHOI_00548	Q8DP09	RidA/YER057c/UK114 superfamily protein
+PJ7551	OIJFJHOI_00549	A0A098ZHY2	Putative P-loop-containing kinase
+PJ7551	OIJFJHOI_00550	C1CFE8	LPPG:FO 2-phospho-L-lactate transferase-like protein
+PJ7551	OIJFJHOI_00551	Q9JRK5	Putative cytoplasmic protein
+PJ7551	OIJFJHOI_00552	A0A098Z6E8	Thioredoxin reductase
+PJ7551	OIJFJHOI_00553	Q8DP14	Bacterial checkpoint controller DisA
+PJ7551	OIJFJHOI_00554	Q8DP15	Hypothetical protein
+PJ7551	OIJFJHOI_00555	C1CSI0	Phosphoglucosamine mutase
+PJ7551	OIJFJHOI_00556	B2IR77	Hypothetical protein
+PJ7551	OIJFJHOI_00557	C1C8E9	DegV family protein
+PJ7551	OIJFJHOI_00558	Q04JJ1	4-hydroxy-tetrahydrodipicolinate reductase
+PJ7551	OIJFJHOI_00559	A0AAE4K0L1	CCA tRNA nucleotidyltransferase
+PJ7551	OIJFJHOI_00560	A0A0E8HGI4	ATPase component of ABC transporter with duplicated ATPase domains
+PJ7551	OIJFJHOI_00561	C1CFD7	Cobalt-zinc-cadmium resistance protein
+PJ7551	OIJFJHOI_00562		SSRC10
+PJ7551	OIJFJHOI_00562		
+PJ7551	OIJFJHOI_00563	C1CFD6	Calcium-transporting ATPase
+PJ7551	OIJFJHOI_00564	A0A0H2UQV0	Glutathione S-transferase
+PJ7551	OIJFJHOI_00565	C1C8E2	Peptide deformylase
+PJ7551	OIJFJHOI_00566	A0A0B7M1N9	Cell shape-determining protein
+PJ7551	OIJFJHOI_00567	A0A229FM92	Hypothetical protein
+PJ7551	OIJFJHOI_00568		SpR20_sRNA
+PJ7551	OIJFJHOI_00568		
+PJ7551	OIJFJHOI_00569	Q8DP23	hypothetical protein
+PJ7551	OIJFJHOI_00570	A0A4M3JJW8	M protein trans-acting positive regulator Mga1
+PJ7551	OIJFJHOI_00571	A0A4L7SZW4	Pneumococcal collagen-like protein PclA
+PJ7551	OIJFJHOI_00572	A0A0B7L6M7	Hypothetical protein
+PJ7551	OIJFJHOI_00573	A0A098ZCY9	Hypothetical protein
+PJ7551	OIJFJHOI_00574	C1C8D3	Aspartate aminotransferase
+PJ7551	OIJFJHOI_00575	C1C8D2	Putative lactoylglutathione lyase
+PJ7551	OIJFJHOI_00576	C1CFC3	Asparaginyl-tRNA synthetase
+PJ7551	OIJFJHOI_00577	Q04JK8	SSU ribosomal protein S6p
+PJ7551	OIJFJHOI_00578	P66855	Single-stranded DNA-binding protein
+PJ7551	OIJFJHOI_00579	Q04JL0	SSU ribosomal protein S18p
+PJ7551	OIJFJHOI_00580	Q8CYJ1	Bifunctional lipoprotein rotamase A/peptidyl-prolyl cis-trans isomerase
+PJ7551	OIJFJHOI_00581	Q8DP29	General stress protein 13
+PJ7551	OIJFJHOI_00582	Q8DP30	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase
+PJ7551	OIJFJHOI_00583	Q8DP31	Putative endonuclease
+PJ7551	OIJFJHOI_00584	Q04JL5	Manganese-dependent inorganic pyrophosphatase
+PJ7551	OIJFJHOI_00585	Q8CYJ2	Glutamate synthase [NADPH] large chain
+PJ7551	OIJFJHOI_00586	Q8CYJ3	hypothetical protein
+PJ7551	OIJFJHOI_00587	Q8CYJ4	hypothetical protein
+PJ7551	OIJFJHOI_00588	Q8CYJ5	Hypothetical protein
+PJ7551	OIJFJHOI_00589	Q8CWQ5	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+PJ7551	OIJFJHOI_00590	B2IR49	Putative cell division protein YtgP
+PJ7551	OIJFJHOI_00591	A0A6G2DNU1	Oligopeptide ABC transporter oligopeptide-binding protein AliB
+PJ7551	OIJFJHOI_00592	A0A0B7L5D3	ABC transporter%2C ATP-binding/permease protein
+PJ7551	OIJFJHOI_00593	A0A0D6J7V8	ABC transporter%2C ATP-binding/permease protein
+PJ7551	OIJFJHOI_00594	A0A0D6J7V8	ABC transporter ATP-binding/permease protein
+PJ7551	OIJFJHOI_00595	A0A0H2ZM83	Cystathionine gamma-synthase
+PJ7551	OIJFJHOI_00596	A0A0D6J7G2	Bifunctional PLP-dependent beta-cystathionase/maltose regulon repressor
+PJ7551	OIJFJHOI_00597	A0A6G2D9B2	SWF/SNF family helicase
+PJ7551	OIJFJHOI_00598	C1CFA6	Hypothetical protein
+PJ7551	OIJFJHOI_00599	A0AA86X9E6	UDP-N-acetylmuramate--alanine ligase
+PJ7551	OIJFJHOI_00600	C1CFA4	hypothetical protein
+PJ7551	OIJFJHOI_00601	Q8DP41	Acetyltransferase%2C GNAT family
+PJ7551	OIJFJHOI_00602	A0A4J2FIE0	Endolytic murein transglycosylase MltG
+PJ7551	OIJFJHOI_00603	Q8DP42	Transcription elongation factor GreA
+PJ7551	OIJFJHOI_00604	B2IQX9	Hypothetical protein
+PJ7551	OIJFJHOI_00605	Q8CYJ9	Acetyltransferase
+PJ7551	OIJFJHOI_00606	B2IQX7	ISSpn8 transposase
+PJ7551	OIJFJHOI_00607	Q79RW7	ATP synthase F0 sector subunit c
+PJ7551	OIJFJHOI_00608	Q79MQ8	ATP synthase F0 sector subunit a
+PJ7551	OIJFJHOI_00609	Q04HT5	ATP synthase F0 sector subunit b
+PJ7551	OIJFJHOI_00610	Q04HT6	ATP synthase F1 sector delta chain
+PJ7551	OIJFJHOI_00611	Q50IS9	ATP synthase F1 sector alpha chain
+PJ7551	OIJFJHOI_00612	C1CSC9	ATP synthase F1 sector gamma chain
+PJ7551	OIJFJHOI_00613	Q97PT6	ATP synthase F1 sector beta chain
+PJ7551	OIJFJHOI_00614	Q04N64	ATP synthase F1 sector epsilon chain
+PJ7551	OIJFJHOI_00615	Q8DP45	6-phosphogluconolactonase
+PJ7551	OIJFJHOI_00616	Q8DP46	Hypothetical protein
+PJ7551	OIJFJHOI_00617	A0A6G2DKP6	TPR-repeat-containing protein
+PJ7551	OIJFJHOI_00618	C1CF86	Glutamine ABC transporter permease GlnP6
+PJ7551	OIJFJHOI_00619	C1C893	Glutamine ABC transporter ATP-binding protein GlnQ6
+PJ7551	OIJFJHOI_00620	C1CF84	Glutamine ABC transporter substrate-binding protein GlnH6
+PJ7551	OIJFJHOI_00621	Q8DP51	Bacterocin transport accessory protein
+PJ7551	OIJFJHOI_00622	A0A0E8AL14	Phosphoglucomutase
+PJ7551	OIJFJHOI_00623	A0A0E9GXA9	hypothetical protein
+PJ7551	OIJFJHOI_00624	C1C888	IS630 family transposase IS630-Spn1
+PJ7551	OIJFJHOI_00625	A0A6G2CVB6	Hypothetical protein
+PJ7551	OIJFJHOI_00626	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_00627	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_00628	A0A6I3UND0	Hypothetical protein
+PJ7551	OIJFJHOI_00629	A0A4J1VQS1	Cell wall surface anchor family protein MucB
+PJ7551	OIJFJHOI_00630	C1C884	Major intrinsic protein family aquaporin
+PJ7551	OIJFJHOI_00631	B2IQV2	Translation elongation factor Tu
+PJ7551	OIJFJHOI_00632	A0A4J1Y5Z9	IS630 family transposase ISSpn2
+PJ7551	OIJFJHOI_00633	A0A4J2DVJ4	IS630 family transposase ISSpn2
+PJ7551	OIJFJHOI_00634	A0AA86MJ65	ATP-dependent RNA helicase YfmL
+PJ7551	OIJFJHOI_00635	A0A0U0GQD0	Oxidoreductase%2C Gfo/Idh/MocA family
+PJ7551	OIJFJHOI_00636	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_00637	A0A4L5VXG4	hypothetical protein
+PJ7551	OIJFJHOI_00638	A0A0H2ZN69	Peptidoglycan N-acetylglucosamine deacetylase
+PJ7551	OIJFJHOI_00639	B2IQU4	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
+PJ7551	OIJFJHOI_00640		SpR19_sRNA
+PJ7551	OIJFJHOI_00640		
+PJ7551	OIJFJHOI_00641	C1C872	hypothetical protein
+PJ7551	OIJFJHOI_00642	C1CQP3	Glycyl-tRNA synthetase alpha chain
+PJ7551	OIJFJHOI_00643	A0A6G2DC83	Glycyl-tRNA synthetase beta chain
+PJ7551	OIJFJHOI_00644	Q8DP67	Hypothetical protein
+PJ7551	OIJFJHOI_00645	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_00646	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_00647	A0A064C0N4	Fumarate reductase%2C flavoprotein subunit precursor
+PJ7551	OIJFJHOI_00648	Q8DP68	Fumarate reductase%2C flavoprotein subunit precursor
+PJ7551	OIJFJHOI_00649	C1C866	Putative thiamin biosynthesis lipoprotein
+PJ7551	OIJFJHOI_00650	A0A064BXP8	NADH peroxidase
+PJ7551	OIJFJHOI_00651	Q97PX2	Pyridoxal 5'-phosphate synthase%2C synthase subunit PdxS
+PJ7551	OIJFJHOI_00652	Q97PX3	Pyridoxal 5'-phosphate synthase%2C glutaminase subunit PdxT
+PJ7551	OIJFJHOI_00653	C1CF48	Hemolysin III
+PJ7551	OIJFJHOI_00654	Q8CYK8	Hypothetical protein
+PJ7551	OIJFJHOI_00655	C1CF46	Acetyltransferase
+PJ7551	OIJFJHOI_00656	C1CF45	Methylated-DNA--protein-cysteine methyltransferase
+PJ7551	OIJFJHOI_00657	Q8DP75	Arsenate reductase
+PJ7551	OIJFJHOI_00658	Q8DP76	Cysteine ABC transporter permease protein
+PJ7551	OIJFJHOI_00659	C1CF42	Cysteine ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00660	C1CF41	Hypothetical protein
+PJ7551	OIJFJHOI_00661	Q8DP78	Thioredoxin reductase
+PJ7551	OIJFJHOI_00662	A0A0Y2NRS5	23S rRNA (guanosine(2251)-2'-O)-methyltransferase
+PJ7551	OIJFJHOI_00663	A0A654YJK2	Peptide deformylase
+PJ7551	OIJFJHOI_00664	A0A654YKW6	Capsule biosynthesis protein CapA
+PJ7551	OIJFJHOI_00665	A0A0D6J814	hypothetical protein
+PJ7551	OIJFJHOI_00666	B2IQR7	HAD superfamily hydrolase
+PJ7551	OIJFJHOI_00667	A0A0B7M5E2	Bifunctional N-acetylneuraminate cytidylyltransferase/platelet activating factor
+PJ7551	OIJFJHOI_00668	B2IQR5	C3-degrading proteinase
+PJ7551	OIJFJHOI_00669	C1CF32	Beta-lactamase%2C class C
+PJ7551	OIJFJHOI_00670	Q8DP82	Drug/metabolite transporter superfamily protein
+PJ7551	OIJFJHOI_00671	C1CF30	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
+PJ7551	OIJFJHOI_00672	Q04JQ8	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
+PJ7551	OIJFJHOI_00673		SpR18_sRNA
+PJ7551	OIJFJHOI_00673		
+PJ7551	OIJFJHOI_00674	B2IQR0	IS66 family transposase Orf1
+PJ7551	OIJFJHOI_00675	A0A4J1Q6V4	IS66 family transposase Orf2
+PJ7551	OIJFJHOI_00676	A0A822Q683	hypothetical protein
+PJ7551	OIJFJHOI_00677	A0A4H5ARH2	hypothetical protein
+PJ7551	OIJFJHOI_00678	A0A4H9EQ98	hypothetical protein
+PJ7551	OIJFJHOI_00679	A0A0H2UQX0	Duplicated ATPase component of energizing module of putative ECF transporter
+PJ7551	OIJFJHOI_00680	B2IQQ3	Transmembrane component of energizing module of putative ECF transporter
+PJ7551	OIJFJHOI_00681	B2IQQ2	Substrate-specific component of putative ECF transporter
+PJ7551	OIJFJHOI_00682	A0A0B7KPZ7	ABC transporter ATP-binding/permease protein
+PJ7551	OIJFJHOI_00683	A0A6I3U3I8	ABC transporter ATP-binding/permease protein
+PJ7551	OIJFJHOI_00684	Q8CYM0	Transcriptional regulator%2C AraC family
+PJ7551	OIJFJHOI_00685	A0A110RR68	Type II restriction-modification system methyltransferase
+PJ7551	OIJFJHOI_00686	Q8DP92	hypothetical protein
+PJ7551	OIJFJHOI_00687	Q8DP93	hypothetical protein
+PJ7551	OIJFJHOI_00688	A0A0B7LF72	Peptidase%2C U32 family large subunit (C1)
+PJ7551	OIJFJHOI_00689	A0A822RH68	Peptidase%2C U32 family large subunit (C1)
+PJ7551	OIJFJHOI_00690	A0A4J1UPH0	Multidrug efflux ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00691	A0A0B7LZZ3	Hypothetical protein
+PJ7551	OIJFJHOI_00692	C1CF10	Transcriptional repressor
+PJ7551	OIJFJHOI_00693	A0AA86X298	Hypothetical protein
+PJ7551	OIJFJHOI_00694	Q8DP97	Nicotinate phosphoribosyltransferase
+PJ7551	OIJFJHOI_00695	Q04JT1	NAD synthetase
+PJ7551	OIJFJHOI_00696	A0AA95DBS8	Acetyltransferase%2C GNAT family
+PJ7551	OIJFJHOI_00697	A0A0B7L6F0	Hypothetical protein
+PJ7551	OIJFJHOI_00698	B1ICL7	Choline-binding protein CbpM
+PJ7551	OIJFJHOI_00699	A0AA44MTM4	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+PJ7551	OIJFJHOI_00700	C1CQU2	Glucosamine-6-phosphate deaminase
+PJ7551	OIJFJHOI_00701	B2IQN3	SSU ribosomal protein S21p
+PJ7551	OIJFJHOI_00702	A0A6G2D8G6	HPr kinase/phosphorylase
+PJ7551	OIJFJHOI_00703	B2IQN1	Prolipoprotein diacylglyceryl transferase
+PJ7551	OIJFJHOI_00704	Q8DPA4	General stress protein
+PJ7551	OIJFJHOI_00705	C1CEZ8	Hypothetical protein
+PJ7551	OIJFJHOI_00706	Q8DPA6	Putative radical SAM family enzyme
+PJ7551	OIJFJHOI_00707	A0A4J2CDP8	Acyl-ACP thioesterase
+PJ7551	OIJFJHOI_00708	C1CEZ5	Putative NagD-like phosphatase
+PJ7551	OIJFJHOI_00709	C1CEZ4	Integral membrane protein
+PJ7551	OIJFJHOI_00710	A0A0T7KH66	Transcriptional regulator SpxA1
+PJ7551	OIJFJHOI_00711	B2IQM0	Hypothetical protein
+PJ7551	OIJFJHOI_00712	A0AA86JTQ5	Inositol-1-monophosphatase
+PJ7551	OIJFJHOI_00713	A0AA86J8S7	tRNA and rRNA cytosine-C5-methylase
+PJ7551	OIJFJHOI_00714	Q97Q31	Phosphate ABC transporter periplasmic phosphate-binding protein PstS2
+PJ7551	OIJFJHOI_00715	Q8DPB2	Phosphate transport system permease protein PstC2
+PJ7551	OIJFJHOI_00716	Q8DPB3	Phosphate transport system permease protein PstA2
+PJ7551	OIJFJHOI_00717	C1CEY5	Phosphate transport ATP-binding protein PstB2_1
+PJ7551	OIJFJHOI_00718	C1CEY4	Phosphate transport ATP-binding protein PstB2_2
+PJ7551	OIJFJHOI_00719	Q8DPB6	Phosphate transport system regulatory protein PhoU2
+PJ7551	OIJFJHOI_00720	A0A0U0AJD0	Amino acid ABC transporter amino acid-binding/permease protein
+PJ7551	OIJFJHOI_00721	A0A0B7LTE2	Putative transcriptional regulator of pyridoxine metabolism
+PJ7551	OIJFJHOI_00722	B1ICJ2	Alpha-acetolactate decarboxylase
+PJ7551	OIJFJHOI_00723	A0A0T8QB64	Hypothetical protein
+PJ7551	OIJFJHOI_00724	A0A0B7LG43	UDP-N-acetylenolpyruvoylglucosamine reductase
+PJ7551	OIJFJHOI_00725	C1CEX7	Spermidine/putrescine import ABC transporter ATP-binding protein PotA
+PJ7551	OIJFJHOI_00726	B2IQK4	Spermidine/putrescine import ABC transporter permease protein PotB
+PJ7551	OIJFJHOI_00727	C1C7Y7	Spermidine/putrescine import ABC transporter permease protein PotC
+PJ7551	OIJFJHOI_00728	C1C7Y6	Spermidine/putrescine import ABC transporter substrate-binding protein PotD
+PJ7551	OIJFJHOI_00729	Q8DPC6	Hypothetical protein
+PJ7551	OIJFJHOI_00730	A0AAD2IJC2	Alanyl-tRNA synthetase
+PJ7551	OIJFJHOI_00731	C1C7Y2	Cytoplasmic alpha-amylase
+PJ7551	OIJFJHOI_00732	C1C7Y1	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00733	A0A4M9XSV4	ABC transporter permease
+PJ7551	OIJFJHOI_00734	A0A916L5P4	ABC transporter permease
+PJ7551	OIJFJHOI_00735	A0A9P1Q449	Putative ribosomal RNA large subunit methyltransferase YwbD
+PJ7551	OIJFJHOI_00736	Q04JX0	3-dehydroquinate dehydratase I
+PJ7551	OIJFJHOI_00737	Q3I012	Shikimate/quinate 5-dehydrogenase I beta
+PJ7551	OIJFJHOI_00738	Q3I068	3-dehydroquinate synthase
+PJ7551	OIJFJHOI_00739	C1CL83	Chorismate synthase
+PJ7551	OIJFJHOI_00740	C1CEW2	Prephenate dehydrogenase
+PJ7551	OIJFJHOI_00741	Q8DPD3	Transcriptional regulator
+PJ7551	OIJFJHOI_00742	A0A0U0KXN4	5-Enolpyruvylshikimate-3-phosphate synthase
+PJ7551	OIJFJHOI_00743	A0AAD2QAL3	Shikimate kinase I
+PJ7551	OIJFJHOI_00744	A0A0D6J7D6	Prephenate dehydratase
+PJ7551	OIJFJHOI_00745	Q8DPD6	LytR-CpsA-Psr subfamily F1 cell envelope-associated transcriptional attenuator
+PJ7551	OIJFJHOI_00746	C1CEV6	Lipopolysaccharide cholinephosphotransferase LicD3
+PJ7551	OIJFJHOI_00747	A0A6I3U4A5	Glycosyltransferase%2C group 1 family
+PJ7551	OIJFJHOI_00748	A0A4J2GVM6	Glycosyltransferase%2C group 2 family
+PJ7551	OIJFJHOI_00749	A0A6I3TDF3	Teichoic acid ribitol polymerase
+PJ7551	OIJFJHOI_00750	C1CEV2	TarQ
+PJ7551	OIJFJHOI_00751	C1CQZ3	Adaptor protein MecA
+PJ7551	OIJFJHOI_00752	Q8DPE1	Homoserine dehydrogenase
+PJ7551	OIJFJHOI_00753	Q04JY7	Homoserine kinase
+PJ7551	OIJFJHOI_00754	A0A0B7L4L0	Peptide methionine sulfoxide reductase MsrAB1
+PJ7551	OIJFJHOI_00755	B2IQH5	ABC transporter ATP-binding/permease protein
+PJ7551	OIJFJHOI_00756	A0AAE9U1Q5	ABC transporter ATP-binding/permease protein
+PJ7551	OIJFJHOI_00757	A0A6G2DMQ2	Methylthioadenosine deaminase
+PJ7551	OIJFJHOI_00758		L10_leader
+PJ7551	OIJFJHOI_00758		
+PJ7551	OIJFJHOI_00759	Q04JZ3	LSU ribosomal protein L10p (P0)
+PJ7551	OIJFJHOI_00760	Q04JZ4	LSU ribosomal protein L7/L12 (P1/P2)
+PJ7551	OIJFJHOI_00761		rli38
+PJ7551	OIJFJHOI_00761		
+PJ7551	OIJFJHOI_00762	A0A098ANF2	hypothetical protein
+PJ7551	OIJFJHOI_00763	Q8CYN4	hypothetical protein
+PJ7551	OIJFJHOI_00764	Q8CYN5	hypothetical protein
+PJ7551	OIJFJHOI_00765	Q8CYN6	Tn5253 hypothetical protein
+PJ7551	OIJFJHOI_00766	E7AJJ3	hypothetical protein
+PJ7551	OIJFJHOI_00767	A0A0H2UQQ4	Tn5253 putative CAAX amino terminal protease
+PJ7551	OIJFJHOI_00768	C1C7U1	Hypothetical protein
+PJ7551	OIJFJHOI_00769	A0AAD2II32	Lanthionine biosynthesis protein LanL
+PJ7551	OIJFJHOI_00770	C1C7U5	Protease II
+PJ7551	OIJFJHOI_00771	C1C7U4	ABC transporter ATP-binding/membrane spanning protein
+PJ7551	OIJFJHOI_00772	C1C7U3	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00773	A0A384ZZY7	Hypothetical protein
+PJ7551	OIJFJHOI_00774	C1C7U1	Hypothetical protein
+PJ7551	OIJFJHOI_00775	A0A0B7LKL9	hypothetical protein
+PJ7551	OIJFJHOI_00776	A0AAD2IHX3	IS3 family transposase ISSpn4
+PJ7551	OIJFJHOI_00777	A0A0B7LRD2	hypothetical protein
+PJ7551	OIJFJHOI_00778	A0A0U0JBG0	hypothetical protein
+PJ7551	OIJFJHOI_00779	A0AAD2IKW3	putative HTH-type transcriptional regulator YbbH
+PJ7551	OIJFJHOI_00780	A0A0B7LDL9	N-acetylmannosamine-6-phosphate 2-epimerase
+PJ7551	OIJFJHOI_00781	A0A6G2DNN7	Multiple sugar ABC transporter%2C membrane-spanning permease protein
+PJ7551	OIJFJHOI_00782	A0A0B7LFE7	ABC transporter permease protein
+PJ7551	OIJFJHOI_00783	B1IAQ9	Hypothetical protein
+PJ7551	OIJFJHOI_00784	B1IAR0	hypothetical protein
+PJ7551	OIJFJHOI_00785	A0AAD2KEW3	hypothetical protein
+PJ7551	OIJFJHOI_00786	B1IAR2	hypothetical protein
+PJ7551	OIJFJHOI_00787	A0AA44MRJ2	hypothetical protein
+PJ7551	OIJFJHOI_00788	A0A0B7LSC8	hypothetical protein
+PJ7551	OIJFJHOI_00789	A0AAE9QXS5	IS630 family transposase ISSpn2
+PJ7551	OIJFJHOI_00790	A0AAE9QJW7	hypothetical protein
+PJ7551	OIJFJHOI_00791	A0A4N5NFL9	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_00792	A0A0B7LGH5	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00793	A0A0B7LLJ2	Hypothetical protein
+PJ7551	OIJFJHOI_00794	C1CEQ8	NADP-specific glutamate dehydrogenase
+PJ7551	OIJFJHOI_00795	A0A4J2CQS6	IS630 family transposase ISSpn2
+PJ7551	OIJFJHOI_00796	A0A0B7LYP4	Ferrous iron transport permease EfeU
+PJ7551	OIJFJHOI_00797	A0AA87CAZ5	LSU ribosomal protein L31p
+PJ7551	OIJFJHOI_00798	A0A064C0R5	DHH family phosphoesterase Pde2
+PJ7551	OIJFJHOI_00799	C1CEQ2	Flavodoxin
+PJ7551	OIJFJHOI_00800	Q8DPG5	Chorismate mutase I
+PJ7551	OIJFJHOI_00801	C1C7S4	ClC-type fluoride channel
+PJ7551	OIJFJHOI_00802	Q97QC5	ClC-type fluoride channel
+PJ7551	OIJFJHOI_00803	Q97QC6	LSU ribosomal protein L19p
+PJ7551	OIJFJHOI_00804		tRNA-Arg(cct)
+PJ7551	OIJFJHOI_00804		
+PJ7551	OIJFJHOI_00805	B1ICA6	hypothetical protein
+PJ7551	OIJFJHOI_00806	A0A064C1E3	Sugar phosphatase YidA
+PJ7551	OIJFJHOI_00807	C1C7S0	dNTP triphosphohydrolase
+PJ7551	OIJFJHOI_00808	B2IQ80	Hypothetical protein
+PJ7551	OIJFJHOI_00809	C1C7R8	Signal recognition particle associated protein
+PJ7551	OIJFJHOI_00810	C1C7R7	Signal recognition particle protein Ffh
+PJ7551	OIJFJHOI_00811	A0A0E8ZAG6	Uracil permease
+PJ7551	OIJFJHOI_00812		SpF44_sRNA
+PJ7551	OIJFJHOI_00812		
+PJ7551	OIJFJHOI_00813	Q97QD4	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+PJ7551	OIJFJHOI_00814	A0A4J1SHX3	LemA
+PJ7551	OIJFJHOI_00815	Q97QD6	Heat shock protein HtpX
+PJ7551	OIJFJHOI_00816	A0AAD2KEI0	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00817		SpF43_sRNA
+PJ7551	OIJFJHOI_00817		
+PJ7551	OIJFJHOI_00818	A0A4J1PG94	BlpT protein
+PJ7551	OIJFJHOI_00819	A0A0B7KY73	Protein%2C clustered with ribosomal protein L32p
+PJ7551	OIJFJHOI_00820	Q8DPH8	Endonuclease III
+PJ7551	OIJFJHOI_00821		PyrR
+PJ7551	OIJFJHOI_00821		
+PJ7551	OIJFJHOI_00822	Q04K45	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
+PJ7551	OIJFJHOI_00823	C1C7Q5	Aspartate carbamoyltransferase
+PJ7551	OIJFJHOI_00824	A0A064BWJ2	Carbamoyl-phosphate synthase small chain CarA
+PJ7551	OIJFJHOI_00825	A0AA95IKI8	Carbamoyl-phosphate synthase large chain CarB
+PJ7551	OIJFJHOI_00826	A0AA95IL69	Lipopolysaccharide cholinephosphotransferase LicD2
+PJ7551	OIJFJHOI_00827	A0A4J1YDP9	Lipopolysaccharide cholinephosphotransferase LicD1
+PJ7551	OIJFJHOI_00828	A0A0I6E712	Membrane protein TacF involved in the export of O-antigen and teichoic acid
+PJ7551	OIJFJHOI_00829	A0A064BWJ5	Ribitol-5-phosphate cytidylyltransferase
+PJ7551	OIJFJHOI_00830	A0A0D6J7P2	Ribulose-5-phosphate reductase
+PJ7551	OIJFJHOI_00831	Q93MI3	Choline kinase LicA
+PJ7551	OIJFJHOI_00832	C1CEM2	Choline permease LicB
+PJ7551	OIJFJHOI_00833	A0A4J1PZ14	Cholinephosphate cytidylyltransferase LicC
+PJ7551	OIJFJHOI_00834	A0A0H2UQA6	DNA protecting protein DprA
+PJ7551	OIJFJHOI_00835	A0A0B7M4M5	Integral membrane protein
+PJ7551	OIJFJHOI_00836	A0A0B7M6Q6	DNA topoisomerase I
+PJ7551	OIJFJHOI_00837	A0A0H2UQA4	Hypothetical protein related to heme utilization
+PJ7551	OIJFJHOI_00838	B2IPM0	Cytoplasmic copper homeostasis protein CutC
+PJ7551	OIJFJHOI_00839	A0A0B7L4K2	Hypothetical protein
+PJ7551	OIJFJHOI_00840	A0A0H2UQG5	2-isopropylmalate synthase
+PJ7551	OIJFJHOI_00841	A0A0I6GHB5	3-isopropylmalate dehydrogenase
+PJ7551	OIJFJHOI_00842	A0A4J1RUU3	3-isopropylmalate dehydrogenase
+PJ7551	OIJFJHOI_00843	A0A0H2UQA5	Putative membrane protein
+PJ7551	OIJFJHOI_00844	A0A0E8P501	3-isopropylmalate dehydratase small subunit
+PJ7551	OIJFJHOI_00845	A0A098ZBM5	Hypothetical protein
+PJ7551	OIJFJHOI_00846	A0A6G2DBL9	Endonuclease
+PJ7551	OIJFJHOI_00847	A0A6G2DVV8	Hypothetical protein
+PJ7551	OIJFJHOI_00848	A0A0E7TTA4	GMP reductase
+PJ7551	OIJFJHOI_00849		tRNA-Arg(ccg)
+PJ7551	OIJFJHOI_00849		
+PJ7551	OIJFJHOI_00850	A0A064C285	Ribonuclease III
+PJ7551	OIJFJHOI_00851	A0AA86JA36	Chromosome partition protein SMC
+PJ7551	OIJFJHOI_00852	A0A0U0AUH1	Hydrolase%2C HAD superfamily
+PJ7551	OIJFJHOI_00853	A0A0U0GYB8	Hydrolase%2C HAD superfamily
+PJ7551	OIJFJHOI_00854	A0AA86JQG6	Signal recognition particle receptor FtsY
+PJ7551	OIJFJHOI_00855	A0A4J1Z348	Glucose-6-phosphate 1-dehydrogenase
+PJ7551	OIJFJHOI_00856	C1CEJ8	Glutamine transport ATP-binding protein GlnQ
+PJ7551	OIJFJHOI_00857	C1CEJ7	Glutamine ABC transporter GlnHP5%2C containing substrate-binding and permease domains
+PJ7551	OIJFJHOI_00858	A0A655GGA7	CAAX amino terminal protease family protein
+PJ7551	OIJFJHOI_00859	Q54986	Excinuclease ABC subunit B
+PJ7551	OIJFJHOI_00860	A0A4J1NL23	Acetyltransferase
+PJ7551	OIJFJHOI_00861	A0A4H5B0S9	Acetyltransferase
+PJ7551	OIJFJHOI_00862	A0A2R2HV82	MutT/Nudix family protein
+PJ7551	OIJFJHOI_00863	A0A0T7TLM8	Transcriptional repressor of NAD biosynthesis
+PJ7551	OIJFJHOI_00864	C1CEJ0	Substrate-specific component NiaX of putative niacin ECF transporter
+PJ7551	OIJFJHOI_00865	Q8DPL2	Substrate-specific component PanT of putative pantothenate ECF transporter
+PJ7551	OIJFJHOI_00866	Q8DPL3	Phosphopantothenoylcysteine decarboxylase
+PJ7551	OIJFJHOI_00867	C1CEI7	Phosphopantothenoylcysteine synthetase
+PJ7551	OIJFJHOI_00868	C1CEI6	Formate--tetrahydrofolate ligase
+PJ7551	OIJFJHOI_00869	A0A4J2AC17	A/G-specific adenine glycosylase
+PJ7551	OIJFJHOI_00870	Q9S1K0	Two-component system response regulator VicR
+PJ7551	OIJFJHOI_00871	C1CEI3	Two-component system sensor histidine kinase VicK
+PJ7551	OIJFJHOI_00872	Q9RCS5	Zn-dependent hydrolase VicX
+PJ7551	OIJFJHOI_00873	A0A558SUE3	Replicon stabilization protein RelB2
+PJ7551	OIJFJHOI_00874	Q8CYQ7	mRNA interferase RelE2
+PJ7551	OIJFJHOI_00875	A0A0T7L7N8	hypothetical protein
+PJ7551	OIJFJHOI_00876	A0AA87CBD3	L-lactate dehydrogenase
+PJ7551	OIJFJHOI_00877	A0A6G2DAI1	DNA gyrase subunit A
+PJ7551	OIJFJHOI_00878	Q8DPM3	Sortase SrtA%2C LPXTG specific
+PJ7551	OIJFJHOI_00879	Q8DPM4	Formate-nitrate transporter
+PJ7551	OIJFJHOI_00880	C1C7I2	O-acetyl-L-homoserine sulfhydrylase
+PJ7551	OIJFJHOI_00881	C1C7I1	Cystathionine gamma-synthase
+PJ7551	OIJFJHOI_00882	C1C7I0	Hypothetical protein
+PJ7551	OIJFJHOI_00883	A0A0T7ZB21	tRNA pseudouridine synthase B
+PJ7551	OIJFJHOI_00884	A0A0B4ZIX7	Hypothetical protein
+PJ7551	OIJFJHOI_00885	C1CEH2	Hypothetical protein
+PJ7551	OIJFJHOI_00886	Q04KA9	Uridine kinase
+PJ7551	OIJFJHOI_00887	A0A0T8Q9V4	Exodeoxyribonuclease VII large subunit
+PJ7551	OIJFJHOI_00888	Q04KB1	Exodeoxyribonuclease VII small subunit
+PJ7551	OIJFJHOI_00889	A0A4J1RWN3	(2E%2C6E)-farnesyl diphosphate synthase
+PJ7551	OIJFJHOI_00890	A0A0B7LYQ9	RNA-binding methyltransferase
+PJ7551	OIJFJHOI_00891	A0A0T8BDD5	Arginine pathway regulatory protein AhrC
+PJ7551	OIJFJHOI_00892	C1C7H1	DNA repair protein RecN
+PJ7551	OIJFJHOI_00893	A0A0H2UQ46	Serine/threonine protein phosphatase
+PJ7551	OIJFJHOI_00894	B2IPT0	Translation elongation factor LepA
+PJ7551	OIJFJHOI_00895	A0AAD2I883	Hypothetical protein
+PJ7551	OIJFJHOI_00896	A0A0B7KYS8	Galactose-specific PTS IIA component
+PJ7551	OIJFJHOI_00897	A0A0H2UQA9	Galactose-specific PTS IIB component
+PJ7551	OIJFJHOI_00898	A0AA95D635	IS5 family transposase ISSpn7
+PJ7551	OIJFJHOI_00899	A0A4J2C1B4	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_00900	Q8DPN8	Aldose epimerase
+PJ7551	OIJFJHOI_00901	Q8DPN9	Galactose-6-phosphate isomerase%2C LacA subunit
+PJ7551	OIJFJHOI_00902	Q8DPP0	Galactose-6-phosphate isomerase%2C LacB subunit
+PJ7551	OIJFJHOI_00903	A0A9P1PKR6	Tagatose-6-phosphate kinase LacC
+PJ7551	OIJFJHOI_00904	C1C7F9	Tagatose 1%2C6-diphosphate aldolase
+PJ7551	OIJFJHOI_00905	A0A0E8T086	Beta-glucoside bgl operon antiterminator LacT%2C BglG family
+PJ7551	OIJFJHOI_00906	Q8DPP4	Lactose-specific PTS IIA component
+PJ7551	OIJFJHOI_00907	C1CEE8	Lactose-specific PTS IIBC components
+PJ7551	OIJFJHOI_00908	A0AA95D6D6	6-phospho-beta-galactosidase
+PJ7551	OIJFJHOI_00909	A0A121AQI8	hypothetical protein
+PJ7551	OIJFJHOI_00910	A0A0B7LYU0	Lactose phosphotransferase system repressor
+PJ7551	OIJFJHOI_00911	Q8DPP8	Ribonucleotide reductase of class Ib%2C beta subunit
+PJ7551	OIJFJHOI_00912	Q8CWR3	Ribonucleotide reductase of class Ib%2C alpha subunit
+PJ7551	OIJFJHOI_00913	Q8DPP9	Glutaredoxin-like protein NrdH
+PJ7551	OIJFJHOI_00914	Q8DPQ0	Phosphotransferase system%2C phosphocarrier protein HPr
+PJ7551	OIJFJHOI_00915	A0A0B7LFZ1	Phosphoenolpyruvate-protein phosphotransferase of PTS
+PJ7551	OIJFJHOI_00916	Q8DPQ2	Pneumococcal histidine triad protein A
+PJ7551	OIJFJHOI_00917	A0A6I3U8K6	Pneumococcal histidine triad protein B
+PJ7551	OIJFJHOI_00918	A0A0B7L2Z1	hypothetical protein
+PJ7551	OIJFJHOI_00919	A0A0B7MFV3	PTS-dependent dihydroxyacetone kinase%2C phosphotransferase subunit DhaM
+PJ7551	OIJFJHOI_00920	A0A0H2UQ88	2-haloalkanoic acid dehalogenase
+PJ7551	OIJFJHOI_00921	A0A0D6J8I6	Hypothetical protein
+PJ7551	OIJFJHOI_00922	B2IPV6	Uracil-DNA glycosylase%2C family 1
+PJ7551	OIJFJHOI_00923	C1CED3	8-oxo-dGTP diphosphatase MutX
+PJ7551	OIJFJHOI_00924	A0A0B7M963	Dihydroorotase
+PJ7551	OIJFJHOI_00925	A0A0B7L0U2	Hypothetical protein
+PJ7551	OIJFJHOI_00926	A0A064BZM5	Dihydrolipoamide acetyltransferase
+PJ7551	OIJFJHOI_00927	C1CED0	Acetoin dehydrogenase E1 component alpha-subunit
+PJ7551	OIJFJHOI_00928	A0A9P1LU72	Acetoin dehydrogenase E1 component beta-subunit
+PJ7551	OIJFJHOI_00929	C1C7D3	Dihydrolipoamide acetyltransferase (E2) component of acetoin dehydrogenase complex
+PJ7551	OIJFJHOI_00930	A0A4J1SB62	Dihydrolipoamide dehydrogenase of acetoin dehydrogenase
+PJ7551	OIJFJHOI_00931	C1C7D1	Lipoate-protein ligase A
+PJ7551	OIJFJHOI_00932	Q04KF1	Tyrosine recombinase XerS
+PJ7551	OIJFJHOI_00933	A0A4J2FCH9	Voltage-gated chloride channel family protein
+PJ7551	OIJFJHOI_00934	C1CRN4	Ribonuclease HII
+PJ7551	OIJFJHOI_00935	C1CEC2	50S ribosomal subunit maturation GTPase RbgA
+PJ7551	OIJFJHOI_00936	A0A2U3RZX2	IgA1 protease ZmpA
+PJ7551	OIJFJHOI_00937	A0AAD2KGT6	Hypothetical protein
+PJ7551	OIJFJHOI_00938	A0A4J2CB72	ATP-dependent nuclease subunit RexA
+PJ7551	OIJFJHOI_00939	A0AA44S6R3	ATP-dependent nuclease subunit RexB
+PJ7551	OIJFJHOI_00940	C1CGU6	IS630 family transposase IS630-Spn1
+PJ7551	OIJFJHOI_00941	A0A4N9BIG1	IS630 family transposase IS630-Spn1
+PJ7551	OIJFJHOI_00942		SpF41_sRNA
+PJ7551	OIJFJHOI_00942		
+PJ7551	OIJFJHOI_00943	A0A0U0HFZ6	hypothetical protein
+PJ7551	OIJFJHOI_00944	A0A0T8K6V7	hypothetical protein
+PJ7551	OIJFJHOI_00945	A0A0T7T6C3	hypothetical protein
+PJ7551	OIJFJHOI_00946	A0A0U0HEE2	hypothetical protein
+PJ7551	OIJFJHOI_00947	A0A0U0K6P4	hypothetical protein
+PJ7551	OIJFJHOI_00948	A0A9P1LXC9	hypothetical protein
+PJ7551	OIJFJHOI_00949	A0AA36PYD7	hypothetical protein
+PJ7551	OIJFJHOI_00950	A0A0T8BED0	hypothetical protein
+PJ7551	OIJFJHOI_00951	A0A0T8I894	hypothetical protein
+PJ7551	OIJFJHOI_00952	A0A0T8TXY0	hypothetical protein
+PJ7551	OIJFJHOI_00953	A0A0U0F045	hypothetical protein
+PJ7551	OIJFJHOI_00954	A0A6G2DDQ1	hypothetical protein
+PJ7551	OIJFJHOI_00955	A0A0T8BED4	hypothetical protein
+PJ7551	OIJFJHOI_00956	A0A0U0Q3Q9	hypothetical protein
+PJ7551	OIJFJHOI_00957	A0A4J2CNL4	Tyrosine recombinase XerC
+PJ7551	OIJFJHOI_00958		SpF01_sRNA
+PJ7551	OIJFJHOI_00958		
+PJ7551	OIJFJHOI_00959	C1CRM6	Enolase
+PJ7551	OIJFJHOI_00960	Q8CYR5	Hypothetical protein
+PJ7551	OIJFJHOI_00961	C1C7B8	Glycerate kinase
+PJ7551	OIJFJHOI_00962	A0A064C1S2	Phosphoserine phosphatase
+PJ7551	OIJFJHOI_00963	B2IPY4	Glycogen biosynthesis ADP-glucose--glucan transglucosylase GlgA
+PJ7551	OIJFJHOI_00964	A0A559CV11	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgD
+PJ7551	OIJFJHOI_00965	Q97QS7	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgC
+PJ7551	OIJFJHOI_00966	A0A0T9GVB8	1%2C4-alpha-glucan-branching enzyme GlgB
+PJ7551	OIJFJHOI_00967	Q8DPS7	Glyceraldehyde-3-phosphate dehydrogenase (NADP(+))
+PJ7551	OIJFJHOI_00968	Q8DPS8	Putative glycogen debranching enzyme
+PJ7551	OIJFJHOI_00969	A0A0E8ZQY3	DNA ligase (NAD(+))
+PJ7551	OIJFJHOI_00970	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_00971	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_00972	B1IBQ2	Macrolide efflux ABC transporter membrane-spanning permease
+PJ7551	OIJFJHOI_00973	Q8DPT1	Positive transcriptional regulator%2C MutR family
+PJ7551	OIJFJHOI_00974	A0A4J1RA39	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_00975	C1CEA0	DNA-binding protein HlpA
+PJ7551	OIJFJHOI_00976	Q8DPT4	DegV family protein
+PJ7551	OIJFJHOI_00977	C1C7A5	Transporter
+PJ7551	OIJFJHOI_00978	Q8DPT6	Bifunctional FMN adenylyltransferase/riboflavin kinase RibF
+PJ7551	OIJFJHOI_00979	Q04KI2	LSU ribosomal protein L27p
+PJ7551	OIJFJHOI_00980	C1CE93	Putative ribosomal protein
+PJ7551	OIJFJHOI_00981	C1CKG8	LSU ribosomal protein L21p
+PJ7551	OIJFJHOI_00982		L21_leader
+PJ7551	OIJFJHOI_00982		
+PJ7551	OIJFJHOI_00983	A0A4J1TA14	Hypothetical protein
+PJ7551	OIJFJHOI_00984	Q04KI6	Hypothetical protein co-occurring with RecR
+PJ7551	OIJFJHOI_00985		Srn266
+PJ7551	OIJFJHOI_00985		
+PJ7551	OIJFJHOI_00986	A0A4J1MW61	IS1167 transposase Orf1
+PJ7551	OIJFJHOI_00987	A0A4L4YX01	IS1167 transposase Orf2
+PJ7551	OIJFJHOI_00988		SpR14_sRNA
+PJ7551	OIJFJHOI_00988		
+PJ7551	OIJFJHOI_00989	Q8DPU0	Phosphate acetyltransferase
+PJ7551	OIJFJHOI_00990	A0AA44MUX0	RluD-like protein
+PJ7551	OIJFJHOI_00991	B2IQ09	NAD kinase
+PJ7551	OIJFJHOI_00992	Q8DPU2	GTP pyrophosphokinase
+PJ7551	OIJFJHOI_00993	C1C792	Adenylate cyclase
+PJ7551	OIJFJHOI_00994	P65242	Ribose-phosphate pyrophosphokinase
+PJ7551	OIJFJHOI_00995	C1CE80	Cysteine desulfurase
+PJ7551	OIJFJHOI_00996	Q8CYS0	Hypothetical protein
+PJ7551	OIJFJHOI_00997	Q8CYS1	Hypothetical protein
+PJ7551	OIJFJHOI_00998	C1CRJ3	Redox-sensitive transcriptional regulator Rex
+PJ7551	OIJFJHOI_00999	A0AAE9U3J1	Glutamine amidotransferase%2C class I
+PJ7551	OIJFJHOI_01000	A0A062WLA7	DNA repair protein RadC
+PJ7551	OIJFJHOI_01001	A0A0U0HZW6	ATP-dependent DNA helicase PcrA
+PJ7551	OIJFJHOI_01002	B2IPT3	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01003	A0A4G3UBW2	hypothetical protein
+PJ7551	OIJFJHOI_01004	Q8DPV1	Methionine aminopeptidase
+PJ7551	OIJFJHOI_01005	A0A0B7M8Z1	Cytosolic protein containing multiple CBS domains
+PJ7551	OIJFJHOI_01006	C1CE69	Ribosomal-protein-S5p-alanine acetyltransferase
+PJ7551	OIJFJHOI_01007	Q97QW6	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PJ7551	OIJFJHOI_01008		group-II-D1D4-3
+PJ7551	OIJFJHOI_01008		
+PJ7551	OIJFJHOI_01009	C1CE67	Hypothetical protein
+PJ7551	OIJFJHOI_01010	C1CE66	GTP-binding protein ObgE
+PJ7551	OIJFJHOI_01011	C1CE65	Hypothetical protein
+PJ7551	OIJFJHOI_01012	C1CE64	Hypothetical protein
+PJ7551	OIJFJHOI_01013	A0A6G2DBR2	1%2C2-diacylglycerol 3-glucosyltransferase LafA
+PJ7551	OIJFJHOI_01014	A0A0H2ZPH7	Diglucosyl diacylglycerol synthase LafB
+PJ7551	OIJFJHOI_01015	Q8DPW0	Putative aromatic ring hydroxylating enzyme
+PJ7551	OIJFJHOI_01016	P0A4J0	RNA polymerase sigma factor RpoD
+PJ7551	OIJFJHOI_01017	A0A4J1UYI2	DNA primase
+PJ7551	OIJFJHOI_01018	A0A0H2UQ29	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01019	A0A0H2UPW3	Putative tryptophan-specific ABC transporter permease protein TrpY
+PJ7551	OIJFJHOI_01020	A0A0T9IB85	ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_01021		T-box
+PJ7551	OIJFJHOI_01021		
+PJ7551	OIJFJHOI_01022	A0A6G2D927	Phosphoenolpyruvate carboxylase
+PJ7551	OIJFJHOI_01023	A0A0H2ZRW0	Cell division protein FtsW
+PJ7551	OIJFJHOI_01024		pemK
+PJ7551	OIJFJHOI_01024		
+PJ7551	OIJFJHOI_01025	Q8DPW7	Putative repressor protein%2C phage associated
+PJ7551	OIJFJHOI_01026	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_01027	A0A4J1VKY0	hypothetical protein
+PJ7551	OIJFJHOI_01028	A0A0E9GNR6	hypothetical protein
+PJ7551	OIJFJHOI_01029	C1CE49	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01030	A0A4K1AYM2	Hypothetical protein
+PJ7551	OIJFJHOI_01031	C1CE47	Alpha-hemolysin translocation ATP-binding protein HlyB
+PJ7551	OIJFJHOI_01032	A0A4J2EP18	Toxin secretion ABC transporter%2C ATP-binding/permease protein
+PJ7551	OIJFJHOI_01033	A0A0E9GU98	hypothetical protein
+PJ7551	OIJFJHOI_01034	A0AA87C7H4	Neopullulanase
+PJ7551	OIJFJHOI_01035	A0A4J2A6H4	Neopullulanase
+PJ7551	OIJFJHOI_01036	B2IPK3	Transcriptional regulator
+PJ7551	OIJFJHOI_01037	A0A4K4BX92	Putative hydrolase
+PJ7551	OIJFJHOI_01038	A0A0B7KSE1	Hypothetical protein
+PJ7551	OIJFJHOI_01039	B2IPK0	Hypothetical protein
+PJ7551	OIJFJHOI_01040	B2IPJ6	Hypothetical protein
+PJ7551	OIJFJHOI_01041	A0A4K4BX27	Phage integrase
+PJ7551	OIJFJHOI_01042	Q8CYT9	Hypothetical protein
+PJ7551	OIJFJHOI_01043		pemK
+PJ7551	OIJFJHOI_01043		
+PJ7551	OIJFJHOI_01044	Q8CYU1	Putative type II restriction endonuclease
+PJ7551	OIJFJHOI_01045	C1CE25	Iron compound ABC uptake transporter ATP-binding protein PiaD
+PJ7551	OIJFJHOI_01046	Q8DPY4	Iron compound ABC uptake transporter permease protein PiaC
+PJ7551	OIJFJHOI_01047	B2IPI9	Iron compound ABC uptake transporter permease protein PiaB
+PJ7551	OIJFJHOI_01048	Q8DPY6	Iron compound ABC uptake transporter substrate-binding protein PiaA
+PJ7551	OIJFJHOI_01049	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_01050	C1CE21	Hypothetical protein
+PJ7551	OIJFJHOI_01051		SpF39_sRNA
+PJ7551	OIJFJHOI_01051		
+PJ7551	OIJFJHOI_01052		SpF61_sRNA
+PJ7551	OIJFJHOI_01052		
+PJ7551	OIJFJHOI_01053	A0A4N6AET8	23S rRNA (uracil(1939)-C(5))-methyltransferase
+PJ7551	OIJFJHOI_01054	A0A0B7LWH7	Extracellular protein
+PJ7551	OIJFJHOI_01055	C1C701	Pneumococcal vaccine antigen A
+PJ7551	OIJFJHOI_01056	A0A5R9AW41	Pseudouridylate synthase%2C 23S RNA-specific
+PJ7551	OIJFJHOI_01057	A0A380LTP6	Serine hydroxymethyltransferase
+PJ7551	OIJFJHOI_01058	B1IBI2	N-acetyltransferase%2C GCN5-family
+PJ7551	OIJFJHOI_01059	C1CE14	Threonylcarbamoyl-AMP synthase TsaC
+PJ7551	OIJFJHOI_01060	C1CE13	Peptide chain release factor N(5)-glutamine methyltransferase
+PJ7551	OIJFJHOI_01061	Q8DPZ4	Peptide chain release factor 1
+PJ7551	OIJFJHOI_01062	A0A0E9GQZ0	Thymidine kinase
+PJ7551	OIJFJHOI_01063	B2IPH4	Bifunctional 4-oxalocrotonate tautomerase/xylose transport system permease protein XylH
+PJ7551	OIJFJHOI_01064	A0A6I3TZY7	GTPase and tRNA-U34 5-formylation enzyme MnmE
+PJ7551	OIJFJHOI_01065	C1CK93	4-hydroxy-tetrahydrodipicolinate synthase
+PJ7551	OIJFJHOI_01066	Q8DQ00	Aspartate-semialdehyde dehydrogenase
+PJ7551	OIJFJHOI_01067		asd
+PJ7551	OIJFJHOI_01067		
+PJ7551	OIJFJHOI_01068		tRNA-Thr(ggt)
+PJ7551	OIJFJHOI_01068		
+PJ7551	OIJFJHOI_01069	C1CE06	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
+PJ7551	OIJFJHOI_01070		preQ1-II
+PJ7551	OIJFJHOI_01070		
+PJ7551	OIJFJHOI_01071	A0A0E7TRS3	GtrA family protein
+PJ7551	OIJFJHOI_01072	Q8DQ03	Large-conductance mechanosensitive channel MscL
+PJ7551	OIJFJHOI_01073	A0AA87C6G6	Ferrochelatase%2C protoheme ferro-lyase
+PJ7551	OIJFJHOI_01074	B3FNU3	hypothetical protein
+PJ7551	OIJFJHOI_01075	B3FNT5	hypothetical protein
+PJ7551	OIJFJHOI_01076	B3FNT4	Pilin
+PJ7551	OIJFJHOI_01077	B3FNT3	Signal peptidase IB
+PJ7551	OIJFJHOI_01078	A0AAE4K3B0	hypothetical protein
+PJ7551	OIJFJHOI_01079	A0AA86XZ52	hypothetical protein
+PJ7551	OIJFJHOI_01080	A0A655HA34	Tripeptide aminopeptidase PepT
+PJ7551	OIJFJHOI_01081	A0A0E8J3T0	hypothetical protein
+PJ7551	OIJFJHOI_01082	A0A0B7KWR4	hypothetical protein
+PJ7551	OIJFJHOI_01083	C1C6Y1	Pneumococcal histidine triad protein E
+PJ7551	OIJFJHOI_01084	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01085	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_01086	A0A5C5EC23	Pneumococcal histidine triad protein D
+PJ7551	OIJFJHOI_01087	Q8DQ09	Laminin-binding surface protein
+PJ7551	OIJFJHOI_01088	I6L8M8	Cationic amino acid transporter%2C APC Superfamily
+PJ7551	OIJFJHOI_01089		SpF36_sRNA
+PJ7551	OIJFJHOI_01089		
+PJ7551	OIJFJHOI_01090	C1CDZ5	Thiol:disulfide oxidoreductase
+PJ7551	OIJFJHOI_01091	Q8DQ11	Cytochrome c-type biogenesis protein CcdA-2
+PJ7551	OIJFJHOI_01092	A0A0B7MGQ5	Hypothetical protein
+PJ7551	OIJFJHOI_01093	C1CDY9	Glycerophosphoryl diester phosphodiesterase
+PJ7551	OIJFJHOI_01094	A0A0B7KU83	DNA polymerase III epsilon subunit
+PJ7551	OIJFJHOI_01095	A0A0H2UPQ5	Transcriptional regulator OrfX
+PJ7551	OIJFJHOI_01096	B2IPE3	Bifunctional 5'-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+PJ7551	OIJFJHOI_01097	Q8CYV2	Hypothetical protein
+PJ7551	OIJFJHOI_01098	B2IPE1	ADP-ribose pyrophosphatase
+PJ7551	OIJFJHOI_01099	B1IBE8	Bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate N-acetyltransferase
+PJ7551	OIJFJHOI_01100	C1CDY2	1%2C4-beta-N-acetylmuramidase%2C lyzozyme M1
+PJ7551	OIJFJHOI_01101	Q8DQ19	Membrane protein
+PJ7551	OIJFJHOI_01102	C1CDY0	Transcriptional regulator
+PJ7551	OIJFJHOI_01103	A0A0E9GXV5	Phosphoglycerate mutase family 5 protein
+PJ7551	OIJFJHOI_01104	A0A0B7LAN8	hypothetical protein
+PJ7551	OIJFJHOI_01105	A0AA86YAS0	IS3 family transposase ISSpn1
+PJ7551	OIJFJHOI_01106	Q8DQ24	Putative parvulin type peptidyl-prolyl isomerase PrsA
+PJ7551	OIJFJHOI_01107	Q8DQ25	O-methyltransferase family protein
+PJ7551	OIJFJHOI_01108	A0A4J2G4S0	Oligoendopeptidase F
+PJ7551	OIJFJHOI_01109	A0A916P8C4	Competence protein CoiA
+PJ7551	OIJFJHOI_01110	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_01111	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01112	A0A6I3TFJ8	Competence protein CoiA
+PJ7551	OIJFJHOI_01113	Q8DQ28	Tellurite methyltransferase TehB
+PJ7551	OIJFJHOI_01114	Q8DQ29	tmRNA-binding protein SmpB
+PJ7551	OIJFJHOI_01115	A0A6G2DBL6	3'-to-5' exoribonuclease RNase R
+PJ7551	OIJFJHOI_01116	Q8DQ31	Protein-export membrane protein SecG
+PJ7551	OIJFJHOI_01117	C1C6U9	Multidrug resistance efflux pump PmrA
+PJ7551	OIJFJHOI_01118	B2IPC5	Dephospho-CoA kinase
+PJ7551	OIJFJHOI_01119	A0A0T8DL73	Formamidopyrimidine-DNA glycosylase MutM
+PJ7551	OIJFJHOI_01120	A0A0B7LRL2	GTP-binding protein Era
+PJ7551	OIJFJHOI_01121	Q8DQ34	Diacylglycerol kinase
+PJ7551	OIJFJHOI_01122	Q8DQ35	Metal-dependent hydrolase YbeY
+PJ7551	OIJFJHOI_01123	B2IPC0	Fibronectin/fibrinogen-binding protein
+PJ7551	OIJFJHOI_01124	A0A6I3U6R6	Endo-beta-N-acetylglucosaminidase LytB
+PJ7551	OIJFJHOI_01125	C1C6U1	Dihydroorotate dehydrogenase (NAD(+))%2C catalytic subunit
+PJ7551	OIJFJHOI_01126	A0A4J1SAH0	Dihydroorotate dehydrogenase (NAD(+))%2C electron transfer subunit
+PJ7551	OIJFJHOI_01127	C1CDV7	Lactoylglutathione lyase
+PJ7551	OIJFJHOI_01128	Q04KW7	LSU ribosomal protein L20p
+PJ7551	OIJFJHOI_01129	Q04KW8	LSU ribosomal protein L35p
+PJ7551	OIJFJHOI_01130	Q04KW9	Translation initiation factor 3
+PJ7551	OIJFJHOI_01131		L20_leader
+PJ7551	OIJFJHOI_01131		
+PJ7551	OIJFJHOI_01132	A0A4J1MZV5	Hypothetical protein
+PJ7551	OIJFJHOI_01133	B1IBB6	ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_01134	A0A4J2CFG9	Late competence DNA transporter ComEC
+PJ7551	OIJFJHOI_01135	A0A4J1SCX2	Late competence DNA receptor ComEA
+PJ7551	OIJFJHOI_01136	A0A0D6J8W6	Acetyltransferase%2C GNAT family
+PJ7551	OIJFJHOI_01137	A0A4J1T226	Alanine dehydrogenase
+PJ7551	OIJFJHOI_01138	Q8DQ45	Alanine dehydrogenase
+PJ7551	OIJFJHOI_01139	Q8CYV8	hypothetical protein
+PJ7551	OIJFJHOI_01140	Q8CYV9	Acetyltransferase
+PJ7551	OIJFJHOI_01141	A0A0B7LAX4	Phosphate starvation-inducible protein PhoH
+PJ7551	OIJFJHOI_01142	C1CK31	Hypothetical protein
+PJ7551	OIJFJHOI_01143	Q8DQ48	S1 RNA-binding domain protein
+PJ7551	OIJFJHOI_01144	C1C6S4	Ribosome-recycling factor
+PJ7551	OIJFJHOI_01145	Q8DQ50	Uridine monophosphate kinase
+PJ7551	OIJFJHOI_01146	Q8DQ51	Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO
+PJ7551	OIJFJHOI_01147	A0A4J1MZA2	hypothetical protein
+PJ7551	OIJFJHOI_01148	A0AA86XIG2	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01149	C1C6S1	Replication protein
+PJ7551	OIJFJHOI_01150	C1CDT5	hypothetical protein
+PJ7551	OIJFJHOI_01151	A0A4J1V8A1	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+PJ7551	OIJFJHOI_01152	Q97R89	DNA replication initiation control protein YabA
+PJ7551	OIJFJHOI_01153	B2IP91	DNA polymerase III delta prime subunit
+PJ7551	OIJFJHOI_01154	A0A0B7LAC5	Thymidylate kinase
+PJ7551	OIJFJHOI_01155	A0A4F7ABA0	Pyrroline-5-carboxylate reductase
+PJ7551	OIJFJHOI_01156	A0A0B7M9Y4	Gamma-glutamyl phosphate reductase
+PJ7551	OIJFJHOI_01157	A0A0T7YQ24	Glutamate 5-kinase
+PJ7551	OIJFJHOI_01158	A0A4F0R3T6	Teichoic acid phosphorylcholine esterase%2C choline-binding protein CbpE
+PJ7551	OIJFJHOI_01159	Q8DQ63	Ribosomal large subunit pseudouridine synthase D
+PJ7551	OIJFJHOI_01160	Q8DQ64	Lipoprotein signal peptidase
+PJ7551	OIJFJHOI_01161	Q8DQ65	Cysteine and methionine metabolism regulator CmbR%2C LysR family
+PJ7551	OIJFJHOI_01162	C1C6Q7	CAAX amino terminal protease family protein
+PJ7551	OIJFJHOI_01163	Q8CYW4	Hypothetical protein
+PJ7551	OIJFJHOI_01164	Q8DQ66	Hydrolase%2C HAD superfamily
+PJ7551	OIJFJHOI_01165	Q8DQ67	N-carbamoylputrescine amidase
+PJ7551	OIJFJHOI_01166	B8ZP26	Agmatine deiminase
+PJ7551	OIJFJHOI_01167	Q8DQ69	Carboxynorspermidine decarboxylase
+PJ7551	OIJFJHOI_01168	A0A0B7KU13	Carboxynorspermidine synthase
+PJ7551	OIJFJHOI_01169	P66836	Spermidine synthase
+PJ7551	OIJFJHOI_01170	C1CDR5	hypothetical protein
+PJ7551	OIJFJHOI_01171	A0A9P1LJ02	Arginine decarboxylase
+PJ7551	OIJFJHOI_01172	A0A0E8Z0P2	ISSpn8 transposase
+PJ7551	OIJFJHOI_01173	A0A4J1ZFS2	ISSpn8 transposase
+PJ7551	OIJFJHOI_01174	A0A0U0QAD7	Hypothetical protein
+PJ7551	OIJFJHOI_01175	A0A4J1YXH0	ABC transporter permease protein
+PJ7551	OIJFJHOI_01176	C1CDQ8	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01177	A0A0B7KXN1	Hypothetical protein
+PJ7551	OIJFJHOI_01178	Q8CYW5	Hypothetical protein
+PJ7551	OIJFJHOI_01179		Spd-sr07
+PJ7551	OIJFJHOI_01179		
+PJ7551	OIJFJHOI_01180	A0A5C8QW28	Putative phage shock protein C
+PJ7551	OIJFJHOI_01181	A0AA86YAT6	Putative SprT family zinc-dependent metallopeptidase
+PJ7551	OIJFJHOI_01182	A0A4L6S9F0	Transcription accessory protein
+PJ7551	OIJFJHOI_01183	A0A098ZMD2	Hypothetical protein
+PJ7551	OIJFJHOI_01184	A0A0T8ZLR4	Putative permease
+PJ7551	OIJFJHOI_01185	Q8DQ82	ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_01186	A0A0D6J9F7	Hypothetical protein
+PJ7551	OIJFJHOI_01187	A0A916PFF5	Hypothetical protein
+PJ7551	OIJFJHOI_01188	A0A4M3JN46	IS5 family transposase ISSpn7
+PJ7551	OIJFJHOI_01189	Q8CYX1	Membrane-associated protein
+PJ7551	OIJFJHOI_01190	C1CDP5	Pyruvate kinase
+PJ7551	OIJFJHOI_01191	Q97RC6	6-phosphofructokinase
+PJ7551	OIJFJHOI_01192	A0AA86JAY8	DNA polymerase III alpha subunit
+PJ7551	OIJFJHOI_01193	B2IP51	Xaa-Pro dipeptidyl-peptidase
+PJ7551	OIJFJHOI_01194	A0A4J1ZQW0	Arginine pathway regulatory protein ArgR2
+PJ7551	OIJFJHOI_01195		Srn266
+PJ7551	OIJFJHOI_01195		
+PJ7551	OIJFJHOI_01196	B2IP47	IS1167 transposase Orf1
+PJ7551	OIJFJHOI_01197	B1IA01	IS1167 transposase Orf2
+PJ7551	OIJFJHOI_01198	B2IP45	V-type sodium ATPase subunit D
+PJ7551	OIJFJHOI_01199	B2IP44	V-type sodium ATPase subunit B
+PJ7551	OIJFJHOI_01200	A0A4J1RIK6	V-type sodium ATPase catalytic subunit A
+PJ7551	OIJFJHOI_01201	B2IP42	V-type sodium ATPase subunit G
+PJ7551	OIJFJHOI_01202	B2IP41	V-type sodium ATPase subunit C
+PJ7551	OIJFJHOI_01203	B2IP40	V-type proton ATPase subunit E
+PJ7551	OIJFJHOI_01204	C1CES6	V-type sodium ATPase subunit K
+PJ7551	OIJFJHOI_01205	B2IP38	hypothetical protein
+PJ7551	OIJFJHOI_01206	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01207	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_01208	B2IP38	hypothetical protein
+PJ7551	OIJFJHOI_01209	B2IP37	hypothetical protein
+PJ7551	OIJFJHOI_01210	B2IP36	N-acetylmannosamine kinase
+PJ7551	OIJFJHOI_01211	B2IP35	Oxidoreductase
+PJ7551	OIJFJHOI_01212	A0A4J2AGJ3	Sialidase
+PJ7551	OIJFJHOI_01213	B2IP33	Putative beta-D-galactosidase
+PJ7551	OIJFJHOI_01214	B2IP32	Sodium/glucose cotransporter
+PJ7551	OIJFJHOI_01215	B2IP31	N-acetylneuraminate lyase
+PJ7551	OIJFJHOI_01216	B2IP30	N-acetylmannosamine-6-phosphate 2-epimerase
+PJ7551	OIJFJHOI_01217	B2IP29	Sialic acid utilization regulator%2C RpiR family
+PJ7551	OIJFJHOI_01218	B2IP28	Tn5253 putative CAAX amino terminal protease
+PJ7551	OIJFJHOI_01219	B2IP27	hypothetical protein
+PJ7551	OIJFJHOI_01220	B2IP26	hypothetical protein
+PJ7551	OIJFJHOI_01221	B2IP25	Hypothetical protein
+PJ7551	OIJFJHOI_01222	A0A4J1RIF4	hypothetical protein
+PJ7551	OIJFJHOI_01223	A0AAD2Q8N3	IS1380 family transposase ISSpn5
+PJ7551	OIJFJHOI_01224	A0A6G2D2E2	IS1380 family transposase ISSpn5
+PJ7551	OIJFJHOI_01225	A0A6G2DB63	Type I restriction-modification system restriction subunit R
+PJ7551	OIJFJHOI_01226		Srn266
+PJ7551	OIJFJHOI_01226		
+PJ7551	OIJFJHOI_01227	A0A4J1RSG6	IS1167 transposase
+PJ7551	OIJFJHOI_01228	A0A6G2D9S1	Type I restriction-modification system restriction subunit R
+PJ7551	OIJFJHOI_01229	A0AA86JS58	hypothetical protein
+PJ7551	OIJFJHOI_01230	Q8DQ91	Type I restriction-modification system DNA-methyltransferase subunit M
+PJ7551	OIJFJHOI_01231	B2IP15	ATP-grasp-domain-containing protein
+PJ7551	OIJFJHOI_01232	Q8CYX4	hypothetical protein
+PJ7551	OIJFJHOI_01233	Q8CYX6	hypothetical protein
+PJ7551	OIJFJHOI_01234	B2IP12	Putative alpha-dextrin endo-1%2C6-alpha-glucosidase
+PJ7551	OIJFJHOI_01235	Q97RE1	tRNA 4-thiouridine synthase ThiI
+PJ7551	OIJFJHOI_01236	B2IP10	Putative cysteine desulfurase
+PJ7551	OIJFJHOI_01237	A0A0B7M7A1	Acetyltransferase
+PJ7551	OIJFJHOI_01238	A0A0H2ZQ12	DNA translocase FtsK
+PJ7551	OIJFJHOI_01239	B2IP07	Fructose-specific PTS IIABC components
+PJ7551	OIJFJHOI_01240	C1C6K9	1-phosphofructokinase
+PJ7551	OIJFJHOI_01241	A0A0I8Z7R7	Transcriptional repressor of the fructose operon%2C DeoR family
+PJ7551	OIJFJHOI_01242		tRNA-Ser(gga)
+PJ7551	OIJFJHOI_01242		
+PJ7551	OIJFJHOI_01243		transfer-messenger RNA%2C SsrA
+PJ7551	OIJFJHOI_01243		
+PJ7551	OIJFJHOI_01244	Q8DQ98	Coordinator of zonal cell elongation
+PJ7551	OIJFJHOI_01245	Q75Y43	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
+PJ7551	OIJFJHOI_01246	Q8DQA0	Iron-sulfur cluster assembly protein SufB
+PJ7551	OIJFJHOI_01247	C1CDL9	Putative iron-sulfur cluster assembly scaffold protein for SUF system SufE2
+PJ7551	OIJFJHOI_01248	B2INY9	Cysteine desulfurase SufS
+PJ7551	OIJFJHOI_01249	A0A0B7LI62	Iron-sulfur cluster assembly protein SufD
+PJ7551	OIJFJHOI_01250	Q8DQA4	Iron-sulfur cluster assembly ATPase protein SufC
+PJ7551	OIJFJHOI_01251	Q8CYX9	Hypothetical protein
+PJ7551	OIJFJHOI_01252	C1CDL4	DNA polymerase III subunits gamma and tau
+PJ7551	OIJFJHOI_01253	Q8DQA6	GAF domain-containing protein
+PJ7551	OIJFJHOI_01254	C1CDK9	SSU ribosomal protein S1p
+PJ7551	OIJFJHOI_01255		tRNA-Gln(ttg)
+PJ7551	OIJFJHOI_01255		
+PJ7551	OIJFJHOI_01256		tRNA-Tyr(gta)
+PJ7551	OIJFJHOI_01256		
+PJ7551	OIJFJHOI_01257	Q8CYY0	Hypothetical protein
+PJ7551	OIJFJHOI_01258	Q04L55	Pyrrolidone-carboxylate peptidase
+PJ7551	OIJFJHOI_01259	Q8DQB0	Putative membrane protein
+PJ7551	OIJFJHOI_01260	C1CDK5	Hypothetical protein
+PJ7551	OIJFJHOI_01261	A0A0B7M9A8	Oligopeptide ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_01262	C1CDK3	Branched-chain amino acid aminotransferase
+PJ7551	OIJFJHOI_01263	Q3HYG4	Topoisomerase IV subunit A
+PJ7551	OIJFJHOI_01264	B2INX2	Restriction enzyme BcgI alpha chain-like protein
+PJ7551	OIJFJHOI_01265	Q3HZ71	Topoisomerase IV subunit B
+PJ7551	OIJFJHOI_01266	Q04L63	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+PJ7551	OIJFJHOI_01267	A0A4J1ZWV5	IS3 family transposase ISSpn4
+PJ7551	OIJFJHOI_01268	A0A4J1VX80	IS3 family transposase ISSpn11
+PJ7551	OIJFJHOI_01269	A0A0B7M413	hypothetical protein
+PJ7551	OIJFJHOI_01270	B2INW6	IS3 family transposase ISSpn11
+PJ7551	OIJFJHOI_01271	C1C6I2	Putative deoxyribose-specific ABC transporter permease protein
+PJ7551	OIJFJHOI_01272	B2INW4	Putative deoxyribose-specific ABC transporter permease protein
+PJ7551	OIJFJHOI_01273	A0A0H2UPF8	Putative deoxyribose-specific ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01274	A0A0C4FRC1	Nucleoside-binding protein
+PJ7551	OIJFJHOI_01275	Q8DQC3	Cytidine deaminase
+PJ7551	OIJFJHOI_01276	A0A0D6J9K8	Deoxyribose-phosphate aldolase
+PJ7551	OIJFJHOI_01277	A0A0B7M3D2	Pyrimidine-nucleoside phosphorylase
+PJ7551	OIJFJHOI_01278	A0A822QFV7	16S rRNA (guanine(1207)-N(2))-methyltransferase
+PJ7551	OIJFJHOI_01279	B2INV7	Hypothetical protein
+PJ7551	OIJFJHOI_01280	C1CS52	Pantothenate kinase
+PJ7551	OIJFJHOI_01281	Q8CWS0	SSU ribosomal protein S20p
+PJ7551	OIJFJHOI_01282	B2INV4	FlaR-related DNA topology modulation protein
+PJ7551	OIJFJHOI_01283	C1CS55	Purine nucleoside phosphorylase
+PJ7551	OIJFJHOI_01284	C1C6G9	Thiol-activated cytolysin
+PJ7551	OIJFJHOI_01285	A0A4J2BI95	hypothetical protein
+PJ7551	OIJFJHOI_01286	Q8CWS2	Bifunctional purine nucleoside phosphorylase/N-ribosylnicotinamide phosphorylase
+PJ7551	OIJFJHOI_01287	A0A0H2UPL4	hypothetical protein
+PJ7551	OIJFJHOI_01288	C1CS61	Phosphopentomutase
+PJ7551	OIJFJHOI_01289	Q04L82	Ribose 5-phosphate isomerase A
+PJ7551	OIJFJHOI_01290	A0A4J1TQQ3	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+PJ7551	OIJFJHOI_01291	Q8DQD3	Bifunctional methylenetetrahydrofolate dehydrogenase (NADP+)/methenyltetrahydrofolate cyclohydrolase
+PJ7551	OIJFJHOI_01292	A0A0E8ZV25	Glutamine ABC transporter ATP-binding protein GlnQ4
+PJ7551	OIJFJHOI_01293	Q8DQD5	Glutamine ABC transporter permease GlnP4
+PJ7551	OIJFJHOI_01294	Q8DQD6	Hypothetical protein
+PJ7551	OIJFJHOI_01295	C1CDG9	ATP-dependent Clp protease ATP-binding subunit ClpE
+PJ7551	OIJFJHOI_01296	C1CEB6	IS630 family transposase IS630-Spn1
+PJ7551	OIJFJHOI_01297	A0A0E7SCN1	MutT/Nudix family protein
+PJ7551	OIJFJHOI_01298	A0A4J1SFG3	Hypothetical protein
+PJ7551	OIJFJHOI_01299	A0A4J1SF00	IS66 family transposase Orf2
+PJ7551	OIJFJHOI_01300	Q8DQE5	Septation ring formation regulator EzrA
+PJ7551	OIJFJHOI_01301	Q3HZC3	DNA gyrase subunit B
+PJ7551	OIJFJHOI_01302	Q8DQE6	Hydrolase%2C haloacid dehalogenase-like family
+PJ7551	OIJFJHOI_01303	Q8DQE7	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+PJ7551	OIJFJHOI_01304	C1C6E7	Cell shape-determining protein RodA
+PJ7551	OIJFJHOI_01305	A0A6G2DA59	Bifunctional DinG family ATP-dependent helicase YoaA/DnaQ family exonuclease
+PJ7551	OIJFJHOI_01306	A0A0E9GUZ2	Protease
+PJ7551	OIJFJHOI_01307	Q8CYY6	Hypothetical protein
+PJ7551	OIJFJHOI_01308	Q7B3G0	Two-component system sensor histidine kinase CiaH
+PJ7551	OIJFJHOI_01309	C1CDF5	Two-component system response regulator CiaR
+PJ7551	OIJFJHOI_01310	C1C6E1	Lysyl aminopeptidase PepN
+PJ7551	OIJFJHOI_01311	A0A0B7M8B0	Hypothetical protein
+PJ7551	OIJFJHOI_01312	A0AAD2KF13	PEP-utilizing enzyme family protein
+PJ7551	OIJFJHOI_01313	Q8CYY8	Acetyltransferase%2C GNAT family
+PJ7551	OIJFJHOI_01314	A0A9P1Q1P6	MutT/Nudix family protein
+PJ7551	OIJFJHOI_01315	B1IAX1	3-Ketoacyl-ACP reductase
+PJ7551	OIJFJHOI_01316	B2INR6	Hypothetical protein
+PJ7551	OIJFJHOI_01317	C1C6D4	Putative oxidoreductase
+PJ7551	OIJFJHOI_01318	B2INR4	Hypothetical protein
+PJ7551	OIJFJHOI_01319	A0AA44MT63	Transcriptional regulator%2C PadR family
+PJ7551	OIJFJHOI_01320	C1C6D1	Hypothetical protein
+PJ7551	OIJFJHOI_01321	A0A6G2DB60	Methionyl-tRNA synthetase
+PJ7551	OIJFJHOI_01322	C1C6C9	ABC transporter permease protein
+PJ7551	OIJFJHOI_01323	Q8DQF8	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01324	A0A0B7MDJ4	Periplasmic component of efflux system
+PJ7551	OIJFJHOI_01325	C1CDD7	Glutathione reductase
+PJ7551	OIJFJHOI_01326	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01327	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_01328	A0A0H2UPB6	Substrate-specific component BioY of biotin ECF transporter
+PJ7551	OIJFJHOI_01329	Q8DQG2	Hypothetical protein
+PJ7551	OIJFJHOI_01330	A0A0D6J8L2	Hypothetical protein
+PJ7551	OIJFJHOI_01331	Q8CYZ1	Anaerobic ribonucleoside-triphosphate reductase
+PJ7551	OIJFJHOI_01332	Q97RM4	tRNA (guanine(37)-N(1))-methyltransferase
+PJ7551	OIJFJHOI_01333	Q8DQG3	16S rRNA processing protein RimM
+PJ7551	OIJFJHOI_01334	A0A098ZCD3	hypothetical protein
+PJ7551	OIJFJHOI_01335	C1CDC4	KH domain RNA-binding protein
+PJ7551	OIJFJHOI_01336	Q04LD0	SSU ribosomal protein S16p
+PJ7551	OIJFJHOI_01337	Q8CYZ5	Hypothetical protein
+PJ7551	OIJFJHOI_01338	A0A0B7L1V4	Peptidyl-prolyl cis-trans isomerase
+PJ7551	OIJFJHOI_01339	A0A4J1NKV0	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01340	A0A4J2B7Z5	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01341	A0A0U0IGU3	VanZF-related protein
+PJ7551	OIJFJHOI_01342	C1CJL5	Bifunctional 23S rRNA (adenine(2503)-C(2))-methyltransferase/tRNA (adenine(37)-C(2))-methyltransferase
+PJ7551	OIJFJHOI_01343	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_01344	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01345	C1CJL5	Bifunctional 23S rRNA (adenine(2503)-C(2))-methyltransferase/tRNA (adenine(37)-C(2))-methyltransferase
+PJ7551	OIJFJHOI_01346	Q8CYZ7	hypothetical protein
+PJ7551	OIJFJHOI_01347	C1C6A8	Manganese superoxide dismutase
+PJ7551	OIJFJHOI_01348	Q8DQG8	DNA polymerase III delta subunit
+PJ7551	OIJFJHOI_01349	Q9X9S0	Dihydroorotate dehydrogenase (fumarate)
+PJ7551	OIJFJHOI_01350	Q8DQH0	S-adenosylmethionine synthetase
+PJ7551	OIJFJHOI_01351	C1C6A4	ATP-dependent RNA helicase YqfR
+PJ7551	OIJFJHOI_01352	A0A0B7LDJ8	Exodeoxyribonuclease III
+PJ7551	OIJFJHOI_01353	A0A0B7LD25	Maltose- and glucose-specific PTS IICBA components
+PJ7551	OIJFJHOI_01354	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_01355	B2INE0	Cell division protein FtsX
+PJ7551	OIJFJHOI_01356	C1C6A0	Cell division transporter%2C ATP-binding protein FtsE
+PJ7551	OIJFJHOI_01357	Q2MGI2	Peptide chain release factor 2
+PJ7551	OIJFJHOI_01358	A0A0T9GIW2	CBS domain protein
+PJ7551	OIJFJHOI_01359	C1C697	Branched-chain amino acid transport ATP-binding protein LivF
+PJ7551	OIJFJHOI_01360	Q8DQH8	Branched-chain amino acid transport ATP-binding protein LivG
+PJ7551	OIJFJHOI_01361	C1CDA0	Branched-chain amino acid transport system permease protein LivM
+PJ7551	OIJFJHOI_01362	C1CD99	High-affinity branched-chain amino acid transport system permease protein LivH
+PJ7551	OIJFJHOI_01363	J9PBT7	High-affinity leucine-specific transport system%2C periplasmic binding protein LivJ
+PJ7551	OIJFJHOI_01364	A0A0T9AB05	Hypothetical protein
+PJ7551	OIJFJHOI_01365	Q04LF4	ATP-dependent Clp protease proteolytic subunit ClpP
+PJ7551	OIJFJHOI_01366	A0AA87CGJ6	Uracil phosphoribosyltransferase
+PJ7551	OIJFJHOI_01367	C1CD94	dCMP deaminase
+PJ7551	OIJFJHOI_01368	Q8DQI5	Transcriptional regulator%2C AcrR family
+PJ7551	OIJFJHOI_01369	B2INC5	DegV family protein
+PJ7551	OIJFJHOI_01370	A0AA95D6B2	NAD(FAD)-utilizing dehydrogenase
+PJ7551	OIJFJHOI_01371	A0A0B7LMG0	hypothetical protein
+PJ7551	OIJFJHOI_01372	A0A0H2UQ41	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01373	A0A4G1A1J0	IS5 family transposase ISSpn7
+PJ7551	OIJFJHOI_01374	B1IAR7	Sodium-dependent transporter
+PJ7551	OIJFJHOI_01375	Q8DQJ1	Mannose-6-phosphate isomerase
+PJ7551	OIJFJHOI_01376	A0A0B7KTL2	6-phospho-beta-glucosidase
+PJ7551	OIJFJHOI_01377	Q8CZ01	Hypothetical protein
+PJ7551	OIJFJHOI_01378	B2INB2	Pyruvate oxidase
+PJ7551	OIJFJHOI_01379	A0A6G2DB27	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
+PJ7551	OIJFJHOI_01380	A0A0D6J8R8	Copper-exporting ATPase
+PJ7551	OIJFJHOI_01381	A0A0D6J8P4	Negative transcriptional regulator of copper transport operon
+PJ7551	OIJFJHOI_01382		TPP
+PJ7551	OIJFJHOI_01382		
+PJ7551	OIJFJHOI_01383	C1C675	Hydroxymethylpyrimidine phosphate kinase ThiD
+PJ7551	OIJFJHOI_01384	A0A0B7M6G1	Thiamin-phosphate pyrophosphorylase
+PJ7551	OIJFJHOI_01385	C1CJH5	Hydroxyethylthiazole kinase
+PJ7551	OIJFJHOI_01386	A0AA44MYZ9	Substrate-specific component ThiW of putative thiazole ECF transporter
+PJ7551	OIJFJHOI_01387	B1IAP4	Thiaminase II TenA
+PJ7551	OIJFJHOI_01388	A0A0D6JA00	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+PJ7551	OIJFJHOI_01389	A0A0H2UPB5	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+PJ7551	OIJFJHOI_01390	A0A0H2UP70	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
+PJ7551	OIJFJHOI_01391		TPP
+PJ7551	OIJFJHOI_01391		
+PJ7551	OIJFJHOI_01392	Q97RS5	Thiamin-phosphate pyrophosphorylase
+PJ7551	OIJFJHOI_01393	Q8DQK5	Hydroxyethylthiazole kinase
+PJ7551	OIJFJHOI_01394	A0A4J1VHG8	Thiaminase II
+PJ7551	OIJFJHOI_01395		TPP
+PJ7551	OIJFJHOI_01395		
+PJ7551	OIJFJHOI_01396	Q8DQK7	L-Lactate 2-monooxygenase
+PJ7551	OIJFJHOI_01397	A0A0B7M5U1	Class II lysyl-tRNA synthetase
+PJ7551	OIJFJHOI_01398	C1CD65	L-Lactate 2-monooxygenase
+PJ7551	OIJFJHOI_01399	A0A0H2UPB0	Glutamine ABC transporter permease GlnP3a
+PJ7551	OIJFJHOI_01400	A0A655HHC5	Glutamine ABC transporter permease GlnP3b
+PJ7551	OIJFJHOI_01401	A0A0I9CA19	Glutamine ABC transporter ATP-binding protein GlnQ3
+PJ7551	OIJFJHOI_01402	A0A4P0A7D7	Glutamine ABC transporter ATP-binding protein GlnQ3
+PJ7551	OIJFJHOI_01403	A0A4J1T590	Amino acid ABC transporter amino acid-binding/permease protein
+PJ7551	OIJFJHOI_01404	A0A4J1UN03	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01405	C1C656	Hypothetical protein
+PJ7551	OIJFJHOI_01406	A0A0B7M6H9	Hypothetical protein
+PJ7551	OIJFJHOI_01407	B1IAM9	Hypothetical protein
+PJ7551	OIJFJHOI_01408	A0A0B7LBR9	Hypothetical protein
+PJ7551	OIJFJHOI_01409	P0CB78	Orotate phosphoribosyltransferase
+PJ7551	OIJFJHOI_01410	C1CQG7	Orotidine 5'-phosphate decarboxylase
+PJ7551	OIJFJHOI_01411		PyrR
+PJ7551	OIJFJHOI_01411		
+PJ7551	OIJFJHOI_01412	A0A0I9BDK0	Putative membrane spanning protein
+PJ7551	OIJFJHOI_01413	Q8DQL8	Fluoroquinolones export ATP-binding protein
+PJ7551	OIJFJHOI_01414	Q8DQL9	hypothetical protein
+PJ7551	OIJFJHOI_01415	A0A0T8ZN24	Hypothetical protein
+PJ7551	OIJFJHOI_01416	A0AAD2KEC6	hypothetical protein
+PJ7551	OIJFJHOI_01417	A0A0U0EC10	hypothetical protein
+PJ7551	OIJFJHOI_01418	A0A4N9B885	hypothetical protein
+PJ7551	OIJFJHOI_01419	A0A4J1YWC2	hypothetical protein
+PJ7551	OIJFJHOI_01420	B2IN80	Hypothetical protein
+PJ7551	OIJFJHOI_01421	A0A4M3JXD1	Hypothetical protein
+PJ7551	OIJFJHOI_01422	A0AAD2KED5	Cell division protein DivIB
+PJ7551	OIJFJHOI_01423	C1CJF3	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PJ7551	OIJFJHOI_01424	A0AAD2IGV2	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PJ7551	OIJFJHOI_01425	A0A6G2D8X7	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01426	A0A0D6J8S4	Putative immunity protein
+PJ7551	OIJFJHOI_01427	A0AA86MCE8	Hypothetical protein
+PJ7551	OIJFJHOI_01428	Q8CZ11	Putative membrane protein
+PJ7551	OIJFJHOI_01429	A0AA86Y837	GTP-binding protein TypA
+PJ7551	OIJFJHOI_01430	B2IN70	Ribosomal small subunit pseudouridine synthase A
+PJ7551	OIJFJHOI_01431	C1C641	Hypothetical protein
+PJ7551	OIJFJHOI_01432	Q8DQM7	Rhodanese-like domain protein
+PJ7551	OIJFJHOI_01433	Q8DQM8	Hypothetical protein
+PJ7551	OIJFJHOI_01434	Q8DQM9	Methionine biosynthesis and transport regulator MtaR%2C LysR family
+PJ7551	OIJFJHOI_01435	C1C637	Short-chain dehydrogenase
+PJ7551	OIJFJHOI_01436	C1CQF2	Ribonuclease Z
+PJ7551	OIJFJHOI_01437	B2IMY7	Cystathionine beta-lyase
+PJ7551	OIJFJHOI_01438	Q8DQN2	GTP-binding protein HflX
+PJ7551	OIJFJHOI_01439	C1CJD7	tRNA dimethylallyltransferase MiaA
+PJ7551	OIJFJHOI_01440	Q8CZ15	Hypothetical protein
+PJ7551	OIJFJHOI_01441	Q04LL8	Thymidylate synthase
+PJ7551	OIJFJHOI_01442	A0A822S328	Glucokinase
+PJ7551	OIJFJHOI_01443	A0A4U8XBF5	Endo-beta-N-acetylglucosaminidase%2C choline-binding protein CbpL
+PJ7551	OIJFJHOI_01444	B1IAK4	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+PJ7551	OIJFJHOI_01445	C1C627	Bifunctional para-aminobenzoate synthase%2C aminase component/aminodeoxychorismate lyase
+PJ7551	OIJFJHOI_01446	A0A4J2FM84	Zinc metalloprotease ZmpB precursor
+PJ7551	OIJFJHOI_01447	B2IMX5	YwlG
+PJ7551	OIJFJHOI_01448	Q8DQN7	Two-component sensor kinase YesM
+PJ7551	OIJFJHOI_01449	Q8DQN8	Two-component response regulator YesN
+PJ7551	OIJFJHOI_01450	C1C622	Peptide methionine sulfoxide reductase MsrAB2
+PJ7551	OIJFJHOI_01451	A0AA87CBX6	Thiol:disulfide oxidoreductase
+PJ7551	OIJFJHOI_01452	C1CD25	Cytochrome c-type biogenesis protein CcdA-1
+PJ7551	OIJFJHOI_01453	A0A4G7I3M2	Inner membrane protein YihY
+PJ7551	OIJFJHOI_01454	A0A0B7M720	Na+/H+ antiporter
+PJ7551	OIJFJHOI_01455	Q8CZ17	Hypothetical protein
+PJ7551	OIJFJHOI_01456	B1IAJ3	Putative rRNA methylase YtqB
+PJ7551	OIJFJHOI_01457	A0A0B7LD37	hypothetical protein
+PJ7551	OIJFJHOI_01458	A0A0T8TMS9	hypothetical protein
+PJ7551	OIJFJHOI_01459	Q8CZ20	Hypothetical protein
+PJ7551	OIJFJHOI_01460		SpF25_sRNA
+PJ7551	OIJFJHOI_01460		
+PJ7551	OIJFJHOI_01461	A0A0T9H7Q0	hypothetical protein
+PJ7551	OIJFJHOI_01462	A0A0T9ZRE9	hypothetical protein
+PJ7551	OIJFJHOI_01463	A0A4J2BRD7	Beta-galactosidase BgaA
+PJ7551	OIJFJHOI_01464	A0A654U8L3	Hypothetical protein
+PJ7551	OIJFJHOI_01465	A0A654U8U9	Galactose-specific PTS IIC component
+PJ7551	OIJFJHOI_01466	Q8CZ23	Galactose-specific PTS IIB component
+PJ7551	OIJFJHOI_01467	A0A6G2DW14	Galactose-specific PTS IIA component
+PJ7551	OIJFJHOI_01468	A0A4J1PU72	hypothetical protein
+PJ7551	OIJFJHOI_01469	A0A6G2D8S5	Serine protease PrtA precursor
+PJ7551	OIJFJHOI_01470	A0A0H2UP15	hypothetical protein
+PJ7551	OIJFJHOI_01471	Q8DQP8	Multidrug ABC transporter permease protein
+PJ7551	OIJFJHOI_01472	C1CD09	Antibiotic ABC transporter permease protein
+PJ7551	OIJFJHOI_01473	C1C603	ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01474	A0A0U0GZ72	Hypothetical protein
+PJ7551	OIJFJHOI_01475		Intron_gpII
+PJ7551	OIJFJHOI_01475		
+PJ7551	OIJFJHOI_01476	Q04LP6	LSU ribosomal protein L1p (L10Ae)
+PJ7551	OIJFJHOI_01477	Q97RZ6	LSU ribosomal protein L11p (L12e)
+PJ7551	OIJFJHOI_01478	A0A4J1SXE5	L%2CD-carboxypeptidase
+PJ7551	OIJFJHOI_01479	A0A4J1SZ69	Histidine triad family protein
+PJ7551	OIJFJHOI_01480	A0A4J1SVL2	Deblocking aminopeptidase
+PJ7551	OIJFJHOI_01481	C1C5Z4	Branched-chain amino acid transport system carrier protein
+PJ7551	OIJFJHOI_01482		SpF22_sRNA
+PJ7551	OIJFJHOI_01482		
+PJ7551	OIJFJHOI_01483	Q8CZ26	hypothetical protein
+PJ7551	OIJFJHOI_01484	C1CCZ5	Uracil-DNA glycosylase
+PJ7551	OIJFJHOI_01485	C1C5Z0	Dipeptidase PepV
+PJ7551	OIJFJHOI_01486	A0A4J1RD89	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dihydropteridine reductase
+PJ7551	OIJFJHOI_01487	Q8CWT0	Cysteine ABC transporter substrate-binding protein
+PJ7551	OIJFJHOI_01488	A0A1C0URA0	Serine/threonine protein phosphatase
+PJ7551	OIJFJHOI_01489	A0AA86XWC2	Excinuclease ABC subunit C
+PJ7551	OIJFJHOI_01490	C1C5Y5	Putative Zn-dependent protease
+PJ7551	OIJFJHOI_01491	A0A0B7LK97	tRNA-dependent lipid II-Ala--L-alanine ligase MurN
+PJ7551	OIJFJHOI_01492	Q4TUJ7	tRNA-dependent lipid II--L-alanine/serine ligase MurM
+PJ7551	OIJFJHOI_01493	A0AAE9QMS2	Tributyrin esterase
+PJ7551	OIJFJHOI_01494	C1CCY6	Ribonuclease J2
+PJ7551	OIJFJHOI_01495	A0A6G2DB93	Single-stranded-DNA-specific exonuclease RecJ
+PJ7551	OIJFJHOI_01496	Q8DQR5	Glutamine ABC transporter ATP-binding protein GlnQ4
+PJ7551	OIJFJHOI_01497	Q8DQR6	Glutamine transport ATP-binding protein GlnQ
+PJ7551	OIJFJHOI_01498	A0A4J1VL45	Glutamine ABC transporter substrate-binding protein GlnH2
+PJ7551	OIJFJHOI_01499	A0A0E9GZ09	Glutamine ABC transporter permease GlnP2a
+PJ7551	OIJFJHOI_01500	A0A6G2D0L9	Glutamine ABC transporter permease GlnP2b
+PJ7551	OIJFJHOI_01501	A0A6A8VMF0	Oxidoreductase
+PJ7551	OIJFJHOI_01502	C1CCX9	Class II fructose-bisphosphate aldolase
+PJ7551	OIJFJHOI_01503	A0A0U0HBS6	Two-component system sensor histidine kinase VncS
+PJ7551	OIJFJHOI_01504	A0A098Z2Q4	Two-component system response regulator VncR
+PJ7551	OIJFJHOI_01505	Q9S4J0	Peptide ABC transporter membrane-spanning permease Vex3
+PJ7551	OIJFJHOI_01506	B2IMR7	ABC transporter ATP-binding protein Vex2
+PJ7551	OIJFJHOI_01507	C1C5W8	Peptide ABC transporter membrane-spanning permease Vex1
+PJ7551	OIJFJHOI_01508		Intron_gpII
+PJ7551	OIJFJHOI_01508		
+PJ7551	OIJFJHOI_01509	A0A4J1Y0I9	hypothetical protein
+PJ7551	OIJFJHOI_01510	A0A0T7YKG5	hypothetical protein
+PJ7551	OIJFJHOI_01511	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01512	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_01513	A0A4I6NHN5	Leucine rich protein
+PJ7551	OIJFJHOI_01514	A0A0T8BJH7	Mini-ribonuclease III
+PJ7551	OIJFJHOI_01515	A0A0T7KA99	Cysteinyl-tRNA synthetase
+PJ7551	OIJFJHOI_01516	A0A4J1VKU7	Acetyltransferase%2C GNAT family
+PJ7551	OIJFJHOI_01517	A0A064BYN6	Serine acetyltransferase
+PJ7551	OIJFJHOI_01518	A0AAD2KFB6	Polyribonucleotide nucleotidyltransferase
+PJ7551	OIJFJHOI_01519	C1CCW3	5%2C10-methylenetetrahydrofolate reductase
+PJ7551	OIJFJHOI_01520	A0A0E9GXN4	5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase
+PJ7551	OIJFJHOI_01521	A0A654WS02	Antitoxin HigA
+PJ7551	OIJFJHOI_01522	A0A0U0MDF0	ISSpn8 transposase
+PJ7551	OIJFJHOI_01523	Q8CZ31	Putative integral membrane protein
+PJ7551	OIJFJHOI_01524	A0AA86JUU5	Phenylalanyl-tRNA synthetase beta chain
+PJ7551	OIJFJHOI_01525	Q8DQT7	N1-spermidine/spermine acetyltransferase PaiA
+PJ7551	OIJFJHOI_01526	Q97S36	Phenylalanyl-tRNA synthetase alpha chain
+PJ7551	OIJFJHOI_01527	A0A098Z269	6-phospho-beta-glucosidase
+PJ7551	OIJFJHOI_01528	A0A0T9AAT3	Beta-glucoside-specific PTS IIBCA components
+PJ7551	OIJFJHOI_01529	B2IMP8	Beta-glucoside bgl operon antiterminator BglG
+PJ7551	OIJFJHOI_01530		SpF19_sRNA
+PJ7551	OIJFJHOI_01530		
+PJ7551	OIJFJHOI_01531	A0A0T9ASF0	IS3 family transposase ISSpn11
+PJ7551	OIJFJHOI_01532	A0AA95IJ45	IS3 family transposase ISSpn11
+PJ7551	OIJFJHOI_01533	A0A380LW28	Putative transposase InsK for insertion sequence element IS150
+PJ7551	OIJFJHOI_01534	A0A4J1XSU8	IS3 family transposase ISSpn4
+PJ7551	OIJFJHOI_01535	C1C5U5	Fic domain protein
+PJ7551	OIJFJHOI_01536	Q8DQU6	Hypothetical protein
+PJ7551	OIJFJHOI_01537	A0AA86JRA8	Valyl-tRNA synthetase
+PJ7551	OIJFJHOI_01538	A0AAE9TZ87	hypothetical protein
+PJ7551	OIJFJHOI_01539	A0A0T7YPP1	Acetyltransferase
+PJ7551	OIJFJHOI_01540	C1C5U0	Hypothetical protein
+PJ7551	OIJFJHOI_01541	C1CCU6	Hypothetical protein
+PJ7551	OIJFJHOI_01542	C1CCU5	Hypothetical protein
+PJ7551	OIJFJHOI_01543	A0A916L4N2	Hypothetical protein
+PJ7551	OIJFJHOI_01544	Q8CZ42	Glycerate kinase
+PJ7551	OIJFJHOI_01545	C1C5T3	Hypothetical protein
+PJ7551	OIJFJHOI_01546	C1C5T2	Hypothetical protein
+PJ7551	OIJFJHOI_01547	A0A4J2D7F3	Hypothetical protein
+PJ7551	OIJFJHOI_01548	A0A4K8PUZ2	Hypothetical protein
+PJ7551	OIJFJHOI_01549		Srn266
+PJ7551	OIJFJHOI_01549		
+PJ7551	OIJFJHOI_01550	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_01551	A0A4J2DEF4	IS1167 transposase
+PJ7551	OIJFJHOI_01552	C1CD04	IS1167 transposase
+PJ7551	OIJFJHOI_01553	C1CQ49	Ribosome-binding factor A
+PJ7551	OIJFJHOI_01554	A0A098ZI69	Translation initiation factor 2
+PJ7551	OIJFJHOI_01555	C1CCT7	L7Ae family ribosomal protein
+PJ7551	OIJFJHOI_01556	Q8DQV4	Putative nucleic-acid-binding protein implicated in transcription termination
+PJ7551	OIJFJHOI_01557	C1CCT5	Transcription termination/antitermination protein NusA
+PJ7551	OIJFJHOI_01558	Q97S61	Bacterial ribosome SSU maturation protein RimP
+PJ7551	OIJFJHOI_01559	A0A064C0Y7	tRNA (guanine46-N7-)-methyltransferase
+PJ7551	OIJFJHOI_01560	C1CCT2	Aminoglycoside phosphotransferase family protein
+PJ7551	OIJFJHOI_01561	A0A0B7M7P4	Putative protease
+PJ7551	OIJFJHOI_01562	A0AA95IJE2	Immunity protein BlpZ
+PJ7551	OIJFJHOI_01563	A0A0E8STU2	Bacteriocin immunity protein BlpY
+PJ7551	OIJFJHOI_01564	A0AAE9QSC4	hypothetical protein
+PJ7551	OIJFJHOI_01565	Q9FBH1	hypothetical protein
+PJ7551	OIJFJHOI_01566	Q9ETA3	hypothetical protein
+PJ7551	OIJFJHOI_01567	Q9ETC8	Bacteriocin lactacin-F subunit LafA
+PJ7551	OIJFJHOI_01568	A0A4J1XB54	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01569	A0A4K4JDW1	IS5 family transposase ISSpn7
+PJ7551	OIJFJHOI_01570	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_01571	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01572	G3ECD5	hypothetical protein
+PJ7551	OIJFJHOI_01573	Q9EW64	hypothetical protein
+PJ7551	OIJFJHOI_01574	A7XH96	Bacteriocin BlpU
+PJ7551	OIJFJHOI_01575	Q9ETM2	hypothetical protein
+PJ7551	OIJFJHOI_01576	Q9EU53	hypothetical protein
+PJ7551	OIJFJHOI_01577	Q9ETN5	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+PJ7551	OIJFJHOI_01578	A0A4L0NQI8	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
+PJ7551	OIJFJHOI_01579	A0A559A8P3	Competence-stimulating peptide ABC transporter permease protein ComB
+PJ7551	OIJFJHOI_01580	A0A0B7M3C3	Peptide pheromone BlpC
+PJ7551	OIJFJHOI_01581	A0A0T7TB68	Two-component system sensor histidine kinase BlpH
+PJ7551	OIJFJHOI_01582	A0A0B7LMB8	Two-component system response regulator BlpR
+PJ7551	OIJFJHOI_01583	A0A0F7Y7H4	BlpS protein
+PJ7551	OIJFJHOI_01584	Q9FBH2	BlpT protein
+PJ7551	OIJFJHOI_01585	A0A0T8QK83	ABC transporter permease protein EcsB
+PJ7551	OIJFJHOI_01586	C1CCR3	ABC transporter ATP-binding protein EcsA
+PJ7551	OIJFJHOI_01587	A0A0B7MB57	Histidine triad nucleotide-binding protein
+PJ7551	OIJFJHOI_01588	C1CCR1	Hypothetical protein
+PJ7551	OIJFJHOI_01589	C1CCQ9	Chaperone protein DnaJ
+PJ7551	OIJFJHOI_01590	A0A4G4JF19	hypothetical protein
+PJ7551	OIJFJHOI_01591	Q04LY0	Chaperone protein DnaK
+PJ7551	OIJFJHOI_01592	B2IMB4	Heat shock protein GrpE
+PJ7551	OIJFJHOI_01593	A0A4J1VMI9	Heat-inducible transcription repressor HrcA
+PJ7551	OIJFJHOI_01594	A0A0B7LCY1	Hypothetical protein
+PJ7551	OIJFJHOI_01595	A0A6G2CXR4	hypothetical protein
+PJ7551	OIJFJHOI_01596	A0A4J2AYB1	Type I restriction-modification system%2C specificity subunit S type F
+PJ7551	OIJFJHOI_01597	C1C5M8	hypothetical protein
+PJ7551	OIJFJHOI_01598	B1IA39	Glutamine synthetase type I
+PJ7551	OIJFJHOI_01599	Q8DQX7	Transcriptional regulator%2C MerR family
+PJ7551	OIJFJHOI_01600	Q8CZ51	Hypothetical protein
+PJ7551	OIJFJHOI_01601	C1CQ04	Phosphoglycerate kinase
+PJ7551	OIJFJHOI_01602	A0A6G2DB49	Endo-beta-N-acetylglucosaminidase EndoD
+PJ7551	OIJFJHOI_01603	A0A654U937	Sodium-dependent phosphate transporter NptA
+PJ7551	OIJFJHOI_01604	Q8DQY0	CTP synthase
+PJ7551	OIJFJHOI_01605	Q04LZ9	DNA-directed RNA polymerase delta subunit
+PJ7551	OIJFJHOI_01606	A0A4J2GIX2	Hypothetical protein
+PJ7551	OIJFJHOI_01607	A0A0T7ZQ00	Hypothetical protein
+PJ7551	OIJFJHOI_01608	A0A4J1S7Q8	Macrolide-efflux protein
+PJ7551	OIJFJHOI_01609	A0A6G2DGN9	hypothetical protein
+PJ7551	OIJFJHOI_01610	A0A4K3C339	hypothetical protein
+PJ7551	OIJFJHOI_01611	A0A4J1U0C7	Vitamin B12 import ATP-binding protein BtuD
+PJ7551	OIJFJHOI_01612	A0A4J1TQ81	hypothetical protein
+PJ7551	OIJFJHOI_01613	A0A4I9PEN3	hypothetical protein
+PJ7551	OIJFJHOI_01614	A0A4J1U4I5	hypothetical protein
+PJ7551	OIJFJHOI_01615	A0A4J2AG71	hypothetical protein
+PJ7551	OIJFJHOI_01616	A0A4V0JNV0	Putative transcriptional regulator PlcR
+PJ7551	OIJFJHOI_01617	A0A4J1RLP6	Membrane-associated phospholipid phosphatase
+PJ7551	OIJFJHOI_01618	A0A0Y3JK47	Substrate-specific component RibU of riboflavin ECF transporter
+PJ7551	OIJFJHOI_01619		FMN
+PJ7551	OIJFJHOI_01619		
+PJ7551	OIJFJHOI_01620	A0A0H2UNS5	tRNA (cytidine(34)-2'-O)-methyltransferase
+PJ7551	OIJFJHOI_01621		23S-methyl
+PJ7551	OIJFJHOI_01621		
+PJ7551	OIJFJHOI_01622	A0A4J1WLM1	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+PJ7551	OIJFJHOI_01623	A0A4J1WJZ6	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+PJ7551	OIJFJHOI_01624	C1C5L0	Hypothetical protein
+PJ7551	OIJFJHOI_01625	Q97SA4	Substrate-specific component MtsA of methionine-regulated ECF transporter
+PJ7551	OIJFJHOI_01626	C1CCM9	Hypothetical protein
+PJ7551	OIJFJHOI_01627	C1CCM8	Trk family potassium uptake protein TrkA
+PJ7551	OIJFJHOI_01628	A0A0H2UNU3	Trk family potassium uptake protein TrkH
+PJ7551	OIJFJHOI_01629	A0AA86XD53	Lactose-specific PTS IIBC components
+PJ7551	OIJFJHOI_01630	A0A0U0FQB7	6-phospho-beta-galactosidase
+PJ7551	OIJFJHOI_01631	B1I9R6	Lactose-specific PTS IIA component
+PJ7551	OIJFJHOI_01632	A0A4J1UWR4	Hypothetical protein
+PJ7551	OIJFJHOI_01633	A0A0B7MEK5	Cellobiose-specific PTS IIC component
+PJ7551	OIJFJHOI_01634	B1I9R3	Xylose repressor protein
+PJ7551	OIJFJHOI_01635	Q8CZ56	Hypothetical protein
+PJ7551	OIJFJHOI_01636	Q8DQZ5	Hypothetical protein
+PJ7551	OIJFJHOI_01637	Q8CZ58	hypothetical protein
+PJ7551	OIJFJHOI_01638	Q8DQZ6	Pyruvate formate-lyase
+PJ7551	OIJFJHOI_01639	Q97SC7	DNA polymerase IV
+PJ7551	OIJFJHOI_01640	Q04M23	Undecaprenyl-diphosphatase
+PJ7551	OIJFJHOI_01641	A0A4J2FVR8	IS110 family transposase ISBth13
+PJ7551	OIJFJHOI_01642	A0A559A0H6	Hypothetical protein
+PJ7551	OIJFJHOI_01643	A0A0U0PGM1	Glutamine ABC transporter permease GlnHP1
+PJ7551	OIJFJHOI_01644	A0A0B7L9H9	Glutamine ABC transporter ATP-binding protein GlnQ1
+PJ7551	OIJFJHOI_01645	B2IM71	Hypothetical protein
+PJ7551	OIJFJHOI_01646	C1CCL2	Threonine dehydratase
+PJ7551	OIJFJHOI_01647	Q8CZ61	Hypothetical protein
+PJ7551	OIJFJHOI_01648	C1C5I1	hypothetical protein
+PJ7551	OIJFJHOI_01649	A0A0I7KQH0	Ketol-acid reductoisomerase
+PJ7551	OIJFJHOI_01650	Q8DR04	Acetolactate synthase small subunit
+PJ7551	OIJFJHOI_01651	C1CCK7	Acetolactate synthase large subunit
+PJ7551	OIJFJHOI_01652	C1CCK6	Dihydroxyacetone kinase-like protein
+PJ7551	OIJFJHOI_01653	C1CCK5	Putative alkaline-shock protein
+PJ7551	OIJFJHOI_01654	A0A064BZB4	LSU ribosomal protein L28p
+PJ7551	OIJFJHOI_01655	A0A4J1QAZ5	Putative CDP-glycerol:glycerophosphate glycerophosphotransferase
+PJ7551	OIJFJHOI_01656	A0A4J2DA43	Peptide chain release factor 3
+PJ7551	OIJFJHOI_01657	Q04M40	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit C/glutamyl-tRNA(Glu) amidotransferase subunit C
+PJ7551	OIJFJHOI_01658	C1C5H2	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit A/glutamyl-tRNA(Glu) amidotransferase subunit A
+PJ7551	OIJFJHOI_01659	Q04M42	Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit B/glutamyl-tRNA(Glu) amidotransferase subunit B
+PJ7551	OIJFJHOI_01660	Q04M43	Translation elongation factor P
+PJ7551	OIJFJHOI_01661	C1C5G9	Alkaline shock protein
+PJ7551	OIJFJHOI_01662	C1C5G8	Transcription termination protein NusB
+PJ7551	OIJFJHOI_01663	C1C5G7	hypothetical protein
+PJ7551	OIJFJHOI_01664	A0A0I8RVJ1	Hypothetical protein
+PJ7551	OIJFJHOI_01665	A0A064BZA7	Acetyl-coenzyme A carboxyl transferase alpha chain
+PJ7551	OIJFJHOI_01666	Q7CRB7	Acetyl-coenzyme A carboxyl transferase beta chain
+PJ7551	OIJFJHOI_01667	Q9FBB9	Biotin carboxylase of acetyl-CoA carboxylase
+PJ7551	OIJFJHOI_01668	C1C5G1	3-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+PJ7551	OIJFJHOI_01669	C1C5G0	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PJ7551	OIJFJHOI_01670	Q8DR14	3-oxoacyl-(acyl-carrier-protein) synthase FabF
+PJ7551	OIJFJHOI_01671	C1CCI6	3-oxoacyl-[acyl-carrier protein] reductase FabG1
+PJ7551	OIJFJHOI_01672	Q9FBC4	Malonyl CoA-acyl carrier protein transacylase FabD
+PJ7551	OIJFJHOI_01673	A0A0B7MDV1	Enoyl-(acyl-carrier-protein) reductase FabK
+PJ7551	OIJFJHOI_01674	P0A2W1	Acyl carrier protein
+PJ7551	OIJFJHOI_01675	Q04M58	3-oxoacyl-(acyl-carrier-protein) synthase FabH
+PJ7551	OIJFJHOI_01676	Q8DR18	Transcriptional regulator of fatty acid biosynthesis FabT
+PJ7551	OIJFJHOI_01677	C1CCI0	Trans-2%2Ccis-3-Decenoyl-ACP isomerase
+PJ7551	OIJFJHOI_01678	Q8DR20	Aspartokinase
+PJ7551	OIJFJHOI_01679	Q8DR21	Putative regulator of the mannose operon ManO
+PJ7551	OIJFJHOI_01680	A0A0I6IQT0	Seryl-tRNA synthetase
+PJ7551	OIJFJHOI_01681	A0A0U0Q762	Exfoliative toxin A
+PJ7551	OIJFJHOI_01682	Q8DR24	Macrophage infectivity potentiator protein
+PJ7551	OIJFJHOI_01683	A0A0T8RC93	Sodium/glycine symporter GlyP
+PJ7551	OIJFJHOI_01684		Glycine
+PJ7551	OIJFJHOI_01684		
+PJ7551	OIJFJHOI_01685	A0A0B7KWD7	Recombination inhibitory protein MutS2
+PJ7551	OIJFJHOI_01686	C1C5E3	Z-ring positive regulator ZapB
+PJ7551	OIJFJHOI_01687	C1CCH1	Z-ring positive regulator ZapA
+PJ7551	OIJFJHOI_01688	A0A4G3JW15	Ribonuclease HIII
+PJ7551	OIJFJHOI_01689	Q3I0J5	Signal peptidase I
+PJ7551	OIJFJHOI_01690	A0AAD2KAU4	RecD-like DNA helicase YrrC
+PJ7551	OIJFJHOI_01691	C1CPR1	Cell division trigger factor
+PJ7551	OIJFJHOI_01692	A0A9P1L7K0	hypothetical protein
+PJ7551	OIJFJHOI_01693	A0A4J1QX64	Glutamyl endopeptidase
+PJ7551	OIJFJHOI_01694	C1CCF6	Hypothetical protein
+PJ7551	OIJFJHOI_01695	A0A264SD49	hypothetical protein
+PJ7551	OIJFJHOI_01696	Q9S1J7	Two-component transcriptional regulator VraR
+PJ7551	OIJFJHOI_01697	A0A4J2DN14	Two-component system sensor histidine kinase VraS
+PJ7551	OIJFJHOI_01698	C1CCF1	Cell wall-active antibiotics response protein VraT
+PJ7551	OIJFJHOI_01699	Q97SH8	Isopentenyl-diphosphate delta-isomerase%2C FMN-dependent
+PJ7551	OIJFJHOI_01700	A0A4J1NMA1	Phosphomevalonate kinase
+PJ7551	OIJFJHOI_01701	A0A4J1NKL5	Diphosphomevalonate decarboxylase
+PJ7551	OIJFJHOI_01702	C1C5C0	Mevalonate kinase
+PJ7551	OIJFJHOI_01703	A0A0E9GZY4	hypothetical protein
+PJ7551	OIJFJHOI_01704	A0A4J1R745	hypothetical protein
+PJ7551	OIJFJHOI_01705	B1I9H8	Macrolide-efflux protein
+PJ7551	OIJFJHOI_01706	A0A6G2D8P3	Choline-binding protein CbpF
+PJ7551	OIJFJHOI_01707	B2ILR8	Orphan response regulator RitR
+PJ7551	OIJFJHOI_01708	A0A0T9HRS5	6-phosphogluconate dehydrogenase%2C decarboxylating
+PJ7551	OIJFJHOI_01709	A0A4J1XXV1	Mid-cell-anchored protein Z
+PJ7551	OIJFJHOI_01710	A0A4J2AM23	23S rRNA (guanine(2445)-N(2))-methyltransferase
+PJ7551	OIJFJHOI_01711		RNaseP_bact_b
+PJ7551	OIJFJHOI_01711		
+PJ7551	OIJFJHOI_01712	Q97SI9	Cell division protein GpsB
+PJ7551	OIJFJHOI_01713	Q8DR58	Hypothetical protein
+PJ7551	OIJFJHOI_01714	A0A6G2D9U5	RecU Holliday junction resolvase
+PJ7551	OIJFJHOI_01715	A5YGS4	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A
+PJ7551	OIJFJHOI_01716	A0A4J2AH82	Endo-alpha-N-acetylgalactosaminidase Eng
+PJ7551	OIJFJHOI_01717	O07041	Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA
+PJ7551	OIJFJHOI_01718	A0A0B7LWA4	hypothetical protein
+PJ7551	OIJFJHOI_01719	A0A6I3U818	dTDP-4-dehydrorhamnose reductase Cps2O
+PJ7551	OIJFJHOI_01720	A0A7X2XMQ8	dTDP-4-dehydrorhamnose reductase Cps2O
+PJ7551	OIJFJHOI_01721	O08436	dTDP-glucose 4%2C6-dehydratase Cps2N
+PJ7551	OIJFJHOI_01722	O08435	dTDP-4-dehydrorhamnose 3%2C5-epimerase Cps2M
+PJ7551	OIJFJHOI_01723	O08434	Glucose-1-phosphate thymidylyltransferase Cps2L
+PJ7551	OIJFJHOI_01724		Srn266
+PJ7551	OIJFJHOI_01724		
+PJ7551	OIJFJHOI_01725	A0A4M3JXE7	IS1167 transposase
+PJ7551	OIJFJHOI_01726	A0A4J1U6P4	IS1167 transposase Orf2
+PJ7551	OIJFJHOI_01727	A0A4J1PN16	IS1167 transposase Orf2
+PJ7551	OIJFJHOI_01728	A0A4K1B491	hypothetical protein
+PJ7551	OIJFJHOI_01729	Q4K386	UDP-glucose 6-dehydrogenase Cps2K
+PJ7551	OIJFJHOI_01730	P96481	dTDP-glucose 4%2C6-dehydratase Cps2N
+PJ7551	OIJFJHOI_01731	Q4K388	hypothetical protein
+PJ7551	OIJFJHOI_01732	P96479	hypothetical protein
+PJ7551	OIJFJHOI_01733	P96478	hypothetical protein
+PJ7551	OIJFJHOI_01734	P96477	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+PJ7551	OIJFJHOI_01735	Q4K392	N%2CN'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1%2C3-N-acetylgalactosaminyltransferase
+PJ7551	OIJFJHOI_01736	P96475	Tyrosine-protein kinase Cps2D
+PJ7551	OIJFJHOI_01737	P96474	Capsular biosynthesis protein Cps2C
+PJ7551	OIJFJHOI_01738	Q4K383	Tyrosine-protein phosphatase Cps2B
+PJ7551	OIJFJHOI_01739	Q4K384	Exopolysaccharide biosynthesis transcriptional regulator Cps2A
+PJ7551	OIJFJHOI_01740	A0A4J1TKH5	IS630 family transposase IS630-Spn1
+PJ7551	OIJFJHOI_01741	A0A4J1Q0P1	hypothetical protein
+PJ7551	OIJFJHOI_01742		Srn266
+PJ7551	OIJFJHOI_01742		
+PJ7551	OIJFJHOI_01743	A0A4J1X000	IS1167 transposase
+PJ7551	OIJFJHOI_01744	A0A4J1U6P4	IS1167 transposase Orf2
+PJ7551	OIJFJHOI_01745	A0A4J1PN16	IS1167 transposase Orf2
+PJ7551	OIJFJHOI_01746	A0A4J1XUV3	S-ribosylhomocysteinase
+PJ7551	OIJFJHOI_01747	A0A4J1NL93	Glucan 1%2C6-alpha-glucosidase
+PJ7551	OIJFJHOI_01748	A0A6G2D8F4	ATP-dependent Zn protease
+PJ7551	OIJFJHOI_01749	Q04MC2	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
+PJ7551	OIJFJHOI_01750	A0AA86YBP6	hypothetical protein
+PJ7551	OIJFJHOI_01751		group-II-D1D4-1
+PJ7551	OIJFJHOI_01751		
+PJ7551	OIJFJHOI_01752		group-II-D1D4-3
+PJ7551	OIJFJHOI_01752		
+PJ7551	OIJFJHOI_01753	A0A4M3K0M7	IS1167 transposase Orf2
+PJ7551	OIJFJHOI_01754	A0A4M3JXE7	IS1167 transposase
+PJ7551	OIJFJHOI_01755		Srn266
+PJ7551	OIJFJHOI_01755		
+PJ7551	OIJFJHOI_01756	A0A0U0NTG6	hypothetical protein
+PJ7551	OIJFJHOI_01757	A0A0T9A347	hypothetical protein
+PJ7551	OIJFJHOI_01758	A0A0T8ZXE4	hypothetical protein
+PJ7551	OIJFJHOI_01759	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_01760	A0A0T8ZXE4	hypothetical protein
+PJ7551	OIJFJHOI_01761	A0A4M3K0L6	hypothetical protein
+PJ7551	OIJFJHOI_01762	A0A0T9A9V7	hypothetical protein
+PJ7551	OIJFJHOI_01763	A0A4M3JUM0	hypothetical protein
+PJ7551	OIJFJHOI_01764	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_01765	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01766	A0A0U0PQ95	hypothetical protein
+PJ7551	OIJFJHOI_01767	A0A0T9A354	hypothetical protein
+PJ7551	OIJFJHOI_01768	A0A4J1XG05	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
+PJ7551	OIJFJHOI_01769	A0AA86Y5M4	Phospho-N-acetylmuramoyl-pentapeptide- transferase
+PJ7551	OIJFJHOI_01770	A0A4J1TU75	Penicillin-binding protein 2X
+PJ7551	OIJFJHOI_01771	Q8DR70	Cell division protein FtsL
+PJ7551	OIJFJHOI_01772	C1CIJ8	16S rRNA (cytosine(1402)-N(4))-methyltransferase MraW
+PJ7551	OIJFJHOI_01773	Q8DR71	Transcriptional regulator%2C PbsX family
+PJ7551	OIJFJHOI_01774	A0A4F6G1D6	hypothetical protein
+PJ7551	OIJFJHOI_01775	Q8CZ72	Hypothetical protein
+PJ7551	OIJFJHOI_01776	A0A0B7LTR1	hypothetical protein
+PJ7551	OIJFJHOI_01777	C1CCA4	Transcriptional regulator RegR
+PJ7551	OIJFJHOI_01778	A0A4J1QYG4	Oligohyaluronate lyase
+PJ7551	OIJFJHOI_01779	A0A4J1QYH1	Preprotein translocase subunit YajC
+PJ7551	OIJFJHOI_01780	A0A4J1QYF7	Hyaluronate-oligosaccharide-specific PTS IID component
+PJ7551	OIJFJHOI_01781	A0A098ZCW3	Hyaluronate-oligosaccharide-specific PTS IIC component
+PJ7551	OIJFJHOI_01782	A0A4J0RJG0	Hyaluronate-oligosaccharide-specific PTS IIB component
+PJ7551	OIJFJHOI_01783	A0A0B7MAW4	Unsaturated chondroitin disaccharide hydrolase
+PJ7551	OIJFJHOI_01784	A0AA36PZI7	Hyaluronate-oligosaccharide-specific PTS IIA component
+PJ7551	OIJFJHOI_01785	Q8DR79	2-deoxy-D-gluconate 3-dehydrogenase
+PJ7551	OIJFJHOI_01786	Q8CZ75	Putative 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+PJ7551	OIJFJHOI_01787	B2ISN9	2-dehydro-3-deoxygluconokinase
+PJ7551	OIJFJHOI_01788	C1CB96	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxyphosphogluconate aldolase
+PJ7551	OIJFJHOI_01789	A0A4J1QY65	IS200/IS605 family transposase ISStin10
+PJ7551	OIJFJHOI_01790	A0A4J1QYY8	Hyaluronate lyase precursor SpnHL
+PJ7551	OIJFJHOI_01791	A0A0B7KT23	Glutathione peroxidase family protein
+PJ7551	OIJFJHOI_01792		SpF11_sRNA
+PJ7551	OIJFJHOI_01792		
+PJ7551	OIJFJHOI_01793	A0A4J1QY84	Maltodextrin glucosidase
+PJ7551	OIJFJHOI_01794		SpF10_sRNA
+PJ7551	OIJFJHOI_01794		
+PJ7551	OIJFJHOI_01795	A0A0B7LX26	hypothetical protein
+PJ7551	OIJFJHOI_01796	Q8CZ76	Hypothetical protein
+PJ7551	OIJFJHOI_01797	C1CB88	Cellobiose-specific PTS IIC component
+PJ7551	OIJFJHOI_01798	A0A4J1QZP1	Hypothetical protein
+PJ7551	OIJFJHOI_01799	B2ISN1	Cellobiose-specific PTS IIA component
+PJ7551	OIJFJHOI_01800	A0A4J1QYW1	Transcriptional antiterminator of lichenan operon%2C BglG family
+PJ7551	OIJFJHOI_01801	C1CB84	Cellobiose-specific PTS IIB component
+PJ7551	OIJFJHOI_01802	Q8DR88	Hypothetical protein
+PJ7551	OIJFJHOI_01803	A0A4J1QZT0	6-phospho-beta-glucosidase
+PJ7551	OIJFJHOI_01804	A0A4J1QZC1	Hypothetical protein
+PJ7551	OIJFJHOI_01805	Q8CWU4	SSU ribosomal protein S9p (S16e)
+PJ7551	OIJFJHOI_01806	Q8CWU5	LSU ribosomal protein L13p (L13Ae)
+PJ7551	OIJFJHOI_01807		L13_leader
+PJ7551	OIJFJHOI_01807		
+PJ7551	OIJFJHOI_01808	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_01809	A0A4J1QZ22	Hypothetical protein
+PJ7551	OIJFJHOI_01810	A0A6G2D9T6	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+PJ7551	OIJFJHOI_01811	C1CIH2	GTP cyclohydrolase I type 1
+PJ7551	OIJFJHOI_01812	A0A4J1QZ47	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
+PJ7551	OIJFJHOI_01813	A0A4J1QZF2	Dihydropteroate synthase
+PJ7551	OIJFJHOI_01814	A0A6I3V9N6	Membrane-bound protease%2C CAAX family
+PJ7551	OIJFJHOI_01815	B1I913	Guanine-hypoxanthine permease
+PJ7551	OIJFJHOI_01816	C1CB60	Hydrolase%2C HAD superfamily
+PJ7551	OIJFJHOI_01817	A0A0B7LSF0	Alcohol dehydrogenase
+PJ7551	OIJFJHOI_01818	C1CB58	Mannose-specific PTS IIAB components
+PJ7551	OIJFJHOI_01819	Q8DR98	Mannose-specific PTS IIC component
+PJ7551	OIJFJHOI_01820	Q8DR99	Mannose-specific PTS IID component
+PJ7551	OIJFJHOI_01821	B1I907	Aminopeptidase C
+PJ7551	OIJFJHOI_01822	C1CC69	Ribosomal small subunit pseudouridine synthase A
+PJ7551	OIJFJHOI_01823	C1CC68	Membrane protein
+PJ7551	OIJFJHOI_01824	A0AAE9QN54	Aminopeptidase PepS
+PJ7551	OIJFJHOI_01825	C1CC66	Hypothetical protein
+PJ7551	OIJFJHOI_01826	Q8DRA4	mRNA interferase RelE1
+PJ7551	OIJFJHOI_01827	C1CC64	Antitoxin RelB1
+PJ7551	OIJFJHOI_01828	A0A6G2DCI5	DNA polymerase III
+PJ7551	OIJFJHOI_01829	Q04MH7	Translation elongation factor G
+PJ7551	OIJFJHOI_01830	Q8CWU6	SSU ribosomal protein S7p (S5e)
+PJ7551	OIJFJHOI_01831	E2DP60	SSU ribosomal protein S12p (S23e)
+PJ7551	OIJFJHOI_01832	A0A0H2UNG0	Pullulanase SpuA
+PJ7551	OIJFJHOI_01833	C1CB42	Oxidoreductase
+PJ7551	OIJFJHOI_01834	A0A0B7LXV7	Glucosamine--fructose-6-phosphate aminotransferase
+PJ7551	OIJFJHOI_01835	A0A0B7KU25	6-phospho-beta-glucosidase
+PJ7551	OIJFJHOI_01836	C1CPD8	Prolyl-tRNA synthetase
+PJ7551	OIJFJHOI_01837	Q8DRB1	Intramembrane protease Eep
+PJ7551	OIJFJHOI_01838	C1CB37	Phosphatidate cytidylyltransferase
+PJ7551	OIJFJHOI_01839	Q8DRB3	Undecaprenyl diphosphate synthase
+PJ7551	OIJFJHOI_01840		csRNA
+PJ7551	OIJFJHOI_01840		
+PJ7551	OIJFJHOI_01841	C1CC51	Hypothetical protein
+PJ7551	OIJFJHOI_01842	Q8CWU7	Holliday junction DNA helicase RuvB
+PJ7551	OIJFJHOI_01843		csRNA
+PJ7551	OIJFJHOI_01843		
+PJ7551	OIJFJHOI_01844	Q8DRB4	Acetyltransferase%2C GNAT family
+PJ7551	OIJFJHOI_01845	C1CB32	Acetyltransferase%2C GNAT family
+PJ7551	OIJFJHOI_01846	C1CB31	Leucyl-tRNA synthetase
+PJ7551	OIJFJHOI_01847	Q8DRB7	Glycerol dehydrogenase
+PJ7551	OIJFJHOI_01848	B1I8Y0	Transaldolase
+PJ7551	OIJFJHOI_01849	A0A0B7MAR2	Pyruvate formate-lyase
+PJ7551	OIJFJHOI_01850	A0A0H2UNF2	Cellobiose-specific PTS IIC component
+PJ7551	OIJFJHOI_01851	A0A0H2UNC3	Cellobiose-specific PTS IIB component
+PJ7551	OIJFJHOI_01852	C1CC41	Cellobiose-specific PTS IIA component
+PJ7551	OIJFJHOI_01853	Q8DRC3	Transcriptional regulator
+PJ7551	OIJFJHOI_01854	B1I8X4	Transcriptional regulator%2C DeoR family
+PJ7551	OIJFJHOI_01855	Q8DRC5	Pyruvate formate-lyase activating enzyme
+PJ7551	OIJFJHOI_01856	A0A0T8SC95	putative protein
+PJ7551	OIJFJHOI_01857	A0A4J1R089	hypothetical protein
+PJ7551	OIJFJHOI_01858	A0A0U0JI53	Ferric iron ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01859	B2ISG7	Ferric iron ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01860	A0A4J1R1B1	hypothetical protein
+PJ7551	OIJFJHOI_01861	A0A4J1R0P7	hypothetical protein
+PJ7551	OIJFJHOI_01862	A0A0T8C930	Phosphoglycerate mutase family protein
+PJ7551	OIJFJHOI_01863		csRNA
+PJ7551	OIJFJHOI_01863		
+PJ7551	OIJFJHOI_01864	C1CC35	hypothetical protein
+PJ7551	OIJFJHOI_01865	C1CC34	ACT domain-containing transcriptional regulator
+PJ7551	OIJFJHOI_01866		L17DE
+PJ7551	OIJFJHOI_01866		
+PJ7551	OIJFJHOI_01867	Q8CWU8	LSU ribosomal protein L17p
+PJ7551	OIJFJHOI_01868	Q04ML1	DNA-directed RNA polymerase alpha subunit
+PJ7551	OIJFJHOI_01869	Q04ML2	SSU ribosomal protein S11p (S14e)
+PJ7551	OIJFJHOI_01870	Q04ML3	SSU ribosomal protein S13p (S18e)
+PJ7551	OIJFJHOI_01871	P0A496	LSU ribosomal protein L36p
+PJ7551	OIJFJHOI_01872	Q04ML4	Translation initiation factor 1
+PJ7551	OIJFJHOI_01873	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_01874	B2ISY6	Peptide ABC transporter ATP-binding protein AmiF
+PJ7551	OIJFJHOI_01875	B2ISY7	Peptide ABC transporter ATP-binding protein AmiE
+PJ7551	OIJFJHOI_01876	B2ISY8	Peptide ABC transporter permease AmiD
+PJ7551	OIJFJHOI_01877	B2ISY9	Peptide ABC transporter permease AmiC
+PJ7551	OIJFJHOI_01878	C1C9G0	Peptide ABC transporter substrate-binding protein AmiA
+PJ7551	OIJFJHOI_01879	Q8CYC1	Wall teichoic acid biosynthesis protein RafX
+PJ7551	OIJFJHOI_01880	C1C9G2	Sucrose phosphorylase
+PJ7551	OIJFJHOI_01881	C1C9G3	hypothetical protein
+PJ7551	OIJFJHOI_01882	C1C9G4	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG
+PJ7551	OIJFJHOI_01883	C1C9G5	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmF
+PJ7551	OIJFJHOI_01884	B2ISZ6	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
+PJ7551	OIJFJHOI_01885	A0A0U0PRI9	Alpha-galactosidase
+PJ7551	OIJFJHOI_01886	C1CGC7	Multiple sugar metabolism operon regulatory protein MsmR
+PJ7551	OIJFJHOI_01887	A0A916L6G8	Multiple sugar metabolism operon regulatory protein MsmR
+PJ7551	OIJFJHOI_01888	C1C9G9	Bifunctional biotin operon repressor/Biotin--protein ligase
+PJ7551	OIJFJHOI_01889		Srn266
+PJ7551	OIJFJHOI_01889		
+PJ7551	OIJFJHOI_01890	C1C9H0	hypothetical protein
+PJ7551	OIJFJHOI_01891		tRNA-Ser(gct)
+PJ7551	OIJFJHOI_01891		
+PJ7551	OIJFJHOI_01892		tRNA-Ile(gat)
+PJ7551	OIJFJHOI_01892		
+PJ7551	OIJFJHOI_01893		tRNA-Gly(tcc)
+PJ7551	OIJFJHOI_01893		
+PJ7551	OIJFJHOI_01894		tRNA-Phe(gaa)
+PJ7551	OIJFJHOI_01894		
+PJ7551	OIJFJHOI_01895		tRNA-Met(cat)
+PJ7551	OIJFJHOI_01895		
+PJ7551	OIJFJHOI_01896		tRNA-Ser(tga)
+PJ7551	OIJFJHOI_01896		
+PJ7551	OIJFJHOI_01897		tRNA-Met(cat)
+PJ7551	OIJFJHOI_01897		
+PJ7551	OIJFJHOI_01898		tRNA-Met(cat)
+PJ7551	OIJFJHOI_01898		
+PJ7551	OIJFJHOI_01899		tRNA-Pro(tgg)
+PJ7551	OIJFJHOI_01899		
+PJ7551	OIJFJHOI_01900		tRNA-Arg(acg)
+PJ7551	OIJFJHOI_01900		
+PJ7551	OIJFJHOI_01901		tRNA-Leu(taa)
+PJ7551	OIJFJHOI_01901		
+PJ7551	OIJFJHOI_01902		tRNA-Gly(gcc)
+PJ7551	OIJFJHOI_01902		
+PJ7551	OIJFJHOI_01903		tRNA-Thr(tgt)
+PJ7551	OIJFJHOI_01903		
+PJ7551	OIJFJHOI_01904		tRNA-Leu(tag)
+PJ7551	OIJFJHOI_01904		
+PJ7551	OIJFJHOI_01905		tRNA-Lys(ttt)
+PJ7551	OIJFJHOI_01905		
+PJ7551	OIJFJHOI_01906		tRNA-Asp(gtc)
+PJ7551	OIJFJHOI_01906		
+PJ7551	OIJFJHOI_01907		tRNA-Val(tac)
+PJ7551	OIJFJHOI_01907		
+PJ7551	OIJFJHOI_01908		5S ribosomal RNA
+PJ7551	OIJFJHOI_01908		
+PJ7551	OIJFJHOI_01909		23S ribosomal RNA
+PJ7551	OIJFJHOI_01909		
+PJ7551	OIJFJHOI_01910		tRNA-Ala(tgc)
+PJ7551	OIJFJHOI_01910		
+PJ7551	OIJFJHOI_01911		16S ribosomal RNA
+PJ7551	OIJFJHOI_01911		
+PJ7551	OIJFJHOI_01912		tRNA-Glu(ttc)
+PJ7551	OIJFJHOI_01912		
+PJ7551	OIJFJHOI_01913	C1CGD1	RNA methyltransferase%2C TrmA family
+PJ7551	OIJFJHOI_01914	A0A4J1P0R6	Regulatory protein RecX
+PJ7551	OIJFJHOI_01915	Q8DNH5	Cysteinyl-tRNA synthetase related protein
+PJ7551	OIJFJHOI_01916		Spy392987
+PJ7551	OIJFJHOI_01916		
+PJ7551	OIJFJHOI_01917	A0AAE9U298	Epoxyqueuosine reductase QueH
+PJ7551	OIJFJHOI_01918	C1C9H5	Epoxyqueuosine reductase QueH
+PJ7551	OIJFJHOI_01919	Q04IQ3	Heat shock protein 60 family chaperone GroEL
+PJ7551	OIJFJHOI_01920	C1CML8	Heat shock protein 60 family co-chaperone GroES
+PJ7551	OIJFJHOI_01921	Q8DNH4	Single-stranded DNA-binding protein SsbB
+PJ7551	OIJFJHOI_01922	B1I8B5	Short-chain dehydrogenase
+PJ7551	OIJFJHOI_01923	Q8DNH2	Phenylalanyl-tRNA synthetase domain protein
+PJ7551	OIJFJHOI_01924	Q8DNH1	Thioredoxin
+PJ7551	OIJFJHOI_01925	Q8CYB9	Hypothetical protein
+PJ7551	OIJFJHOI_01926	A0A062WUW1	Membrane protein
+PJ7551	OIJFJHOI_01927	A0A0H2URK9	Response regulator of the LytR/AlgR family protein
+PJ7551	OIJFJHOI_01928	A0A0B7L3A2	Phosphatidylglycerophosphatase B
+PJ7551	OIJFJHOI_01929	Q8CYB6	Hypothetical protein
+PJ7551	OIJFJHOI_01930	A0AAE4FW29	putative ABC transporter ATP-binding protein
+PJ7551	OIJFJHOI_01931	B2IM08	Multidrug resistance ABC transporter ATP-binding and permease protein
+PJ7551	OIJFJHOI_01932	A0A0I6E462	hypothetical protein
+PJ7551	OIJFJHOI_01933	Q04IN9	Transcriptional regulatory protein YeeN
+PJ7551	OIJFJHOI_01934	Q2XU25	Pneumolysin
+PJ7551	OIJFJHOI_01935	C1C9J3	Hypothetical protein
+PJ7551	OIJFJHOI_01936	Q8CYB4	Hypothetical protein
+PJ7551	OIJFJHOI_01937	B2IM15	Hypothetical protein
+PJ7551	OIJFJHOI_01938	A0A4J1ZFL9	hypothetical protein
+PJ7551	OIJFJHOI_01939	A0A4J1U5S3	hypothetical protein
+PJ7551	OIJFJHOI_01940	A0A0I6YNI8	Hypothetical protein
+PJ7551	OIJFJHOI_01941	A0A0I7M824	Hypothetical protein
+PJ7551	OIJFJHOI_01942	Q8CYA9	hypothetical protein
+PJ7551	OIJFJHOI_01943	A0A0T7KGN7	hypothetical protein
+PJ7551	OIJFJHOI_01944	A0A0B7MCW7	hypothetical protein
+PJ7551	OIJFJHOI_01945	A0A0B7L5K3	hypothetical protein
+PJ7551	OIJFJHOI_01946	A0A0B7MDF1	Putative toxin
+PJ7551	OIJFJHOI_01947	A0A0B7M7G9	Putative antitoxin Xre
+PJ7551	OIJFJHOI_01948	Q9R3M1	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
+PJ7551	OIJFJHOI_01949	A0A098Z3I1	MATE efflux family protein DinF
+PJ7551	OIJFJHOI_01950	A0A4J2A6U9	IS5 family transposase IS1515
+PJ7551	OIJFJHOI_01951	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_01952	Q04IM6	DNA recombination/repair protein RecA
+PJ7551	OIJFJHOI_01953	A0A6G2DHY5	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucleotide amidase
+PJ7551	OIJFJHOI_01954	A0A0E8P863	Transcriptional regulator LytR
+PJ7551	OIJFJHOI_01955	Q8DNF9	Acetyltransferase
+PJ7551	OIJFJHOI_01956	Q8DNF8	TsaE protein%2C required for threonylcarbamoyladenosine t(6)A37 formation in tRNA
+PJ7551	OIJFJHOI_01957	Q8CYA2	Immunity factor ComM
+PJ7551	OIJFJHOI_01958	A0A0T8E8F8	Putative transcriptional regulator PlcR
+PJ7551	OIJFJHOI_01959	C1CA00	Hypothetical protein
+PJ7551	OIJFJHOI_01960	A0A0I7M802	hypothetical protein
+PJ7551	OIJFJHOI_01961	A0A4J1XG25	hypothetical protein
+PJ7551	OIJFJHOI_01962	A0A0B7KNP6	ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_01963	C1CGP1	hypothetical protein
+PJ7551	OIJFJHOI_01964	A0A0B7LDE7	hypothetical protein
+PJ7551	OIJFJHOI_01965	C1CMQ6	Nucleoside diphosphate kinase
+PJ7551	OIJFJHOI_01966	A0A6G2D7P0	DNA-directed RNA polymerase beta' subunit
+PJ7551	OIJFJHOI_01967	A0A0B7L1K2	DNA-directed RNA polymerase beta subunit
+PJ7551	OIJFJHOI_01968		Lacto-rpoB
+PJ7551	OIJFJHOI_01968		
+PJ7551	OIJFJHOI_01969		tRNA-Cys(gca)
+PJ7551	OIJFJHOI_01969		
+PJ7551	OIJFJHOI_01970	B2IM43	Putative hemolysin
+PJ7551	OIJFJHOI_01971	B1I8R7	DNA-entry nuclease
+PJ7551	OIJFJHOI_01972	A0A4J1ZKM2	Competence-associated EpuA protein
+PJ7551	OIJFJHOI_01973	Q97NQ4	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PJ7551	OIJFJHOI_01974	B1I8S0	Hypothetical protein
+PJ7551	OIJFJHOI_01975	Q8DNE7	Lon-like protease
+PJ7551	OIJFJHOI_01976	A0A062WU92	Phosphopantetheine adenylyltransferase
+PJ7551	OIJFJHOI_01977	A0A4U1J6C1	16S rRNA (guanine(966)-N(2))-methyltransferase
+PJ7551	OIJFJHOI_01978	Q97NQ0	Aspartate--ammonia ligase
+PJ7551	OIJFJHOI_01979	C1CA17	Membrane protein
+PJ7551	OIJFJHOI_01980	C1CA18	rRNA methylase
+PJ7551	OIJFJHOI_01981	Q8DNE2	Putative nucleoside phosphatase
+PJ7551	OIJFJHOI_01982	C1CGQ6	Inner membrane protein translocase component YidC1
+PJ7551	OIJFJHOI_01983	Q8DNE0	Pyruvate formate-lyase activating enzyme
+PJ7551	OIJFJHOI_01984	A0A0B7L6M3	Diaminopimelate decarboxylase
+PJ7551	OIJFJHOI_01985	C1CGQ9	PurR: transcription regulator associated with purine metabolism
+PJ7551	OIJFJHOI_01986	C1CA24	3'->5' exoribonuclease YhaM
+PJ7551	OIJFJHOI_01987	A0A0H2URR5	DNA recombination protein RmuC
+PJ7551	OIJFJHOI_01988	A0A4J1YWT3	Thiamin pyrophosphokinase
+PJ7551	OIJFJHOI_01989	A0A655HD58	Ribulose-phosphate 3-epimerase
+PJ7551	OIJFJHOI_01990	A0A916L551	Ribosome small subunit-stimulated GTPase RsgA
+PJ7551	OIJFJHOI_01991	A0A558UNH8	hypothetical protein
+PJ7551	OIJFJHOI_01992		hypothetical protein
+PJ7551	OIJFJHOI_01993	C1CMT3	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase
+PJ7551	OIJFJHOI_01994	A0A5R9AW89	Hypothetical protein
+PJ7551	OIJFJHOI_01995	Q8DND2	ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_01996	A0AAD2KF28	Putative immunity protein
+PJ7551	OIJFJHOI_01997		SpR08_sRNA
+PJ7551	OIJFJHOI_01997		
+PJ7551	OIJFJHOI_01998	A0A4L0P070	Transcriptional regulator
+PJ7551	OIJFJHOI_01999	A0A0B7LWF0	Ribonuclease M5
+PJ7551	OIJFJHOI_02000	A0A0B7LXH2	Putative deoxyribonuclease TatD
+PJ7551	OIJFJHOI_02001	A0AA86XN69	hypothetical protein
+PJ7551	OIJFJHOI_02002	Q04IH6	LSU ribosomal protein L34p
+PJ7551	OIJFJHOI_02003	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_02004	C1CGS5	Alanine transaminase
+PJ7551	OIJFJHOI_02005	A0A0F7YFQ6	Hypothetical protein
+PJ7551	OIJFJHOI_02006	C1CGS7	Universal stress protein family protein
+PJ7551	OIJFJHOI_02007	C1CGS8	Hydrolase%2C HAD superfamily
+PJ7551	OIJFJHOI_02008	C1CA43	L-asparaginase
+PJ7551	OIJFJHOI_02009	C1CA45	Catabolite control protein A
+PJ7551	OIJFJHOI_02010	C1CA46	Two-component system response regulator
+PJ7551	OIJFJHOI_02011	A0A4G4IX74	Two-component system sensor histidine kinase
+PJ7551	OIJFJHOI_02012	A0A4J2A4K4	ABC transporter%2C permease protein
+PJ7551	OIJFJHOI_02013	A0A4J1ZLF6	ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_02014	A0A064BY28	Hypothetical protein
+PJ7551	OIJFJHOI_02015	A0A4L7WW08	Hypothetical protein
+PJ7551	OIJFJHOI_02016		tRNA-Pro(tgg)
+PJ7551	OIJFJHOI_02016		
+PJ7551	OIJFJHOI_02017		tRNA-Arg(acg)
+PJ7551	OIJFJHOI_02017		
+PJ7551	OIJFJHOI_02018		tRNA-Leu(taa)
+PJ7551	OIJFJHOI_02018		
+PJ7551	OIJFJHOI_02019		tRNA-Gly(gcc)
+PJ7551	OIJFJHOI_02019		
+PJ7551	OIJFJHOI_02020		tRNA-Thr(tgt)
+PJ7551	OIJFJHOI_02020		
+PJ7551	OIJFJHOI_02021		tRNA-Leu(tag)
+PJ7551	OIJFJHOI_02021		
+PJ7551	OIJFJHOI_02022		tRNA-Lys(ttt)
+PJ7551	OIJFJHOI_02022		
+PJ7551	OIJFJHOI_02023		tRNA-Asp(gtc)
+PJ7551	OIJFJHOI_02023		
+PJ7551	OIJFJHOI_02024		tRNA-Val(tac)
+PJ7551	OIJFJHOI_02024		
+PJ7551	OIJFJHOI_02025		5S ribosomal RNA
+PJ7551	OIJFJHOI_02025		
+PJ7551	OIJFJHOI_02026		23S ribosomal RNA
+PJ7551	OIJFJHOI_02026		
+PJ7551	OIJFJHOI_02027		tRNA-Ala(tgc)
+PJ7551	OIJFJHOI_02027		
+PJ7551	OIJFJHOI_02028		16S ribosomal RNA
+PJ7551	OIJFJHOI_02028		
+PJ7551	OIJFJHOI_02029		tRNA-Glu(ttc)
+PJ7551	OIJFJHOI_02029		
+PJ7551	OIJFJHOI_02030	I0J991	ISSpn8 transposase
+PJ7551	OIJFJHOI_02031	A0A4J2BPQ8	Competence-specific sigma factor ComX
+PJ7551	OIJFJHOI_02032	Q8DNB8	Transcription antitermination protein NusG
+PJ7551	OIJFJHOI_02033	Q8DNB7	Protein translocase subunit SecE
+PJ7551	OIJFJHOI_02034	A0A4J1TLX0	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
+PJ7551	OIJFJHOI_02035	A0A4J1Y656	RluD-like protein
+PJ7551	OIJFJHOI_02036	Q8CWN6	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
+PJ7551	OIJFJHOI_02037	A0A822QCG0	ABC transporter%2C permease protein
+PJ7551	OIJFJHOI_02038	C1CGU6	IS630 family transposase IS630-Spn1
+PJ7551	OIJFJHOI_02039	B2IMJ1	Quinolinate phosphoribosyltransferase
+PJ7551	OIJFJHOI_02040	A0A0I6T6L4	Malonate permease
+PJ7551	OIJFJHOI_02041	A0A098ZDE6	hypothetical protein
+PJ7551	OIJFJHOI_02042	Q8DNB0	Transcriptional regulator%2C GntR family
+PJ7551	OIJFJHOI_02043	A0A6G2D9A4	6-phospho-beta-glucosidase
+PJ7551	OIJFJHOI_02044	A0A0B7LXA4	Cellobiose-specific PTS IIC component
+PJ7551	OIJFJHOI_02045	C1CA68	Cellobiose-specific PTS IIB component
+PJ7551	OIJFJHOI_02046	B2IMJ8	Cellobiose-specific PTS IIA component
+PJ7551	OIJFJHOI_02047	A0A6I3UAS0	Bifunctional acetaldehyde dehydrogenase/alcohol dehydrogenase
+PJ7551	OIJFJHOI_02048	Q8CY89	Hypothetical protein
+PJ7551	OIJFJHOI_02049	B2IMK1	Low molecular weight protein tyrosine phosphatase
+PJ7551	OIJFJHOI_02050	Q8DNA3	Preprotein translocase subunit YajC
+PJ7551	OIJFJHOI_02051	A0AAE4FX53	Transketolase
+PJ7551	OIJFJHOI_02052	Q8DNA1	Putative L-ascorbate-6-phosphate lactonase UlaG
+PJ7551	OIJFJHOI_02053	A0A0B7L261	Transcriptional antiterminator
+PJ7551	OIJFJHOI_02054	A0A0E8ZPA5	L-ribulose-5-phosphate 4-epimerase
+PJ7551	OIJFJHOI_02055	A0A4N9BTN3	L-xylulose 5-phosphate 3-epimerase
+PJ7551	OIJFJHOI_02056	C1CA80	3-keto-L-gulonate 6-phosphate decarboxylase
+PJ7551	OIJFJHOI_02057	Q8DN96	Ascorbate-specific PTS IIA component
+PJ7551	OIJFJHOI_02058	Q8DN95	Ascorbate-specific PTS IIB component
+PJ7551	OIJFJHOI_02059	C1CGW8	Ascorbate-specific PTS IIC component
+PJ7551	OIJFJHOI_02060	A0AA86Y0F9	Sakacin A production response regulator
+PJ7551	OIJFJHOI_02061	C1CGX0	KH domain RNA-binding protein
+PJ7551	OIJFJHOI_02062	C1CGX1	Inner membrane protein translocase component YidC2
+PJ7551	OIJFJHOI_02063	Q8DN92	Ribonuclease P protein component
+PJ7551	OIJFJHOI_02064	A0A0B7LVZ0	Acetate kinase
+PJ7551	OIJFJHOI_02065	B1I9A1	Adenine-specific methyltransferase
+PJ7551	OIJFJHOI_02066	A0A4K4JDW1	IS1381 transposase OrfA
+PJ7551	OIJFJHOI_02067	A0A4J1XB54	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_02068	C1CA93	hypothetical protein
+PJ7551	OIJFJHOI_02069	A0A6G2DCJ4	Late competence protein ComGG
+PJ7551	OIJFJHOI_02070	A0A4J1X2F7	Late competence protein ComGF
+PJ7551	OIJFJHOI_02071	A0A0B7KTY0	Late competence protein ComGE
+PJ7551	OIJFJHOI_02072	A0A5C8R1E2	Late competence protein ComGD
+PJ7551	OIJFJHOI_02073	C1CGY1	Late competence protein ComGC
+PJ7551	OIJFJHOI_02074	A0A0B7LZL4	Late competence protein ComGB
+PJ7551	OIJFJHOI_02075	A0A0B7M3Q7	Late competence protein ComGA
+PJ7551	OIJFJHOI_02076	Q8DN85	DNA-binding protein
+PJ7551	OIJFJHOI_02077	A0A0D6J6H1	Putative Zn-dependent alcohol dehydrogenase
+PJ7551	OIJFJHOI_02078	B2IMN1	N-acetylglucosamine-6-phosphate deacetylase
+PJ7551	OIJFJHOI_02079	A0A4J1TKD4	Acyltransferase family protein
+PJ7551	OIJFJHOI_02080	C1CN05	tRNA-guanine transglycosylase
+PJ7551	OIJFJHOI_02081	C1CGY9	Membrane protein
+PJ7551	OIJFJHOI_02082	A0A0D6J6G5	Pyrrolidone-carboxylate peptidase
+PJ7551	OIJFJHOI_02083	A0A4J2T1S7	Hypothetical protein
+PJ7551	OIJFJHOI_02084	A0A0B7L7P3	hypothetical protein
+PJ7551	OIJFJHOI_02085	A0A4J1TL47	Surface immunogenic protein
+PJ7551	OIJFJHOI_02086	B1I9B7	Hydrolase%2C haloacid dehalogenase-like family
+PJ7551	OIJFJHOI_02087	A0A0B7L696	Multi antimicrobial extrusion family transporter
+PJ7551	OIJFJHOI_02088	A0A4K3P8K1	Threonine synthase
+PJ7551	OIJFJHOI_02089	A0AA44S5K4	Hypothetical protein
+PJ7551	OIJFJHOI_02090		tRNA-Leu(caa)
+PJ7551	OIJFJHOI_02090		
+PJ7551	OIJFJHOI_02091		tRNA-Gln(ttg)
+PJ7551	OIJFJHOI_02091		
+PJ7551	OIJFJHOI_02092		tRNA-His(gtg)
+PJ7551	OIJFJHOI_02092		
+PJ7551	OIJFJHOI_02093		tRNA-Trp(cca)
+PJ7551	OIJFJHOI_02093		
+PJ7551	OIJFJHOI_02094		tRNA-Tyr(gta)
+PJ7551	OIJFJHOI_02094		
+PJ7551	OIJFJHOI_02095		tRNA-Phe(gaa)
+PJ7551	OIJFJHOI_02095		
+PJ7551	OIJFJHOI_02096		tRNA-Met(cat)
+PJ7551	OIJFJHOI_02096		
+PJ7551	OIJFJHOI_02097		tRNA-Ser(tga)
+PJ7551	OIJFJHOI_02097		
+PJ7551	OIJFJHOI_02098		tRNA-Ile(gat)
+PJ7551	OIJFJHOI_02098		
+PJ7551	OIJFJHOI_02099		tRNA-Gly(tcc)
+PJ7551	OIJFJHOI_02099		
+PJ7551	OIJFJHOI_02100		tRNA-Val(tac)
+PJ7551	OIJFJHOI_02100		
+PJ7551	OIJFJHOI_02101		5S ribosomal RNA
+PJ7551	OIJFJHOI_02101		
+PJ7551	OIJFJHOI_02102		23S ribosomal RNA
+PJ7551	OIJFJHOI_02102		
+PJ7551	OIJFJHOI_02103		tRNA-Ala(tgc)
+PJ7551	OIJFJHOI_02103		
+PJ7551	OIJFJHOI_02104		16S ribosomal RNA
+PJ7551	OIJFJHOI_02104		
+PJ7551	OIJFJHOI_02105		tRNA-Glu(ttc)
+PJ7551	OIJFJHOI_02105		
+PJ7551	OIJFJHOI_02106	Q8DN75	Cytidine/deoxycytidylate deaminase family protein
+PJ7551	OIJFJHOI_02107	A0A0B7LT42	Glutamyl-tRNA synthetase
+PJ7551	OIJFJHOI_02108	Q8DN74	Glucose-6-phosphate isomerase
+PJ7551	OIJFJHOI_02109	C1CH02	Glutamine amidotransferase%2C class I
+PJ7551	OIJFJHOI_02110	A0A4N9BWL3	Multidrug resistance ABC transporter ATP-binding and permease protein
+PJ7551	OIJFJHOI_02111	A0A4J2CCJ4	hypothetical protein
+PJ7551	OIJFJHOI_02112	A0A6G2D9P6	Multidrug resistance ABC transporter ATP-binding and permease protein
+PJ7551	OIJFJHOI_02113		patAB
+PJ7551	OIJFJHOI_02113		
+PJ7551	OIJFJHOI_02114	A0AA44MRE2	DNA mismatch repair protein HexA
+PJ7551	OIJFJHOI_02115		SpR10_sRNA
+PJ7551	OIJFJHOI_02115		
+PJ7551	OIJFJHOI_02116	P0A2Y3	Arginine pathway regulatory protein ArgR1
+PJ7551	OIJFJHOI_02117	C1CN25	Arginyl-tRNA synthetase
+PJ7551	OIJFJHOI_02118	C1CH09	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_02119	A0A4J2FCB4	hypothetical protein
+PJ7551	OIJFJHOI_02120	Q9S1J6	Two-component system response regulator PnpR
+PJ7551	OIJFJHOI_02121	Q8DN65	Two-component system sensor histidine kinase PnpS
+PJ7551	OIJFJHOI_02122	Q8DN64	Phosphate ABC transporter periplasmic phosphate-binding protein PstS1
+PJ7551	OIJFJHOI_02123	A0A0B7LEH3	Phosphate transport system permease protein PstC1
+PJ7551	OIJFJHOI_02124	Q9X4T2	Phosphate transport system permease protein PstA1
+PJ7551	OIJFJHOI_02125	A0A0E8A7S1	Phosphate transport ATP-binding protein PstB1
+PJ7551	OIJFJHOI_02126	P0A3Y8	Phosphate transport system regulatory protein PhoU1
+PJ7551	OIJFJHOI_02127	A0AAE9QUX7	IS1380 family transposase ISSpn5
+PJ7551	OIJFJHOI_02128	A0AA86JAG6	Transcriptional regulator
+PJ7551	OIJFJHOI_02129	A0A4H9F8C4	Transcriptional regulator
+PJ7551	OIJFJHOI_02130	C1CN37	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PJ7551	OIJFJHOI_02131	C1CH21	UTP--glucose-1-phosphate uridylyltransferase
+PJ7551	OIJFJHOI_02132	Q8DN57	Rhomboid family serine protease
+PJ7551	OIJFJHOI_02133	A0AAE4FVM0	5-formyltetrahydrofolate cyclo-ligase
+PJ7551	OIJFJHOI_02134	A0AA36VAD1	N-acetyl-L%2CL-diaminopimelate deacetylase
+PJ7551	OIJFJHOI_02135	A0AAD2KGA0	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+PJ7551	OIJFJHOI_02136	A0A4N2ZM94	Drug/metabolite transporter superfamily permease
+PJ7551	OIJFJHOI_02137	Q75YG9	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1B
+PJ7551	OIJFJHOI_02138	B5E3A7	Tyrosyl-tRNA synthetase
+PJ7551	OIJFJHOI_02139	B2IN19	Lead%2C cadmium%2C zinc and mercury transporting ATPase
+PJ7551	OIJFJHOI_02140	Q8CY77	Hypothetical protein
+PJ7551	OIJFJHOI_02141	B2IN21	23S rRNA (guanine(745)-N(1))-methyltransferase
+PJ7551	OIJFJHOI_02142	C1CH33	Hypothetical protein
+PJ7551	OIJFJHOI_02143	C1CH34	Hypothetical protein
+PJ7551	OIJFJHOI_02144	C1CH35	Maltodextrin phosphorylase
+PJ7551	OIJFJHOI_02145	P0A3Q1	4-alpha-glucanotransferase (amylomaltase)
+PJ7551	OIJFJHOI_02146	A0A0U0PMQ9	Maltose/maltodextrin ABC transporter%2C substrate binding periplasmic protein MalX
+PJ7551	OIJFJHOI_02147	A0A916PFC0	Maltose/maltodextrin ABC transporter%2C permease protein MalC
+PJ7551	OIJFJHOI_02148	C1CH39	Maltose/maltodextrin ABC transporter%2C permease protein MalD
+PJ7551	OIJFJHOI_02149	A0A0B7LGJ4	Maltodextrose utilization protein MalA
+PJ7551	OIJFJHOI_02150	C1CH41	Maltose operon transcriptional repressor MalR%2C LacI family
+PJ7551	OIJFJHOI_02151	A0A4J1S7W6	hypothetical protein
+PJ7551	OIJFJHOI_02152	C1CH43	Integral membrane protein
+PJ7551	OIJFJHOI_02153	A0A4F2V5F1	Aspartyl-tRNA synthetase
+PJ7551	OIJFJHOI_02154	A0A4J1Y8U4	Hypothetical protein
+PJ7551	OIJFJHOI_02155	Q8CY74	Hypothetical protein
+PJ7551	OIJFJHOI_02156	A0A0B7M1G4	Membrane-bound protease%2C CAAX family
+PJ7551	OIJFJHOI_02157	A0A4J1Z4T6	Hypothetical protein
+PJ7551	OIJFJHOI_02158	Q8CY71	Hypothetical protein
+PJ7551	OIJFJHOI_02159	C1CH50	Transcriptional regulator%2C Cro/CI family
+PJ7551	OIJFJHOI_02160	A0A6G2DME0	Hypothetical protein
+PJ7551	OIJFJHOI_02161	Q97NC9	Histidyl-tRNA synthetase
+PJ7551	OIJFJHOI_02162	A0A0H2USF0	Macrolide-efflux protein
+PJ7551	OIJFJHOI_02163	A0A4J1W5Q4	Positive transcriptional regulator%2C MutR family
+PJ7551	OIJFJHOI_02164	A0AAD2IL27	Positive transcriptional regulator%2C MutR family
+PJ7551	OIJFJHOI_02165	C1CH57	Putative aromatic ring hydroxylating enzyme
+PJ7551	OIJFJHOI_02166	A0A4G9UKC5	Hypothetical protein
+PJ7551	OIJFJHOI_02167	Q04I44	Dihydroxy-acid dehydratase
+PJ7551	OIJFJHOI_02168	A0A4J1XAA9	hypothetical protein
+PJ7551	OIJFJHOI_02169	Q8DN41	hypothetical protein
+PJ7551	OIJFJHOI_02170	A0A0H2USF7	Putative transport protein SgaT
+PJ7551	OIJFJHOI_02171	Q8CY69	Putative PTS IIB component
+PJ7551	OIJFJHOI_02172	A0A0H2URY8	Transcription antiterminator%2C BglG family
+PJ7551	OIJFJHOI_02173	C1CH65	Membrane protease family protein
+PJ7551	OIJFJHOI_02174	Q8CY67	Hypothetical protein
+PJ7551	OIJFJHOI_02175	A0A0E8Z1I8	LSU ribosomal protein L32p
+PJ7551	OIJFJHOI_02176	Q04I36	LSU ribosomal protein L33p
+PJ7551	OIJFJHOI_02177	A0AA44MPW8	Choline-binding protein CbpN
+PJ7551	OIJFJHOI_02178	C1CH70	hypothetical protein
+PJ7551	OIJFJHOI_02179	A0A4P0APR8	hypothetical protein
+PJ7551	OIJFJHOI_02180	A0A4H9F1S5	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_02181	A0A4P0A4H1	hypothetical protein
+PJ7551	OIJFJHOI_02182	A0A0E8ZGT0	Glycosyl hydrolase-related protein
+PJ7551	OIJFJHOI_02183	A0A4J2B0A4	N-acetylmannosamine kinase
+PJ7551	OIJFJHOI_02184	A0A4J2B2V0	Alpha-mannosidase
+PJ7551	OIJFJHOI_02185	A0A4L7UIN0	Hypothetical protein
+PJ7551	OIJFJHOI_02186	A0A4J2B3H0	Alpha-1%2C2-mannosidase
+PJ7551	OIJFJHOI_02187	A0A2U3RWG6	Glycosyl hydrolase family 29 alpha-L-fucosidase
+PJ7551	OIJFJHOI_02188	C1CAZ3	Arginine deiminase
+PJ7551	OIJFJHOI_02189	A0A0B7LE02	Ornithine carbamoyltransferase
+PJ7551	OIJFJHOI_02190	A0A0B7LJM3	Carbamate kinase
+PJ7551	OIJFJHOI_02191	B1I9W3	Arginine/ornithine antiporter ArcD
+PJ7551	OIJFJHOI_02192	A0A4J2B3B8	Putative Xaa-His dipeptidase
+PJ7551	OIJFJHOI_02193	A0A4J2EA28	IgA1 protease
+PJ7551	OIJFJHOI_02194	A0A0B7MDS5	hypothetical protein
+PJ7551	OIJFJHOI_02195	Q8DN26	Putative stomatin/prohibitin-family membrane protease subunit YbbK
+PJ7551	OIJFJHOI_02196	A0A4N2RRZ1	Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization
+PJ7551	OIJFJHOI_02197	A0A4J2AE55	Bifunctional L-fucose isomerase/D-arabinose ketol-isomerase
+PJ7551	OIJFJHOI_02198	A0A6I3U744	Fucolectin-related protein
+PJ7551	OIJFJHOI_02199	A0AA44MQQ7	IS1381 transposase OrfB
+PJ7551	OIJFJHOI_02200	A0A4J2CE28	hypothetical protein
+PJ7551	OIJFJHOI_02201	A0A0T8WEY9	Putative large secreted protein
+PJ7551	OIJFJHOI_02202	Q8DN22	Mannose-specific PTS IID component
+PJ7551	OIJFJHOI_02203	Q8DN21	Mannose-specific PTS IIC component
+PJ7551	OIJFJHOI_02204	C1CHG2	PTS IIB component
+PJ7551	OIJFJHOI_02205	A0A0T8CS56	PTS IIA component
+PJ7551	OIJFJHOI_02206	A0A0H2US10	L-fucose mutarotase
+PJ7551	OIJFJHOI_02207	Q8DN17	L-fuculose phosphate aldolase
+PJ7551	OIJFJHOI_02208	A0AA86MJP8	L-fuculokinase
+PJ7551	OIJFJHOI_02209	Q8DN15	L-fucose operon activator
+PJ7551	OIJFJHOI_02210		SpF66_sRNA
+PJ7551	OIJFJHOI_02210		
+PJ7551	OIJFJHOI_02211		SpF66_sRNA
+PJ7551	OIJFJHOI_02211		
+PJ7551	OIJFJHOI_02212	A0A6G2D9V9	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
+PJ7551	OIJFJHOI_02213	A0A0U0GQW9	Zinc ABC transporter%2C permease protein AdcB
+PJ7551	OIJFJHOI_02214	C1CHH0	Zinc ABC transporter%2C ATP-binding protein AdcC
+PJ7551	OIJFJHOI_02215	Q8DN14	Transcriptional repressor AdcR for Zn(2+)-responsive expression
+PJ7551	OIJFJHOI_02216	B1I9Y5	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+PJ7551	OIJFJHOI_02217	Q04HZ9	D-alanine--poly(phosphoribitol) ligase subunit 2
+PJ7551	OIJFJHOI_02218	A0A0B7LC24	D-alanyl transfer protein DltB
+PJ7551	OIJFJHOI_02219	A0AA36PXD1	D-alanine--poly(phosphoribitol) ligase subunit 1
+PJ7551	OIJFJHOI_02220	A0A0H2XDR9	Macrolide-efflux protein
+PJ7551	OIJFJHOI_02221	A0A6I3UYW1	Macrolide-efflux protein
+PJ7551	OIJFJHOI_02222		Intron_gpII
+PJ7551	OIJFJHOI_02222		
+PJ7551	OIJFJHOI_02223	A0AA86YBP6	hypothetical protein
+PJ7551	OIJFJHOI_02224		group-II-D1D4-1
+PJ7551	OIJFJHOI_02224		
+PJ7551	OIJFJHOI_02225		group-II-D1D4-3
+PJ7551	OIJFJHOI_02225		
+PJ7551	OIJFJHOI_02226	A0A4J1NJ06	hypothetical protein
+PJ7551	OIJFJHOI_02227	B1I9Z2	Hypothetical protein
+PJ7551	OIJFJHOI_02228	A0A0H2ZPJ9	Glycerol uptake facilitator protein
+PJ7551	OIJFJHOI_02229	B2INK4	Alpha-glycerophosphate oxidase
+PJ7551	OIJFJHOI_02230	Q04HZ0	Glycerol kinase
+PJ7551	OIJFJHOI_02231	A0A6G2DV20	Trans-acting positive regulator
+PJ7551	OIJFJHOI_02232	B5E3S9	Chaperonin%2C heat shock protein 33
+PJ7551	OIJFJHOI_02233	C1CBG5	tRNA dihydrouridine synthase B
+PJ7551	OIJFJHOI_02234	F2WWL6	hypothetical protein
+PJ7551	OIJFJHOI_02235	Q8DN04	Rhomboid family integral membrane protein
+PJ7551	OIJFJHOI_02236	A0A0B7LVS3	Two-component system sensor histidine kinase
+PJ7551	OIJFJHOI_02237	A0A0B7M3U6	Two-component system response regulator
+PJ7551	OIJFJHOI_02238	A0A4J1Q2B9	ATP-dependent Clp protease ATP-binding subunit ClpC
+PJ7551	OIJFJHOI_02239	C1CBH3	Transcriptional regulator CtsR
+PJ7551	OIJFJHOI_02240	Q8DMZ8	Thiamin ABC transporter ThiZ%2C ATPase component
+PJ7551	OIJFJHOI_02241	Q8DMZ7	Thiamin ABC transporter ThiY%2C substrate-binding component
+PJ7551	OIJFJHOI_02242	C1CHJ8	Thiamin ABC transporter ThiX%2C transmembrane component
+PJ7551	OIJFJHOI_02243	Q8DMZ5	Cytoplasmic thiamin-binding component of thiamin ABC transporter
+PJ7551	OIJFJHOI_02244		TPP
+PJ7551	OIJFJHOI_02244		
+PJ7551	OIJFJHOI_02245	B2INL9	Choline-binding protein D
+PJ7551	OIJFJHOI_02246	Q8DMZ3	Hypothetical protein
+PJ7551	OIJFJHOI_02247	Q8DMZ2	Replicative DNA helicase DnaC
+PJ7551	OIJFJHOI_02248	Q04HX2	LSU ribosomal protein L9p
+PJ7551	OIJFJHOI_02249	C1CHK4	DHH family phosphoesterase Pde1
+PJ7551	OIJFJHOI_02250	Q8DMZ0	Ribosome hibernation promotion factor%2C long form
+PJ7551	OIJFJHOI_02251	A0A4J1V8N3	Phosphoribosyltransferase domain protein%2C ComF operon protein C
+PJ7551	OIJFJHOI_02252	A0AAD2IK03	DNA transporter ATPase%2C ComF operon protein A
+PJ7551	OIJFJHOI_02253	A0AA95DD47	Protein co-occurring with transport systems
+PJ7551	OIJFJHOI_02254	Q8DMY8	Cysteine synthase
+PJ7551	OIJFJHOI_02255	A0A0T7JR70	hypothetical protein
+PJ7551	OIJFJHOI_02256	A0A0H2XDT2	IS630 family transposase ISSpn2
+PJ7551	OIJFJHOI_02257		SpF51_sRNA
+PJ7551	OIJFJHOI_02257		
+PJ7551	OIJFJHOI_02258	Q04HW4	Translation elongation factor Ts
+PJ7551	OIJFJHOI_02259	C1CUD2	SSU ribosomal protein S2p (SAe)
+PJ7551	OIJFJHOI_02260	C1CHL5	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
+PJ7551	OIJFJHOI_02261	C1CHL6	Cell shape-determining protein MreD
+PJ7551	OIJFJHOI_02262	A0AA36PYX2	Cell shape-determining protein MreC
+PJ7551	OIJFJHOI_02263	Q8DMY1	Transmembrane component of general energizing module of ECF transporter
+PJ7551	OIJFJHOI_02264	A0A0B7LWS7	ATPase component of general energizing module of ECF transporter
+PJ7551	OIJFJHOI_02265	C1CHM0	ATPase component of general energizing module of ECF transporter
+PJ7551	OIJFJHOI_02266	Q8DMX8	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+PJ7551	OIJFJHOI_02267	C1CBK0	Transcriptional regulator
+PJ7551	OIJFJHOI_02268	A0A4J1Z9Q4	Peptidase%2C M16 family
+PJ7551	OIJFJHOI_02269	A0A064BXD9	Zinc protease
+PJ7551	OIJFJHOI_02270	Q8DMX4	Hypothetical protein
+PJ7551	OIJFJHOI_02271	Q97N44	DNA recombination and repair protein RecF
+PJ7551	OIJFJHOI_02272	Q8DMX2	Inosine-5'-monophosphate dehydrogenase
+PJ7551	OIJFJHOI_02273	C1CHM8	Tryptophanyl-tRNA synthetase
+PJ7551	OIJFJHOI_02274	Q8DMX1	ABC transporter%2C ATP-binding protein
+PJ7551	OIJFJHOI_02275	A0A0E8Z3G5	ABC transporter%2C permease protein
+PJ7551	OIJFJHOI_02276	A0A4J2GDW5	IS3 family transposase ISSpn11
+PJ7551	OIJFJHOI_02277	A0AA95IJZ2	hypothetical protein
+PJ7551	OIJFJHOI_02278	A0A064C567	hypothetical protein
+PJ7551	OIJFJHOI_02279	C1CDJ6	IS3 family transposase ISSpn11
+PJ7551	OIJFJHOI_02280	A0A4J1URD3	hypothetical protein
+PJ7551	OIJFJHOI_02281	Q8DMW7	hypothetical protein
+PJ7551	OIJFJHOI_02282	Q8DMW6	Transcriptional regulator%2C AcrR family
+PJ7551	OIJFJHOI_02283		tRNA-Asn(gtt)
+PJ7551	OIJFJHOI_02283		
+PJ7551	OIJFJHOI_02284		tRNA-Glu(ttc)
+PJ7551	OIJFJHOI_02284		
+PJ7551	OIJFJHOI_02285	Q8DMW5	Two-component system response regulator ComE
+PJ7551	OIJFJHOI_02286	Q8DMW4	Two-component system sensor histidine kinase ComD
+PJ7551	OIJFJHOI_02287	Q5QIA8	Competence-stimulating peptide precursor ComC
+PJ7551	OIJFJHOI_02288		tRNA-Arg(tct)
+PJ7551	OIJFJHOI_02288		
+PJ7551	OIJFJHOI_02289	Q04HU2	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
+PJ7551	OIJFJHOI_02290	B2IP00	Serine protease%2C DegP/HtrA
+PJ7551	OIJFJHOI_02291	Q8DMW1	Chromosome partitioning protein ParB
+PJ7551	OIJFJHOI_02292	O08397	Chromosomal replication initiator protein DnaA
+PJ7551	OIJFJHOI_02293	A0A4M3JGA0	DNA polymerase III beta subunit

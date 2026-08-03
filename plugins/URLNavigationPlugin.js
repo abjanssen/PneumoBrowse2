@@ -114,16 +114,19 @@
       /*
        * UniProt accessions are deliberately kept out of the main Trix
        * index, so they never show up in JBrowse's own search box. Instead,
-       * for each assembly we look for a JSON file at
-       * "trix/uniprot_map/uniprot_map_<assembly, punctuation stripped but
-       * case preserved>.json" (relative to config.json), shaped as:
+       * for each assembly we look for a TSV file at
+       * "trix/uniprot_map/uniprot_locus_map_<assembly, punctuation
+       * stripped but case preserved>.tsv" (relative to config.json), with
+       * columns:
        *
-       *   [{ "uniprot": "P12345", "locus": "SPV_1234" }, ...]
+       *   strain  locus_tag  uniprot  product
        *
-       * e.g. assembly "M264-3" -> "trix/uniprot_map/uniprot_map_M2643.json".
-       * This matches the naming produced by the accompanying
-       * map-generation script, which strips "/" and "-" from the assembly
-       * name but does not change letter case.
+       * e.g. assembly "M264-3" ->
+       * "trix/uniprot_map/uniprot_locus_map_M2643.tsv". This matches the
+       * naming produced by the accompanying map-generation script, which
+       * strips "/" and "-" from the assembly name but does not change
+       * letter case. Only the "locus_tag" and "uniprot" columns are used
+       * here; "product" is ignored for lookup purposes.
        *
        * This plugin loads that file only for its own URL-driven lookups,
        * translating a UniProt accession to its locus tag before handing
@@ -136,7 +139,7 @@
           const configUrl = getConfigUrl()
           const filenameStrain = stripPunctuationPreserveCase(searchstrain)
           const mapUrl = resolveUri(
-            `trix/uniprot_map/uniprot_map_${filenameStrain}.json`,
+            `trix/uniprot_map/uniprot_locus_map_${filenameStrain}.tsv`,
             configUrl,
           )
 
@@ -148,17 +151,30 @@
                   return null
                 }
 
-                return response.json()
+                return response.text()
               })
-              .then(entries => {
-                if (!Array.isArray(entries)) {
+              .then(tsvText => {
+                if (typeof tsvText !== 'string') {
                   return null
                 }
 
                 const map = new Map()
-                entries.forEach(entry => {
-                  if (entry?.uniprot && entry?.locus) {
-                    map.set(normalizeKey(entry.uniprot), entry.locus)
+                const lines = tsvText.split(/\r?\n/)
+
+                // First line is the header (strain, locus_tag, uniprot,
+                // product); skip it explicitly rather than assuming a
+                // fixed line count, in case of blank trailing lines.
+                lines.forEach(line => {
+                  if (!line || line.startsWith('strain\t')) {
+                    return
+                  }
+
+                  const columns = line.split('\t')
+                  const locus = columns[1]
+                  const uniprot = columns[2]
+
+                  if (uniprot && locus) {
+                    map.set(normalizeKey(uniprot), locus)
                   }
                 })
 
