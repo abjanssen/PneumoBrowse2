@@ -9,6 +9,9 @@
 
     configure(pluginManager) {
       const { when } = pluginManager.jbrequire('mobx')
+      const { readConfObject } = pluginManager.jbrequire('@jbrowse/core/configuration',)
+      const { SimpleFeature } = pluginManager.jbrequire('@jbrowse/core/util',)
+
       const sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
       const trixIndexCache = new Map()
       const resolveUri = (uri, baseUrl) => new URL(uri, baseUrl).href
@@ -440,30 +443,61 @@
             resolvedStrain,
           )
 
+          let resolvedLocation
+        
           try {
-            await view.navToLocString(
+            resolvedLocation = await findTrixLocation(
               resolvedSearchstring,
               resolvedStrain,
-              0.2
             )
-          } catch (locationError) {
+        
+            await view.navToLocString(
+              resolvedLocation,
+              resolvedStrain,
+              0.2,
+            )
+          } catch (trixError) {
             try {
-              const trixLocation = await findTrixLocation(
-                resolvedSearchstring,
-                resolvedStrain,
-              )
-
+              // Allows direct coordinate input such as D39V:1000..2000.
+              resolvedLocation = resolvedSearchstring
+        
               await view.navToLocString(
-                trixLocation,
+                resolvedLocation,
                 resolvedStrain,
-                0.2
+                0.2,
               )
-            } catch (searchError) {
-              session.notify?.(`${searchError}`, 'error')
-              return
+            } catch (locationError) {
+              session.notify?.(`${trixError}`, 'error')
+               return
             }
           }
           await scrollViewIntoCentre(view)
+          
+          /// BLOCK FOR GENE INFO STARTS HERE ///
+          const sessionId = session.id
+          const expectedTrackId = resolvedStrain === 'D39V' ? 'D39V_annotation_coding_features_sorted.gff' : `${resolvedStrain}_sorted.gff`
+          const trackConfig = session.tracks.find(track => track.trackId === expectedTrackId)
+          const trackId = trackConfig.trackId
+          const targetView = session.views.find(view => view.type === 'LinearGenomeView' && view.assemblyNames?.includes(resolvedStrain))
+          const liveTrack = targetView.getTrack?.(trackId) || targetView.tracks.find(track => track.configuration?.trackId === trackId)
+          const adapterConfig = readConfObject(trackConfig, 'adapter')
+          const rpcManager = session.rpcManager
+          const locationMatch = resolvedLocation.match(/^([^:]+):([\d,]+)\.\.([\d,]+)$/)
+          const [, refName, startText, endText] = locationMatch
+          const queryRegion = {
+            refName,
+            start: Number(startText.replaceAll(',', '')) - 1,
+            end: Number(endText.replaceAll(',', '')),
+            assemblyName: resolvedStrain,
+          }
+          const rawFeatures = await rpcManager.call(sessionId, 'CoreGetFeatures', { sessionId, adapterConfig, regions: [queryRegion] })
+          const features = (rawFeatures || []).map(feature => typeof feature?.get === 'function' ? feature : new SimpleFeature(feature))
+          const normalizedSearch = normalizeKey(resolvedSearchstring)
+          const targetFeature = features.find(feature => [feature.get('locus_tag'), feature.get('Name'), feature.get('name'), ...(String(feature.get('alias') || '').split(',').map(value => value.trim()))].filter(Boolean).some(value => normalizeKey(value) === normalizedSearch))
+          const featureDisplay = liveTrack.displays.find(display => typeof display.selectFeature === 'function')
+          await featureDisplay.selectFeature(targetFeature)
+          /// BLOCK FOR GENE INFO ENDS HERE ///
+
           url.searchParams.delete('searchstring')
           url.searchParams.delete('searchstrain')
 
