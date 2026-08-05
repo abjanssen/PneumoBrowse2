@@ -335,8 +335,16 @@
           const session = pluginManager.rootModel.session
 
           const url = new URL(window.location.href)
-          const searchstring = url.searchParams.get('searchstring')
-          const searchstrain = url.searchParams.get('searchstrain')
+          
+          const uniprotinput = url.searchParams.get("uniprotsearch");
+          let searchstring;
+          let searchstrain;
+          if (uniprotinput) {
+              [searchstrain, searchstring] = uniprotinput.split(":");
+          } else {
+              searchstring = url.searchParams.get("searchstring");
+              searchstrain = url.searchParams.get("searchstrain");
+          }
 
           if (!searchstring && !searchstrain) {
             return
