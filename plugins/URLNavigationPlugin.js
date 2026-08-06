@@ -112,6 +112,39 @@
       const stripPunctuationPreserveCase = value =>
         String(value).trim().replace(/[^a-zA-Z0-9]/g, '')
 
+      /*
+       * The on-disk trackId prefix for a handful of strains does NOT
+       * follow a single consistent punctuation rule (some strip
+       * punctuation entirely, some substitute "_", one even keeps its
+       * "-"). Rather than guess a formula, this is an explicit lookup
+       * table from normalizeKey(any input form of the strain name) to
+       * the real trackId prefix on disk, e.g.:
+       *
+       *   "4954-98" or "495498"                              -> "4954-98"
+       *   "M264-3" or "M2643"                                 -> "M2643"
+       *   "PJ755/1" or "PJ7551"                                -> "PJ7551"
+       *   "Spn1439-106" or "Spn1439106"                        -> "Spn1439-106"
+       *   "TL7/1993" or "TL7_1993" or "TL71993"                -> "TL7_1993"
+       *   "LILPNEUHC 19F" or "LILPNEUHC_19F" or "LILPNEUHC19F" -> "LILPNEUHC_19F"
+       *
+       * Any strain not listed here falls back to
+       * stripPunctuationPreserveCase(resolvedStrain), which already
+       * matches the trackId prefix for every other strain (e.g. TIGR4,
+       * BHN418, D39V, etc. -- those have no punctuation to begin with).
+       */
+      const TRACK_ID_PREFIX_OVERRIDES = new Map([
+        ['4954-98', '4954-98'],
+        ['M264-3', 'M2643'],
+        ['PJ755/1', 'PJ7551'],
+        ['Spn1439-106', 'Spn1439-106'],
+        ['TL7/1993', 'TL7_1993'],
+        ['LILPNEUHC 19F', 'LILPNEUHC_19F'],
+      ].map(([input, output]) => [normalizeKey(input), output]))
+
+      const getTrackIdPrefix = resolvedStrain =>
+        TRACK_ID_PREFIX_OVERRIDES.get(normalizeKey(resolvedStrain)) ||
+        stripPunctuationPreserveCase(resolvedStrain)
+
       const uniprotMapCache = new Map()
 
       /*
@@ -122,13 +155,13 @@
        * stripped but case preserved>.tsv" (relative to config.json), with
        * columns:
        *
-       *   strain  locus_tag  uniprot  product
+       *   uniprot  locus_tag  product
        *
        * e.g. assembly "M264-3" ->
        * "trix/uniprot_map/uniprot_locus_map_M2643.tsv". This matches the
        * naming produced by the accompanying map-generation script, which
        * strips "/" and "-" from the assembly name but does not change
-       * letter case. Only the "locus_tag" and "uniprot" columns are used
+       * letter case. Only the "uniprot" and "locus_tag" columns are used
        * here; "product" is ignored for lookup purposes.
        *
        * This plugin loads that file only for its own URL-driven lookups,
@@ -164,17 +197,17 @@
                 const map = new Map()
                 const lines = tsvText.split(/\r?\n/)
 
-                // First line is the header (strain, locus_tag, uniprot,
-                // product); skip it explicitly rather than assuming a
-                // fixed line count, in case of blank trailing lines.
+                // First line is the header (uniprot, locus_tag, product);
+                // skip it explicitly rather than assuming a fixed line
+                // count, in case of blank trailing lines.
                 lines.forEach(line => {
-                  if (!line || line.startsWith('strain\t')) {
+                  if (!line || line.startsWith('uniprot\t')) {
                     return
                   }
 
                   const columns = line.split('\t')
+                  const uniprot = columns[0]
                   const locus = columns[1]
-                  const uniprot = columns[2]
 
                   if (uniprot && locus) {
                     map.set(normalizeKey(uniprot), locus)
@@ -338,8 +371,8 @@
           const session = pluginManager.rootModel.session
 
           const url = new URL(window.location.href)
-          
-          const uniprotinput = url.searchParams.get("uniprotsearch");
+
+          const uniprotinput = url.searchParams.get("searchstrainstring");
           let searchstring;
           let searchstrain;
           if (uniprotinput) {
@@ -444,13 +477,13 @@
           )
 
           let resolvedLocation
-        
+
           try {
             resolvedLocation = await findTrixLocation(
               resolvedSearchstring,
               resolvedStrain,
             )
-        
+
             await view.navToLocString(
               resolvedLocation,
               resolvedStrain,
@@ -460,7 +493,7 @@
             try {
               // Allows direct coordinate input such as D39V:1000..2000.
               resolvedLocation = resolvedSearchstring
-        
+
               await view.navToLocString(
                 resolvedLocation,
                 resolvedStrain,
@@ -472,10 +505,12 @@
             }
           }
           await scrollViewIntoCentre(view)
-          
+
           /// BLOCK FOR GENE INFO STARTS HERE ///
           const sessionId = session.id
-          const expectedTrackId = resolvedStrain === 'D39V' ? 'D39V_annotation_coding_features_sorted.gff' : `${resolvedStrain}_sorted.gff`
+          const expectedTrackId = resolvedStrain === 'D39V'
+            ? 'D39V_annotation_coding_features_sorted.gff'
+            : `${getTrackIdPrefix(resolvedStrain)}_sorted.gff`
           const trackConfig = session.tracks.find(track => track.trackId === expectedTrackId)
           const trackId = trackConfig.trackId
           const targetView = session.views.find(view => view.type === 'LinearGenomeView' && view.assemblyNames?.includes(resolvedStrain))
@@ -497,9 +532,6 @@
           const featureDisplay = liveTrack.displays.find(display => typeof display.selectFeature === 'function')
           await featureDisplay.selectFeature(targetFeature)
           /// BLOCK FOR GENE INFO ENDS HERE ///
-
-          url.searchParams.delete('searchstring')
-          url.searchParams.delete('searchstrain')
 
           window.history.replaceState(null, '', url)
         } catch (error) {
