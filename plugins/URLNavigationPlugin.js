@@ -533,7 +533,7 @@
           await featureDisplay.selectFeature(targetFeature)
           /// BLOCK FOR GENE INFO ENDS HERE ///
 
-          window.history.replaceState(null, '', url)
+          window.history.pushState(null, '', url)
         } catch (error) {
           const session = pluginManager.rootModel?.session
           session?.notify?.(
