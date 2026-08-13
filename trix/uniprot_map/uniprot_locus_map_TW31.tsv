@@ -15,18 +15,10 @@ C1CNP4	EDBIKKDI_00013	tRNA(Ile)-lysidine synthetase TilS
 C1C993	EDBIKKDI_00014	Hypoxanthine-guanine phosphoribosyltransferase
 P59652	EDBIKKDI_00015	Cell division protein FtsH
 Q9R2W8	EDBIKKDI_00016	Competence-specific sigma factor ComX
-	EDBIKKDI_00017	tRNA-Glu(ttc)
-	EDBIKKDI_00018	16S ribosomal RNA
-	EDBIKKDI_00019	tRNA-Ala(tgc)
-	EDBIKKDI_00020	23S ribosomal RNA
-	EDBIKKDI_00021	5S ribosomal RNA
-	EDBIKKDI_00022	tRNA-Asn(gtt)
 A0A0B7KRB2	EDBIKKDI_00023	IS1167 transposase Orf1
 A0A5R9AWI2	EDBIKKDI_00024	Competence positive regulator ComW
 C1CHA1	EDBIKKDI_00025	Adenylosuccinate synthetase
-	EDBIKKDI_00026	csRNA
 A0A4F2S2H4	EDBIKKDI_00027	tRNA-specific adenosine-34 deaminase
-	EDBIKKDI_00028	Bacteria_small_SRP
 Q8DRP2	EDBIKKDI_00029	Deoxyuridine 5'-triphosphate nucleotidohydrolase
 Q8DRP1	EDBIKKDI_00030	Hypothetical protein
 A0A916P522	EDBIKKDI_00031	DNA repair protein RadA
@@ -34,7 +26,6 @@ C1CHC1	EDBIKKDI_00032	Carbonic anhydrase
 C1C9S3	EDBIKKDI_00033	hypothetical protein
 B2IR17	EDBIKKDI_00034	Ribose-phosphate pyrophosphokinase
 A0A0U0IDH7	EDBIKKDI_00035	hypothetical protein
-	EDBIKKDI_00036	Srn266
 A0AA87C4M3	EDBIKKDI_00037	hypothetical protein
 A0A0B7M9C2	EDBIKKDI_00038	hypothetical protein
 A0AA86Y2T4	EDBIKKDI_00039	DNA polymerase I
@@ -83,7 +74,6 @@ A0A7X3BZ34	EDBIKKDI_00081	Cell wall surface anchor family protein PavB
 B2IRG2	EDBIKKDI_00082	Two-component system response regulator
 Q9S1J1	EDBIKKDI_00083	Two-component system sensor histidine kinase
 Q04MZ3	EDBIKKDI_00084	SSU ribosomal protein S4p (S9e)
-	EDBIKKDI_00085	SpF01_sRNA
 A0A0B7LLV1	EDBIKKDI_00086	Hypothetical protein
 A0AA86XNR3	EDBIKKDI_00087	Hypothetical protein
 Q8DRJ8	EDBIKKDI_00088	Multiple sugar ABC transporter%2C membrane-spanning permease protein
@@ -114,10 +104,7 @@ A0AA87C5C8	EDBIKKDI_00112	Amino acid ABC transporter membrane-spanning permease
 Q8DRI7	EDBIKKDI_00113	ABC transporter ATP-binding protein
 B2IRI9	EDBIKKDI_00114	Amino acid ABC transporter substrate-binding/permease protein
 A0A0B7LZ46	EDBIKKDI_00115	Argininosuccinate synthase
-	EDBIKKDI_00116	Bacilli-1
-	EDBIKKDI_00116	
 A0AA87C9H1	EDBIKKDI_00117	Hypothetical protein
-	EDBIKKDI_00118	SpF03_sRNA
 B2IRJ1	EDBIKKDI_00119	Hypothetical protein
 A0A9P1LV03	EDBIKKDI_00120	Lactococcin-G-processing and transport ATP-binding protein LagD
 A0A4F8JWC9	EDBIKKDI_00121	hypothetical protein
@@ -131,14 +118,9 @@ A0AA87C4I5	EDBIKKDI_00128	Hypothetical protein
 A0AA87C7T3	EDBIKKDI_00129	Hypothetical protein
 A0AA87C5J9	EDBIKKDI_00130	Hypothetical protein
 A0A4J1QTX9	EDBIKKDI_00131	Pyridoxamine 5'-phosphate oxidase
-	EDBIKKDI_00132	SpF03_sRNA
-	EDBIKKDI_00133	Bacilli-1
-	EDBIKKDI_00133	
 A0AA86Y2K6	EDBIKKDI_00134	hypothetical protein
 A0A4J2G7C5	EDBIKKDI_00135	hypothetical protein
 A0AA86XD06	EDBIKKDI_00136	tRNA-specific 2-thiouridylase MnmA
-	EDBIKKDI_00137	Spd-sr37
-	EDBIKKDI_00137	
 A0A0B7L8K0	EDBIKKDI_00138	MutT/Nudix family protein
 Q97T36	EDBIKKDI_00139	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 Q8DRH7	EDBIKKDI_00140	Ribonuclease J1 (endonuclease and 5' exonuclease)
@@ -151,7 +133,6 @@ B1I842	EDBIKKDI_00146	Ribosomal-protein-S18p-alanine acetyltransferase
 C1CP14	EDBIKKDI_00147	N(6)-L-threonylcarbamoyladenine synthase TsaD
 A0A0E7ZP93	EDBIKKDI_00148	IS1167 transposase Orf2
 A0AA36PIF3	EDBIKKDI_00149	IS1167 transposase
-	EDBIKKDI_00150	Srn266
 A0AA86Y2L2	EDBIKKDI_00151	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 B2IRL7	EDBIKKDI_00152	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 A0A4L1JLT3	EDBIKKDI_00153	Family 2 glycosyltransferase
@@ -189,7 +170,6 @@ Q04MR3	EDBIKKDI_00184	6%2C7-dimethyl-8-ribityllumazine synthase RibH
 A0AA86YD39	EDBIKKDI_00185	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
 A0AA86XQ21	EDBIKKDI_00186	Riboflavin synthase RibE
 A0AA87CAT9	EDBIKKDI_00187	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
-	EDBIKKDI_00188	FMN
 C1CP48	EDBIKKDI_00189	Holliday junction DNA helicase RuvA
 A0A0B7M4M9	EDBIKKDI_00190	DNA-3-methyladenine glycosylase
 Q8DRE7	EDBIKKDI_00191	CAAX amino terminal protease family protein
@@ -257,10 +237,8 @@ Q04ML3	EDBIKKDI_00252	SSU ribosomal protein S13p (S18e)
 Q04ML2	EDBIKKDI_00253	SSU ribosomal protein S11p (S14e)
 Q04ML1	EDBIKKDI_00254	DNA-directed RNA polymerase alpha subunit
 Q8CWU8	EDBIKKDI_00255	LSU ribosomal protein L17p
-	EDBIKKDI_00256	L17DE
 C1CC34	EDBIKKDI_00257	ACT domain-containing transcriptional regulator
 Q8DRD2	EDBIKKDI_00258	hypothetical protein
-	EDBIKKDI_00259	csRNA
 B1I8M8	EDBIKKDI_00260	Phosphoglycerate mutase family protein
 A0AA86XQP8	EDBIKKDI_00261	Iron(III)-transport system permease protein SfuB
 A0AA86XHZ9	EDBIKKDI_00262	Iron(III)-transport system permease protein SfuB
@@ -281,12 +259,9 @@ C1CPD0	EDBIKKDI_00276	Leucyl-tRNA synthetase
 B1I8Y3	EDBIKKDI_00277	hypothetical protein
 B1I8Y4	EDBIKKDI_00278	Acetyltransferase%2C GNAT family
 B1I8Y5	EDBIKKDI_00279	Acetyltransferase%2C GNAT family
-	EDBIKKDI_00280	csRNA
-	EDBIKKDI_00281	csRNA
 Q8CWU7	EDBIKKDI_00282	Holliday junction DNA helicase RuvB
 A0A0B7LYW5	EDBIKKDI_00283	Hypothetical protein
 A0A9P1PBI0	EDBIKKDI_00284	Hypothetical protein
-	EDBIKKDI_00285	csRNA
 Q8DRB3	EDBIKKDI_00286	Undecaprenyl diphosphate synthase
 C1CB37	EDBIKKDI_00287	Phosphatidate cytidylyltransferase
 Q8DRB1	EDBIKKDI_00288	Intramembrane protease Eep
@@ -318,7 +293,6 @@ A0AA87C6T3	EDBIKKDI_00313	Bifunctional dihydrofolate synthase/folylpolyglutamate
 C1CPG4	EDBIKKDI_00314	GTP cyclohydrolase I type 1
 A0A0U0KYZ2	EDBIKKDI_00315	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 Q8CZ79	EDBIKKDI_00316	Hypothetical protein
-	EDBIKKDI_00317	L13_leader
 Q8CWU5	EDBIKKDI_00318	LSU ribosomal protein L13p (L13Ae)
 Q97SN4	EDBIKKDI_00319	SSU ribosomal protein S9p (S16e)
 A0A853PLB6	EDBIKKDI_00320	Tyrosine recombinase XerC
@@ -342,10 +316,7 @@ A0A916L5V5	EDBIKKDI_00337	Hypothetical protein
 C1CB88	EDBIKKDI_00338	Cellobiose-specific PTS IIC component
 Q8CZ76	EDBIKKDI_00339	Hypothetical protein
 A0A0B7LX26	EDBIKKDI_00340	hypothetical protein
-	EDBIKKDI_00341	SpF10_sRNA
-	EDBIKKDI_00341	
 A0AA87CBT5	EDBIKKDI_00342	Maltodextrin glucosidase
-	EDBIKKDI_00343	SpF11_sRNA
 A0AA87CGK9	EDBIKKDI_00344	Glutathione peroxidase family protein
 M4YR67	EDBIKKDI_00345	Hyaluronate lyase precursor SpnHL
 A0AA95DAT1	EDBIKKDI_00346	IS200/IS605 family transposase ISStin10
@@ -397,7 +368,6 @@ Q75YL8	EDBIKKDI_00391	Multimodular transpeptidase-transglycosylase%2C penicillin
 T2BR99	EDBIKKDI_00392	RecU Holliday junction resolvase
 A0A0E8LBN5	EDBIKKDI_00393	Hypothetical protein
 C1CPN9	EDBIKKDI_00394	Cell division protein GpsB
-	EDBIKKDI_00395	RNaseP_bact_b
 A0A916L4N7	EDBIKKDI_00396	23S rRNA (guanine(2445)-N(2))-methyltransferase
 A0AA86XCW6	EDBIKKDI_00397	Mid-cell-anchored protein Z
 A0AA86Y7E2	EDBIKKDI_00398	6-phosphogluconate dehydrogenase%2C decarboxylating
@@ -424,7 +394,6 @@ A0AA87C4H5	EDBIKKDI_00418	Ribonuclease HIII
 C1CCH1	EDBIKKDI_00419	Z-ring positive regulator ZapA
 C1C5E3	EDBIKKDI_00420	Z-ring positive regulator ZapB
 C1CPR7	EDBIKKDI_00421	Recombination inhibitory protein MutS2
-	EDBIKKDI_00422	Glycine
 A0AA87CGC4	EDBIKKDI_00423	Sodium/glycine symporter GlyP
 Q8DR24	EDBIKKDI_00424	Macrophage infectivity potentiator protein
 A0A916P581	EDBIKKDI_00425	Exfoliative toxin A
@@ -472,7 +441,6 @@ Q04M23	EDBIKKDI_00466	Undecaprenyl-diphosphatase
 A0A0T9I448	EDBIKKDI_00467	DNA polymerase IV
 B1I9Q0	EDBIKKDI_00468	Pyruvate formate-lyase
 A0A9P1PEP5	EDBIKKDI_00469	IS1167 transposase
-	EDBIKKDI_00470	Srn266
 B1I9Q2	EDBIKKDI_00471	hypothetical protein
 A7KT38	EDBIKKDI_00472	hypothetical protein
 A7KT39	EDBIKKDI_00473	hypothetical protein
@@ -483,7 +451,6 @@ A7KT36	EDBIKKDI_00477	hypothetical protein
 A0AA95IJ56	EDBIKKDI_00478	IS1167 transposase
 A0AA95D7A8	EDBIKKDI_00479	hypothetical protein
 C1C9F2	EDBIKKDI_00480	IS1167 transposase Orf1
-	EDBIKKDI_00481	Srn266
 A0A0T8UQK3	EDBIKKDI_00482	hypothetical protein
 A0A0U0DZP2	EDBIKKDI_00483	Hypothetical protein
 A0A0T9I2B2	EDBIKKDI_00484	Hypothetical protein
@@ -500,9 +467,7 @@ Q97SA4	EDBIKKDI_00494	Substrate-specific component MtsA of methionine-regulated 
 B2IM89	EDBIKKDI_00495	Hypothetical protein
 A0A0E7TIQ9	EDBIKKDI_00496	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 C1CCN3	EDBIKKDI_00497	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
-	EDBIKKDI_00498	23S-methyl
 A0A0B7MF90	EDBIKKDI_00499	tRNA (cytidine(34)-2'-O)-methyltransferase
-	EDBIKKDI_00500	FMN
 A0AA86XGY0	EDBIKKDI_00501	Substrate-specific component RibU of riboflavin ECF transporter
 A0AA87CAZ7	EDBIKKDI_00502	Membrane-associated phospholipid phosphatase
 B1IA29	EDBIKKDI_00503	Hypothetical protein
@@ -543,8 +508,6 @@ A0AA87C683	EDBIKKDI_00537	Competence-stimulating peptide ABC transporter ATP-bin
 A0A4J1XGS9	EDBIKKDI_00538	hypothetical protein
 A0A0T8B7W5	EDBIKKDI_00539	hypothetical protein
 A0A0U0CGX7	EDBIKKDI_00540	hypothetical protein
-	EDBIKKDI_00541	group-II-D1D4-3
-	EDBIKKDI_00542	group-II-D1D4-1
 A0A0T8BFS0	EDBIKKDI_00543	Putative protease
 A0A0T8K1H1	EDBIKKDI_00544	hypothetical protein
 A0A0U0LIG7	EDBIKKDI_00545	hypothetical protein
@@ -580,7 +543,6 @@ A0A9P1RH91	EDBIKKDI_00574	hypothetical protein
 A0AA86XHR6	EDBIKKDI_00575	Fic domain protein
 A0A4J2AWX3	EDBIKKDI_00576	IS3 family transposase ISSpn11
 Q8DNZ4	EDBIKKDI_00577	IS3 family transposase ISSpn11
-	EDBIKKDI_00578	SpF19_sRNA
 A0A064C2F5	EDBIKKDI_00579	Beta-glucoside bgl operon antiterminator BglG
 A0A4M2KPQ3	EDBIKKDI_00580	Beta-glucoside-specific PTS IIBCA components
 A0A9P1PCH1	EDBIKKDI_00581	6-phospho-beta-glucosidase
@@ -622,14 +584,12 @@ Q8DQQ7	EDBIKKDI_00616	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dih
 A0A0E8B601	EDBIKKDI_00617	Dipeptidase PepV
 C1CCZ5	EDBIKKDI_00618	Uracil-DNA glycosylase
 Q8CZ26	EDBIKKDI_00619	hypothetical protein
-	EDBIKKDI_00620	SpF22_sRNA
 Q8DQQ3	EDBIKKDI_00621	Branched-chain amino acid transport system carrier protein
 A0A4F2RV55	EDBIKKDI_00622	Deblocking aminopeptidase
 A0A0T8PYS9	EDBIKKDI_00623	Histidine triad family protein
 C1CD01	EDBIKKDI_00624	L%2CD-carboxypeptidase
 Q97RZ6	EDBIKKDI_00625	LSU ribosomal protein L11p (L12e)
 C1CQB6	EDBIKKDI_00626	LSU ribosomal protein L1p (L10Ae)
-	EDBIKKDI_00627	Intron_gpII
 A0AA86X0M8	EDBIKKDI_00628	Hypothetical protein
 A0AA36PFK4	EDBIKKDI_00629	hypothetical protein
 A0A0E7TI46	EDBIKKDI_00630	ABC transporter ATP-binding protein
@@ -645,7 +605,6 @@ A0AA87C582	EDBIKKDI_00639	Beta-galactosidase BgaA
 A0A4I7EUS8	EDBIKKDI_00640	hypothetical protein
 A0AA86XHW0	EDBIKKDI_00641	hypothetical protein
 A0A9P1VJZ2	EDBIKKDI_00642	hypothetical protein
-	EDBIKKDI_00643	SpF25_sRNA
 A0A916L609	EDBIKKDI_00644	Hypothetical protein
 A0A4J2CLY0	EDBIKKDI_00645	hypothetical protein
 A0AA86XAH6	EDBIKKDI_00646	hypothetical protein
@@ -684,7 +643,6 @@ Q8DQM3	EDBIKKDI_00678	ABC transporter ATP-binding protein
 A0AA86X3K8	EDBIKKDI_00679	UDP-N-acetylmuramoylalanine--D-glutamate ligase
 C1CQG5	EDBIKKDI_00680	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
 A0AA87CCP9	EDBIKKDI_00681	Cell division protein DivIB
-	EDBIKKDI_00682	PyrR
 C1CQG7	EDBIKKDI_00683	Orotidine 5'-phosphate decarboxylase
 P0CB78	EDBIKKDI_00684	Orotate phosphoribosyltransferase
 A0A0B7LBR9	EDBIKKDI_00685	Hypothetical protein
@@ -704,11 +662,9 @@ C1CD65	EDBIKKDI_00698	L-Lactate 2-monooxygenase
 A0A4F2RZV8	EDBIKKDI_00699	Class II lysyl-tRNA synthetase
 A0A4J2A6Y2	EDBIKKDI_00700	IS1380 family transposase ISSpn5
 Q8DQK7	EDBIKKDI_00701	L-Lactate 2-monooxygenase
-	EDBIKKDI_00702	TPP
 Q8DQK6	EDBIKKDI_00703	Thiaminase II
 A0A559BUT6	EDBIKKDI_00704	Hydroxyethylthiazole kinase
 A0A062WTJ4	EDBIKKDI_00705	Thiamin-phosphate pyrophosphorylase
-	EDBIKKDI_00706	TPP
 C1CD71	EDBIKKDI_00707	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A0E7Z2L0	EDBIKKDI_00708	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0AA86XTL1	EDBIKKDI_00709	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
@@ -717,7 +673,6 @@ Q8CZ02	EDBIKKDI_00711	Substrate-specific component ThiW of putative thiazole ECF
 C1CQI9	EDBIKKDI_00712	Hydroxyethylthiazole kinase
 C1CD77	EDBIKKDI_00713	Thiamin-phosphate pyrophosphorylase
 A0A0H2UP75	EDBIKKDI_00714	Hydroxymethylpyrimidine phosphate kinase ThiD
-	EDBIKKDI_00715	TPP
 A0A0T7ZZL5	EDBIKKDI_00716	Negative transcriptional regulator of copper transport operon
 A0A916P4L1	EDBIKKDI_00717	Copper-exporting ATPase
 A0A0T8UEJ4	EDBIKKDI_00718	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
@@ -771,7 +726,6 @@ A0A0U0GQD0	EDBIKKDI_00765	Oxidoreductase%2C Gfo/Idh/MocA family
 C1CF62	EDBIKKDI_00766	hypothetical protein
 B2IQU5	EDBIKKDI_00767	Peptidoglycan N-acetylglucosamine deacetylase
 A0A4F2S748	EDBIKKDI_00768	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
-	EDBIKKDI_00769	SpR19_sRNA
 C1C872	EDBIKKDI_00770	hypothetical protein
 C1CQP3	EDBIKKDI_00771	Glycyl-tRNA synthetase alpha chain
 C1CQP4	EDBIKKDI_00772	Glycyl-tRNA synthetase beta chain
@@ -802,11 +756,9 @@ A0A4G1UH31	EDBIKKDI_00796	Beta-lactamase%2C class C
 A0A0T8ZMM1	EDBIKKDI_00797	Drug/metabolite transporter superfamily protein
 A0AA86XET3	EDBIKKDI_00798	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 Q04JQ8	EDBIKKDI_00799	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
-	EDBIKKDI_00800	SpR18_sRNA
 A0AA95IJ56	EDBIKKDI_00801	IS1167 transposase
 A0AA95D7A8	EDBIKKDI_00802	hypothetical protein
 A0A4L8JXX8	EDBIKKDI_00803	IS1167 transposase Orf1
-	EDBIKKDI_00804	Srn266
 A0AA86X2A4	EDBIKKDI_00805	Transcriptional regulator%2C AraC family
 A0AA86XE87	EDBIKKDI_00806	ABC transporter ATP-binding/permease protein
 A0AA86XZJ9	EDBIKKDI_00807	ABC transporter ATP-binding/permease protein
@@ -890,7 +842,6 @@ P0A3Q9	EDBIKKDI_00884	Peptide methionine sulfoxide reductase MsrAB1
 A0AA86XYD1	EDBIKKDI_00885	ABC transporter ATP-binding/permease protein
 A0AA86XCN5	EDBIKKDI_00886	ABC transporter ATP-binding/permease protein
 A0A4J1VQN7	EDBIKKDI_00887	Methylthioadenosine deaminase
-	EDBIKKDI_00888	L10_leader
 Q04JZ3	EDBIKKDI_00889	LSU ribosomal protein L10p (P0)
 Q04JZ4	EDBIKKDI_00890	LSU ribosomal protein L7/L12 (P1/P2)
 A0AA86XFM2	EDBIKKDI_00891	hypothetical protein
@@ -904,7 +855,6 @@ Q8DPG5	EDBIKKDI_00898	Chorismate mutase I
 Q97QC4	EDBIKKDI_00899	ClC-type fluoride channel
 Q97QC5	EDBIKKDI_00900	ClC-type fluoride channel
 Q97QC6	EDBIKKDI_00901	LSU ribosomal protein L19p
-	EDBIKKDI_00902	tRNA-Arg(cct)
 A0A0E7ZI26	EDBIKKDI_00903	hypothetical protein
 A0A9Q9R059	EDBIKKDI_00904	Sugar phosphatase YidA
 A0A0E7ZFQ5	EDBIKKDI_00905	dNTP triphosphohydrolase
@@ -912,15 +862,12 @@ A0A0B7M7R8	EDBIKKDI_00906	Hypothetical protein
 Q8DPH0	EDBIKKDI_00907	Signal recognition particle associated protein
 A0AA86XP10	EDBIKKDI_00908	Signal recognition particle protein Ffh
 A0A098ZHN3	EDBIKKDI_00909	Uracil permease
-	EDBIKKDI_00910	SpF44_sRNA
 Q97QD4	EDBIKKDI_00911	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
 C1C7R4	EDBIKKDI_00912	LemA
 C1CR23	EDBIKKDI_00913	Heat shock protein HtpX
 A0AA87CFE2	EDBIKKDI_00914	ABC transporter ATP-binding protein
-	EDBIKKDI_00915	SpF43_sRNA
 A0A0B7KY73	EDBIKKDI_00916	Protein%2C clustered with ribosomal protein L32p
 Q8DPH8	EDBIKKDI_00917	Endonuclease III
-	EDBIKKDI_00918	PyrR
 Q04K45	EDBIKKDI_00919	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
 C1CR29	EDBIKKDI_00920	Aspartate carbamoyltransferase
 A0A064BWJ2	EDBIKKDI_00921	Carbamoyl-phosphate synthase small chain CarA
@@ -949,7 +896,6 @@ Q8CYQ2	EDBIKKDI_00943	Hypothetical protein
 A0A0B7LNM9	EDBIKKDI_00944	Endonuclease
 A0AA87CFD5	EDBIKKDI_00945	Hypothetical protein
 C1CR55	EDBIKKDI_00946	GMP reductase
-	EDBIKKDI_00947	tRNA-Arg(ccg)
 A0A0T8X3V7	EDBIKKDI_00948	Ribonuclease III
 A0AA86YBP5	EDBIKKDI_00949	Chromosome partition protein SMC
 A0A0E8I6Q3	EDBIKKDI_00950	Hydrolase%2C HAD superfamily
@@ -1021,7 +967,6 @@ A0AA86XY80	EDBIKKDI_01015	Pneumococcal histidine triad protein B
 A0A4F2S4Y2	EDBIKKDI_01016	Pneumococcal histidine triad protein E
 A0A4J2H147	EDBIKKDI_01017	hypothetical protein
 A0A4G1WMB5	EDBIKKDI_01018	IS1167 transposase
-	EDBIKKDI_01019	Srn266
 A0AA86X4M7	EDBIKKDI_01020	hypothetical protein
 A0A0T8ZEP9	EDBIKKDI_01021	hypothetical protein
 C1CRC4	EDBIKKDI_01022	Tripeptide aminopeptidase PepT
@@ -1034,10 +979,7 @@ A0A0U0FLZ7	EDBIKKDI_01028	hypothetical protein
 C1CRD1	EDBIKKDI_01029	Ferrochelatase%2C protoheme ferro-lyase
 A0AA86XRF7	EDBIKKDI_01030	Large-conductance mechanosensitive channel MscL
 Q8DQ02	EDBIKKDI_01031	GtrA family protein
-	EDBIKKDI_01032	preQ1-II
 Q8DQ01	EDBIKKDI_01033	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	EDBIKKDI_01034	tRNA-Thr(ggt)
-	EDBIKKDI_01035	asd
 A0A064C4U3	EDBIKKDI_01036	Aspartate-semialdehyde dehydrogenase
 C1CRD6	EDBIKKDI_01037	4-hydroxy-tetrahydrodipicolinate synthase
 B1IBH5	EDBIKKDI_01038	GTPase and tRNA-U34 5-formylation enzyme MnmE
@@ -1052,9 +994,6 @@ B2IPI1	EDBIKKDI_01046	Pseudouridylate synthase%2C 23S RNA-specific
 C1C701	EDBIKKDI_01047	Pneumococcal vaccine antigen A
 A0A0B7L1A6	EDBIKKDI_01048	Extracellular protein
 A0AA86Y2X5	EDBIKKDI_01049	23S rRNA (uracil(1939)-C(5))-methyltransferase
-	EDBIKKDI_01050	SpF61_sRNA
-	EDBIKKDI_01050	
-	EDBIKKDI_01051	SpF39_sRNA
 C1CE21	EDBIKKDI_01052	Hypothetical protein
 Q8DPY6	EDBIKKDI_01053	Iron compound ABC uptake transporter substrate-binding protein PiaA
 A0A0U0D917	EDBIKKDI_01054	Iron compound ABC uptake transporter permease protein PiaB
@@ -1067,7 +1006,6 @@ Q9KK10	EDBIKKDI_01060	IS1380 family transposase ISSpn5
 A0A6G2D2E2	EDBIKKDI_01061	IS1380 family transposase ISSpn5
 A0AA87CBA5	EDBIKKDI_01062	hypothetical protein
 A0A0T7TQW9	EDBIKKDI_01063	hypothetical protein
-	EDBIKKDI_01064	pemK
 Q8CYT9	EDBIKKDI_01065	Hypothetical protein
 A0A9P1PK44	EDBIKKDI_01066	Phage integrase
 A0A0T9GFA2	EDBIKKDI_01067	Phage integrase
@@ -1087,7 +1025,6 @@ A0AA87CCX2	EDBIKKDI_01080	hypothetical protein
 A0A0B7MF81	EDBIKKDI_01081	hypothetical protein
 C1C764	EDBIKKDI_01082	Cell division protein FtsW
 A0A4G1W0T6	EDBIKKDI_01083	Phosphoenolpyruvate carboxylase
-	EDBIKKDI_01084	T-box
 C1C766	EDBIKKDI_01085	ABC transporter substrate-binding protein
 Q8DPW3	EDBIKKDI_01086	Putative tryptophan-specific ABC transporter permease protein TrpY
 Q8DPW2	EDBIKKDI_01087	ABC transporter ATP-binding protein
@@ -1103,8 +1040,6 @@ C1CE67	EDBIKKDI_01096	Hypothetical protein
 A0A4H9FG63	EDBIKKDI_01097	IS1167 transposase
 A0A4J2D1K3	EDBIKKDI_01098	hypothetical protein
 A0A4J1U7S1	EDBIKKDI_01099	IS1167 transposase Orf1
-	EDBIKKDI_01100	Srn266
-	EDBIKKDI_01101	group-II-D1D4-3
 Q97QW6	EDBIKKDI_01102	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 A0A0T7IPG4	EDBIKKDI_01103	Ribosomal-protein-S5p-alanine acetyltransferase
 Q8DPV2	EDBIKKDI_01104	Cytosolic protein containing multiple CBS domains
@@ -1124,16 +1059,11 @@ Q8DPU2	EDBIKKDI_01117	GTP pyrophosphokinase
 B2IQ09	EDBIKKDI_01118	NAD kinase
 A0AA87C673	EDBIKKDI_01119	RluD-like protein
 Q8DPU0	EDBIKKDI_01120	Phosphate acetyltransferase
-	EDBIKKDI_01121	SpR14_sRNA
-	EDBIKKDI_01121	
 A0AA36PZZ3	EDBIKKDI_01122	IS1167 transposase Orf2
 A0A0U0HX93	EDBIKKDI_01123	hypothetical protein
 A0A4N0CYU3	EDBIKKDI_01124	IS1167 transposase Orf1
-	EDBIKKDI_01125	Srn266
-	EDBIKKDI_01126	Srn266
 Q04KI6	EDBIKKDI_01127	Hypothetical protein co-occurring with RecR
 A0A0B7M7N6	EDBIKKDI_01128	Hypothetical protein
-	EDBIKKDI_01129	L21_leader
 Q97QU4	EDBIKKDI_01130	LSU ribosomal protein L21p
 C1CE93	EDBIKKDI_01131	Putative ribosomal protein
 Q04KI2	EDBIKKDI_01132	LSU ribosomal protein L27p
@@ -1157,7 +1087,6 @@ A0AA86XHR8	EDBIKKDI_01149	Hypothetical protein
 C1CRM6	EDBIKKDI_01150	Enolase
 A0A4J2GG84	EDBIKKDI_01151	IS1167 transposase Orf2
 Q4JYF9	EDBIKKDI_01152	IS1167 transposase
-	EDBIKKDI_01153	Srn266
 A0A0T8C0Q6	EDBIKKDI_01154	IS630 family transposase IS630-Spn1
 A0A0T8CF02	EDBIKKDI_01155	IS630 family transposase IS630-Spn1
 A0AA87CCY2	EDBIKKDI_01156	ATP-dependent nuclease subunit RexB
@@ -1184,13 +1113,10 @@ A0A0T8JZF1	EDBIKKDI_01176	PTS-dependent dihydroxyacetone kinase%2C phosphotransf
 A0AA86Y319	EDBIKKDI_01177	Pneumococcal histidine triad protein D
 Q8DQ09	EDBIKKDI_01178	Laminin-binding surface protein
 A0AA86XBR9	EDBIKKDI_01179	Cationic amino acid transporter%2C APC Superfamily
-	EDBIKKDI_01180	SpF36_sRNA
-	EDBIKKDI_01180	
 C1CDZ5	EDBIKKDI_01181	Thiol:disulfide oxidoreductase
 C1CDZ4	EDBIKKDI_01182	Cytochrome c-type biogenesis protein CcdA-2
 A0A4F2S4D7	EDBIKKDI_01183	Hypothetical protein
 C1CGU6	EDBIKKDI_01184	IS630 family transposase IS630-Spn1
-	EDBIKKDI_01185	Srn266
 A0A4J1YM21	EDBIKKDI_01186	IS1167 transposase Orf1
 A0A4P0AN65	EDBIKKDI_01187	hypothetical protein
 A0A4F2S025	EDBIKKDI_01188	IS1167 transposase
@@ -1229,7 +1155,6 @@ C1CDV7	EDBIKKDI_01220	Lactoylglutathione lyase
 Q04KW7	EDBIKKDI_01221	LSU ribosomal protein L20p
 Q04KW8	EDBIKKDI_01222	LSU ribosomal protein L35p
 Q04KW9	EDBIKKDI_01223	Translation initiation factor 3
-	EDBIKKDI_01224	L20_leader
 A0AA86XYU1	EDBIKKDI_01225	Hypothetical protein
 A0A0U0EQ85	EDBIKKDI_01226	ABC transporter%2C ATP-binding protein
 A0AA86X101	EDBIKKDI_01227	Late competence DNA transporter ComEC
@@ -1272,8 +1197,6 @@ C1CDQ9	EDBIKKDI_01263	ABC transporter permease protein
 C1CDQ8	EDBIKKDI_01264	ABC transporter ATP-binding protein
 A0A0B7KXN1	EDBIKKDI_01265	Hypothetical protein
 Q8CYW5	EDBIKKDI_01266	Hypothetical protein
-	EDBIKKDI_01267	Spd-sr07
-	EDBIKKDI_01267	
 A0A5C8QW28	EDBIKKDI_01268	Putative phage shock protein C
 C1CRY6	EDBIKKDI_01269	Putative SprT family zinc-dependent metallopeptidase
 A0A0B7LIN4	EDBIKKDI_01270	Transcription accessory protein
@@ -1309,8 +1232,6 @@ A0AA86Y3W6	EDBIKKDI_01299	DNA translocase FtsK
 A0AA86XI73	EDBIKKDI_01300	Fructose-specific PTS IIABC components
 A0A9Q9R504	EDBIKKDI_01301	1-phosphofructokinase
 A0A0U0FF33	EDBIKKDI_01302	Transcriptional repressor of the fructose operon%2C DeoR family
-	EDBIKKDI_01303	tRNA-Ser(gga)
-	EDBIKKDI_01304	transfer-messenger RNA%2C SsrA
 Q8DQ98	EDBIKKDI_01305	Coordinator of zonal cell elongation
 Q75Y14	EDBIKKDI_01306	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 A0AA87CC06	EDBIKKDI_01307	Iron-sulfur cluster assembly protein SufB
@@ -1321,12 +1242,9 @@ B1IB34	EDBIKKDI_01311	Iron-sulfur cluster assembly ATPase protein SufC
 Q8CYX9	EDBIKKDI_01312	Hypothetical protein
 A0A0U0J2A6	EDBIKKDI_01313	DNA polymerase III subunits gamma and tau
 A0A0U0BZA9	EDBIKKDI_01314	GAF domain-containing protein
-	EDBIKKDI_01315	Srn266
 A0A4N0CLZ2	EDBIKKDI_01316	IS1167 transposase
 A0AA95IJ56	EDBIKKDI_01317	IS1167 transposase
 C1CDK9	EDBIKKDI_01318	SSU ribosomal protein S1p
-	EDBIKKDI_01319	tRNA-Gln(ttg)
-	EDBIKKDI_01320	tRNA-Tyr(gta)
 A0A4F2RY34	EDBIKKDI_01321	Hypothetical protein
 Q04L55	EDBIKKDI_01322	Pyrrolidone-carboxylate peptidase
 Q8DQB0	EDBIKKDI_01323	Putative membrane protein
@@ -1465,12 +1383,10 @@ A0AA86Y143	EDBIKKDI_01455	hypothetical protein
 A0AA87CB43	EDBIKKDI_01456	M protein trans-acting positive regulator Mga1
 Q8DP23	EDBIKKDI_01457	hypothetical protein
 A0A229FM92	EDBIKKDI_01458	Hypothetical protein
-	EDBIKKDI_01459	SpR20_sRNA
 A0A0T8IT76	EDBIKKDI_01460	Cell shape-determining protein
 Q8DP22	EDBIKKDI_01461	Peptide deformylase
 A0A0H2UQV0	EDBIKKDI_01462	Glutathione S-transferase
 C1CFD6	EDBIKKDI_01463	Calcium-transporting ATPase
-	EDBIKKDI_01464	SSRC10
 C1CFD7	EDBIKKDI_01465	Cobalt-zinc-cadmium resistance protein
 A0A0E8HGI4	EDBIKKDI_01466	ATPase component of ABC transporter with duplicated ATPase domains
 A0AA86Y175	EDBIKKDI_01467	CCA tRNA nucleotidyltransferase
@@ -1498,7 +1414,6 @@ C1CFG0	EDBIKKDI_01488	hypothetical protein
 C1CSJ8	EDBIKKDI_01489	Adenine phosphoribosyltransferase
 A0A0E7ZDH6	EDBIKKDI_01490	SAM-dependent methyltransferase
 Q8DP03	EDBIKKDI_01491	Multiple sugar ABC transporter%2C ATP-binding protein
-	EDBIKKDI_01492	tRNA-Leu(aag)
 Q8DP02	EDBIKKDI_01493	Nicotinamidase
 C1CSK2	EDBIKKDI_01494	GTP-sensing transcriptional pleiotropic repressor CodY
 A0AA86XFU4	EDBIKKDI_01495	DEAD-box ATP-dependent RNA helicase CshA
@@ -1684,7 +1599,6 @@ Q8DNP2	EDBIKKDI_01674	Addiction module antitoxin HicB
 A0A6G2D3S6	EDBIKKDI_01675	Addiction module toxin HicA
 Q8CYD9	EDBIKKDI_01676	Hypothetical protein
 A0AA86YCW5	EDBIKKDI_01677	Chromosome segregation helicase
-	EDBIKKDI_01678	tRNA-Lys(ctt)
 A0A0T7I5G6	EDBIKKDI_01679	Sucrose-6-phosphate hydrolase
 A0AA86XNK2	EDBIKKDI_01680	hypothetical protein
 B2ISF6	EDBIKKDI_01681	ABC transporter permease protein
@@ -1729,7 +1643,6 @@ Q8CYC7	EDBIKKDI_01719	hypothetical protein
 A0A0U0L0G0	EDBIKKDI_01720	hypothetical protein
 C1C9B1	EDBIKKDI_01721	Exodeoxyribonuclease III
 A0A0B7MC34	EDBIKKDI_01722	hypothetical protein
-	EDBIKKDI_01723	Purine
 Q3I0D5	EDBIKKDI_01724	Xanthine phosphoribosyltransferase
 A0A0B7LUG6	EDBIKKDI_01725	Xanthine permease
 P0A3T5	EDBIKKDI_01726	Type II restriction-modification system component DpnD
@@ -1768,7 +1681,6 @@ B2ISY0	EDBIKKDI_01758	Hypothetical protein
 A0AA86X3K1	EDBIKKDI_01759	Trehalose-6-phosphate hydrolase
 C1C9F0	EDBIKKDI_01760	Trehalose-specific PTS IIBCA components
 Q8DNI5	EDBIKKDI_01761	Trehalose operon transcriptional repressor
-	EDBIKKDI_01762	Srn266
 A0A4L4F203	EDBIKKDI_01763	IS1167 transposase Orf1
 A0AA95D7A8	EDBIKKDI_01764	hypothetical protein
 A0A4J2G5R1	EDBIKKDI_01765	IS1167 transposase
@@ -1787,40 +1699,12 @@ A0A0H2URJ7	EDBIKKDI_01777	Multiple sugar ABC transporter%2C substrate-binding pr
 A0AA86X215	EDBIKKDI_01778	Alpha-galactosidase
 A0AA87CG11	EDBIKKDI_01779	Multiple sugar metabolism operon regulatory protein MsmR
 A0A0T7JKM3	EDBIKKDI_01780	Bifunctional biotin operon repressor/Biotin--protein ligase
-	EDBIKKDI_01781	tRNA-Ser(gct)
-	EDBIKKDI_01781	
-	EDBIKKDI_01782	tRNA-Ile(gat)
-	EDBIKKDI_01783	tRNA-Gly(tcc)
-	EDBIKKDI_01784	tRNA-Phe(gaa)
-	EDBIKKDI_01785	tRNA-Met(cat)
-	EDBIKKDI_01786	tRNA-Ser(tga)
-	EDBIKKDI_01787	tRNA-Met(cat)
-	EDBIKKDI_01788	tRNA-Met(cat)
-	EDBIKKDI_01789	tRNA-Pro(tgg)
-	EDBIKKDI_01790	tRNA-Arg(acg)
-	EDBIKKDI_01791	tRNA-Leu(taa)
-	EDBIKKDI_01792	tRNA-Gly(gcc)
-	EDBIKKDI_01793	tRNA-Thr(tgt)
-	EDBIKKDI_01794	tRNA-Leu(tag)
-	EDBIKKDI_01795	tRNA-Lys(ttt)
-	EDBIKKDI_01795	
-	EDBIKKDI_01796	tRNA-Asp(gtc)
-	EDBIKKDI_01797	tRNA-Val(tac)
-	EDBIKKDI_01798	5S ribosomal RNA
-	EDBIKKDI_01799	23S ribosomal RNA
-	EDBIKKDI_01800	tRNA-Ala(tgc)
-	EDBIKKDI_01801	16S ribosomal RNA
-	EDBIKKDI_01802	tRNA-Glu(ttc)
 A0AA86Y1M3	EDBIKKDI_01803	RNA methyltransferase%2C TrmA family
 A0A0E7YX54	EDBIKKDI_01804	Regulatory protein RecX
 Q8DNH5	EDBIKKDI_01805	Cysteinyl-tRNA synthetase related protein
-	EDBIKKDI_01806	Spy392987
-	EDBIKKDI_01806	
 A0A0B7L322	EDBIKKDI_01807	hypothetical protein
 A0A0B7M7J4	EDBIKKDI_01808	Positive transcriptional regulator%2C MutR family
 A0A0B7M6C0	EDBIKKDI_01809	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
-	EDBIKKDI_01810	Spy392987
-	EDBIKKDI_01810	
 A0A0B7MCZ4	EDBIKKDI_01811	Epoxyqueuosine reductase QueH
 Q04IQ3	EDBIKKDI_01812	Heat shock protein 60 family chaperone GroEL
 C1CTD7	EDBIKKDI_01813	Heat shock protein 60 family co-chaperone GroES
@@ -1879,7 +1763,6 @@ B2IRY8	EDBIKKDI_01865	hypothetical protein
 A0A7D4ZY64	EDBIKKDI_01866	hypothetical protein
 B2IRZ0	EDBIKKDI_01867	hypothetical protein
 A0A7D5A3K0	EDBIKKDI_01868	hypothetical protein
-	EDBIKKDI_01869	sRNA_0030
 A0A060QP50	EDBIKKDI_01870	Translation elongation factor G
 A0A098Z6Q4	EDBIKKDI_01871	hypothetical protein
 Q7BD37	EDBIKKDI_01872	hypothetical protein
@@ -1887,12 +1770,10 @@ Q7BD38	EDBIKKDI_01873	hypothetical protein
 A0A7D4W1F3	EDBIKKDI_01874	hypothetical protein
 Q93QE4	EDBIKKDI_01875	ABC-F type ribosomal protection protein Msr(D)
 Q7BKK4	EDBIKKDI_01876	Macrolide ABC transporter membrane-spanning permease
-	EDBIKKDI_01877	sRNA_1300
 A0A060QP53	EDBIKKDI_01878	hypothetical protein
 B1IC82	EDBIKKDI_01879	hypothetical protein
 B7UTW8	EDBIKKDI_01880	hypothetical protein
 B2IQG0	EDBIKKDI_01881	hypothetical protein
-	EDBIKKDI_01882	pemK
 P61624	EDBIKKDI_01883	hypothetical protein
 B2IS01	EDBIKKDI_01884	Transposase from transposon Tn916
 A0A098APA1	EDBIKKDI_01885	hypothetical protein
@@ -1901,8 +1782,6 @@ Q8CY96	EDBIKKDI_01887	hypothetical protein
 Q04IK8	EDBIKKDI_01888	Nucleoside diphosphate kinase
 Q97NQ8	EDBIKKDI_01889	DNA-directed RNA polymerase beta' subunit
 A0A0B7L1K2	EDBIKKDI_01890	DNA-directed RNA polymerase beta subunit
-	EDBIKKDI_01891	Lacto-rpoB
-	EDBIKKDI_01892	tRNA-Cys(gca)
 A0A0H2URP2	EDBIKKDI_01893	Putative hemolysin
 A0A0E7Y8S8	EDBIKKDI_01894	DNA-entry nuclease
 Q03159	EDBIKKDI_01895	Competence-associated EpuA protein
@@ -1927,8 +1806,6 @@ Q97NN5	EDBIKKDI_01913	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyl
 A0AA86XX43	EDBIKKDI_01914	Hypothetical protein
 Q8DND2	EDBIKKDI_01915	ABC transporter%2C ATP-binding protein
 A0AA86Y1H5	EDBIKKDI_01916	Putative immunity protein
-	EDBIKKDI_01917	SpR08_sRNA
-	EDBIKKDI_01917	
 A0AA86XMC5	EDBIKKDI_01918	Transcriptional regulator
 C1CA35	EDBIKKDI_01919	Ribonuclease M5
 A0A0U0L1T2	EDBIKKDI_01920	Putative deoxyribonuclease TatD
@@ -1948,21 +1825,6 @@ C1CA49	EDBIKKDI_01933	ABC transporter%2C ATP-binding protein
 A0A0H2ZP90	EDBIKKDI_01934	Hypothetical protein
 A0A0B7MA59	EDBIKKDI_01935	Hypothetical protein
 A0A4J2A6Y2	EDBIKKDI_01936	IS1380 family transposase ISSpn5
-	EDBIKKDI_01937	tRNA-Pro(tgg)
-	EDBIKKDI_01938	tRNA-Arg(acg)
-	EDBIKKDI_01939	tRNA-Leu(taa)
-	EDBIKKDI_01940	tRNA-Gly(gcc)
-	EDBIKKDI_01941	tRNA-Thr(tgt)
-	EDBIKKDI_01942	tRNA-Leu(tag)
-	EDBIKKDI_01943	tRNA-Lys(ttt)
-	EDBIKKDI_01943	
-	EDBIKKDI_01944	tRNA-Asp(gtc)
-	EDBIKKDI_01945	tRNA-Val(tac)
-	EDBIKKDI_01946	5S ribosomal RNA
-	EDBIKKDI_01947	23S ribosomal RNA
-	EDBIKKDI_01948	tRNA-Ala(tgc)
-	EDBIKKDI_01949	16S ribosomal RNA
-	EDBIKKDI_01950	tRNA-Glu(ttc)
 Q9R2W8	EDBIKKDI_01951	Competence-specific sigma factor ComX
 C1CGT9	EDBIKKDI_01952	Transcription antitermination protein NusG
 Q8DNB7	EDBIKKDI_01953	Protein translocase subunit SecE
@@ -2021,22 +1883,6 @@ A0AA87C863	EDBIKKDI_02005	Hydrolase%2C haloacid dehalogenase-like family
 A0A0T8CKE6	EDBIKKDI_02006	Multi antimicrobial extrusion family transporter
 A0AA87C5K9	EDBIKKDI_02007	Threonine synthase
 A0AA86YCC5	EDBIKKDI_02008	Hypothetical protein
-	EDBIKKDI_02009	tRNA-Leu(caa)
-	EDBIKKDI_02010	tRNA-Gln(ttg)
-	EDBIKKDI_02011	tRNA-His(gtg)
-	EDBIKKDI_02012	tRNA-Trp(cca)
-	EDBIKKDI_02013	tRNA-Tyr(gta)
-	EDBIKKDI_02014	tRNA-Phe(gaa)
-	EDBIKKDI_02015	tRNA-Met(cat)
-	EDBIKKDI_02016	tRNA-Ser(tga)
-	EDBIKKDI_02017	tRNA-Ile(gat)
-	EDBIKKDI_02018	tRNA-Gly(tcc)
-	EDBIKKDI_02019	tRNA-Val(tac)
-	EDBIKKDI_02020	5S ribosomal RNA
-	EDBIKKDI_02021	23S ribosomal RNA
-	EDBIKKDI_02022	tRNA-Ala(tgc)
-	EDBIKKDI_02023	16S ribosomal RNA
-	EDBIKKDI_02024	tRNA-Glu(ttc)
 Q8DN75	EDBIKKDI_02025	Cytidine/deoxycytidylate deaminase family protein
 A0A0B7LT42	EDBIKKDI_02026	Glutamyl-tRNA synthetase
 A0A0B7KR19	EDBIKKDI_02027	Glucose-6-phosphate isomerase
@@ -2044,11 +1890,7 @@ A0A0B7LSD8	EDBIKKDI_02028	Glutamine amidotransferase%2C class I
 A0AA86XEC5	EDBIKKDI_02029	Multidrug resistance ABC transporter ATP-binding and permease protein
 B2IMZ4	EDBIKKDI_02030	hypothetical protein
 A0AA86XVJ4	EDBIKKDI_02031	Multidrug resistance ABC transporter ATP-binding and permease protein
-	EDBIKKDI_02032	patAB
-	EDBIKKDI_02032	
 C8XPW9	EDBIKKDI_02033	DNA mismatch repair protein HexA
-	EDBIKKDI_02034	SpR10_sRNA
-	EDBIKKDI_02034	
 B2IMZ7	EDBIKKDI_02035	Arginine pathway regulatory protein ArgR1
 C1CTY4	EDBIKKDI_02036	Arginyl-tRNA synthetase
 C1CH09	EDBIKKDI_02037	IS1381 transposase OrfB
@@ -2137,8 +1979,6 @@ A0A0H2US10	EDBIKKDI_02119	L-fucose mutarotase
 A0A558TAT7	EDBIKKDI_02120	L-fuculose phosphate aldolase
 A0A9P1Q391	EDBIKKDI_02121	L-fuculokinase
 Q8DN15	EDBIKKDI_02122	L-fucose operon activator
-	EDBIKKDI_02123	SpF66_sRNA
-	EDBIKKDI_02124	SpF66_sRNA
 A0A0U0LI09	EDBIKKDI_02125	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
 O33704	EDBIKKDI_02126	Zinc ABC transporter%2C permease protein AdcB
 B2INJ0	EDBIKKDI_02127	Zinc ABC transporter%2C ATP-binding protein AdcC
@@ -2149,11 +1989,8 @@ Q04HZ9	EDBIKKDI_02131	D-alanine--poly(phosphoribitol) ligase subunit 2
 A0A0B7LC24	EDBIKKDI_02132	D-alanyl transfer protein DltB
 C1CU95	EDBIKKDI_02133	D-alanine--poly(phosphoribitol) ligase subunit 1
 A0AA36LHR5	EDBIKKDI_02134	Macrolide-efflux protein
-	EDBIKKDI_02135	Intron_gpII
 A0A822QAK2	EDBIKKDI_02136	hypothetical protein
 Q8DN09	EDBIKKDI_02137	hypothetical protein
-	EDBIKKDI_02138	group-II-D1D4-1
-	EDBIKKDI_02139	group-II-D1D4-3
 A0A4J1NJ06	EDBIKKDI_02140	hypothetical protein
 B1I9Z2	EDBIKKDI_02141	Hypothetical protein
 A0A0H2ZPJ9	EDBIKKDI_02142	Glycerol uptake facilitator protein
@@ -2163,7 +2000,6 @@ A0A9P1LP27	EDBIKKDI_02145	Trans-acting positive regulator
 Q04HY8	EDBIKKDI_02146	Chaperonin%2C heat shock protein 33
 A0AA86XU38	EDBIKKDI_02147	tRNA dihydrouridine synthase B
 A0AA87CG79	EDBIKKDI_02148	hypothetical protein
-	EDBIKKDI_02149	Srn266
 A0A4J2B888	EDBIKKDI_02150	IS1167 transposase
 A0A4J2GM32	EDBIKKDI_02151	IS1167 transposase Orf2
 A0A1M4NJV9	EDBIKKDI_02152	Choline-binding protein A
@@ -2176,7 +2012,6 @@ Q8DMZ8	EDBIKKDI_02158	Thiamin ABC transporter ThiZ%2C ATPase component
 Q8DMZ7	EDBIKKDI_02159	Thiamin ABC transporter ThiY%2C substrate-binding component
 A0A0T7TNK1	EDBIKKDI_02160	Thiamin ABC transporter ThiX%2C transmembrane component
 Q8DMZ5	EDBIKKDI_02161	Cytoplasmic thiamin-binding component of thiamin ABC transporter
-	EDBIKKDI_02162	TPP
 B2INL9	EDBIKKDI_02163	Choline-binding protein D
 Q8DMZ3	EDBIKKDI_02164	Hypothetical protein
 Q8DMZ2	EDBIKKDI_02165	Replicative DNA helicase DnaC
@@ -2190,7 +2025,6 @@ Q8DMY8	EDBIKKDI_02172	Cysteine synthase
 B2INM9	EDBIKKDI_02173	hypothetical protein
 A0AA87C5P0	EDBIKKDI_02174	IS630 family transposase ISSpn2
 B2INN0	EDBIKKDI_02175	IS66 family transposase Orf2
-	EDBIKKDI_02176	SpF51_sRNA
 Q04HW4	EDBIKKDI_02177	Translation elongation factor Ts
 C1CUD2	EDBIKKDI_02178	SSU ribosomal protein S2p (SAe)
 C1CHL5	EDBIKKDI_02179	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
@@ -2211,12 +2045,9 @@ Q8DMX1	EDBIKKDI_02193	ABC transporter%2C ATP-binding protein
 A0A4G1UPE8	EDBIKKDI_02194	ABC transporter%2C permease protein
 A0AA86XNW3	EDBIKKDI_02195	hypothetical protein
 Q8DMW6	EDBIKKDI_02196	Transcriptional regulator%2C AcrR family
-	EDBIKKDI_02197	tRNA-Asn(gtt)
-	EDBIKKDI_02198	tRNA-Glu(ttc)
 Q8DMW5	EDBIKKDI_02199	Two-component system response regulator ComE
 Q8DMW4	EDBIKKDI_02200	Two-component system sensor histidine kinase ComD
 Q5QIA8	EDBIKKDI_02201	Competence-stimulating peptide precursor ComC
-	EDBIKKDI_02202	tRNA-Arg(tct)
 Q04HU2	EDBIKKDI_02203	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
 Q8DMW2	EDBIKKDI_02204	Serine protease%2C DegP/HtrA
 A0AA86XYX7	EDBIKKDI_02205	Chromosome partitioning protein ParB
@@ -2254,34 +2085,6 @@ A0A0T7TAY9	EDBIKKDI_02236	hypothetical protein
 A0A098APL0	EDBIKKDI_02237	hypothetical protein
 A0A6G2D7U3	EDBIKKDI_02238	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0A4J1XEZ8	EDBIKKDI_02239	Bifunctional biotin operon repressor/Biotin--protein ligase
-	EDBIKKDI_02240	tRNA-Ser(gct)
-	EDBIKKDI_02240	
-	EDBIKKDI_02241	tRNA-Ile(gat)
-	EDBIKKDI_02241	
-	EDBIKKDI_02242	tRNA-Gly(tcc)
-	EDBIKKDI_02243	tRNA-Phe(gaa)
-	EDBIKKDI_02244	tRNA-Met(cat)
-	EDBIKKDI_02245	tRNA-Ser(tga)
-	EDBIKKDI_02245	
-	EDBIKKDI_02246	tRNA-Met(cat)
-	EDBIKKDI_02247	tRNA-Met(cat)
-	EDBIKKDI_02248	tRNA-Pro(tgg)
-	EDBIKKDI_02249	tRNA-Arg(acg)
-	EDBIKKDI_02250	tRNA-Leu(taa)
-	EDBIKKDI_02250	
-	EDBIKKDI_02251	tRNA-Gly(gcc)
-	EDBIKKDI_02252	tRNA-Thr(tgt)
-	EDBIKKDI_02253	tRNA-Leu(tag)
-	EDBIKKDI_02254	tRNA-Lys(ttt)
-	EDBIKKDI_02254	
-	EDBIKKDI_02255	tRNA-Asp(gtc)
-	EDBIKKDI_02256	tRNA-Val(tac)
-	EDBIKKDI_02256	
-	EDBIKKDI_02257	5S ribosomal RNA
-	EDBIKKDI_02258	23S ribosomal RNA
-	EDBIKKDI_02259	tRNA-Ala(tgc)
-	EDBIKKDI_02260	16S ribosomal RNA
-	EDBIKKDI_02261	tRNA-Glu(ttc)
 A0A4N9BTN4	EDBIKKDI_02262	Competence-specific sigma factor ComX
 Q9S461	EDBIKKDI_02263	Cell division protein FtsH
 A0A916L592	EDBIKKDI_02264	Cell division protein FtsH

@@ -33,15 +33,9 @@ Q8DRQ4	EGPCNNKB_00031	Chromosomal replication initiator protein DnaA
 A0AA86XYX7	EGPCNNKB_00032	Chromosome partitioning protein ParB
 Q8DMW2	EGPCNNKB_00033	Serine protease%2C DegP/HtrA
 Q04HU2	EGPCNNKB_00034	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
-	EGPCNNKB_00035	tRNA-Arg(tct)
-	EGPCNNKB_00035	
 Q5QIA8	EGPCNNKB_00036	Competence-stimulating peptide precursor ComC
 Q8DMW4	EGPCNNKB_00037	Two-component system sensor histidine kinase ComD
 Q8DMW5	EGPCNNKB_00038	Two-component system response regulator ComE
-	EGPCNNKB_00039	tRNA-Glu(ttc)
-	EGPCNNKB_00039	
-	EGPCNNKB_00040	tRNA-Asn(gtt)
-	EGPCNNKB_00040	
 Q8DMW6	EGPCNNKB_00041	Transcriptional regulator%2C AcrR family
 A0AA86XNW3	EGPCNNKB_00042	hypothetical protein
 A0A4G1UPE8	EGPCNNKB_00043	ABC transporter%2C permease protein
@@ -62,8 +56,6 @@ C1CHL6	EGPCNNKB_00057	Cell shape-determining protein MreD
 C1CHL5	EGPCNNKB_00058	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
 C1CUD2	EGPCNNKB_00059	SSU ribosomal protein S2p (SAe)
 Q04HW4	EGPCNNKB_00060	Translation elongation factor Ts
-	EGPCNNKB_00061	SpF51_sRNA
-	EGPCNNKB_00061	
 B2INN0	EGPCNNKB_00062	IS66 family transposase Orf2
 A0AA87C5P0	EGPCNNKB_00063	IS630 family transposase ISSpn2
 B2INM9	EGPCNNKB_00064	hypothetical protein
@@ -77,8 +69,6 @@ Q04HX2	EGPCNNKB_00071	LSU ribosomal protein L9p
 Q8DMZ2	EGPCNNKB_00072	Replicative DNA helicase DnaC
 Q8DMZ3	EGPCNNKB_00073	Hypothetical protein
 B2INL9	EGPCNNKB_00074	Choline-binding protein D
-	EGPCNNKB_00075	TPP
-	EGPCNNKB_00075	
 Q8DMZ5	EGPCNNKB_00076	Cytoplasmic thiamin-binding component of thiamin ABC transporter
 A0A0T7TNK1	EGPCNNKB_00077	Thiamin ABC transporter ThiX%2C transmembrane component
 Q8DMZ7	EGPCNNKB_00078	Thiamin ABC transporter ThiY%2C substrate-binding component
@@ -91,8 +81,6 @@ A2T3V8	EGPCNNKB_00084	Rhomboid family integral membrane protein
 A0A1M4NJV9	EGPCNNKB_00085	Choline-binding protein A
 A0A4J2GM32	EGPCNNKB_00086	IS1167 transposase Orf2
 A0A4J2B888	EGPCNNKB_00087	IS1167 transposase
-	EGPCNNKB_00088	Srn266
-	EGPCNNKB_00088	
 A0AA87CG79	EGPCNNKB_00089	hypothetical protein
 A0AA86XU38	EGPCNNKB_00090	tRNA dihydrouridine synthase B
 Q04HY8	EGPCNNKB_00091	Chaperonin%2C heat shock protein 33
@@ -102,14 +90,8 @@ A0AA86X0L3	EGPCNNKB_00094	Alpha-glycerophosphate oxidase
 A0A0H2ZPJ9	EGPCNNKB_00095	Glycerol uptake facilitator protein
 B1I9Z2	EGPCNNKB_00096	Hypothetical protein
 A0A4J1NJ06	EGPCNNKB_00097	hypothetical protein
-	EGPCNNKB_00098	group-II-D1D4-3
-	EGPCNNKB_00098	
-	EGPCNNKB_00099	group-II-D1D4-1
-	EGPCNNKB_00099	
 Q8DN09	EGPCNNKB_00100	hypothetical protein
 A0A822QAK2	EGPCNNKB_00101	hypothetical protein
-	EGPCNNKB_00102	Intron_gpII
-	EGPCNNKB_00102	
 A0AA36LHR5	EGPCNNKB_00103	Macrolide-efflux protein
 C1CU95	EGPCNNKB_00104	D-alanine--poly(phosphoribitol) ligase subunit 1
 A0A0B7L8I4	EGPCNNKB_00105	D-alanyl transfer protein DltB
@@ -119,10 +101,6 @@ Q8DN14	EGPCNNKB_00108	Transcriptional repressor AdcR for Zn(2+)-responsive expre
 B2INJ0	EGPCNNKB_00109	Zinc ABC transporter%2C ATP-binding protein AdcC
 O33704	EGPCNNKB_00110	Zinc ABC transporter%2C permease protein AdcB
 A0A0U0LI09	EGPCNNKB_00111	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
-	EGPCNNKB_00112	SpF66_sRNA
-	EGPCNNKB_00112	
-	EGPCNNKB_00113	SpF66_sRNA
-	EGPCNNKB_00113	
 B2INI7	EGPCNNKB_00114	L-fucose operon activator
 A0A9P1Q391	EGPCNNKB_00115	L-fuculokinase
 A0A558TAT7	EGPCNNKB_00116	L-fuculose phosphate aldolase
@@ -211,11 +189,7 @@ C1CH10	EGPCNNKB_00198	Putative cupin superfamily protein
 A0A0H2US16	EGPCNNKB_00199	IS1381 transposase OrfB
 C1CTY4	EGPCNNKB_00200	Arginyl-tRNA synthetase
 B2IMZ7	EGPCNNKB_00201	Arginine pathway regulatory protein ArgR1
-	EGPCNNKB_00202	SpR10_sRNA
-	EGPCNNKB_00202	
 C8XPW9	EGPCNNKB_00203	DNA mismatch repair protein HexA
-	EGPCNNKB_00204	patAB
-	EGPCNNKB_00204	
 A0AA86XVJ4	EGPCNNKB_00205	Multidrug resistance ABC transporter ATP-binding and permease protein
 B2IMZ4	EGPCNNKB_00206	hypothetical protein
 A0AA86XEC5	EGPCNNKB_00207	Multidrug resistance ABC transporter ATP-binding and permease protein
@@ -223,38 +197,6 @@ A0A0B7LSD8	EGPCNNKB_00208	Glutamine amidotransferase%2C class I
 A0A4J2FXP4	EGPCNNKB_00209	Glucose-6-phosphate isomerase
 A0A0B7LT42	EGPCNNKB_00210	Glutamyl-tRNA synthetase
 Q8DN75	EGPCNNKB_00211	Cytidine/deoxycytidylate deaminase family protein
-	EGPCNNKB_00212	tRNA-Glu(ttc)
-	EGPCNNKB_00212	
-	EGPCNNKB_00213	16S ribosomal RNA
-	EGPCNNKB_00213	
-	EGPCNNKB_00214	tRNA-Ala(tgc)
-	EGPCNNKB_00214	
-	EGPCNNKB_00215	23S ribosomal RNA
-	EGPCNNKB_00215	
-	EGPCNNKB_00216	5S ribosomal RNA
-	EGPCNNKB_00216	
-	EGPCNNKB_00217	tRNA-Val(tac)
-	EGPCNNKB_00217	
-	EGPCNNKB_00218	tRNA-Gly(tcc)
-	EGPCNNKB_00218	
-	EGPCNNKB_00219	tRNA-Ile(gat)
-	EGPCNNKB_00219	
-	EGPCNNKB_00220	tRNA-Ser(tga)
-	EGPCNNKB_00220	
-	EGPCNNKB_00221	tRNA-Met(cat)
-	EGPCNNKB_00221	
-	EGPCNNKB_00222	tRNA-Phe(gaa)
-	EGPCNNKB_00222	
-	EGPCNNKB_00223	tRNA-Tyr(gta)
-	EGPCNNKB_00223	
-	EGPCNNKB_00224	tRNA-Trp(cca)
-	EGPCNNKB_00224	
-	EGPCNNKB_00225	tRNA-His(gtg)
-	EGPCNNKB_00225	
-	EGPCNNKB_00226	tRNA-Gln(ttg)
-	EGPCNNKB_00226	
-	EGPCNNKB_00227	tRNA-Leu(caa)
-	EGPCNNKB_00227	
 A0AA86YCC5	EGPCNNKB_00228	Hypothetical protein
 A0AA87C5K9	EGPCNNKB_00229	Threonine synthase
 A0A0T8CKE6	EGPCNNKB_00230	Multi antimicrobial extrusion family transporter
@@ -313,34 +255,6 @@ Q75YD8	EGPCNNKB_00282	Multimodular transpeptidase-transglycosylase%2C penicillin
 Q8DNB7	EGPCNNKB_00283	Protein translocase subunit SecE
 C1CGT9	EGPCNNKB_00284	Transcription antitermination protein NusG
 Q9R2W8	EGPCNNKB_00285	Competence-specific sigma factor ComX
-	EGPCNNKB_00286	tRNA-Glu(ttc)
-	EGPCNNKB_00286	
-	EGPCNNKB_00287	16S ribosomal RNA
-	EGPCNNKB_00287	
-	EGPCNNKB_00288	tRNA-Ala(tgc)
-	EGPCNNKB_00288	
-	EGPCNNKB_00289	23S ribosomal RNA
-	EGPCNNKB_00289	
-	EGPCNNKB_00290	5S ribosomal RNA
-	EGPCNNKB_00290	
-	EGPCNNKB_00291	tRNA-Val(tac)
-	EGPCNNKB_00291	
-	EGPCNNKB_00292	tRNA-Asp(gtc)
-	EGPCNNKB_00292	
-	EGPCNNKB_00293	tRNA-Lys(ttt)
-	EGPCNNKB_00293	
-	EGPCNNKB_00294	tRNA-Leu(tag)
-	EGPCNNKB_00294	
-	EGPCNNKB_00295	tRNA-Thr(tgt)
-	EGPCNNKB_00295	
-	EGPCNNKB_00296	tRNA-Gly(gcc)
-	EGPCNNKB_00296	
-	EGPCNNKB_00297	tRNA-Leu(taa)
-	EGPCNNKB_00297	
-	EGPCNNKB_00298	tRNA-Arg(acg)
-	EGPCNNKB_00298	
-	EGPCNNKB_00299	tRNA-Pro(tgg)
-	EGPCNNKB_00299	
 A0A655GS10	EGPCNNKB_00300	IS1380 family transposase ISSpn5
 A0A0B7MA59	EGPCNNKB_00301	Hypothetical protein
 A0A0H2ZP90	EGPCNNKB_00302	Hypothetical protein
@@ -360,8 +274,6 @@ A0AA86XN69	EGPCNNKB_00315	hypothetical protein
 A0A0U0L1T2	EGPCNNKB_00316	Putative deoxyribonuclease TatD
 C1CA35	EGPCNNKB_00317	Ribonuclease M5
 A0AA86XMC5	EGPCNNKB_00318	Transcriptional regulator
-	EGPCNNKB_00319	SpR08_sRNA
-	EGPCNNKB_00319	
 A0AA86Y1H5	EGPCNNKB_00320	Putative immunity protein
 Q8DND2	EGPCNNKB_00321	ABC transporter%2C ATP-binding protein
 A0AA86XX43	EGPCNNKB_00322	Hypothetical protein
@@ -387,10 +299,6 @@ Q97NQ4	EGPCNNKB_00341	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 Q03159	EGPCNNKB_00342	Competence-associated EpuA protein
 A0A0E7Y8S8	EGPCNNKB_00343	DNA-entry nuclease
 A0A0H2URP2	EGPCNNKB_00344	Putative hemolysin
-	EGPCNNKB_00345	tRNA-Cys(gca)
-	EGPCNNKB_00345	
-	EGPCNNKB_00346	Lacto-rpoB
-	EGPCNNKB_00346	
 A0A0B7L1K2	EGPCNNKB_00347	DNA-directed RNA polymerase beta subunit
 Q97NQ8	EGPCNNKB_00348	DNA-directed RNA polymerase beta' subunit
 Q04IK8	EGPCNNKB_00349	Nucleoside diphosphate kinase
@@ -399,14 +307,10 @@ A0A0T8QQB1	EGPCNNKB_00351	ABC transporter%2C ATP-binding protein
 A0A098APA1	EGPCNNKB_00352	hypothetical protein
 B2IS01	EGPCNNKB_00353	Transposase from transposon Tn916
 P61624	EGPCNNKB_00354	hypothetical protein
-	EGPCNNKB_00355	pemK
-	EGPCNNKB_00355	
 B2IQG0	EGPCNNKB_00356	hypothetical protein
 B7UTW8	EGPCNNKB_00357	hypothetical protein
 B1IC82	EGPCNNKB_00358	hypothetical protein
 A0A060QP53	EGPCNNKB_00359	hypothetical protein
-	EGPCNNKB_00360	sRNA_1300
-	EGPCNNKB_00360	
 Q7BKK4	EGPCNNKB_00361	Macrolide ABC transporter membrane-spanning permease
 Q93QE4	EGPCNNKB_00362	ABC-F type ribosomal protection protein Msr(D)
 A0A7D4W1F3	EGPCNNKB_00363	hypothetical protein
@@ -414,8 +318,6 @@ Q7BD38	EGPCNNKB_00364	hypothetical protein
 Q7BD37	EGPCNNKB_00365	hypothetical protein
 A0A098Z6Q4	EGPCNNKB_00366	hypothetical protein
 A0A060QP50	EGPCNNKB_00367	Translation elongation factor G
-	EGPCNNKB_00368	sRNA_0030
-	EGPCNNKB_00368	
 A0A7D5A3K0	EGPCNNKB_00369	hypothetical protein
 B2IRZ0	EGPCNNKB_00370	hypothetical protein
 A0A7D4ZY64	EGPCNNKB_00371	hypothetical protein
@@ -477,60 +379,12 @@ A0A0H2XDQ1	EGPCNNKB_00426	Single-stranded DNA-binding protein SsbB
 C1CTD7	EGPCNNKB_00427	Heat shock protein 60 family co-chaperone GroES
 Q04IQ3	EGPCNNKB_00428	Heat shock protein 60 family chaperone GroEL
 A0A0B7MCZ4	EGPCNNKB_00429	Epoxyqueuosine reductase QueH
-	EGPCNNKB_00430	Spy392987
-	EGPCNNKB_00430	
 A0A0B7M6C0	EGPCNNKB_00431	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
 A0A0B7M7J4	EGPCNNKB_00432	Positive transcriptional regulator%2C MutR family
 A0A0B7L322	EGPCNNKB_00433	hypothetical protein
-	EGPCNNKB_00434	Spy392987
-	EGPCNNKB_00434	
 Q8DNH5	EGPCNNKB_00435	Cysteinyl-tRNA synthetase related protein
 A0A0E7YX54	EGPCNNKB_00436	Regulatory protein RecX
 A0AA86Y1M3	EGPCNNKB_00437	RNA methyltransferase%2C TrmA family
-	EGPCNNKB_00438	tRNA-Glu(ttc)
-	EGPCNNKB_00438	
-	EGPCNNKB_00439	16S ribosomal RNA
-	EGPCNNKB_00439	
-	EGPCNNKB_00440	tRNA-Ala(tgc)
-	EGPCNNKB_00440	
-	EGPCNNKB_00441	23S ribosomal RNA
-	EGPCNNKB_00441	
-	EGPCNNKB_00442	5S ribosomal RNA
-	EGPCNNKB_00442	
-	EGPCNNKB_00443	tRNA-Val(tac)
-	EGPCNNKB_00443	
-	EGPCNNKB_00444	tRNA-Asp(gtc)
-	EGPCNNKB_00444	
-	EGPCNNKB_00445	tRNA-Lys(ttt)
-	EGPCNNKB_00445	
-	EGPCNNKB_00446	tRNA-Leu(tag)
-	EGPCNNKB_00446	
-	EGPCNNKB_00447	tRNA-Thr(tgt)
-	EGPCNNKB_00447	
-	EGPCNNKB_00448	tRNA-Gly(gcc)
-	EGPCNNKB_00448	
-	EGPCNNKB_00449	tRNA-Leu(taa)
-	EGPCNNKB_00449	
-	EGPCNNKB_00450	tRNA-Arg(acg)
-	EGPCNNKB_00450	
-	EGPCNNKB_00451	tRNA-Pro(tgg)
-	EGPCNNKB_00451	
-	EGPCNNKB_00452	tRNA-Met(cat)
-	EGPCNNKB_00452	
-	EGPCNNKB_00453	tRNA-Met(cat)
-	EGPCNNKB_00453	
-	EGPCNNKB_00454	tRNA-Ser(tga)
-	EGPCNNKB_00454	
-	EGPCNNKB_00455	tRNA-Met(cat)
-	EGPCNNKB_00455	
-	EGPCNNKB_00456	tRNA-Phe(gaa)
-	EGPCNNKB_00456	
-	EGPCNNKB_00457	tRNA-Gly(tcc)
-	EGPCNNKB_00457	
-	EGPCNNKB_00458	tRNA-Ile(gat)
-	EGPCNNKB_00458	
-	EGPCNNKB_00459	tRNA-Ser(gct)
-	EGPCNNKB_00459	
 A0A0T7JKM3	EGPCNNKB_00460	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0AA87CG11	EGPCNNKB_00461	Multiple sugar metabolism operon regulatory protein MsmR
 A0AA86X215	EGPCNNKB_00462	Alpha-galactosidase
@@ -549,8 +403,6 @@ A0A4J2FQ83	EGPCNNKB_00474	IS1380 family transposase ISSpn5
 A0A4J2G5R1	EGPCNNKB_00475	IS1167 transposase
 A0AA95D7A8	EGPCNNKB_00476	hypothetical protein
 A0A4L4F203	EGPCNNKB_00477	IS1167 transposase Orf1
-	EGPCNNKB_00478	Srn266
-	EGPCNNKB_00478	
 Q8DNI5	EGPCNNKB_00479	Trehalose operon transcriptional repressor
 C1C9F0	EGPCNNKB_00480	Trehalose-specific PTS IIBCA components
 A0AA86X3K1	EGPCNNKB_00481	Trehalose-6-phosphate hydrolase
@@ -589,8 +441,6 @@ C1CG75	EGPCNNKB_00513	Type II restriction-modification system endonuclease DpnC
 P0A3T5	EGPCNNKB_00514	Type II restriction-modification system component DpnD
 A0A0B7LUG6	EGPCNNKB_00515	Xanthine permease
 Q3I0D5	EGPCNNKB_00516	Xanthine phosphoribosyltransferase
-	EGPCNNKB_00517	Purine
-	EGPCNNKB_00517	
 A0A0B7MC34	EGPCNNKB_00518	hypothetical protein
 C1C9B1	EGPCNNKB_00519	Exodeoxyribonuclease III
 A0A0U0L0G0	EGPCNNKB_00520	hypothetical protein
@@ -635,8 +485,6 @@ C1CG18	EGPCNNKB_00558	Multiple sugar ABC transporter%2C membrane-spanning permea
 B2ISF6	EGPCNNKB_00559	ABC transporter permease protein
 A0AA86XNK2	EGPCNNKB_00560	hypothetical protein
 A0A0T7I5G6	EGPCNNKB_00561	Sucrose-6-phosphate hydrolase
-	EGPCNNKB_00562	tRNA-Lys(ctt)
-	EGPCNNKB_00562	
 A0AA86YCW5	EGPCNNKB_00563	Chromosome segregation helicase
 Q8CYD9	EGPCNNKB_00564	Hypothetical protein
 A0A6G2D3S6	EGPCNNKB_00565	Addiction module toxin HicA
@@ -819,8 +667,6 @@ C1CFG8	EGPCNNKB_00741	Major facilitator oxalate:formate antiporter
 A0AA86XFU4	EGPCNNKB_00742	DEAD-box ATP-dependent RNA helicase CshA
 C1CSK2	EGPCNNKB_00743	GTP-sensing transcriptional pleiotropic repressor CodY
 Q8DP02	EGPCNNKB_00744	Nicotinamidase
-	EGPCNNKB_00745	tRNA-Leu(aag)
-	EGPCNNKB_00745	
 Q8DP03	EGPCNNKB_00746	Multiple sugar ABC transporter%2C ATP-binding protein
 A0A0E7ZDH6	EGPCNNKB_00747	SAM-dependent methyltransferase
 C1CFG1	EGPCNNKB_00748	Adenine phosphoribosyltransferase
@@ -847,15 +693,11 @@ Q04JJ1	EGPCNNKB_00768	4-hydroxy-tetrahydrodipicolinate reductase
 A0AA86Y175	EGPCNNKB_00769	CCA tRNA nucleotidyltransferase
 A0A0E8HGI4	EGPCNNKB_00770	ATPase component of ABC transporter with duplicated ATPase domains
 C1CFD7	EGPCNNKB_00771	Cobalt-zinc-cadmium resistance protein
-	EGPCNNKB_00772	SSRC10
-	EGPCNNKB_00772	
 C1CFD6	EGPCNNKB_00773	Calcium-transporting ATPase
 A0A0H2UQV0	EGPCNNKB_00774	Glutathione S-transferase
 Q8DP22	EGPCNNKB_00775	Peptide deformylase
 A0A0T8IT76	EGPCNNKB_00776	Cell shape-determining protein
 A0A229FM92	EGPCNNKB_00777	Hypothetical protein
-	EGPCNNKB_00778	SpR20_sRNA
-	EGPCNNKB_00778	
 Q8DP23	EGPCNNKB_00779	hypothetical protein
 A0AA87CB43	EGPCNNKB_00780	M protein trans-acting positive regulator Mga1
 A0AA86Y143	EGPCNNKB_00781	hypothetical protein
@@ -992,10 +834,6 @@ C1CDK5	EGPCNNKB_00911	Hypothetical protein
 Q8DQB0	EGPCNNKB_00912	Putative membrane protein
 Q04L55	EGPCNNKB_00913	Pyrrolidone-carboxylate peptidase
 A0A4F2RY34	EGPCNNKB_00914	Hypothetical protein
-	EGPCNNKB_00915	tRNA-Tyr(gta)
-	EGPCNNKB_00915	
-	EGPCNNKB_00916	tRNA-Gln(ttg)
-	EGPCNNKB_00916	
 C1CDK9	EGPCNNKB_00917	SSU ribosomal protein S1p
 A0A0U0BZA9	EGPCNNKB_00918	GAF domain-containing protein
 A0A0U0J2A6	EGPCNNKB_00919	DNA polymerase III subunits gamma and tau
@@ -1007,10 +845,6 @@ A0A0B7MD89	EGPCNNKB_00924	Putative iron-sulfur cluster assembly scaffold protein
 A0AA87CC06	EGPCNNKB_00925	Iron-sulfur cluster assembly protein SufB
 Q75Y14	EGPCNNKB_00926	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 Q8DQ98	EGPCNNKB_00927	Coordinator of zonal cell elongation
-	EGPCNNKB_00928	transfer-messenger RNA%2C SsrA
-	EGPCNNKB_00928	
-	EGPCNNKB_00929	tRNA-Ser(gga)
-	EGPCNNKB_00929	
 A0A0U0FF33	EGPCNNKB_00930	Transcriptional repressor of the fructose operon%2C DeoR family
 A0A9Q9R504	EGPCNNKB_00931	1-phosphofructokinase
 A0AA86XI73	EGPCNNKB_00932	Fructose-specific PTS IIABC components
@@ -1045,8 +879,6 @@ A0A098ZMD2	EGPCNNKB_00960	Hypothetical protein
 A0A0B7LIN4	EGPCNNKB_00961	Transcription accessory protein
 C1CRY6	EGPCNNKB_00962	Putative SprT family zinc-dependent metallopeptidase
 A0A5C8QW28	EGPCNNKB_00963	Putative phage shock protein C
-	EGPCNNKB_00964	Spd-sr07
-	EGPCNNKB_00964	
 Q8CYW5	EGPCNNKB_00965	Hypothetical protein
 A0A0B7KXN1	EGPCNNKB_00966	Hypothetical protein
 C1CDQ8	EGPCNNKB_00967	ABC transporter ATP-binding protein
@@ -1090,8 +922,6 @@ A0A6I3VL05	EGPCNNKB_01004	Late competence DNA transporter ComEC
 A0A4M6CZN2	EGPCNNKB_01005	hypothetical protein
 A0A6I3T907	EGPCNNKB_01006	ABC transporter%2C ATP-binding protein
 A0A0E8T6Q0	EGPCNNKB_01007	Hypothetical protein
-	EGPCNNKB_01008	L20_leader
-	EGPCNNKB_01008	
 Q04KW9	EGPCNNKB_01009	Translation initiation factor 3
 Q04KW8	EGPCNNKB_01010	LSU ribosomal protein L35p
 Q04KW7	EGPCNNKB_01011	LSU ribosomal protein L20p
@@ -1130,14 +960,10 @@ C1CDY9	EGPCNNKB_01043	Glycerophosphoryl diester phosphodiesterase
 A0A4H9FG63	EGPCNNKB_01044	IS1167 transposase
 A0A4P0AN65	EGPCNNKB_01045	hypothetical protein
 A0A4J1YM21	EGPCNNKB_01046	IS1167 transposase Orf1
-	EGPCNNKB_01047	Srn266
-	EGPCNNKB_01047	
 C1CGU6	EGPCNNKB_01048	IS630 family transposase IS630-Spn1
 A0A4F2S4D7	EGPCNNKB_01049	Hypothetical protein
 C1CDZ4	EGPCNNKB_01050	Cytochrome c-type biogenesis protein CcdA-2
 A0A5R9ATM3	EGPCNNKB_01051	Thiol:disulfide oxidoreductase
-	EGPCNNKB_01052	SpF36_sRNA
-	EGPCNNKB_01052	
 B2IPF3	EGPCNNKB_01053	Cationic amino acid transporter%2C APC Superfamily
 Q8DQ09	EGPCNNKB_01054	Laminin-binding surface protein
 A0A0E3JFL0	EGPCNNKB_01055	Pneumococcal histidine triad protein D
@@ -1155,13 +981,7 @@ A0A0U0FLZ7	EGPCNNKB_01066	hypothetical protein
 C1CRD1	EGPCNNKB_01067	Ferrochelatase%2C protoheme ferro-lyase
 A0AA86XRF7	EGPCNNKB_01068	Large-conductance mechanosensitive channel MscL
 Q8DQ02	EGPCNNKB_01069	GtrA family protein
-	EGPCNNKB_01070	preQ1-II
-	EGPCNNKB_01070	
 Q8DQ01	EGPCNNKB_01071	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	EGPCNNKB_01072	tRNA-Thr(ggt)
-	EGPCNNKB_01072	
-	EGPCNNKB_01073	asd
-	EGPCNNKB_01073	
 A0A064C4U3	EGPCNNKB_01074	Aspartate-semialdehyde dehydrogenase
 C1CRD6	EGPCNNKB_01075	4-hydroxy-tetrahydrodipicolinate synthase
 B1IBH5	EGPCNNKB_01076	GTPase and tRNA-U34 5-formylation enzyme MnmE
@@ -1176,10 +996,6 @@ B2IPI1	EGPCNNKB_01084	Pseudouridylate synthase%2C 23S RNA-specific
 C1C701	EGPCNNKB_01085	Pneumococcal vaccine antigen A
 A0A0B7L1A6	EGPCNNKB_01086	Extracellular protein
 A0AA86Y2X5	EGPCNNKB_01087	23S rRNA (uracil(1939)-C(5))-methyltransferase
-	EGPCNNKB_01088	SpF61_sRNA
-	EGPCNNKB_01088	
-	EGPCNNKB_01089	SpF39_sRNA
-	EGPCNNKB_01089	
 C1CE21	EGPCNNKB_01090	Hypothetical protein
 Q8DPY6	EGPCNNKB_01091	Iron compound ABC uptake transporter substrate-binding protein PiaA
 A0A0U0D917	EGPCNNKB_01092	Iron compound ABC uptake transporter permease protein PiaB
@@ -1192,8 +1008,6 @@ Q9KK10	EGPCNNKB_01098	IS1380 family transposase ISSpn5
 A0A4J2BYR8	EGPCNNKB_01099	IS1380 family transposase ISSpn5
 A0AA87CBA5	EGPCNNKB_01100	hypothetical protein
 A0A0T7TQW9	EGPCNNKB_01101	hypothetical protein
-	EGPCNNKB_01102	pemK
-	EGPCNNKB_01102	
 Q8CYT9	EGPCNNKB_01103	Hypothetical protein
 A0A9P1PK44	EGPCNNKB_01104	Phage integrase
 A0A0T9GFA2	EGPCNNKB_01105	Phage integrase
@@ -1213,8 +1027,6 @@ A0AA87CCX2	EGPCNNKB_01118	hypothetical protein
 A0A0B7MF81	EGPCNNKB_01119	hypothetical protein
 C1C764	EGPCNNKB_01120	Cell division protein FtsW
 A0A4G1W0T6	EGPCNNKB_01121	Phosphoenolpyruvate carboxylase
-	EGPCNNKB_01122	T-box
-	EGPCNNKB_01122	
 C1C766	EGPCNNKB_01123	ABC transporter substrate-binding protein
 Q8DPW3	EGPCNNKB_01124	Putative tryptophan-specific ABC transporter permease protein TrpY
 Q8DPW2	EGPCNNKB_01125	ABC transporter ATP-binding protein
@@ -1230,10 +1042,6 @@ C1CE67	EGPCNNKB_01134	Hypothetical protein
 A0A4H9FG63	EGPCNNKB_01135	IS1167 transposase
 A0A4J2D1K3	EGPCNNKB_01136	hypothetical protein
 A0A4J1U7S1	EGPCNNKB_01137	IS1167 transposase Orf1
-	EGPCNNKB_01138	Srn266
-	EGPCNNKB_01138	
-	EGPCNNKB_01139	group-II-D1D4-3
-	EGPCNNKB_01139	
 Q97QW6	EGPCNNKB_01140	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 A0A0T7IPG4	EGPCNNKB_01141	Ribosomal-protein-S5p-alanine acetyltransferase
 Q8DPV2	EGPCNNKB_01142	Cytosolic protein containing multiple CBS domains
@@ -1253,19 +1061,11 @@ Q8DPU2	EGPCNNKB_01155	GTP pyrophosphokinase
 B2IQ09	EGPCNNKB_01156	NAD kinase
 A0AA87C673	EGPCNNKB_01157	RluD-like protein
 Q8DPU0	EGPCNNKB_01158	Phosphate acetyltransferase
-	EGPCNNKB_01159	SpR14_sRNA
-	EGPCNNKB_01159	
 A0AA36PZZ3	EGPCNNKB_01160	IS1167 transposase Orf2
 A0A0U0HX93	EGPCNNKB_01161	hypothetical protein
 A0A4N0CYU3	EGPCNNKB_01162	IS1167 transposase Orf1
-	EGPCNNKB_01163	Srn266
-	EGPCNNKB_01163	
-	EGPCNNKB_01164	Srn266
-	EGPCNNKB_01164	
 Q04KI6	EGPCNNKB_01165	Hypothetical protein co-occurring with RecR
 A0A0B7M7N6	EGPCNNKB_01166	Hypothetical protein
-	EGPCNNKB_01167	L21_leader
-	EGPCNNKB_01167	
 Q97QU4	EGPCNNKB_01168	LSU ribosomal protein L21p
 C1CE93	EGPCNNKB_01169	Putative ribosomal protein
 Q04KI2	EGPCNNKB_01170	LSU ribosomal protein L27p
@@ -1289,8 +1089,6 @@ A0AA86XHR8	EGPCNNKB_01187	Hypothetical protein
 C1CRM6	EGPCNNKB_01188	Enolase
 A0A4J2GG84	EGPCNNKB_01189	IS1167 transposase Orf2
 Q4JYF9	EGPCNNKB_01190	IS1167 transposase
-	EGPCNNKB_01191	Srn266
-	EGPCNNKB_01191	
 A0A0T8C0Q6	EGPCNNKB_01192	IS630 family transposase IS630-Spn1
 A0A0T8CF02	EGPCNNKB_01193	IS630 family transposase IS630-Spn1
 A0AA87CCY2	EGPCNNKB_01194	ATP-dependent nuclease subunit RexB
@@ -1382,8 +1180,6 @@ A0AA87C4G5	EGPCNNKB_01279	Hydrolase%2C HAD superfamily
 A0A0E8I6Q3	EGPCNNKB_01280	Hydrolase%2C HAD superfamily
 A0AA86YBP5	EGPCNNKB_01281	Chromosome partition protein SMC
 A0A0T8X3V7	EGPCNNKB_01282	Ribonuclease III
-	EGPCNNKB_01283	tRNA-Arg(ccg)
-	EGPCNNKB_01283	
 C1CR55	EGPCNNKB_01284	GMP reductase
 A0AA87CFD5	EGPCNNKB_01285	Hypothetical protein
 A0A0B7LNM9	EGPCNNKB_01286	Endonuclease
@@ -1412,18 +1208,12 @@ Q97QE4	EGPCNNKB_01308	Carbamoyl-phosphate synthase large chain CarB
 A0A064BWJ2	EGPCNNKB_01309	Carbamoyl-phosphate synthase small chain CarA
 C1CR29	EGPCNNKB_01310	Aspartate carbamoyltransferase
 Q04K45	EGPCNNKB_01311	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
-	EGPCNNKB_01312	PyrR
-	EGPCNNKB_01312	
 Q8DPH8	EGPCNNKB_01313	Endonuclease III
 A0A0B7KY73	EGPCNNKB_01314	Protein%2C clustered with ribosomal protein L32p
-	EGPCNNKB_01315	SpF43_sRNA
-	EGPCNNKB_01315	
 A0AA87CFE2	EGPCNNKB_01316	ABC transporter ATP-binding protein
 C1CR23	EGPCNNKB_01317	Heat shock protein HtpX
 C1C7R4	EGPCNNKB_01318	LemA
 Q97QD4	EGPCNNKB_01319	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
-	EGPCNNKB_01320	SpF44_sRNA
-	EGPCNNKB_01320	
 A0A098ZHN3	EGPCNNKB_01321	Uracil permease
 A0AA86XP10	EGPCNNKB_01322	Signal recognition particle protein Ffh
 Q8DPH0	EGPCNNKB_01323	Signal recognition particle associated protein
@@ -1431,8 +1221,6 @@ A0A0B7M7R8	EGPCNNKB_01324	Hypothetical protein
 A0A0E7ZFQ5	EGPCNNKB_01325	dNTP triphosphohydrolase
 A0A9Q9R059	EGPCNNKB_01326	Sugar phosphatase YidA
 A0A0E7ZI26	EGPCNNKB_01327	hypothetical protein
-	EGPCNNKB_01328	tRNA-Arg(cct)
-	EGPCNNKB_01328	
 Q97QC6	EGPCNNKB_01329	LSU ribosomal protein L19p
 Q97QC5	EGPCNNKB_01330	ClC-type fluoride channel
 Q97QC4	EGPCNNKB_01331	ClC-type fluoride channel
@@ -1446,8 +1234,6 @@ A0A4J2CZ70	EGPCNNKB_01338	NADP-specific glutamate dehydrogenase
 A0AA86XFM2	EGPCNNKB_01339	hypothetical protein
 Q04JZ4	EGPCNNKB_01340	LSU ribosomal protein L7/L12 (P1/P2)
 Q04JZ3	EGPCNNKB_01341	LSU ribosomal protein L10p (P0)
-	EGPCNNKB_01342	L10_leader
-	EGPCNNKB_01342	
 A0A4J1VQN7	EGPCNNKB_01343	Methylthioadenosine deaminase
 A0AA86XCN5	EGPCNNKB_01344	ABC transporter ATP-binding/permease protein
 A0AA86XYD1	EGPCNNKB_01345	ABC transporter ATP-binding/permease protein
@@ -1531,13 +1317,9 @@ A0AA86YC75	EGPCNNKB_01422	Substrate-specific component of putative ECF transport
 A0AA86XZJ9	EGPCNNKB_01423	ABC transporter ATP-binding/permease protein
 A0AA86XE87	EGPCNNKB_01424	ABC transporter ATP-binding/permease protein
 A0AA86X2A4	EGPCNNKB_01425	Transcriptional regulator%2C AraC family
-	EGPCNNKB_01426	Srn266
-	EGPCNNKB_01426	
 A0A4N0CYU3	EGPCNNKB_01427	IS1167 transposase Orf1
 A0A0U0HX93	EGPCNNKB_01428	hypothetical protein
 A0AA36PZZ3	EGPCNNKB_01429	IS1167 transposase Orf2
-	EGPCNNKB_01430	SpR18_sRNA
-	EGPCNNKB_01430	
 Q04JQ8	EGPCNNKB_01431	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
 A0AA86XET3	EGPCNNKB_01432	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 A0A0T8ZMM1	EGPCNNKB_01433	Drug/metabolite transporter superfamily protein
@@ -1568,8 +1350,6 @@ Q8DP67	EGPCNNKB_01457	Hypothetical protein
 C1CQP4	EGPCNNKB_01458	Glycyl-tRNA synthetase beta chain
 C1CQP3	EGPCNNKB_01459	Glycyl-tRNA synthetase alpha chain
 C1C872	EGPCNNKB_01460	hypothetical protein
-	EGPCNNKB_01461	SpR19_sRNA
-	EGPCNNKB_01461	
 A0A4F2S748	EGPCNNKB_01462	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
 B2IQU5	EGPCNNKB_01463	Peptidoglycan N-acetylglucosamine deacetylase
 C1CF62	EGPCNNKB_01464	hypothetical protein
@@ -1622,8 +1402,6 @@ C1CD82	EGPCNNKB_01510	Pyruvate oxidase
 A0A0T8UEJ4	EGPCNNKB_01511	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
 A0A916P4L1	EGPCNNKB_01512	Copper-exporting ATPase
 A0A0T7ZZL5	EGPCNNKB_01513	Negative transcriptional regulator of copper transport operon
-	EGPCNNKB_01514	TPP
-	EGPCNNKB_01514	
 A0A0H2UP75	EGPCNNKB_01515	Hydroxymethylpyrimidine phosphate kinase ThiD
 C1CD77	EGPCNNKB_01516	Thiamin-phosphate pyrophosphorylase
 C1CQI9	EGPCNNKB_01517	Hydroxyethylthiazole kinase
@@ -1632,13 +1410,9 @@ A0A0T9I454	EGPCNNKB_01519	Thiaminase II TenA
 A0AA86XTL1	EGPCNNKB_01520	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A0E7Z2L0	EGPCNNKB_01521	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 C1CD71	EGPCNNKB_01522	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
-	EGPCNNKB_01523	TPP
-	EGPCNNKB_01523	
 A0A062WTJ4	EGPCNNKB_01524	Thiamin-phosphate pyrophosphorylase
 A0A559BUT6	EGPCNNKB_01525	Hydroxyethylthiazole kinase
 Q8DQK6	EGPCNNKB_01526	Thiaminase II
-	EGPCNNKB_01527	TPP
-	EGPCNNKB_01527	
 Q8DQK7	EGPCNNKB_01528	L-Lactate 2-monooxygenase
 A0A4J2FQ83	EGPCNNKB_01529	IS1380 family transposase ISSpn5
 A0A4F2RZV8	EGPCNNKB_01530	Class II lysyl-tRNA synthetase
@@ -1657,8 +1431,6 @@ A0A0D6J942	EGPCNNKB_01542	Hypothetical protein
 A0A0B7LBR9	EGPCNNKB_01543	Hypothetical protein
 P0CB78	EGPCNNKB_01544	Orotate phosphoribosyltransferase
 C1CQG7	EGPCNNKB_01545	Orotidine 5'-phosphate decarboxylase
-	EGPCNNKB_01546	PyrR
-	EGPCNNKB_01546	
 A0AA87CCP9	EGPCNNKB_01547	Cell division protein DivIB
 C1CQG5	EGPCNNKB_01548	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
 A0AA86X3K8	EGPCNNKB_01549	UDP-N-acetylmuramoylalanine--D-glutamate ligase
@@ -1697,8 +1469,6 @@ Q8DQP3	EGPCNNKB_01581	Putative rRNA methylase YtqB
 A0AA86XAH6	EGPCNNKB_01582	hypothetical protein
 A0A4J2CLY0	EGPCNNKB_01583	hypothetical protein
 A0A916L609	EGPCNNKB_01584	Hypothetical protein
-	EGPCNNKB_01585	SpF25_sRNA
-	EGPCNNKB_01585	
 A0A9P1VJZ2	EGPCNNKB_01586	hypothetical protein
 A0AA86XHW0	EGPCNNKB_01587	hypothetical protein
 A0A4I7EUS8	EGPCNNKB_01588	hypothetical protein
@@ -1712,16 +1482,12 @@ Q8DQP8	EGPCNNKB_01595	Multidrug ABC transporter permease protein
 Q8DQP9	EGPCNNKB_01596	Antibiotic ABC transporter permease protein
 B2IMV0	EGPCNNKB_01597	ABC transporter ATP-binding protein
 A0A0B7LEL3	EGPCNNKB_01598	Hypothetical protein
-	EGPCNNKB_01599	Intron_gpII
-	EGPCNNKB_01599	
 B8ZML9	EGPCNNKB_01600	LSU ribosomal protein L1p (L10Ae)
 Q97RZ6	EGPCNNKB_01601	LSU ribosomal protein L11p (L12e)
 C1CD01	EGPCNNKB_01602	L%2CD-carboxypeptidase
 C1CD00	EGPCNNKB_01603	Histidine triad family protein
 A0A4J2FUI6	EGPCNNKB_01604	Deblocking aminopeptidase
 A0A5R9B059	EGPCNNKB_01605	Branched-chain amino acid transport system carrier protein
-	EGPCNNKB_01606	SpF22_sRNA
-	EGPCNNKB_01606	
 C1CCZ6	EGPCNNKB_01607	hypothetical protein
 C1CCZ5	EGPCNNKB_01608	Uracil-DNA glycosylase
 C1CCZ4	EGPCNNKB_01609	Dipeptidase PepV
@@ -1764,8 +1530,6 @@ Q97S36	EGPCNNKB_01645	Phenylalanyl-tRNA synthetase alpha chain
 A0A9P1PCH1	EGPCNNKB_01646	6-phospho-beta-glucosidase
 A0A4M2KPQ3	EGPCNNKB_01647	Beta-glucoside-specific PTS IIBCA components
 A0A064C2F5	EGPCNNKB_01648	Beta-glucoside bgl operon antiterminator BglG
-	EGPCNNKB_01649	SpF19_sRNA
-	EGPCNNKB_01649	
 Q8DNZ4	EGPCNNKB_01650	IS3 family transposase ISSpn11
 A0A4J2AWX3	EGPCNNKB_01651	IS3 family transposase ISSpn11
 C1C5U5	EGPCNNKB_01652	Fic domain protein
@@ -1801,10 +1565,6 @@ G3ECD6	EGPCNNKB_01681	IS5 family transposase ISSpn7
 A0A0U0LIG7	EGPCNNKB_01682	hypothetical protein
 A0A0T8K1H1	EGPCNNKB_01683	hypothetical protein
 A0A0T8BFS0	EGPCNNKB_01684	Putative protease
-	EGPCNNKB_01685	group-II-D1D4-1
-	EGPCNNKB_01685	
-	EGPCNNKB_01686	group-II-D1D4-3
-	EGPCNNKB_01686	
 A0A0U0CGX7	EGPCNNKB_01687	hypothetical protein
 A0A0T8B7W5	EGPCNNKB_01688	hypothetical protein
 A0A4J1XGS9	EGPCNNKB_01689	hypothetical protein
@@ -1846,11 +1606,7 @@ B1IA30	EGPCNNKB_01724	Hypothetical protein
 B1IA29	EGPCNNKB_01725	Hypothetical protein
 A0AA87CAZ7	EGPCNNKB_01726	Membrane-associated phospholipid phosphatase
 A0AA86XGY0	EGPCNNKB_01727	Substrate-specific component RibU of riboflavin ECF transporter
-	EGPCNNKB_01728	FMN
-	EGPCNNKB_01728	
 C1CCN4	EGPCNNKB_01729	tRNA (cytidine(34)-2'-O)-methyltransferase
-	EGPCNNKB_01730	23S-methyl
-	EGPCNNKB_01730	
 C1CCN3	EGPCNNKB_01731	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
 A0A0E7TIQ9	EGPCNNKB_01732	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 B2IM89	EGPCNNKB_01733	Hypothetical protein
@@ -1867,8 +1623,6 @@ B1I9R3	EGPCNNKB_01743	Xylose repressor protein
 A0A0T9I2B2	EGPCNNKB_01744	Hypothetical protein
 A0A0U0DZP2	EGPCNNKB_01745	Hypothetical protein
 A0A0T8UQK3	EGPCNNKB_01746	hypothetical protein
-	EGPCNNKB_01747	Srn266
-	EGPCNNKB_01747	
 A0AA86Y2V6	EGPCNNKB_01748	IS1167 transposase
 A0A4J2CEE8	EGPCNNKB_01749	IS1167 transposase
 A7KT36	EGPCNNKB_01750	hypothetical protein
@@ -1878,8 +1632,6 @@ A7KT33	EGPCNNKB_01753	hypothetical protein
 A7KT39	EGPCNNKB_01754	hypothetical protein
 A7KT38	EGPCNNKB_01755	hypothetical protein
 B1I9Q2	EGPCNNKB_01756	hypothetical protein
-	EGPCNNKB_01757	Srn266
-	EGPCNNKB_01757	
 A0A9P1PEP5	EGPCNNKB_01758	IS1167 transposase
 B1I9Q0	EGPCNNKB_01759	Pyruvate formate-lyase
 A0A0T9I448	EGPCNNKB_01760	DNA polymerase IV
@@ -1927,8 +1679,6 @@ Q97SG0	EGPCNNKB_01801	Seryl-tRNA synthetase
 A0A916P581	EGPCNNKB_01802	Exfoliative toxin A
 Q8DR24	EGPCNNKB_01803	Macrophage infectivity potentiator protein
 A0AA87CGC4	EGPCNNKB_01804	Sodium/glycine symporter GlyP
-	EGPCNNKB_01805	Glycine
-	EGPCNNKB_01805	
 C1CPR7	EGPCNNKB_01806	Recombination inhibitory protein MutS2
 C1C5E3	EGPCNNKB_01807	Z-ring positive regulator ZapB
 C1CCH1	EGPCNNKB_01808	Z-ring positive regulator ZapA
@@ -1956,8 +1706,6 @@ B1I9H6	EGPCNNKB_01829	Orphan response regulator RitR
 A0AA86Y7E2	EGPCNNKB_01830	6-phosphogluconate dehydrogenase%2C decarboxylating
 A0AA86XCW6	EGPCNNKB_01831	Mid-cell-anchored protein Z
 A0A916L4N7	EGPCNNKB_01832	23S rRNA (guanine(2445)-N(2))-methyltransferase
-	EGPCNNKB_01833	RNaseP_bact_b
-	EGPCNNKB_01833	
 C1CPN9	EGPCNNKB_01834	Cell division protein GpsB
 A0A0E8LBN5	EGPCNNKB_01835	Hypothetical protein
 T2BR99	EGPCNNKB_01836	RecU Holliday junction resolvase
@@ -2011,18 +1759,12 @@ A0AA95DAT1	EGPCNNKB_01883	IS200/IS605 family transposase ISStin10
 M4YR67	EGPCNNKB_01884	Hyaluronate lyase precursor SpnHL
 A0A4J1WJM0	EGPCNNKB_01885	Hyaluronate lyase precursor SpnHL
 Q8DR82	EGPCNNKB_01886	Glutathione peroxidase family protein
-	EGPCNNKB_01887	SpF11_sRNA
-	EGPCNNKB_01887	
 A0A098Z6C6	EGPCNNKB_01888	Maltodextrin glucosidase
-	EGPCNNKB_01889	SpF10_sRNA
-	EGPCNNKB_01889	
 A0A0B7LX26	EGPCNNKB_01890	hypothetical protein
 Q8CZ76	EGPCNNKB_01891	Hypothetical protein
 C1CC87	EGPCNNKB_01892	Tyrosine recombinase XerC
 Q8CWU4	EGPCNNKB_01893	SSU ribosomal protein S9p (S16e)
 Q8CWU5	EGPCNNKB_01894	LSU ribosomal protein L13p (L13Ae)
-	EGPCNNKB_01895	L13_leader
-	EGPCNNKB_01895	
 Q8CZ79	EGPCNNKB_01896	Hypothetical protein
 C1CC82	EGPCNNKB_01897	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 C1CIH2	EGPCNNKB_01898	GTP cyclohydrolase I type 1
@@ -2055,13 +1797,9 @@ C1CPD8	EGPCNNKB_01924	Prolyl-tRNA synthetase
 A0A0T8CCL6	EGPCNNKB_01925	Intramembrane protease Eep
 C1CB37	EGPCNNKB_01926	Phosphatidate cytidylyltransferase
 Q8DRB3	EGPCNNKB_01927	Undecaprenyl diphosphate synthase
-	EGPCNNKB_01928	csRNA
-	EGPCNNKB_01928	
 A0A9P1PBI0	EGPCNNKB_01929	Hypothetical protein
 A0A0B7LYW5	EGPCNNKB_01930	Hypothetical protein
 Q8CWU7	EGPCNNKB_01931	Holliday junction DNA helicase RuvB
-	EGPCNNKB_01932	csRNA
-	EGPCNNKB_01932	
 B1I8Y5	EGPCNNKB_01933	Acetyltransferase%2C GNAT family
 B1I8Y4	EGPCNNKB_01934	Acetyltransferase%2C GNAT family
 B1I8Y3	EGPCNNKB_01935	hypothetical protein
@@ -2084,12 +1822,8 @@ A0AAD2KDW9	EGPCNNKB_01951	hypothetical protein
 A0A0T9A4V7	EGPCNNKB_01952	hypothetical protein
 A0A0B7LV95	EGPCNNKB_01953	hypothetical protein
 B1I8M8	EGPCNNKB_01954	Phosphoglycerate mutase family protein
-	EGPCNNKB_01955	csRNA
-	EGPCNNKB_01955	
 A0A4J2FMK8	EGPCNNKB_01956	hypothetical protein
 C1CC34	EGPCNNKB_01957	ACT domain-containing transcriptional regulator
-	EGPCNNKB_01958	L17DE
-	EGPCNNKB_01958	
 Q8CWU8	EGPCNNKB_01959	LSU ribosomal protein L17p
 Q04ML1	EGPCNNKB_01960	DNA-directed RNA polymerase alpha subunit
 Q04ML2	EGPCNNKB_01961	SSU ribosomal protein S11p (S14e)
@@ -2159,8 +1893,6 @@ A0A0I9ALB8	EGPCNNKB_02024	CAAX amino terminal protease family protein
 A0A6G2DBT6	EGPCNNKB_02025	hypothetical protein
 A0A0B7M4M9	EGPCNNKB_02026	DNA-3-methyladenine glycosylase
 C1CP48	EGPCNNKB_02027	Holliday junction DNA helicase RuvA
-	EGPCNNKB_02028	FMN
-	EGPCNNKB_02028	
 A0AA87CAT9	EGPCNNKB_02029	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
 A0AA86XQ21	EGPCNNKB_02030	Riboflavin synthase RibE
 A0AA86YD39	EGPCNNKB_02031	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
@@ -2197,8 +1929,6 @@ A0A0B7M974	EGPCNNKB_02061	ABC transporter ATP-binding protein
 A0A4L1JLT3	EGPCNNKB_02062	Family 2 glycosyltransferase
 B2IRL7	EGPCNNKB_02063	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 A0AA86Y2L2	EGPCNNKB_02064	Exopolysaccharide biosynthesis glycosyltransferase EpsF
-	EGPCNNKB_02065	Srn266
-	EGPCNNKB_02065	
 A0AA36PIF3	EGPCNNKB_02066	IS1167 transposase
 A0A0E7ZP93	EGPCNNKB_02067	IS1167 transposase Orf2
 C1CP14	EGPCNNKB_02068	N(6)-L-threonylcarbamoyladenine synthase TsaD
@@ -2211,16 +1941,10 @@ Q97T34	EGPCNNKB_02074	Hypothetical protein
 C1CBU4	EGPCNNKB_02075	Ribonuclease J1 (endonuclease and 5' exonuclease)
 Q97T36	EGPCNNKB_02076	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 A0A0H2UMZ7	EGPCNNKB_02077	MutT/Nudix family protein
-	EGPCNNKB_02078	Spd-sr37
-	EGPCNNKB_02078	
 A0AA86XD06	EGPCNNKB_02079	tRNA-specific 2-thiouridylase MnmA
 A0A4J2A0N6	EGPCNNKB_02080	Surface protein PspA precursor
 Q9LAX9	EGPCNNKB_02081	Surface protein PspA precursor
 A0A0D6J4Z7	EGPCNNKB_02082	hypothetical protein
-	EGPCNNKB_02083	Bacilli-1
-	EGPCNNKB_02083	
-	EGPCNNKB_02084	SpF03_sRNA
-	EGPCNNKB_02084	
 A0A6B9PSL3	EGPCNNKB_02085	Pyridoxamine 5'-phosphate oxidase
 A0A6I3U1G6	EGPCNNKB_02086	Hypothetical protein
 A0A6I3U2Y3	EGPCNNKB_02087	Hypothetical protein
@@ -2234,11 +1958,7 @@ A0A0E9A260	EGPCNNKB_02094	Hypothetical protein
 A0AA36PVG8	EGPCNNKB_02095	hypothetical protein
 A0A9P1LV03	EGPCNNKB_02096	Lactococcin-G-processing and transport ATP-binding protein LagD
 B2IRJ1	EGPCNNKB_02097	Hypothetical protein
-	EGPCNNKB_02098	SpF03_sRNA
-	EGPCNNKB_02098	
 A0AA87C9H1	EGPCNNKB_02099	Hypothetical protein
-	EGPCNNKB_02100	Bacilli-1
-	EGPCNNKB_02100	
 A0A0B7LZ46	EGPCNNKB_02101	Argininosuccinate synthase
 B2IRI9	EGPCNNKB_02102	Amino acid ABC transporter substrate-binding/permease protein
 Q8DRI7	EGPCNNKB_02103	ABC transporter ATP-binding protein
@@ -2269,8 +1989,6 @@ B2IRG9	EGPCNNKB_02127	ABC transporter permease protein
 Q8DRJ8	EGPCNNKB_02128	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 A0AA86XNR3	EGPCNNKB_02129	Hypothetical protein
 A0A0B7LLV1	EGPCNNKB_02130	Hypothetical protein
-	EGPCNNKB_02131	SpF01_sRNA
-	EGPCNNKB_02131	
 Q04MZ3	EGPCNNKB_02132	SSU ribosomal protein S4p (S9e)
 Q9S1J1	EGPCNNKB_02133	Two-component system sensor histidine kinase
 B2IRG2	EGPCNNKB_02134	Two-component system response regulator
@@ -2319,8 +2037,6 @@ Q8DRN7	EGPCNNKB_02176	CoA-binding protein
 A0AA86Y2T4	EGPCNNKB_02177	DNA polymerase I
 A0A0B7M9C2	EGPCNNKB_02178	hypothetical protein
 A0AA87C4M3	EGPCNNKB_02179	hypothetical protein
-	EGPCNNKB_02180	Srn266
-	EGPCNNKB_02180	
 A0A0U0IDH7	EGPCNNKB_02181	hypothetical protein
 B2IR17	EGPCNNKB_02182	Ribose-phosphate pyrophosphokinase
 C1C9S3	EGPCNNKB_02183	hypothetical protein
@@ -2328,26 +2044,10 @@ C1CHC1	EGPCNNKB_02184	Carbonic anhydrase
 A0A916P522	EGPCNNKB_02185	DNA repair protein RadA
 Q8DRP1	EGPCNNKB_02186	Hypothetical protein
 Q8DRP2	EGPCNNKB_02187	Deoxyuridine 5'-triphosphate nucleotidohydrolase
-	EGPCNNKB_02188	Bacteria_small_SRP
-	EGPCNNKB_02188	
 A0A4F2S2H4	EGPCNNKB_02189	tRNA-specific adenosine-34 deaminase
-	EGPCNNKB_02190	csRNA
-	EGPCNNKB_02190	
 C1CHA1	EGPCNNKB_02191	Adenylosuccinate synthetase
 A0A5R9AWI2	EGPCNNKB_02192	Competence positive regulator ComW
 A0A0B7KRB2	EGPCNNKB_02193	IS1167 transposase Orf1
-	EGPCNNKB_02194	tRNA-Asn(gtt)
-	EGPCNNKB_02194	
-	EGPCNNKB_02195	5S ribosomal RNA
-	EGPCNNKB_02195	
-	EGPCNNKB_02196	23S ribosomal RNA
-	EGPCNNKB_02196	
-	EGPCNNKB_02197	tRNA-Ala(tgc)
-	EGPCNNKB_02197	
-	EGPCNNKB_02198	16S ribosomal RNA
-	EGPCNNKB_02198	
-	EGPCNNKB_02199	tRNA-Glu(ttc)
-	EGPCNNKB_02199	
 Q9R2W8	EGPCNNKB_02200	Competence-specific sigma factor ComX
 P59652	EGPCNNKB_02201	Cell division protein FtsH
 C1C993	EGPCNNKB_02202	Hypoxanthine-guanine phosphoribosyltransferase

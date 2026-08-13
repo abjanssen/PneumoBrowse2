@@ -24,15 +24,9 @@ O08397	PBPDCFME_00022	Chromosomal replication initiator protein DnaA
 Q8DMW1	PBPDCFME_00023	Chromosome partitioning protein ParB
 B2IP00	PBPDCFME_00024	Serine protease%2C DegP/HtrA
 Q04HU2	PBPDCFME_00025	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
-	PBPDCFME_00026	tRNA-Arg(tct)
-	PBPDCFME_00026	
 Q5QIA8	PBPDCFME_00027	Competence-stimulating peptide precursor ComC
 Q8DMW4	PBPDCFME_00028	Two-component system sensor histidine kinase ComD
 Q8DMW5	PBPDCFME_00029	Two-component system response regulator ComE
-	PBPDCFME_00030	tRNA-Glu(ttc)
-	PBPDCFME_00030	
-	PBPDCFME_00031	tRNA-Asn(gtt)
-	PBPDCFME_00031	
 Q8DMW6	PBPDCFME_00032	Transcriptional regulator%2C AcrR family
 B2INQ0	PBPDCFME_00033	hypothetical protein
 A0AA86MJL5	PBPDCFME_00034	hypothetical protein
@@ -54,8 +48,6 @@ C1CHL6	PBPDCFME_00049	Cell shape-determining protein MreD
 C1CHL5	PBPDCFME_00050	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
 C1CUD2	PBPDCFME_00051	SSU ribosomal protein S2p (SAe)
 C1CBJ1	PBPDCFME_00052	Translation elongation factor Ts
-	PBPDCFME_00053	SpF51_sRNA
-	PBPDCFME_00053	
 A0AA86JVX4	PBPDCFME_00054	IS630 family transposase ISSpn2
 A0A0T7JR70	PBPDCFME_00055	hypothetical protein
 C1CBI7	PBPDCFME_00056	Cysteine synthase
@@ -68,8 +60,6 @@ Q04HX2	PBPDCFME_00062	LSU ribosomal protein L9p
 Q8DMZ2	PBPDCFME_00063	Replicative DNA helicase DnaC
 Q8DMZ3	PBPDCFME_00064	Hypothetical protein
 A0AA86JUE5	PBPDCFME_00065	Choline-binding protein D
-	PBPDCFME_00066	TPP
-	PBPDCFME_00066	
 B1IA12	PBPDCFME_00067	Cytoplasmic thiamin-binding component of thiamin ABC transporter
 B1IA11	PBPDCFME_00068	Thiamin ABC transporter ThiX%2C transmembrane component
 Q8DMZ7	PBPDCFME_00069	Thiamin ABC transporter ThiY%2C substrate-binding component
@@ -90,10 +80,6 @@ A0A0U0JAN3	PBPDCFME_00083	Alpha-glycerophosphate oxidase
 A0AAD2Q881	PBPDCFME_00084	Glycerol uptake facilitator protein
 B1I9Z2	PBPDCFME_00085	Hypothetical protein
 A0A4J1NJ06	PBPDCFME_00086	hypothetical protein
-	PBPDCFME_00087	group-II-D1D4-3
-	PBPDCFME_00087	
-	PBPDCFME_00088	group-II-D1D4-1
-	PBPDCFME_00088	
 Q8DN09	PBPDCFME_00089	hypothetical protein
 A0A822QAK2	PBPDCFME_00090	hypothetical protein
 A0A0B7L8Y7	PBPDCFME_00091	Macrolide-efflux protein
@@ -106,10 +92,6 @@ Q8DN14	PBPDCFME_00097	Transcriptional repressor AdcR for Zn(2+)-responsive expre
 B2INJ0	PBPDCFME_00098	Zinc ABC transporter%2C ATP-binding protein AdcC
 A0A0U0GQW9	PBPDCFME_00099	Zinc ABC transporter%2C permease protein AdcB
 A0AA86J9Q5	PBPDCFME_00100	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
-	PBPDCFME_00101	SpF66_sRNA
-	PBPDCFME_00101	
-	PBPDCFME_00102	SpF66_sRNA
-	PBPDCFME_00102	
 A0A0B7LC33	PBPDCFME_00103	L-fucose operon activator
 A0A4J2BSX0	PBPDCFME_00104	L-fuculokinase
 A0A558TAT7	PBPDCFME_00105	L-fuculose phosphate aldolase
@@ -201,11 +183,7 @@ A0A0T8C5H8	PBPDCFME_00190	Putative cupin superfamily protein
 B2IPT3	PBPDCFME_00191	IS1381 transposase OrfB
 Q8DN69	PBPDCFME_00192	Arginyl-tRNA synthetase
 P0A2Y3	PBPDCFME_00193	Arginine pathway regulatory protein ArgR1
-	PBPDCFME_00194	SpR10_sRNA
-	PBPDCFME_00194	
 C8XPW7	PBPDCFME_00195	DNA mismatch repair protein HexA
-	PBPDCFME_00196	patAB
-	PBPDCFME_00196	
 A0A0B7LCV4	PBPDCFME_00197	Multidrug resistance ABC transporter ATP-binding and permease protein
 A0AA86MPT8	PBPDCFME_00198	hypothetical protein
 A0A0B7M9F3	PBPDCFME_00199	Multidrug resistance ABC transporter ATP-binding and permease protein
@@ -213,38 +191,6 @@ C1CH02	PBPDCFME_00200	Glutamine amidotransferase%2C class I
 C1CH00	PBPDCFME_00201	Glucose-6-phosphate isomerase
 C1CGZ9	PBPDCFME_00202	Glutamyl-tRNA synthetase
 C1CGZ8	PBPDCFME_00203	Cytidine/deoxycytidylate deaminase family protein
-	PBPDCFME_00204	tRNA-Glu(ttc)
-	PBPDCFME_00204	
-	PBPDCFME_00205	16S ribosomal RNA
-	PBPDCFME_00205	
-	PBPDCFME_00206	tRNA-Ala(tgc)
-	PBPDCFME_00206	
-	PBPDCFME_00207	23S ribosomal RNA
-	PBPDCFME_00207	
-	PBPDCFME_00208	5S ribosomal RNA
-	PBPDCFME_00208	
-	PBPDCFME_00209	tRNA-Val(tac)
-	PBPDCFME_00209	
-	PBPDCFME_00210	tRNA-Gly(tcc)
-	PBPDCFME_00210	
-	PBPDCFME_00211	tRNA-Ile(gat)
-	PBPDCFME_00211	
-	PBPDCFME_00212	tRNA-Ser(tga)
-	PBPDCFME_00212	
-	PBPDCFME_00213	tRNA-Met(cat)
-	PBPDCFME_00213	
-	PBPDCFME_00214	tRNA-Phe(gaa)
-	PBPDCFME_00214	
-	PBPDCFME_00215	tRNA-Tyr(gta)
-	PBPDCFME_00215	
-	PBPDCFME_00216	tRNA-Trp(cca)
-	PBPDCFME_00216	
-	PBPDCFME_00217	tRNA-His(gtg)
-	PBPDCFME_00217	
-	PBPDCFME_00218	tRNA-Gln(ttg)
-	PBPDCFME_00218	
-	PBPDCFME_00219	tRNA-Leu(caa)
-	PBPDCFME_00219	
 A0A0T8B533	PBPDCFME_00220	Hypothetical protein
 A0A380LNX4	PBPDCFME_00221	Threonine synthase
 C1CGZ5	PBPDCFME_00222	Multi antimicrobial extrusion family transporter
@@ -304,34 +250,6 @@ A0AA86JEQ7	PBPDCFME_00275	Multimodular transpeptidase-transglycosylase%2C penici
 Q8DNB7	PBPDCFME_00276	Protein translocase subunit SecE
 C1CGT9	PBPDCFME_00277	Transcription antitermination protein NusG
 A0A0H2UMS0	PBPDCFME_00278	Competence-specific sigma factor ComX
-	PBPDCFME_00279	tRNA-Glu(ttc)
-	PBPDCFME_00279	
-	PBPDCFME_00280	16S ribosomal RNA
-	PBPDCFME_00280	
-	PBPDCFME_00281	tRNA-Ala(tgc)
-	PBPDCFME_00281	
-	PBPDCFME_00282	23S ribosomal RNA
-	PBPDCFME_00282	
-	PBPDCFME_00283	5S ribosomal RNA
-	PBPDCFME_00283	
-	PBPDCFME_00284	tRNA-Val(tac)
-	PBPDCFME_00284	
-	PBPDCFME_00285	tRNA-Asp(gtc)
-	PBPDCFME_00285	
-	PBPDCFME_00286	tRNA-Lys(ttt)
-	PBPDCFME_00286	
-	PBPDCFME_00287	tRNA-Leu(tag)
-	PBPDCFME_00287	
-	PBPDCFME_00288	tRNA-Thr(tgt)
-	PBPDCFME_00288	
-	PBPDCFME_00289	tRNA-Gly(gcc)
-	PBPDCFME_00289	
-	PBPDCFME_00290	tRNA-Leu(taa)
-	PBPDCFME_00290	
-	PBPDCFME_00291	tRNA-Arg(acg)
-	PBPDCFME_00291	
-	PBPDCFME_00292	tRNA-Pro(tgg)
-	PBPDCFME_00292	
 C1CA51	PBPDCFME_00293	Hypothetical protein
 A0A380LP39	PBPDCFME_00294	Hypothetical protein
 A0AA86MFW3	PBPDCFME_00295	ABC transporter%2C ATP-binding protein
@@ -377,10 +295,6 @@ A0A380LR80	PBPDCFME_00334	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 Q03159	PBPDCFME_00335	Competence-associated EpuA protein
 A0A0B7L7Z9	PBPDCFME_00336	DNA-entry nuclease
 B1I8R6	PBPDCFME_00337	Putative hemolysin
-	PBPDCFME_00338	tRNA-Cys(gca)
-	PBPDCFME_00338	
-	PBPDCFME_00339	Lacto-rpoB
-	PBPDCFME_00339	
 A0A0B7LZ45	PBPDCFME_00340	DNA-directed RNA polymerase beta subunit
 A0AA86MP25	PBPDCFME_00341	DNA-directed RNA polymerase beta' subunit
 A0A0T7L482	PBPDCFME_00342	Nucleoside diphosphate kinase
@@ -429,58 +343,10 @@ Q8VTM9	PBPDCFME_00384	Heat shock protein 60 family co-chaperone GroES
 Q04IQ3	PBPDCFME_00385	Heat shock protein 60 family chaperone GroEL
 C1CGD6	PBPDCFME_00386	IS1167 transposase
 C1CGD5	PBPDCFME_00387	IS1167 transposase
-	PBPDCFME_00388	Srn266
-	PBPDCFME_00388	
 Q8CYC0	PBPDCFME_00389	Hypothetical protein
-	PBPDCFME_00390	Spy392987
-	PBPDCFME_00390	
 Q8DNH5	PBPDCFME_00391	Cysteinyl-tRNA synthetase related protein
 A0A0E9GYL2	PBPDCFME_00392	Regulatory protein RecX
 C1CGD1	PBPDCFME_00393	RNA methyltransferase%2C TrmA family
-	PBPDCFME_00394	tRNA-Glu(ttc)
-	PBPDCFME_00394	
-	PBPDCFME_00395	16S ribosomal RNA
-	PBPDCFME_00395	
-	PBPDCFME_00396	tRNA-Ala(tgc)
-	PBPDCFME_00396	
-	PBPDCFME_00397	23S ribosomal RNA
-	PBPDCFME_00397	
-	PBPDCFME_00398	5S ribosomal RNA
-	PBPDCFME_00398	
-	PBPDCFME_00399	tRNA-Val(tac)
-	PBPDCFME_00399	
-	PBPDCFME_00400	tRNA-Asp(gtc)
-	PBPDCFME_00400	
-	PBPDCFME_00401	tRNA-Lys(ttt)
-	PBPDCFME_00401	
-	PBPDCFME_00402	tRNA-Leu(tag)
-	PBPDCFME_00402	
-	PBPDCFME_00403	tRNA-Thr(tgt)
-	PBPDCFME_00403	
-	PBPDCFME_00404	tRNA-Gly(gcc)
-	PBPDCFME_00404	
-	PBPDCFME_00405	tRNA-Leu(taa)
-	PBPDCFME_00405	
-	PBPDCFME_00406	tRNA-Arg(acg)
-	PBPDCFME_00406	
-	PBPDCFME_00407	tRNA-Pro(tgg)
-	PBPDCFME_00407	
-	PBPDCFME_00408	tRNA-Met(cat)
-	PBPDCFME_00408	
-	PBPDCFME_00409	tRNA-Met(cat)
-	PBPDCFME_00409	
-	PBPDCFME_00410	tRNA-Ser(tga)
-	PBPDCFME_00410	
-	PBPDCFME_00411	tRNA-Met(cat)
-	PBPDCFME_00411	
-	PBPDCFME_00412	tRNA-Phe(gaa)
-	PBPDCFME_00412	
-	PBPDCFME_00413	tRNA-Gly(tcc)
-	PBPDCFME_00413	
-	PBPDCFME_00414	tRNA-Ile(gat)
-	PBPDCFME_00414	
-	PBPDCFME_00415	tRNA-Ser(gct)
-	PBPDCFME_00415	
 C1C9G9	PBPDCFME_00416	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0A0B7MFI0	PBPDCFME_00417	Multiple sugar metabolism operon regulatory protein MsmR
 A0AA86JB16	PBPDCFME_00418	Alpha-galactosidase
@@ -536,8 +402,6 @@ C1CG75	PBPDCFME_00467	Type II restriction-modification system endonuclease DpnC
 P0A3T5	PBPDCFME_00468	Type II restriction-modification system component DpnD
 A0AA86JT53	PBPDCFME_00469	Xanthine permease
 Q3I0B1	PBPDCFME_00470	Xanthine phosphoribosyltransferase
-	PBPDCFME_00471	Purine
-	PBPDCFME_00471	
 Q8CYC6	PBPDCFME_00472	hypothetical protein
 C1CG71	PBPDCFME_00473	Exodeoxyribonuclease III
 A0AA86MHZ7	PBPDCFME_00474	hypothetical protein
@@ -556,8 +420,6 @@ C1CG52	PBPDCFME_00486	Iron(III)-transport system permease protein SfuB
 Q8DNM3	PBPDCFME_00487	Mg(2+)-transport-ATPase-associated protein MgtC
 A0AA86MIY9	PBPDCFME_00488	Hypothetical protein
 Q8DNM4	PBPDCFME_00489	Galactose operon repressor%2C GalR-LacI family
-	PBPDCFME_00490	T-box
-	PBPDCFME_00490	
 A0A4J2BRX9	PBPDCFME_00491	Hypothetical protein
 A0AA86MEX1	PBPDCFME_00492	Anthranilate synthase%2C aminase component
 A0A0B7LWH4	PBPDCFME_00493	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
@@ -590,8 +452,6 @@ C1CG18	PBPDCFME_00519	Multiple sugar ABC transporter%2C membrane-spanning permea
 B2ISF6	PBPDCFME_00520	ABC transporter permease protein
 B2ISF0	PBPDCFME_00521	hypothetical protein
 A0A0T8VMK4	PBPDCFME_00522	Sucrose-6-phosphate hydrolase
-	PBPDCFME_00523	tRNA-Lys(ctt)
-	PBPDCFME_00523	
 A0A4V0ITY0	PBPDCFME_00524	Chromosome segregation helicase
 Q8CYD9	PBPDCFME_00525	Hypothetical protein
 Q8DNP2	PBPDCFME_00526	Addiction module antitoxin HicB
@@ -760,8 +620,6 @@ A0AA86MJX7	PBPDCFME_00688	Major facilitator oxalate:formate antiporter
 P0A4D7	PBPDCFME_00689	DEAD-box ATP-dependent RNA helicase CshA
 C1CSK2	PBPDCFME_00690	GTP-sensing transcriptional pleiotropic repressor CodY
 Q8DP02	PBPDCFME_00691	Nicotinamidase
-	PBPDCFME_00692	tRNA-Leu(aag)
-	PBPDCFME_00692	
 A0A0H2UQW6	PBPDCFME_00693	Multiple sugar ABC transporter%2C ATP-binding protein
 Q8DP04	PBPDCFME_00694	SAM-dependent methyltransferase
 C1CFG1	PBPDCFME_00695	Adenine phosphoribosyltransferase
@@ -809,8 +667,6 @@ A0A380LTB6	PBPDCFME_00736	hypothetical protein
 A0A4L7JWA9	PBPDCFME_00737	hypothetical protein
 A0AA86JLC6	PBPDCFME_00738	hypothetical protein
 A0A0B7LRJ1	PBPDCFME_00739	hypothetical protein
-	PBPDCFME_00740	GOLLD
-	PBPDCFME_00740	
 A0AA86MGS2	PBPDCFME_00741	hypothetical protein
 A0A4J1UIP0	PBPDCFME_00742	hypothetical protein
 A0A4J2BWE8	PBPDCFME_00743	hypothetical protein
@@ -847,15 +703,11 @@ B2IR75	PBPDCFME_00773	4-hydroxy-tetrahydrodipicolinate reductase
 A0AA86J8X0	PBPDCFME_00774	CCA tRNA nucleotidyltransferase
 A0A0T8V6V7	PBPDCFME_00775	ATPase component of ABC transporter with duplicated ATPase domains
 C1CFD7	PBPDCFME_00776	Cobalt-zinc-cadmium resistance protein
-	PBPDCFME_00777	SSRC10
-	PBPDCFME_00777	
 A0A0T8FY45	PBPDCFME_00778	Calcium-transporting ATPase
 A0A0T8A0Q4	PBPDCFME_00779	Glutathione S-transferase
 A0A0T8SNA2	PBPDCFME_00780	Peptide deformylase
 A0AA86MK75	PBPDCFME_00781	Cell shape-determining protein
 Q8CYI7	PBPDCFME_00782	Hypothetical protein
-	PBPDCFME_00783	SpR20_sRNA
-	PBPDCFME_00783	
 B2IR66	PBPDCFME_00784	hypothetical protein
 B1ICW7	PBPDCFME_00785	Hypothetical protein
 A0A098ZCY9	PBPDCFME_00786	Hypothetical protein
@@ -920,8 +772,6 @@ A0AA86MI80	PBPDCFME_00844	Oxidoreductase%2C Gfo/Idh/MocA family
 B2IQU6	PBPDCFME_00845	hypothetical protein
 A0AA86MF50	PBPDCFME_00846	Peptidoglycan N-acetylglucosamine deacetylase
 B2IQU4	PBPDCFME_00847	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
-	PBPDCFME_00848	SpR19_sRNA
-	PBPDCFME_00848	
 C1C872	PBPDCFME_00849	hypothetical protein
 A0A0B7LTT5	PBPDCFME_00850	Glycyl-tRNA synthetase alpha chain
 A0AA86J7G2	PBPDCFME_00851	Glycyl-tRNA synthetase beta chain
@@ -952,8 +802,6 @@ C1CF32	PBPDCFME_00875	Beta-lactamase%2C class C
 Q8DP82	PBPDCFME_00876	Drug/metabolite transporter superfamily protein
 Q8DP83	PBPDCFME_00877	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 Q04JQ8	PBPDCFME_00878	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
-	PBPDCFME_00879	SpR18_sRNA
-	PBPDCFME_00879	
 B2IQR0	PBPDCFME_00880	IS66 family transposase Orf1
 A0AA86JBN9	PBPDCFME_00881	IS66 family transposase Orf2
 A0A0E7Z8M3	PBPDCFME_00882	hypothetical protein
@@ -1039,12 +887,8 @@ P0A3Q9	PBPDCFME_00961	Peptide methionine sulfoxide reductase MsrAB1
 A0AA86J763	PBPDCFME_00962	ABC transporter ATP-binding/permease protein
 A0AA86JG40	PBPDCFME_00963	ABC transporter ATP-binding/permease protein
 A0A6I3VCP0	PBPDCFME_00964	Methylthioadenosine deaminase
-	PBPDCFME_00965	L10_leader
-	PBPDCFME_00965	
 Q04JZ3	PBPDCFME_00966	LSU ribosomal protein L10p (P0)
 Q04JZ4	PBPDCFME_00967	LSU ribosomal protein L7/L12 (P1/P2)
-	PBPDCFME_00968	rli38
-	PBPDCFME_00968	
 A0A098ANF2	PBPDCFME_00969	hypothetical protein
 A0A0B7LSP9	PBPDCFME_00970	hypothetical protein
 A0A380LSW2	PBPDCFME_00971	hypothetical protein
@@ -1071,8 +915,6 @@ B2IQ95	PBPDCFME_00991	Chorismate mutase I
 A0A0B7LCK6	PBPDCFME_00992	ClC-type fluoride channel
 A0A0B7L7B2	PBPDCFME_00993	ClC-type fluoride channel
 Q97QC6	PBPDCFME_00994	LSU ribosomal protein L19p
-	PBPDCFME_00995	tRNA-Arg(cct)
-	PBPDCFME_00995	
 B1ICA6	PBPDCFME_00996	hypothetical protein
 A0A0T8EFL7	PBPDCFME_00997	Sugar phosphatase YidA
 A0AA86J9T0	PBPDCFME_00998	dNTP triphosphohydrolase
@@ -1080,19 +922,13 @@ A0AA86JD20	PBPDCFME_00999	Hypothetical protein
 C1C7R8	PBPDCFME_01000	Signal recognition particle associated protein
 A0AA86MIT1	PBPDCFME_01001	Signal recognition particle protein Ffh
 A0AA86MNM7	PBPDCFME_01002	Uracil permease
-	PBPDCFME_01003	SpF44_sRNA
-	PBPDCFME_01003	
 C1CEP0	PBPDCFME_01004	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
 Q8DPH4	PBPDCFME_01005	LemA
 Q97QD6	PBPDCFME_01006	Heat shock protein HtpX
 A0A4J1U6Q8	PBPDCFME_01007	ABC transporter ATP-binding protein
-	PBPDCFME_01008	SpF43_sRNA
-	PBPDCFME_01008	
 Q8CYP8	PBPDCFME_01009	BlpT protein
 C1C7Q8	PBPDCFME_01010	Protein%2C clustered with ribosomal protein L32p
 Q8DPH8	PBPDCFME_01011	Endonuclease III
-	PBPDCFME_01012	PyrR
-	PBPDCFME_01012	
 Q04K45	PBPDCFME_01013	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
 C1CR29	PBPDCFME_01014	Aspartate carbamoyltransferase
 A0A064BWJ2	PBPDCFME_01015	Carbamoyl-phosphate synthase small chain CarA
@@ -1120,8 +956,6 @@ A0A098ZBM5	PBPDCFME_01036	Hypothetical protein
 A0AA86MBU9	PBPDCFME_01037	Endonuclease
 A0AA86JIT2	PBPDCFME_01038	Hypothetical protein
 A0AA86JCR4	PBPDCFME_01039	GMP reductase
-	PBPDCFME_01040	tRNA-Arg(ccg)
-	PBPDCFME_01040	
 A0A0B7M364	PBPDCFME_01041	Ribonuclease III
 A0AA86JA36	PBPDCFME_01042	Chromosome partition protein SMC
 A0AA86J829	PBPDCFME_01043	Hydrolase%2C HAD superfamily
@@ -1146,8 +980,6 @@ Q9S1K0	PBPDCFME_01061	Two-component system response regulator VicR
 A0A0I6LZG5	PBPDCFME_01062	Two-component system sensor histidine kinase VicK
 Q9RCS5	PBPDCFME_01063	Zn-dependent hydrolase VicX
 A0A6I3U6U1	PBPDCFME_01064	IS1167 transposase
-	PBPDCFME_01065	Srn266
-	PBPDCFME_01065	
 A0A558SUE3	PBPDCFME_01066	Replicon stabilization protein RelB2
 Q8CYQ7	PBPDCFME_01067	mRNA interferase RelE2
 A0A380LVR6	PBPDCFME_01068	hypothetical protein
@@ -1239,17 +1071,11 @@ A0AAD2Q8N3	PBPDCFME_01153	IS1380 family transposase ISSpn5
 Q04KI2	PBPDCFME_01154	LSU ribosomal protein L27p
 Q8DPT7	PBPDCFME_01155	Putative ribosomal protein
 Q97QU4	PBPDCFME_01156	LSU ribosomal protein L21p
-	PBPDCFME_01157	L21_leader
-	PBPDCFME_01157	
 A0AA86JB64	PBPDCFME_01158	Hypothetical protein
 Q04KI6	PBPDCFME_01159	Hypothetical protein co-occurring with RecR
-	PBPDCFME_01160	Srn266
-	PBPDCFME_01160	
 A0AA86JAB2	PBPDCFME_01161	IS1167 transposase Orf1
 A0A559A0J2	PBPDCFME_01162	hypothetical protein
 C1CGD6	PBPDCFME_01163	IS1167 transposase
-	PBPDCFME_01164	SpR14_sRNA
-	PBPDCFME_01164	
 Q8DPU0	PBPDCFME_01165	Phosphate acetyltransferase
 A0AA86MIQ4	PBPDCFME_01166	RluD-like protein
 B2IQ09	PBPDCFME_01167	NAD kinase
@@ -1270,8 +1096,6 @@ Q8DPV1	PBPDCFME_01181	Methionine aminopeptidase
 A0A0B7M8Z1	PBPDCFME_01182	Cytosolic protein containing multiple CBS domains
 C1CE69	PBPDCFME_01183	Ribosomal-protein-S5p-alanine acetyltransferase
 Q97QW6	PBPDCFME_01184	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
-	PBPDCFME_01185	group-II-D1D4-3
-	PBPDCFME_01185	
 C1CE67	PBPDCFME_01186	Hypothetical protein
 A0AA86JQ84	PBPDCFME_01187	GTP-binding protein ObgE
 C1CE65	PBPDCFME_01188	Hypothetical protein
@@ -1284,16 +1108,12 @@ B1IBL2	PBPDCFME_01194	DNA primase
 A0AA86MFK1	PBPDCFME_01195	ABC transporter ATP-binding protein
 A0A0H2UPW3	PBPDCFME_01196	Putative tryptophan-specific ABC transporter permease protein TrpY
 A0A558TB35	PBPDCFME_01197	ABC transporter substrate-binding protein
-	PBPDCFME_01198	T-box
-	PBPDCFME_01198	
 B2IQ40	PBPDCFME_01199	Phosphoenolpyruvate carboxylase
 A0A0E7RLL4	PBPDCFME_01200	Cell division protein FtsW
 B2IQ42	PBPDCFME_01201	hypothetical protein
 A0AA86JUC1	PBPDCFME_01202	Peptidase E
 B2IQ45	PBPDCFME_01203	hypothetical protein
 A0A0U0I1A6	PBPDCFME_01204	hypothetical protein
-	PBPDCFME_01205	pemK
-	PBPDCFME_01205	
 C1C734	PBPDCFME_01206	Putative repressor protein%2C phage associated
 B2IQ47	PBPDCFME_01207	hypothetical protein
 B2IQ49	PBPDCFME_01208	hypothetical protein
@@ -1345,18 +1165,12 @@ B2IPK0	PBPDCFME_01253	Hypothetical protein
 B2IPJ6	PBPDCFME_01254	Hypothetical protein
 A0A2Z4HWN8	PBPDCFME_01255	Phage integrase
 Q8CYT9	PBPDCFME_01256	Hypothetical protein
-	PBPDCFME_01257	pemK
-	PBPDCFME_01257	
 Q8CYU1	PBPDCFME_01258	Putative type II restriction endonuclease
 A0A2Z4HWP0	PBPDCFME_01259	Iron compound ABC uptake transporter ATP-binding protein PiaD
 Q8DPY4	PBPDCFME_01260	Iron compound ABC uptake transporter permease protein PiaC
 B2IPI9	PBPDCFME_01261	Iron compound ABC uptake transporter permease protein PiaB
 Q8DPY6	PBPDCFME_01262	Iron compound ABC uptake transporter substrate-binding protein PiaA
 C1CE21	PBPDCFME_01263	Hypothetical protein
-	PBPDCFME_01264	SpF39_sRNA
-	PBPDCFME_01264	
-	PBPDCFME_01265	SpF61_sRNA
-	PBPDCFME_01265	
 A0A0B7LQI0	PBPDCFME_01266	23S rRNA (uracil(1939)-C(5))-methyltransferase
 C1CE19	PBPDCFME_01267	Extracellular protein
 A0A0I9F9I5	PBPDCFME_01268	Pneumococcal vaccine antigen A
@@ -1371,13 +1185,7 @@ B2IPH4	PBPDCFME_01276	Bifunctional 4-oxalocrotonate tautomerase/xylose transport
 A0AA86MIL8	PBPDCFME_01277	GTPase and tRNA-U34 5-formylation enzyme MnmE
 C1CK93	PBPDCFME_01278	4-hydroxy-tetrahydrodipicolinate synthase
 A0AA86JCQ6	PBPDCFME_01279	Aspartate-semialdehyde dehydrogenase
-	PBPDCFME_01280	asd
-	PBPDCFME_01280	
-	PBPDCFME_01281	tRNA-Thr(ggt)
-	PBPDCFME_01281	
 Q8DQ01	PBPDCFME_01282	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	PBPDCFME_01283	preQ1-II
-	PBPDCFME_01283	
 A0A0B7L7C1	PBPDCFME_01284	GtrA family protein
 A0A064C208	PBPDCFME_01285	Large-conductance mechanosensitive channel MscL
 A0AA86JQ28	PBPDCFME_01286	Ferrochelatase%2C protoheme ferro-lyase
@@ -1389,8 +1197,6 @@ A0AA86JCD4	PBPDCFME_01291	hypothetical protein
 A0A0E3GJB8	PBPDCFME_01292	Pneumococcal histidine triad protein D
 Q8DQ09	PBPDCFME_01293	Laminin-binding surface protein
 A0A0U0CNB1	PBPDCFME_01294	Cationic amino acid transporter%2C APC Superfamily
-	PBPDCFME_01295	SpF36_sRNA
-	PBPDCFME_01295	
 A0AA86JB35	PBPDCFME_01296	Thiol:disulfide oxidoreductase
 Q8DQ11	PBPDCFME_01297	Cytochrome c-type biogenesis protein CcdA-2
 A0AA86JA82	PBPDCFME_01298	Hypothetical protein
@@ -1430,15 +1236,11 @@ C1CDV7	PBPDCFME_01331	Lactoylglutathione lyase
 Q04KW7	PBPDCFME_01332	LSU ribosomal protein L20p
 Q04KW8	PBPDCFME_01333	LSU ribosomal protein L35p
 Q04KW9	PBPDCFME_01334	Translation initiation factor 3
-	PBPDCFME_01335	L20_leader
-	PBPDCFME_01335	
 A0AA86MBW6	PBPDCFME_01336	Hypothetical protein
 A0AA86JJ09	PBPDCFME_01337	ABC transporter%2C ATP-binding protein
 A0AA86JCV2	PBPDCFME_01338	Late competence DNA transporter ComEC
 A0AA86J8X6	PBPDCFME_01339	Late competence DNA receptor ComEA
 A0AA86JA67	PBPDCFME_01340	Acetyltransferase%2C GNAT family
-	PBPDCFME_01341	Srn266
-	PBPDCFME_01341	
 A0A6I3U6U1	PBPDCFME_01342	IS1167 transposase
 A0AA86JBX2	PBPDCFME_01343	Alanine dehydrogenase
 Q8DQ44	PBPDCFME_01344	Alanine dehydrogenase 2
@@ -1482,16 +1284,12 @@ A0AA86MCV5	PBPDCFME_01381	ABC transporter permease protein
 C1CDQ8	PBPDCFME_01382	ABC transporter ATP-binding protein
 A0A0U0BVB4	PBPDCFME_01383	Hypothetical protein
 A0A0H2UPK6	PBPDCFME_01384	Hypothetical protein
-	PBPDCFME_01385	Spd-sr07
-	PBPDCFME_01385	
 A0A5C8QW28	PBPDCFME_01386	Putative phage shock protein C
 A0A0B7LHD2	PBPDCFME_01387	Putative SprT family zinc-dependent metallopeptidase
 A0AA86JJ79	PBPDCFME_01388	Transcription accessory protein
 C1CDQ2	PBPDCFME_01389	Hypothetical protein
 Q8DQ81	PBPDCFME_01390	Putative permease
 B1IB73	PBPDCFME_01391	ABC transporter substrate-binding protein
-	PBPDCFME_01392	Srn266
-	PBPDCFME_01392	
 A0A6I3U6U1	PBPDCFME_01393	IS1167 transposase
 A0A0D6J9F7	PBPDCFME_01394	Hypothetical protein
 B1IB71	PBPDCFME_01395	Hypothetical protein
@@ -1518,10 +1316,6 @@ A0A4G1Y424	PBPDCFME_01415	DNA translocase FtsK
 B2IP07	PBPDCFME_01416	Fructose-specific PTS IIABC components
 B2IP06	PBPDCFME_01417	1-phosphofructokinase
 Q8DQ97	PBPDCFME_01418	Transcriptional repressor of the fructose operon%2C DeoR family
-	PBPDCFME_01419	tRNA-Ser(gga)
-	PBPDCFME_01419	
-	PBPDCFME_01420	transfer-messenger RNA%2C SsrA
-	PBPDCFME_01420	
 A0AA86MFR6	PBPDCFME_01421	Coordinator of zonal cell elongation
 Q75Y43	PBPDCFME_01422	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 Q8DQA0	PBPDCFME_01423	Iron-sulfur cluster assembly protein SufB
@@ -1532,16 +1326,10 @@ Q8DQA4	PBPDCFME_01427	Iron-sulfur cluster assembly ATPase protein SufC
 Q8CYX9	PBPDCFME_01428	Hypothetical protein
 A0AA86JH76	PBPDCFME_01429	DNA polymerase III subunits gamma and tau
 Q8DQA6	PBPDCFME_01430	GAF domain-containing protein
-	PBPDCFME_01431	Srn266
-	PBPDCFME_01431	
 A0AA86JA75	PBPDCFME_01432	IS1167 transposase Orf1
 A0A380LUY3	PBPDCFME_01433	hypothetical protein
 A0AA86JCW2	PBPDCFME_01434	IS1167 transposase Orf2
 C1CDK9	PBPDCFME_01435	SSU ribosomal protein S1p
-	PBPDCFME_01436	tRNA-Gln(ttg)
-	PBPDCFME_01436	
-	PBPDCFME_01437	tRNA-Tyr(gta)
-	PBPDCFME_01437	
 Q8CYY0	PBPDCFME_01438	Hypothetical protein
 Q04L55	PBPDCFME_01439	Pyrrolidone-carboxylate peptidase
 Q8DQB0	PBPDCFME_01440	Putative membrane protein
@@ -1553,8 +1341,6 @@ B2INX2	PBPDCFME_01445	Restriction enzyme BcgI alpha chain-like protein
 Q3HZ74	PBPDCFME_01446	Topoisomerase IV subunit B
 Q04L63	PBPDCFME_01447	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
 A0AA86J856	PBPDCFME_01448	IS1167 transposase
-	PBPDCFME_01449	Srn266
-	PBPDCFME_01449	
 Q8DR38	PBPDCFME_01450	IS3 family transposase ISSpn11
 A0A4G2AB56	PBPDCFME_01451	IS3 family transposase ISSpn11
 A0A0E8AVY5	PBPDCFME_01452	hypothetical protein
@@ -1601,8 +1387,6 @@ A0AA86JBW8	PBPDCFME_01492	Protease
 Q8CYY6	PBPDCFME_01493	Hypothetical protein
 Q7B3G0	PBPDCFME_01494	Two-component system sensor histidine kinase CiaH
 C1CDF5	PBPDCFME_01495	Two-component system response regulator CiaR
-	PBPDCFME_01496	Srn266
-	PBPDCFME_01496	
 A0A6I3U6U1	PBPDCFME_01497	IS1167 transposase
 A0A4J1ST52	PBPDCFME_01498	Lysyl aminopeptidase PepN
 A0A6G2DAP7	PBPDCFME_01499	Lysyl aminopeptidase PepN
@@ -1672,8 +1456,6 @@ C1CD82	PBPDCFME_01562	Pyruvate oxidase
 A0AA86JEC3	PBPDCFME_01563	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
 C1C677	PBPDCFME_01564	Copper-exporting ATPase
 C1CD79	PBPDCFME_01565	Negative transcriptional regulator of copper transport operon
-	PBPDCFME_01566	TPP
-	PBPDCFME_01566	
 B2INA8	PBPDCFME_01567	Hydroxymethylpyrimidine phosphate kinase ThiD
 B2INA7	PBPDCFME_01568	Thiamin-phosphate pyrophosphorylase
 B8ZN21	PBPDCFME_01569	Hydroxyethylthiazole kinase
@@ -1682,13 +1464,9 @@ B2INA4	PBPDCFME_01571	Thiaminase II TenA
 B2INA3	PBPDCFME_01572	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 B2INA2	PBPDCFME_01573	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 C1CD71	PBPDCFME_01574	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
-	PBPDCFME_01575	TPP
-	PBPDCFME_01575	
 A0AA87CCP8	PBPDCFME_01576	Thiamin-phosphate pyrophosphorylase
 A0AA86JRI0	PBPDCFME_01577	Hydroxyethylthiazole kinase
 Q8DQK6	PBPDCFME_01578	Thiaminase II
-	PBPDCFME_01579	TPP
-	PBPDCFME_01579	
 A0AA86JB23	PBPDCFME_01580	L-Lactate 2-monooxygenase
 A0AA86JED3	PBPDCFME_01581	Class II lysyl-tRNA synthetase
 B2IN94	PBPDCFME_01582	L-Lactate 2-monooxygenase
@@ -1705,8 +1483,6 @@ A0AA86JIB3	PBPDCFME_01592	Hypothetical protein
 A0A0E9GWH4	PBPDCFME_01593	Hypothetical protein
 B5E302	PBPDCFME_01594	Orotate phosphoribosyltransferase
 A0AA86JB32	PBPDCFME_01595	Orotidine 5'-phosphate decarboxylase
-	PBPDCFME_01596	PyrR
-	PBPDCFME_01596	
 A0A9P1Q6T2	PBPDCFME_01597	Cell division protein DivIB
 A0AA86MKC2	PBPDCFME_01598	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
 A0AA86MJC5	PBPDCFME_01599	UDP-N-acetylmuramoylalanine--D-glutamate ligase
@@ -1720,8 +1496,6 @@ Q8CZ12	PBPDCFME_01606	Hypothetical protein
 Q8DQM7	PBPDCFME_01607	Rhodanese-like domain protein
 Q8DQM8	PBPDCFME_01608	Hypothetical protein
 Q8DQM9	PBPDCFME_01609	Methionine biosynthesis and transport regulator MtaR%2C LysR family
-	PBPDCFME_01610	Srn266
-	PBPDCFME_01610	
 A0AA86J856	PBPDCFME_01611	IS1167 transposase
 A0A380LWD0	PBPDCFME_01612	Short-chain dehydrogenase
 A0AA86J931	PBPDCFME_01613	Ribonuclease Z
@@ -1748,8 +1522,6 @@ Q8DQP3	PBPDCFME_01633	Putative rRNA methylase YtqB
 B2IMW4	PBPDCFME_01634	hypothetical protein
 A0AA86MJB2	PBPDCFME_01635	hypothetical protein
 C1CD20	PBPDCFME_01636	Hypothetical protein
-	PBPDCFME_01637	SpF25_sRNA
-	PBPDCFME_01637	
 C1CD18	PBPDCFME_01638	hypothetical protein
 C1CD17	PBPDCFME_01639	hypothetical protein
 A0AA86JK77	PBPDCFME_01640	Beta-galactosidase BgaA
@@ -1764,16 +1536,12 @@ Q8DQP9	PBPDCFME_01648	Antibiotic ABC transporter permease protein
 Q8DQQ0	PBPDCFME_01649	ABC transporter ATP-binding protein
 A0A0U0GZ72	PBPDCFME_01650	Hypothetical protein
 A0AA86J8F1	PBPDCFME_01651	Hypothetical protein
-	PBPDCFME_01652	Intron_gpII
-	PBPDCFME_01652	
 Q04LP6	PBPDCFME_01653	LSU ribosomal protein L1p (L10Ae)
 Q97RZ6	PBPDCFME_01654	LSU ribosomal protein L11p (L12e)
 A0A062WT68	PBPDCFME_01655	L%2CD-carboxypeptidase
 A0A380LUC5	PBPDCFME_01656	Histidine triad family protein
 A0A380LYA4	PBPDCFME_01657	Deblocking aminopeptidase
 C1C5Z4	PBPDCFME_01658	Branched-chain amino acid transport system carrier protein
-	PBPDCFME_01659	SpF22_sRNA
-	PBPDCFME_01659	
 Q8CZ26	PBPDCFME_01660	hypothetical protein
 C1CCZ5	PBPDCFME_01661	Uracil-DNA glycosylase
 Q8DQQ6	PBPDCFME_01662	Dipeptidase PepV
@@ -1797,8 +1565,6 @@ C1CCX7	PBPDCFME_01679	Two-component system response regulator VncR
 Q9S4J0	PBPDCFME_01680	Peptide ABC transporter membrane-spanning permease Vex3
 C1CCX5	PBPDCFME_01681	ABC transporter ATP-binding protein Vex2
 C1C5W8	PBPDCFME_01682	Peptide ABC transporter membrane-spanning permease Vex1
-	PBPDCFME_01683	Intron_gpII
-	PBPDCFME_01683	
 A0A0T8BJF5	PBPDCFME_01684	hypothetical protein
 A0A0U0HM90	PBPDCFME_01685	Leucine rich protein
 C1CCW8	PBPDCFME_01686	Mini-ribonuclease III
@@ -1816,8 +1582,6 @@ A0AA86JHG0	PBPDCFME_01697	Phenylalanyl-tRNA synthetase alpha chain
 A0AA86J8C1	PBPDCFME_01698	6-phospho-beta-glucosidase
 A0AA86JAD4	PBPDCFME_01699	Beta-glucoside-specific PTS IIBCA components
 B2IMP8	PBPDCFME_01700	Beta-glucoside bgl operon antiterminator BglG
-	PBPDCFME_01701	SpF19_sRNA
-	PBPDCFME_01701	
 Q8DNZ4	PBPDCFME_01702	IS3 family transposase ISSpn11
 A0A4J2ARN3	PBPDCFME_01703	IS3 family transposase ISSpn11
 A0A380LW28	PBPDCFME_01704	Putative transposase InsK for insertion sequence element IS150
@@ -1869,8 +1633,6 @@ A0AA86MPB8	PBPDCFME_01749	ABC transporter ATP-binding protein EcsA
 A0A380LSE3	PBPDCFME_01750	Histidine triad nucleotide-binding protein
 Q8CZ48	PBPDCFME_01751	Hypothetical protein
 A0A380LV94	PBPDCFME_01752	Chaperone protein DnaJ
-	PBPDCFME_01753	SpF14_sRNA
-	PBPDCFME_01753	
 A0A0T8D8M9	PBPDCFME_01754	Hypothetical protein
 A0A0T9I7B3	PBPDCFME_01755	Chaperone protein DnaK
 B2IMB4	PBPDCFME_01756	Heat shock protein GrpE
@@ -1883,8 +1645,6 @@ C1CCQ0	PBPDCFME_01762	Integrase/recombinase CreX (XerC/CodV family)
 A0A0B7LN89	PBPDCFME_01763	Type I restriction-modification system%2C specificity subunit S type F
 A0A172W5Q9	PBPDCFME_01764	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
 C1C5M8	PBPDCFME_01765	hypothetical protein
-	PBPDCFME_01766	Srn266
-	PBPDCFME_01766	
 A0A6I3U6U1	PBPDCFME_01767	IS1167 transposase
 B1IA39	PBPDCFME_01768	Glutamine synthetase type I
 Q8DQX7	PBPDCFME_01769	Transcriptional regulator%2C MerR family
@@ -1898,11 +1658,7 @@ A0AA86J855	PBPDCFME_01776	Hypothetical protein
 A0A0U0EJN0	PBPDCFME_01777	Hypothetical protein
 A0A0B7LW17	PBPDCFME_01778	Membrane-associated phospholipid phosphatase
 A0AA86JGE9	PBPDCFME_01779	Substrate-specific component RibU of riboflavin ECF transporter
-	PBPDCFME_01780	FMN
-	PBPDCFME_01780	
 A0A0H2UNS5	PBPDCFME_01781	tRNA (cytidine(34)-2'-O)-methyltransferase
-	PBPDCFME_01782	23S-methyl
-	PBPDCFME_01782	
 A0AA86JU27	PBPDCFME_01783	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
 A0AA86J976	PBPDCFME_01784	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 B2IM89	PBPDCFME_01785	Hypothetical protein
@@ -1919,8 +1675,6 @@ B1I9R3	PBPDCFME_01795	Xylose repressor protein
 A0A0T9I2B2	PBPDCFME_01796	Hypothetical protein
 Q8DQZ5	PBPDCFME_01797	Hypothetical protein
 A0A0T8UQK3	PBPDCFME_01798	hypothetical protein
-	PBPDCFME_01799	Srn266
-	PBPDCFME_01799	
 A0AA86J984	PBPDCFME_01800	IS1167 transposase Orf1
 A0A4J1UA67	PBPDCFME_01801	IS1167 transposase Orf2
 A7KT36	PBPDCFME_01802	hypothetical protein
@@ -1930,8 +1684,6 @@ A7KTB0	PBPDCFME_01805	hypothetical protein
 A7KT39	PBPDCFME_01806	hypothetical protein
 A7KTA8	PBPDCFME_01807	hypothetical protein
 B1I9Q2	PBPDCFME_01808	hypothetical protein
-	PBPDCFME_01809	Srn266
-	PBPDCFME_01809	
 A0A0T8SMN8	PBPDCFME_01810	IS1167 transposase
 Q8DQZ6	PBPDCFME_01811	Pyruvate formate-lyase
 A0A380LTW9	PBPDCFME_01812	DNA polymerase IV
@@ -1978,8 +1730,6 @@ A0A0I5SB66	PBPDCFME_01852	Seryl-tRNA synthetase
 A0AA86JIB8	PBPDCFME_01853	Exfoliative toxin A
 Q8DR24	PBPDCFME_01854	Macrophage infectivity potentiator protein
 C1CCH4	PBPDCFME_01855	Sodium/glycine symporter GlyP
-	PBPDCFME_01856	Glycine
-	PBPDCFME_01856	
 A0AA86J9N4	PBPDCFME_01857	Recombination inhibitory protein MutS2
 C1C5E3	PBPDCFME_01858	Z-ring positive regulator ZapB
 C1CCH1	PBPDCFME_01859	Z-ring positive regulator ZapA
@@ -2006,16 +1756,12 @@ B2ILR8	PBPDCFME_01879	Orphan response regulator RitR
 A0A0T9HRS5	PBPDCFME_01880	6-phosphogluconate dehydrogenase%2C decarboxylating
 A0AA95IJJ4	PBPDCFME_01881	Mid-cell-anchored protein Z
 A0A4J1NHK2	PBPDCFME_01882	23S rRNA (guanine(2445)-N(2))-methyltransferase
-	PBPDCFME_01883	RNaseP_bact_b
-	PBPDCFME_01883	
 B8ZL84	PBPDCFME_01884	Cell division protein GpsB
 Q8DR58	PBPDCFME_01885	Hypothetical protein
 H8ZYN7	PBPDCFME_01886	RecU Holliday junction resolvase
 B2ILR1	PBPDCFME_01887	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A
 H8ZYM2	PBPDCFME_01888	Endo-alpha-N-acetylgalactosaminidase Eng
 H8ZYK9	PBPDCFME_01889	Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA
-	PBPDCFME_01890	Srn266
-	PBPDCFME_01890	
 C1CGD5	PBPDCFME_01891	IS1167 transposase
 C1CGD6	PBPDCFME_01892	IS1167 transposase
 Q8KWN9	PBPDCFME_01893	hypothetical protein
@@ -2041,8 +1787,6 @@ A0AA86XXS9	PBPDCFME_01912	Glucan 1%2C6-alpha-glucosidase
 A0A4J1V132	PBPDCFME_01913	ATP-dependent Zn protease
 Q04MC2	PBPDCFME_01914	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
 A0A4G4F412	PBPDCFME_01915	hypothetical protein
-	PBPDCFME_01916	group-II-D1D4-3
-	PBPDCFME_01916	
 A0A4J1UQE6	PBPDCFME_01917	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
 A0A916L5K8	PBPDCFME_01918	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
 A0A4J2BV21	PBPDCFME_01919	Phospho-N-acetylmuramoyl-pentapeptide- transferase
@@ -2067,19 +1811,13 @@ C1CC93	PBPDCFME_01937	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3
 A0A4J1RX59	PBPDCFME_01938	IS200/IS605 family transposase ISStin10
 M4Y9A8	PBPDCFME_01939	Hyaluronate lyase precursor SpnHL
 B1I935	PBPDCFME_01940	Glutathione peroxidase family protein
-	PBPDCFME_01941	SpF11_sRNA
-	PBPDCFME_01941	
 A0A4J2BZE1	PBPDCFME_01942	Maltodextrin glucosidase
 Q8DNZ4	PBPDCFME_01943	IS3 family transposase ISSpn11
 A0A4J1VX80	PBPDCFME_01944	IS3 family transposase ISSpn11
 A0A0U0HBS4	PBPDCFME_01945	hypothetical protein
 Q8CWU4	PBPDCFME_01946	SSU ribosomal protein S9p (S16e)
 Q8CWU5	PBPDCFME_01947	LSU ribosomal protein L13p (L13Ae)
-	PBPDCFME_01948	L13_leader
-	PBPDCFME_01948	
 Q8CZ79	PBPDCFME_01949	Hypothetical protein
-	PBPDCFME_01950	Srn266
-	PBPDCFME_01950	
 A0A6I3U6U1	PBPDCFME_01951	IS1167 transposase
 A0AA86J9Z1	PBPDCFME_01952	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 C1CIH2	PBPDCFME_01953	GTP cyclohydrolase I type 1
@@ -2100,16 +1838,12 @@ C1CC66	PBPDCFME_01967	Hypothetical protein
 Q8DRA4	PBPDCFME_01968	mRNA interferase RelE1
 Q8CZ81	PBPDCFME_01969	Antitoxin RelB1
 A0AA86JEM2	PBPDCFME_01970	DNA polymerase III
-	PBPDCFME_01971	Srn266
-	PBPDCFME_01971	
 A0A6I3U6U1	PBPDCFME_01972	IS1167 transposase
 C1CPE5	PBPDCFME_01973	Translation elongation factor G
 Q8CWU6	PBPDCFME_01974	SSU ribosomal protein S7p (S5e)
 E2DP60	PBPDCFME_01975	SSU ribosomal protein S12p (S23e)
 A0AA86MCW0	PBPDCFME_01976	Pullulanase SpuA
 A0AA86J856	PBPDCFME_01977	IS1167 transposase
-	PBPDCFME_01978	Srn266
-	PBPDCFME_01978	
 B2ISJ2	PBPDCFME_01979	Oxidoreductase
 A0AA86JUT9	PBPDCFME_01980	Glucosamine--fructose-6-phosphate aminotransferase
 A0AA86JQS7	PBPDCFME_01981	6-phospho-beta-glucosidase
@@ -2117,15 +1851,9 @@ A0AA86JHF0	PBPDCFME_01982	Prolyl-tRNA synthetase
 Q8DRB1	PBPDCFME_01983	Intramembrane protease Eep
 C1CB37	PBPDCFME_01984	Phosphatidate cytidylyltransferase
 Q8DRB3	PBPDCFME_01985	Undecaprenyl diphosphate synthase
-	PBPDCFME_01986	csRNA
-	PBPDCFME_01986	
 A0A0T8C549	PBPDCFME_01987	Hypothetical protein
 A0A0B7LYW5	PBPDCFME_01988	Hypothetical protein
 Q8CWU7	PBPDCFME_01989	Holliday junction DNA helicase RuvB
-	PBPDCFME_01990	csRNA
-	PBPDCFME_01990	
-	PBPDCFME_01991	csRNA
-	PBPDCFME_01991	
 A0A380LRV0	PBPDCFME_01992	Acetyltransferase%2C GNAT family
 A0AA86MNV8	PBPDCFME_01993	Acetyltransferase%2C GNAT family
 A0AA86MIY7	PBPDCFME_01994	Leucyl-tRNA synthetase
@@ -2145,12 +1873,8 @@ B2ISG7	PBPDCFME_02007	Ferric iron ABC transporter ATP-binding protein
 A0AA86MNV4	PBPDCFME_02008	Iron(III)-transport system permease protein SfuB
 A0AA86MIY3	PBPDCFME_02009	Iron(III)-transport system permease protein SfuB
 B1I8M8	PBPDCFME_02010	Phosphoglycerate mutase family protein
-	PBPDCFME_02011	csRNA
-	PBPDCFME_02011	
 Q8DRD2	PBPDCFME_02012	hypothetical protein
 C1CC34	PBPDCFME_02013	ACT domain-containing transcriptional regulator
-	PBPDCFME_02014	L17DE
-	PBPDCFME_02014	
 Q8CWU8	PBPDCFME_02015	LSU ribosomal protein L17p
 Q04ML1	PBPDCFME_02016	DNA-directed RNA polymerase alpha subunit
 Q04ML2	PBPDCFME_02017	SSU ribosomal protein S11p (S14e)
@@ -2202,8 +1926,6 @@ A0A9P1PGS6	PBPDCFME_02062	Muramoyltetrapeptide carboxypeptidase
 A0A0T8RH17	PBPDCFME_02063	CAAX amino terminal protease family protein
 A0AA86JA89	PBPDCFME_02064	DNA-3-methyladenine glycosylase
 Q97SY4	PBPDCFME_02065	Holliday junction DNA helicase RuvA
-	PBPDCFME_02066	FMN
-	PBPDCFME_02066	
 A0A380LX39	PBPDCFME_02067	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
 B2IS13	PBPDCFME_02068	Riboflavin synthase RibE
 C1CAI6	PBPDCFME_02069	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
@@ -2236,8 +1958,6 @@ A0AA86MBH0	PBPDCFME_02095	ABC transporter ATP-binding protein
 A0AA86JHX5	PBPDCFME_02096	Family 2 glycosyltransferase
 A0A098ZKN5	PBPDCFME_02097	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 A0AA86J7R1	PBPDCFME_02098	Exopolysaccharide biosynthesis glycosyltransferase EpsF
-	PBPDCFME_02099	Srn266
-	PBPDCFME_02099	
 A0AA36PIF3	PBPDCFME_02100	IS1167 transposase
 A0A0E7ZP93	PBPDCFME_02101	IS1167 transposase Orf2
 A0A064BZS6	PBPDCFME_02102	N(6)-L-threonylcarbamoyladenine synthase TsaD
@@ -2250,15 +1970,9 @@ C1CBU5	PBPDCFME_02108	Hypothetical protein
 A0A0E8HAF7	PBPDCFME_02109	Ribonuclease J1 (endonuclease and 5' exonuclease)
 C1CBU2	PBPDCFME_02110	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 A0AA86MBH5	PBPDCFME_02111	MutT/Nudix family protein
-	PBPDCFME_02112	Spd-sr37
-	PBPDCFME_02112	
 A0A0B7MBM1	PBPDCFME_02113	tRNA-specific 2-thiouridylase MnmA
 A0A1W6AZ71	PBPDCFME_02114	hypothetical protein
 A0A6B9PEJ2	PBPDCFME_02115	hypothetical protein
-	PBPDCFME_02116	Bacilli-1
-	PBPDCFME_02116	
-	PBPDCFME_02117	SpF03_sRNA
-	PBPDCFME_02117	
 A0A4J1QTX9	PBPDCFME_02118	Pyridoxamine 5'-phosphate oxidase
 A0AA86JG75	PBPDCFME_02119	Hypothetical protein
 A0AA86JPQ8	PBPDCFME_02120	Hypothetical protein
@@ -2276,8 +1990,6 @@ A0A6B9PN26	PBPDCFME_02131	HlyD family secretion protein
 C1CBT2	PBPDCFME_02132	Hypothetical protein
 A0A6B9PR72	PBPDCFME_02133	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
 A0A6B9PEJ4	PBPDCFME_02134	Hypothetical protein
-	PBPDCFME_02135	Bacilli-1
-	PBPDCFME_02135	
 A0A0T8WRQ4	PBPDCFME_02136	Argininosuccinate lyase
 A0A111CNU4	PBPDCFME_02137	Argininosuccinate synthase
 B2IRI9	PBPDCFME_02138	Amino acid ABC transporter substrate-binding/permease protein
@@ -2302,8 +2014,6 @@ B2IRG9	PBPDCFME_02156	ABC transporter permease protein
 Q8DRJ8	PBPDCFME_02157	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 A0AA86XNR3	PBPDCFME_02158	Hypothetical protein
 A0A0B7LLV1	PBPDCFME_02159	Hypothetical protein
-	PBPDCFME_02160	SpF01_sRNA
-	PBPDCFME_02160	
 Q04MZ3	PBPDCFME_02161	SSU ribosomal protein S4p (S9e)
 C1C9Y4	PBPDCFME_02162	Two-component system sensor histidine kinase
 B2IRG2	PBPDCFME_02163	Two-component system response regulator
@@ -2361,8 +2071,6 @@ Q8DRN7	PBPDCFME_02214	CoA-binding protein
 A0AA86JCG8	PBPDCFME_02215	DNA polymerase I
 A0A0B7M9C2	PBPDCFME_02216	hypothetical protein
 A0A380LQ33	PBPDCFME_02217	hypothetical protein
-	PBPDCFME_02218	Srn266
-	PBPDCFME_02218	
 A0A0U0IDH7	PBPDCFME_02219	hypothetical protein
 B2IR17	PBPDCFME_02220	Ribose-phosphate pyrophosphokinase
 A0A380LS08	PBPDCFME_02221	hypothetical protein
@@ -2370,8 +2078,6 @@ C1CHC1	PBPDCFME_02222	Carbonic anhydrase
 A0A380LRC9	PBPDCFME_02223	DNA repair protein RadA
 Q8DRP1	PBPDCFME_02224	Hypothetical protein
 Q8DRP2	PBPDCFME_02225	Deoxyuridine 5'-triphosphate nucleotidohydrolase
-	PBPDCFME_02226	Bacteria_small_SRP
-	PBPDCFME_02226	
 C1CHA2	PBPDCFME_02227	tRNA-specific adenosine-34 deaminase
 A0A0B7M596	PBPDCFME_02228	hypothetical protein
 C1CHB7	PBPDCFME_02229	hypothetical protein
@@ -2427,24 +2133,10 @@ A0A0I7X892	PBPDCFME_02278	hypothetical protein
 A0A0I6XKC5	PBPDCFME_02279	hypothetical protein
 A0A6I3UV79	PBPDCFME_02280	3'-5' exonuclease DinG
 A0A0B7M300	PBPDCFME_02281	Tyrosine recombinase XerC
-	PBPDCFME_02282	csRNA
-	PBPDCFME_02282	
 C1CHA1	PBPDCFME_02283	Adenylosuccinate synthetase
 Q8CZD0	PBPDCFME_02284	Competence positive regulator ComW
 A0A0U0G4G7	PBPDCFME_02285	IS1167 transposase Orf1
 A0A0T8WNF8	PBPDCFME_02286	IS1167 transposase Orf2
-	PBPDCFME_02287	tRNA-Asn(gtt)
-	PBPDCFME_02287	
-	PBPDCFME_02288	5S ribosomal RNA
-	PBPDCFME_02288	
-	PBPDCFME_02289	23S ribosomal RNA
-	PBPDCFME_02289	
-	PBPDCFME_02290	tRNA-Ala(tgc)
-	PBPDCFME_02290	
-	PBPDCFME_02291	16S ribosomal RNA
-	PBPDCFME_02291	
-	PBPDCFME_02292	tRNA-Glu(ttc)
-	PBPDCFME_02292	
 B2IMI0	PBPDCFME_02293	Competence-specific sigma factor ComX
 A0A380LQ46	PBPDCFME_02294	Cell division protein FtsH
 Q97TC4	PBPDCFME_02295	Hypoxanthine-guanine phosphoribosyltransferase

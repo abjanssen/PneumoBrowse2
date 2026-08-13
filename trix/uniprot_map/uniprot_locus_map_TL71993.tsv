@@ -23,15 +23,9 @@ O08397	EOOINEPP_00021	Chromosomal replication initiator protein DnaA
 Q8DMW1	EOOINEPP_00022	Chromosome partitioning protein ParB
 B2IP00	EOOINEPP_00023	Serine protease%2C DegP/HtrA
 Q04HU2	EOOINEPP_00024	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
-	EOOINEPP_00025	tRNA-Arg(tct)
-	EOOINEPP_00025	
 Q5QIA8	EOOINEPP_00026	Competence-stimulating peptide precursor ComC
 Q8DMW4	EOOINEPP_00027	Two-component system sensor histidine kinase ComD
 Q8DMW5	EOOINEPP_00028	Two-component system response regulator ComE
-	EOOINEPP_00029	tRNA-Glu(ttc)
-	EOOINEPP_00029	
-	EOOINEPP_00030	tRNA-Asn(gtt)
-	EOOINEPP_00030	
 Q8DMW6	EOOINEPP_00031	Transcriptional regulator%2C AcrR family
 B2INQ0	EOOINEPP_00032	hypothetical protein
 A0AA86MJL5	EOOINEPP_00033	hypothetical protein
@@ -53,8 +47,6 @@ C1CHL6	EOOINEPP_00048	Cell shape-determining protein MreD
 A0A0B7LER3	EOOINEPP_00049	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
 C1CUD2	EOOINEPP_00050	SSU ribosomal protein S2p (SAe)
 C1CBJ1	EOOINEPP_00051	Translation elongation factor Ts
-	EOOINEPP_00052	SpF51_sRNA
-	EOOINEPP_00052	
 A0AA86JVX4	EOOINEPP_00053	IS630 family transposase ISSpn2
 A0A0T7JR70	EOOINEPP_00054	hypothetical protein
 C1CBI7	EOOINEPP_00055	Cysteine synthase
@@ -67,8 +59,6 @@ Q04HX2	EOOINEPP_00061	LSU ribosomal protein L9p
 Q8DMZ2	EOOINEPP_00062	Replicative DNA helicase DnaC
 Q8DMZ3	EOOINEPP_00063	Hypothetical protein
 A0AA86JUE5	EOOINEPP_00064	Choline-binding protein D
-	EOOINEPP_00065	TPP
-	EOOINEPP_00065	
 B1IA12	EOOINEPP_00066	Cytoplasmic thiamin-binding component of thiamin ABC transporter
 B1IA11	EOOINEPP_00067	Thiamin ABC transporter ThiX%2C transmembrane component
 Q8DMZ7	EOOINEPP_00068	Thiamin ABC transporter ThiY%2C substrate-binding component
@@ -87,10 +77,6 @@ A0A0U0JAN3	EOOINEPP_00080	Alpha-glycerophosphate oxidase
 A0AAD2Q881	EOOINEPP_00081	Glycerol uptake facilitator protein
 B1I9Z2	EOOINEPP_00082	Hypothetical protein
 A0A4J1NJ06	EOOINEPP_00083	hypothetical protein
-	EOOINEPP_00084	group-II-D1D4-3
-	EOOINEPP_00084	
-	EOOINEPP_00085	group-II-D1D4-1
-	EOOINEPP_00085	
 Q8DN09	EOOINEPP_00086	hypothetical protein
 A0A822QAK2	EOOINEPP_00087	hypothetical protein
 A0A0B7L8Y7	EOOINEPP_00088	Macrolide-efflux protein
@@ -103,10 +89,6 @@ Q8DN14	EOOINEPP_00094	Transcriptional repressor AdcR for Zn(2+)-responsive expre
 B2INJ0	EOOINEPP_00095	Zinc ABC transporter%2C ATP-binding protein AdcC
 A0A0U0GQW9	EOOINEPP_00096	Zinc ABC transporter%2C permease protein AdcB
 A0AA86J9Q5	EOOINEPP_00097	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
-	EOOINEPP_00098	SpF66_sRNA
-	EOOINEPP_00098	
-	EOOINEPP_00099	SpF66_sRNA
-	EOOINEPP_00099	
 A0A0B7LC33	EOOINEPP_00100	L-fucose operon activator
 A0A4J2BSX0	EOOINEPP_00101	L-fuculokinase
 A0A558TAT7	EOOINEPP_00102	L-fuculose phosphate aldolase
@@ -198,11 +180,7 @@ A0A0T8C5H8	EOOINEPP_00187	Putative cupin superfamily protein
 B2IPT3	EOOINEPP_00188	IS1381 transposase OrfB
 Q8DN69	EOOINEPP_00189	Arginyl-tRNA synthetase
 P0A2Y3	EOOINEPP_00190	Arginine pathway regulatory protein ArgR1
-	EOOINEPP_00191	SpR10_sRNA
-	EOOINEPP_00191	
 C8XPW7	EOOINEPP_00192	DNA mismatch repair protein HexA
-	EOOINEPP_00193	patAB
-	EOOINEPP_00193	
 A0A0B7LCV4	EOOINEPP_00194	Multidrug resistance ABC transporter ATP-binding and permease protein
 A0AA86MPT8	EOOINEPP_00195	hypothetical protein
 A0A0B7M9F3	EOOINEPP_00196	Multidrug resistance ABC transporter ATP-binding and permease protein
@@ -210,38 +188,6 @@ C1CH02	EOOINEPP_00197	Glutamine amidotransferase%2C class I
 C1CH00	EOOINEPP_00198	Glucose-6-phosphate isomerase
 C1CGZ9	EOOINEPP_00199	Glutamyl-tRNA synthetase
 C1CGZ8	EOOINEPP_00200	Cytidine/deoxycytidylate deaminase family protein
-	EOOINEPP_00201	tRNA-Glu(ttc)
-	EOOINEPP_00201	
-	EOOINEPP_00202	16S ribosomal RNA
-	EOOINEPP_00202	
-	EOOINEPP_00203	tRNA-Ala(tgc)
-	EOOINEPP_00203	
-	EOOINEPP_00204	23S ribosomal RNA
-	EOOINEPP_00204	
-	EOOINEPP_00205	5S ribosomal RNA
-	EOOINEPP_00205	
-	EOOINEPP_00206	tRNA-Val(tac)
-	EOOINEPP_00206	
-	EOOINEPP_00207	tRNA-Gly(tcc)
-	EOOINEPP_00207	
-	EOOINEPP_00208	tRNA-Ile(gat)
-	EOOINEPP_00208	
-	EOOINEPP_00209	tRNA-Ser(tga)
-	EOOINEPP_00209	
-	EOOINEPP_00210	tRNA-Met(cat)
-	EOOINEPP_00210	
-	EOOINEPP_00211	tRNA-Phe(gaa)
-	EOOINEPP_00211	
-	EOOINEPP_00212	tRNA-Tyr(gta)
-	EOOINEPP_00212	
-	EOOINEPP_00213	tRNA-Trp(cca)
-	EOOINEPP_00213	
-	EOOINEPP_00214	tRNA-His(gtg)
-	EOOINEPP_00214	
-	EOOINEPP_00215	tRNA-Gln(ttg)
-	EOOINEPP_00215	
-	EOOINEPP_00216	tRNA-Leu(caa)
-	EOOINEPP_00216	
 A0A0T8B533	EOOINEPP_00217	Hypothetical protein
 A0A380LNX4	EOOINEPP_00218	Threonine synthase
 C1CGZ5	EOOINEPP_00219	Multi antimicrobial extrusion family transporter
@@ -301,34 +247,6 @@ A0AA86JEQ7	EOOINEPP_00272	Multimodular transpeptidase-transglycosylase%2C penici
 Q8DNB7	EOOINEPP_00273	Protein translocase subunit SecE
 C1CGT9	EOOINEPP_00274	Transcription antitermination protein NusG
 A0A0H2UMS0	EOOINEPP_00275	Competence-specific sigma factor ComX
-	EOOINEPP_00276	tRNA-Glu(ttc)
-	EOOINEPP_00276	
-	EOOINEPP_00277	16S ribosomal RNA
-	EOOINEPP_00277	
-	EOOINEPP_00278	tRNA-Ala(tgc)
-	EOOINEPP_00278	
-	EOOINEPP_00279	23S ribosomal RNA
-	EOOINEPP_00279	
-	EOOINEPP_00280	5S ribosomal RNA
-	EOOINEPP_00280	
-	EOOINEPP_00281	tRNA-Val(tac)
-	EOOINEPP_00281	
-	EOOINEPP_00282	tRNA-Asp(gtc)
-	EOOINEPP_00282	
-	EOOINEPP_00283	tRNA-Lys(ttt)
-	EOOINEPP_00283	
-	EOOINEPP_00284	tRNA-Leu(tag)
-	EOOINEPP_00284	
-	EOOINEPP_00285	tRNA-Thr(tgt)
-	EOOINEPP_00285	
-	EOOINEPP_00286	tRNA-Gly(gcc)
-	EOOINEPP_00286	
-	EOOINEPP_00287	tRNA-Leu(taa)
-	EOOINEPP_00287	
-	EOOINEPP_00288	tRNA-Arg(acg)
-	EOOINEPP_00288	
-	EOOINEPP_00289	tRNA-Pro(tgg)
-	EOOINEPP_00289	
 C1CA51	EOOINEPP_00290	Hypothetical protein
 A0A380LP39	EOOINEPP_00291	Hypothetical protein
 A0AA86MFW3	EOOINEPP_00292	ABC transporter%2C ATP-binding protein
@@ -374,10 +292,6 @@ A0A380LR80	EOOINEPP_00331	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 Q03159	EOOINEPP_00332	Competence-associated EpuA protein
 A0A0B7L7Z9	EOOINEPP_00333	DNA-entry nuclease
 B1I8R6	EOOINEPP_00334	Putative hemolysin
-	EOOINEPP_00335	tRNA-Cys(gca)
-	EOOINEPP_00335	
-	EOOINEPP_00336	Lacto-rpoB
-	EOOINEPP_00336	
 A0A0B7LZ45	EOOINEPP_00337	DNA-directed RNA polymerase beta subunit
 A0AA86MP25	EOOINEPP_00338	DNA-directed RNA polymerase beta' subunit
 A0A0T7L482	EOOINEPP_00339	Nucleoside diphosphate kinase
@@ -426,58 +340,10 @@ Q8VTM9	EOOINEPP_00381	Heat shock protein 60 family co-chaperone GroES
 Q04IQ3	EOOINEPP_00382	Heat shock protein 60 family chaperone GroEL
 C1CGD6	EOOINEPP_00383	IS1167 transposase
 C1CGD5	EOOINEPP_00384	IS1167 transposase
-	EOOINEPP_00385	Srn266
-	EOOINEPP_00385	
 Q8CYC0	EOOINEPP_00386	Hypothetical protein
-	EOOINEPP_00387	Spy392987
-	EOOINEPP_00387	
 Q8DNH5	EOOINEPP_00388	Cysteinyl-tRNA synthetase related protein
 A0A0E9GYL2	EOOINEPP_00389	Regulatory protein RecX
 C1CGD1	EOOINEPP_00390	RNA methyltransferase%2C TrmA family
-	EOOINEPP_00391	tRNA-Glu(ttc)
-	EOOINEPP_00391	
-	EOOINEPP_00392	16S ribosomal RNA
-	EOOINEPP_00392	
-	EOOINEPP_00393	tRNA-Ala(tgc)
-	EOOINEPP_00393	
-	EOOINEPP_00394	23S ribosomal RNA
-	EOOINEPP_00394	
-	EOOINEPP_00395	5S ribosomal RNA
-	EOOINEPP_00395	
-	EOOINEPP_00396	tRNA-Val(tac)
-	EOOINEPP_00396	
-	EOOINEPP_00397	tRNA-Asp(gtc)
-	EOOINEPP_00397	
-	EOOINEPP_00398	tRNA-Lys(ttt)
-	EOOINEPP_00398	
-	EOOINEPP_00399	tRNA-Leu(tag)
-	EOOINEPP_00399	
-	EOOINEPP_00400	tRNA-Thr(tgt)
-	EOOINEPP_00400	
-	EOOINEPP_00401	tRNA-Gly(gcc)
-	EOOINEPP_00401	
-	EOOINEPP_00402	tRNA-Leu(taa)
-	EOOINEPP_00402	
-	EOOINEPP_00403	tRNA-Arg(acg)
-	EOOINEPP_00403	
-	EOOINEPP_00404	tRNA-Pro(tgg)
-	EOOINEPP_00404	
-	EOOINEPP_00405	tRNA-Met(cat)
-	EOOINEPP_00405	
-	EOOINEPP_00406	tRNA-Met(cat)
-	EOOINEPP_00406	
-	EOOINEPP_00407	tRNA-Ser(tga)
-	EOOINEPP_00407	
-	EOOINEPP_00408	tRNA-Met(cat)
-	EOOINEPP_00408	
-	EOOINEPP_00409	tRNA-Phe(gaa)
-	EOOINEPP_00409	
-	EOOINEPP_00410	tRNA-Gly(tcc)
-	EOOINEPP_00410	
-	EOOINEPP_00411	tRNA-Ile(gat)
-	EOOINEPP_00411	
-	EOOINEPP_00412	tRNA-Ser(gct)
-	EOOINEPP_00412	
 C1C9G9	EOOINEPP_00413	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0A0B7MFI0	EOOINEPP_00414	Multiple sugar metabolism operon regulatory protein MsmR
 A0AA86JB16	EOOINEPP_00415	Alpha-galactosidase
@@ -533,8 +399,6 @@ C1CG75	EOOINEPP_00464	Type II restriction-modification system endonuclease DpnC
 P0A3T5	EOOINEPP_00465	Type II restriction-modification system component DpnD
 A0AA86JT53	EOOINEPP_00466	Xanthine permease
 Q3I0B1	EOOINEPP_00467	Xanthine phosphoribosyltransferase
-	EOOINEPP_00468	Purine
-	EOOINEPP_00468	
 Q8CYC6	EOOINEPP_00469	hypothetical protein
 C1CG71	EOOINEPP_00470	Exodeoxyribonuclease III
 A0AA86MHZ7	EOOINEPP_00471	hypothetical protein
@@ -553,8 +417,6 @@ C1CG52	EOOINEPP_00483	Iron(III)-transport system permease protein SfuB
 Q8DNM3	EOOINEPP_00484	Mg(2+)-transport-ATPase-associated protein MgtC
 A0AA86MIY9	EOOINEPP_00485	Hypothetical protein
 Q8DNM4	EOOINEPP_00486	Galactose operon repressor%2C GalR-LacI family
-	EOOINEPP_00487	T-box
-	EOOINEPP_00487	
 A0A4J2BRX9	EOOINEPP_00488	Hypothetical protein
 A0AA86MEX1	EOOINEPP_00489	Anthranilate synthase%2C aminase component
 A0A0B7LWH4	EOOINEPP_00490	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
@@ -587,8 +449,6 @@ C1CG18	EOOINEPP_00516	Multiple sugar ABC transporter%2C membrane-spanning permea
 B2ISF6	EOOINEPP_00517	ABC transporter permease protein
 B2ISF0	EOOINEPP_00518	hypothetical protein
 A0A0T8VMK4	EOOINEPP_00519	Sucrose-6-phosphate hydrolase
-	EOOINEPP_00520	tRNA-Lys(ctt)
-	EOOINEPP_00520	
 A0A4V0ITY0	EOOINEPP_00521	Chromosome segregation helicase
 Q8CYD9	EOOINEPP_00522	Hypothetical protein
 Q8DNP2	EOOINEPP_00523	Addiction module antitoxin HicB
@@ -756,8 +616,6 @@ A0AA86MJX7	EOOINEPP_00684	Major facilitator oxalate:formate antiporter
 P0A4D7	EOOINEPP_00685	DEAD-box ATP-dependent RNA helicase CshA
 C1CSK2	EOOINEPP_00686	GTP-sensing transcriptional pleiotropic repressor CodY
 Q8DP02	EOOINEPP_00687	Nicotinamidase
-	EOOINEPP_00688	tRNA-Leu(aag)
-	EOOINEPP_00688	
 A0A0H2UQW6	EOOINEPP_00689	Multiple sugar ABC transporter%2C ATP-binding protein
 Q8DP04	EOOINEPP_00690	SAM-dependent methyltransferase
 C1CFG1	EOOINEPP_00691	Adenine phosphoribosyltransferase
@@ -805,8 +663,6 @@ A0A380LTB6	EOOINEPP_00732	hypothetical protein
 A0A4L7JWA9	EOOINEPP_00733	hypothetical protein
 A0AA86JLC6	EOOINEPP_00734	hypothetical protein
 A0A0B7LRJ1	EOOINEPP_00735	hypothetical protein
-	EOOINEPP_00736	GOLLD
-	EOOINEPP_00736	
 A0AA86MGS2	EOOINEPP_00737	hypothetical protein
 A0A4J1UIP0	EOOINEPP_00738	hypothetical protein
 A0A4J2BWE8	EOOINEPP_00739	hypothetical protein
@@ -843,15 +699,11 @@ B2IR75	EOOINEPP_00769	4-hydroxy-tetrahydrodipicolinate reductase
 A0AA86J8X0	EOOINEPP_00770	CCA tRNA nucleotidyltransferase
 A0A0T8V6V7	EOOINEPP_00771	ATPase component of ABC transporter with duplicated ATPase domains
 C1CFD7	EOOINEPP_00772	Cobalt-zinc-cadmium resistance protein
-	EOOINEPP_00773	SSRC10
-	EOOINEPP_00773	
 A0A0T8FY45	EOOINEPP_00774	Calcium-transporting ATPase
 A0A0T8A0Q4	EOOINEPP_00775	Glutathione S-transferase
 A0A0T8SNA2	EOOINEPP_00776	Peptide deformylase
 A0AA86MK75	EOOINEPP_00777	Cell shape-determining protein
 Q8CYI7	EOOINEPP_00778	Hypothetical protein
-	EOOINEPP_00779	SpR20_sRNA
-	EOOINEPP_00779	
 B2IR66	EOOINEPP_00780	hypothetical protein
 B1ICW7	EOOINEPP_00781	Hypothetical protein
 A0A098ZCY9	EOOINEPP_00782	Hypothetical protein
@@ -916,8 +768,6 @@ A0AA86MI80	EOOINEPP_00840	Oxidoreductase%2C Gfo/Idh/MocA family
 B2IQU6	EOOINEPP_00841	hypothetical protein
 A0AA86MF50	EOOINEPP_00842	Peptidoglycan N-acetylglucosamine deacetylase
 B2IQU4	EOOINEPP_00843	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
-	EOOINEPP_00844	SpR19_sRNA
-	EOOINEPP_00844	
 C1C872	EOOINEPP_00845	hypothetical protein
 A0A0B7LTT5	EOOINEPP_00846	Glycyl-tRNA synthetase alpha chain
 A0AA86J7G2	EOOINEPP_00847	Glycyl-tRNA synthetase beta chain
@@ -948,8 +798,6 @@ C1CF32	EOOINEPP_00871	Beta-lactamase%2C class C
 Q8DP82	EOOINEPP_00872	Drug/metabolite transporter superfamily protein
 Q8DP83	EOOINEPP_00873	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 Q04JQ8	EOOINEPP_00874	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
-	EOOINEPP_00875	SpR18_sRNA
-	EOOINEPP_00875	
 B2IQR0	EOOINEPP_00876	IS66 family transposase Orf1
 A0AA86JBN9	EOOINEPP_00877	IS66 family transposase Orf2
 A0A0E7Z8M3	EOOINEPP_00878	hypothetical protein
@@ -1034,12 +882,8 @@ P0A3Q9	EOOINEPP_00956	Peptide methionine sulfoxide reductase MsrAB1
 A0AA86J763	EOOINEPP_00957	ABC transporter ATP-binding/permease protein
 A0AA86JG40	EOOINEPP_00958	ABC transporter ATP-binding/permease protein
 A0A6I3VCP0	EOOINEPP_00959	Methylthioadenosine deaminase
-	EOOINEPP_00960	L10_leader
-	EOOINEPP_00960	
 Q04JZ3	EOOINEPP_00961	LSU ribosomal protein L10p (P0)
 Q04JZ4	EOOINEPP_00962	LSU ribosomal protein L7/L12 (P1/P2)
-	EOOINEPP_00963	rli38
-	EOOINEPP_00963	
 A0A098ANF2	EOOINEPP_00964	hypothetical protein
 A0A0B7LSP9	EOOINEPP_00965	hypothetical protein
 A0A380LSW2	EOOINEPP_00966	hypothetical protein
@@ -1066,8 +910,6 @@ B2IQ95	EOOINEPP_00986	Chorismate mutase I
 A0A0B7LCK6	EOOINEPP_00987	ClC-type fluoride channel
 A0A0B7L7B2	EOOINEPP_00988	ClC-type fluoride channel
 Q97QC6	EOOINEPP_00989	LSU ribosomal protein L19p
-	EOOINEPP_00990	tRNA-Arg(cct)
-	EOOINEPP_00990	
 B1ICA6	EOOINEPP_00991	hypothetical protein
 A0A0T8EFL7	EOOINEPP_00992	Sugar phosphatase YidA
 A0AA86J9T0	EOOINEPP_00993	dNTP triphosphohydrolase
@@ -1075,19 +917,13 @@ A0AA86JD20	EOOINEPP_00994	Hypothetical protein
 C1C7R8	EOOINEPP_00995	Signal recognition particle associated protein
 A0AA86MIT1	EOOINEPP_00996	Signal recognition particle protein Ffh
 A0AA86MNM7	EOOINEPP_00997	Uracil permease
-	EOOINEPP_00998	SpF44_sRNA
-	EOOINEPP_00998	
 C1CEP0	EOOINEPP_00999	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
 Q8DPH4	EOOINEPP_01000	LemA
 Q97QD6	EOOINEPP_01001	Heat shock protein HtpX
 A0A4J1U6Q8	EOOINEPP_01002	ABC transporter ATP-binding protein
-	EOOINEPP_01003	SpF43_sRNA
-	EOOINEPP_01003	
 Q8CYP8	EOOINEPP_01004	BlpT protein
 C1C7Q8	EOOINEPP_01005	Protein%2C clustered with ribosomal protein L32p
 Q8DPH8	EOOINEPP_01006	Endonuclease III
-	EOOINEPP_01007	PyrR
-	EOOINEPP_01007	
 Q04K45	EOOINEPP_01008	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
 C1CR29	EOOINEPP_01009	Aspartate carbamoyltransferase
 A0A064BWJ2	EOOINEPP_01010	Carbamoyl-phosphate synthase small chain CarA
@@ -1115,8 +951,6 @@ A0A098ZBM5	EOOINEPP_01031	Hypothetical protein
 A0AA86MBU9	EOOINEPP_01032	Endonuclease
 A0AA86JIT2	EOOINEPP_01033	Hypothetical protein
 A0AA86JCR4	EOOINEPP_01034	GMP reductase
-	EOOINEPP_01035	tRNA-Arg(ccg)
-	EOOINEPP_01035	
 A0A0B7M364	EOOINEPP_01036	Ribonuclease III
 A0AA86JA36	EOOINEPP_01037	Chromosome partition protein SMC
 A0AA86J829	EOOINEPP_01038	Hydrolase%2C HAD superfamily
@@ -1141,8 +975,6 @@ Q9S1K0	EOOINEPP_01056	Two-component system response regulator VicR
 A0A0I6LZG5	EOOINEPP_01057	Two-component system sensor histidine kinase VicK
 Q9RCS5	EOOINEPP_01058	Zn-dependent hydrolase VicX
 A0A6I3U6U1	EOOINEPP_01059	IS1167 transposase
-	EOOINEPP_01060	Srn266
-	EOOINEPP_01060	
 A0A558SUE3	EOOINEPP_01061	Replicon stabilization protein RelB2
 Q8CYQ7	EOOINEPP_01062	mRNA interferase RelE2
 A0A380LVR6	EOOINEPP_01063	hypothetical protein
@@ -1234,17 +1066,11 @@ A0AAD2Q8N3	EOOINEPP_01148	IS1380 family transposase ISSpn5
 Q04KI2	EOOINEPP_01149	LSU ribosomal protein L27p
 Q8DPT7	EOOINEPP_01150	Putative ribosomal protein
 Q97QU4	EOOINEPP_01151	LSU ribosomal protein L21p
-	EOOINEPP_01152	L21_leader
-	EOOINEPP_01152	
 A0AA86JB64	EOOINEPP_01153	Hypothetical protein
 Q04KI6	EOOINEPP_01154	Hypothetical protein co-occurring with RecR
-	EOOINEPP_01155	Srn266
-	EOOINEPP_01155	
 A0AA86JAB2	EOOINEPP_01156	IS1167 transposase Orf1
 A0A559A0J2	EOOINEPP_01157	hypothetical protein
 C1CGD6	EOOINEPP_01158	IS1167 transposase
-	EOOINEPP_01159	SpR14_sRNA
-	EOOINEPP_01159	
 Q8DPU0	EOOINEPP_01160	Phosphate acetyltransferase
 A0AA86MIQ4	EOOINEPP_01161	RluD-like protein
 B2IQ09	EOOINEPP_01162	NAD kinase
@@ -1265,8 +1091,6 @@ Q8DPV1	EOOINEPP_01176	Methionine aminopeptidase
 A0A0B7M8Z1	EOOINEPP_01177	Cytosolic protein containing multiple CBS domains
 C1CE69	EOOINEPP_01178	Ribosomal-protein-S5p-alanine acetyltransferase
 Q97QW6	EOOINEPP_01179	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
-	EOOINEPP_01180	group-II-D1D4-3
-	EOOINEPP_01180	
 C1CE67	EOOINEPP_01181	Hypothetical protein
 A0AA86JQ84	EOOINEPP_01182	GTP-binding protein ObgE
 C1CE65	EOOINEPP_01183	Hypothetical protein
@@ -1279,16 +1103,12 @@ B1IBL2	EOOINEPP_01189	DNA primase
 A0AA86MFK1	EOOINEPP_01190	ABC transporter ATP-binding protein
 A0A0H2UPW3	EOOINEPP_01191	Putative tryptophan-specific ABC transporter permease protein TrpY
 A0A558TB35	EOOINEPP_01192	ABC transporter substrate-binding protein
-	EOOINEPP_01193	T-box
-	EOOINEPP_01193	
 B2IQ40	EOOINEPP_01194	Phosphoenolpyruvate carboxylase
 A0A0E7RLL4	EOOINEPP_01195	Cell division protein FtsW
 B2IQ42	EOOINEPP_01196	hypothetical protein
 A0AA86JUC1	EOOINEPP_01197	Peptidase E
 B2IQ45	EOOINEPP_01198	hypothetical protein
 A0A0U0I1A6	EOOINEPP_01199	hypothetical protein
-	EOOINEPP_01200	pemK
-	EOOINEPP_01200	
 C1C734	EOOINEPP_01201	Putative repressor protein%2C phage associated
 B2IQ47	EOOINEPP_01202	hypothetical protein
 B2IQ49	EOOINEPP_01203	hypothetical protein
@@ -1340,18 +1160,12 @@ B2IPK0	EOOINEPP_01248	Hypothetical protein
 B2IPJ6	EOOINEPP_01249	Hypothetical protein
 A0A2Z4HWN8	EOOINEPP_01250	Phage integrase
 Q8CYT9	EOOINEPP_01251	Hypothetical protein
-	EOOINEPP_01252	pemK
-	EOOINEPP_01252	
 Q8CYU1	EOOINEPP_01253	Putative type II restriction endonuclease
 A0A2Z4HWP0	EOOINEPP_01254	Iron compound ABC uptake transporter ATP-binding protein PiaD
 Q8DPY4	EOOINEPP_01255	Iron compound ABC uptake transporter permease protein PiaC
 B2IPI9	EOOINEPP_01256	Iron compound ABC uptake transporter permease protein PiaB
 Q8DPY6	EOOINEPP_01257	Iron compound ABC uptake transporter substrate-binding protein PiaA
 C1CE21	EOOINEPP_01258	Hypothetical protein
-	EOOINEPP_01259	SpF39_sRNA
-	EOOINEPP_01259	
-	EOOINEPP_01260	SpF61_sRNA
-	EOOINEPP_01260	
 A0A0B7LQI0	EOOINEPP_01261	23S rRNA (uracil(1939)-C(5))-methyltransferase
 C1CE19	EOOINEPP_01262	Extracellular protein
 A0A0I9F9I5	EOOINEPP_01263	Pneumococcal vaccine antigen A
@@ -1366,13 +1180,7 @@ B2IPH4	EOOINEPP_01271	Bifunctional 4-oxalocrotonate tautomerase/xylose transport
 A0AA86MIL8	EOOINEPP_01272	GTPase and tRNA-U34 5-formylation enzyme MnmE
 C1CK93	EOOINEPP_01273	4-hydroxy-tetrahydrodipicolinate synthase
 A0AA86JCQ6	EOOINEPP_01274	Aspartate-semialdehyde dehydrogenase
-	EOOINEPP_01275	asd
-	EOOINEPP_01275	
-	EOOINEPP_01276	tRNA-Thr(ggt)
-	EOOINEPP_01276	
 Q8DQ01	EOOINEPP_01277	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	EOOINEPP_01278	preQ1-II
-	EOOINEPP_01278	
 A0A0B7L7C1	EOOINEPP_01279	GtrA family protein
 A0A064C208	EOOINEPP_01280	Large-conductance mechanosensitive channel MscL
 A0AA86JQ28	EOOINEPP_01281	Ferrochelatase%2C protoheme ferro-lyase
@@ -1384,8 +1192,6 @@ A0AA86JCD4	EOOINEPP_01286	hypothetical protein
 A0A0E3GJB8	EOOINEPP_01287	Pneumococcal histidine triad protein D
 Q8DQ09	EOOINEPP_01288	Laminin-binding surface protein
 A0A0U0CNB1	EOOINEPP_01289	Cationic amino acid transporter%2C APC Superfamily
-	EOOINEPP_01290	SpF36_sRNA
-	EOOINEPP_01290	
 A0AA86JB35	EOOINEPP_01291	Thiol:disulfide oxidoreductase
 Q8DQ11	EOOINEPP_01292	Cytochrome c-type biogenesis protein CcdA-2
 A0AA86JA82	EOOINEPP_01293	Hypothetical protein
@@ -1425,15 +1231,11 @@ C1CDV7	EOOINEPP_01326	Lactoylglutathione lyase
 Q04KW7	EOOINEPP_01327	LSU ribosomal protein L20p
 Q04KW8	EOOINEPP_01328	LSU ribosomal protein L35p
 Q04KW9	EOOINEPP_01329	Translation initiation factor 3
-	EOOINEPP_01330	L20_leader
-	EOOINEPP_01330	
 A0AA86MBW6	EOOINEPP_01331	Hypothetical protein
 A0AA86JJ09	EOOINEPP_01332	ABC transporter%2C ATP-binding protein
 A0AA86JCV2	EOOINEPP_01333	Late competence DNA transporter ComEC
 A0AA86J8X6	EOOINEPP_01334	Late competence DNA receptor ComEA
 A0AA86JA67	EOOINEPP_01335	Acetyltransferase%2C GNAT family
-	EOOINEPP_01336	Srn266
-	EOOINEPP_01336	
 A0A6I3U6U1	EOOINEPP_01337	IS1167 transposase
 A0AA86JBX2	EOOINEPP_01338	Alanine dehydrogenase
 Q8DQ44	EOOINEPP_01339	Alanine dehydrogenase 2
@@ -1477,16 +1279,12 @@ A0AA86MCV5	EOOINEPP_01376	ABC transporter permease protein
 C1CDQ8	EOOINEPP_01377	ABC transporter ATP-binding protein
 A0A0U0BVB4	EOOINEPP_01378	Hypothetical protein
 A0A0H2UPK6	EOOINEPP_01379	Hypothetical protein
-	EOOINEPP_01380	Spd-sr07
-	EOOINEPP_01380	
 A0A5C8QW28	EOOINEPP_01381	Putative phage shock protein C
 A0A0B7LHD2	EOOINEPP_01382	Putative SprT family zinc-dependent metallopeptidase
 A0AA86JJ79	EOOINEPP_01383	Transcription accessory protein
 C1CDQ2	EOOINEPP_01384	Hypothetical protein
 Q8DQ81	EOOINEPP_01385	Putative permease
 B1IB73	EOOINEPP_01386	ABC transporter substrate-binding protein
-	EOOINEPP_01387	Srn266
-	EOOINEPP_01387	
 A0A6I3U6U1	EOOINEPP_01388	IS1167 transposase
 A0A0D6J9F7	EOOINEPP_01389	Hypothetical protein
 B1IB71	EOOINEPP_01390	Hypothetical protein
@@ -1513,10 +1311,6 @@ A0A4G1Y424	EOOINEPP_01410	DNA translocase FtsK
 B2IP07	EOOINEPP_01411	Fructose-specific PTS IIABC components
 B2IP06	EOOINEPP_01412	1-phosphofructokinase
 Q8DQ97	EOOINEPP_01413	Transcriptional repressor of the fructose operon%2C DeoR family
-	EOOINEPP_01414	tRNA-Ser(gga)
-	EOOINEPP_01414	
-	EOOINEPP_01415	transfer-messenger RNA%2C SsrA
-	EOOINEPP_01415	
 A0AA86MFR6	EOOINEPP_01416	Coordinator of zonal cell elongation
 Q75Y43	EOOINEPP_01417	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 Q8DQA0	EOOINEPP_01418	Iron-sulfur cluster assembly protein SufB
@@ -1527,16 +1321,10 @@ Q8DQA4	EOOINEPP_01422	Iron-sulfur cluster assembly ATPase protein SufC
 Q8CYX9	EOOINEPP_01423	Hypothetical protein
 A0AA86JH76	EOOINEPP_01424	DNA polymerase III subunits gamma and tau
 Q8DQA6	EOOINEPP_01425	GAF domain-containing protein
-	EOOINEPP_01426	Srn266
-	EOOINEPP_01426	
 A0AA86JA75	EOOINEPP_01427	IS1167 transposase Orf1
 A0A380LUY3	EOOINEPP_01428	hypothetical protein
 A0AA86JCW2	EOOINEPP_01429	IS1167 transposase Orf2
 C1CDK9	EOOINEPP_01430	SSU ribosomal protein S1p
-	EOOINEPP_01431	tRNA-Gln(ttg)
-	EOOINEPP_01431	
-	EOOINEPP_01432	tRNA-Tyr(gta)
-	EOOINEPP_01432	
 Q8CYY0	EOOINEPP_01433	Hypothetical protein
 Q04L55	EOOINEPP_01434	Pyrrolidone-carboxylate peptidase
 Q8DQB0	EOOINEPP_01435	Putative membrane protein
@@ -1548,8 +1336,6 @@ B2INX2	EOOINEPP_01440	Restriction enzyme BcgI alpha chain-like protein
 Q3HZ74	EOOINEPP_01441	Topoisomerase IV subunit B
 Q04L63	EOOINEPP_01442	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
 A0AA86J856	EOOINEPP_01443	IS1167 transposase
-	EOOINEPP_01444	Srn266
-	EOOINEPP_01444	
 Q8DR38	EOOINEPP_01445	IS3 family transposase ISSpn11
 A0A4G2AB56	EOOINEPP_01446	IS3 family transposase ISSpn11
 A0A0E8AVY5	EOOINEPP_01447	hypothetical protein
@@ -1596,8 +1382,6 @@ A0AA86JBW8	EOOINEPP_01487	Protease
 Q8CYY6	EOOINEPP_01488	Hypothetical protein
 Q7B3G0	EOOINEPP_01489	Two-component system sensor histidine kinase CiaH
 C1CDF5	EOOINEPP_01490	Two-component system response regulator CiaR
-	EOOINEPP_01491	Srn266
-	EOOINEPP_01491	
 A0A6I3U6U1	EOOINEPP_01492	IS1167 transposase
 A0A0I9CPU3	EOOINEPP_01493	Lysyl aminopeptidase PepN
 A0A380LYQ1	EOOINEPP_01494	Hypothetical protein
@@ -1666,8 +1450,6 @@ C1CD82	EOOINEPP_01556	Pyruvate oxidase
 A0AA86JEC3	EOOINEPP_01557	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
 C1C677	EOOINEPP_01558	Copper-exporting ATPase
 C1CD79	EOOINEPP_01559	Negative transcriptional regulator of copper transport operon
-	EOOINEPP_01560	TPP
-	EOOINEPP_01560	
 B2INA8	EOOINEPP_01561	Hydroxymethylpyrimidine phosphate kinase ThiD
 B2INA7	EOOINEPP_01562	Thiamin-phosphate pyrophosphorylase
 B8ZN21	EOOINEPP_01563	Hydroxyethylthiazole kinase
@@ -1676,13 +1458,9 @@ B2INA4	EOOINEPP_01565	Thiaminase II TenA
 B2INA3	EOOINEPP_01566	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 B2INA2	EOOINEPP_01567	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 C1CD71	EOOINEPP_01568	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
-	EOOINEPP_01569	TPP
-	EOOINEPP_01569	
 A0AA87CCP8	EOOINEPP_01570	Thiamin-phosphate pyrophosphorylase
 A0AA86JRI0	EOOINEPP_01571	Hydroxyethylthiazole kinase
 Q8DQK6	EOOINEPP_01572	Thiaminase II
-	EOOINEPP_01573	TPP
-	EOOINEPP_01573	
 A0AA86JB23	EOOINEPP_01574	L-Lactate 2-monooxygenase
 A0AA86JED3	EOOINEPP_01575	Class II lysyl-tRNA synthetase
 B2IN94	EOOINEPP_01576	L-Lactate 2-monooxygenase
@@ -1699,8 +1477,6 @@ A0AA86JIB3	EOOINEPP_01586	Hypothetical protein
 A0A0E9GWH4	EOOINEPP_01587	Hypothetical protein
 B5E302	EOOINEPP_01588	Orotate phosphoribosyltransferase
 A0AA86JB32	EOOINEPP_01589	Orotidine 5'-phosphate decarboxylase
-	EOOINEPP_01590	PyrR
-	EOOINEPP_01590	
 A0A9P1Q6T2	EOOINEPP_01591	Cell division protein DivIB
 A0AA86MKC2	EOOINEPP_01592	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
 A0AA86MJC5	EOOINEPP_01593	UDP-N-acetylmuramoylalanine--D-glutamate ligase
@@ -1714,8 +1490,6 @@ Q8CZ12	EOOINEPP_01600	Hypothetical protein
 Q8DQM7	EOOINEPP_01601	Rhodanese-like domain protein
 Q8DQM8	EOOINEPP_01602	Hypothetical protein
 Q8DQM9	EOOINEPP_01603	Methionine biosynthesis and transport regulator MtaR%2C LysR family
-	EOOINEPP_01604	Srn266
-	EOOINEPP_01604	
 A0AA86J856	EOOINEPP_01605	IS1167 transposase
 A0A380LWD0	EOOINEPP_01606	Short-chain dehydrogenase
 A0AA86J931	EOOINEPP_01607	Ribonuclease Z
@@ -1742,8 +1516,6 @@ Q8DQP3	EOOINEPP_01627	Putative rRNA methylase YtqB
 B2IMW4	EOOINEPP_01628	hypothetical protein
 B2IMW3	EOOINEPP_01629	hypothetical protein
 C1CD20	EOOINEPP_01630	Hypothetical protein
-	EOOINEPP_01631	SpF25_sRNA
-	EOOINEPP_01631	
 C1CD18	EOOINEPP_01632	hypothetical protein
 C1CD17	EOOINEPP_01633	hypothetical protein
 A0AA86JK77	EOOINEPP_01634	Beta-galactosidase BgaA
@@ -1758,16 +1530,12 @@ Q8DQP9	EOOINEPP_01642	Antibiotic ABC transporter permease protein
 Q8DQQ0	EOOINEPP_01643	ABC transporter ATP-binding protein
 A0A0U0GZ72	EOOINEPP_01644	Hypothetical protein
 A0AA86J8F1	EOOINEPP_01645	Hypothetical protein
-	EOOINEPP_01646	Intron_gpII
-	EOOINEPP_01646	
 Q04LP6	EOOINEPP_01647	LSU ribosomal protein L1p (L10Ae)
 Q97RZ6	EOOINEPP_01648	LSU ribosomal protein L11p (L12e)
 A0A062WT68	EOOINEPP_01649	L%2CD-carboxypeptidase
 A0A380LUC5	EOOINEPP_01650	Histidine triad family protein
 A0A380LYA4	EOOINEPP_01651	Deblocking aminopeptidase
 C1C5Z4	EOOINEPP_01652	Branched-chain amino acid transport system carrier protein
-	EOOINEPP_01653	SpF22_sRNA
-	EOOINEPP_01653	
 Q8CZ26	EOOINEPP_01654	hypothetical protein
 C1CCZ5	EOOINEPP_01655	Uracil-DNA glycosylase
 Q8DQQ6	EOOINEPP_01656	Dipeptidase PepV
@@ -1791,8 +1559,6 @@ C1CCX7	EOOINEPP_01673	Two-component system response regulator VncR
 Q9S4J0	EOOINEPP_01674	Peptide ABC transporter membrane-spanning permease Vex3
 C1CCX5	EOOINEPP_01675	ABC transporter ATP-binding protein Vex2
 C1C5W8	EOOINEPP_01676	Peptide ABC transporter membrane-spanning permease Vex1
-	EOOINEPP_01677	Intron_gpII
-	EOOINEPP_01677	
 A0A0T8BJF5	EOOINEPP_01678	hypothetical protein
 A0A0U0HM90	EOOINEPP_01679	Leucine rich protein
 C1CCW8	EOOINEPP_01680	Mini-ribonuclease III
@@ -1810,8 +1576,6 @@ A0AA86JHG0	EOOINEPP_01691	Phenylalanyl-tRNA synthetase alpha chain
 A0AA86J8C1	EOOINEPP_01692	6-phospho-beta-glucosidase
 A0AA86JAD4	EOOINEPP_01693	Beta-glucoside-specific PTS IIBCA components
 B2IMP8	EOOINEPP_01694	Beta-glucoside bgl operon antiterminator BglG
-	EOOINEPP_01695	SpF19_sRNA
-	EOOINEPP_01695	
 Q8DNZ4	EOOINEPP_01696	IS3 family transposase ISSpn11
 A0A4J2ARN3	EOOINEPP_01697	IS3 family transposase ISSpn11
 A0A380LW28	EOOINEPP_01698	Putative transposase InsK for insertion sequence element IS150
@@ -1863,8 +1627,6 @@ A0AA86MPB8	EOOINEPP_01743	ABC transporter ATP-binding protein EcsA
 A0A380LSE3	EOOINEPP_01744	Histidine triad nucleotide-binding protein
 Q8CZ48	EOOINEPP_01745	Hypothetical protein
 A0A380LV94	EOOINEPP_01746	Chaperone protein DnaJ
-	EOOINEPP_01747	SpF14_sRNA
-	EOOINEPP_01747	
 A0A0T8D8M9	EOOINEPP_01748	Hypothetical protein
 A0A0T9I7B3	EOOINEPP_01749	Chaperone protein DnaK
 B2IMB4	EOOINEPP_01750	Heat shock protein GrpE
@@ -1877,8 +1639,6 @@ A0A0B7LDQ8	EOOINEPP_01756	Type I restriction-modification system%2C specificity 
 C1CCQ0	EOOINEPP_01757	Integrase/recombinase CreX (XerC/CodV family)
 A0A2U3RYF6	EOOINEPP_01758	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
 C1C5M8	EOOINEPP_01759	hypothetical protein
-	EOOINEPP_01760	Srn266
-	EOOINEPP_01760	
 A0A6I3U6U1	EOOINEPP_01761	IS1167 transposase
 B1IA39	EOOINEPP_01762	Glutamine synthetase type I
 Q8DQX7	EOOINEPP_01763	Transcriptional regulator%2C MerR family
@@ -1892,11 +1652,7 @@ A0AA86J855	EOOINEPP_01770	Hypothetical protein
 A0A0U0EJN0	EOOINEPP_01771	Hypothetical protein
 A0A0B7LW17	EOOINEPP_01772	Membrane-associated phospholipid phosphatase
 A0AA86JGE9	EOOINEPP_01773	Substrate-specific component RibU of riboflavin ECF transporter
-	EOOINEPP_01774	FMN
-	EOOINEPP_01774	
 A0A0H2UNS5	EOOINEPP_01775	tRNA (cytidine(34)-2'-O)-methyltransferase
-	EOOINEPP_01776	23S-methyl
-	EOOINEPP_01776	
 A0AA86JU27	EOOINEPP_01777	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
 A0AA86J976	EOOINEPP_01778	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 B2IM89	EOOINEPP_01779	Hypothetical protein
@@ -1913,8 +1669,6 @@ B1I9R3	EOOINEPP_01789	Xylose repressor protein
 A0A0T9I2B2	EOOINEPP_01790	Hypothetical protein
 Q8DQZ5	EOOINEPP_01791	Hypothetical protein
 A0A0T8UQK3	EOOINEPP_01792	hypothetical protein
-	EOOINEPP_01793	Srn266
-	EOOINEPP_01793	
 A0AA86J984	EOOINEPP_01794	IS1167 transposase Orf1
 A0A4J1UA67	EOOINEPP_01795	IS1167 transposase Orf2
 A7KT36	EOOINEPP_01796	hypothetical protein
@@ -1924,8 +1678,6 @@ A7KTB0	EOOINEPP_01799	hypothetical protein
 A7KT39	EOOINEPP_01800	hypothetical protein
 A7KTA8	EOOINEPP_01801	hypothetical protein
 B1I9Q2	EOOINEPP_01802	hypothetical protein
-	EOOINEPP_01803	Srn266
-	EOOINEPP_01803	
 A0A0T8SMN8	EOOINEPP_01804	IS1167 transposase
 Q8DQZ6	EOOINEPP_01805	Pyruvate formate-lyase
 A0A380LTW9	EOOINEPP_01806	DNA polymerase IV
@@ -1972,8 +1724,6 @@ A0A0I5SB66	EOOINEPP_01846	Seryl-tRNA synthetase
 A0AA86JIB8	EOOINEPP_01847	Exfoliative toxin A
 Q8DR24	EOOINEPP_01848	Macrophage infectivity potentiator protein
 C1CCH4	EOOINEPP_01849	Sodium/glycine symporter GlyP
-	EOOINEPP_01850	Glycine
-	EOOINEPP_01850	
 A0AA86J9N4	EOOINEPP_01851	Recombination inhibitory protein MutS2
 C1C5E3	EOOINEPP_01852	Z-ring positive regulator ZapB
 C1CCH1	EOOINEPP_01853	Z-ring positive regulator ZapA
@@ -2000,16 +1750,12 @@ B2ILR8	EOOINEPP_01873	Orphan response regulator RitR
 A0A0T9HRS5	EOOINEPP_01874	6-phosphogluconate dehydrogenase%2C decarboxylating
 A0AA95IJJ4	EOOINEPP_01875	Mid-cell-anchored protein Z
 A0A4J1NHK2	EOOINEPP_01876	23S rRNA (guanine(2445)-N(2))-methyltransferase
-	EOOINEPP_01877	RNaseP_bact_b
-	EOOINEPP_01877	
 B8ZL84	EOOINEPP_01878	Cell division protein GpsB
 Q8DR58	EOOINEPP_01879	Hypothetical protein
 H8ZYN7	EOOINEPP_01880	RecU Holliday junction resolvase
 B2ILR1	EOOINEPP_01881	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A
 H8ZYM2	EOOINEPP_01882	Endo-alpha-N-acetylgalactosaminidase Eng
 H8ZYK9	EOOINEPP_01883	Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA
-	EOOINEPP_01884	Srn266
-	EOOINEPP_01884	
 C1CGD5	EOOINEPP_01885	IS1167 transposase
 C1CGD6	EOOINEPP_01886	IS1167 transposase
 Q8KWN9	EOOINEPP_01887	hypothetical protein
@@ -2034,8 +1780,6 @@ Q8CZ69	EOOINEPP_01905	S-ribosylhomocysteinase
 A0AA86XXS9	EOOINEPP_01906	Glucan 1%2C6-alpha-glucosidase
 A0A4J1V132	EOOINEPP_01907	ATP-dependent Zn protease
 Q04MC2	EOOINEPP_01908	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
-	EOOINEPP_01909	group-II-D1D4-3
-	EOOINEPP_01909	
 A0A4J1UQE6	EOOINEPP_01910	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
 A0A916L5K8	EOOINEPP_01911	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
 A0A4J2BV21	EOOINEPP_01912	Phospho-N-acetylmuramoyl-pentapeptide- transferase
@@ -2060,19 +1804,13 @@ C1CC93	EOOINEPP_01930	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3
 A0A4J1RX59	EOOINEPP_01931	IS200/IS605 family transposase ISStin10
 M4Y9A8	EOOINEPP_01932	Hyaluronate lyase precursor SpnHL
 B1I935	EOOINEPP_01933	Glutathione peroxidase family protein
-	EOOINEPP_01934	SpF11_sRNA
-	EOOINEPP_01934	
 A0A4J2BZE1	EOOINEPP_01935	Maltodextrin glucosidase
 Q8DNZ4	EOOINEPP_01936	IS3 family transposase ISSpn11
 A0A4J1VX80	EOOINEPP_01937	IS3 family transposase ISSpn11
 A0A0U0HBS4	EOOINEPP_01938	hypothetical protein
 Q8CWU4	EOOINEPP_01939	SSU ribosomal protein S9p (S16e)
 Q8CWU5	EOOINEPP_01940	LSU ribosomal protein L13p (L13Ae)
-	EOOINEPP_01941	L13_leader
-	EOOINEPP_01941	
 Q8CZ79	EOOINEPP_01942	Hypothetical protein
-	EOOINEPP_01943	Srn266
-	EOOINEPP_01943	
 A0A6I3U6U1	EOOINEPP_01944	IS1167 transposase
 A0AA86J9Z1	EOOINEPP_01945	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 C1CIH2	EOOINEPP_01946	GTP cyclohydrolase I type 1
@@ -2093,16 +1831,12 @@ C1CC66	EOOINEPP_01960	Hypothetical protein
 Q8DRA4	EOOINEPP_01961	mRNA interferase RelE1
 Q8CZ81	EOOINEPP_01962	Antitoxin RelB1
 A0AA86JEM2	EOOINEPP_01963	DNA polymerase III
-	EOOINEPP_01964	Srn266
-	EOOINEPP_01964	
 A0A6I3U6U1	EOOINEPP_01965	IS1167 transposase
 C1CPE5	EOOINEPP_01966	Translation elongation factor G
 Q8CWU6	EOOINEPP_01967	SSU ribosomal protein S7p (S5e)
 E2DP60	EOOINEPP_01968	SSU ribosomal protein S12p (S23e)
 A0AA86MCW0	EOOINEPP_01969	Pullulanase SpuA
 A0AA86J856	EOOINEPP_01970	IS1167 transposase
-	EOOINEPP_01971	Srn266
-	EOOINEPP_01971	
 B2ISJ2	EOOINEPP_01972	Oxidoreductase
 A0AA86JUT9	EOOINEPP_01973	Glucosamine--fructose-6-phosphate aminotransferase
 A0AA86JQS7	EOOINEPP_01974	6-phospho-beta-glucosidase
@@ -2110,15 +1844,9 @@ A0AA86JHF0	EOOINEPP_01975	Prolyl-tRNA synthetase
 Q8DRB1	EOOINEPP_01976	Intramembrane protease Eep
 C1CB37	EOOINEPP_01977	Phosphatidate cytidylyltransferase
 Q8DRB3	EOOINEPP_01978	Undecaprenyl diphosphate synthase
-	EOOINEPP_01979	csRNA
-	EOOINEPP_01979	
 A0A0T8C549	EOOINEPP_01980	Hypothetical protein
 A0A0B7LYW5	EOOINEPP_01981	Hypothetical protein
 Q8CWU7	EOOINEPP_01982	Holliday junction DNA helicase RuvB
-	EOOINEPP_01983	csRNA
-	EOOINEPP_01983	
-	EOOINEPP_01984	csRNA
-	EOOINEPP_01984	
 A0A380LRV0	EOOINEPP_01985	Acetyltransferase%2C GNAT family
 A0AA86MNV8	EOOINEPP_01986	Acetyltransferase%2C GNAT family
 A0AA86MIY7	EOOINEPP_01987	Leucyl-tRNA synthetase
@@ -2138,12 +1866,8 @@ B2ISG7	EOOINEPP_02000	Ferric iron ABC transporter ATP-binding protein
 A0AA86MNV4	EOOINEPP_02001	Iron(III)-transport system permease protein SfuB
 A0AA86MIY3	EOOINEPP_02002	Iron(III)-transport system permease protein SfuB
 B1I8M8	EOOINEPP_02003	Phosphoglycerate mutase family protein
-	EOOINEPP_02004	csRNA
-	EOOINEPP_02004	
 Q8DRD2	EOOINEPP_02005	hypothetical protein
 C1CC34	EOOINEPP_02006	ACT domain-containing transcriptional regulator
-	EOOINEPP_02007	L17DE
-	EOOINEPP_02007	
 Q8CWU8	EOOINEPP_02008	LSU ribosomal protein L17p
 Q04ML1	EOOINEPP_02009	DNA-directed RNA polymerase alpha subunit
 Q04ML2	EOOINEPP_02010	SSU ribosomal protein S11p (S14e)
@@ -2195,8 +1919,6 @@ A0A9P1PGS6	EOOINEPP_02055	Muramoyltetrapeptide carboxypeptidase
 A0A0T8RH17	EOOINEPP_02056	CAAX amino terminal protease family protein
 A0AA86JA89	EOOINEPP_02057	DNA-3-methyladenine glycosylase
 Q97SY4	EOOINEPP_02058	Holliday junction DNA helicase RuvA
-	EOOINEPP_02059	FMN
-	EOOINEPP_02059	
 A0A380LX39	EOOINEPP_02060	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
 B2IS13	EOOINEPP_02061	Riboflavin synthase RibE
 C1CAI6	EOOINEPP_02062	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
@@ -2229,8 +1951,6 @@ A0AA86MBH0	EOOINEPP_02088	ABC transporter ATP-binding protein
 A0AA86JHX5	EOOINEPP_02089	Family 2 glycosyltransferase
 A0A098ZKN5	EOOINEPP_02090	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 A0AA86J7R1	EOOINEPP_02091	Exopolysaccharide biosynthesis glycosyltransferase EpsF
-	EOOINEPP_02092	Srn266
-	EOOINEPP_02092	
 A0AA36PIF3	EOOINEPP_02093	IS1167 transposase
 A0A0E7ZP93	EOOINEPP_02094	IS1167 transposase Orf2
 A0A064BZS6	EOOINEPP_02095	N(6)-L-threonylcarbamoyladenine synthase TsaD
@@ -2243,15 +1963,9 @@ C1CBU5	EOOINEPP_02101	Hypothetical protein
 A0A0E8HAF7	EOOINEPP_02102	Ribonuclease J1 (endonuclease and 5' exonuclease)
 C1CBU2	EOOINEPP_02103	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 A0AA86MBH5	EOOINEPP_02104	MutT/Nudix family protein
-	EOOINEPP_02105	Spd-sr37
-	EOOINEPP_02105	
 A0A0B7MBM1	EOOINEPP_02106	tRNA-specific 2-thiouridylase MnmA
 A0A1W6AZ71	EOOINEPP_02107	hypothetical protein
 A0A6B9PEJ2	EOOINEPP_02108	hypothetical protein
-	EOOINEPP_02109	Bacilli-1
-	EOOINEPP_02109	
-	EOOINEPP_02110	SpF03_sRNA
-	EOOINEPP_02110	
 A0A4J1QTX9	EOOINEPP_02111	Pyridoxamine 5'-phosphate oxidase
 A0AA86JG75	EOOINEPP_02112	Hypothetical protein
 A0AA86JPQ8	EOOINEPP_02113	Hypothetical protein
@@ -2269,8 +1983,6 @@ A0A6B9PN26	EOOINEPP_02124	HlyD family secretion protein
 C1CBT2	EOOINEPP_02125	Hypothetical protein
 A0A6B9PR72	EOOINEPP_02126	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
 A0A6B9PEJ4	EOOINEPP_02127	Hypothetical protein
-	EOOINEPP_02128	Bacilli-1
-	EOOINEPP_02128	
 A0A0T8WRQ4	EOOINEPP_02129	Argininosuccinate lyase
 A0A111CNU4	EOOINEPP_02130	Argininosuccinate synthase
 B2IRI9	EOOINEPP_02131	Amino acid ABC transporter substrate-binding/permease protein
@@ -2295,8 +2007,6 @@ B2IRG9	EOOINEPP_02149	ABC transporter permease protein
 Q8DRJ8	EOOINEPP_02150	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 A0AA86XNR3	EOOINEPP_02151	Hypothetical protein
 A0A0B7LLV1	EOOINEPP_02152	Hypothetical protein
-	EOOINEPP_02153	SpF01_sRNA
-	EOOINEPP_02153	
 Q04MZ3	EOOINEPP_02154	SSU ribosomal protein S4p (S9e)
 C1C9Y4	EOOINEPP_02155	Two-component system sensor histidine kinase
 B2IRG2	EOOINEPP_02156	Two-component system response regulator
@@ -2354,8 +2064,6 @@ Q8DRN7	EOOINEPP_02207	CoA-binding protein
 A0AA86JCG8	EOOINEPP_02208	DNA polymerase I
 A0A0B7M9C2	EOOINEPP_02209	hypothetical protein
 A0A380LQ33	EOOINEPP_02210	hypothetical protein
-	EOOINEPP_02211	Srn266
-	EOOINEPP_02211	
 A0A0U0IDH7	EOOINEPP_02212	hypothetical protein
 B2IR17	EOOINEPP_02213	Ribose-phosphate pyrophosphokinase
 A0A380LS08	EOOINEPP_02214	hypothetical protein
@@ -2363,8 +2071,6 @@ C1CHC1	EOOINEPP_02215	Carbonic anhydrase
 A0A380LRC9	EOOINEPP_02216	DNA repair protein RadA
 Q8DRP1	EOOINEPP_02217	Hypothetical protein
 Q8DRP2	EOOINEPP_02218	Deoxyuridine 5'-triphosphate nucleotidohydrolase
-	EOOINEPP_02219	Bacteria_small_SRP
-	EOOINEPP_02219	
 C1CHA2	EOOINEPP_02220	tRNA-specific adenosine-34 deaminase
 A0A0B7M596	EOOINEPP_02221	hypothetical protein
 C1CHB7	EOOINEPP_02222	hypothetical protein
@@ -2421,24 +2127,10 @@ A0A0I7X892	EOOINEPP_02272	hypothetical protein
 A0A0I6XKC5	EOOINEPP_02273	hypothetical protein
 A0A6I3UV79	EOOINEPP_02274	3'-5' exonuclease DinG
 A0A0B7M300	EOOINEPP_02275	Tyrosine recombinase XerC
-	EOOINEPP_02276	csRNA
-	EOOINEPP_02276	
 C1CHA1	EOOINEPP_02277	Adenylosuccinate synthetase
 Q8CZD0	EOOINEPP_02278	Competence positive regulator ComW
 A0A0U0G4G7	EOOINEPP_02279	IS1167 transposase Orf1
 A0A0T8WNF8	EOOINEPP_02280	IS1167 transposase Orf2
-	EOOINEPP_02281	tRNA-Asn(gtt)
-	EOOINEPP_02281	
-	EOOINEPP_02282	5S ribosomal RNA
-	EOOINEPP_02282	
-	EOOINEPP_02283	23S ribosomal RNA
-	EOOINEPP_02283	
-	EOOINEPP_02284	tRNA-Ala(tgc)
-	EOOINEPP_02284	
-	EOOINEPP_02285	16S ribosomal RNA
-	EOOINEPP_02285	
-	EOOINEPP_02286	tRNA-Glu(ttc)
-	EOOINEPP_02286	
 B2IMI0	EOOINEPP_02287	Competence-specific sigma factor ComX
 A0A380LQ46	EOOINEPP_02288	Cell division protein FtsH
 Q97TC4	EOOINEPP_02289	Hypoxanthine-guanine phosphoribosyltransferase

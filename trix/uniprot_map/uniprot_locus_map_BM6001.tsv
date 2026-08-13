@@ -15,23 +15,9 @@ C1CNP4	GCCANGDB_00013	tRNA(Ile)-lysidine synthetase TilS
 C1C993	GCCANGDB_00014	Hypoxanthine-guanine phosphoribosyltransferase
 P59652	GCCANGDB_00015	Cell division protein FtsH
 Q9R2W8	GCCANGDB_00016	Competence-specific sigma factor ComX
-	GCCANGDB_00017	tRNA-Glu(ttc)
-	GCCANGDB_00017	
-	GCCANGDB_00018	16S ribosomal RNA
-	GCCANGDB_00018	
-	GCCANGDB_00019	tRNA-Ala(tgc)
-	GCCANGDB_00019	
-	GCCANGDB_00020	23S ribosomal RNA
-	GCCANGDB_00020	
-	GCCANGDB_00021	5S ribosomal RNA
-	GCCANGDB_00021	
-	GCCANGDB_00022	tRNA-Asn(gtt)
-	GCCANGDB_00022	
 A0A0B7KRB2	GCCANGDB_00023	IS1167 transposase Orf1
 A0A5R9AWI2	GCCANGDB_00024	Competence positive regulator ComW
 C1CHA1	GCCANGDB_00025	Adenylosuccinate synthetase
-	GCCANGDB_00026	csRNA
-	GCCANGDB_00026	
 C1C9L5	GCCANGDB_00027	Tyrosine recombinase XerC
 B1I6W9	GCCANGDB_00028	hypothetical protein
 B1I6X0	GCCANGDB_00029	hypothetical protein
@@ -78,8 +64,6 @@ A0A0U0AVP0	GCCANGDB_00069	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
 C1CHB7	GCCANGDB_00070	hypothetical protein
 A0A0B7M596	GCCANGDB_00071	hypothetical protein
 A0A4F2S2H4	GCCANGDB_00072	tRNA-specific adenosine-34 deaminase
-	GCCANGDB_00073	Bacteria_small_SRP
-	GCCANGDB_00073	
 Q8DRP2	GCCANGDB_00074	Deoxyuridine 5'-triphosphate nucleotidohydrolase
 Q8DRP1	GCCANGDB_00075	Hypothetical protein
 A0A916P522	GCCANGDB_00076	DNA repair protein RadA
@@ -87,8 +71,6 @@ C1CHC1	GCCANGDB_00077	Carbonic anhydrase
 C1C9S3	GCCANGDB_00078	hypothetical protein
 B2IR17	GCCANGDB_00079	Ribose-phosphate pyrophosphokinase
 A0A0U0IDH7	GCCANGDB_00080	hypothetical protein
-	GCCANGDB_00081	Srn266
-	GCCANGDB_00081	
 B1I7H8	GCCANGDB_00082	hypothetical protein
 C1CHC8	GCCANGDB_00083	hypothetical protein
 A0A6G2DBM1	GCCANGDB_00084	DNA polymerase I
@@ -139,8 +121,6 @@ A0A4J2DUM3	GCCANGDB_00128	Cell wall surface anchor family protein PavB
 B2IRG2	GCCANGDB_00129	Two-component system response regulator
 Q9S1J1	GCCANGDB_00130	Two-component system sensor histidine kinase
 Q04MZ3	GCCANGDB_00131	SSU ribosomal protein S4p (S9e)
-	GCCANGDB_00132	SpF01_sRNA
-	GCCANGDB_00132	
 A0A4J1R5A1	GCCANGDB_00133	Hypothetical protein
 A0A0B7LF48	GCCANGDB_00134	Hypothetical protein
 Q8DRJ8	GCCANGDB_00135	Multiple sugar ABC transporter%2C membrane-spanning permease protein
@@ -166,8 +146,6 @@ B2IRI9	GCCANGDB_00154	Amino acid ABC transporter substrate-binding/permease prot
 A0A4J1ZJM5	GCCANGDB_00155	Argininosuccinate synthase
 A0A6G2DX97	GCCANGDB_00156	Argininosuccinate synthase
 C1CBS9	GCCANGDB_00157	Argininosuccinate lyase
-	GCCANGDB_00158	Bacilli-1
-	GCCANGDB_00158	
 A0A6B9PEJ4	GCCANGDB_00159	Hypothetical protein
 A0A9P1LV03	GCCANGDB_00160	Lactococcin-G-processing and transport ATP-binding protein LagD
 A0A4J1XJ69	GCCANGDB_00161	hypothetical protein
@@ -180,15 +158,9 @@ B2IRJ8	GCCANGDB_00167	Hypothetical protein
 A0A4V0JL77	GCCANGDB_00168	Hypothetical protein
 A0A4J1YNB2	GCCANGDB_00169	Hypothetical protein
 A0A4J1QTX9	GCCANGDB_00170	Pyridoxamine 5'-phosphate oxidase
-	GCCANGDB_00171	SpF03_sRNA
-	GCCANGDB_00171	
-	GCCANGDB_00172	Bacilli-1
-	GCCANGDB_00172	
 A0A4P0AJH6	GCCANGDB_00173	hypothetical protein
 B9W2C4	GCCANGDB_00174	hypothetical protein
 A0A4J1WJS5	GCCANGDB_00175	tRNA-specific 2-thiouridylase MnmA
-	GCCANGDB_00176	Spd-sr37
-	GCCANGDB_00176	
 C1CAE8	GCCANGDB_00177	MutT/Nudix family protein
 Q97T36	GCCANGDB_00178	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 Q8DRH7	GCCANGDB_00179	Ribonuclease J1 (endonuclease and 5' exonuclease)
@@ -201,8 +173,6 @@ A0A4J1XI04	GCCANGDB_00185	Ribosomal-protein-S18p-alanine acetyltransferase
 A0A0E8GP02	GCCANGDB_00186	N(6)-L-threonylcarbamoyladenine synthase TsaD
 C1CBV1	GCCANGDB_00187	IS1167 transposase Orf2
 C1CAF8	GCCANGDB_00188	IS1167 transposase
-	GCCANGDB_00189	Srn266
-	GCCANGDB_00189	
 B1I845	GCCANGDB_00190	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 B2IRL8	GCCANGDB_00191	Family 2 glycosyltransferase
 C1CBV4	GCCANGDB_00192	ABC transporter ATP-binding protein
@@ -236,8 +206,6 @@ Q04MR3	GCCANGDB_00219	6%2C7-dimethyl-8-ribityllumazine synthase RibH
 C1CBY0	GCCANGDB_00220	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
 A0A0B7M1V2	GCCANGDB_00221	Riboflavin synthase RibE
 A0A0E7KMX4	GCCANGDB_00222	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
-	GCCANGDB_00223	FMN
-	GCCANGDB_00223	
 Q97SY4	GCCANGDB_00224	Holliday junction DNA helicase RuvA
 A0A0B7M4M9	GCCANGDB_00225	DNA-3-methyladenine glycosylase
 C1CAJ1	GCCANGDB_00226	CAAX amino terminal protease family protein
@@ -305,12 +273,8 @@ Q04ML3	GCCANGDB_00287	SSU ribosomal protein S13p (S18e)
 Q04ML2	GCCANGDB_00288	SSU ribosomal protein S11p (S14e)
 Q04ML1	GCCANGDB_00289	DNA-directed RNA polymerase alpha subunit
 Q8CWU8	GCCANGDB_00290	LSU ribosomal protein L17p
-	GCCANGDB_00291	L17DE
-	GCCANGDB_00291	
 C1CC34	GCCANGDB_00292	ACT domain-containing transcriptional regulator
 A0AA44S7M3	GCCANGDB_00293	hypothetical protein
-	GCCANGDB_00294	csRNA
-	GCCANGDB_00294	
 B1I8M8	GCCANGDB_00295	Phosphoglycerate mutase family protein
 A0A4L7JLQ0	GCCANGDB_00296	Iron(III)-transport system permease protein SfuB
 A0A4J2FMF0	GCCANGDB_00297	Iron(III)-transport system permease protein SfuB
@@ -336,15 +300,9 @@ A0A0T7ZAT6	GCCANGDB_00316	Leucyl-tRNA synthetase
 B1I8Y3	GCCANGDB_00317	hypothetical protein
 B1I8Y4	GCCANGDB_00318	Acetyltransferase%2C GNAT family
 B1I8Y5	GCCANGDB_00319	Acetyltransferase%2C GNAT family
-	GCCANGDB_00320	csRNA
-	GCCANGDB_00320	
-	GCCANGDB_00321	csRNA
-	GCCANGDB_00321	
 Q8CWU7	GCCANGDB_00322	Holliday junction DNA helicase RuvB
 A0A0B7LYW5	GCCANGDB_00323	Hypothetical protein
 A0A9P1PBI0	GCCANGDB_00324	Hypothetical protein
-	GCCANGDB_00325	csRNA
-	GCCANGDB_00325	
 Q8DRB3	GCCANGDB_00326	Undecaprenyl diphosphate synthase
 C1CB37	GCCANGDB_00327	Phosphatidate cytidylyltransferase
 Q8DRB1	GCCANGDB_00328	Intramembrane protease Eep
@@ -376,8 +334,6 @@ A0A4J1QJ71	GCCANGDB_00353	Bifunctional dihydrofolate synthase/folylpolyglutamate
 C1CPG4	GCCANGDB_00354	GTP cyclohydrolase I type 1
 A0A0U0KYZ2	GCCANGDB_00355	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 Q8CZ79	GCCANGDB_00356	Hypothetical protein
-	GCCANGDB_00357	L13_leader
-	GCCANGDB_00357	
 Q8CWU5	GCCANGDB_00358	LSU ribosomal protein L13p (L13Ae)
 Q97SN4	GCCANGDB_00359	SSU ribosomal protein S9p (S16e)
 A0A853PLB6	GCCANGDB_00360	Tyrosine recombinase XerC
@@ -401,11 +357,7 @@ A0A916L5V5	GCCANGDB_00377	Hypothetical protein
 C1CB88	GCCANGDB_00378	Cellobiose-specific PTS IIC component
 Q8CZ76	GCCANGDB_00379	Hypothetical protein
 A0A0B7LX26	GCCANGDB_00380	hypothetical protein
-	GCCANGDB_00381	SpF10_sRNA
-	GCCANGDB_00381	
 A0AA87CBT5	GCCANGDB_00382	Maltodextrin glucosidase
-	GCCANGDB_00383	SpF11_sRNA
-	GCCANGDB_00383	
 A0A4K6ZBF8	GCCANGDB_00384	Glutathione peroxidase family protein
 M4YR67	GCCANGDB_00385	Hyaluronate lyase precursor SpnHL
 M4YR67	GCCANGDB_00386	Hyaluronate lyase precursor SpnHL
@@ -431,8 +383,6 @@ Q8DR70	GCCANGDB_00405	Cell division protein FtsL
 Q5W7Z8	GCCANGDB_00406	Penicillin-binding protein 2X
 T2BQ20	GCCANGDB_00407	Phospho-N-acetylmuramoyl-pentapeptide- transferase
 A0A4J2APL4	GCCANGDB_00408	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
-	GCCANGDB_00409	Intron_gpII
-	GCCANGDB_00409	
 Q04MC2	GCCANGDB_00410	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
 A0A6G2D8F4	GCCANGDB_00411	ATP-dependent Zn protease
 A0A4J1STF4	GCCANGDB_00412	Glucan 1%2C6-alpha-glucosidase
@@ -461,8 +411,6 @@ B2Y3B1	GCCANGDB_00434	Multimodular transpeptidase-transglycosylase%2C penicillin
 A0A4J2EW46	GCCANGDB_00435	RecU Holliday junction resolvase
 Q97SJ0	GCCANGDB_00436	Hypothetical protein
 Q97SI9	GCCANGDB_00437	Cell division protein GpsB
-	GCCANGDB_00438	RNaseP_bact_b
-	GCCANGDB_00438	
 A0A0F7YEH5	GCCANGDB_00439	23S rRNA (guanine(2445)-N(2))-methyltransferase
 A0A4J1U4W9	GCCANGDB_00440	Mid-cell-anchored protein Z
 A0AA86Y7E2	GCCANGDB_00441	6-phosphogluconate dehydrogenase%2C decarboxylating
@@ -490,8 +438,6 @@ C1C5E1	GCCANGDB_00462	Ribonuclease HIII
 C1CCH1	GCCANGDB_00463	Z-ring positive regulator ZapA
 C1C5E3	GCCANGDB_00464	Z-ring positive regulator ZapB
 A0A0I9BHS0	GCCANGDB_00465	Recombination inhibitory protein MutS2
-	GCCANGDB_00466	Glycine
-	GCCANGDB_00466	
 C1CCH4	GCCANGDB_00467	Sodium/glycine symporter GlyP
 Q8DR24	GCCANGDB_00468	Macrophage infectivity potentiator protein
 A0AA44MYU7	GCCANGDB_00469	Exfoliative toxin A
@@ -540,8 +486,6 @@ Q04M23	GCCANGDB_00511	Undecaprenyl-diphosphatase
 A0A0T9I448	GCCANGDB_00512	DNA polymerase IV
 B1I9Q0	GCCANGDB_00513	Pyruvate formate-lyase
 A0A9P1PEP5	GCCANGDB_00514	IS1167 transposase
-	GCCANGDB_00515	Srn266
-	GCCANGDB_00515	
 B1I9Q2	GCCANGDB_00516	hypothetical protein
 A0A4L8JHD2	GCCANGDB_00517	hypothetical protein
 A0A4J1WL55	GCCANGDB_00518	hypothetical protein
@@ -552,8 +496,6 @@ A7KT99	GCCANGDB_00522	hypothetical protein
 C1CGD6	GCCANGDB_00523	IS1167 transposase
 A0A4K1EUS6	GCCANGDB_00524	hypothetical protein
 C1C9F2	GCCANGDB_00525	IS1167 transposase Orf1
-	GCCANGDB_00526	Srn266
-	GCCANGDB_00526	
 A0A0T8UQK3	GCCANGDB_00527	hypothetical protein
 Q8DQZ5	GCCANGDB_00528	Hypothetical protein
 A0AAD2I477	GCCANGDB_00529	Hypothetical protein
@@ -601,10 +543,6 @@ G3EC43	GCCANGDB_00570	Competence-stimulating peptide ABC transporter ATP-binding
 A0A4J1XGS9	GCCANGDB_00571	hypothetical protein
 A0A0T8B7W5	GCCANGDB_00572	hypothetical protein
 A0A0U0CGX7	GCCANGDB_00573	hypothetical protein
-	GCCANGDB_00574	group-II-D1D4-3
-	GCCANGDB_00574	
-	GCCANGDB_00575	group-II-D1D4-1
-	GCCANGDB_00575	
 A0A0T8BFS0	GCCANGDB_00576	Putative protease
 A0A0T8K1H1	GCCANGDB_00577	hypothetical protein
 A0A0U0LIG7	GCCANGDB_00578	hypothetical protein
@@ -648,8 +586,6 @@ A0A9P1RH91	GCCANGDB_00615	hypothetical protein
 C1C5U5	GCCANGDB_00616	Fic domain protein
 A0A4J2AWX3	GCCANGDB_00617	IS3 family transposase ISSpn11
 A0A0T7TBM9	GCCANGDB_00618	hypothetical protein
-	GCCANGDB_00619	SpF19_sRNA
-	GCCANGDB_00619	
 A0A064C2F5	GCCANGDB_00620	Beta-glucoside bgl operon antiterminator BglG
 A0A4M2KPQ3	GCCANGDB_00621	Beta-glucoside-specific PTS IIBCA components
 A0A9P1PCH1	GCCANGDB_00622	6-phospho-beta-glucosidase
@@ -692,16 +628,12 @@ Q8DQQ7	GCCANGDB_00658	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dih
 A0A0E8B601	GCCANGDB_00659	Dipeptidase PepV
 C1CCZ5	GCCANGDB_00660	Uracil-DNA glycosylase
 Q8CZ26	GCCANGDB_00661	hypothetical protein
-	GCCANGDB_00662	SpF22_sRNA
-	GCCANGDB_00662	
 Q8DQQ3	GCCANGDB_00663	Branched-chain amino acid transport system carrier protein
 A0A4F2RV55	GCCANGDB_00664	Deblocking aminopeptidase
 A0A0T8PYS9	GCCANGDB_00665	Histidine triad family protein
 C1CD01	GCCANGDB_00666	L%2CD-carboxypeptidase
 Q97RZ6	GCCANGDB_00667	LSU ribosomal protein L11p (L12e)
 C1CQB6	GCCANGDB_00668	LSU ribosomal protein L1p (L10Ae)
-	GCCANGDB_00669	Intron_gpII
-	GCCANGDB_00669	
 A0AA86X0M8	GCCANGDB_00670	Hypothetical protein
 A0AA36PFK4	GCCANGDB_00671	hypothetical protein
 A0A0E7TI46	GCCANGDB_00672	ABC transporter ATP-binding protein
@@ -717,8 +649,6 @@ A0A6G2D9V2	GCCANGDB_00681	Beta-galactosidase BgaA
 A0A4I7EUS8	GCCANGDB_00682	hypothetical protein
 A0AA86XHW0	GCCANGDB_00683	hypothetical protein
 A0A9P1VJZ2	GCCANGDB_00684	hypothetical protein
-	GCCANGDB_00685	SpF25_sRNA
-	GCCANGDB_00685	
 A0A916L609	GCCANGDB_00686	Hypothetical protein
 A0A654UEI9	GCCANGDB_00687	hypothetical protein
 A0AA86XAH6	GCCANGDB_00688	hypothetical protein
@@ -766,8 +696,6 @@ A0A0T8ZN24	GCCANGDB_00729	Hypothetical protein
 A0A4F6SQV1	GCCANGDB_00730	Fluoroquinolones export ATP-binding protein
 A0A0T8GKE6	GCCANGDB_00731	Putative membrane spanning protein
 A0A4G2EFX9	GCCANGDB_00732	Putative membrane spanning protein
-	GCCANGDB_00733	PyrR
-	GCCANGDB_00733	
 C1CQG7	GCCANGDB_00734	Orotidine 5'-phosphate decarboxylase
 P0CB78	GCCANGDB_00735	Orotate phosphoribosyltransferase
 A0A0B7LBR9	GCCANGDB_00736	Hypothetical protein
@@ -785,13 +713,9 @@ C1CD65	GCCANGDB_00747	L-Lactate 2-monooxygenase
 A0A4F2RZV8	GCCANGDB_00748	Class II lysyl-tRNA synthetase
 A0A4J2A6Y2	GCCANGDB_00749	IS1380 family transposase ISSpn5
 A0A6G2DBU4	GCCANGDB_00750	L-Lactate 2-monooxygenase
-	GCCANGDB_00751	TPP
-	GCCANGDB_00751	
 Q8DQK6	GCCANGDB_00752	Thiaminase II
 A0A558W4D9	GCCANGDB_00753	Hydroxyethylthiazole kinase
 A0A062WTJ4	GCCANGDB_00754	Thiamin-phosphate pyrophosphorylase
-	GCCANGDB_00755	TPP
-	GCCANGDB_00755	
 C1CD71	GCCANGDB_00756	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A654T098	GCCANGDB_00757	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A654T082	GCCANGDB_00758	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
@@ -800,8 +724,6 @@ Q8CZ02	GCCANGDB_00760	Substrate-specific component ThiW of putative thiazole ECF
 Q97RR9	GCCANGDB_00761	Hydroxyethylthiazole kinase
 P66921	GCCANGDB_00762	Thiamin-phosphate pyrophosphorylase
 Q8DQJ8	GCCANGDB_00763	Hydroxymethylpyrimidine phosphate kinase ThiD
-	GCCANGDB_00764	TPP
-	GCCANGDB_00764	
 Q8DQJ7	GCCANGDB_00765	Negative transcriptional regulator of copper transport operon
 Q8DQJ6	GCCANGDB_00766	Copper-exporting ATPase
 A0A0H2ZQ91	GCCANGDB_00767	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
@@ -926,15 +848,9 @@ C1CDK5	GCCANGDB_00885	Hypothetical protein
 Q8DQB0	GCCANGDB_00886	Putative membrane protein
 Q04L55	GCCANGDB_00887	Pyrrolidone-carboxylate peptidase
 Q8CYY0	GCCANGDB_00888	Hypothetical protein
-	GCCANGDB_00889	tRNA-Tyr(gta)
-	GCCANGDB_00889	
-	GCCANGDB_00890	tRNA-Gln(ttg)
-	GCCANGDB_00890	
 C1CDK9	GCCANGDB_00891	SSU ribosomal protein S1p
 A0A4J1MVJ7	GCCANGDB_00892	IS1167 transposase Orf2
 A0A4N0CLZ2	GCCANGDB_00893	IS1167 transposase
-	GCCANGDB_00894	Srn266
-	GCCANGDB_00894	
 A0A0U0BZA9	GCCANGDB_00895	GAF domain-containing protein
 A0A0U0J2A6	GCCANGDB_00896	DNA polymerase III subunits gamma and tau
 Q8CYX9	GCCANGDB_00897	Hypothetical protein
@@ -945,10 +861,6 @@ C1CDL9	GCCANGDB_00901	Putative iron-sulfur cluster assembly scaffold protein for
 Q8DQA0	GCCANGDB_00902	Iron-sulfur cluster assembly protein SufB
 Q75Y37	GCCANGDB_00903	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 Q8DQ98	GCCANGDB_00904	Coordinator of zonal cell elongation
-	GCCANGDB_00905	transfer-messenger RNA%2C SsrA
-	GCCANGDB_00905	
-	GCCANGDB_00906	tRNA-Ser(gga)
-	GCCANGDB_00906	
 Q8DQ97	GCCANGDB_00907	Transcriptional repressor of the fructose operon%2C DeoR family
 A0A0H2ZPQ7	GCCANGDB_00908	1-phosphofructokinase
 B1IB44	GCCANGDB_00909	Fructose-specific PTS IIABC components
@@ -982,8 +894,6 @@ A0A098ZMD2	GCCANGDB_00936	Hypothetical protein
 A0A0B7LIN4	GCCANGDB_00937	Transcription accessory protein
 C1CRY6	GCCANGDB_00938	Putative SprT family zinc-dependent metallopeptidase
 A0A5C8QW28	GCCANGDB_00939	Putative phage shock protein C
-	GCCANGDB_00940	Spd-sr07
-	GCCANGDB_00940	
 A0A0H2UPK6	GCCANGDB_00941	Hypothetical protein
 A0A0B7KXN1	GCCANGDB_00942	Hypothetical protein
 A0A0E8TEB5	GCCANGDB_00943	ABC transporter ATP-binding protein
@@ -1026,8 +936,6 @@ A0A822Q389	GCCANGDB_00979	Late competence DNA receptor ComEA
 A0A4G1V8W0	GCCANGDB_00980	Late competence DNA transporter ComEC
 A0A0U0EQ85	GCCANGDB_00981	ABC transporter%2C ATP-binding protein
 A0A0U0BBP1	GCCANGDB_00982	Hypothetical protein
-	GCCANGDB_00983	L20_leader
-	GCCANGDB_00983	
 Q04KW9	GCCANGDB_00984	Translation initiation factor 3
 Q04KW8	GCCANGDB_00985	LSU ribosomal protein L35p
 Q04KW7	GCCANGDB_00986	LSU ribosomal protein L20p
@@ -1066,22 +974,16 @@ A0A0E8ASI4	GCCANGDB_01018	DNA polymerase III epsilon subunit
 C1CDY9	GCCANGDB_01019	Glycerophosphoryl diester phosphodiesterase
 A0A4F2S025	GCCANGDB_01020	IS1167 transposase
 A0A4J1WXQ4	GCCANGDB_01021	IS1167 transposase
-	GCCANGDB_01022	Srn266
-	GCCANGDB_01022	
 C1CGU6	GCCANGDB_01023	IS630 family transposase IS630-Spn1
 A0A4F2S4D7	GCCANGDB_01024	Hypothetical protein
 C1CDZ4	GCCANGDB_01025	Cytochrome c-type biogenesis protein CcdA-2
 C1CDZ5	GCCANGDB_01026	Thiol:disulfide oxidoreductase
-	GCCANGDB_01027	SpF36_sRNA
-	GCCANGDB_01027	
 A0AA86XBR9	GCCANGDB_01028	Cationic amino acid transporter%2C APC Superfamily
 Q8DQ09	GCCANGDB_01029	Laminin-binding surface protein
 A0A0E3GJC6	GCCANGDB_01030	Pneumococcal histidine triad protein D
 A0A4F2S4Y2	GCCANGDB_01031	Pneumococcal histidine triad protein E
 A0A4J2H147	GCCANGDB_01032	hypothetical protein
 A0A4G1WMB5	GCCANGDB_01033	IS1167 transposase
-	GCCANGDB_01034	Srn266
-	GCCANGDB_01034	
 A0A4F2S716	GCCANGDB_01035	hypothetical protein
 A0A0T8ZEP9	GCCANGDB_01036	hypothetical protein
 C1CRC4	GCCANGDB_01037	Tripeptide aminopeptidase PepT
@@ -1094,13 +996,7 @@ A0A0U0FLZ7	GCCANGDB_01043	hypothetical protein
 A0A4G1WLW4	GCCANGDB_01044	Ferrochelatase%2C protoheme ferro-lyase
 A0AA86XRF7	GCCANGDB_01045	Large-conductance mechanosensitive channel MscL
 Q8DQ02	GCCANGDB_01046	GtrA family protein
-	GCCANGDB_01047	preQ1-II
-	GCCANGDB_01047	
 Q8DQ01	GCCANGDB_01048	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	GCCANGDB_01049	tRNA-Thr(ggt)
-	GCCANGDB_01049	
-	GCCANGDB_01050	asd
-	GCCANGDB_01050	
 A0A064C4U3	GCCANGDB_01051	Aspartate-semialdehyde dehydrogenase
 C1CRD6	GCCANGDB_01052	4-hydroxy-tetrahydrodipicolinate synthase
 B1IBH5	GCCANGDB_01053	GTPase and tRNA-U34 5-formylation enzyme MnmE
@@ -1115,10 +1011,6 @@ B2IPI1	GCCANGDB_01061	Pseudouridylate synthase%2C 23S RNA-specific
 C1C701	GCCANGDB_01062	Pneumococcal vaccine antigen A
 A0A0B7L1A6	GCCANGDB_01063	Extracellular protein
 A0AA86Y2X5	GCCANGDB_01064	23S rRNA (uracil(1939)-C(5))-methyltransferase
-	GCCANGDB_01065	SpF61_sRNA
-	GCCANGDB_01065	
-	GCCANGDB_01066	SpF39_sRNA
-	GCCANGDB_01066	
 C1CE21	GCCANGDB_01067	Hypothetical protein
 Q8DPY6	GCCANGDB_01068	Iron compound ABC uptake transporter substrate-binding protein PiaA
 A0A0U0D917	GCCANGDB_01069	Iron compound ABC uptake transporter permease protein PiaB
@@ -1130,8 +1022,6 @@ A0A0B7LIN9	GCCANGDB_01074	hypothetical protein
 A0AAE4FXC9	GCCANGDB_01075	IS1380 family transposase ISSpn5
 A0AA87CBA5	GCCANGDB_01076	hypothetical protein
 A0A0T7TQW9	GCCANGDB_01077	hypothetical protein
-	GCCANGDB_01078	pemK
-	GCCANGDB_01078	
 Q8CYT9	GCCANGDB_01079	Hypothetical protein
 A0A9P1PK44	GCCANGDB_01080	Phage integrase
 A0A0T9GFA2	GCCANGDB_01081	Phage integrase
@@ -1151,8 +1041,6 @@ A0AA87CCX2	GCCANGDB_01094	hypothetical protein
 A0A0B7MF81	GCCANGDB_01095	hypothetical protein
 C1C764	GCCANGDB_01096	Cell division protein FtsW
 A0A4G1W0T6	GCCANGDB_01097	Phosphoenolpyruvate carboxylase
-	GCCANGDB_01098	T-box
-	GCCANGDB_01098	
 C1C766	GCCANGDB_01099	ABC transporter substrate-binding protein
 Q8DPW3	GCCANGDB_01100	Putative tryptophan-specific ABC transporter permease protein TrpY
 Q8DPW2	GCCANGDB_01101	ABC transporter ATP-binding protein
@@ -1168,10 +1056,6 @@ C1CE67	GCCANGDB_01110	Hypothetical protein
 A0A4H9FG63	GCCANGDB_01111	IS1167 transposase
 A0A4J2D1K3	GCCANGDB_01112	hypothetical protein
 A0A4J1U7S1	GCCANGDB_01113	IS1167 transposase Orf1
-	GCCANGDB_01114	Srn266
-	GCCANGDB_01114	
-	GCCANGDB_01115	group-II-D1D4-3
-	GCCANGDB_01115	
 Q97QW6	GCCANGDB_01116	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 A0A0T7IPG4	GCCANGDB_01117	Ribosomal-protein-S5p-alanine acetyltransferase
 Q8DPV2	GCCANGDB_01118	Cytosolic protein containing multiple CBS domains
@@ -1192,16 +1076,10 @@ Q8DPU2	GCCANGDB_01132	GTP pyrophosphokinase
 B2IQ09	GCCANGDB_01133	NAD kinase
 C1C795	GCCANGDB_01134	RluD-like protein
 Q8DPU0	GCCANGDB_01135	Phosphate acetyltransferase
-	GCCANGDB_01136	SpR14_sRNA
-	GCCANGDB_01136	
 A0A4J1RJ89	GCCANGDB_01137	IS1167 transposase
 A0A4J2AP45	GCCANGDB_01138	IS1167 transposase
-	GCCANGDB_01139	Srn266
-	GCCANGDB_01139	
 Q04KI6	GCCANGDB_01140	Hypothetical protein co-occurring with RecR
 A0A0B7M7N6	GCCANGDB_01141	Hypothetical protein
-	GCCANGDB_01142	L21_leader
-	GCCANGDB_01142	
 Q97QU4	GCCANGDB_01143	LSU ribosomal protein L21p
 C1CE93	GCCANGDB_01144	Putative ribosomal protein
 Q04KI2	GCCANGDB_01145	LSU ribosomal protein L27p
@@ -1226,8 +1104,6 @@ C1CRM6	GCCANGDB_01163	Enolase
 A0A4J2GG84	GCCANGDB_01164	IS1167 transposase Orf2
 A0A380LDN8	GCCANGDB_01165	IS1167 transposase
 A0A4J1QHF4	GCCANGDB_01166	IS1167 transposase
-	GCCANGDB_01167	Srn266
-	GCCANGDB_01167	
 A0A0T8C0Q6	GCCANGDB_01168	IS630 family transposase IS630-Spn1
 A0A0T8CF02	GCCANGDB_01169	IS630 family transposase IS630-Spn1
 A0A4J2B9T9	GCCANGDB_01170	ATP-dependent nuclease subunit RexB
@@ -1255,14 +1131,10 @@ E6Y3V8	GCCANGDB_01191	hypothetical protein
 E6Y3V9	GCCANGDB_01192	hypothetical protein
 B2IS01	GCCANGDB_01193	Transposase from transposon Tn916
 P61624	GCCANGDB_01194	hypothetical protein
-	GCCANGDB_01195	pemK
-	GCCANGDB_01195	
 B2IQG0	GCCANGDB_01196	hypothetical protein
 B7UTW8	GCCANGDB_01197	hypothetical protein
 B1IC82	GCCANGDB_01198	hypothetical protein
 A0A060QP50	GCCANGDB_01199	Translation elongation factor G
-	GCCANGDB_01200	sRNA_0030
-	GCCANGDB_01200	
 A0A7D5A3K0	GCCANGDB_01201	hypothetical protein
 B2IRZ0	GCCANGDB_01202	hypothetical protein
 A0A2Z4HX09	GCCANGDB_01203	hypothetical protein
@@ -1305,8 +1177,6 @@ Q54885	GCCANGDB_01239	Tn5252 Orf10 protein
 B7UTU9	GCCANGDB_01240	Tn5252 Orf9 protein
 E6Y416	GCCANGDB_01241	hypothetical protein
 Q54881	GCCANGDB_01242	Putative repressor protein%2C phage associated
-	GCCANGDB_01243	pemK
-	GCCANGDB_01243	
 E6Y419	GCCANGDB_01244	hypothetical protein
 E6Y420	GCCANGDB_01245	Tyrosine recombinase XerC
 A0A0E7T841	GCCANGDB_01246	50S ribosomal subunit maturation GTPase RbgA
@@ -1394,8 +1264,6 @@ A0A064BY73	GCCANGDB_01327	Hydrolase%2C HAD superfamily
 A0A0E8SU30	GCCANGDB_01328	Hydrolase%2C HAD superfamily
 A0A6G2DAH9	GCCANGDB_01329	Chromosome partition protein SMC
 A0A0T8X3V7	GCCANGDB_01330	Ribonuclease III
-	GCCANGDB_01331	tRNA-Arg(ccg)
-	GCCANGDB_01331	
 C1CR55	GCCANGDB_01332	GMP reductase
 A0A4J2ENT1	GCCANGDB_01333	Hypothetical protein
 A0A0B7LNM9	GCCANGDB_01334	Endonuclease
@@ -1424,18 +1292,12 @@ Q97QE4	GCCANGDB_01356	Carbamoyl-phosphate synthase large chain CarB
 A0A064BWJ2	GCCANGDB_01357	Carbamoyl-phosphate synthase small chain CarA
 C1CR29	GCCANGDB_01358	Aspartate carbamoyltransferase
 Q04K45	GCCANGDB_01359	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
-	GCCANGDB_01360	PyrR
-	GCCANGDB_01360	
 Q8DPH8	GCCANGDB_01361	Endonuclease III
 A0A0B7KY73	GCCANGDB_01362	Protein%2C clustered with ribosomal protein L32p
-	GCCANGDB_01363	SpF43_sRNA
-	GCCANGDB_01363	
 A0AA87CFE2	GCCANGDB_01364	ABC transporter ATP-binding protein
 C1CR23	GCCANGDB_01365	Heat shock protein HtpX
 C1C7R4	GCCANGDB_01366	LemA
 Q97QD4	GCCANGDB_01367	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
-	GCCANGDB_01368	SpF44_sRNA
-	GCCANGDB_01368	
 A0A098ZHN3	GCCANGDB_01369	Uracil permease
 A0A6G2DD42	GCCANGDB_01370	Signal recognition particle protein Ffh
 Q8DPH0	GCCANGDB_01371	Signal recognition particle associated protein
@@ -1443,8 +1305,6 @@ A0A0B7M7R8	GCCANGDB_01372	Hypothetical protein
 A0A0E7ZFQ5	GCCANGDB_01373	dNTP triphosphohydrolase
 A0A9Q9R059	GCCANGDB_01374	Sugar phosphatase YidA
 A0A0E7ZI26	GCCANGDB_01375	hypothetical protein
-	GCCANGDB_01376	tRNA-Arg(cct)
-	GCCANGDB_01376	
 Q97QC6	GCCANGDB_01377	LSU ribosomal protein L19p
 Q97QC5	GCCANGDB_01378	ClC-type fluoride channel
 Q97QC4	GCCANGDB_01379	ClC-type fluoride channel
@@ -1457,8 +1317,6 @@ A0A4J2FNW3	GCCANGDB_01385	IS630 family transposase ISSpn2
 A0AA47CKD2	GCCANGDB_01386	NADP-specific glutamate dehydrogenase
 Q8CYP4	GCCANGDB_01387	Hypothetical protein
 A0A654YLR8	GCCANGDB_01388	ABC transporter ATP-binding protein
-	GCCANGDB_01389	SpF25_sRNA
-	GCCANGDB_01389	
 C1C7T4	GCCANGDB_01390	hypothetical protein
 A0AA36Q079	GCCANGDB_01391	N-acetylmannosamine kinase
 A0A4K4BI97	GCCANGDB_01392	4-hydroxy-tetrahydrodipicolinate synthase
@@ -1485,12 +1343,8 @@ Q8CYN6	GCCANGDB_01412	Tn5253 hypothetical protein
 Q8CYN5	GCCANGDB_01413	hypothetical protein
 Q8CYN4	GCCANGDB_01414	hypothetical protein
 A0A098ANF2	GCCANGDB_01415	hypothetical protein
-	GCCANGDB_01416	rli38
-	GCCANGDB_01416	
 Q04JZ4	GCCANGDB_01417	LSU ribosomal protein L7/L12 (P1/P2)
 A0A0E9GXI9	GCCANGDB_01418	LSU ribosomal protein L10p (P0)
-	GCCANGDB_01419	L10_leader
-	GCCANGDB_01419	
 A0AAE4FYM5	GCCANGDB_01420	Methylthioadenosine deaminase
 A0A0H2UQN6	GCCANGDB_01421	ABC transporter ATP-binding/permease protein
 A0A0U0GVF6	GCCANGDB_01422	ABC transporter ATP-binding/permease protein
@@ -1572,13 +1426,9 @@ A0AA86YC75	GCCANGDB_01497	Substrate-specific component of putative ECF transport
 A0AA86XZJ9	GCCANGDB_01498	ABC transporter ATP-binding/permease protein
 A0AA86XE87	GCCANGDB_01499	ABC transporter ATP-binding/permease protein
 A0AA86X2A4	GCCANGDB_01500	Transcriptional regulator%2C AraC family
-	GCCANGDB_01501	Srn266
-	GCCANGDB_01501	
 A0A4L8JXX8	GCCANGDB_01502	IS1167 transposase Orf1
 A0AA95D7A8	GCCANGDB_01503	hypothetical protein
 A0AA95IJ56	GCCANGDB_01504	IS1167 transposase
-	GCCANGDB_01505	SpR18_sRNA
-	GCCANGDB_01505	
 A0A064BZG6	GCCANGDB_01506	Tyrosine recombinase XerC
 A0A064BXU7	GCCANGDB_01507	hypothetical protein
 A0A064C3I1	GCCANGDB_01508	hypothetical protein
@@ -1618,8 +1468,6 @@ Q8DP67	GCCANGDB_01541	Hypothetical protein
 C1CQP4	GCCANGDB_01542	Glycyl-tRNA synthetase beta chain
 C1CQP3	GCCANGDB_01543	Glycyl-tRNA synthetase alpha chain
 C1C872	GCCANGDB_01544	hypothetical protein
-	GCCANGDB_01545	SpR19_sRNA
-	GCCANGDB_01545	
 A0A4F2S748	GCCANGDB_01546	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
 B2IQU5	GCCANGDB_01547	Peptidoglycan N-acetylglucosamine deacetylase
 C1CF62	GCCANGDB_01548	hypothetical protein
@@ -1688,14 +1536,10 @@ A0A4J1N5T9	GCCANGDB_01610	hypothetical protein
 A0AA87CB43	GCCANGDB_01611	M protein trans-acting positive regulator Mga1
 Q8DP23	GCCANGDB_01612	hypothetical protein
 A0A229FM92	GCCANGDB_01613	Hypothetical protein
-	GCCANGDB_01614	SpR20_sRNA
-	GCCANGDB_01614	
 A0A0T8IT76	GCCANGDB_01615	Cell shape-determining protein
 Q8DP22	GCCANGDB_01616	Peptide deformylase
 A0A0H2UQV0	GCCANGDB_01617	Glutathione S-transferase
 C1CFD6	GCCANGDB_01618	Calcium-transporting ATPase
-	GCCANGDB_01619	SSRC10
-	GCCANGDB_01619	
 C1CFD7	GCCANGDB_01620	Cobalt-zinc-cadmium resistance protein
 A0A0E8HGI4	GCCANGDB_01621	ATPase component of ABC transporter with duplicated ATPase domains
 A0AA86Y175	GCCANGDB_01622	CCA tRNA nucleotidyltransferase
@@ -1784,8 +1628,6 @@ A0A0Y2HYL5	GCCANGDB_01704	Homoserine O-succinyltransferase
 C1CFG1	GCCANGDB_01705	Adenine phosphoribosyltransferase
 A0A0E7ZDH6	GCCANGDB_01706	SAM-dependent methyltransferase
 Q8DP03	GCCANGDB_01707	Multiple sugar ABC transporter%2C ATP-binding protein
-	GCCANGDB_01708	tRNA-Leu(aag)
-	GCCANGDB_01708	
 Q8DP02	GCCANGDB_01709	Nicotinamidase
 C1CSK2	GCCANGDB_01710	GTP-sensing transcriptional pleiotropic repressor CodY
 A0AA86XFU4	GCCANGDB_01711	DEAD-box ATP-dependent RNA helicase CshA
@@ -1969,8 +1811,6 @@ C1CG10	GCCANGDB_01888	Hypothetical protein
 Q8DNP2	GCCANGDB_01889	Addiction module antitoxin HicB
 A0A6G2DHC2	GCCANGDB_01890	Addiction module toxin HicA
 A0A0E8ZGI8	GCCANGDB_01891	Chromosome segregation helicase
-	GCCANGDB_01892	tRNA-Lys(ctt)
-	GCCANGDB_01892	
 A0AA86MEY0	GCCANGDB_01893	Sucrose-6-phosphate hydrolase
 A0A6G2DMT1	GCCANGDB_01894	hypothetical protein
 B2ISF6	GCCANGDB_01895	ABC transporter permease protein
@@ -2005,8 +1845,6 @@ C1CMD6	GCCANGDB_01923	Anthranilate phosphoribosyltransferase
 A0A4J1SBG9	GCCANGDB_01924	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
 A0A0H2URN1	GCCANGDB_01925	Anthranilate synthase%2C aminase component
 A0A4J1WK73	GCCANGDB_01926	Hypothetical protein
-	GCCANGDB_01927	T-box
-	GCCANGDB_01927	
 Q8DNM4	GCCANGDB_01928	Galactose operon repressor%2C GalR-LacI family
 Q8CYD4	GCCANGDB_01929	Hypothetical protein
 Q8DNM3	GCCANGDB_01930	Mg(2+)-transport-ATPase-associated protein MgtC
@@ -2026,8 +1864,6 @@ Q8CYC7	GCCANGDB_01943	hypothetical protein
 A0A0U0L0G0	GCCANGDB_01944	hypothetical protein
 C1C9B1	GCCANGDB_01945	Exodeoxyribonuclease III
 A0A0B7MC34	GCCANGDB_01946	hypothetical protein
-	GCCANGDB_01947	Purine
-	GCCANGDB_01947	
 Q3I0D5	GCCANGDB_01948	Xanthine phosphoribosyltransferase
 A0A0B7LUG6	GCCANGDB_01949	Xanthine permease
 P0A3T5	GCCANGDB_01950	Type II restriction-modification system component DpnD
@@ -2056,8 +1892,6 @@ B2ISY0	GCCANGDB_01972	Hypothetical protein
 A0AA86X3K1	GCCANGDB_01973	Trehalose-6-phosphate hydrolase
 C1C9F0	GCCANGDB_01974	Trehalose-specific PTS IIBCA components
 Q8DNI5	GCCANGDB_01975	Trehalose operon transcriptional repressor
-	GCCANGDB_01976	Srn266
-	GCCANGDB_01976	
 B2IPU5	GCCANGDB_01977	IS1167 transposase Orf1
 A0AA95D7A8	GCCANGDB_01978	hypothetical protein
 A0AA95IJ56	GCCANGDB_01979	IS1167 transposase
@@ -2074,55 +1908,9 @@ A0A0H2URJ7	GCCANGDB_01989	Multiple sugar ABC transporter%2C substrate-binding pr
 Q8CWP3	GCCANGDB_01990	Alpha-galactosidase
 Q8CWP2	GCCANGDB_01991	Multiple sugar metabolism operon regulatory protein MsmR
 Q8DNH7	GCCANGDB_01992	Bifunctional biotin operon repressor/Biotin--protein ligase
-	GCCANGDB_01993	tRNA-Ser(gct)
-	GCCANGDB_01993	
-	GCCANGDB_01994	tRNA-Ile(gat)
-	GCCANGDB_01994	
-	GCCANGDB_01995	tRNA-Gly(tcc)
-	GCCANGDB_01995	
-	GCCANGDB_01996	tRNA-Phe(gaa)
-	GCCANGDB_01996	
-	GCCANGDB_01997	tRNA-Met(cat)
-	GCCANGDB_01997	
-	GCCANGDB_01998	tRNA-Ser(tga)
-	GCCANGDB_01998	
-	GCCANGDB_01999	tRNA-Met(cat)
-	GCCANGDB_01999	
-	GCCANGDB_02000	tRNA-Met(cat)
-	GCCANGDB_02000	
-	GCCANGDB_02001	tRNA-Pro(tgg)
-	GCCANGDB_02001	
-	GCCANGDB_02002	tRNA-Arg(acg)
-	GCCANGDB_02002	
-	GCCANGDB_02003	tRNA-Leu(taa)
-	GCCANGDB_02003	
-	GCCANGDB_02004	tRNA-Gly(gcc)
-	GCCANGDB_02004	
-	GCCANGDB_02005	tRNA-Thr(tgt)
-	GCCANGDB_02005	
-	GCCANGDB_02006	tRNA-Leu(tag)
-	GCCANGDB_02006	
-	GCCANGDB_02007	tRNA-Lys(ttt)
-	GCCANGDB_02007	
-	GCCANGDB_02008	tRNA-Asp(gtc)
-	GCCANGDB_02008	
-	GCCANGDB_02009	tRNA-Val(tac)
-	GCCANGDB_02009	
-	GCCANGDB_02010	5S ribosomal RNA
-	GCCANGDB_02010	
-	GCCANGDB_02011	23S ribosomal RNA
-	GCCANGDB_02011	
-	GCCANGDB_02012	tRNA-Ala(tgc)
-	GCCANGDB_02012	
-	GCCANGDB_02013	16S ribosomal RNA
-	GCCANGDB_02013	
-	GCCANGDB_02014	tRNA-Glu(ttc)
-	GCCANGDB_02014	
 A0A4J1X2N1	GCCANGDB_02015	RNA methyltransferase%2C TrmA family
 A0A0B7L9H1	GCCANGDB_02016	Regulatory protein RecX
 Q8DNH5	GCCANGDB_02017	Cysteinyl-tRNA synthetase related protein
-	GCCANGDB_02018	Spy392987
-	GCCANGDB_02018	
 A0A4J2BNV0	GCCANGDB_02019	Positive transcriptional regulator%2C MutR family
 A0AA86Y5R5	GCCANGDB_02020	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
 C1C9H4	GCCANGDB_02021	Epoxyqueuosine reductase QueH
@@ -2182,10 +1970,6 @@ Q9KK10	GCCANGDB_02074	IS1380 family transposase ISSpn5
 A0A0E9GVD8	GCCANGDB_02075	Nucleoside diphosphate kinase
 A0A6G2D7P0	GCCANGDB_02076	DNA-directed RNA polymerase beta' subunit
 A0A0B7L1K2	GCCANGDB_02077	DNA-directed RNA polymerase beta subunit
-	GCCANGDB_02078	Lacto-rpoB
-	GCCANGDB_02078	
-	GCCANGDB_02079	tRNA-Cys(gca)
-	GCCANGDB_02079	
 A0AA86XFE2	GCCANGDB_02080	Putative hemolysin
 A0A0E7Y8S8	GCCANGDB_02081	DNA-entry nuclease
 Q03159	GCCANGDB_02082	Competence-associated EpuA protein
@@ -2211,8 +1995,6 @@ Q97NN5	GCCANGDB_02101	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyl
 A0AA86XX43	GCCANGDB_02102	Hypothetical protein
 Q8DND2	GCCANGDB_02103	ABC transporter%2C ATP-binding protein
 A0AA86Y1H5	GCCANGDB_02104	Putative immunity protein
-	GCCANGDB_02105	SpR08_sRNA
-	GCCANGDB_02105	
 A0AA86XMC5	GCCANGDB_02106	Transcriptional regulator
 C1CA35	GCCANGDB_02107	Ribonuclease M5
 A0A0U0L1T2	GCCANGDB_02108	Putative deoxyribonuclease TatD
@@ -2231,34 +2013,6 @@ A0AA36VA04	GCCANGDB_02120	ABC transporter%2C permease protein
 A0AA36V9Z5	GCCANGDB_02121	ABC transporter%2C ATP-binding protein
 A0A0H2ZP90	GCCANGDB_02122	Hypothetical protein
 A0A0B7MA59	GCCANGDB_02123	Hypothetical protein
-	GCCANGDB_02124	tRNA-Pro(tgg)
-	GCCANGDB_02124	
-	GCCANGDB_02125	tRNA-Arg(acg)
-	GCCANGDB_02125	
-	GCCANGDB_02126	tRNA-Leu(taa)
-	GCCANGDB_02126	
-	GCCANGDB_02127	tRNA-Gly(gcc)
-	GCCANGDB_02127	
-	GCCANGDB_02128	tRNA-Thr(tgt)
-	GCCANGDB_02128	
-	GCCANGDB_02129	tRNA-Leu(tag)
-	GCCANGDB_02129	
-	GCCANGDB_02130	tRNA-Lys(ttt)
-	GCCANGDB_02130	
-	GCCANGDB_02131	tRNA-Asp(gtc)
-	GCCANGDB_02131	
-	GCCANGDB_02132	tRNA-Val(tac)
-	GCCANGDB_02132	
-	GCCANGDB_02133	5S ribosomal RNA
-	GCCANGDB_02133	
-	GCCANGDB_02134	23S ribosomal RNA
-	GCCANGDB_02134	
-	GCCANGDB_02135	tRNA-Ala(tgc)
-	GCCANGDB_02135	
-	GCCANGDB_02136	16S ribosomal RNA
-	GCCANGDB_02136	
-	GCCANGDB_02137	tRNA-Glu(ttc)
-	GCCANGDB_02137	
 A0AA44S6A3	GCCANGDB_02138	Competence-specific sigma factor ComX
 C1CGT9	GCCANGDB_02139	Transcription antitermination protein NusG
 Q8DNB7	GCCANGDB_02140	Protein translocase subunit SecE
@@ -2342,7 +2096,6 @@ A0A4F2S4D6	GCCANGDB_02217	hypothetical protein
 B1I7D1	GCCANGDB_02218	hypothetical protein
 A0A0U0BSP9	GCCANGDB_02219	hypothetical protein
 A0AA87C6A1	GCCANGDB_02220	hypothetical protein
-	GCCANGDB_02221	hypothetical protein
 A0A7X2XLM2	GCCANGDB_02222	hypothetical protein
 A0A4M9XAX2	GCCANGDB_02223	hypothetical protein
 A0A0T8K5V9	GCCANGDB_02224	hypothetical protein
@@ -2377,38 +2130,6 @@ A0A098AQ34	GCCANGDB_02252	Tyrosine recombinase XerC
 A0A098AQC4	GCCANGDB_02253	hypothetical protein
 A0A098APN9	GCCANGDB_02254	hypothetical protein
 A0A098APN1	GCCANGDB_02255	Bis(5'-nucleosyl)-tetraphosphatase%2C symmetrical
-	GCCANGDB_02256	tRNA-Leu(caa)
-	GCCANGDB_02256	
-	GCCANGDB_02257	tRNA-Gln(ttg)
-	GCCANGDB_02257	
-	GCCANGDB_02258	tRNA-His(gtg)
-	GCCANGDB_02258	
-	GCCANGDB_02259	tRNA-Trp(cca)
-	GCCANGDB_02259	
-	GCCANGDB_02260	tRNA-Tyr(gta)
-	GCCANGDB_02260	
-	GCCANGDB_02261	tRNA-Phe(gaa)
-	GCCANGDB_02261	
-	GCCANGDB_02262	tRNA-Met(cat)
-	GCCANGDB_02262	
-	GCCANGDB_02263	tRNA-Ser(tga)
-	GCCANGDB_02263	
-	GCCANGDB_02264	tRNA-Ile(gat)
-	GCCANGDB_02264	
-	GCCANGDB_02265	tRNA-Gly(tcc)
-	GCCANGDB_02265	
-	GCCANGDB_02266	tRNA-Val(tac)
-	GCCANGDB_02266	
-	GCCANGDB_02267	5S ribosomal RNA
-	GCCANGDB_02267	
-	GCCANGDB_02268	23S ribosomal RNA
-	GCCANGDB_02268	
-	GCCANGDB_02269	tRNA-Ala(tgc)
-	GCCANGDB_02269	
-	GCCANGDB_02270	16S ribosomal RNA
-	GCCANGDB_02270	
-	GCCANGDB_02271	tRNA-Glu(ttc)
-	GCCANGDB_02271	
 B2IMY8	GCCANGDB_02272	Cytidine/deoxycytidylate deaminase family protein
 Q8CWN5	GCCANGDB_02273	Glutamyl-tRNA synthetase
 A0A0B7KR19	GCCANGDB_02274	Glucose-6-phosphate isomerase
@@ -2416,11 +2137,7 @@ C1CH02	GCCANGDB_02275	Glutamine amidotransferase%2C class I
 A0A0B7M9F3	GCCANGDB_02276	Multidrug resistance ABC transporter ATP-binding and permease protein
 B2IMZ4	GCCANGDB_02277	hypothetical protein
 A0A0H2USC5	GCCANGDB_02278	Multidrug resistance ABC transporter ATP-binding and permease protein
-	GCCANGDB_02279	patAB
-	GCCANGDB_02279	
 A0AA44MRE2	GCCANGDB_02280	DNA mismatch repair protein HexA
-	GCCANGDB_02281	SpR10_sRNA
-	GCCANGDB_02281	
 P0A2Y3	GCCANGDB_02282	Arginine pathway regulatory protein ArgR1
 C1CN25	GCCANGDB_02283	Arginyl-tRNA synthetase
 B2IP96	GCCANGDB_02284	IS1381 transposase OrfB
@@ -2509,10 +2226,6 @@ A0A0H2US10	GCCANGDB_02366	L-fucose mutarotase
 Q8DN17	GCCANGDB_02367	L-fuculose phosphate aldolase
 A0A559EP65	GCCANGDB_02368	L-fuculokinase
 C1CHG7	GCCANGDB_02369	L-fucose operon activator
-	GCCANGDB_02370	SpF66_sRNA
-	GCCANGDB_02370	
-	GCCANGDB_02371	SpF66_sRNA
-	GCCANGDB_02371	
 A0A0E8SYK3	GCCANGDB_02372	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
 O33704	GCCANGDB_02373	Zinc ABC transporter%2C permease protein AdcB
 B2INJ0	GCCANGDB_02374	Zinc ABC transporter%2C ATP-binding protein AdcC
@@ -2522,13 +2235,7 @@ Q04HZ9	GCCANGDB_02377	D-alanine--poly(phosphoribitol) ligase subunit 2
 A0A0B7L8I4	GCCANGDB_02378	D-alanyl transfer protein DltB
 A0AAE9QTY8	GCCANGDB_02379	D-alanine--poly(phosphoribitol) ligase subunit 1
 B2INJ7	GCCANGDB_02380	Macrolide-efflux protein
-	GCCANGDB_02381	Intron_gpII
-	GCCANGDB_02381	
 C1CBF7	GCCANGDB_02382	hypothetical protein
-	GCCANGDB_02383	group-II-D1D4-1
-	GCCANGDB_02383	
-	GCCANGDB_02384	group-II-D1D4-3
-	GCCANGDB_02384	
 C1CBF8	GCCANGDB_02385	Hypothetical protein
 C1CBF9	GCCANGDB_02386	hypothetical protein
 A0A0H2ZPJ9	GCCANGDB_02387	Glycerol uptake facilitator protein
@@ -2538,8 +2245,6 @@ A0A6G2DV20	GCCANGDB_02390	Trans-acting positive regulator
 A0A0T8BBP7	GCCANGDB_02391	Chaperonin%2C heat shock protein 33
 A0AAD2I3M2	GCCANGDB_02392	tRNA dihydrouridine synthase B
 A0A6I3UZ38	GCCANGDB_02393	hypothetical protein
-	GCCANGDB_02394	Srn266
-	GCCANGDB_02394	
 A0A6G2D532	GCCANGDB_02395	IS1167 transposase
 A0A1M4NIY9	GCCANGDB_02396	Choline-binding protein A
 A0A0B7MBP2	GCCANGDB_02397	Rhomboid family integral membrane protein
@@ -2551,8 +2256,6 @@ Q8DMZ8	GCCANGDB_02402	Thiamin ABC transporter ThiZ%2C ATPase component
 Q8DMZ7	GCCANGDB_02403	Thiamin ABC transporter ThiY%2C substrate-binding component
 B1IA11	GCCANGDB_02404	Thiamin ABC transporter ThiX%2C transmembrane component
 Q8DMZ5	GCCANGDB_02405	Cytoplasmic thiamin-binding component of thiamin ABC transporter
-	GCCANGDB_02406	TPP
-	GCCANGDB_02406	
 Q9KGZ2	GCCANGDB_02407	Choline-binding protein D
 Q8DMZ3	GCCANGDB_02408	Hypothetical protein
 Q8DMZ2	GCCANGDB_02409	Replicative DNA helicase DnaC
@@ -2565,8 +2268,6 @@ C1CBI6	GCCANGDB_02415	Protein co-occurring with transport systems
 C1CBI7	GCCANGDB_02416	Cysteine synthase
 A0A264SBY9	GCCANGDB_02417	hypothetical protein
 A0A6G2DW85	GCCANGDB_02418	IS66 family transposase Orf2
-	GCCANGDB_02419	SpF51_sRNA
-	GCCANGDB_02419	
 Q04HW4	GCCANGDB_02420	Translation elongation factor Ts
 C1CUD2	GCCANGDB_02421	SSU ribosomal protein S2p (SAe)
 C1CHL5	GCCANGDB_02422	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
@@ -2587,15 +2288,9 @@ Q8DMX1	GCCANGDB_02436	ABC transporter%2C ATP-binding protein
 A0A4G1UPE8	GCCANGDB_02437	ABC transporter%2C permease protein
 A0A0T8RNI9	GCCANGDB_02438	hypothetical protein
 Q8DMW6	GCCANGDB_02439	Transcriptional regulator%2C AcrR family
-	GCCANGDB_02440	tRNA-Asn(gtt)
-	GCCANGDB_02440	
-	GCCANGDB_02441	tRNA-Glu(ttc)
-	GCCANGDB_02441	
 Q8DMW5	GCCANGDB_02442	Two-component system response regulator ComE
 Q8DMW4	GCCANGDB_02443	Two-component system sensor histidine kinase ComD
 Q5QIA8	GCCANGDB_02444	Competence-stimulating peptide precursor ComC
-	GCCANGDB_02445	tRNA-Arg(tct)
-	GCCANGDB_02445	
 Q04HU2	GCCANGDB_02446	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
 Q8DMW2	GCCANGDB_02447	Serine protease%2C DegP/HtrA
 A0AA86XYX7	GCCANGDB_02448	Chromosome partitioning protein ParB
@@ -2633,28 +2328,6 @@ A0A098APL0	GCCANGDB_02479	hypothetical protein
 A0A654UCL8	GCCANGDB_02480	hypothetical protein
 A0A4J1Z106	GCCANGDB_02481	ABC transporter%2C ATP-binding protein
 C1CA51	GCCANGDB_02482	Hypothetical protein
-	GCCANGDB_02483	tRNA-Pro(tgg)
-	GCCANGDB_02483	
-	GCCANGDB_02484	tRNA-Arg(acg)
-	GCCANGDB_02484	
-	GCCANGDB_02485	tRNA-Leu(taa)
-	GCCANGDB_02485	
-	GCCANGDB_02486	tRNA-Gly(gcc)
-	GCCANGDB_02486	
-	GCCANGDB_02487	tRNA-Lys(ttt)
-	GCCANGDB_02487	
-	GCCANGDB_02488	tRNA-Asp(gtc)
-	GCCANGDB_02488	
-	GCCANGDB_02489	tRNA-Val(tac)
-	GCCANGDB_02489	
-	GCCANGDB_02490	23S ribosomal RNA
-	GCCANGDB_02490	
-	GCCANGDB_02491	tRNA-Ala(tgc)
-	GCCANGDB_02491	
-	GCCANGDB_02492	16S ribosomal RNA
-	GCCANGDB_02492	
-	GCCANGDB_02493	tRNA-Glu(ttc)
-	GCCANGDB_02493	
 A0A4G1WR53	GCCANGDB_02494	Competence-specific sigma factor ComX
 Q9S461	GCCANGDB_02495	Cell division protein FtsH
 A0A916L592	GCCANGDB_02496	Cell division protein FtsH
@@ -2676,18 +2349,6 @@ A0A559H6F7	GCCANGDB_02511	Transcription-repair coupling factor
 A0A6G2DDF0	GCCANGDB_02512	Glutamyl-tRNA synthetase
 B1I9D7	GCCANGDB_02513	Glutamyl-tRNA synthetase
 A0A4J1UM49	GCCANGDB_02514	Cytidine/deoxycytidylate deaminase family protein
-	GCCANGDB_02515	tRNA-Glu(ttc)
-	GCCANGDB_02515	
-	GCCANGDB_02516	16S ribosomal RNA
-	GCCANGDB_02516	
-	GCCANGDB_02517	tRNA-Ala(tgc)
-	GCCANGDB_02517	
-	GCCANGDB_02518	23S ribosomal RNA
-	GCCANGDB_02518	
-	GCCANGDB_02519	5S ribosomal RNA
-	GCCANGDB_02519	
-	GCCANGDB_02520	tRNA-Val(tac)
-	GCCANGDB_02520	
 A0AA87C713	GCCANGDB_02521	hypothetical protein
 A0A0B7LFH8	GCCANGDB_02522	Adenylosuccinate synthetase
 A0A654UB38	GCCANGDB_02523	Adenylosuccinate synthetase

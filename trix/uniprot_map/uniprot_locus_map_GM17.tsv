@@ -5,15 +5,9 @@ O08397	LBPJGIKI_00003	Chromosomal replication initiator protein DnaA
 Q8DMW1	LBPJGIKI_00004	Chromosome partitioning protein ParB
 A0A0I6DRY6	LBPJGIKI_00005	Serine protease%2C DegP/HtrA
 Q04HU2	LBPJGIKI_00006	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
-	LBPJGIKI_00007	tRNA-Arg(tct)
-	LBPJGIKI_00007	
 Q5QIA8	LBPJGIKI_00008	Competence-stimulating peptide precursor ComC
 Q8DMW4	LBPJGIKI_00009	Two-component system sensor histidine kinase ComD
 Q8DMW5	LBPJGIKI_00010	Two-component system response regulator ComE
-	LBPJGIKI_00011	tRNA-Glu(ttc)
-	LBPJGIKI_00011	
-	LBPJGIKI_00012	tRNA-Asn(gtt)
-	LBPJGIKI_00012	
 A0A0T9GC96	LBPJGIKI_00013	Transcriptional regulator%2C AcrR family
 A0A0T7KVN8	LBPJGIKI_00014	hypothetical protein
 A0A0T9H366	LBPJGIKI_00015	hypothetical protein
@@ -37,8 +31,6 @@ C1CHL6	LBPJGIKI_00032	Cell shape-determining protein MreD
 C1CHL5	LBPJGIKI_00033	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
 C1CUD2	LBPJGIKI_00034	SSU ribosomal protein S2p (SAe)
 Q04HW4	LBPJGIKI_00035	Translation elongation factor Ts
-	LBPJGIKI_00036	SpF51_sRNA
-	LBPJGIKI_00036	
 A0A0T9HNG2	LBPJGIKI_00037	Cysteine synthase
 Q8DMY9	LBPJGIKI_00038	Protein co-occurring with transport systems
 A0A0H2ZP72	LBPJGIKI_00039	DNA transporter ATPase%2C ComF operon protein A
@@ -49,8 +41,6 @@ Q04HX2	LBPJGIKI_00043	LSU ribosomal protein L9p
 Q8DMZ2	LBPJGIKI_00044	Replicative DNA helicase DnaC
 Q8DMZ3	LBPJGIKI_00045	Hypothetical protein
 A0AAD2KBD3	LBPJGIKI_00046	Choline-binding protein D
-	LBPJGIKI_00047	TPP
-	LBPJGIKI_00047	
 Q8DMZ5	LBPJGIKI_00048	Cytoplasmic thiamin-binding component of thiamin ABC transporter
 B1IA11	LBPJGIKI_00049	Thiamin ABC transporter ThiX%2C transmembrane component
 A0A655B0S3	LBPJGIKI_00050	Thiamin ABC transporter ThiY%2C substrate-binding component
@@ -63,8 +53,6 @@ A0A0B7MBP2	LBPJGIKI_00056	Rhomboid family integral membrane protein
 F2WWM4	LBPJGIKI_00057	hypothetical protein
 A0A0B4ZJP4	LBPJGIKI_00058	IS1167 transposase Orf2
 A0A4J1R174	LBPJGIKI_00059	IS1167 transposase
-	LBPJGIKI_00060	Srn266
-	LBPJGIKI_00060	
 A0A6G2DVC9	LBPJGIKI_00061	hypothetical protein
 B1I9Z9	LBPJGIKI_00062	tRNA dihydrouridine synthase B
 Q04HY8	LBPJGIKI_00063	Chaperonin%2C heat shock protein 33
@@ -73,10 +61,6 @@ Q04HZ0	LBPJGIKI_00065	Glycerol kinase
 A0A4N2GET2	LBPJGIKI_00066	Alpha-glycerophosphate oxidase
 A0A0B7LLU5	LBPJGIKI_00067	Glycerol uptake facilitator protein
 B1I9Z2	LBPJGIKI_00068	Hypothetical protein
-	LBPJGIKI_00069	group-II-D1D4-3
-	LBPJGIKI_00069	
-	LBPJGIKI_00070	group-II-D1D4-1
-	LBPJGIKI_00070	
 Q8DN09	LBPJGIKI_00071	hypothetical protein
 A0A822QAK2	LBPJGIKI_00072	hypothetical protein
 A0A0B7L8Y7	LBPJGIKI_00073	Macrolide-efflux protein
@@ -89,12 +73,6 @@ Q8DN14	LBPJGIKI_00079	Transcriptional repressor AdcR for Zn(2+)-responsive expre
 C1CHH0	LBPJGIKI_00080	Zinc ABC transporter%2C ATP-binding protein AdcC
 O33704	LBPJGIKI_00081	Zinc ABC transporter%2C permease protein AdcB
 A0AAD2IA49	LBPJGIKI_00082	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
-	LBPJGIKI_00083	SpF66_sRNA
-	LBPJGIKI_00083	
-	LBPJGIKI_00084	SpF66_sRNA
-	LBPJGIKI_00084	
-	LBPJGIKI_00085	SpF66_sRNA
-	LBPJGIKI_00085	
 Q8DN15	LBPJGIKI_00086	L-fucose operon activator
 A0A4J2C1A2	LBPJGIKI_00087	L-fuculokinase
 C1CB10	LBPJGIKI_00088	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
@@ -185,11 +163,7 @@ A0A0T9H9B7	LBPJGIKI_00172	Putative cupin superfamily protein
 A0A4J1TFQ0	LBPJGIKI_00173	IS1381 transposase OrfB
 C1CN25	LBPJGIKI_00174	Arginyl-tRNA synthetase
 P0A2Y3	LBPJGIKI_00175	Arginine pathway regulatory protein ArgR1
-	LBPJGIKI_00176	SpR10_sRNA
-	LBPJGIKI_00176	
 C8XPX0	LBPJGIKI_00177	DNA mismatch repair protein HexA
-	LBPJGIKI_00178	patAB
-	LBPJGIKI_00178	
 A0A4N2L2M8	LBPJGIKI_00179	Multidrug resistance ABC transporter ATP-binding and permease protein
 A0A4J1ZI38	LBPJGIKI_00180	hypothetical protein
 A0A0B7LZN5	LBPJGIKI_00181	Multidrug resistance ABC transporter ATP-binding and permease protein
@@ -197,38 +171,6 @@ C1CH02	LBPJGIKI_00182	Glutamine amidotransferase%2C class I
 Q8DN74	LBPJGIKI_00183	Glucose-6-phosphate isomerase
 Q8CWN5	LBPJGIKI_00184	Glutamyl-tRNA synthetase
 Q8DN75	LBPJGIKI_00185	Cytidine/deoxycytidylate deaminase family protein
-	LBPJGIKI_00186	tRNA-Glu(ttc)
-	LBPJGIKI_00186	
-	LBPJGIKI_00187	16S ribosomal RNA
-	LBPJGIKI_00187	
-	LBPJGIKI_00188	tRNA-Ala(tgc)
-	LBPJGIKI_00188	
-	LBPJGIKI_00189	23S ribosomal RNA
-	LBPJGIKI_00189	
-	LBPJGIKI_00190	5S ribosomal RNA
-	LBPJGIKI_00190	
-	LBPJGIKI_00191	tRNA-Val(tac)
-	LBPJGIKI_00191	
-	LBPJGIKI_00192	tRNA-Gly(tcc)
-	LBPJGIKI_00192	
-	LBPJGIKI_00193	tRNA-Ile(gat)
-	LBPJGIKI_00193	
-	LBPJGIKI_00194	tRNA-Ser(tga)
-	LBPJGIKI_00194	
-	LBPJGIKI_00195	tRNA-Met(cat)
-	LBPJGIKI_00195	
-	LBPJGIKI_00196	tRNA-Phe(gaa)
-	LBPJGIKI_00196	
-	LBPJGIKI_00197	tRNA-Tyr(gta)
-	LBPJGIKI_00197	
-	LBPJGIKI_00198	tRNA-Trp(cca)
-	LBPJGIKI_00198	
-	LBPJGIKI_00199	tRNA-His(gtg)
-	LBPJGIKI_00199	
-	LBPJGIKI_00200	tRNA-Gln(ttg)
-	LBPJGIKI_00200	
-	LBPJGIKI_00201	tRNA-Leu(caa)
-	LBPJGIKI_00201	
 A0A0H2USC3	LBPJGIKI_00202	Hypothetical protein
 A0A0H2US33	LBPJGIKI_00203	Threonine synthase
 C1CGZ5	LBPJGIKI_00204	Multi antimicrobial extrusion family transporter
@@ -283,14 +225,10 @@ A0A4J1VEV9	LBPJGIKI_00252	hypothetical protein
 A0A0E8SXC2	LBPJGIKI_00253	hypothetical protein
 A0A064C5W8	LBPJGIKI_00254	hypothetical protein
 M9QTG2	LBPJGIKI_00255	hypothetical protein
-	LBPJGIKI_00256	GOLLD
-	LBPJGIKI_00256	
 A0AA86X2L4	LBPJGIKI_00257	hypothetical protein
 A0A4J1ZRH3	LBPJGIKI_00258	hypothetical protein
 A0A4J2EY28	LBPJGIKI_00259	hypothetical protein
 C1CGG5	LBPJGIKI_00260	hypothetical protein
-	LBPJGIKI_00261	skipping-rope
-	LBPJGIKI_00261	
 C1CGG2	LBPJGIKI_00262	hypothetical protein
 C1CGG1	LBPJGIKI_00263	hypothetical protein
 A0AA86JFM7	LBPJGIKI_00264	hypothetical protein
@@ -355,34 +293,6 @@ Q75YD9	LBPJGIKI_00322	Multimodular transpeptidase-transglycosylase%2C penicillin
 Q8DNB7	LBPJGIKI_00323	Protein translocase subunit SecE
 C1CGT9	LBPJGIKI_00324	Transcription antitermination protein NusG
 Q9R2W8	LBPJGIKI_00325	Competence-specific sigma factor ComX
-	LBPJGIKI_00326	tRNA-Glu(ttc)
-	LBPJGIKI_00326	
-	LBPJGIKI_00327	16S ribosomal RNA
-	LBPJGIKI_00327	
-	LBPJGIKI_00328	tRNA-Ala(tgc)
-	LBPJGIKI_00328	
-	LBPJGIKI_00329	23S ribosomal RNA
-	LBPJGIKI_00329	
-	LBPJGIKI_00330	5S ribosomal RNA
-	LBPJGIKI_00330	
-	LBPJGIKI_00331	tRNA-Val(tac)
-	LBPJGIKI_00331	
-	LBPJGIKI_00332	tRNA-Asp(gtc)
-	LBPJGIKI_00332	
-	LBPJGIKI_00333	tRNA-Lys(ttt)
-	LBPJGIKI_00333	
-	LBPJGIKI_00334	tRNA-Leu(tag)
-	LBPJGIKI_00334	
-	LBPJGIKI_00335	tRNA-Thr(tgt)
-	LBPJGIKI_00335	
-	LBPJGIKI_00336	tRNA-Gly(gcc)
-	LBPJGIKI_00336	
-	LBPJGIKI_00337	tRNA-Leu(taa)
-	LBPJGIKI_00337	
-	LBPJGIKI_00338	tRNA-Arg(acg)
-	LBPJGIKI_00338	
-	LBPJGIKI_00339	tRNA-Pro(tgg)
-	LBPJGIKI_00339	
 A0A0B7LZ80	LBPJGIKI_00340	Hypothetical protein
 A0A0B7L404	LBPJGIKI_00341	Hypothetical protein
 Q8DNB9	LBPJGIKI_00342	ABC transporter%2C ATP-binding protein
@@ -426,10 +336,6 @@ Q97NQ4	LBPJGIKI_00379	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 A0AA87C7S6	LBPJGIKI_00380	Competence-associated EpuA protein
 A0A0B7L7Z9	LBPJGIKI_00381	DNA-entry nuclease
 C1CGP5	LBPJGIKI_00382	Putative hemolysin
-	LBPJGIKI_00383	tRNA-Cys(gca)
-	LBPJGIKI_00383	
-	LBPJGIKI_00384	Lacto-rpoB
-	LBPJGIKI_00384	
 A0A0B7LZ45	LBPJGIKI_00385	DNA-directed RNA polymerase beta subunit
 Q97NQ8	LBPJGIKI_00386	DNA-directed RNA polymerase beta' subunit
 A0A0T7L482	LBPJGIKI_00387	Nucleoside diphosphate kinase
@@ -486,55 +392,9 @@ A0A0B7L9G8	LBPJGIKI_00437	Epoxyqueuosine reductase QueH
 A0A0E8YVY8	LBPJGIKI_00438	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
 A0A0B7LRJ6	LBPJGIKI_00439	Positive transcriptional regulator%2C MutR family
 A0A0B7L322	LBPJGIKI_00440	hypothetical protein
-	LBPJGIKI_00441	Spy392987
-	LBPJGIKI_00441	
 Q8DNH5	LBPJGIKI_00442	Cysteinyl-tRNA synthetase related protein
 A0A0E7YX54	LBPJGIKI_00443	Regulatory protein RecX
 C1CGD1	LBPJGIKI_00444	RNA methyltransferase%2C TrmA family
-	LBPJGIKI_00445	tRNA-Glu(ttc)
-	LBPJGIKI_00445	
-	LBPJGIKI_00446	16S ribosomal RNA
-	LBPJGIKI_00446	
-	LBPJGIKI_00447	tRNA-Ala(tgc)
-	LBPJGIKI_00447	
-	LBPJGIKI_00448	23S ribosomal RNA
-	LBPJGIKI_00448	
-	LBPJGIKI_00449	5S ribosomal RNA
-	LBPJGIKI_00449	
-	LBPJGIKI_00450	tRNA-Val(tac)
-	LBPJGIKI_00450	
-	LBPJGIKI_00451	tRNA-Asp(gtc)
-	LBPJGIKI_00451	
-	LBPJGIKI_00452	tRNA-Lys(ttt)
-	LBPJGIKI_00452	
-	LBPJGIKI_00453	tRNA-Leu(tag)
-	LBPJGIKI_00453	
-	LBPJGIKI_00454	tRNA-Thr(tgt)
-	LBPJGIKI_00454	
-	LBPJGIKI_00455	tRNA-Gly(gcc)
-	LBPJGIKI_00455	
-	LBPJGIKI_00456	tRNA-Leu(taa)
-	LBPJGIKI_00456	
-	LBPJGIKI_00457	tRNA-Arg(acg)
-	LBPJGIKI_00457	
-	LBPJGIKI_00458	tRNA-Pro(tgg)
-	LBPJGIKI_00458	
-	LBPJGIKI_00459	tRNA-Met(cat)
-	LBPJGIKI_00459	
-	LBPJGIKI_00460	tRNA-Met(cat)
-	LBPJGIKI_00460	
-	LBPJGIKI_00461	tRNA-Ser(tga)
-	LBPJGIKI_00461	
-	LBPJGIKI_00462	tRNA-Met(cat)
-	LBPJGIKI_00462	
-	LBPJGIKI_00463	tRNA-Phe(gaa)
-	LBPJGIKI_00463	
-	LBPJGIKI_00464	tRNA-Gly(tcc)
-	LBPJGIKI_00464	
-	LBPJGIKI_00465	tRNA-Ile(gat)
-	LBPJGIKI_00465	
-	LBPJGIKI_00466	tRNA-Ser(gct)
-	LBPJGIKI_00466	
 C1C9G9	LBPJGIKI_00467	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0A0B7MFI0	LBPJGIKI_00468	Multiple sugar metabolism operon regulatory protein MsmR
 A0AA95DEB5	LBPJGIKI_00469	Alpha-galactosidase
@@ -552,8 +412,6 @@ B1I896	LBPJGIKI_00480	Peptide ABC transporter ATP-binding protein AmiF
 A0A4J1VNE3	LBPJGIKI_00481	IS1167 transposase
 A0AA95D7A8	LBPJGIKI_00482	hypothetical protein
 A0A4J2FD88	LBPJGIKI_00483	IS1167 transposase Orf1
-	LBPJGIKI_00484	Srn266
-	LBPJGIKI_00484	
 Q8DNI5	LBPJGIKI_00485	Trehalose operon transcriptional repressor
 A0A6I3U3H1	LBPJGIKI_00486	Trehalose-specific PTS IIBCA components
 Q8DNI7	LBPJGIKI_00487	Trehalose-6-phosphate hydrolase
@@ -593,8 +451,6 @@ C1C9B5	LBPJGIKI_00520	Type II restriction-modification system methyltransferase
 B1I859	LBPJGIKI_00521	Type-2 restriction enzyme DpnII
 A0A0H2URI2	LBPJGIKI_00522	Xanthine permease
 Q3I0D0	LBPJGIKI_00523	Xanthine phosphoribosyltransferase
-	LBPJGIKI_00524	Purine
-	LBPJGIKI_00524	
 A0A0B7MC34	LBPJGIKI_00525	hypothetical protein
 C1CG71	LBPJGIKI_00526	Exodeoxyribonuclease III
 A0A0T9H4C6	LBPJGIKI_00527	hypothetical protein
@@ -639,8 +495,6 @@ C1CG18	LBPJGIKI_00565	Multiple sugar ABC transporter%2C membrane-spanning permea
 B2ISF6	LBPJGIKI_00566	ABC transporter permease protein
 A0A6G2DMT1	LBPJGIKI_00567	hypothetical protein
 A0A0T7I5G6	LBPJGIKI_00568	Sucrose-6-phosphate hydrolase
-	LBPJGIKI_00569	tRNA-Lys(ctt)
-	LBPJGIKI_00569	
 A0A0E8ZGI8	LBPJGIKI_00570	Chromosome segregation helicase
 A0A0T9ICE2	LBPJGIKI_00571	Hypothetical protein
 Q8CYE1	LBPJGIKI_00572	Addiction module toxin HicA
@@ -835,8 +689,6 @@ A0A0E9A1L3	LBPJGIKI_00760	Major facilitator oxalate:formate antiporter
 A0A0E8AJB6	LBPJGIKI_00761	DEAD-box ATP-dependent RNA helicase CshA
 C1CSK2	LBPJGIKI_00762	GTP-sensing transcriptional pleiotropic repressor CodY
 Q8DP02	LBPJGIKI_00763	Nicotinamidase
-	LBPJGIKI_00764	tRNA-Leu(aag)
-	LBPJGIKI_00764	
 Q8DP03	LBPJGIKI_00765	Multiple sugar ABC transporter%2C ATP-binding protein
 Q8DP04	LBPJGIKI_00766	SAM-dependent methyltransferase
 C1CFG1	LBPJGIKI_00767	Adenine phosphoribosyltransferase
@@ -917,15 +769,11 @@ Q04JJ1	LBPJGIKI_00841	4-hydroxy-tetrahydrodipicolinate reductase
 Q97PP9	LBPJGIKI_00842	CCA tRNA nucleotidyltransferase
 A0A4P0A7U2	LBPJGIKI_00843	ATPase component of ABC transporter with duplicated ATPase domains
 C1CFD7	LBPJGIKI_00844	Cobalt-zinc-cadmium resistance protein
-	LBPJGIKI_00845	SSRC10
-	LBPJGIKI_00845	
 C1CFD6	LBPJGIKI_00846	Calcium-transporting ATPase
 A0A0H2UQV0	LBPJGIKI_00847	Glutathione S-transferase
 A0A4L3J1R1	LBPJGIKI_00848	Peptide deformylase
 A0A0E8YYP0	LBPJGIKI_00849	Cell shape-determining protein
 A0A229FM92	LBPJGIKI_00850	Hypothetical protein
-	LBPJGIKI_00851	SpR20_sRNA
-	LBPJGIKI_00851	
 A0A0E8ZIF4	LBPJGIKI_00852	hypothetical protein
 A0A0T7KV60	LBPJGIKI_00853	Hypothetical protein
 A0A098ZCY9	LBPJGIKI_00854	Hypothetical protein
@@ -1074,8 +922,6 @@ C1C6I2	LBPJGIKI_00996	Putative deoxyribose-specific ABC transporter permease pro
 A0A654Z6U1	LBPJGIKI_00997	IS3 family transposase ISSpn11
 A0A380LFT8	LBPJGIKI_00998	hypothetical protein
 A0A380LGH3	LBPJGIKI_00999	IS3 family transposase ISSpn11
-	LBPJGIKI_01000	Srn266
-	LBPJGIKI_01000	
 A0A4J1ST07	LBPJGIKI_01001	IS1167 transposase
 B2INX0	LBPJGIKI_01002	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
 Q3HZ71	LBPJGIKI_01003	Topoisomerase IV subunit B
@@ -1087,15 +933,9 @@ C1CDK5	LBPJGIKI_01008	Hypothetical protein
 Q8DQB0	LBPJGIKI_01009	Putative membrane protein
 Q04L55	LBPJGIKI_01010	Pyrrolidone-carboxylate peptidase
 Q8CYY0	LBPJGIKI_01011	Hypothetical protein
-	LBPJGIKI_01012	tRNA-Tyr(gta)
-	LBPJGIKI_01012	
-	LBPJGIKI_01013	tRNA-Gln(ttg)
-	LBPJGIKI_01013	
 A0A0T7NMD7	LBPJGIKI_01014	SSU ribosomal protein S1p
 A0A132UFZ9	LBPJGIKI_01015	IS1167 transposase
 A0A0T7Z7C1	LBPJGIKI_01016	IS1167 transposase
-	LBPJGIKI_01017	Srn266
-	LBPJGIKI_01017	
 A0A0H2UPG8	LBPJGIKI_01018	GAF domain-containing protein
 A0A0T8PBC6	LBPJGIKI_01019	DNA polymerase III subunits gamma and tau
 A0A0T8DU42	LBPJGIKI_01020	Hypothetical protein
@@ -1106,10 +946,6 @@ C1CDL9	LBPJGIKI_01024	Putative iron-sulfur cluster assembly scaffold protein for
 C1CDM0	LBPJGIKI_01025	Iron-sulfur cluster assembly protein SufB
 Q75Y43	LBPJGIKI_01026	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 Q8DQ98	LBPJGIKI_01027	Coordinator of zonal cell elongation
-	LBPJGIKI_01028	transfer-messenger RNA%2C SsrA
-	LBPJGIKI_01028	
-	LBPJGIKI_01029	tRNA-Ser(gga)
-	LBPJGIKI_01029	
 Q8DQ97	LBPJGIKI_01030	Transcriptional repressor of the fructose operon%2C DeoR family
 C1C6K9	LBPJGIKI_01031	1-phosphofructokinase
 Q8DQ95	LBPJGIKI_01032	Fructose-specific PTS IIABC components
@@ -1143,8 +979,6 @@ C1CDQ2	LBPJGIKI_01059	Hypothetical protein
 B2IP66	LBPJGIKI_01060	Transcription accessory protein
 Q97RB5	LBPJGIKI_01061	Putative SprT family zinc-dependent metallopeptidase
 A0A5C8QW28	LBPJGIKI_01062	Putative phage shock protein C
-	LBPJGIKI_01063	Spd-sr07
-	LBPJGIKI_01063	
 Q8CYW5	LBPJGIKI_01064	Hypothetical protein
 A0A0B7KXN1	LBPJGIKI_01065	Hypothetical protein
 C1CDQ8	LBPJGIKI_01066	ABC transporter ATP-binding protein
@@ -1191,8 +1025,6 @@ Q8DQ41	LBPJGIKI_01106	Late competence DNA receptor ComEA
 A0A0T8TEA1	LBPJGIKI_01107	Late competence DNA transporter ComEC
 A0A0E8A448	LBPJGIKI_01108	ABC transporter%2C ATP-binding protein
 A0AAD2IHF0	LBPJGIKI_01109	Hypothetical protein
-	LBPJGIKI_01110	L20_leader
-	LBPJGIKI_01110	
 Q04KW9	LBPJGIKI_01111	Translation initiation factor 3
 Q04KW8	LBPJGIKI_01112	LSU ribosomal protein L35p
 Q04KW7	LBPJGIKI_01113	LSU ribosomal protein L20p
@@ -1232,8 +1064,6 @@ A0A4L3HWC4	LBPJGIKI_01146	IS630 family transposase IS630-Spn1
 A0A4F2S4D7	LBPJGIKI_01147	Hypothetical protein
 C1CDZ4	LBPJGIKI_01148	Cytochrome c-type biogenesis protein CcdA-2
 C1CDZ5	LBPJGIKI_01149	Thiol:disulfide oxidoreductase
-	LBPJGIKI_01150	SpF36_sRNA
-	LBPJGIKI_01150	
 A0A0B7LD58	LBPJGIKI_01151	Cationic amino acid transporter%2C APC Superfamily
 Q8DQ09	LBPJGIKI_01152	Laminin-binding surface protein
 A0A0E3LX51	LBPJGIKI_01153	Pneumococcal histidine triad protein D
@@ -1246,13 +1076,7 @@ B1IBG7	LBPJGIKI_01159	Tripeptide aminopeptidase PepT
 B1IBG8	LBPJGIKI_01160	Ferrochelatase%2C protoheme ferro-lyase
 Q8DQ03	LBPJGIKI_01161	Large-conductance mechanosensitive channel MscL
 A0A0E7TRS3	LBPJGIKI_01162	GtrA family protein
-	LBPJGIKI_01163	preQ1-II
-	LBPJGIKI_01163	
 Q8DQ01	LBPJGIKI_01164	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	LBPJGIKI_01165	tRNA-Thr(ggt)
-	LBPJGIKI_01165	
-	LBPJGIKI_01166	asd
-	LBPJGIKI_01166	
 A0A0T7KTG4	LBPJGIKI_01167	Aspartate-semialdehyde dehydrogenase
 A0A0B7M873	LBPJGIKI_01168	4-hydroxy-tetrahydrodipicolinate synthase
 A0A0T9HX06	LBPJGIKI_01169	GTPase and tRNA-U34 5-formylation enzyme MnmE
@@ -1267,18 +1091,12 @@ A0A5R9AW41	LBPJGIKI_01177	Pseudouridylate synthase%2C 23S RNA-specific
 C1C701	LBPJGIKI_01178	Pneumococcal vaccine antigen A
 A0A0B7L1A6	LBPJGIKI_01179	Extracellular protein
 A0A4P0AAW4	LBPJGIKI_01180	23S rRNA (uracil(1939)-C(5))-methyltransferase
-	LBPJGIKI_01181	SpF61_sRNA
-	LBPJGIKI_01181	
-	LBPJGIKI_01182	SpF39_sRNA
-	LBPJGIKI_01182	
 A0A0B7LP89	LBPJGIKI_01183	Hypothetical protein
 A0A4P0AAN8	LBPJGIKI_01184	Iron compound ABC uptake transporter substrate-binding protein PiaA
 A0A0B7MEA3	LBPJGIKI_01185	Iron compound ABC uptake transporter permease protein PiaB
 Q8DPY4	LBPJGIKI_01186	Iron compound ABC uptake transporter permease protein PiaC
 A0A0T7ZGI8	LBPJGIKI_01187	Iron compound ABC uptake transporter ATP-binding protein PiaD
 A0A0T8BCD4	LBPJGIKI_01188	Putative type II restriction endonuclease
-	LBPJGIKI_01189	pemK
-	LBPJGIKI_01189	
 Q8CYT9	LBPJGIKI_01190	Hypothetical protein
 A0A0T9GFA2	LBPJGIKI_01191	Phage integrase
 B2IPJ6	LBPJGIKI_01192	Hypothetical protein
@@ -1295,8 +1113,6 @@ B2IQ43	LBPJGIKI_01202	hypothetical protein
 A0A0T8PET3	LBPJGIKI_01203	IS5 family transposase IS1381A
 C1C764	LBPJGIKI_01204	Cell division protein FtsW
 A0A0T9IQ40	LBPJGIKI_01205	Phosphoenolpyruvate carboxylase
-	LBPJGIKI_01206	T-box
-	LBPJGIKI_01206	
 A0A0T9IB85	LBPJGIKI_01207	ABC transporter substrate-binding protein
 A0A0H2UPW3	LBPJGIKI_01208	Putative tryptophan-specific ABC transporter permease protein TrpY
 A0A0T9HWR8	LBPJGIKI_01209	ABC transporter ATP-binding protein
@@ -1309,8 +1125,6 @@ A0A0T9HL03	LBPJGIKI_01215	Hypothetical protein
 C1CE65	LBPJGIKI_01216	Hypothetical protein
 A0A0U0QCZ5	LBPJGIKI_01217	GTP-binding protein ObgE
 C1CE67	LBPJGIKI_01218	Hypothetical protein
-	LBPJGIKI_01219	group-II-D1D4-3
-	LBPJGIKI_01219	
 Q97QW6	LBPJGIKI_01220	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 C1CE69	LBPJGIKI_01221	Ribosomal-protein-S5p-alanine acetyltransferase
 A0A0B7M8Z1	LBPJGIKI_01222	Cytosolic protein containing multiple CBS domains
@@ -1330,17 +1144,11 @@ Q8DPU2	LBPJGIKI_01235	GTP pyrophosphokinase
 B2IQ09	LBPJGIKI_01236	NAD kinase
 Q8DPU1	LBPJGIKI_01237	RluD-like protein
 Q8DPU0	LBPJGIKI_01238	Phosphate acetyltransferase
-	LBPJGIKI_01239	SpR14_sRNA
-	LBPJGIKI_01239	
 A0A0U0JWR9	LBPJGIKI_01240	IS1167 transposase Orf2
 A0A0U0HX93	LBPJGIKI_01241	hypothetical protein
 A0A4N2L233	LBPJGIKI_01242	IS1167 transposase Orf1
-	LBPJGIKI_01243	Srn266
-	LBPJGIKI_01243	
 Q04KI6	LBPJGIKI_01244	Hypothetical protein co-occurring with RecR
 A0A0B7M7N6	LBPJGIKI_01245	Hypothetical protein
-	LBPJGIKI_01246	L21_leader
-	LBPJGIKI_01246	
 Q97QU4	LBPJGIKI_01247	LSU ribosomal protein L21p
 Q8DPT7	LBPJGIKI_01248	Putative ribosomal protein
 Q04KI2	LBPJGIKI_01249	LSU ribosomal protein L27p
@@ -1409,14 +1217,10 @@ B2IRY8	LBPJGIKI_01311	hypothetical protein
 E8ZCX8	LBPJGIKI_01312	hypothetical protein
 B2IRZ0	LBPJGIKI_01313	hypothetical protein
 E8ZCR9	LBPJGIKI_01314	hypothetical protein
-	LBPJGIKI_01315	sRNA_0030
-	LBPJGIKI_01315	
 A0A0A8KY37	LBPJGIKI_01316	Translation elongation factor G
 B1IC82	LBPJGIKI_01317	hypothetical protein
 B7UTW8	LBPJGIKI_01318	hypothetical protein
 B2IQG0	LBPJGIKI_01319	hypothetical protein
-	LBPJGIKI_01320	pemK
-	LBPJGIKI_01320	
 P61624	LBPJGIKI_01321	hypothetical protein
 B2IS01	LBPJGIKI_01322	Transposase from transposon Tn916
 D6CHQ3	LBPJGIKI_01323	hypothetical protein
@@ -1452,8 +1256,6 @@ A0A060QNN8	LBPJGIKI_01352	Tn5252 Orf10 protein
 D6CHM4	LBPJGIKI_01353	Tn5252 Orf9 protein
 A0A060QSN4	LBPJGIKI_01354	hypothetical protein
 A0A060QNC6	LBPJGIKI_01355	Putative repressor protein%2C phage associated
-	LBPJGIKI_01356	pemK
-	LBPJGIKI_01356	
 E6Y419	LBPJGIKI_01357	hypothetical protein
 A0A060QR60	LBPJGIKI_01358	Tyrosine recombinase XerC
 A0A0B7KLW0	LBPJGIKI_01359	50S ribosomal subunit maturation GTPase RbgA
@@ -1536,8 +1338,6 @@ B2IPP3	LBPJGIKI_01435	CAAX amino terminal protease family protein
 C1C7L9	LBPJGIKI_01436	Glutamine ABC transporter GlnHP5%2C containing substrate-binding and permease domains
 Q8DPK4	LBPJGIKI_01437	Glutamine transport ATP-binding protein GlnQ
 Q3HZR3	LBPJGIKI_01438	Glucose-6-phosphate 1-dehydrogenase
-	LBPJGIKI_01439	Srn266
-	LBPJGIKI_01439	
 A0A4P0AG60	LBPJGIKI_01440	IS1167 transposase Orf1
 A0A559A0J2	LBPJGIKI_01441	hypothetical protein
 A0A380LDN8	LBPJGIKI_01442	IS1167 transposase
@@ -1547,8 +1347,6 @@ A0A0B7L9P4	LBPJGIKI_01445	Hydrolase%2C HAD superfamily
 A0A0T7NLD5	LBPJGIKI_01446	Hydrolase%2C HAD superfamily
 A0A0T8KIP4	LBPJGIKI_01447	Chromosome partition protein SMC
 A0A0B7M364	LBPJGIKI_01448	Ribonuclease III
-	LBPJGIKI_01449	tRNA-Arg(ccg)
-	LBPJGIKI_01449	
 A0A0E7TTA4	LBPJGIKI_01450	GMP reductase
 A0AA95D7T2	LBPJGIKI_01451	Hypothetical protein
 A0A558Q4T0	LBPJGIKI_01452	Endonuclease
@@ -1578,27 +1376,19 @@ A0A0T9HB15	LBPJGIKI_01475	Carbamoyl-phosphate synthase large chain CarB
 A0A0T9H3P9	LBPJGIKI_01476	Carbamoyl-phosphate synthase small chain CarA
 C1C7Q5	LBPJGIKI_01477	Aspartate carbamoyltransferase
 Q04K45	LBPJGIKI_01478	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
-	LBPJGIKI_01479	PyrR
-	LBPJGIKI_01479	
 A0A0T8T4X7	LBPJGIKI_01480	Endonuclease III
 C1C7Q8	LBPJGIKI_01481	Protein%2C clustered with ribosomal protein L32p
 A0A0I8L019	LBPJGIKI_01482	BlpT protein
-	LBPJGIKI_01483	SpF43_sRNA
-	LBPJGIKI_01483	
 A0A0T9H3L2	LBPJGIKI_01484	ABC transporter ATP-binding protein
 C1CL18	LBPJGIKI_01485	Heat shock protein HtpX
 Q8DPH4	LBPJGIKI_01486	LemA
 B2IQ76	LBPJGIKI_01487	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
-	LBPJGIKI_01488	SpF44_sRNA
-	LBPJGIKI_01488	
 A0A0T9IJM8	LBPJGIKI_01489	Uracil permease
 A0A4F7KXU7	LBPJGIKI_01490	Signal recognition particle protein Ffh
 C1C7R8	LBPJGIKI_01491	Signal recognition particle associated protein
 A0A0B7LX59	LBPJGIKI_01492	Hypothetical protein
 C1C7S0	LBPJGIKI_01493	dNTP triphosphohydrolase
 C1C7S1	LBPJGIKI_01494	Sugar phosphatase YidA
-	LBPJGIKI_01495	tRNA-Arg(cct)
-	LBPJGIKI_01495	
 Q97QC6	LBPJGIKI_01496	LSU ribosomal protein L19p
 A0A0B7L7B2	LBPJGIKI_01497	ClC-type fluoride channel
 A0A0B7KY55	LBPJGIKI_01498	ClC-type fluoride channel
@@ -1631,18 +1421,12 @@ C1CES9	LBPJGIKI_01524	N-acetylmannosamine kinase
 A0A0H2UQN2	LBPJGIKI_01525	Oxidoreductase
 A0A6I3UYR6	LBPJGIKI_01526	Sialidase
 C1CET2	LBPJGIKI_01527	Putative beta-D-galactosidase
-	LBPJGIKI_01528	tRNA-Phe(aaa)
-	LBPJGIKI_01528	
 C1CET4	LBPJGIKI_01529	4-hydroxy-tetrahydrodipicolinate synthase
 Q97Q95	LBPJGIKI_01530	N-acetylmannosamine-6-phosphate 2-epimerase
 C1CET6	LBPJGIKI_01531	Sialic acid utilization regulator%2C RpiR family
 B1ICE4	LBPJGIKI_01532	Tn5253 putative CAAX amino terminal protease
-	LBPJGIKI_01533	rli38
-	LBPJGIKI_01533	
 Q04JZ4	LBPJGIKI_01534	LSU ribosomal protein L7/L12 (P1/P2)
 Q04JZ3	LBPJGIKI_01535	LSU ribosomal protein L10p (P0)
-	LBPJGIKI_01536	L10_leader
-	LBPJGIKI_01536	
 A0A0H2UQG0	LBPJGIKI_01537	Methylthioadenosine deaminase
 A0A0H2UQN6	LBPJGIKI_01538	ABC transporter ATP-binding/permease protein
 A0A0T9I8N2	LBPJGIKI_01539	ABC transporter ATP-binding/permease protein
@@ -1727,8 +1511,6 @@ A0A654UCG4	LBPJGIKI_01617	hypothetical protein
 A0A0E7Z8M3	LBPJGIKI_01618	hypothetical protein
 A0A0T9HGD3	LBPJGIKI_01619	IS66 family transposase Orf2
 C1C841	LBPJGIKI_01620	IS66 family transposase Orf1
-	LBPJGIKI_01621	SpR18_sRNA
-	LBPJGIKI_01621	
 Q04JQ8	LBPJGIKI_01622	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
 C1CF30	LBPJGIKI_01623	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 A0A0U0EYI6	LBPJGIKI_01624	Drug/metabolite transporter superfamily protein
@@ -1759,8 +1541,6 @@ Q8DP67	LBPJGIKI_01648	Hypothetical protein
 A0A9P1Q0D2	LBPJGIKI_01649	Glycyl-tRNA synthetase beta chain
 A0A0T7L8W4	LBPJGIKI_01650	Glycyl-tRNA synthetase alpha chain
 A0A0T9GYM5	LBPJGIKI_01651	hypothetical protein
-	LBPJGIKI_01652	SpR19_sRNA
-	LBPJGIKI_01652	
 B2IQU4	LBPJGIKI_01653	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
 B2IQU5	LBPJGIKI_01654	Peptidoglycan N-acetylglucosamine deacetylase
 C1CF62	LBPJGIKI_01655	hypothetical protein
@@ -1797,8 +1577,6 @@ C1CD82	LBPJGIKI_01685	Pyruvate oxidase
 A0A0H2UP76	LBPJGIKI_01686	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
 A0A0E7ZYT2	LBPJGIKI_01687	Copper-exporting ATPase
 A0A0D6J8P4	LBPJGIKI_01688	Negative transcriptional regulator of copper transport operon
-	LBPJGIKI_01689	TPP
-	LBPJGIKI_01689	
 A0A0T8WTB9	LBPJGIKI_01690	Hydroxymethylpyrimidine phosphate kinase ThiD
 C1CD77	LBPJGIKI_01691	Thiamin-phosphate pyrophosphorylase
 B1IAP6	LBPJGIKI_01692	Hydroxyethylthiazole kinase
@@ -1807,13 +1585,9 @@ B1IAP4	LBPJGIKI_01694	Thiaminase II TenA
 Q8DQK1	LBPJGIKI_01695	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 B1IAP2	LBPJGIKI_01696	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 C1CD71	LBPJGIKI_01697	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
-	LBPJGIKI_01698	TPP
-	LBPJGIKI_01698	
 Q97RS5	LBPJGIKI_01699	Thiamin-phosphate pyrophosphorylase
 A0A5C5EIW9	LBPJGIKI_01700	Hydroxyethylthiazole kinase
 Q8DQK6	LBPJGIKI_01701	Thiaminase II
-	LBPJGIKI_01702	TPP
-	LBPJGIKI_01702	
 Q8DQK7	LBPJGIKI_01703	L-Lactate 2-monooxygenase
 Q8CWS5	LBPJGIKI_01704	Class II lysyl-tRNA synthetase
 B2IN94	LBPJGIKI_01705	L-Lactate 2-monooxygenase
@@ -1829,8 +1603,6 @@ A0A0D6J942	LBPJGIKI_01714	Hypothetical protein
 A0A0B7LBR9	LBPJGIKI_01715	Hypothetical protein
 P0CB78	LBPJGIKI_01716	Orotate phosphoribosyltransferase
 A0A0U0K5C5	LBPJGIKI_01717	Orotidine 5'-phosphate decarboxylase
-	LBPJGIKI_01718	PyrR
-	LBPJGIKI_01718	
 A0A0T8RQ97	LBPJGIKI_01719	Cell division protein DivIB
 C1CQG5	LBPJGIKI_01720	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
 A0A0T9IHF4	LBPJGIKI_01721	UDP-N-acetylmuramoylalanine--D-glutamate ligase
@@ -1869,8 +1641,6 @@ B1IAJ3	LBPJGIKI_01753	Putative rRNA methylase YtqB
 A0A0T9H7S6	LBPJGIKI_01754	hypothetical protein
 A0A4M9XIK4	LBPJGIKI_01755	hypothetical protein
 A0A0B7L9V0	LBPJGIKI_01756	Hypothetical protein
-	LBPJGIKI_01757	SpF25_sRNA
-	LBPJGIKI_01757	
 A0A0T9H7Q0	LBPJGIKI_01758	hypothetical protein
 A0A0T7L5Q6	LBPJGIKI_01759	hypothetical protein
 A0A0T9H0R6	LBPJGIKI_01760	Beta-galactosidase BgaA
@@ -1885,8 +1655,6 @@ Q8DQP9	LBPJGIKI_01768	Antibiotic ABC transporter permease protein
 Q8DQQ0	LBPJGIKI_01769	ABC transporter ATP-binding protein
 A0A0U0GZ72	LBPJGIKI_01770	Hypothetical protein
 A0A4G1W6E5	LBPJGIKI_01771	Hypothetical protein
-	LBPJGIKI_01772	Intron_gpII
-	LBPJGIKI_01772	
 Q04LP6	LBPJGIKI_01773	LSU ribosomal protein L1p (L10Ae)
 A0A0B7MF37	LBPJGIKI_01774	LSU ribosomal protein L11p (L12e)
 A0A4M3K0E5	LBPJGIKI_01775	Hypothetical protein
@@ -1894,8 +1662,6 @@ A0AAD2IL23	LBPJGIKI_01776	L%2CD-carboxypeptidase
 A0AAD2IJ04	LBPJGIKI_01777	Histidine triad family protein
 A0A0E8SZL0	LBPJGIKI_01778	Deblocking aminopeptidase
 C1C5Z4	LBPJGIKI_01779	Branched-chain amino acid transport system carrier protein
-	LBPJGIKI_01780	SpF22_sRNA
-	LBPJGIKI_01780	
 Q8CZ26	LBPJGIKI_01781	hypothetical protein
 A0A0H2UP01	LBPJGIKI_01782	Uracil-DNA glycosylase
 A0A0H2UP69	LBPJGIKI_01783	Dipeptidase PepV
@@ -1920,8 +1686,6 @@ A0A098Z2Q4	LBPJGIKI_01801	Two-component system response regulator VncR
 Q9S4J0	LBPJGIKI_01802	Peptide ABC transporter membrane-spanning permease Vex3
 A0A098Z2X1	LBPJGIKI_01803	ABC transporter ATP-binding protein Vex2
 C1C5W8	LBPJGIKI_01804	Peptide ABC transporter membrane-spanning permease Vex1
-	LBPJGIKI_01805	Intron_gpII
-	LBPJGIKI_01805	
 A0A0U0QBM5	LBPJGIKI_01806	hypothetical protein
 B1IAB4	LBPJGIKI_01807	Leucine rich protein
 Q8DQS7	LBPJGIKI_01808	Mini-ribonuclease III
@@ -1940,8 +1704,6 @@ A0A0T8P6P1	LBPJGIKI_01820	Phenylalanyl-tRNA synthetase alpha chain
 A0A0H2UP35	LBPJGIKI_01821	6-phospho-beta-glucosidase
 A0A0U0QBM2	LBPJGIKI_01822	Beta-glucoside-specific PTS IIBCA components
 B2IMP8	LBPJGIKI_01823	Beta-glucoside bgl operon antiterminator BglG
-	LBPJGIKI_01824	SpF19_sRNA
-	LBPJGIKI_01824	
 A0A0T9GJ80	LBPJGIKI_01825	hypothetical protein
 A0A0T9GJ63	LBPJGIKI_01826	hypothetical protein
 A0A0I7PLF8	LBPJGIKI_01827	hypothetical protein
@@ -1992,8 +1754,6 @@ C1CCR3	LBPJGIKI_01871	ABC transporter ATP-binding protein EcsA
 A0A0B7MB57	LBPJGIKI_01872	Histidine triad nucleotide-binding protein
 Q8CZ48	LBPJGIKI_01873	Hypothetical protein
 A0A0U0H6N7	LBPJGIKI_01874	Chaperone protein DnaJ
-	LBPJGIKI_01875	SpF14_sRNA
-	LBPJGIKI_01875	
 A0A0T8D8M9	LBPJGIKI_01876	Hypothetical protein
 A0A0T9I7B3	LBPJGIKI_01877	Chaperone protein DnaK
 B2IMB4	LBPJGIKI_01878	Heat shock protein GrpE
@@ -2021,11 +1781,7 @@ B1IA30	LBPJGIKI_01899	Hypothetical protein
 B2IM95	LBPJGIKI_01900	Hypothetical protein
 A0A0D6J3F1	LBPJGIKI_01901	Membrane-associated phospholipid phosphatase
 A0AA86XGY0	LBPJGIKI_01902	Substrate-specific component RibU of riboflavin ECF transporter
-	LBPJGIKI_01903	FMN
-	LBPJGIKI_01903	
 A0A0H2UNS5	LBPJGIKI_01904	tRNA (cytidine(34)-2'-O)-methyltransferase
-	LBPJGIKI_01905	23S-methyl
-	LBPJGIKI_01905	
 C1CCN3	LBPJGIKI_01906	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
 A0A4J2DND0	LBPJGIKI_01907	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 A0A4J1MZ58	LBPJGIKI_01908	Hypothetical protein
@@ -2042,8 +1798,6 @@ A0A0T9ZW23	LBPJGIKI_01918	Xylose repressor protein
 A0A0T8EWA9	LBPJGIKI_01919	Hypothetical protein
 Q8DQZ5	LBPJGIKI_01920	Hypothetical protein
 B1I9R0	LBPJGIKI_01921	hypothetical protein
-	LBPJGIKI_01922	Srn266
-	LBPJGIKI_01922	
 C1C9F2	LBPJGIKI_01923	IS1167 transposase Orf1
 A0A4J1XTQ5	LBPJGIKI_01924	IS1167 transposase Orf2
 A7KT57	LBPJGIKI_01925	hypothetical protein
@@ -2053,8 +1807,6 @@ A7KT26	LBPJGIKI_01928	hypothetical protein
 A7KT74	LBPJGIKI_01929	hypothetical protein
 A7KT66	LBPJGIKI_01930	hypothetical protein
 B1I9Q2	LBPJGIKI_01931	hypothetical protein
-	LBPJGIKI_01932	Srn266
-	LBPJGIKI_01932	
 B1I9Q1	LBPJGIKI_01933	IS1167 transposase
 Q8DQZ6	LBPJGIKI_01934	Pyruvate formate-lyase
 A0A0T9I9G4	LBPJGIKI_01935	DNA polymerase IV
@@ -2085,8 +1837,6 @@ Q8DR12	LBPJGIKI_01959	Alkaline shock protein
 A0A0B7L0X4	LBPJGIKI_01960	Transcription termination protein NusB
 B2IQ27	LBPJGIKI_01961	IS1167 transposase Orf2
 A0A4J1X000	LBPJGIKI_01962	IS1167 transposase
-	LBPJGIKI_01963	Srn266
-	LBPJGIKI_01963	
 A0A0T9HSK7	LBPJGIKI_01964	hypothetical protein
 A0A0I8RVJ1	LBPJGIKI_01965	Hypothetical protein
 A0A064BZA7	LBPJGIKI_01966	Acetyl-coenzyme A carboxyl transferase alpha chain
@@ -2108,8 +1858,6 @@ C1CIR2	LBPJGIKI_01981	Seryl-tRNA synthetase
 Q8DR23	LBPJGIKI_01982	Exfoliative toxin A
 Q8DR24	LBPJGIKI_01983	Macrophage infectivity potentiator protein
 A0A0I6C300	LBPJGIKI_01984	Sodium/glycine symporter GlyP
-	LBPJGIKI_01985	Glycine
-	LBPJGIKI_01985	
 A0A4J1ZFH6	LBPJGIKI_01986	Recombination inhibitory protein MutS2
 A0A0U0H759	LBPJGIKI_01987	IS4 family transposase ISSsu2
 A0A0T7ZGK7	LBPJGIKI_01988	IS4 family transposase ISSsu2
@@ -2147,8 +1895,6 @@ B2ILR8	LBPJGIKI_02019	Orphan response regulator RitR
 A0A0T9HRS5	LBPJGIKI_02020	6-phosphogluconate dehydrogenase%2C decarboxylating
 A0A0T8G9C9	LBPJGIKI_02021	Mid-cell-anchored protein Z
 A0A0B7MBB7	LBPJGIKI_02022	23S rRNA (guanine(2445)-N(2))-methyltransferase
-	LBPJGIKI_02023	RNaseP_bact_b
-	LBPJGIKI_02023	
 Q97SI9	LBPJGIKI_02024	Cell division protein GpsB
 Q8DR58	LBPJGIKI_02025	Hypothetical protein
 T2BPQ7	LBPJGIKI_02026	RecU Holliday junction resolvase
@@ -2206,11 +1952,7 @@ A0A0T7ZGK7	LBPJGIKI_02077	IS4 family transposase ISSsu2
 A0A0U0H759	LBPJGIKI_02078	IS4 family transposase ISSsu2
 A0A4P0A3L8	LBPJGIKI_02079	Hyaluronate lyase precursor SpnHL
 A0A0B7M5K6	LBPJGIKI_02080	Glutathione peroxidase family protein
-	LBPJGIKI_02081	SpF11_sRNA
-	LBPJGIKI_02081	
 A0A0E8Z0L1	LBPJGIKI_02082	Maltodextrin glucosidase
-	LBPJGIKI_02083	SpF10_sRNA
-	LBPJGIKI_02083	
 A0A655GS10	LBPJGIKI_02084	IS1380 family transposase ISSpn5
 A0A0B7MBD8	LBPJGIKI_02085	Cellobiose-specific PTS IIC component
 A0A0B7MAQ0	LBPJGIKI_02086	Hypothetical protein
@@ -2222,8 +1964,6 @@ A0A6I3U6L3	LBPJGIKI_02091	6-phospho-beta-glucosidase
 A0A064BVQ4	LBPJGIKI_02092	Hypothetical protein
 Q8CWU4	LBPJGIKI_02093	SSU ribosomal protein S9p (S16e)
 Q8CWU5	LBPJGIKI_02094	LSU ribosomal protein L13p (L13Ae)
-	LBPJGIKI_02095	L13_leader
-	LBPJGIKI_02095	
 Q8CZ79	LBPJGIKI_02096	Hypothetical protein
 C1CC82	LBPJGIKI_02097	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 P51595	LBPJGIKI_02098	GTP cyclohydrolase I type 1
@@ -2255,14 +1995,8 @@ A0A0B7L2A5	LBPJGIKI_02123	Prolyl-tRNA synthetase
 Q8DRB1	LBPJGIKI_02124	Intramembrane protease Eep
 C1CB37	LBPJGIKI_02125	Phosphatidate cytidylyltransferase
 Q8DRB3	LBPJGIKI_02126	Undecaprenyl diphosphate synthase
-	LBPJGIKI_02127	csRNA
-	LBPJGIKI_02127	
 C1CC51	LBPJGIKI_02128	Hypothetical protein
 Q8CWU7	LBPJGIKI_02129	Holliday junction DNA helicase RuvB
-	LBPJGIKI_02130	csRNA
-	LBPJGIKI_02130	
-	LBPJGIKI_02131	csRNA
-	LBPJGIKI_02131	
 B1I8Y5	LBPJGIKI_02132	Acetyltransferase%2C GNAT family
 B1I8Y4	LBPJGIKI_02133	Acetyltransferase%2C GNAT family
 B1I8Y3	LBPJGIKI_02134	hypothetical protein
@@ -2282,12 +2016,8 @@ A0A6G2D9G8	LBPJGIKI_02147	Ferric iron ABC transporter ATP-binding protein
 A0AAE9U2Z6	LBPJGIKI_02148	Iron(III)-transport system permease protein SfuB
 B2IS61	LBPJGIKI_02149	Iron(III)-transport system permease protein SfuB
 B1I8M8	LBPJGIKI_02150	Phosphoglycerate mutase family protein
-	LBPJGIKI_02151	csRNA
-	LBPJGIKI_02151	
 Q97ST4	LBPJGIKI_02152	hypothetical protein
 C1CC34	LBPJGIKI_02153	ACT domain-containing transcriptional regulator
-	LBPJGIKI_02154	L17DE
-	LBPJGIKI_02154	
 Q8CWU8	LBPJGIKI_02155	LSU ribosomal protein L17p
 Q04ML1	LBPJGIKI_02156	DNA-directed RNA polymerase alpha subunit
 Q04ML2	LBPJGIKI_02157	SSU ribosomal protein S11p (S14e)
@@ -2341,8 +2071,6 @@ A0AA47CMU8	LBPJGIKI_02204	Muramoyltetrapeptide carboxypeptidase
 A0A0I9JB42	LBPJGIKI_02205	CAAX amino terminal protease family protein
 A0A0B7M4M9	LBPJGIKI_02206	DNA-3-methyladenine glycosylase
 Q97SY4	LBPJGIKI_02207	Holliday junction DNA helicase RuvA
-	LBPJGIKI_02208	FMN
-	LBPJGIKI_02208	
 A0A0D6J4V4	LBPJGIKI_02209	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
 B2IS13	LBPJGIKI_02210	Riboflavin synthase RibE
 C1CBY0	LBPJGIKI_02211	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
@@ -2355,8 +2083,6 @@ A0A558ZTP0	LBPJGIKI_02217	hypothetical protein
 A0A4J2DEC5	LBPJGIKI_02218	hypothetical protein
 A0AA86XRB6	LBPJGIKI_02219	hypothetical protein
 A0A4J2FYN9	LBPJGIKI_02220	Putative transcriptional regulator PlcR
-	LBPJGIKI_02221	SpF56_sRNA
-	LBPJGIKI_02221	
 C1CBX7	LBPJGIKI_02222	DNA-binding protein
 Q8CZ92	LBPJGIKI_02223	Hypothetical protein
 B2IS07	LBPJGIKI_02224	NRAMP family Mn2+/Fe2+ transporter
@@ -2386,8 +2112,6 @@ C1CBV4	LBPJGIKI_02247	ABC transporter ATP-binding protein
 A0A4L1JLT3	LBPJGIKI_02248	Family 2 glycosyltransferase
 A0A2R2HX22	LBPJGIKI_02249	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 A0AA86Y2L2	LBPJGIKI_02250	Exopolysaccharide biosynthesis glycosyltransferase EpsF
-	LBPJGIKI_02251	Srn266
-	LBPJGIKI_02251	
 A0A4J1XA70	LBPJGIKI_02252	IS1167 transposase
 C1CBV1	LBPJGIKI_02253	IS1167 transposase Orf2
 A0A4N2RKP1	LBPJGIKI_02254	N(6)-L-threonylcarbamoyladenine synthase TsaD
@@ -2400,16 +2124,10 @@ B1I837	LBPJGIKI_02260	Hypothetical protein
 A0A0E8HAF7	LBPJGIKI_02261	Ribonuclease J1 (endonuclease and 5' exonuclease)
 C1CBU2	LBPJGIKI_02262	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 C1CBU1	LBPJGIKI_02263	MutT/Nudix family protein
-	LBPJGIKI_02264	Spd-sr37
-	LBPJGIKI_02264	
 C1CI29	LBPJGIKI_02265	tRNA-specific 2-thiouridylase MnmA
 A0A1W6AYZ7	LBPJGIKI_02266	Surface protein PspA precursor
 A0A0D6J4Z7	LBPJGIKI_02267	hypothetical protein
 C1CBT8	LBPJGIKI_02268	hypothetical protein
-	LBPJGIKI_02269	Bacilli-1
-	LBPJGIKI_02269	
-	LBPJGIKI_02270	SpF03_sRNA
-	LBPJGIKI_02270	
 A0A4J1QTX9	LBPJGIKI_02271	Pyridoxamine 5'-phosphate oxidase
 A0A4J1UK32	LBPJGIKI_02272	Hypothetical protein
 A0A5R9AVG2	LBPJGIKI_02273	Hypothetical protein
@@ -2422,17 +2140,11 @@ A0A0E9A260	LBPJGIKI_02279	Hypothetical protein
 A0A4F8JWC9	LBPJGIKI_02280	hypothetical protein
 A0A0T8KQ01	LBPJGIKI_02281	Lactococcin-G-processing and transport ATP-binding protein LagD
 A0AA36V981	LBPJGIKI_02282	Hypothetical protein
-	LBPJGIKI_02283	SpF03_sRNA
-	LBPJGIKI_02283	
 A0A0T7NN28	LBPJGIKI_02284	Hypothetical protein
 A0A0B7LHA5	LBPJGIKI_02285	Hypothetical protein
-	LBPJGIKI_02286	Srn266
-	LBPJGIKI_02286	
 A0A4J1X8U4	LBPJGIKI_02287	IS1167 transposase Orf1
 A0AA95D7A8	LBPJGIKI_02288	hypothetical protein
 A0AA95IJ56	LBPJGIKI_02289	IS1167 transposase
-	LBPJGIKI_02290	Bacilli-1
-	LBPJGIKI_02290	
 A0A6I3VHX5	LBPJGIKI_02291	Argininosuccinate synthase
 B2IRI9	LBPJGIKI_02292	Amino acid ABC transporter substrate-binding/permease protein
 Q8DRI7	LBPJGIKI_02293	ABC transporter ATP-binding protein
@@ -2455,8 +2167,6 @@ B2IRH0	LBPJGIKI_02309	ABC transporter substrate-binding protein
 B2IRG9	LBPJGIKI_02310	ABC transporter permease protein
 Q8DRJ8	LBPJGIKI_02311	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 A0A559G0I4	LBPJGIKI_02312	hypothetical protein
-	LBPJGIKI_02313	SpF01_sRNA
-	LBPJGIKI_02313	
 Q04MZ3	LBPJGIKI_02314	SSU ribosomal protein S4p (S9e)
 A0A0E7TVM4	LBPJGIKI_02315	Two-component system sensor histidine kinase
 B2IRG2	LBPJGIKI_02316	Two-component system response regulator
@@ -2507,8 +2217,6 @@ A0A0T9HBH5	LBPJGIKI_02360	CoA-binding protein
 A0A6G2DBM1	LBPJGIKI_02361	DNA polymerase I
 A0A0B7L6Z9	LBPJGIKI_02362	hypothetical protein
 A0A0T8NRU7	LBPJGIKI_02363	hypothetical protein
-	LBPJGIKI_02364	Srn266
-	LBPJGIKI_02364	
 A0A0U0IDH7	LBPJGIKI_02365	hypothetical protein
 B2IR17	LBPJGIKI_02366	Ribose-phosphate pyrophosphokinase
 A0A0T9IXJ0	LBPJGIKI_02367	hypothetical protein
@@ -2516,8 +2224,6 @@ C1CHC1	LBPJGIKI_02368	Carbonic anhydrase
 C1CHC0	LBPJGIKI_02369	DNA repair protein RadA
 A0A0U0QB31	LBPJGIKI_02370	Hypothetical protein
 Q8DRP2	LBPJGIKI_02371	Deoxyuridine 5'-triphosphate nucleotidohydrolase
-	LBPJGIKI_02372	Bacteria_small_SRP
-	LBPJGIKI_02372	
 A0A0T7NMR3	LBPJGIKI_02373	tRNA-specific adenosine-34 deaminase
 A0A0B7M596	LBPJGIKI_02374	hypothetical protein
 C1CHB7	LBPJGIKI_02375	hypothetical protein
@@ -2572,23 +2278,9 @@ A0A4J1VGC2	LBPJGIKI_02423	hypothetical protein
 A0AA36VAF7	LBPJGIKI_02424	hypothetical protein
 A0A0E8ZQQ3	LBPJGIKI_02425	hypothetical protein
 A0A4F8KXC3	LBPJGIKI_02426	Tyrosine recombinase XerC
-	LBPJGIKI_02427	csRNA
-	LBPJGIKI_02427	
 C1CHA1	LBPJGIKI_02428	Adenylosuccinate synthetase
 A0A0T9H8J6	LBPJGIKI_02429	Competence positive regulator ComW
 A0A0T9GWL8	LBPJGIKI_02430	IS1167 transposase Orf1
-	LBPJGIKI_02431	tRNA-Asn(gtt)
-	LBPJGIKI_02431	
-	LBPJGIKI_02432	5S ribosomal RNA
-	LBPJGIKI_02432	
-	LBPJGIKI_02433	23S ribosomal RNA
-	LBPJGIKI_02433	
-	LBPJGIKI_02434	tRNA-Ala(tgc)
-	LBPJGIKI_02434	
-	LBPJGIKI_02435	16S ribosomal RNA
-	LBPJGIKI_02435	
-	LBPJGIKI_02436	tRNA-Glu(ttc)
-	LBPJGIKI_02436	
 A0A0B7L0R5	LBPJGIKI_02437	Competence-specific sigma factor ComX
 P59652	LBPJGIKI_02438	Cell division protein FtsH
 C1C993	LBPJGIKI_02439	Hypoxanthine-guanine phosphoribosyltransferase

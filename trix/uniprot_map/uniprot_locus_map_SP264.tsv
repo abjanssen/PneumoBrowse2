@@ -5,15 +5,9 @@ Q8DRQ4	JDJMKJEM_00003	Chromosomal replication initiator protein DnaA
 A0A0B7LQV2	JDJMKJEM_00004	Chromosome partitioning protein ParB
 B2IP00	JDJMKJEM_00005	Serine protease%2C DegP/HtrA
 Q04HU2	JDJMKJEM_00006	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
-	JDJMKJEM_00007	tRNA-Arg(tct)
-	JDJMKJEM_00007	
 Q9WW44	JDJMKJEM_00008	Competence-stimulating peptide precursor ComC
 C1CHN6	JDJMKJEM_00009	Two-component system sensor histidine kinase ComD
 Q8DMW5	JDJMKJEM_00010	Two-component system response regulator ComE
-	JDJMKJEM_00011	tRNA-Glu(ttc)
-	JDJMKJEM_00011	
-	JDJMKJEM_00012	tRNA-Asn(gtt)
-	JDJMKJEM_00012	
 Q8DMW6	JDJMKJEM_00013	Transcriptional regulator%2C AcrR family
 A0A4J1Z877	JDJMKJEM_00014	hypothetical protein
 A0A4M6DWY3	JDJMKJEM_00015	hypothetical protein
@@ -35,8 +29,6 @@ C1CHL6	JDJMKJEM_00030	Cell shape-determining protein MreD
 C1CHL5	JDJMKJEM_00031	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
 C1CUD2	JDJMKJEM_00032	SSU ribosomal protein S2p (SAe)
 Q04HW4	JDJMKJEM_00033	Translation elongation factor Ts
-	JDJMKJEM_00034	SpF51_sRNA
-	JDJMKJEM_00034	
 A0A559A4Q6	JDJMKJEM_00035	IS66 family transposase Orf2
 A0A4M6DX03	JDJMKJEM_00036	IS630 family transposase ISSpn2
 A0A264SBY9	JDJMKJEM_00037	hypothetical protein
@@ -50,8 +42,6 @@ Q04HX2	JDJMKJEM_00044	LSU ribosomal protein L9p
 Q8DMZ2	JDJMKJEM_00045	Replicative DNA helicase DnaC
 Q8DMZ3	JDJMKJEM_00046	Hypothetical protein
 B2INL9	JDJMKJEM_00047	Choline-binding protein D
-	JDJMKJEM_00048	TPP
-	JDJMKJEM_00048	
 B1IA12	JDJMKJEM_00049	Cytoplasmic thiamin-binding component of thiamin ABC transporter
 B1IA11	JDJMKJEM_00050	Thiamin ABC transporter ThiX%2C transmembrane component
 Q8DMZ7	JDJMKJEM_00051	Thiamin ABC transporter ThiY%2C substrate-binding component
@@ -71,10 +61,6 @@ A0AAD2Q881	JDJMKJEM_00064	Glycerol uptake facilitator protein
 Q8CY60	JDJMKJEM_00065	hypothetical protein
 B1I9Z2	JDJMKJEM_00066	Hypothetical protein
 A0A4J1NJ06	JDJMKJEM_00067	hypothetical protein
-	JDJMKJEM_00068	group-II-D1D4-3
-	JDJMKJEM_00068	
-	JDJMKJEM_00069	group-II-D1D4-1
-	JDJMKJEM_00069	
 A0A4J1X5D2	JDJMKJEM_00070	Group II intron-encoded protein LtrA
 A0A4J1TZW7	JDJMKJEM_00071	hypothetical protein
 A0AA95IJM4	JDJMKJEM_00072	hypothetical protein
@@ -87,10 +73,6 @@ A0A0B7LWX5	JDJMKJEM_00078	Transcriptional repressor AdcR for Zn(2+)-responsive e
 B2INJ0	JDJMKJEM_00079	Zinc ABC transporter%2C ATP-binding protein AdcC
 O33704	JDJMKJEM_00080	Zinc ABC transporter%2C permease protein AdcB
 A0A6I3UPZ2	JDJMKJEM_00081	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
-	JDJMKJEM_00082	SpF66_sRNA
-	JDJMKJEM_00082	
-	JDJMKJEM_00083	SpF66_sRNA
-	JDJMKJEM_00083	
 A0A0B7LC33	JDJMKJEM_00084	L-fucose operon activator
 A0A4J2BSX0	JDJMKJEM_00085	L-fuculokinase
 A0A558TAT7	JDJMKJEM_00086	L-fuculose phosphate aldolase
@@ -124,8 +106,6 @@ A0A4J1QMV3	JDJMKJEM_00113	hypothetical protein
 C1CH70	JDJMKJEM_00114	hypothetical protein
 A0AAE4FXB9	JDJMKJEM_00115	Choline-binding protein CbpN
 C1CCX0	JDJMKJEM_00116	IS1167 transposase
-	JDJMKJEM_00117	Srn266
-	JDJMKJEM_00117	
 Q04I36	JDJMKJEM_00118	LSU ribosomal protein L33p
 Q8CWN3	JDJMKJEM_00119	LSU ribosomal protein L32p
 Q8CY67	JDJMKJEM_00120	Hypothetical protein
@@ -153,8 +133,6 @@ C1CH45	JDJMKJEM_00141	Hypothetical protein
 C1CH44	JDJMKJEM_00142	Aspartyl-tRNA synthetase
 C1CH43	JDJMKJEM_00143	Integral membrane protein
 A0A4J1TGD8	JDJMKJEM_00144	Hypothetical protein
-	JDJMKJEM_00145	Srn266
-	JDJMKJEM_00145	
 A0A6G2D532	JDJMKJEM_00146	IS1167 transposase
 C1CH41	JDJMKJEM_00147	Maltose operon transcriptional repressor MalR%2C LacI family
 C1CH40	JDJMKJEM_00148	Maltodextrose utilization protein MalA
@@ -191,8 +169,6 @@ A0A6I3T908	JDJMKJEM_00178	Putative cupin superfamily protein
 A0A4G4E311	JDJMKJEM_00179	IS1381 transposase OrfB
 Q8DN69	JDJMKJEM_00180	Arginyl-tRNA synthetase
 P0A2Y3	JDJMKJEM_00181	Arginine pathway regulatory protein ArgR1
-	JDJMKJEM_00182	SpR10_sRNA
-	JDJMKJEM_00182	
 B2IMZ6	JDJMKJEM_00183	DNA mismatch repair protein HexA
 C1CH05	JDJMKJEM_00184	Multidrug resistance ABC transporter ATP-binding and permease protein
 A0A0B7LCX1	JDJMKJEM_00185	hypothetical protein
@@ -201,38 +177,6 @@ C1CH02	JDJMKJEM_00187	Glutamine amidotransferase%2C class I
 C1CH00	JDJMKJEM_00188	Glucose-6-phosphate isomerase
 C1CGZ9	JDJMKJEM_00189	Glutamyl-tRNA synthetase
 C1CGZ8	JDJMKJEM_00190	Cytidine/deoxycytidylate deaminase family protein
-	JDJMKJEM_00191	tRNA-Glu(ttc)
-	JDJMKJEM_00191	
-	JDJMKJEM_00192	16S ribosomal RNA
-	JDJMKJEM_00192	
-	JDJMKJEM_00193	tRNA-Ala(tgc)
-	JDJMKJEM_00193	
-	JDJMKJEM_00194	23S ribosomal RNA
-	JDJMKJEM_00194	
-	JDJMKJEM_00195	5S ribosomal RNA
-	JDJMKJEM_00195	
-	JDJMKJEM_00196	tRNA-Val(tac)
-	JDJMKJEM_00196	
-	JDJMKJEM_00197	tRNA-Gly(tcc)
-	JDJMKJEM_00197	
-	JDJMKJEM_00198	tRNA-Ile(gat)
-	JDJMKJEM_00198	
-	JDJMKJEM_00199	tRNA-Ser(tga)
-	JDJMKJEM_00199	
-	JDJMKJEM_00200	tRNA-Met(cat)
-	JDJMKJEM_00200	
-	JDJMKJEM_00201	tRNA-Phe(gaa)
-	JDJMKJEM_00201	
-	JDJMKJEM_00202	tRNA-Tyr(gta)
-	JDJMKJEM_00202	
-	JDJMKJEM_00203	tRNA-Trp(cca)
-	JDJMKJEM_00203	
-	JDJMKJEM_00204	tRNA-His(gtg)
-	JDJMKJEM_00204	
-	JDJMKJEM_00205	tRNA-Gln(ttg)
-	JDJMKJEM_00205	
-	JDJMKJEM_00206	tRNA-Leu(caa)
-	JDJMKJEM_00206	
 C1CGZ7	JDJMKJEM_00207	Hypothetical protein
 A0A0H2US33	JDJMKJEM_00208	Threonine synthase
 C1CGZ5	JDJMKJEM_00209	Multi antimicrobial extrusion family transporter
@@ -293,34 +237,6 @@ C1CGU2	JDJMKJEM_00263	Multimodular transpeptidase-transglycosylase%2C penicillin
 Q8DNB7	JDJMKJEM_00264	Protein translocase subunit SecE
 C1CGT9	JDJMKJEM_00265	Transcription antitermination protein NusG
 Q9R2W8	JDJMKJEM_00266	Competence-specific sigma factor ComX
-	JDJMKJEM_00267	tRNA-Glu(ttc)
-	JDJMKJEM_00267	
-	JDJMKJEM_00268	16S ribosomal RNA
-	JDJMKJEM_00268	
-	JDJMKJEM_00269	tRNA-Ala(tgc)
-	JDJMKJEM_00269	
-	JDJMKJEM_00270	23S ribosomal RNA
-	JDJMKJEM_00270	
-	JDJMKJEM_00271	5S ribosomal RNA
-	JDJMKJEM_00271	
-	JDJMKJEM_00272	tRNA-Val(tac)
-	JDJMKJEM_00272	
-	JDJMKJEM_00273	tRNA-Asp(gtc)
-	JDJMKJEM_00273	
-	JDJMKJEM_00274	tRNA-Lys(ttt)
-	JDJMKJEM_00274	
-	JDJMKJEM_00275	tRNA-Leu(tag)
-	JDJMKJEM_00275	
-	JDJMKJEM_00276	tRNA-Thr(tgt)
-	JDJMKJEM_00276	
-	JDJMKJEM_00277	tRNA-Gly(gcc)
-	JDJMKJEM_00277	
-	JDJMKJEM_00278	tRNA-Leu(taa)
-	JDJMKJEM_00278	
-	JDJMKJEM_00279	tRNA-Arg(acg)
-	JDJMKJEM_00279	
-	JDJMKJEM_00280	tRNA-Pro(tgg)
-	JDJMKJEM_00280	
 C1CGT7	JDJMKJEM_00281	Hypothetical protein
 C1CGT6	JDJMKJEM_00282	Hypothetical protein
 A0A0H2URR2	JDJMKJEM_00283	ABC transporter%2C ATP-binding protein
@@ -364,10 +280,6 @@ A0A4M6CVU0	JDJMKJEM_00320	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 Q03159	JDJMKJEM_00321	Competence-associated EpuA protein
 C1CGP6	JDJMKJEM_00322	DNA-entry nuclease
 Q8DNE9	JDJMKJEM_00323	Putative hemolysin
-	JDJMKJEM_00324	tRNA-Cys(gca)
-	JDJMKJEM_00324	
-	JDJMKJEM_00325	Lacto-rpoB
-	JDJMKJEM_00325	
 A0A0B7LZ45	JDJMKJEM_00326	DNA-directed RNA polymerase beta subunit
 Q04IK7	JDJMKJEM_00327	DNA-directed RNA polymerase beta' subunit
 A0A0B7LBQ0	JDJMKJEM_00328	Nucleoside diphosphate kinase
@@ -423,62 +335,12 @@ Q04IQ3	JDJMKJEM_00377	Heat shock protein 60 family chaperone GroEL
 A0A4J1XM17	JDJMKJEM_00378	IS1167 transposase Orf2
 C1CE88	JDJMKJEM_00379	hypothetical protein
 A0A4J2F989	JDJMKJEM_00380	IS1167 transposase Orf1
-	JDJMKJEM_00381	Srn266
-	JDJMKJEM_00381	
 Q8CYC0	JDJMKJEM_00382	Hypothetical protein
-	JDJMKJEM_00383	Spy392987
-	JDJMKJEM_00383	
 B8ZNK8	JDJMKJEM_00384	Cysteinyl-tRNA synthetase related protein
 A0A5R9ATB6	JDJMKJEM_00385	Regulatory protein RecX
 C1CGD1	JDJMKJEM_00386	RNA methyltransferase%2C TrmA family
-	JDJMKJEM_00387	tRNA-Glu(ttc)
-	JDJMKJEM_00387	
-	JDJMKJEM_00388	16S ribosomal RNA
-	JDJMKJEM_00388	
-	JDJMKJEM_00389	tRNA-Ala(tgc)
-	JDJMKJEM_00389	
-	JDJMKJEM_00390	23S ribosomal RNA
-	JDJMKJEM_00390	
-	JDJMKJEM_00391	5S ribosomal RNA
-	JDJMKJEM_00391	
-	JDJMKJEM_00392	tRNA-Val(tac)
-	JDJMKJEM_00392	
-	JDJMKJEM_00393	tRNA-Asp(gtc)
-	JDJMKJEM_00393	
-	JDJMKJEM_00394	tRNA-Lys(ttt)
-	JDJMKJEM_00394	
-	JDJMKJEM_00395	tRNA-Leu(tag)
-	JDJMKJEM_00395	
-	JDJMKJEM_00396	tRNA-Thr(tgt)
-	JDJMKJEM_00396	
-	JDJMKJEM_00397	tRNA-Gly(gcc)
-	JDJMKJEM_00397	
-	JDJMKJEM_00398	tRNA-Leu(taa)
-	JDJMKJEM_00398	
-	JDJMKJEM_00399	tRNA-Arg(acg)
-	JDJMKJEM_00399	
-	JDJMKJEM_00400	tRNA-Pro(tgg)
-	JDJMKJEM_00400	
-	JDJMKJEM_00401	tRNA-Met(cat)
-	JDJMKJEM_00401	
-	JDJMKJEM_00402	tRNA-Met(cat)
-	JDJMKJEM_00402	
-	JDJMKJEM_00403	tRNA-Ser(tga)
-	JDJMKJEM_00403	
-	JDJMKJEM_00404	tRNA-Met(cat)
-	JDJMKJEM_00404	
-	JDJMKJEM_00405	tRNA-Phe(gaa)
-	JDJMKJEM_00405	
-	JDJMKJEM_00406	tRNA-Gly(tcc)
-	JDJMKJEM_00406	
-	JDJMKJEM_00407	tRNA-Ile(gat)
-	JDJMKJEM_00407	
-	JDJMKJEM_00408	tRNA-Ser(gct)
-	JDJMKJEM_00408	
 A0A4M6D5V0	JDJMKJEM_00409	IS1167 transposase Orf2
 C1CF90	JDJMKJEM_00410	IS1167 transposase
-	JDJMKJEM_00411	Srn266
-	JDJMKJEM_00411	
 A0A0E8P577	JDJMKJEM_00412	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0A0H2URT9	JDJMKJEM_00413	Multiple sugar metabolism operon regulatory protein MsmR
 A0A4J1ST81	JDJMKJEM_00414	Alpha-galactosidase
@@ -487,8 +349,6 @@ A0A7X2XIH7	JDJMKJEM_00416	Multiple sugar ABC transporter%2C membrane-spanning pe
 A0A4J5GPT0	JDJMKJEM_00417	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG
 A0AA86XFB4	JDJMKJEM_00418	Sucrose phosphorylase
 Q8CYC1	JDJMKJEM_00419	Wall teichoic acid biosynthesis protein RafX
-	JDJMKJEM_00420	group-II-D1D4-3
-	JDJMKJEM_00420	
 A0A062WTD1	JDJMKJEM_00421	Peptide ABC transporter substrate-binding protein AmiA
 C1C9F9	JDJMKJEM_00422	Peptide ABC transporter permease AmiC
 C1CGB7	JDJMKJEM_00423	Peptide ABC transporter permease AmiD
@@ -535,8 +395,6 @@ A0A0B7M887	JDJMKJEM_00463	hypothetical protein
 A0AA44MQS6	JDJMKJEM_00464	Type-2 restriction enzyme Sau3AI
 A0A4M6DAQ7	JDJMKJEM_00465	Xanthine permease
 Q3I0D6	JDJMKJEM_00466	Xanthine phosphoribosyltransferase
-	JDJMKJEM_00467	Purine
-	JDJMKJEM_00467	
 Q8CYC6	JDJMKJEM_00468	hypothetical protein
 C1CG71	JDJMKJEM_00469	Exodeoxyribonuclease III
 A0A0H2ZQA0	JDJMKJEM_00470	hypothetical protein
@@ -559,8 +417,6 @@ A0A0H2ZPF8	JDJMKJEM_00486	Iron(III)-transport system permease protein SfuB
 Q8DNM3	JDJMKJEM_00487	Mg(2+)-transport-ATPase-associated protein MgtC
 Q8CYD4	JDJMKJEM_00488	Hypothetical protein
 Q8DNM4	JDJMKJEM_00489	Galactose operon repressor%2C GalR-LacI family
-	JDJMKJEM_00490	T-box
-	JDJMKJEM_00490	
 A0AA44MTK3	JDJMKJEM_00491	Anthranilate synthase%2C aminase component
 A0A0E8P369	JDJMKJEM_00492	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
 C1CT54	JDJMKJEM_00493	Anthranilate phosphoribosyltransferase
@@ -592,8 +448,6 @@ C1CG18	JDJMKJEM_00518	Multiple sugar ABC transporter%2C membrane-spanning permea
 B2ISF6	JDJMKJEM_00519	ABC transporter permease protein
 A0A0B7LIL5	JDJMKJEM_00520	hypothetical protein
 A0A4J1XRF0	JDJMKJEM_00521	Sucrose-6-phosphate hydrolase
-	JDJMKJEM_00522	tRNA-Lys(ctt)
-	JDJMKJEM_00522	
 A0A0H2ZP67	JDJMKJEM_00523	Chromosome segregation helicase
 A0AA87CCE4	JDJMKJEM_00524	Hypothetical protein
 A0A6G2DHC2	JDJMKJEM_00525	Addiction module toxin HicA
@@ -789,8 +643,6 @@ C1CFG8	JDJMKJEM_00714	Major facilitator oxalate:formate antiporter
 C1CFG7	JDJMKJEM_00715	DEAD-box ATP-dependent RNA helicase CshA
 C1CSK2	JDJMKJEM_00716	GTP-sensing transcriptional pleiotropic repressor CodY
 Q8DP02	JDJMKJEM_00717	Nicotinamidase
-	JDJMKJEM_00718	tRNA-Leu(aag)
-	JDJMKJEM_00718	
 Q8DP03	JDJMKJEM_00719	Multiple sugar ABC transporter%2C ATP-binding protein
 Q8DP04	JDJMKJEM_00720	SAM-dependent methyltransferase
 C1CFG1	JDJMKJEM_00721	Adenine phosphoribosyltransferase
@@ -817,15 +669,11 @@ Q04JJ1	JDJMKJEM_00741	4-hydroxy-tetrahydrodipicolinate reductase
 A0A4J1T4X4	JDJMKJEM_00742	CCA tRNA nucleotidyltransferase
 A0A4M6CU72	JDJMKJEM_00743	ATPase component of ABC transporter with duplicated ATPase domains
 A0A4J1T4Z9	JDJMKJEM_00744	Cobalt-zinc-cadmium resistance protein
-	JDJMKJEM_00745	SSRC10
-	JDJMKJEM_00745	
 C1CFD6	JDJMKJEM_00746	Calcium-transporting ATPase
 A0A4M6DA44	JDJMKJEM_00747	Glutathione S-transferase
 Q8DP22	JDJMKJEM_00748	Peptide deformylase
 C1CFD3	JDJMKJEM_00749	Cell shape-determining protein
 A0A7X2XJ35	JDJMKJEM_00750	Hypothetical protein
-	JDJMKJEM_00751	SpR20_sRNA
-	JDJMKJEM_00751	
 C1CFD1	JDJMKJEM_00752	hypothetical protein
 C1CFD0	JDJMKJEM_00753	M protein trans-acting positive regulator Mga1
 A0A4J1T3C6	JDJMKJEM_00754	hypothetical protein
@@ -886,8 +734,6 @@ B2IQV2	JDJMKJEM_00808	Translation elongation factor Tu
 A0A4J1ZJR5	JDJMKJEM_00809	IS1167 transposase Orf2
 C1CE88	JDJMKJEM_00810	hypothetical protein
 A0A4J4YX98	JDJMKJEM_00811	IS1167 transposase Orf1
-	JDJMKJEM_00812	Srn266
-	JDJMKJEM_00812	
 A0A4J1XT90	JDJMKJEM_00813	IS630 family transposase ISSpn2
 A0AAD2IMW0	JDJMKJEM_00814	hypothetical protein
 A0A0E8P802	JDJMKJEM_00815	ATP-dependent RNA helicase YfmL
@@ -895,8 +741,6 @@ C1CF63	JDJMKJEM_00816	Oxidoreductase%2C Gfo/Idh/MocA family
 C1CF62	JDJMKJEM_00817	hypothetical protein
 A0A4M6DNK1	JDJMKJEM_00818	Peptidoglycan N-acetylglucosamine deacetylase
 A0A4J1T0M0	JDJMKJEM_00819	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
-	JDJMKJEM_00820	SpR19_sRNA
-	JDJMKJEM_00820	
 C1CF59	JDJMKJEM_00821	hypothetical protein
 C1CF58	JDJMKJEM_00822	Glycyl-tRNA synthetase alpha chain
 Q97PW6	JDJMKJEM_00823	Glycyl-tRNA synthetase beta chain
@@ -927,8 +771,6 @@ C1CF32	JDJMKJEM_00847	Beta-lactamase%2C class C
 C1CF31	JDJMKJEM_00848	Drug/metabolite transporter superfamily protein
 C1CF30	JDJMKJEM_00849	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 C1CF29	JDJMKJEM_00850	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
-	JDJMKJEM_00851	SpR18_sRNA
-	JDJMKJEM_00851	
 B2IQR0	JDJMKJEM_00852	IS66 family transposase Orf1
 Q8DP85	JDJMKJEM_00853	IS66 family transposase Orf2
 Q8CYL7	JDJMKJEM_00854	hypothetical protein
@@ -1013,12 +855,8 @@ P0A3Q9	JDJMKJEM_00932	Peptide methionine sulfoxide reductase MsrAB1
 A0A4M6CMS6	JDJMKJEM_00933	ABC transporter ATP-binding/permease protein
 A0A4M6CSA7	JDJMKJEM_00934	ABC transporter ATP-binding/permease protein
 A0AAD2I614	JDJMKJEM_00935	Methylthioadenosine deaminase
-	JDJMKJEM_00936	L10_leader
-	JDJMKJEM_00936	
 Q04JZ3	JDJMKJEM_00937	LSU ribosomal protein L10p (P0)
 Q04JZ4	JDJMKJEM_00938	LSU ribosomal protein L7/L12 (P1/P2)
-	JDJMKJEM_00939	rli38
-	JDJMKJEM_00939	
 A0A060QN20	JDJMKJEM_00940	Tn5253 hypothetical protein
 B2IQG8	JDJMKJEM_00941	hypothetical protein
 A0A0T7K880	JDJMKJEM_00942	hypothetical protein
@@ -1030,14 +868,10 @@ B2IQG4	JDJMKJEM_00947	Tn5253 putative CAAX amino terminal protease
 B2IQG3	JDJMKJEM_00948	Transposase from transposon Tn916
 B2IQG2	JDJMKJEM_00949	Transposase from transposon Tn916
 P61624	JDJMKJEM_00950	hypothetical protein
-	JDJMKJEM_00951	pemK
-	JDJMKJEM_00951	
 B2IQG0	JDJMKJEM_00952	hypothetical protein
 B7UTW8	JDJMKJEM_00953	hypothetical protein
 B1IC82	JDJMKJEM_00954	hypothetical protein
 E8ZEK0	JDJMKJEM_00955	Translation elongation factor G
-	JDJMKJEM_00956	sRNA_0030
-	JDJMKJEM_00956	
 A0A7D5A3K0	JDJMKJEM_00957	hypothetical protein
 B2IRZ0	JDJMKJEM_00958	hypothetical protein
 A0A2Z4HX68	JDJMKJEM_00959	hypothetical protein
@@ -1063,8 +897,6 @@ B2IQD9	JDJMKJEM_00978	hypothetical protein
 A0A4J1T7I4	JDJMKJEM_00979	hypothetical protein
 A0A4J1T6D6	JDJMKJEM_00980	hypothetical protein
 E8ZCQ5	JDJMKJEM_00981	Group II intron-encoded protein LtrA
-	JDJMKJEM_00982	Intron_gpII
-	JDJMKJEM_00982	
 A0A4J2GAI8	JDJMKJEM_00983	hypothetical protein
 A0A4J1TCY4	JDJMKJEM_00984	hypothetical protein
 A0A4J1XWM0	JDJMKJEM_00985	hypothetical protein
@@ -1105,12 +937,8 @@ B2IQB0	JDJMKJEM_01019	Tn5252 Orf10 protein
 B2IQA9	JDJMKJEM_01020	Tn5252 Orf9 protein
 B2IQA8	JDJMKJEM_01021	hypothetical protein
 A0A5R9AW72	JDJMKJEM_01022	Putative repressor protein%2C phage associated
-	JDJMKJEM_01023	pemK
-	JDJMKJEM_01023	
 E8ZCV0	JDJMKJEM_01024	hypothetical protein
 B2IQA6	JDJMKJEM_01025	Tyrosine recombinase XerC
-	JDJMKJEM_01026	rli38
-	JDJMKJEM_01026	
 A0A098ANF2	JDJMKJEM_01027	hypothetical protein
 Q8CYN4	JDJMKJEM_01028	hypothetical protein
 A0A0E8P7K6	JDJMKJEM_01029	hypothetical protein
@@ -1130,12 +958,8 @@ A0A0B7LRD2	JDJMKJEM_01042	hypothetical protein
 A0A0U0JBG0	JDJMKJEM_01043	hypothetical protein
 A0AAD2IKW3	JDJMKJEM_01044	putative HTH-type transcriptional regulator YbbH
 A0A4J2AUL1	JDJMKJEM_01045	IS1167 transposase
-	JDJMKJEM_01046	Srn266
-	JDJMKJEM_01046	
 A0A4N9N509	JDJMKJEM_01047	N-acetylmannosamine-6-phosphate 2-epimerase
 B2IP31	JDJMKJEM_01048	N-acetylneuraminate lyase
-	JDJMKJEM_01049	tRNA-Phe(aaa)
-	JDJMKJEM_01049	
 A0A4N9N500	JDJMKJEM_01050	Putative beta-D-galactosidase
 A0A4N9N2W3	JDJMKJEM_01051	Sialidase
 B2IP35	JDJMKJEM_01052	Oxidoreductase
@@ -1167,28 +991,20 @@ C1CEQ1	JDJMKJEM_01077	Chorismate mutase I
 Q97QC4	JDJMKJEM_01078	ClC-type fluoride channel
 Q97QC5	JDJMKJEM_01079	ClC-type fluoride channel
 Q97QC6	JDJMKJEM_01080	LSU ribosomal protein L19p
-	JDJMKJEM_01081	tRNA-Arg(cct)
-	JDJMKJEM_01081	
 Q8DPG8	JDJMKJEM_01082	Sugar phosphatase YidA
 Q8DPG9	JDJMKJEM_01083	dNTP triphosphohydrolase
 B2IQ80	JDJMKJEM_01084	Hypothetical protein
 Q8DPH0	JDJMKJEM_01085	Signal recognition particle associated protein
 C1C7R7	JDJMKJEM_01086	Signal recognition particle protein Ffh
 C1CEP1	JDJMKJEM_01087	Uracil permease
-	JDJMKJEM_01088	SpF44_sRNA
-	JDJMKJEM_01088	
 C1CEP0	JDJMKJEM_01089	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
 Q8DPH4	JDJMKJEM_01090	LemA
 C1CEN8	JDJMKJEM_01091	Heat shock protein HtpX
 C1CEN7	JDJMKJEM_01092	ABC transporter ATP-binding protein
-	JDJMKJEM_01093	SpF43_sRNA
-	JDJMKJEM_01093	
 C1CC84	JDJMKJEM_01094	ISSpn8 transposase
 C1CEN5	JDJMKJEM_01095	BlpT protein
 C1CEN4	JDJMKJEM_01096	Protein%2C clustered with ribosomal protein L32p
 A0A4M6CXP0	JDJMKJEM_01097	Endonuclease III
-	JDJMKJEM_01098	PyrR
-	JDJMKJEM_01098	
 Q04K45	JDJMKJEM_01099	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
 Q97QE2	JDJMKJEM_01100	Aspartate carbamoyltransferase
 A0A064BWJ2	JDJMKJEM_01101	Carbamoyl-phosphate synthase small chain CarA
@@ -1217,8 +1033,6 @@ Q8CYQ2	JDJMKJEM_01123	Hypothetical protein
 A0AA36PWJ1	JDJMKJEM_01124	Endonuclease
 A0A6I3T7Z1	JDJMKJEM_01125	Hypothetical protein
 B8ZJR9	JDJMKJEM_01126	GMP reductase
-	JDJMKJEM_01127	tRNA-Arg(ccg)
-	JDJMKJEM_01127	
 A0A064C285	JDJMKJEM_01128	Ribonuclease III
 A0A4J1Z3N6	JDJMKJEM_01129	Chromosome partition protein SMC
 A0A4J1TAD5	JDJMKJEM_01130	Hydrolase%2C HAD superfamily
@@ -1328,17 +1142,11 @@ Q8DPT6	JDJMKJEM_01233	Bifunctional FMN adenylyltransferase/riboflavin kinase Rib
 Q04KI2	JDJMKJEM_01234	LSU ribosomal protein L27p
 C1CE93	JDJMKJEM_01235	Putative ribosomal protein
 Q97QU4	JDJMKJEM_01236	LSU ribosomal protein L21p
-	JDJMKJEM_01237	L21_leader
-	JDJMKJEM_01237	
 A0A0B7M7N6	JDJMKJEM_01238	Hypothetical protein
 Q04KI6	JDJMKJEM_01239	Hypothetical protein co-occurring with RecR
-	JDJMKJEM_01240	Srn266
-	JDJMKJEM_01240	
 A0A4J4YX98	JDJMKJEM_01241	IS1167 transposase Orf1
 C1CE88	JDJMKJEM_01242	hypothetical protein
 A0A4L7WZN0	JDJMKJEM_01243	IS1167 transposase Orf2
-	JDJMKJEM_01244	SpR14_sRNA
-	JDJMKJEM_01244	
 Q8DPU0	JDJMKJEM_01245	Phosphate acetyltransferase
 Q8DPU1	JDJMKJEM_01246	RluD-like protein
 C1CE84	JDJMKJEM_01247	NAD kinase
@@ -1358,8 +1166,6 @@ Q8DPV1	JDJMKJEM_01260	Methionine aminopeptidase
 C1CE70	JDJMKJEM_01261	Cytosolic protein containing multiple CBS domains
 C1CE69	JDJMKJEM_01262	Ribosomal-protein-S5p-alanine acetyltransferase
 Q97QW6	JDJMKJEM_01263	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
-	JDJMKJEM_01264	group-II-D1D4-3
-	JDJMKJEM_01264	
 C1CE67	JDJMKJEM_01265	Hypothetical protein
 C1CE66	JDJMKJEM_01266	GTP-binding protein ObgE
 C1CE65	JDJMKJEM_01267	Hypothetical protein
@@ -1372,14 +1178,9 @@ A0A0I7DN99	JDJMKJEM_01273	DNA primase
 A0A0I7DD97	JDJMKJEM_01274	ABC transporter ATP-binding protein
 A0A0H2UPW3	JDJMKJEM_01275	Putative tryptophan-specific ABC transporter permease protein TrpY
 A0A0E8SZ16	JDJMKJEM_01276	ABC transporter substrate-binding protein
-	JDJMKJEM_01277	T-box
-	JDJMKJEM_01277	
 C1CE55	JDJMKJEM_01278	Phosphoenolpyruvate carboxylase
 C1CE54	JDJMKJEM_01279	Cell division protein FtsW
-	JDJMKJEM_01280	pemK
-	JDJMKJEM_01280	
 Q8DPW7	JDJMKJEM_01281	Putative repressor protein%2C phage associated
-	JDJMKJEM_01282	hypothetical protein
 C1CE51	JDJMKJEM_01283	hypothetical protein
 C1CE50	JDJMKJEM_01284	hypothetical protein
 C1CE49	JDJMKJEM_01285	ABC transporter ATP-binding protein
@@ -1392,8 +1193,6 @@ A0A7X2XKF7	JDJMKJEM_01291	hypothetical protein
 A0A0U0EP22	JDJMKJEM_01292	hypothetical protein
 Q8CYS9	JDJMKJEM_01293	Tn5252 Orf9 protein
 Q8CYT0	JDJMKJEM_01294	Tn5252 Orf10 protein
-	JDJMKJEM_01295	group-II-D1D4-3
-	JDJMKJEM_01295	
 Q97QY9	JDJMKJEM_01296	putative protein
 C1CE40	JDJMKJEM_01297	putative protein
 C1CE39	JDJMKJEM_01298	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
@@ -1409,18 +1208,12 @@ C1CE29	JDJMKJEM_01307	Hypothetical protein
 A0AA36PXX0	JDJMKJEM_01308	Phage integrase
 B1IBJ7	JDJMKJEM_01309	Phage integrase
 C1CE28	JDJMKJEM_01310	Hypothetical protein
-	JDJMKJEM_01311	pemK
-	JDJMKJEM_01311	
 Q8CYU1	JDJMKJEM_01312	Putative type II restriction endonuclease
 Q8DPY3	JDJMKJEM_01313	Iron compound ABC uptake transporter ATP-binding protein PiaD
 Q8DPY4	JDJMKJEM_01314	Iron compound ABC uptake transporter permease protein PiaC
 B2IPI9	JDJMKJEM_01315	Iron compound ABC uptake transporter permease protein PiaB
 Q8DPY6	JDJMKJEM_01316	Iron compound ABC uptake transporter substrate-binding protein PiaA
 C1CE21	JDJMKJEM_01317	Hypothetical protein
-	JDJMKJEM_01318	SpF39_sRNA
-	JDJMKJEM_01318	
-	JDJMKJEM_01319	SpF61_sRNA
-	JDJMKJEM_01319	
 A0A6A8VKU8	JDJMKJEM_01320	23S rRNA (uracil(1939)-C(5))-methyltransferase
 A0A0B7LWH7	JDJMKJEM_01321	Extracellular protein
 A0A111E4E2	JDJMKJEM_01322	Pneumococcal vaccine antigen A
@@ -1435,13 +1228,7 @@ B2IPH4	JDJMKJEM_01330	Bifunctional 4-oxalocrotonate tautomerase/xylose transport
 C1CE09	JDJMKJEM_01331	GTPase and tRNA-U34 5-formylation enzyme MnmE
 C1CE08	JDJMKJEM_01332	4-hydroxy-tetrahydrodipicolinate synthase
 C1CE07	JDJMKJEM_01333	Aspartate-semialdehyde dehydrogenase
-	JDJMKJEM_01334	asd
-	JDJMKJEM_01334	
-	JDJMKJEM_01335	tRNA-Thr(ggt)
-	JDJMKJEM_01335	
 Q8DQ01	JDJMKJEM_01336	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	JDJMKJEM_01337	preQ1-II
-	JDJMKJEM_01337	
 Q8DQ02	JDJMKJEM_01338	GtrA family protein
 Q8DQ03	JDJMKJEM_01339	Large-conductance mechanosensitive channel MscL
 C1CE03	JDJMKJEM_01340	Ferrochelatase%2C protoheme ferro-lyase
@@ -1453,8 +1240,6 @@ C1C6Y1	JDJMKJEM_01345	Pneumococcal histidine triad protein E
 A0A0E3JFL0	JDJMKJEM_01346	Pneumococcal histidine triad protein D
 Q8DQ09	JDJMKJEM_01347	Laminin-binding surface protein
 B2IPF3	JDJMKJEM_01348	Cationic amino acid transporter%2C APC Superfamily
-	JDJMKJEM_01349	SpF36_sRNA
-	JDJMKJEM_01349	
 A0A5R9ATM3	JDJMKJEM_01350	Thiol:disulfide oxidoreductase
 C1CDZ4	JDJMKJEM_01351	Cytochrome c-type biogenesis protein CcdA-2
 A0A4J2FXE2	JDJMKJEM_01352	Hypothetical protein
@@ -1495,8 +1280,6 @@ C1CDV7	JDJMKJEM_01386	Lactoylglutathione lyase
 Q04KW7	JDJMKJEM_01387	LSU ribosomal protein L20p
 Q04KW8	JDJMKJEM_01388	LSU ribosomal protein L35p
 Q04KW9	JDJMKJEM_01389	Translation initiation factor 3
-	JDJMKJEM_01390	L20_leader
-	JDJMKJEM_01390	
 A0A0E8T6Q0	JDJMKJEM_01391	Hypothetical protein
 A0A6I3T907	JDJMKJEM_01392	ABC transporter%2C ATP-binding protein
 A0A4M6CZN2	JDJMKJEM_01393	hypothetical protein
@@ -1546,8 +1329,6 @@ A0A4J1YXH0	JDJMKJEM_01436	ABC transporter permease protein
 C1CDQ8	JDJMKJEM_01437	ABC transporter ATP-binding protein
 A0A0B7KXN1	JDJMKJEM_01438	Hypothetical protein
 Q8CYW5	JDJMKJEM_01439	Hypothetical protein
-	JDJMKJEM_01440	Spd-sr07
-	JDJMKJEM_01440	
 A0A5C8QW28	JDJMKJEM_01441	Putative phage shock protein C
 A0AA86YAT6	JDJMKJEM_01442	Putative SprT family zinc-dependent metallopeptidase
 A0A4M6CWK7	JDJMKJEM_01443	Transcription accessory protein
@@ -1580,10 +1361,6 @@ A0A0B4ZMK1	JDJMKJEM_01469	DNA translocase FtsK
 C1CDM5	JDJMKJEM_01470	Fructose-specific PTS IIABC components
 A0A0H2ZPQ7	JDJMKJEM_01471	1-phosphofructokinase
 Q8DQ97	JDJMKJEM_01472	Transcriptional repressor of the fructose operon%2C DeoR family
-	JDJMKJEM_01473	tRNA-Ser(gga)
-	JDJMKJEM_01473	
-	JDJMKJEM_01474	transfer-messenger RNA%2C SsrA
-	JDJMKJEM_01474	
 Q8DQ98	JDJMKJEM_01475	Coordinator of zonal cell elongation
 Q75Y35	JDJMKJEM_01476	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 C1CDM0	JDJMKJEM_01477	Iron-sulfur cluster assembly protein SufB
@@ -1594,16 +1371,10 @@ B2INY7	JDJMKJEM_01481	Iron-sulfur cluster assembly ATPase protein SufC
 Q8CYX9	JDJMKJEM_01482	Hypothetical protein
 C1CDL4	JDJMKJEM_01483	DNA polymerase III subunits gamma and tau
 Q8DQA6	JDJMKJEM_01484	GAF domain-containing protein
-	JDJMKJEM_01485	Srn266
-	JDJMKJEM_01485	
 C1CDL2	JDJMKJEM_01486	IS1167 transposase Orf1
 C1CDL1	JDJMKJEM_01487	hypothetical protein
 C1CDL0	JDJMKJEM_01488	IS1167 transposase Orf2
 C1CDK9	JDJMKJEM_01489	SSU ribosomal protein S1p
-	JDJMKJEM_01490	tRNA-Gln(ttg)
-	JDJMKJEM_01490	
-	JDJMKJEM_01491	tRNA-Tyr(gta)
-	JDJMKJEM_01491	
 Q8CYY0	JDJMKJEM_01492	Hypothetical protein
 Q04L55	JDJMKJEM_01493	Pyrrolidone-carboxylate peptidase
 Q8DQB0	JDJMKJEM_01494	Putative membrane protein
@@ -1658,8 +1429,6 @@ C1CDF8	JDJMKJEM_01542	Protease
 Q8CYY6	JDJMKJEM_01543	Hypothetical protein
 Q7B3G0	JDJMKJEM_01544	Two-component system sensor histidine kinase CiaH
 A0A4J1TIU3	JDJMKJEM_01545	Two-component system response regulator CiaR
-	JDJMKJEM_01546	Srn266
-	JDJMKJEM_01546	
 C1CCX0	JDJMKJEM_01547	IS1167 transposase
 C1CDF3	JDJMKJEM_01548	Lysyl aminopeptidase PepN
 C1CDF2	JDJMKJEM_01549	Hypothetical protein
@@ -1692,8 +1461,6 @@ C1CDC4	JDJMKJEM_01575	KH domain RNA-binding protein
 Q04LD0	JDJMKJEM_01576	SSU ribosomal protein S16p
 Q8CYZ5	JDJMKJEM_01577	Hypothetical protein
 C1CDB9	JDJMKJEM_01578	Peptidyl-prolyl cis-trans isomerase
-	JDJMKJEM_01579	Srn266
-	JDJMKJEM_01579	
 A0A4J1VXL8	JDJMKJEM_01580	IS1167 transposase
 C1C6B2	JDJMKJEM_01581	ABC transporter ATP-binding protein
 A0A0B7LPC8	JDJMKJEM_01582	VanZF-related protein
@@ -1734,8 +1501,6 @@ B2INB2	JDJMKJEM_01616	Pyruvate oxidase
 B2INB1	JDJMKJEM_01617	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
 B2INB0	JDJMKJEM_01618	Copper-exporting ATPase
 C1CD79	JDJMKJEM_01619	Negative transcriptional regulator of copper transport operon
-	JDJMKJEM_01620	TPP
-	JDJMKJEM_01620	
 B2INA8	JDJMKJEM_01621	Hydroxymethylpyrimidine phosphate kinase ThiD
 B2INA7	JDJMKJEM_01622	Thiamin-phosphate pyrophosphorylase
 B8ZN21	JDJMKJEM_01623	Hydroxyethylthiazole kinase
@@ -1744,14 +1509,10 @@ B2INA4	JDJMKJEM_01625	Thiaminase II TenA
 B2INA3	JDJMKJEM_01626	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 B2INA2	JDJMKJEM_01627	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 C1CD71	JDJMKJEM_01628	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
-	JDJMKJEM_01629	TPP
-	JDJMKJEM_01629	
 A0AAD2IJV4	JDJMKJEM_01630	Thiamin-phosphate pyrophosphorylase
 A0AAD2IJZ5	JDJMKJEM_01631	Hydroxyethylthiazole kinase
 B2IN98	JDJMKJEM_01632	Hypothetical protein
 B2IN97	JDJMKJEM_01633	Thiaminase II
-	JDJMKJEM_01634	TPP
-	JDJMKJEM_01634	
 C1CD67	JDJMKJEM_01635	L-Lactate 2-monooxygenase
 C1CD66	JDJMKJEM_01636	Class II lysyl-tRNA synthetase
 C1CD65	JDJMKJEM_01637	L-Lactate 2-monooxygenase
@@ -1767,8 +1528,6 @@ C1CD57	JDJMKJEM_01646	Hypothetical protein
 A0A4L7TRY1	JDJMKJEM_01647	Hypothetical protein
 P0CB78	JDJMKJEM_01648	Orotate phosphoribosyltransferase
 C1CD54	JDJMKJEM_01649	Orotidine 5'-phosphate decarboxylase
-	JDJMKJEM_01650	PyrR
-	JDJMKJEM_01650	
 C1CD53	JDJMKJEM_01651	Cell division protein DivIB
 B8ZMZ7	JDJMKJEM_01652	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
 A0AA86Y4V8	JDJMKJEM_01653	UDP-N-acetylmuramoylalanine--D-glutamate ligase
@@ -1806,8 +1565,6 @@ Q8DQP3	JDJMKJEM_01684	Putative rRNA methylase YtqB
 B2IMW4	JDJMKJEM_01685	hypothetical protein
 B2IMW3	JDJMKJEM_01686	hypothetical protein
 A0A4J1XJX9	JDJMKJEM_01687	Hypothetical protein
-	JDJMKJEM_01688	SpF25_sRNA
-	JDJMKJEM_01688	
 B2IMW1	JDJMKJEM_01689	hypothetical protein
 B2IMW0	JDJMKJEM_01690	hypothetical protein
 B2IMV9	JDJMKJEM_01691	Beta-galactosidase BgaA
@@ -1820,16 +1577,12 @@ Q8DQP9	JDJMKJEM_01697	Antibiotic ABC transporter permease protein
 B2IMV0	JDJMKJEM_01698	ABC transporter ATP-binding protein
 A0AAD2IHS4	JDJMKJEM_01699	hypothetical protein
 A0A0B7LEL3	JDJMKJEM_01700	Hypothetical protein
-	JDJMKJEM_01701	Intron_gpII
-	JDJMKJEM_01701	
 B8ZML9	JDJMKJEM_01702	LSU ribosomal protein L1p (L10Ae)
 Q97RZ6	JDJMKJEM_01703	LSU ribosomal protein L11p (L12e)
 C1CD01	JDJMKJEM_01704	L%2CD-carboxypeptidase
 C1CD00	JDJMKJEM_01705	Histidine triad family protein
 C1CCZ9	JDJMKJEM_01706	Deblocking aminopeptidase
 A0A5R9B059	JDJMKJEM_01707	Branched-chain amino acid transport system carrier protein
-	JDJMKJEM_01708	SpF22_sRNA
-	JDJMKJEM_01708	
 C1CCZ6	JDJMKJEM_01709	hypothetical protein
 C1CCZ5	JDJMKJEM_01710	Uracil-DNA glycosylase
 C1CCZ4	JDJMKJEM_01711	Dipeptidase PepV
@@ -1856,8 +1609,6 @@ Q9S4J0	JDJMKJEM_01731	Peptide ABC transporter membrane-spanning permease Vex3
 A0A098Z2X1	JDJMKJEM_01732	ABC transporter ATP-binding protein Vex2
 C1C5W8	JDJMKJEM_01733	Peptide ABC transporter membrane-spanning permease Vex1
 A0A0T7YKG5	JDJMKJEM_01734	hypothetical protein
-	JDJMKJEM_01735	Srn266
-	JDJMKJEM_01735	
 C1CCX0	JDJMKJEM_01736	IS1167 transposase
 C1CCW9	JDJMKJEM_01737	Leucine rich protein
 C1CCW8	JDJMKJEM_01738	Mini-ribonuclease III
@@ -1875,12 +1626,8 @@ Q8DQT8	JDJMKJEM_01749	Phenylalanyl-tRNA synthetase alpha chain
 A0A0D6J947	JDJMKJEM_01750	6-phospho-beta-glucosidase
 A0A4M6DVQ7	JDJMKJEM_01751	Beta-glucoside-specific PTS IIBCA components
 B2IMP8	JDJMKJEM_01752	Beta-glucoside bgl operon antiterminator BglG
-	JDJMKJEM_01753	SpF19_sRNA
-	JDJMKJEM_01753	
 A0A4J1WJ66	JDJMKJEM_01754	hypothetical protein
 A0A0H2UP32	JDJMKJEM_01755	hypothetical protein
-	JDJMKJEM_01756	Srn266
-	JDJMKJEM_01756	
 A0A4J2FD88	JDJMKJEM_01757	IS1167 transposase Orf1
 A0A0B4ZLE6	JDJMKJEM_01758	hypothetical protein
 A0A0Z5LAV6	JDJMKJEM_01759	hypothetical protein
@@ -1928,8 +1675,6 @@ Q8DQW8	JDJMKJEM_01800	Histidine triad nucleotide-binding protein
 C1CCR1	JDJMKJEM_01801	Hypothetical protein
 A0A4U1IYY9	JDJMKJEM_01802	hypothetical protein
 C1CCQ9	JDJMKJEM_01803	Chaperone protein DnaJ
-	JDJMKJEM_01804	SpF14_sRNA
-	JDJMKJEM_01804	
 A0A0T7I8D2	JDJMKJEM_01805	Hypothetical protein
 P95829	JDJMKJEM_01806	Chaperone protein DnaK
 B2IMB4	JDJMKJEM_01807	Heat shock protein GrpE
@@ -1955,11 +1700,7 @@ Q8CZ53	JDJMKJEM_01826	Hypothetical protein
 C1CCN7	JDJMKJEM_01827	Hypothetical protein
 A0A0E8P6N5	JDJMKJEM_01828	Membrane-associated phospholipid phosphatase
 C1C5L4	JDJMKJEM_01829	Substrate-specific component RibU of riboflavin ECF transporter
-	JDJMKJEM_01830	FMN
-	JDJMKJEM_01830	
 C1CCN4	JDJMKJEM_01831	tRNA (cytidine(34)-2'-O)-methyltransferase
-	JDJMKJEM_01832	23S-methyl
-	JDJMKJEM_01832	
 C1CCN3	JDJMKJEM_01833	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
 B2IM90	JDJMKJEM_01834	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 B2IM89	JDJMKJEM_01835	Hypothetical protein
@@ -2019,8 +1760,6 @@ B8ZLH8	JDJMKJEM_01888	Seryl-tRNA synthetase
 A0A4J1YFG7	JDJMKJEM_01889	Exfoliative toxin A
 Q8DR24	JDJMKJEM_01890	Macrophage infectivity potentiator protein
 A0A4J1YFK7	JDJMKJEM_01891	Sodium/glycine symporter GlyP
-	JDJMKJEM_01892	Glycine
-	JDJMKJEM_01892	
 B8ZLH4	JDJMKJEM_01893	Recombination inhibitory protein MutS2
 C1C5E3	JDJMKJEM_01894	Z-ring positive regulator ZapB
 C1CCH1	JDJMKJEM_01895	Z-ring positive regulator ZapA
@@ -2055,8 +1794,6 @@ B2ILR8	JDJMKJEM_01923	Orphan response regulator RitR
 A0A0T9HRS5	JDJMKJEM_01924	6-phosphogluconate dehydrogenase%2C decarboxylating
 A0AA95IJJ4	JDJMKJEM_01925	Mid-cell-anchored protein Z
 A0A4J1NHK2	JDJMKJEM_01926	23S rRNA (guanine(2445)-N(2))-methyltransferase
-	JDJMKJEM_01927	RNaseP_bact_b
-	JDJMKJEM_01927	
 B8ZL84	JDJMKJEM_01928	Cell division protein GpsB
 Q8DR58	JDJMKJEM_01929	Hypothetical protein
 H8ZYN7	JDJMKJEM_01930	RecU Holliday junction resolvase
@@ -2088,8 +1825,6 @@ B2ISR0	JDJMKJEM_01955	Glucan 1%2C6-alpha-glucosidase
 B8ZL58	JDJMKJEM_01956	ATP-dependent Zn protease
 C1CCB3	JDJMKJEM_01957	Bifunctional S-ribosylhomocysteine lyase/autoinducer-2 production protein LuxS
 A0A4G4F412	JDJMKJEM_01958	hypothetical protein
-	JDJMKJEM_01959	group-II-D1D4-3
-	JDJMKJEM_01959	
 H8ZYI1	JDJMKJEM_01960	Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL
 H8ZYG8	JDJMKJEM_01961	Phospho-N-acetylmuramoyl-pentapeptide- transferase
 Q9RES8	JDJMKJEM_01962	Penicillin-binding protein 2X
@@ -2113,18 +1848,12 @@ C1CC93	JDJMKJEM_01979	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3
 A0A4J1RX59	JDJMKJEM_01980	IS200/IS605 family transposase ISStin10
 M4Y9A8	JDJMKJEM_01981	Hyaluronate lyase precursor SpnHL
 B1I935	JDJMKJEM_01982	Glutathione peroxidase family protein
-	JDJMKJEM_01983	SpF11_sRNA
-	JDJMKJEM_01983	
 A0A4J1RV88	JDJMKJEM_01984	Maltodextrin glucosidase
-	JDJMKJEM_01985	SpF10_sRNA
-	JDJMKJEM_01985	
 A0A4H9TH55	JDJMKJEM_01986	hypothetical protein
 Q8CZ76	JDJMKJEM_01987	Hypothetical protein
 C1CC87	JDJMKJEM_01988	Tyrosine recombinase XerC
 Q97SN4	JDJMKJEM_01989	SSU ribosomal protein S9p (S16e)
 Q8CWU5	JDJMKJEM_01990	LSU ribosomal protein L13p (L13Ae)
-	JDJMKJEM_01991	L13_leader
-	JDJMKJEM_01991	
 Q8CZ79	JDJMKJEM_01992	Hypothetical protein
 A0A4J1RUJ2	JDJMKJEM_01993	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 B8ZL26	JDJMKJEM_01994	GTP cyclohydrolase I type 1
@@ -2144,8 +1873,6 @@ A0A4J1YDT1	JDJMKJEM_02007	Aminopeptidase PepS
 A0A4J1RWJ5	JDJMKJEM_02008	Hypothetical protein
 A0A4J1YC42	JDJMKJEM_02009	hypothetical protein
 A0A4M6D124	JDJMKJEM_02010	Antitoxin RelB1
-	JDJMKJEM_02011	Srn266
-	JDJMKJEM_02011	
 A0A6G2D532	JDJMKJEM_02012	IS1167 transposase
 A0A4M6CSU0	JDJMKJEM_02013	DNA polymerase III
 B8ZKU0	JDJMKJEM_02014	Translation elongation factor G
@@ -2159,14 +1886,8 @@ A0A0B7LYW8	JDJMKJEM_02021	Prolyl-tRNA synthetase
 C1CC54	JDJMKJEM_02022	Intramembrane protease Eep
 C1CC53	JDJMKJEM_02023	Phosphatidate cytidylyltransferase
 Q8DRB3	JDJMKJEM_02024	Undecaprenyl diphosphate synthase
-	JDJMKJEM_02025	csRNA
-	JDJMKJEM_02025	
 C1CC51	JDJMKJEM_02026	Hypothetical protein
 C1CC50	JDJMKJEM_02027	Holliday junction DNA helicase RuvB
-	JDJMKJEM_02028	csRNA
-	JDJMKJEM_02028	
-	JDJMKJEM_02029	csRNA
-	JDJMKJEM_02029	
 Q8DRB4	JDJMKJEM_02030	Acetyltransferase%2C GNAT family
 C1CC48	JDJMKJEM_02031	Acetyltransferase%2C GNAT family
 C1CC47	JDJMKJEM_02032	Leucyl-tRNA synthetase
@@ -2186,12 +1907,8 @@ A0A098Z906	JDJMKJEM_02045	Iron(III)-transport system permease protein SfuB
 A0A0T7KEN0	JDJMKJEM_02046	hypothetical protein
 A0A0U0JI51	JDJMKJEM_02047	hypothetical protein
 A0A0B7M6X8	JDJMKJEM_02048	Phosphoglycerate mutase family protein
-	JDJMKJEM_02049	csRNA
-	JDJMKJEM_02049	
 Q8DRD2	JDJMKJEM_02050	hypothetical protein
 C1CC34	JDJMKJEM_02051	ACT domain-containing transcriptional regulator
-	JDJMKJEM_02052	L17DE
-	JDJMKJEM_02052	
 Q8CWU8	JDJMKJEM_02053	LSU ribosomal protein L17p
 Q04ML1	JDJMKJEM_02054	DNA-directed RNA polymerase alpha subunit
 Q04ML2	JDJMKJEM_02055	SSU ribosomal protein S11p (S14e)
@@ -2243,8 +1960,6 @@ A0A0H2UN46	JDJMKJEM_02100	Muramoyltetrapeptide carboxypeptidase
 A0A0T8RH17	JDJMKJEM_02101	CAAX amino terminal protease family protein
 Q8CWV9	JDJMKJEM_02102	DNA-3-methyladenine glycosylase
 Q8DRE8	JDJMKJEM_02103	Holliday junction DNA helicase RuvA
-	JDJMKJEM_02104	FMN
-	JDJMKJEM_02104	
 A0A655GQY4	JDJMKJEM_02105	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
 C1CBY1	JDJMKJEM_02106	Riboflavin synthase RibE
 C1CBY0	JDJMKJEM_02107	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
@@ -2278,8 +1993,6 @@ C1CBV4	JDJMKJEM_02134	ABC transporter ATP-binding protein
 C1CBV3	JDJMKJEM_02135	Family 2 glycosyltransferase
 A0A098ZKN5	JDJMKJEM_02136	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 B2IRL6	JDJMKJEM_02137	Exopolysaccharide biosynthesis glycosyltransferase EpsF
-	JDJMKJEM_02138	Srn266
-	JDJMKJEM_02138	
 C1CBV2	JDJMKJEM_02139	IS1167 transposase
 C1CBV1	JDJMKJEM_02140	IS1167 transposase Orf2
 B8ZK13	JDJMKJEM_02141	N(6)-L-threonylcarbamoyladenine synthase TsaD
@@ -2292,24 +2005,14 @@ C1CBU5	JDJMKJEM_02147	Hypothetical protein
 C1CBU4	JDJMKJEM_02148	Ribonuclease J1 (endonuclease and 5' exonuclease)
 A0A6G2DVM1	JDJMKJEM_02149	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 C1CBU1	JDJMKJEM_02150	MutT/Nudix family protein
-	JDJMKJEM_02151	Spd-sr37
-	JDJMKJEM_02151	
 B8ZK04	JDJMKJEM_02152	tRNA-specific 2-thiouridylase MnmA
 A0A1W6AZ08	JDJMKJEM_02153	Surface protein PspA precursor
 A0A1W6AZE2	JDJMKJEM_02154	Surface protein PspA precursor
 A0A4J1TJG1	JDJMKJEM_02155	hypothetical protein
-	JDJMKJEM_02156	Bacilli-1
-	JDJMKJEM_02156	
-	JDJMKJEM_02157	SpF03_sRNA
-	JDJMKJEM_02157	
 A0A4J1YHL4	JDJMKJEM_02158	Hypothetical protein
 A0A4J1YKL3	JDJMKJEM_02159	Hypothetical protein
-	JDJMKJEM_02160	Srn266
-	JDJMKJEM_02160	
 C1CCX0	JDJMKJEM_02161	IS1167 transposase
 A0A4J1TRI6	JDJMKJEM_02162	Hypothetical protein
-	JDJMKJEM_02163	Bacilli-1
-	JDJMKJEM_02163	
 A0A6I3VHX5	JDJMKJEM_02164	Argininosuccinate synthase
 B2IRI9	JDJMKJEM_02165	Amino acid ABC transporter substrate-binding/permease protein
 Q8DRI7	JDJMKJEM_02166	ABC transporter ATP-binding protein
@@ -2320,8 +2023,6 @@ Q8DRI9	JDJMKJEM_02170	L-serine dehydratase%2C beta subunit
 Q8DRJ0	JDJMKJEM_02171	L-serine dehydratase%2C alpha subunit
 B2IRI1	JDJMKJEM_02172	Phosphoglycolate phosphatase
 A0A4J2EHM2	JDJMKJEM_02173	Hypothetical protein
-	JDJMKJEM_02174	Srn266
-	JDJMKJEM_02174	
 C1CCX0	JDJMKJEM_02175	IS1167 transposase
 C1CBR9	JDJMKJEM_02176	Putative UDP-GlcNAc 4%2C6-dehydratase AatA
 A0A4I9N9J6	JDJMKJEM_02177	Glycosyltransferase%2C group 2 family
@@ -2337,8 +2038,6 @@ B2IRG9	JDJMKJEM_02186	ABC transporter permease protein
 Q8DRJ8	JDJMKJEM_02187	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 A0AA86XNR3	JDJMKJEM_02188	Hypothetical protein
 A0A0B7LLV1	JDJMKJEM_02189	Hypothetical protein
-	JDJMKJEM_02190	SpF01_sRNA
-	JDJMKJEM_02190	
 Q04MZ3	JDJMKJEM_02191	SSU ribosomal protein S4p (S9e)
 Q9S1J1	JDJMKJEM_02192	Two-component system sensor histidine kinase
 B2IRG2	JDJMKJEM_02193	Two-component system response regulator
@@ -2408,31 +2107,13 @@ C1CHA6	JDJMKJEM_02256	hypothetical protein
 C1CHA5	JDJMKJEM_02257	hypothetical protein
 C1CHA4	JDJMKJEM_02258	hypothetical protein
 C1CHA3	JDJMKJEM_02259	Tyrosine recombinase XerD
-	JDJMKJEM_02260	Bacteria_small_SRP
-	JDJMKJEM_02260	
 C1CHA2	JDJMKJEM_02261	tRNA-specific adenosine-34 deaminase
-	JDJMKJEM_02262	csRNA
-	JDJMKJEM_02262	
 C1CHA1	JDJMKJEM_02263	Adenylosuccinate synthetase
 Q8CZD0	JDJMKJEM_02264	Competence positive regulator ComW
 Q8DRP4	JDJMKJEM_02265	IS1167 transposase Orf1
 Q8DRP7	JDJMKJEM_02266	IS630 family transposase IS630-Spn1
 C1CH95	JDJMKJEM_02267	IS630 family transposase IS630-Spn1
-	JDJMKJEM_02268	tRNA-Asn(gtt)
-	JDJMKJEM_02268	
-	JDJMKJEM_02269	5S ribosomal RNA
-	JDJMKJEM_02269	
-	JDJMKJEM_02270	23S ribosomal RNA
-	JDJMKJEM_02270	
-	JDJMKJEM_02271	tRNA-Ala(tgc)
-	JDJMKJEM_02271	
-	JDJMKJEM_02272	16S ribosomal RNA
-	JDJMKJEM_02272	
-	JDJMKJEM_02273	tRNA-Glu(ttc)
-	JDJMKJEM_02273	
 Q9R2W8	JDJMKJEM_02274	Competence-specific sigma factor ComX
-	JDJMKJEM_02275	Srn266
-	JDJMKJEM_02275	
 A0A6G2D532	JDJMKJEM_02276	IS1167 transposase
 C1CH93	JDJMKJEM_02277	Cell division protein FtsH
 Q97TC4	JDJMKJEM_02278	Hypoxanthine-guanine phosphoribosyltransferase

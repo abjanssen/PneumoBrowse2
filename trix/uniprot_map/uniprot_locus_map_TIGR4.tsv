@@ -4,15 +4,11 @@ O08397	HLJICIJH_00002	Chromosomal replication initiator protein DnaA
 A0A0H2US96	HLJICIJH_00003	Chromosome partitioning protein ParB
 A0A0H2US63	HLJICIJH_00004	Serine protease%2C DegP/HtrA
 P0A4S3	HLJICIJH_00005	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
-	HLJICIJH_00006	tRNA-Arg(tct)
 P72507	HLJICIJH_00007	Competence-stimulating peptide precursor ComC
 A0A0H2US84	HLJICIJH_00008	Two-component system sensor histidine kinase ComD
 A0A0H2USM5	HLJICIJH_00009	Two-component system response regulator ComE
-	HLJICIJH_00010	tRNA-Glu(ttc)
-	HLJICIJH_00011	tRNA-Asn(gtt)
 A0A0H2USD1	HLJICIJH_00012	Transcriptional regulator%2C AcrR family
 A0A0H2US91	HLJICIJH_00013	hypothetical protein
-	HLJICIJH_00014	hypothetical protein
 A0A0H2US56	HLJICIJH_00015	ABC transporter%2C permease protein
 A0A0H2US79	HLJICIJH_00016	ABC transporter%2C ATP-binding protein
 P67595	HLJICIJH_00017	Tryptophanyl-tRNA synthetase
@@ -31,10 +27,8 @@ A0A0H2US46	HLJICIJH_00029	Cell shape-determining protein MreD
 A0A0H2US70	HLJICIJH_00030	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
 Q97N56	HLJICIJH_00031	SSU ribosomal protein S2p (SAe)
 P0A3B7	HLJICIJH_00032	Translation elongation factor Ts
-	HLJICIJH_00033	SpF51_sRNA
 A0A0H2UQM4	HLJICIJH_00034	IS66 family transposase Orf2
 A0A0H2XDT2	HLJICIJH_00035	IS630 family transposase ISSpn2
-	HLJICIJH_00036	hypothetical protein
 A0A0H2USL4	HLJICIJH_00037	Cysteine synthase
 A0A0H2USB7	HLJICIJH_00038	Protein co-occurring with transport systems
 A0A0H2US77	HLJICIJH_00039	DNA transporter ATPase%2C ComF operon protein A
@@ -45,7 +39,6 @@ P66320	HLJICIJH_00043	LSU ribosomal protein L9p
 A0A0H2USB2	HLJICIJH_00044	Replicative DNA helicase DnaC
 A0A0H2US72	HLJICIJH_00045	Hypothetical protein
 A0A0H2US36	HLJICIJH_00046	Choline-binding protein D
-	HLJICIJH_00047	TPP
 A0A0H2USK2	HLJICIJH_00048	Cytoplasmic thiamin-binding component of thiamin ABC transporter
 A0A0H2USA8	HLJICIJH_00049	Thiamin ABC transporter ThiX%2C transmembrane component
 A0A0H2US66	HLJICIJH_00050	Thiamin ABC transporter ThiY%2C substrate-binding component
@@ -65,11 +58,6 @@ P0A3Q7	HLJICIJH_00063	Glycerol uptake facilitator protein
 A0A0H2US57	HLJICIJH_00064	hypothetical protein
 A0A0H2US20	HLJICIJH_00065	Hypothetical protein
 A0A0H2UQI5	HLJICIJH_00066	hypothetical protein
-	HLJICIJH_00067	group-II-D1D4-3
-	HLJICIJH_00068	group-II-D1D4-1
-	HLJICIJH_00069	Group II intron-encoded protein LtrA
-	HLJICIJH_00070	hypothetical protein
-	HLJICIJH_00071	hypothetical protein
 A0A0H2US47	HLJICIJH_00072	hypothetical protein
 A0A0H2XDR9	HLJICIJH_00073	Macrolide-efflux protein
 P0A398	HLJICIJH_00074	D-alanine--poly(phosphoribitol) ligase subunit 1
@@ -80,8 +68,6 @@ A0A0H2US15	HLJICIJH_00078	Transcriptional repressor AdcR for Zn(2+)-responsive e
 P0A2U6	HLJICIJH_00079	Zinc ABC transporter%2C ATP-binding protein AdcC
 A0A0H2US42	HLJICIJH_00080	Zinc ABC transporter%2C permease protein AdcB
 O05703	HLJICIJH_00081	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
-	HLJICIJH_00082	SpF66_sRNA
-	HLJICIJH_00083	SpF66_sRNA
 A0A0H2USI3	HLJICIJH_00084	L-fucose operon activator
 A0A0H2US93	HLJICIJH_00085	L-fuculokinase
 A0A0H2US48	HLJICIJH_00086	L-fuculose phosphate aldolase
@@ -110,7 +96,6 @@ A0A0H2US73	HLJICIJH_00108	Glycosyl hydrolase-related protein
 A0A0H2URZ2	HLJICIJH_00109	hypothetical protein
 A0A0H2US16	HLJICIJH_00110	IS1381 transposase OrfB
 A0A0H2UNT3	HLJICIJH_00111	hypothetical protein
-	HLJICIJH_00112	hypothetical protein
 A0A0H2USF9	HLJICIJH_00113	Choline-binding protein CbpN
 P61360	HLJICIJH_00114	LSU ribosomal protein L33p
 Q97NB7	HLJICIJH_00115	LSU ribosomal protein L32p
@@ -145,7 +130,6 @@ P0A4N1	HLJICIJH_00143	Maltose/maltodextrin ABC transporter%2C permease protein M
 P59213	HLJICIJH_00144	Maltose/maltodextrin ABC transporter%2C substrate binding periplasmic protein MalX
 P0A3Q0	HLJICIJH_00145	4-alpha-glucanotransferase (amylomaltase)
 P29849	HLJICIJH_00146	Maltodextrin phosphorylase
-	HLJICIJH_00147	Hypothetical protein
 A0A0H2URX6	HLJICIJH_00148	Hypothetical protein
 A0A0H2USD8	HLJICIJH_00149	23S rRNA (guanine(745)-N(1))-methyltransferase
 A0A0H2US49	HLJICIJH_00150	Hypothetical protein
@@ -158,9 +142,7 @@ Q97NE7	HLJICIJH_00156	N-acetyl-L%2CL-diaminopimelate deacetylase
 A0A0H2USD4	HLJICIJH_00157	5-formyltetrahydrofolate cyclo-ligase
 A0A0H2US45	HLJICIJH_00158	Rhomboid family serine protease
 A0A0H2UN39	HLJICIJH_00159	Hypothetical protein
-	HLJICIJH_00160	CRISPR-DR22
 A0A0H2US03	HLJICIJH_00161	hypothetical protein
-	HLJICIJH_00162	tracrRNA
 P58313	HLJICIJH_00163	UTP--glucose-1-phosphate uridylyltransferase
 Q97NF1	HLJICIJH_00164	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
 A0A0H2URW8	HLJICIJH_00165	Transcriptional regulator
@@ -176,11 +158,7 @@ A0A0H2URW5	HLJICIJH_00174	Putative cupin superfamily protein
 A0A0H2URY6	HLJICIJH_00175	IS1381 transposase OrfB
 Q54869	HLJICIJH_00176	Arginyl-tRNA synthetase
 P0A2Y2	HLJICIJH_00177	Arginine pathway regulatory protein ArgR1
-	HLJICIJH_00178	SpR10_sRNA
-	HLJICIJH_00178	
 P0A3R3	HLJICIJH_00179	DNA mismatch repair protein HexA
-	HLJICIJH_00180	patAB
-	HLJICIJH_00180	
 A0A0H2USC5	HLJICIJH_00181	Multidrug resistance ABC transporter ATP-binding and permease protein
 Q97SQ2	HLJICIJH_00182	hypothetical protein
 A0A0H2US37	HLJICIJH_00183	Multidrug resistance ABC transporter ATP-binding and permease protein
@@ -188,22 +166,6 @@ A0A0H2URZ5	HLJICIJH_00184	Glutamine amidotransferase%2C class I
 Q97NG0	HLJICIJH_00185	Glucose-6-phosphate isomerase
 Q97NG1	HLJICIJH_00186	Glutamyl-tRNA synthetase
 A0A0H2URY0	HLJICIJH_00187	Cytidine/deoxycytidylate deaminase family protein
-	HLJICIJH_00188	tRNA-Glu(ttc)
-	HLJICIJH_00189	16S ribosomal RNA
-	HLJICIJH_00190	tRNA-Ala(tgc)
-	HLJICIJH_00191	23S ribosomal RNA
-	HLJICIJH_00192	5S ribosomal RNA
-	HLJICIJH_00193	tRNA-Val(tac)
-	HLJICIJH_00194	tRNA-Gly(tcc)
-	HLJICIJH_00195	tRNA-Ile(gat)
-	HLJICIJH_00196	tRNA-Ser(tga)
-	HLJICIJH_00197	tRNA-Met(cat)
-	HLJICIJH_00198	tRNA-Phe(gaa)
-	HLJICIJH_00199	tRNA-Tyr(gta)
-	HLJICIJH_00200	tRNA-Trp(cca)
-	HLJICIJH_00201	tRNA-His(gtg)
-	HLJICIJH_00202	tRNA-Gln(ttg)
-	HLJICIJH_00203	tRNA-Leu(caa)
 A0A0H2USC3	HLJICIJH_00204	Hypothetical protein
 A0A0H2US33	HLJICIJH_00205	Threonine synthase
 A0A0H2URZ1	HLJICIJH_00206	Multi antimicrobial extrusion family transporter
@@ -225,8 +187,6 @@ A0A0H2URW7	HLJICIJH_00221	Late competence protein ComGD
 A0A0H2USA9	HLJICIJH_00222	Late competence protein ComGE
 A0A0H2US22	HLJICIJH_00223	Late competence protein ComGF
 A0A0H2URX9	HLJICIJH_00224	Late competence protein ComGG
-	HLJICIJH_00225	hypothetical protein
-	HLJICIJH_00226	hypothetical protein
 A0A0H2URU7	HLJICIJH_00227	Adenine-specific methyltransferase
 P63413	HLJICIJH_00228	Acetate kinase
 Q97NI5	HLJICIJH_00229	Ribonuclease P protein component
@@ -263,20 +223,6 @@ A0A0H2URT5	HLJICIJH_00259	Multimodular transpeptidase-transglycosylase%2C penici
 A0A0H2URR7	HLJICIJH_00260	Protein translocase subunit SecE
 A0A0H2URU6	HLJICIJH_00261	Transcription antitermination protein NusG
 A0A0H2UMS0	HLJICIJH_00262	Competence-specific sigma factor ComX
-	HLJICIJH_00263	tRNA-Glu(ttc)
-	HLJICIJH_00264	16S ribosomal RNA
-	HLJICIJH_00265	tRNA-Ala(tgc)
-	HLJICIJH_00266	23S ribosomal RNA
-	HLJICIJH_00267	5S ribosomal RNA
-	HLJICIJH_00268	tRNA-Val(tac)
-	HLJICIJH_00269	tRNA-Asp(gtc)
-	HLJICIJH_00270	tRNA-Lys(ttt)
-	HLJICIJH_00271	tRNA-Leu(tag)
-	HLJICIJH_00272	tRNA-Thr(tgt)
-	HLJICIJH_00273	tRNA-Gly(gcc)
-	HLJICIJH_00274	tRNA-Leu(taa)
-	HLJICIJH_00275	tRNA-Arg(acg)
-	HLJICIJH_00276	tRNA-Pro(tgg)
 A0A0H2URZ4	HLJICIJH_00277	Hypothetical protein
 A0A0H2URT1	HLJICIJH_00278	Hypothetical protein
 A0A0H2URR2	HLJICIJH_00279	ABC transporter%2C ATP-binding protein
@@ -295,8 +241,6 @@ A0A0H2URQ5	HLJICIJH_00291	hypothetical protein
 A0A0H2URT8	HLJICIJH_00292	Putative deoxyribonuclease TatD
 A0A0H2US64	HLJICIJH_00293	Ribonuclease M5
 A0A0H2URY1	HLJICIJH_00294	Transcriptional regulator
-	HLJICIJH_00295	SpR08_sRNA
-	HLJICIJH_00295	
 A0A0H2URR8	HLJICIJH_00296	Putative immunity protein
 A0A0H2URQ2	HLJICIJH_00297	ABC transporter%2C ATP-binding protein
 A0A0H2URT7	HLJICIJH_00298	Hypothetical protein
@@ -317,13 +261,10 @@ Q97NQ0	HLJICIJH_00312	Aspartate--ammonia ligase
 A0A0H2URW9	HLJICIJH_00313	16S rRNA (guanine(966)-N(2))-methyltransferase
 Q97NQ2	HLJICIJH_00314	Phosphopantetheine adenylyltransferase
 A0A0H2URQ4	HLJICIJH_00315	Lon-like protease
-	HLJICIJH_00316	Hypothetical protein
 Q97NQ4	HLJICIJH_00317	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 Q03159	HLJICIJH_00318	Competence-associated EpuA protein
 P0A3S3	HLJICIJH_00319	DNA-entry nuclease
 A0A0H2URP2	HLJICIJH_00320	Putative hemolysin
-	HLJICIJH_00321	tRNA-Cys(gca)
-	HLJICIJH_00322	Lacto-rpoB
 Q97NQ7	HLJICIJH_00323	DNA-directed RNA polymerase beta subunit
 Q97NQ8	HLJICIJH_00324	DNA-directed RNA polymerase beta' subunit
 P65536	HLJICIJH_00325	Nucleoside diphosphate kinase
@@ -348,7 +289,6 @@ P54184	HLJICIJH_00343	Bifunctional ADP-ribose pyrophosphatase/nicotinamide-nucle
 P0A451	HLJICIJH_00344	DNA recombination/repair protein RecA
 A0A0H2URV6	HLJICIJH_00345	MATE efflux family protein DinF
 P06653	HLJICIJH_00346	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
-	HLJICIJH_00347	Putative toxin
 A0A0H2URQ7	HLJICIJH_00348	Putative toxin
 A0A0H2US07	HLJICIJH_00349	hypothetical protein
 A0A0H2URV1	HLJICIJH_00350	hypothetical protein
@@ -378,35 +318,10 @@ Q97NV3	HLJICIJH_00373	Heat shock protein 60 family co-chaperone GroES
 P0A335	HLJICIJH_00374	Heat shock protein 60 family chaperone GroEL
 A0A0H2UQB1	HLJICIJH_00375	IS1167 transposase Orf2
 A0A0H2UQV4	HLJICIJH_00376	IS1167 transposase
-	HLJICIJH_00377	Srn266
 A0A0H2URI4	HLJICIJH_00378	hypothetical protein
-	HLJICIJH_00379	Spy392987
-	HLJICIJH_00379	
 Q97NV6	HLJICIJH_00380	Cysteinyl-tRNA synthetase related protein
 Q97NV7	HLJICIJH_00381	Regulatory protein RecX
 Q97NV8	HLJICIJH_00382	RNA methyltransferase%2C TrmA family
-	HLJICIJH_00383	tRNA-Glu(ttc)
-	HLJICIJH_00384	16S ribosomal RNA
-	HLJICIJH_00385	tRNA-Ala(tgc)
-	HLJICIJH_00386	23S ribosomal RNA
-	HLJICIJH_00387	5S ribosomal RNA
-	HLJICIJH_00388	tRNA-Val(tac)
-	HLJICIJH_00389	tRNA-Asp(gtc)
-	HLJICIJH_00390	tRNA-Lys(ttt)
-	HLJICIJH_00391	tRNA-Leu(tag)
-	HLJICIJH_00392	tRNA-Thr(tgt)
-	HLJICIJH_00393	tRNA-Gly(gcc)
-	HLJICIJH_00394	tRNA-Leu(taa)
-	HLJICIJH_00395	tRNA-Arg(acg)
-	HLJICIJH_00396	tRNA-Pro(tgg)
-	HLJICIJH_00397	tRNA-Met(cat)
-	HLJICIJH_00398	tRNA-Met(cat)
-	HLJICIJH_00399	tRNA-Ser(tga)
-	HLJICIJH_00400	tRNA-Met(cat)
-	HLJICIJH_00401	tRNA-Phe(gaa)
-	HLJICIJH_00402	tRNA-Gly(tcc)
-	HLJICIJH_00403	tRNA-Ile(gat)
-	HLJICIJH_00404	tRNA-Ser(gct)
 A0A0H2URL6	HLJICIJH_00405	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0A0H2URT9	HLJICIJH_00406	Multiple sugar metabolism operon regulatory protein MsmR
 A0A0H2URQ6	HLJICIJH_00407	Alpha-galactosidase
@@ -423,7 +338,6 @@ P18766	HLJICIJH_00417	Peptide ABC transporter ATP-binding protein AmiF
 A0A0H2UR11	HLJICIJH_00418	IS1167 transposase
 A0A0H2UQB1	HLJICIJH_00419	hypothetical protein
 A0A0H2UQV4	HLJICIJH_00420	IS1167 transposase Orf1
-	HLJICIJH_00421	Srn266
 A0A0H2URH4	HLJICIJH_00422	Trehalose operon transcriptional repressor
 A0A0H2URK8	HLJICIJH_00423	Trehalose-specific PTS IIBCA components
 A0A0H2URS6	HLJICIJH_00424	Trehalose-6-phosphate hydrolase
@@ -461,9 +375,6 @@ P0A459	HLJICIJH_00455	Type II restriction-modification system endonuclease DpnC
 P0A3T4	HLJICIJH_00456	Type II restriction-modification system component DpnD
 A0A0H2URI2	HLJICIJH_00457	Xanthine permease
 Q97P00	HLJICIJH_00458	Xanthine phosphoribosyltransferase
-	HLJICIJH_00459	Purine
-	HLJICIJH_00460	hypothetical protein
-	HLJICIJH_00461	hypothetical protein
 P0A2X3	HLJICIJH_00462	Exodeoxyribonuclease III
 A0A0H2URP8	HLJICIJH_00463	hypothetical protein
 A0A0H2URE6	HLJICIJH_00464	hypothetical protein
@@ -509,9 +420,7 @@ A0A0H2URD6	HLJICIJH_00503	hypothetical protein
 A0A0H2URL9	HLJICIJH_00504	Sucrose-6-phosphate hydrolase
 A0A0H2URJ5	HLJICIJH_00505	hypothetical protein
 A0A0H2URC5	HLJICIJH_00506	hypothetical protein
-	HLJICIJH_00507	Srn266
 A0A0H2URB0	HLJICIJH_00508	IS1167 transposase
-	HLJICIJH_00509	tRNA-Lys(ctt)
 A0A0H2URL5	HLJICIJH_00510	Chromosome segregation helicase
 A0A0H2URJ1	HLJICIJH_00511	Hypothetical protein
 A0A0H2URA5	HLJICIJH_00512	Addiction module toxin HicA
@@ -522,7 +431,6 @@ A0A0H2URB3	HLJICIJH_00516	7%2C8-dihydro-8-oxoguanine-triphosphatase
 Q97P62	HLJICIJH_00517	Ribosomal protein L11 methyltransferase
 A0A0H2URA2	HLJICIJH_00518	16S rRNA (uracil(1498)-N(3))-methyltransferase
 A0A0H2URC2	HLJICIJH_00519	Oligoendopeptidase F
-	HLJICIJH_00520	Putative membrane protein
 A0A0H2URK7	HLJICIJH_00521	Hypothetical protein
 A0A0H2URI1	HLJICIJH_00522	Aquaporin Z
 A0A0H2UN39	HLJICIJH_00523	Hypothetical protein
@@ -552,7 +460,6 @@ A0A0H2UR83	HLJICIJH_00546	hypothetical protein
 A0A0H2URA1	HLJICIJH_00547	hypothetical protein
 A0A0H2UN39	HLJICIJH_00548	Hypothetical protein
 A0A0H2URI5	HLJICIJH_00549	Membrane protein
-	HLJICIJH_00550	Serine/threonine transporter SstT
 A0A0H2URG3	HLJICIJH_00551	Potassium efflux system KefA protein
 A0A0H2UR86	HLJICIJH_00552	Magnesium and cobalt transport protein CorA2
 A0A0H2UR78	HLJICIJH_00553	Hydrolase%2C HAD subfamily IIIA
@@ -611,9 +518,7 @@ Q54900	HLJICIJH_00605	ATP-dependent DNA helicase RecG
 A0A0H2UR45	HLJICIJH_00606	Bifunctional acetyl xylan esterase 1/cephalosporin-C deacetylase
 A0A0H2UR42	HLJICIJH_00607	Hypothetical protein
 A0A0H2UQE4	HLJICIJH_00608	Sialidase NanA
-	HLJICIJH_00609	hypothetical protein
 A0A0H2UQB1	HLJICIJH_00610	IS1167 transposase
-	HLJICIJH_00611	Srn266
 A0A0H2URH1	HLJICIJH_00612	Hypothetical protein
 A0A0H2URD7	HLJICIJH_00613	Putative beta-D-galactosidase
 A0A0H2URB7	HLJICIJH_00614	ABC transporter substrate-binding protein - sugar transport
@@ -663,7 +568,6 @@ Q97PH3	HLJICIJH_00657	D-tyrosyl-tRNA(Tyr) deacylase
 A0A0H2UR79	HLJICIJH_00658	hypothetical protein
 A0A0H2UR03	HLJICIJH_00659	Hypothetical protein
 A0A0H2UR05	HLJICIJH_00660	hypothetical protein
-	HLJICIJH_00661	Srn266
 A0A0H2UR11	HLJICIJH_00662	IS1167 transposase
 A0A0H2UR99	HLJICIJH_00663	Mn-dependent transcriptional regulator MntR
 A0A0H2UR73	HLJICIJH_00664	Putative diadenosine tetraphosphatase
@@ -719,9 +623,7 @@ A0A0H2UQX1	HLJICIJH_00713	Major facilitator oxalate:formate antiporter
 P0A4D7	HLJICIJH_00714	DEAD-box ATP-dependent RNA helicase CshA
 Q97PM1	HLJICIJH_00715	GTP-sensing transcriptional pleiotropic repressor CodY
 A0A0H2UR34	HLJICIJH_00716	Nicotinamidase
-	HLJICIJH_00717	tRNA-Leu(aag)
 A0A0H2UQV4	HLJICIJH_00718	IS1167 transposase
-	HLJICIJH_00719	Srn266
 A0A0H2UQW6	HLJICIJH_00720	Multiple sugar ABC transporter%2C ATP-binding protein
 A0A0H2UR29	HLJICIJH_00721	SAM-dependent methyltransferase
 P63544	HLJICIJH_00722	Adenine phosphoribosyltransferase
@@ -752,13 +654,10 @@ A0A0H2UQU8	HLJICIJH_00746	Calcium-transporting ATPase
 A0A0H2UQV0	HLJICIJH_00747	Glutathione S-transferase
 A0A0H2UR41	HLJICIJH_00748	Peptide deformylase
 A0A0H2UR15	HLJICIJH_00749	Cell shape-determining protein
-	HLJICIJH_00750	Hypothetical protein
-	HLJICIJH_00751	SpR20_sRNA
 Q97PQ6	HLJICIJH_00752	hypothetical protein
 A0A0H2UQT2	HLJICIJH_00753	Hypothetical protein
 A0A0H2UQU5	HLJICIJH_00754	Hypothetical protein
 A0A0H2UQU3	HLJICIJH_00755	Aspartate aminotransferase
-	HLJICIJH_00756	Putative lactoylglutathione lyase
 Q97PR0	HLJICIJH_00757	Asparaginyl-tRNA synthetase
 P66602	HLJICIJH_00758	SSU ribosomal protein S6p
 P66854	HLJICIJH_00759	Single-stranded DNA-binding protein
@@ -769,7 +668,6 @@ A0A0H2UQS7	HLJICIJH_00763	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase
 Q97PR7	HLJICIJH_00764	Putative endonuclease
 P65755	HLJICIJH_00765	Manganese-dependent inorganic pyrophosphatase
 A0A0H2UQT9	HLJICIJH_00766	Glutamate synthase [NADPH] large chain
-	HLJICIJH_00767	hypothetical protein
 A0A0H2UQU0	HLJICIJH_00768	Hypothetical protein
 Q97PS1	HLJICIJH_00769	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
 A0A0H2UR31	HLJICIJH_00770	Putative cell division protein YtgP
@@ -818,7 +716,6 @@ A0A0H2UQQ9	HLJICIJH_00812	ATP-dependent RNA helicase YfmL
 A0A0H2UR04	HLJICIJH_00813	Oxidoreductase%2C Gfo/Idh/MocA family
 A0A0H2UQQ3	HLJICIJH_00814	Peptidoglycan N-acetylglucosamine deacetylase
 A0A0H2UQQ5	HLJICIJH_00815	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
-	HLJICIJH_00816	SpR19_sRNA
 A0A0H2UQZ9	HLJICIJH_00817	hypothetical protein
 A0A0H2UQW9	HLJICIJH_00818	hypothetical protein
 Q97PW5	HLJICIJH_00819	Glycyl-tRNA synthetase alpha chain
@@ -850,13 +747,9 @@ A0A0H2UQM9	HLJICIJH_00844	Beta-lactamase%2C class C
 A0A0H2UQN1	HLJICIJH_00845	Drug/metabolite transporter superfamily protein
 A0A0H2UQX2	HLJICIJH_00846	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 P64297	HLJICIJH_00847	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
-	HLJICIJH_00848	SpR18_sRNA
 A0A0H2UQB1	HLJICIJH_00849	IS1167 transposase
-	HLJICIJH_00850	Srn266
 A0A0H2UQD5	HLJICIJH_00851	IS66 family transposase Orf1
 A0A0H2UQM4	HLJICIJH_00852	IS66 family transposase Orf2
-	HLJICIJH_00853	hypothetical protein
-	HLJICIJH_00854	hypothetical protein
 A0A0H2XFH3	HLJICIJH_00855	Duplicated ATPase component of energizing module of putative ECF transporter
 A0A0H2US47	HLJICIJH_00856	IS1380 family transposase ISSpn5
 A0A0H2UQX0	HLJICIJH_00857	Duplicated ATPase component of energizing module of putative ECF transporter
@@ -866,7 +759,6 @@ A0A0H2UQM0	HLJICIJH_00860	ABC transporter ATP-binding/permease protein
 A0A0H2UQM1	HLJICIJH_00861	ABC transporter ATP-binding/permease protein
 A0A0H2UQW4	HLJICIJH_00862	Transcriptional regulator%2C AraC family
 A0A0H2UQK5	HLJICIJH_00863	Type II restriction-modification system methyltransferase
-	HLJICIJH_00864	hypothetical protein
 A0A0H2UQX6	HLJICIJH_00865	hypothetical protein
 A0A0H2UQL3	HLJICIJH_00866	Peptidase%2C U32 family large subunit (C1)
 A0A0H2UQL3	HLJICIJH_00867	Peptidase%2C U32 family large subunit (C1)
@@ -879,7 +771,6 @@ A0A0H2UQS6	HLJICIJH_00873	Nicotinate phosphoribosyltransferase
 P65508	HLJICIJH_00874	NAD synthetase
 A0A0H2UQJ6	HLJICIJH_00875	Acetyltransferase%2C GNAT family
 A0A0H2US47	HLJICIJH_00876	IS1380 family transposase ISSpn5
-	HLJICIJH_00877	Hypothetical protein
 A0A0H2UMZ8	HLJICIJH_00878	Choline-binding protein CbpM
 Q97Q15	HLJICIJH_00879	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
 Q97Q16	HLJICIJH_00880	Glucosamine-6-phosphate deaminase
@@ -896,7 +787,6 @@ Q97Q26	HLJICIJH_00890	Transcriptional regulator SpxA1
 P67361	HLJICIJH_00891	Hypothetical protein
 A0A0H2UQU6	HLJICIJH_00892	Inositol-1-monophosphatase
 A0A0H2UQR6	HLJICIJH_00893	tRNA and rRNA cytosine-C5-methylase
-	HLJICIJH_00894	Hypothetical protein
 Q97Q31	HLJICIJH_00895	Phosphate ABC transporter periplasmic phosphate-binding protein PstS2
 A0A0H2UQJ5	HLJICIJH_00896	Phosphate transport system permease protein PstC2
 A0A0H2UQJ8	HLJICIJH_00897	Phosphate transport system permease protein PstA2
@@ -941,10 +831,8 @@ P0A3Q9	HLJICIJH_00935	Peptide methionine sulfoxide reductase MsrAB1
 A0A0H2UQR4	HLJICIJH_00936	ABC transporter ATP-binding/permease protein
 A0A0H2UQN6	HLJICIJH_00937	ABC transporter ATP-binding/permease protein
 A0A0H2UQG0	HLJICIJH_00938	Methylthioadenosine deaminase
-	HLJICIJH_00939	L10_leader
 P66050	HLJICIJH_00940	LSU ribosomal protein L10p (P0)
 P0A471	HLJICIJH_00941	LSU ribosomal protein L7/L12 (P1/P2)
-	HLJICIJH_00942	rli38
 A0A0H2US47	HLJICIJH_00943	hypothetical protein
 A0A0H2UQR0	HLJICIJH_00944	hypothetical protein
 A0A0H2UQN0	HLJICIJH_00945	hypothetical protein
@@ -967,8 +855,6 @@ A0A0H2UQE8	HLJICIJH_00961	Tn5253 putative CAAX amino terminal protease
 A0A0H2UQN7	HLJICIJH_00962	Sialic acid utilization regulator%2C RpiR family
 Q97Q95	HLJICIJH_00963	N-acetylmannosamine-6-phosphate 2-epimerase
 A0A0H2UQL2	HLJICIJH_00964	4-hydroxy-tetrahydrodipicolinate synthase
-	HLJICIJH_00965	tRNA-Phe(aaa)
-	HLJICIJH_00965	
 A0A0H2UQE3	HLJICIJH_00966	Putative beta-D-galactosidase
 A0A0H2UQE4	HLJICIJH_00967	Sialidase
 A0A0H2UQN2	HLJICIJH_00968	Oxidoreductase
@@ -984,8 +870,6 @@ Q97QA9	HLJICIJH_00977	V-type sodium ATPase subunit B
 Q97QB0	HLJICIJH_00978	V-type sodium ATPase subunit D
 A0A0H2UQD5	HLJICIJH_00979	hypothetical protein
 A0A0H2UQM4	HLJICIJH_00980	IS66 family transposase Orf2
-	HLJICIJH_00981	IS66 family transposase ISDeal1
-	HLJICIJH_00982	hypothetical protein
 A0A0H2UQD7	HLJICIJH_00983	IS5 family transposase ISSpn7
 A0A0H2URY6	HLJICIJH_00984	IS1381 transposase OrfB
 A0A0H2URS1	HLJICIJH_00985	ABC transporter ATP-binding protein
@@ -1000,7 +884,6 @@ A0A0H2UQC7	HLJICIJH_00993	Chorismate mutase I
 Q97QC4	HLJICIJH_00994	ClC-type fluoride channel
 Q97QC5	HLJICIJH_00995	ClC-type fluoride channel
 Q97QC6	HLJICIJH_00996	LSU ribosomal protein L19p
-	HLJICIJH_00997	tRNA-Arg(cct)
 A0A0H2UQK8	HLJICIJH_00998	hypothetical protein
 A0A0H2UQI8	HLJICIJH_00999	Sugar phosphatase YidA
 A0A0H2UQC9	HLJICIJH_01000	dNTP triphosphohydrolase
@@ -1008,16 +891,13 @@ A0A0H2UQC1	HLJICIJH_01001	Hypothetical protein
 Q97QD1	HLJICIJH_01002	Signal recognition particle associated protein
 A0A0H2UQC2	HLJICIJH_01003	Signal recognition particle protein Ffh
 A0A0H2UQK3	HLJICIJH_01004	Uracil permease
-	HLJICIJH_01005	SpF44_sRNA
 Q97QD4	HLJICIJH_01006	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
 A0A0H2UQI3	HLJICIJH_01007	LemA
 Q97QD6	HLJICIJH_01008	Heat shock protein HtpX
 A0A0H2UQC5	HLJICIJH_01009	ABC transporter ATP-binding protein
-	HLJICIJH_01010	SpF43_sRNA
 A0A0H2UQB6	HLJICIJH_01011	BlpT protein
 A0A0H2UQB7	HLJICIJH_01012	Protein%2C clustered with ribosomal protein L32p
 A0A0H2UQJ4	HLJICIJH_01013	Endonuclease III
-	HLJICIJH_01014	PyrR
 P65946	HLJICIJH_01015	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
 Q97QE2	HLJICIJH_01016	Aspartate carbamoyltransferase
 P63733	HLJICIJH_01017	Carbamoyl-phosphate synthase small chain CarA
@@ -1034,20 +914,16 @@ A0A0H2UQA6	HLJICIJH_01027	DNA protecting protein DprA
 A0A0H2UQI4	HLJICIJH_01028	Integral membrane protein
 A0A0H2UQH1	HLJICIJH_01029	DNA topoisomerase I
 A0A0H2UQB1	HLJICIJH_01030	IS1167 transposase
-	HLJICIJH_01031	Srn266
 A0A0H2UQA4	HLJICIJH_01032	Hypothetical protein related to heme utilization
 A0A0H2UQA3	HLJICIJH_01033	Cytoplasmic copper homeostasis protein CutC
 A0A0H2UQH8	HLJICIJH_01034	Hypothetical protein
 A0A0H2UQG5	HLJICIJH_01035	2-isopropylmalate synthase
-	HLJICIJH_01036	3-isopropylmalate dehydrogenase
-	HLJICIJH_01037	3-isopropylmalate dehydrogenase
 A0A0H2UQA5	HLJICIJH_01038	Putative membrane protein
 Q97QF9	HLJICIJH_01039	3-isopropylmalate dehydratase small subunit
 A0A0H2UQH4	HLJICIJH_01040	Hypothetical protein
 A0A0H2UQG1	HLJICIJH_01041	Endonuclease
 A0A0H2UQA2	HLJICIJH_01042	Hypothetical protein
 Q97QG5	HLJICIJH_01043	GMP reductase
-	HLJICIJH_01044	tRNA-Arg(ccg)
 Q97QG6	HLJICIJH_01045	Ribonuclease III
 A0A0H2UQ93	HLJICIJH_01046	Chromosome partition protein SMC
 A0A0H2UQ94	HLJICIJH_01047	Hydrolase%2C HAD superfamily
@@ -1079,7 +955,6 @@ P0A3M9	HLJICIJH_01072	L-lactate dehydrogenase
 P72524	HLJICIJH_01073	DNA gyrase subunit A
 A0A0H2UQC3	HLJICIJH_01074	Sortase SrtA%2C LPXTG specific
 A0A0H2UQ58	HLJICIJH_01075	Formate-nitrate transporter
-	HLJICIJH_01076	O-acetyl-L-homoserine sulfhydrylase
 A0A0H2UQS2	HLJICIJH_01077	Cystathionine gamma-synthase
 A0A0H2UQB9	HLJICIJH_01078	Hypothetical protein
 Q97QJ3	HLJICIJH_01079	tRNA pseudouridine synthase B
@@ -1099,7 +974,6 @@ A0A0H2UQA7	HLJICIJH_01092	Galactose-specific PTS IIA component
 A0A0H2UQA9	HLJICIJH_01093	Galactose-specific PTS IIB component
 A0A0H2UPU7	HLJICIJH_01094	hypothetical protein
 A0A0H2UQ54	HLJICIJH_01095	IS1381 transposase OrfB
-	HLJICIJH_01096	Aldose epimerase
 Q97QL0	HLJICIJH_01097	Galactose-6-phosphate isomerase%2C LacA subunit
 Q97QL1	HLJICIJH_01098	Galactose-6-phosphate isomerase%2C LacB subunit
 Q97QL2	HLJICIJH_01099	Tagatose-6-phosphate kinase LacC
@@ -1123,7 +997,6 @@ A0A0H2UQ87	HLJICIJH_01116	Hypothetical protein
 P23379	HLJICIJH_01117	Uracil-DNA glycosylase%2C family 1
 P41354	HLJICIJH_01118	8-oxo-dGTP diphosphatase MutX
 Q97QN4	HLJICIJH_01119	Dihydroorotase
-	HLJICIJH_01120	Hypothetical protein
 Q97QN5	HLJICIJH_01121	Dihydrolipoamide acetyltransferase
 A0A0H2UQ24	HLJICIJH_01122	Acetoin dehydrogenase E1 component alpha-subunit
 A0A0H2UQ21	HLJICIJH_01123	Acetoin dehydrogenase E1 component beta-subunit
@@ -1135,7 +1008,6 @@ A0A0H2UQ16	HLJICIJH_01128	Voltage-gated chloride channel family protein
 Q97QP5	HLJICIJH_01129	Ribonuclease HII
 A0A0H2UQ83	HLJICIJH_01130	50S ribosomal subunit maturation GTPase RbgA
 Q97QP7	HLJICIJH_01131	IgA1 protease ZmpA
-	HLJICIJH_01132	hypothetical protein
 A0A0H2UQ84	HLJICIJH_01133	Hypothetical protein
 Q97QP9	HLJICIJH_01134	ATP-dependent nuclease subunit RexA
 Q97QQ0	HLJICIJH_01135	ATP-dependent nuclease subunit RexB
@@ -1145,7 +1017,6 @@ A0A0H2UQ80	HLJICIJH_01138	hypothetical protein
 A0A0H2UQ82	HLJICIJH_01139	hypothetical protein
 A0A0H2UQ20	HLJICIJH_01140	Antitoxin HigA
 A0A0H2UQ08	HLJICIJH_01141	hypothetical protein
-	HLJICIJH_01142	SpF41_sRNA
 A0A0H2UQ06	HLJICIJH_01143	hypothetical protein
 A0A0H2UQ77	HLJICIJH_01144	hypothetical protein
 A0A0H2UQ79	HLJICIJH_01145	hypothetical protein
@@ -1159,11 +1030,9 @@ A0A0H2UPZ9	HLJICIJH_01152	hypothetical protein
 A0A0H2UQ71	HLJICIJH_01153	hypothetical protein
 A0A0H2UQ72	HLJICIJH_01154	hypothetical protein
 A0A0H2UQ05	HLJICIJH_01155	Tyrosine recombinase XerC
-	HLJICIJH_01156	SpF01_sRNA
 Q97QS2	HLJICIJH_01157	Enolase
 A0A0H2UPZ2	HLJICIJH_01158	Hypothetical protein
 A0A0H2UPZ5	HLJICIJH_01159	Glycerate kinase
-	HLJICIJH_01160	Phosphoserine phosphatase
 Q97QS5	HLJICIJH_01161	Glycogen biosynthesis ADP-glucose--glucan transglucosylase GlgA
 A0A0H2UQ67	HLJICIJH_01162	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgD
 Q97QS7	HLJICIJH_01163	Glycogen biosynthesis glucose-1-phosphate adenylyltransferase subunit GlgC
@@ -1181,14 +1050,11 @@ A0A0H2UPY5	HLJICIJH_01174	Bifunctional FMN adenylyltransferase/riboflavin kinase
 P66135	HLJICIJH_01175	LSU ribosomal protein L27p
 A0A0H2UPY9	HLJICIJH_01176	Putative ribosomal protein
 Q97QU4	HLJICIJH_01177	LSU ribosomal protein L21p
-	HLJICIJH_01178	L21_leader
 A0A0H2UPX8	HLJICIJH_01179	Hypothetical protein
 P67266	HLJICIJH_01180	Hypothetical protein co-occurring with RecR
-	HLJICIJH_01181	Srn266
 A0A0H2UQB1	HLJICIJH_01182	IS1167 transposase Orf1
 A0A0H2URB0	HLJICIJH_01183	hypothetical protein
 A0A0H2UR11	HLJICIJH_01184	IS1167 transposase
-	HLJICIJH_01185	SpR14_sRNA
 A0A0H2UQ52	HLJICIJH_01186	Phosphate acetyltransferase
 A0A0H2UQ50	HLJICIJH_01187	RluD-like protein
 P65779	HLJICIJH_01188	NAD kinase
@@ -1210,7 +1076,6 @@ A0A0H2UQ40	HLJICIJH_01203	Methionine aminopeptidase
 A0A0H2UPX2	HLJICIJH_01204	Cytosolic protein containing multiple CBS domains
 A0A0H2UPW2	HLJICIJH_01205	Ribosomal-protein-S5p-alanine acetyltransferase
 Q97QW6	HLJICIJH_01206	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
-	HLJICIJH_01207	group-II-D1D4-3
 A0A0H2UPW8	HLJICIJH_01208	Hypothetical protein
 Q97QW8	HLJICIJH_01209	GTP-binding protein ObgE
 A0A0H2UQ37	HLJICIJH_01210	Hypothetical protein
@@ -1223,11 +1088,9 @@ A0A0H2UQ31	HLJICIJH_01216	DNA primase
 A0A0H2UQ29	HLJICIJH_01217	ABC transporter ATP-binding protein
 A0A0H2UPW3	HLJICIJH_01218	Putative tryptophan-specific ABC transporter permease protein TrpY
 A0A0H2UPV6	HLJICIJH_01219	ABC transporter substrate-binding protein
-	HLJICIJH_01220	T-box
 Q97QX6	HLJICIJH_01221	Phosphoenolpyruvate carboxylase
 A0A0H2UPV4	HLJICIJH_01222	Cell division protein FtsW
 A0A0H2UQD7	HLJICIJH_01223	IS5 family transposase IS1381A
-	HLJICIJH_01224	pemK
 A0A0H2URN2	HLJICIJH_01225	Putative repressor protein%2C phage associated
 A0A0H2UQ23	HLJICIJH_01226	IS200/IS605 family transposase ISSpn6
 A0A0H2UPV9	HLJICIJH_01227	hypothetical protein
@@ -1240,7 +1103,6 @@ A0A0H2UPU6	HLJICIJH_01233	Putative transcriptional regulator PlcR
 A0A0H2UPU5	HLJICIJH_01234	hypothetical protein
 A0A0H2UQ17	HLJICIJH_01235	Tn5252 Orf9 protein
 A0A0H2UQ13	HLJICIJH_01236	Tn5252 Orf10 protein
-	HLJICIJH_01237	group-II-D1D4-3
 Q97QY9	HLJICIJH_01238	putative protein
 Q97QZ0	HLJICIJH_01239	putative protein
 Q97QZ1	HLJICIJH_01240	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
@@ -1248,7 +1110,6 @@ Q97QZ2	HLJICIJH_01241	Antitoxin PezA
 A0A0H2UPU1	HLJICIJH_01242	hypothetical protein
 A0A0H2UPT9	HLJICIJH_01243	hypothetical protein
 Q54796	HLJICIJH_01244	Neopullulanase
-	HLJICIJH_01245	Neopullulanase
 Q97QZ6	HLJICIJH_01246	Transcriptional regulator
 A0A0H2UQ12	HLJICIJH_01247	Putative hydrolase
 A0A0H2UQ09	HLJICIJH_01248	Hypothetical protein
@@ -1256,17 +1117,12 @@ A0A0H2UPU3	HLJICIJH_01249	Hypothetical protein
 A0A0H2UPT7	HLJICIJH_01250	Hypothetical protein
 A0A0H2UPT4	HLJICIJH_01251	Phage integrase
 A0A0H2UQ07	HLJICIJH_01252	Hypothetical protein
-	HLJICIJH_01253	pemK
 A0A0H2UPU0	HLJICIJH_01254	Putative type II restriction endonuclease
 A0A0H2UPS9	HLJICIJH_01255	Iron compound ABC uptake transporter ATP-binding protein PiaD
 A0A0H2UQ01	HLJICIJH_01256	Iron compound ABC uptake transporter permease protein PiaC
 A0A0H2UPZ7	HLJICIJH_01257	Iron compound ABC uptake transporter permease protein PiaB
 A0A0H2UPT5	HLJICIJH_01258	Iron compound ABC uptake transporter substrate-binding protein PiaA
 A0A0H2UPS4	HLJICIJH_01259	Hypothetical protein
-	HLJICIJH_01260	SpF39_sRNA
-	HLJICIJH_01260	
-	HLJICIJH_01261	SpF61_sRNA
-	HLJICIJH_01261	
 Q97R12	HLJICIJH_01262	23S rRNA (uracil(1939)-C(5))-methyltransferase
 A0A0H2UPZ4	HLJICIJH_01263	Extracellular protein
 Q9AHT6	HLJICIJH_01264	Pneumococcal vaccine antigen A
@@ -1280,15 +1136,11 @@ A0A0H2UPY8	HLJICIJH_01271	Spermine/spermidine acetyltransferase
 Q97R22	HLJICIJH_01272	Thymidine kinase
 P67530	HLJICIJH_01273	Bifunctional 4-oxalocrotonate tautomerase/xylose transport system permease protein XylH
 Q97R24	HLJICIJH_01274	GTPase and tRNA-U34 5-formylation enzyme MnmE
-	HLJICIJH_01275	Srn266
 A0A0H2UQB1	HLJICIJH_01276	IS1167 transposase Orf1
 A0A0H2UQB1	HLJICIJH_01277	IS1167 transposase
 Q97R25	HLJICIJH_01278	4-hydroxy-tetrahydrodipicolinate synthase
 A0A0H2UPS5	HLJICIJH_01279	Aspartate-semialdehyde dehydrogenase
-	HLJICIJH_01280	asd
-	HLJICIJH_01281	tRNA-Thr(ggt)
 A0A0H2UPR7	HLJICIJH_01282	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	HLJICIJH_01283	preQ1-II
 A0A0H2UPR4	HLJICIJH_01284	GtrA family protein
 A0A0H2UPY7	HLJICIJH_01285	Large-conductance mechanosensitive channel MscL
 Q97R30	HLJICIJH_01286	Ferrochelatase%2C protoheme ferro-lyase
@@ -1300,8 +1152,6 @@ A0A0H2UPR3	HLJICIJH_01291	Pneumococcal histidine triad protein E
 A0A0H2UPR0	HLJICIJH_01292	Pneumococcal histidine triad protein B
 A0A0H2UPY0	HLJICIJH_01293	Laminin-binding surface protein
 A0A0H2UPX7	HLJICIJH_01294	Cationic amino acid transporter%2C APC Superfamily
-	HLJICIJH_01295	SpF36_sRNA
-	HLJICIJH_01295	
 A0A0H2UPR5	HLJICIJH_01296	Thiol:disulfide oxidoreductase
 A0A0H2UPQ8	HLJICIJH_01297	Cytochrome c-type biogenesis protein CcdA-2
 A0A0H2UPQ4	HLJICIJH_01298	Hypothetical protein
@@ -1341,14 +1191,11 @@ A0A0H2UPN2	HLJICIJH_01331	Lactoylglutathione lyase
 P66112	HLJICIJH_01332	LSU ribosomal protein L20p
 P66278	HLJICIJH_01333	LSU ribosomal protein L35p
 P65144	HLJICIJH_01334	Translation initiation factor 3
-	HLJICIJH_01335	L20_leader
 A0A0H2UPV7	HLJICIJH_01336	Hypothetical protein
 A0A0H2UPV0	HLJICIJH_01337	ABC transporter%2C ATP-binding protein
 A0A0H2UPN5	HLJICIJH_01338	Late competence DNA transporter ComEC
 A0A0H2UPM7	HLJICIJH_01339	Late competence DNA receptor ComEA
 A0A0H2UPV2	HLJICIJH_01340	Acetyltransferase%2C GNAT family
-	HLJICIJH_01341	Alanine dehydrogenase
-	HLJICIJH_01342	Alanine dehydrogenase 2
 A0A0H2UPU4	HLJICIJH_01343	hypothetical protein
 A0A0H2UPN4	HLJICIJH_01344	Acetyltransferase
 A0A0H2UQ41	HLJICIJH_01345	IS1381 transposase OrfB
@@ -1361,7 +1208,6 @@ Q97R83	HLJICIJH_01351	Uridine monophosphate kinase
 Q97R84	HLJICIJH_01352	Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO
 A0A0H2UPU7	HLJICIJH_01353	IS5 family transposase ISSpn7
 A0A0H2UPT8	HLJICIJH_01354	IS1381 transposase OrfB
-	HLJICIJH_01355	Replication protein
 A0A0H2UQN0	HLJICIJH_01356	Replication protein
 A0A0H2UPN0	HLJICIJH_01357	hypothetical protein
 A0A0H2UPM6	HLJICIJH_01358	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
@@ -1386,13 +1232,9 @@ P66835	HLJICIJH_01376	Spermidine synthase
 A0A0H2UPL1	HLJICIJH_01377	hypothetical protein
 A0A0H2UPK4	HLJICIJH_01378	Arginine decarboxylase
 A0A0H2UPS7	HLJICIJH_01379	ISSpn8 transposase
-	HLJICIJH_01380	Hypothetical protein
 A0A0H2UPR6	HLJICIJH_01381	ABC transporter permease protein
 A0A0H2UPL0	HLJICIJH_01382	ABC transporter ATP-binding protein
-	HLJICIJH_01383	Hypothetical protein
 A0A0H2UPK6	HLJICIJH_01384	Hypothetical protein
-	HLJICIJH_01385	Spd-sr07
-	HLJICIJH_01385	
 A0A0H2UPJ9	HLJICIJH_01386	Putative phage shock protein C
 Q97RB5	HLJICIJH_01387	Putative SprT family zinc-dependent metallopeptidase
 A0A0H2UPS3	HLJICIJH_01388	Transcription accessory protein
@@ -1427,8 +1269,6 @@ P64166	HLJICIJH_01416	DNA translocase FtsK
 A0A0H2UPH7	HLJICIJH_01417	Fructose-specific PTS IIABC components
 A0A0H2UPP9	HLJICIJH_01418	1-phosphofructokinase
 A0A0H2UPN6	HLJICIJH_01419	Transcriptional repressor of the fructose operon%2C DeoR family
-	HLJICIJH_01420	tRNA-Ser(gga)
-	HLJICIJH_01421	transfer-messenger RNA%2C SsrA
 A0A0H2UPH4	HLJICIJH_01422	Coordinator of zonal cell elongation
 A0A0H2UPH1	HLJICIJH_01423	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 A0A0H2UPP2	HLJICIJH_01424	Iron-sulfur cluster assembly protein SufB
@@ -1439,13 +1279,10 @@ A0A0H2UPG7	HLJICIJH_01428	Iron-sulfur cluster assembly ATPase protein SufC
 A0A0H2UPN7	HLJICIJH_01429	Hypothetical protein
 A0A0H2UPM2	HLJICIJH_01430	DNA polymerase III subunits gamma and tau
 A0A0H2UPG8	HLJICIJH_01431	GAF domain-containing protein
-	HLJICIJH_01432	Srn266
 A0A0H2UQB1	HLJICIJH_01433	IS1167 transposase Orf1
 A0A0H2UQB1	HLJICIJH_01434	hypothetical protein
 A0A0H2UR11	HLJICIJH_01435	IS1167 transposase
 A0A0H2UPG5	HLJICIJH_01436	SSU ribosomal protein S1p
-	HLJICIJH_01437	tRNA-Gln(ttg)
-	HLJICIJH_01438	tRNA-Tyr(gta)
 A0A0H2UPG2	HLJICIJH_01439	Hypothetical protein
 P65678	HLJICIJH_01440	Pyrrolidone-carboxylate peptidase
 A0A0H2UPN3	HLJICIJH_01441	Putative membrane protein
@@ -1471,7 +1308,6 @@ A0A0H2UPF5	HLJICIJH_01460	Hypothetical protein
 Q97RH6	HLJICIJH_01461	Pantothenate kinase
 Q97RH7	HLJICIJH_01462	SSU ribosomal protein S20p
 A0A0H2UPE8	HLJICIJH_01463	FlaR-related DNA topology modulation protein
-	HLJICIJH_01464	Srn266
 A0A0H2UPE9	HLJICIJH_01465	IS1167 transposase
 A0A0H2UPL9	HLJICIJH_01466	Purine nucleoside phosphorylase
 A0A0H2UPK2	HLJICIJH_01467	Thiol-activated cytolysin
@@ -1480,8 +1316,6 @@ A0A0H2UPE3	HLJICIJH_01469	Bifunctional purine nucleoside phosphorylase/N-ribosyl
 A0A0H2UPL4	HLJICIJH_01470	hypothetical protein
 Q97RI6	HLJICIJH_01471	Phosphopentomutase
 Q97RI7	HLJICIJH_01472	Ribose 5-phosphate isomerase A
-	HLJICIJH_01473	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
-	HLJICIJH_01474	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
 A0A0H2UPJ7	HLJICIJH_01475	hypothetical protein
 Q97RI9	HLJICIJH_01476	Bifunctional methylenetetrahydrofolate dehydrogenase (NADP+)/methenyltetrahydrofolate cyclohydrolase
 A0A0H2UPE4	HLJICIJH_01477	Glutamine ABC transporter ATP-binding protein GlnQ4
@@ -1494,7 +1328,6 @@ A0A0H2UPE0	HLJICIJH_01483	MutT/Nudix family protein
 A0A0H2UPD4	HLJICIJH_01484	Hypothetical protein
 A0A0H2UQQ8	HLJICIJH_01485	IS3 family transposase ISSpn11
 A0A0H2UQQ8	HLJICIJH_01486	IS3 family transposase ISSpn11
-	HLJICIJH_01487	hypothetical protein
 A0A0H2UQW5	HLJICIJH_01488	hypothetical protein
 A0A0H2UQM4	HLJICIJH_01489	IS66 family transposase Orf2
 A0A0H2UPK3	HLJICIJH_01490	IS630 family transposase ISSpn2
@@ -1576,7 +1409,6 @@ Q54970	HLJICIJH_01565	Pyruvate oxidase
 A0A0H2UP76	HLJICIJH_01566	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
 A0A0H2UPE6	HLJICIJH_01567	Copper-exporting ATPase
 A0A0H2UPC1	HLJICIJH_01568	Negative transcriptional regulator of copper transport operon
-	HLJICIJH_01569	TPP
 A0A0H2UP75	HLJICIJH_01570	Hydroxymethylpyrimidine phosphate kinase ThiD
 P66920	HLJICIJH_01571	Thiamin-phosphate pyrophosphorylase
 Q97RR9	HLJICIJH_01572	Hydroxyethylthiazole kinase
@@ -1585,11 +1417,9 @@ A0A0H2UP71	HLJICIJH_01574	Thiaminase II TenA
 A0A0H2UPD9	HLJICIJH_01575	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A0H2UPB5	HLJICIJH_01576	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A0H2UP70	HLJICIJH_01577	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
-	HLJICIJH_01578	TPP
 Q97RS5	HLJICIJH_01579	Thiamin-phosphate pyrophosphorylase
 Q97RS6	HLJICIJH_01580	Hydroxyethylthiazole kinase
 A0A0H2UP67	HLJICIJH_01581	Thiaminase II
-	HLJICIJH_01582	TPP
 A0A0H2UP66	HLJICIJH_01583	L-Lactate 2-monooxygenase
 A0A0H2US47	HLJICIJH_01584	IS1380 family transposase ISSpn5
 Q97RS9	HLJICIJH_01585	Class II lysyl-tRNA synthetase
@@ -1606,13 +1436,10 @@ A0A0H2UP59	HLJICIJH_01595	Hypothetical protein
 A0A0H2UP58	HLJICIJH_01596	Hypothetical protein
 P0CB78	HLJICIJH_01597	Orotate phosphoribosyltransferase
 P0CB75	HLJICIJH_01598	Orotidine 5'-phosphate decarboxylase
-	HLJICIJH_01599	PyrR
 A0A0H2UPC4	HLJICIJH_01600	Putative membrane spanning protein
 A0A0H2UQM8	HLJICIJH_01601	Fluoroquinolones export ATP-binding protein
-	HLJICIJH_01602	Hypothetical protein
 A0A0H2UPA2	HLJICIJH_01603	hypothetical protein
 A0A0H2UP54	HLJICIJH_01604	Sulfur carrier protein adenylyltransferase
-	HLJICIJH_01605	hypothetical protein
 A0A0H2UP53	HLJICIJH_01606	hypothetical protein
 A0A0H2UPB9	HLJICIJH_01607	Hypothetical protein
 A0A0H2UP96	HLJICIJH_01608	Hypothetical protein
@@ -1651,17 +1478,13 @@ A0A0H2UP25	HLJICIJH_01640	Na+/H+ antiporter
 A0A0H2UP21	HLJICIJH_01641	Hypothetical protein
 A0A0H2UP89	HLJICIJH_01642	Putative rRNA methylase YtqB
 A0A0H2UQS7	HLJICIJH_01643	hypothetical protein
-	HLJICIJH_01644	hypothetical protein
 A0A0H2UP61	HLJICIJH_01645	Hypothetical protein
-	HLJICIJH_01646	SpF25_sRNA
-	HLJICIJH_01647	hypothetical protein
 A0A0H2URK2	HLJICIJH_01648	hypothetical protein
 A0A0H2UP19	HLJICIJH_01649	Beta-galactosidase BgaA
 A0A0H2UN39	HLJICIJH_01650	Hypothetical protein
 A0A0H2UP20	HLJICIJH_01651	Galactose-specific PTS IIC component
 A0A0H2UP17	HLJICIJH_01652	Galactose-specific PTS IIB component
 A0A0H2UP84	HLJICIJH_01653	Galactose-specific PTS IIA component
-	HLJICIJH_01654	hypothetical protein
 A0A0H2UP55	HLJICIJH_01655	Serine protease PrtA precursor
 A0A0H2URH1	HLJICIJH_01656	Hypothetical protein
 A0A0H2UP15	HLJICIJH_01657	hypothetical protein
@@ -1670,14 +1493,12 @@ A0A0H2UP79	HLJICIJH_01659	Antibiotic ABC transporter permease protein
 A0A0H2UP49	HLJICIJH_01660	ABC transporter ATP-binding protein
 A0A0H2UP07	HLJICIJH_01661	Hypothetical protein
 A0A0H2UN39	HLJICIJH_01662	Hypothetical protein
-	HLJICIJH_01663	Intron_gpII
 P66095	HLJICIJH_01664	LSU ribosomal protein L1p (L10Ae)
 Q97RZ6	HLJICIJH_01665	LSU ribosomal protein L11p (L12e)
 A0A0H2UP74	HLJICIJH_01666	L%2CD-carboxypeptidase
 A0A0H2UP45	HLJICIJH_01667	Histidine triad family protein
 A0A0H2UP05	HLJICIJH_01668	Deblocking aminopeptidase
 A0A0H2UP06	HLJICIJH_01669	Branched-chain amino acid transport system carrier protein
-	HLJICIJH_01670	SpF22_sRNA
 A0A0H2UP83	HLJICIJH_01671	hypothetical protein
 A0A0H2UP01	HLJICIJH_01672	Uracil-DNA glycosylase
 A0A0H2UP69	HLJICIJH_01673	Dipeptidase PepV
@@ -1720,14 +1541,11 @@ Q97S36	HLJICIJH_01709	Phenylalanyl-tRNA synthetase alpha chain
 A0A0H2UP35	HLJICIJH_01710	6-phospho-beta-glucosidase
 A0A0H2UP00	HLJICIJH_01711	Beta-glucoside-specific PTS IIBCA components
 A0A0H2UNX2	HLJICIJH_01712	Beta-glucoside bgl operon antiterminator BglG
-	HLJICIJH_01713	SpF19_sRNA
 A0A0H2UNX1	HLJICIJH_01714	hypothetical protein
 A0A0H2UNX3	HLJICIJH_01715	hypothetical protein
 A0A0H2UP32	HLJICIJH_01716	hypothetical protein
-	HLJICIJH_01717	Srn266
 A0A0H2UQV4	HLJICIJH_01718	IS1167 transposase Orf1
 A0A0H2UQB1	HLJICIJH_01719	hypothetical protein
-	HLJICIJH_01720	hypothetical protein
 A0A0H2UNZ6	HLJICIJH_01721	Fic domain protein
 A0A0H2UNW9	HLJICIJH_01722	hypothetical protein
 A0A0H2UNW9	HLJICIJH_01723	hypothetical protein
@@ -1740,7 +1558,6 @@ A0A0H2UNZ4	HLJICIJH_01729	Hypothetical protein
 A0A0H2UNW4	HLJICIJH_01730	Hypothetical protein
 A0A0H2UNW3	HLJICIJH_01731	Hypothetical protein
 A0A0H2UNW5	HLJICIJH_01732	Glycerate kinase
-	HLJICIJH_01733	hypothetical protein
 A0A0H2UNZ0	HLJICIJH_01734	Hypothetical protein
 A0A0H2UNW0	HLJICIJH_01735	Hypothetical protein
 Q97S56	HLJICIJH_01736	Ribosome-binding factor A
@@ -1779,7 +1596,6 @@ A0A0H2UNS3	HLJICIJH_01768	ABC transporter ATP-binding protein EcsA
 A0A0H2UNS0	HLJICIJH_01769	Histidine triad nucleotide-binding protein
 A0A0H2UNR9	HLJICIJH_01770	Hypothetical protein
 P95830	HLJICIJH_01771	Chaperone protein DnaJ
-	HLJICIJH_01772	SpF14_sRNA
 A0A0H2UNW1	HLJICIJH_01773	Hypothetical protein
 P95829	HLJICIJH_01774	Chaperone protein DnaK
 Q97S73	HLJICIJH_01775	Heat shock protein GrpE
@@ -1792,7 +1608,6 @@ A0A0H2UNR3	HLJICIJH_01781	Type I restriction-modification system%2C specificity 
 A0A0H2UNR1	HLJICIJH_01782	Type I restriction-modification system%2C specificity subunit S type F
 A0A0H2UNQ8	HLJICIJH_01783	Integrase/recombinase CreX (XerC/CodV family)
 A0A0H2UNV3	HLJICIJH_01784	Type I restriction-modification system%2C specificity subunit S components 1.1-2.1
-	HLJICIJH_01785	hypothetical protein
 A0A0H2UNQ5	HLJICIJH_01786	Glutamine synthetase type I
 A0A0H2UNQ3	HLJICIJH_01787	Transcriptional regulator%2C MerR family
 A0A0H2UNU9	HLJICIJH_01788	Hypothetical protein
@@ -1806,9 +1621,7 @@ A0A0H2UNU7	HLJICIJH_01795	Hypothetical protein
 A0A0H2UNQ1	HLJICIJH_01796	Hypothetical protein
 A0A0H2UNP4	HLJICIJH_01797	Membrane-associated phospholipid phosphatase
 A0A0H2UNP3	HLJICIJH_01798	Substrate-specific component RibU of riboflavin ECF transporter
-	HLJICIJH_01799	FMN
 A0A0H2UNS5	HLJICIJH_01800	tRNA (cytidine(34)-2'-O)-methyltransferase
-	HLJICIJH_01801	23S-methyl
 A0A0H2UNP6	HLJICIJH_01802	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
 Q97SA3	HLJICIJH_01803	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 A0A0H2URH1	HLJICIJH_01804	Hypothetical protein
@@ -1822,10 +1635,8 @@ A0A0H2UNP1	HLJICIJH_01811	Lactose-specific PTS IIA component
 A0A0H2UNN2	HLJICIJH_01812	Hypothetical protein
 A0A0H2UNN6	HLJICIJH_01813	Cellobiose-specific PTS IIC component
 A0A0H2UNU1	HLJICIJH_01814	Xylose repressor protein
-	HLJICIJH_01815	Hypothetical protein
 A0A0H2UNN4	HLJICIJH_01816	Hypothetical protein
 A0A0H2UNM6	HLJICIJH_01817	hypothetical protein
-	HLJICIJH_01818	Srn266
 A0A0H2UR11	HLJICIJH_01819	IS1167 transposase Orf1
 A0A0H2UQB1	HLJICIJH_01820	IS1167 transposase Orf2
 A0A0H2UNN1	HLJICIJH_01821	hypothetical protein
@@ -1835,7 +1646,6 @@ A0A0H2UNM0	HLJICIJH_01824	hypothetical protein
 A0A0H2UNM7	HLJICIJH_01825	hypothetical protein
 A0A0H2UNT6	HLJICIJH_01826	hypothetical protein
 A0A0H2UNQ4	HLJICIJH_01827	hypothetical protein
-	HLJICIJH_01828	Srn266
 A0A0H2UNM1	HLJICIJH_01829	IS1167 transposase
 A0A0H2UNL5	HLJICIJH_01830	Pyruvate formate-lyase
 Q97SC7	HLJICIJH_01831	DNA polymerase IV
@@ -1865,7 +1675,6 @@ A0A0H2UNK7	HLJICIJH_01854	Alkaline shock protein
 P65582	HLJICIJH_01855	Transcription termination protein NusB
 A0A0H2UR11	HLJICIJH_01856	IS1167 transposase
 A0A0H2UQB1	HLJICIJH_01857	IS1167 transposase
-	HLJICIJH_01858	Srn266
 A0A0H2UNK9	HLJICIJH_01859	hypothetical protein
 A0A0H2UNR8	HLJICIJH_01860	Hypothetical protein
 Q9FBB7	HLJICIJH_01861	Acetyl-coenzyme A carboxyl transferase alpha chain
@@ -1887,7 +1696,6 @@ Q97SG0	HLJICIJH_01876	Seryl-tRNA synthetase
 A0A0H2UNI7	HLJICIJH_01877	Exfoliative toxin A
 A0A0H2UNJ6	HLJICIJH_01878	Macrophage infectivity potentiator protein
 A0A0H2UNQ2	HLJICIJH_01879	Sodium/glycine symporter GlyP
-	HLJICIJH_01880	Glycine
 Q97SG5	HLJICIJH_01881	Recombination inhibitory protein MutS2
 A0A0H2UNI6	HLJICIJH_01882	Z-ring positive regulator ZapB
 A0A0H2UNI4	HLJICIJH_01883	Z-ring positive regulator ZapA
@@ -1900,13 +1708,11 @@ A0A0H2UNL8	HLJICIJH_01889	Mannitol-specific PTS IIA component
 A0A0H2UNI1	HLJICIJH_01890	Mannitol operon activator%2C BglG family
 Q97SH4	HLJICIJH_01891	Mannitol-specific PTS IIBC components
 A0A0H2UQW5	HLJICIJH_01892	hypothetical protein
-	HLJICIJH_01893	hypothetical protein
 A0A0H2UQQ8	HLJICIJH_01894	hypothetical protein
 A0A0H2UQQ8	HLJICIJH_01895	IS3 family transposase ISSpn4
 A0A0H2UNH9	HLJICIJH_01896	Choline-binding protein CbpK
 A0A0H2UNI2	HLJICIJH_01897	hypothetical protein
 A0A0H2UNP5	HLJICIJH_01898	Hypothetical protein
-	HLJICIJH_01899	hypothetical protein
 A0A0H2UNL2	HLJICIJH_01900	Two-component transcriptional regulator VraR
 A0A0H2UNH7	HLJICIJH_01901	Two-component system sensor histidine kinase VraS
 A0A0H2UNH4	HLJICIJH_01902	Cell wall-active antibiotics response protein VraT
@@ -1923,7 +1729,6 @@ A0A0H2UNK2	HLJICIJH_01912	Orphan response regulator RitR
 A0A0H2UNG6	HLJICIJH_01913	6-phosphogluconate dehydrogenase%2C decarboxylating
 A0A0H2UNG3	HLJICIJH_01914	Mid-cell-anchored protein Z
 A0A0H2UNG1	HLJICIJH_01915	23S rRNA (guanine(2445)-N(2))-methyltransferase
-	HLJICIJH_01916	RNaseP_bact_b
 Q97SI9	HLJICIJH_01917	Cell division protein GpsB
 Q97SJ0	HLJICIJH_01918	Hypothetical protein
 P0A455	HLJICIJH_01919	RecU Holliday junction resolvase
@@ -1933,7 +1738,6 @@ P35592	HLJICIJH_01922	Oligopeptide ABC transporter%2C periplasmic oligopeptide-b
 A0A0H2UQD5	HLJICIJH_01923	IS66 family transposase Orf1
 A0A0H2UQM4	HLJICIJH_01924	IS66 family transposase Orf2
 A0A0H2XDB7	HLJICIJH_01925	IS630 family transposase ISSpn2
-	HLJICIJH_01926	hypothetical protein
 A0A0H2UNJ4	HLJICIJH_01927	UDP-2%2C3-diacetamido-2%2C3-dideoxy-D-glucuronate 2-epimerase
 A0A0H2UNG2	HLJICIJH_01928	UDP-2-acetamido-2%2C6-beta-L-arabino-hexul-4-ose reductase
 A0A0H2UNF8	HLJICIJH_01929	UDP-glucose 4-epimerase
@@ -1981,11 +1785,7 @@ A0A0H2UNC8	HLJICIJH_01970	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehyd
 A0A0H2UQ23	HLJICIJH_01971	IS200/IS605 family transposase ISStin10
 Q54873	HLJICIJH_01972	Hyaluronate lyase precursor SpnHL
 A0A0H2UNC4	HLJICIJH_01973	Glutathione peroxidase family protein
-	HLJICIJH_01974	SpF11_sRNA
 A0A0H2UNJ3	HLJICIJH_01975	Maltodextrin glucosidase
-	HLJICIJH_01976	SpF10_sRNA
-	HLJICIJH_01976	
-	HLJICIJH_01977	hypothetical protein
 A0A0H2UNG4	HLJICIJH_01978	Hypothetical protein
 A0A0H2UNC6	HLJICIJH_01979	Cellobiose-specific PTS IIC component
 A0A0H2UNB8	HLJICIJH_01980	Hypothetical protein
@@ -2002,7 +1802,6 @@ A0A0H2UNA8	HLJICIJH_01990	hypothetical protein
 A0A0H2UNH8	HLJICIJH_01991	hypothetical protein
 Q97SN4	HLJICIJH_01992	SSU ribosomal protein S9p (S16e)
 A0A0H2UNF0	HLJICIJH_01993	LSU ribosomal protein L13p (L13Ae)
-	HLJICIJH_01994	L13_leader
 A0A0H2UNB6	HLJICIJH_01995	Hypothetical protein
 P22291	HLJICIJH_01996	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 P51595	HLJICIJH_01997	GTP cyclohydrolase I type 1
@@ -2034,16 +1833,8 @@ Q97SR1	HLJICIJH_02022	Prolyl-tRNA synthetase
 Q97SR2	HLJICIJH_02023	Intramembrane protease Eep
 A0A0H2UN85	HLJICIJH_02024	Phosphatidate cytidylyltransferase
 Q97SR4	HLJICIJH_02025	Undecaprenyl diphosphate synthase
-	HLJICIJH_02026	csRNA
 A0A0H2UN86	HLJICIJH_02027	Hypothetical protein
 Q97SR6	HLJICIJH_02028	Holliday junction DNA helicase RuvB
-	HLJICIJH_02029	csRNA
-	HLJICIJH_02030	hypothetical protein
-	HLJICIJH_02031	hypothetical protein
-	HLJICIJH_02032	Group II intron-encoded protein LtrA
-	HLJICIJH_02033	group-II-D1D4-1
-	HLJICIJH_02034	group-II-D1D4-3
-	HLJICIJH_02035	csRNA
 A0A0H2UND0	HLJICIJH_02036	Acetyltransferase%2C GNAT family
 A0A0H2UN87	HLJICIJH_02037	Acetyltransferase%2C GNAT family
 Q97SS0	HLJICIJH_02038	Leucyl-tRNA synthetase
@@ -2060,12 +1851,9 @@ A0A0H2UN78	HLJICIJH_02048	ABC transporter%2C substrate-binding protein
 A0A0H2UN68	HLJICIJH_02049	Ferric iron ABC transporter ATP-binding protein
 A0A0H2URD4	HLJICIJH_02050	hypothetical protein
 A0A0H2URD4	HLJICIJH_02051	hypothetical protein
-	HLJICIJH_02052	hypothetical protein
 A0A0H2UN71	HLJICIJH_02053	Phosphoglycerate mutase family protein
-	HLJICIJH_02054	csRNA
 Q97ST4	HLJICIJH_02055	hypothetical protein
 P67382	HLJICIJH_02056	ACT domain-containing transcriptional regulator
-	HLJICIJH_02057	L17DE
 Q97ST6	HLJICIJH_02058	LSU ribosomal protein L17p
 P66708	HLJICIJH_02059	DNA-directed RNA polymerase alpha subunit
 P66359	HLJICIJH_02060	SSU ribosomal protein S11p (S14e)
@@ -2100,12 +1888,10 @@ A0A0H2UN65	HLJICIJH_02088	Ribonucleotide reductase of class III%2C activating pr
 A0A0H2UND8	HLJICIJH_02089	Acetyltransferase
 A0A0H2UN67	HLJICIJH_02090	Ribonucleotide reductase of class III%2C large subunit
 A0A0H2UN59	HLJICIJH_02091	Competence-damage induced protein
-	HLJICIJH_02092	Hypothetical protein
 A0A0H2UND2	HLJICIJH_02093	Cardiolipin synthetase
 A0A0H2UNA1	HLJICIJH_02094	Hypothetical protein
 A0A0H2UN62	HLJICIJH_02095	Bifunctional dihydrofolate synthase/folylpolyglutamate synthase
 Q97SX0	HLJICIJH_02096	Hypothetical protein
-	HLJICIJH_02097	Putative pre-16S rRNA nuclease YqgF
 Q97SX1	HLJICIJH_02098	Hypothetical protein
 A0A0H2UNC7	HLJICIJH_02099	Hypothetical protein
 A0A0H2UN57	HLJICIJH_02100	Transcriptional regulator SpxA2
@@ -2117,7 +1903,6 @@ A0A0H2UN46	HLJICIJH_02105	Muramoyltetrapeptide carboxypeptidase
 A0A0H2UN44	HLJICIJH_02106	CAAX amino terminal protease family protein
 A0A0H2UNB7	HLJICIJH_02107	DNA-3-methyladenine glycosylase
 Q97SY4	HLJICIJH_02108	Holliday junction DNA helicase RuvA
-	HLJICIJH_02109	FMN
 A0A0H2UN84	HLJICIJH_02110	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
 A0A0H2UN48	HLJICIJH_02111	Riboflavin synthase RibE
 A0A0H2UN41	HLJICIJH_02112	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
@@ -2126,12 +1911,9 @@ P0A3R1	HLJICIJH_02114	DNA mismatch repair protein HexB
 A0A0H2UN36	HLJICIJH_02115	hypothetical protein
 A0A0H2UN34	HLJICIJH_02116	hypothetical protein
 A0A0H2UNA7	HLJICIJH_02117	2-[(L-alanin-3-ylcarbamoyl)methyl]-2-hydroxybutanedioate decarboxylase
-	HLJICIJH_02118	hypothetical protein
 A0A0H2UN75	HLJICIJH_02119	Coenzyme A biosynthesis bifunctional protein CoaBC
 A0A0H2UN38	HLJICIJH_02120	hypothetical protein
 A0A0H2UN31	HLJICIJH_02121	Putative transcriptional regulator PlcR
-	HLJICIJH_02122	SpF56_sRNA
-	HLJICIJH_02122	
 A0A0H2UNA2	HLJICIJH_02123	DNA-binding protein
 A0A0H2UN69	HLJICIJH_02124	Hypothetical protein
 A0A0H2UN33	HLJICIJH_02125	NRAMP family Mn2+/Fe2+ transporter
@@ -2154,16 +1936,13 @@ A0A0H2UN88	HLJICIJH_02141	Hypothetical protein
 A0A0H2UN53	HLJICIJH_02142	Hypothetical protein
 A0A0H2UN18	HLJICIJH_02143	Hypothetical protein
 A0A0H2UN11	HLJICIJH_02144	Positive transcriptional regulator%2C MutR family
-	HLJICIJH_02145	UDP-glucose 6-dehydrogenase
 Q97R24	HLJICIJH_02146	UDP-glucose 6-dehydrogenase
 A0A0H2UN12	HLJICIJH_02147	Hypothetical protein
 A0A0H2UN83	HLJICIJH_02148	Asparagine synthetase
-	HLJICIJH_02149	hypothetical protein
 A0A0H2UN47	HLJICIJH_02150	ABC transporter ATP-binding protein
 A0A0H2UN13	HLJICIJH_02151	Family 2 glycosyltransferase
 A0A0H2UN06	HLJICIJH_02152	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 A0A0H2UN79	HLJICIJH_02153	Exopolysaccharide biosynthesis glycosyltransferase EpsF
-	HLJICIJH_02154	Srn266
 A0A0H2UQV4	HLJICIJH_02155	IS1167 transposase
 A0A0H2UQV4	HLJICIJH_02156	hypothetical protein
 Q97T27	HLJICIJH_02157	N(6)-L-threonylcarbamoyladenine synthase TsaD
@@ -2171,21 +1950,13 @@ A0A0H2UN42	HLJICIJH_02158	Ribosomal-protein-S18p-alanine acetyltransferase
 A0A0H2UN08	HLJICIJH_02159	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
 A0A0H2UN03	HLJICIJH_02160	Two-peptide bacteriocin peptide CibA
 A0A0H2UN74	HLJICIJH_02161	Two-peptide bacteriocin peptide CibB
-	HLJICIJH_02162	hypothetical protein
 Q97T34	HLJICIJH_02163	Hypothetical protein
 A0A0H2UN05	HLJICIJH_02164	Ribonuclease J1 (endonuclease and 5' exonuclease)
 Q97T36	HLJICIJH_02165	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 A0A0H2UMZ7	HLJICIJH_02166	MutT/Nudix family protein
-	HLJICIJH_02167	Spd-sr37
-	HLJICIJH_02167	
 Q97T38	HLJICIJH_02168	tRNA-specific 2-thiouridylase MnmA
 A0A0H2UMZ8	HLJICIJH_02169	hypothetical protein
-	HLJICIJH_02170	hypothetical protein
-	HLJICIJH_02171	Bacilli-1
-	HLJICIJH_02171	
-	HLJICIJH_02172	SpF03_sRNA
 A0A0H2UN32	HLJICIJH_02173	Hypothetical protein
-	HLJICIJH_02174	Hypothetical protein
 A0A0H2XDC4	HLJICIJH_02175	Argininosuccinate synthase
 A0A0H2UMZ3	HLJICIJH_02176	Amino acid ABC transporter substrate-binding/permease protein
 A0A0H2UMZ2	HLJICIJH_02177	ABC transporter ATP-binding protein
@@ -2210,12 +1981,10 @@ A0A0H2UMX4	HLJICIJH_02195	ABC transporter permease protein
 A0A0H2UMX3	HLJICIJH_02196	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 A0A0H2UN45	HLJICIJH_02197	Hypothetical protein
 A0A0H2UN04	HLJICIJH_02198	Hypothetical protein
-	HLJICIJH_02199	SpF01_sRNA
 P66565	HLJICIJH_02200	SSU ribosomal protein S4p (S9e)
 A0A0H2UMW9	HLJICIJH_02201	Two-component system sensor histidine kinase
 A0A0H2UMW8	HLJICIJH_02202	Two-component system response regulator
 A0A0H2UN40	HLJICIJH_02203	Cell wall surface anchor family protein PavB
-	HLJICIJH_02204	hypothetical protein
 A0A0H2UR96	HLJICIJH_02205	hypothetical protein
 A0A0H2UMX0	HLJICIJH_02206	Trk family potassium uptake protein CabP
 A0A0H2UMW5	HLJICIJH_02207	Trk family potassium uptake protein
@@ -2249,7 +2018,6 @@ A0A0H2UMW6	HLJICIJH_02234	Phosphoribosylformylglycinamidine synthase%2C syntheta
 Q07296	HLJICIJH_02235	Phosphoribosylaminoimidazole-succinocarboxamide synthase
 P36498	HLJICIJH_02236	Competence-stimulating peptide ABC transporter permease protein ComB
 Q03727	HLJICIJH_02237	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
-	HLJICIJH_02238	Hypothetical protein
 A0A0H2UMT5	HLJICIJH_02239	Bacteriocin BlpU
 A0A0H2XFI0	HLJICIJH_02240	IS1381 transposase OrfB
 A0A0H2UMT4	HLJICIJH_02241	Acyl carrier protein
@@ -2262,7 +2030,6 @@ A0A0H2UMW1	HLJICIJH_02247	CoA-binding protein
 P59199	HLJICIJH_02248	DNA polymerase I
 A0A0H2UMT0	HLJICIJH_02249	hypothetical protein
 A0A0H2UMS9	HLJICIJH_02250	hypothetical protein
-	HLJICIJH_02251	Srn266
 A0A0H2UQB1	HLJICIJH_02252	hypothetical protein
 P65239	HLJICIJH_02253	Ribose-phosphate pyrophosphokinase
 A0A0H2UMZ6	HLJICIJH_02254	hypothetical protein
@@ -2271,20 +2038,12 @@ A0A0H2UMS5	HLJICIJH_02256	Carbonic anhydrase
 A0A0H2UPB8	HLJICIJH_02257	DNA repair protein RadA
 A0A0H2UMS6	HLJICIJH_02258	Hypothetical protein
 A0A0H2UMS4	HLJICIJH_02259	Deoxyuridine 5'-triphosphate nucleotidohydrolase
-	HLJICIJH_02260	Bacteria_small_SRP
 A0A0H2UMZ1	HLJICIJH_02261	tRNA-specific adenosine-34 deaminase
-	HLJICIJH_02262	csRNA
 P65887	HLJICIJH_02263	Adenylosuccinate synthetase
 A0A0H2UMV1	HLJICIJH_02264	Competence positive regulator ComW
 A0A0H2UQV4	HLJICIJH_02265	IS1167 transposase Orf1
 A0A0H2URS2	HLJICIJH_02266	IS630 family transposase IS630-Spn1
 A0A0H2UMS1	HLJICIJH_02267	IS630 family transposase IS630-Spn1
-	HLJICIJH_02268	tRNA-Asn(gtt)
-	HLJICIJH_02269	5S ribosomal RNA
-	HLJICIJH_02270	23S ribosomal RNA
-	HLJICIJH_02271	tRNA-Ala(tgc)
-	HLJICIJH_02272	16S ribosomal RNA
-	HLJICIJH_02273	tRNA-Glu(ttc)
 A0A0H2UMS0	HLJICIJH_02274	Competence-specific sigma factor ComX
 O69076	HLJICIJH_02275	Cell division protein FtsH
 Q97TC4	HLJICIJH_02276	Hypoxanthine-guanine phosphoribosyltransferase

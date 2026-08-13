@@ -14,29 +14,11 @@ Q97TC4	NPLHCJEM_00012	Hypoxanthine-guanine phosphoribosyltransferase
 P59652	NPLHCJEM_00013	Cell division protein FtsH
 B2IP46	NPLHCJEM_00014	IS1167 transposase Orf2
 A0A4J1QHF4	NPLHCJEM_00015	IS1167 transposase
-	NPLHCJEM_00016	Srn266
-	NPLHCJEM_00016	
 A0A6C7J1A1	NPLHCJEM_00017	Competence-specific sigma factor ComX
-	NPLHCJEM_00018	tRNA-Glu(ttc)
-	NPLHCJEM_00018	
-	NPLHCJEM_00019	16S ribosomal RNA
-	NPLHCJEM_00019	
-	NPLHCJEM_00020	tRNA-Ala(tgc)
-	NPLHCJEM_00020	
-	NPLHCJEM_00021	23S ribosomal RNA (partial)
-	NPLHCJEM_00021	
-	NPLHCJEM_00022	5S ribosomal RNA
-	NPLHCJEM_00022	
-	NPLHCJEM_00023	tRNA-Asn(gtt)
-	NPLHCJEM_00023	
 C1C999	NPLHCJEM_00024	IS1167 transposase Orf1
 Q8CZD0	NPLHCJEM_00025	Competence positive regulator ComW
 C1CHA1	NPLHCJEM_00026	Adenylosuccinate synthetase
-	NPLHCJEM_00027	csRNA
-	NPLHCJEM_00027	
 C1CHA2	NPLHCJEM_00028	tRNA-specific adenosine-34 deaminase
-	NPLHCJEM_00029	Bacteria_small_SRP
-	NPLHCJEM_00029	
 A0A0B7M495	NPLHCJEM_00030	Tyrosine recombinase XerC
 A0A4N2RS47	NPLHCJEM_00031	hypothetical protein
 C1CHA6	NPLHCJEM_00032	hypothetical protein
@@ -57,8 +39,6 @@ C1CHC1	NPLHCJEM_00046	Carbonic anhydrase
 Q8CZC9	NPLHCJEM_00047	hypothetical protein
 B2IR17	NPLHCJEM_00048	Ribose-phosphate pyrophosphokinase
 A0A0U0IDH7	NPLHCJEM_00049	IS1167 transposase Orf1
-	NPLHCJEM_00050	Srn266
-	NPLHCJEM_00050	
 A0A0T8B049	NPLHCJEM_00051	hypothetical protein
 A0A0U0CRX4	NPLHCJEM_00052	hypothetical protein
 A0A0B7MA53	NPLHCJEM_00053	DNA polymerase I
@@ -107,8 +87,6 @@ A0A4J1RDK5	NPLHCJEM_00095	Cell wall surface anchor family protein PavB
 B2IRG2	NPLHCJEM_00096	Two-component system response regulator
 Q9S1J1	NPLHCJEM_00097	Two-component system sensor histidine kinase
 Q04MZ3	NPLHCJEM_00098	SSU ribosomal protein S4p (S9e)
-	NPLHCJEM_00099	SpF01_sRNA
-	NPLHCJEM_00099	
 A0AA95IJS5	NPLHCJEM_00100	Hypothetical protein
 A0A0B7LF48	NPLHCJEM_00101	Hypothetical protein
 Q8DRJ8	NPLHCJEM_00102	Multiple sugar ABC transporter%2C membrane-spanning permease protein
@@ -132,13 +110,9 @@ C1CAC4	NPLHCJEM_00119	Amino acid ABC transporter membrane-spanning permease
 Q8DRI7	NPLHCJEM_00120	ABC transporter ATP-binding protein
 A0A4J1ZJR5	NPLHCJEM_00121	IS1167 transposase Orf2
 A0A4J1VP92	NPLHCJEM_00122	IS1167 transposase
-	NPLHCJEM_00123	Srn266
-	NPLHCJEM_00123	
 B2IRI9	NPLHCJEM_00124	Amino acid ABC transporter substrate-binding/permease protein
 A0A111CNU4	NPLHCJEM_00125	Argininosuccinate synthase
 A0A0T8WRQ4	NPLHCJEM_00126	Argininosuccinate lyase
-	NPLHCJEM_00127	Bacilli-1
-	NPLHCJEM_00127	
 A0A6B9PEJ4	NPLHCJEM_00128	Hypothetical protein
 A0A4N2S1H7	NPLHCJEM_00129	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
 C1CBT2	NPLHCJEM_00130	Hypothetical protein
@@ -148,15 +122,9 @@ A0A4P0AJ37	NPLHCJEM_00133	Hypothetical protein
 A0A5R9AVG2	NPLHCJEM_00134	Hypothetical protein
 A0A6I3UTE4	NPLHCJEM_00135	Hypothetical protein
 A0A4J1QTX9	NPLHCJEM_00136	Pyridoxamine 5'-phosphate oxidase
-	NPLHCJEM_00137	SpF03_sRNA
-	NPLHCJEM_00137	
-	NPLHCJEM_00138	Bacilli-1
-	NPLHCJEM_00138	
 A0A0D6J4Z7	NPLHCJEM_00139	hypothetical protein
 A0A4N9BFY2	NPLHCJEM_00140	Surface protein PspA precursor
 A0A4J2AGT4	NPLHCJEM_00141	tRNA-specific 2-thiouridylase MnmA
-	NPLHCJEM_00142	Spd-sr37
-	NPLHCJEM_00142	
 A0A9P1Q9B5	NPLHCJEM_00143	MutT/Nudix family protein
 C1CBU2	NPLHCJEM_00144	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 A0A380L9W6	NPLHCJEM_00145	Hypothetical protein
@@ -170,8 +138,6 @@ B1I842	NPLHCJEM_00152	Ribosomal-protein-S18p-alanine acetyltransferase
 A0A4N2RKP1	NPLHCJEM_00153	N(6)-L-threonylcarbamoyladenine synthase TsaD
 C1CBV1	NPLHCJEM_00154	IS1167 transposase Orf2
 A0A0T8L1P2	NPLHCJEM_00155	IS1167 transposase
-	NPLHCJEM_00156	Srn266
-	NPLHCJEM_00156	
 A0AAE9U2W5	NPLHCJEM_00157	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 B2IRL7	NPLHCJEM_00158	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 A0A4L1JLT3	NPLHCJEM_00159	Family 2 glycosyltransferase
@@ -209,8 +175,6 @@ A0A0I7MEW4	NPLHCJEM_00190	6%2C7-dimethyl-8-ribityllumazine synthase RibH
 C1CAI6	NPLHCJEM_00191	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
 C1CAI7	NPLHCJEM_00192	Riboflavin synthase RibE
 C1CBY2	NPLHCJEM_00193	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
-	NPLHCJEM_00194	FMN
-	NPLHCJEM_00194	
 Q97SY4	NPLHCJEM_00195	Holliday junction DNA helicase RuvA
 Q8CWV9	NPLHCJEM_00196	DNA-3-methyladenine glycosylase
 A0A4L7JNP3	NPLHCJEM_00197	CAAX amino terminal protease family protein
@@ -262,12 +226,8 @@ Q04ML3	NPLHCJEM_00242	SSU ribosomal protein S13p (S18e)
 Q04ML2	NPLHCJEM_00243	SSU ribosomal protein S11p (S14e)
 Q04ML1	NPLHCJEM_00244	DNA-directed RNA polymerase alpha subunit
 Q8CWU8	NPLHCJEM_00245	LSU ribosomal protein L17p
-	NPLHCJEM_00246	L17DE
-	NPLHCJEM_00246	
 C1CC34	NPLHCJEM_00247	ACT domain-containing transcriptional regulator
 B5E6I3	NPLHCJEM_00248	hypothetical protein
-	NPLHCJEM_00249	csRNA
-	NPLHCJEM_00249	
 B1I8M8	NPLHCJEM_00250	Phosphoglycerate mutase family protein
 A0A6I3USN4	NPLHCJEM_00251	hypothetical protein
 A0A4J1XSE7	NPLHCJEM_00252	hypothetical protein
@@ -287,14 +247,8 @@ Q8DRB7	NPLHCJEM_00265	Glycerol dehydrogenase
 A0A4N2RJT8	NPLHCJEM_00266	Leucyl-tRNA synthetase
 C1CB32	NPLHCJEM_00267	Acetyltransferase%2C GNAT family
 A0A0T8ESN6	NPLHCJEM_00268	Acetyltransferase%2C GNAT family
-	NPLHCJEM_00269	csRNA
-	NPLHCJEM_00269	
-	NPLHCJEM_00270	csRNA
-	NPLHCJEM_00270	
 B5E6T3	NPLHCJEM_00271	Holliday junction DNA helicase RuvB
 C1CC51	NPLHCJEM_00272	Hypothetical protein
-	NPLHCJEM_00273	csRNA
-	NPLHCJEM_00273	
 Q8DRB3	NPLHCJEM_00274	Undecaprenyl diphosphate synthase
 C1CB37	NPLHCJEM_00275	Phosphatidate cytidylyltransferase
 Q8DRB1	NPLHCJEM_00276	Intramembrane protease Eep
@@ -326,18 +280,12 @@ B2ISL8	NPLHCJEM_00301	Bifunctional dihydrofolate synthase/folylpolyglutamate syn
 C1CIH2	NPLHCJEM_00302	GTP cyclohydrolase I type 1
 C1CC82	NPLHCJEM_00303	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 Q8CZ79	NPLHCJEM_00304	Hypothetical protein
-	NPLHCJEM_00305	L13_leader
-	NPLHCJEM_00305	
 Q8CWU5	NPLHCJEM_00306	LSU ribosomal protein L13p (L13Ae)
 Q8CWU4	NPLHCJEM_00307	SSU ribosomal protein S9p (S16e)
 C1CC87	NPLHCJEM_00308	Tyrosine recombinase XerC
 Q8CZ76	NPLHCJEM_00309	Hypothetical protein
 A0A0B7LX26	NPLHCJEM_00310	hypothetical protein
-	NPLHCJEM_00311	SpF10_sRNA
-	NPLHCJEM_00311	
 A0A098Z6C6	NPLHCJEM_00312	Maltodextrin glucosidase
-	NPLHCJEM_00313	SpF11_sRNA
-	NPLHCJEM_00313	
 Q8DR82	NPLHCJEM_00314	Glutathione peroxidase family protein
 A0A4P0A3L8	NPLHCJEM_00315	Hyaluronate lyase precursor SpnHL
 A0A0U0H759	NPLHCJEM_00316	IS4 family transposase ISSsu2
@@ -391,16 +339,12 @@ Q8DR63	NPLHCJEM_00363	dTDP-4-dehydrorhamnose reductase Cps2O
 A0A4N2RH85	NPLHCJEM_00364	hypothetical protein
 A0A0T7KY19	NPLHCJEM_00365	hypothetical protein
 O54651	NPLHCJEM_00366	IS1167 transposase
-	NPLHCJEM_00367	Srn266
-	NPLHCJEM_00367	
 A0A4N2RZJ3	NPLHCJEM_00368	Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA
 A0A4N2RX09	NPLHCJEM_00369	Endo-alpha-N-acetylgalactosaminidase Eng
 Q9RET6	NPLHCJEM_00370	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A
 T2BPQ7	NPLHCJEM_00371	RecU Holliday junction resolvase
 Q8DR58	NPLHCJEM_00372	Hypothetical protein
 Q97SI9	NPLHCJEM_00373	Cell division protein GpsB
-	NPLHCJEM_00374	RNaseP_bact_b
-	NPLHCJEM_00374	
 A0A0B7MBB7	NPLHCJEM_00375	23S rRNA (guanine(2445)-N(2))-methyltransferase
 A0A0T8G9C9	NPLHCJEM_00376	Mid-cell-anchored protein Z
 A0A0T9HRS5	NPLHCJEM_00377	6-phosphogluconate dehydrogenase%2C decarboxylating
@@ -435,8 +379,6 @@ A0A6I3UVS3	NPLHCJEM_00405	Ribonuclease HIII
 C1CCH1	NPLHCJEM_00406	Z-ring positive regulator ZapA
 C1C5E3	NPLHCJEM_00407	Z-ring positive regulator ZapB
 A0A0I9BHS0	NPLHCJEM_00408	Recombination inhibitory protein MutS2
-	NPLHCJEM_00409	Glycine
-	NPLHCJEM_00409	
 C1CCH4	NPLHCJEM_00410	Sodium/glycine symporter GlyP
 Q8DR24	NPLHCJEM_00411	Macrophage infectivity potentiator protein
 Q8DR23	NPLHCJEM_00412	Exfoliative toxin A
@@ -458,8 +400,6 @@ Q7CRB7	NPLHCJEM_00427	Acetyl-coenzyme A carboxyl transferase beta chain
 A0A064BZA7	NPLHCJEM_00428	Acetyl-coenzyme A carboxyl transferase alpha chain
 A0A0I8RVJ1	NPLHCJEM_00429	hypothetical protein
 C1CCX0	NPLHCJEM_00430	IS1167 transposase
-	NPLHCJEM_00431	Srn266
-	NPLHCJEM_00431	
 Q04M45	NPLHCJEM_00432	Transcription termination protein NusB
 Q8DR12	NPLHCJEM_00433	Alkaline shock protein
 Q04M43	NPLHCJEM_00434	Translation elongation factor P
@@ -486,8 +426,6 @@ Q04M23	NPLHCJEM_00454	Undecaprenyl-diphosphatase
 A0A4N2S0D8	NPLHCJEM_00455	DNA polymerase IV
 B1I9Q0	NPLHCJEM_00456	Pyruvate formate-lyase
 B1I9Q1	NPLHCJEM_00457	IS1167 transposase
-	NPLHCJEM_00458	Srn266
-	NPLHCJEM_00458	
 B1I9Q2	NPLHCJEM_00459	hypothetical protein
 A7KT31	NPLHCJEM_00460	hypothetical protein
 A7KT32	NPLHCJEM_00461	hypothetical protein
@@ -499,8 +437,6 @@ A0A4I9PKS9	NPLHCJEM_00466	IS1167 transposase
 A0A4J2DDD2	NPLHCJEM_00467	IS1167 transposase Orf2
 A0A4J2DE04	NPLHCJEM_00468	hypothetical protein
 C1C9F2	NPLHCJEM_00469	IS1167 transposase Orf1
-	NPLHCJEM_00470	Srn266
-	NPLHCJEM_00470	
 Q8DQZ5	NPLHCJEM_00471	Hypothetical protein
 A0A4U8X7Z5	NPLHCJEM_00472	Lactose-specific PTS IIBC components
 B2IM84	NPLHCJEM_00473	Lactose-specific PTS IIBC components
@@ -511,11 +447,7 @@ C1C5K9	NPLHCJEM_00477	Substrate-specific component MtsA of methionine-regulated 
 A0A0B7LW22	NPLHCJEM_00478	Hypothetical protein
 A0A0T7IIL1	NPLHCJEM_00479	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 C1CCN3	NPLHCJEM_00480	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
-	NPLHCJEM_00481	23S-methyl
-	NPLHCJEM_00481	
 A0A0H2UNS5	NPLHCJEM_00482	tRNA (cytidine(34)-2'-O)-methyltransferase
-	NPLHCJEM_00483	FMN
-	NPLHCJEM_00483	
 A0AA86XGY0	NPLHCJEM_00484	Substrate-specific component RibU of riboflavin ECF transporter
 A0A0T8SW66	NPLHCJEM_00485	Membrane-associated phospholipid phosphatase
 B2IM95	NPLHCJEM_00486	Hypothetical protein
@@ -539,8 +471,6 @@ B1IA49	NPLHCJEM_00503	Hypothetical protein
 B5E230	NPLHCJEM_00504	Heat-inducible transcription repressor HrcA
 B2IMB4	NPLHCJEM_00505	Heat shock protein GrpE
 Q04LY0	NPLHCJEM_00506	Chaperone protein DnaK
-	NPLHCJEM_00507	SpF14_sRNA
-	NPLHCJEM_00507	
 C1CCQ9	NPLHCJEM_00508	Chaperone protein DnaJ
 A0A4U1IYY9	NPLHCJEM_00509	hypothetical protein
 Q8CZ48	NPLHCJEM_00510	Hypothetical protein
@@ -595,8 +525,6 @@ C1CDJ6	NPLHCJEM_00558	IS3 family transposase ISSpn11
 A0A4N2RNC6	NPLHCJEM_00559	hypothetical protein
 Q8CZ34	NPLHCJEM_00560	hypothetical protein
 A0A4J2FHM1	NPLHCJEM_00561	hypothetical protein
-	NPLHCJEM_00562	SpF19_sRNA
-	NPLHCJEM_00562	
 B2IMP8	NPLHCJEM_00563	Beta-glucoside bgl operon antiterminator BglG
 A0A0I8J7R2	NPLHCJEM_00564	Beta-glucoside-specific PTS IIBCA components
 A0A0D6J947	NPLHCJEM_00565	6-phospho-beta-glucosidase
@@ -616,8 +544,6 @@ B2IMR2	NPLHCJEM_00578	Cysteinyl-tRNA synthetase
 Q8DQS7	NPLHCJEM_00579	Mini-ribonuclease III
 B2IMR4	NPLHCJEM_00580	Leucine rich protein
 B2IMR5	NPLHCJEM_00581	hypothetical protein
-	NPLHCJEM_00582	Intron_gpII
-	NPLHCJEM_00582	
 C1C5W8	NPLHCJEM_00583	Peptide ABC transporter membrane-spanning permease Vex1
 B2IMR7	NPLHCJEM_00584	ABC transporter ATP-binding protein Vex2
 B9W4V1	NPLHCJEM_00585	Peptide ABC transporter membrane-spanning permease Vex3
@@ -642,16 +568,12 @@ B2IMT9	NPLHCJEM_00603	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dih
 B2IMU0	NPLHCJEM_00604	Dipeptidase PepV
 C1CCZ5	NPLHCJEM_00605	Uracil-DNA glycosylase
 C1C5Z2	NPLHCJEM_00606	hypothetical protein
-	NPLHCJEM_00607	SpF22_sRNA
-	NPLHCJEM_00607	
 C1C5Z4	NPLHCJEM_00608	Branched-chain amino acid transport system carrier protein
 A0A4N2RJY1	NPLHCJEM_00609	Deblocking aminopeptidase
 A0A0Y2DU44	NPLHCJEM_00610	Histidine triad family protein
 A0A062WT68	NPLHCJEM_00611	L%2CD-carboxypeptidase
 Q97RZ6	NPLHCJEM_00612	LSU ribosomal protein L11p (L12e)
 Q04LP6	NPLHCJEM_00613	LSU ribosomal protein L1p (L10Ae)
-	NPLHCJEM_00614	Intron_gpII
-	NPLHCJEM_00614	
 A0A2U3RYS7	NPLHCJEM_00615	Hypothetical protein
 A0A0U0GZ72	NPLHCJEM_00616	Hypothetical protein
 C1C603	NPLHCJEM_00617	ABC transporter ATP-binding protein
@@ -666,8 +588,6 @@ Q8DQP5	NPLHCJEM_00625	Galactose-specific PTS IIC component
 A0A6I3UUX8	NPLHCJEM_00626	Beta-galactosidase BgaA
 A0A0T9ZRE9	NPLHCJEM_00627	hypothetical protein
 A0A0E8ZNY6	NPLHCJEM_00628	hypothetical protein
-	NPLHCJEM_00629	SpF25_sRNA
-	NPLHCJEM_00629	
 A0A0B7L9V0	NPLHCJEM_00630	Hypothetical protein
 A0A4G4SMG4	NPLHCJEM_00631	hypothetical protein
 Q8CZ18	NPLHCJEM_00632	hypothetical protein
@@ -706,8 +626,6 @@ A0A0Y2CJK5	NPLHCJEM_00664	ABC transporter ATP-binding protein
 A0A121AWF6	NPLHCJEM_00665	UDP-N-acetylmuramoylalanine--D-glutamate ligase
 B1IAM4	NPLHCJEM_00666	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
 A0A121AWH4	NPLHCJEM_00667	Cell division protein DivIB
-	NPLHCJEM_00668	PyrR
-	NPLHCJEM_00668	
 A0A0E8T5G7	NPLHCJEM_00669	Orotidine 5'-phosphate decarboxylase
 A0A0B7LTK9	NPLHCJEM_00670	Orotate phosphoribosyltransferase
 A0A0B7LBR9	NPLHCJEM_00671	Hypothetical protein
@@ -723,13 +641,9 @@ A0A4N2RLZ7	NPLHCJEM_00680	Glutamine ABC transporter permease GlnP3a
 B2IN94	NPLHCJEM_00681	L-Lactate 2-monooxygenase
 Q8CWS5	NPLHCJEM_00682	Class II lysyl-tRNA synthetase
 Q8DQK7	NPLHCJEM_00683	L-Lactate 2-monooxygenase
-	NPLHCJEM_00684	TPP
-	NPLHCJEM_00684	
 Q8DQK6	NPLHCJEM_00685	Thiaminase II
 A0A4J1UQ23	NPLHCJEM_00686	Hydroxyethylthiazole kinase
 Q97RS5	NPLHCJEM_00687	Thiamin-phosphate pyrophosphorylase
-	NPLHCJEM_00688	TPP
-	NPLHCJEM_00688	
 C1CD71	NPLHCJEM_00689	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A4J1Y110	NPLHCJEM_00690	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A0D6JA00	NPLHCJEM_00691	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
@@ -738,8 +652,6 @@ B2INA5	NPLHCJEM_00693	Substrate-specific component ThiW of putative thiazole ECF
 A0A4G4SMD2	NPLHCJEM_00694	Hydroxyethylthiazole kinase
 C1C674	NPLHCJEM_00695	Thiamin-phosphate pyrophosphorylase
 C1CD78	NPLHCJEM_00696	Hydroxymethylpyrimidine phosphate kinase ThiD
-	NPLHCJEM_00697	TPP
-	NPLHCJEM_00697	
 C1CD79	NPLHCJEM_00698	Negative transcriptional regulator of copper transport operon
 C1C677	NPLHCJEM_00699	Copper-exporting ATPase
 A0A0H2UP76	NPLHCJEM_00700	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
@@ -769,8 +681,6 @@ Q2MGI2	NPLHCJEM_00723	Peptide chain release factor 2
 C1C6A0	NPLHCJEM_00724	Cell division transporter%2C ATP-binding protein FtsE
 B2INE0	NPLHCJEM_00725	Cell division protein FtsX
 O54651	NPLHCJEM_00726	IS1167 transposase
-	NPLHCJEM_00727	Srn266
-	NPLHCJEM_00727	
 A0A0B7LD25	NPLHCJEM_00728	Maltose- and glucose-specific PTS IICBA components
 A0A0E8ZHY5	NPLHCJEM_00729	Exodeoxyribonuclease III
 B1IAT7	NPLHCJEM_00730	ATP-dependent RNA helicase YqfR
@@ -801,8 +711,6 @@ Q8DQF8	NPLHCJEM_00754	ABC transporter ATP-binding protein
 A0A4N9R523	NPLHCJEM_00755	ABC transporter permease protein
 A0AA86YDQ8	NPLHCJEM_00756	Methionyl-tRNA synthetase
 A0A4J2ERL6	NPLHCJEM_00757	IS1167 transposase
-	NPLHCJEM_00758	Srn266
-	NPLHCJEM_00758	
 Q8DQF6	NPLHCJEM_00759	Transcriptional regulator%2C PadR family
 A0A4N2S1H3	NPLHCJEM_00760	Hypothetical protein
 A0A064BXK4	NPLHCJEM_00761	Putative oxidoreductase
@@ -867,16 +775,10 @@ C1CDK5	NPLHCJEM_00819	Hypothetical protein
 Q8DQB0	NPLHCJEM_00820	Putative membrane protein
 Q04L55	NPLHCJEM_00821	Pyrrolidone-carboxylate peptidase
 Q8CYY0	NPLHCJEM_00822	Hypothetical protein
-	NPLHCJEM_00823	tRNA-Tyr(gta)
-	NPLHCJEM_00823	
-	NPLHCJEM_00824	tRNA-Gln(ttg)
-	NPLHCJEM_00824	
 A0A0T7NMD7	NPLHCJEM_00825	SSU ribosomal protein S1p
 A0A132UFZ9	NPLHCJEM_00826	IS1167 transposase
 A0A4J1STI3	NPLHCJEM_00827	hypothetical protein
 B2IPU5	NPLHCJEM_00828	IS1167 transposase Orf1
-	NPLHCJEM_00829	Srn266
-	NPLHCJEM_00829	
 Q8DQA6	NPLHCJEM_00830	GAF domain-containing protein
 C1CDL4	NPLHCJEM_00831	DNA polymerase III subunits gamma and tau
 Q8CYX9	NPLHCJEM_00832	Hypothetical protein
@@ -887,10 +789,6 @@ A0A0B7MD89	NPLHCJEM_00836	Putative iron-sulfur cluster assembly scaffold protein
 Q8DQA0	NPLHCJEM_00837	Iron-sulfur cluster assembly protein SufB
 Q75Y35	NPLHCJEM_00838	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 Q8DQ98	NPLHCJEM_00839	Coordinator of zonal cell elongation
-	NPLHCJEM_00840	transfer-messenger RNA%2C SsrA
-	NPLHCJEM_00840	
-	NPLHCJEM_00841	tRNA-Ser(gga)
-	NPLHCJEM_00841	
 Q8DQ97	NPLHCJEM_00842	Transcriptional repressor of the fructose operon%2C DeoR family
 A0A0Z6XGW2	NPLHCJEM_00843	1-phosphofructokinase
 A0A166X0B8	NPLHCJEM_00844	Fructose-specific PTS IIABC components
@@ -925,8 +823,6 @@ A0A0Y2E039	NPLHCJEM_00872	hypothetical protein
 A0A0Y2J2D3	NPLHCJEM_00873	Transcription accessory protein
 A0AA86YAT6	NPLHCJEM_00874	Putative SprT family zinc-dependent metallopeptidase
 A0A5C8QW28	NPLHCJEM_00875	Putative phage shock protein C
-	NPLHCJEM_00876	Spd-sr07
-	NPLHCJEM_00876	
 Q8CYW5	NPLHCJEM_00877	Hypothetical protein
 A0A0B7KXN1	NPLHCJEM_00878	Hypothetical protein
 A0A0E8TEB5	NPLHCJEM_00879	ABC transporter ATP-binding protein
@@ -974,8 +870,6 @@ A0AAD2IK80	NPLHCJEM_00920	Late competence DNA receptor ComEA
 A0A4J1SYU4	NPLHCJEM_00921	Late competence DNA transporter ComEC
 B1IBB6	NPLHCJEM_00922	ABC transporter%2C ATP-binding protein
 A0A0E8T6Q0	NPLHCJEM_00923	Hypothetical protein
-	NPLHCJEM_00924	L20_leader
-	NPLHCJEM_00924	
 Q04KW9	NPLHCJEM_00925	Translation initiation factor 3
 Q04KW8	NPLHCJEM_00926	LSU ribosomal protein L35p
 Q04KW7	NPLHCJEM_00927	LSU ribosomal protein L20p
@@ -1015,8 +909,6 @@ B2IPE7	NPLHCJEM_00960	IS630 family transposase IS630-Spn1
 Q8CYU8	NPLHCJEM_00961	Hypothetical protein
 Q8DQ11	NPLHCJEM_00962	Cytochrome c-type biogenesis protein CcdA-2
 C1CDZ5	NPLHCJEM_00963	Thiol:disulfide oxidoreductase
-	NPLHCJEM_00964	SpF36_sRNA
-	NPLHCJEM_00964	
 A0A4N2RR94	NPLHCJEM_00965	Cationic amino acid transporter%2C APC Superfamily
 Q8DQ09	NPLHCJEM_00966	Laminin-binding surface protein
 A0A0E3LX51	NPLHCJEM_00967	Pneumococcal histidine triad protein D
@@ -1028,13 +920,7 @@ A0A0I6GEE4	NPLHCJEM_00972	Tripeptide aminopeptidase PepT
 C1CE03	NPLHCJEM_00973	Ferrochelatase%2C protoheme ferro-lyase
 A0A0T8LFB4	NPLHCJEM_00974	Large-conductance mechanosensitive channel MscL
 A0A0T8LFD3	NPLHCJEM_00975	GtrA family protein
-	NPLHCJEM_00976	preQ1-II
-	NPLHCJEM_00976	
 Q8DQ01	NPLHCJEM_00977	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	NPLHCJEM_00978	tRNA-Thr(ggt)
-	NPLHCJEM_00978	
-	NPLHCJEM_00979	asd
-	NPLHCJEM_00979	
 A0A064C4U3	NPLHCJEM_00980	Aspartate-semialdehyde dehydrogenase
 C1CE08	NPLHCJEM_00981	4-hydroxy-tetrahydrodipicolinate synthase
 A0A4N2RLK6	NPLHCJEM_00982	GTPase and tRNA-U34 5-formylation enzyme MnmE
@@ -1049,18 +935,12 @@ A0A5R9AW41	NPLHCJEM_00990	Pseudouridylate synthase%2C 23S RNA-specific
 B2IPI2	NPLHCJEM_00991	Pneumococcal vaccine antigen A
 A0A0B7LWH7	NPLHCJEM_00992	Extracellular protein
 A0A4N6QKA5	NPLHCJEM_00993	23S rRNA (uracil(1939)-C(5))-methyltransferase
-	NPLHCJEM_00994	SpF61_sRNA
-	NPLHCJEM_00994	
-	NPLHCJEM_00995	SpF39_sRNA
-	NPLHCJEM_00995	
 A0A0B7LP89	NPLHCJEM_00996	Hypothetical protein
 Q8DPY6	NPLHCJEM_00997	Iron compound ABC uptake transporter substrate-binding protein PiaA
 B2IPI9	NPLHCJEM_00998	Iron compound ABC uptake transporter permease protein PiaB
 Q8DPY4	NPLHCJEM_00999	Iron compound ABC uptake transporter permease protein PiaC
 Q8DPY3	NPLHCJEM_01000	Iron compound ABC uptake transporter ATP-binding protein PiaD
 Q8CYU1	NPLHCJEM_01001	Putative type II restriction endonuclease
-	NPLHCJEM_01002	pemK
-	NPLHCJEM_01002	
 A0A0B7LWG6	NPLHCJEM_01003	Phage integrase
 A0AAD2IIJ3	NPLHCJEM_01004	Phage integrase
 B2IPJ6	NPLHCJEM_01005	Hypothetical protein
@@ -1076,8 +956,6 @@ A0A4N2RR29	NPLHCJEM_01014	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin
 A0A0T8JWL1	NPLHCJEM_01015	putative protein
 A0A6G2DDD6	NPLHCJEM_01016	putative protein
 A0AAD2IJM7	NPLHCJEM_01017	hypothetical protein
-	NPLHCJEM_01018	group-II-D1D4-3
-	NPLHCJEM_01018	
 A0A4N2RMH2	NPLHCJEM_01019	Tn5252 Orf10 protein
 A0A098ANV4	NPLHCJEM_01020	Tn5252 Orf9 protein
 A0AA44MS06	NPLHCJEM_01021	hypothetical protein
@@ -1085,16 +963,12 @@ A0A4J1P7Z8	NPLHCJEM_01022	hypothetical protein
 A0A4N2RQU9	NPLHCJEM_01023	hypothetical protein
 A0A0U0A1U2	NPLHCJEM_01024	D-alanine--D-alanine ligase
 A0A0T8T2C8	NPLHCJEM_01025	hypothetical protein
-	NPLHCJEM_01026	Srn266
-	NPLHCJEM_01026	
 C1C762	NPLHCJEM_01027	Aminoglycoside N(6')-acetyltransferase type 1
 A0AA44MUY4	NPLHCJEM_01028	Peptidase E
 B2IQ43	NPLHCJEM_01029	hypothetical protein
 B2IQ42	NPLHCJEM_01030	hypothetical protein
 A0A0H2ZRW0	NPLHCJEM_01031	Cell division protein FtsW
 B2IQ40	NPLHCJEM_01032	Phosphoenolpyruvate carboxylase
-	NPLHCJEM_01033	T-box
-	NPLHCJEM_01033	
 A0A0T8VJT9	NPLHCJEM_01034	ABC transporter substrate-binding protein
 A0A0T8RFL5	NPLHCJEM_01035	Putative tryptophan-specific ABC transporter permease protein TrpY
 Q8DPW2	NPLHCJEM_01036	ABC transporter ATP-binding protein
@@ -1110,10 +984,6 @@ C1CE67	NPLHCJEM_01045	Hypothetical protein
 A0A4H5BMV2	NPLHCJEM_01046	IS1167 transposase
 A0A4P0AN65	NPLHCJEM_01047	hypothetical protein
 A0A4J1U7S1	NPLHCJEM_01048	IS1167 transposase Orf1
-	NPLHCJEM_01049	Srn266
-	NPLHCJEM_01049	
-	NPLHCJEM_01050	group-II-D1D4-3
-	NPLHCJEM_01050	
 Q97QW6	NPLHCJEM_01051	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 B1IBM4	NPLHCJEM_01052	Ribosomal-protein-S5p-alanine acetyltransferase
 Q8DPV2	NPLHCJEM_01053	Cytosolic protein containing multiple CBS domains
@@ -1134,12 +1004,8 @@ Q8DPU2	NPLHCJEM_01067	GTP pyrophosphokinase
 B2IQ09	NPLHCJEM_01068	NAD kinase
 A0A4N2RPN6	NPLHCJEM_01069	RluD-like protein
 Q8DPU0	NPLHCJEM_01070	Phosphate acetyltransferase
-	NPLHCJEM_01071	SpR14_sRNA
-	NPLHCJEM_01071	
 A0A0E9GRT9	NPLHCJEM_01072	Hypothetical protein co-occurring with RecR
 A0A4J2SXJ5	NPLHCJEM_01073	Hypothetical protein
-	NPLHCJEM_01074	L21_leader
-	NPLHCJEM_01074	
 Q97QU4	NPLHCJEM_01075	LSU ribosomal protein L21p
 Q8DPT7	NPLHCJEM_01076	Putative ribosomal protein
 Q04KI2	NPLHCJEM_01077	LSU ribosomal protein L27p
@@ -1188,8 +1054,6 @@ D3GM79	NPLHCJEM_01119	hypothetical protein
 A0A060QP36	NPLHCJEM_01120	hypothetical protein
 B2IS01	NPLHCJEM_01121	Transposase from transposon Tn916
 P61624	NPLHCJEM_01122	hypothetical protein
-	NPLHCJEM_01123	pemK
-	NPLHCJEM_01123	
 B2IQG0	NPLHCJEM_01124	hypothetical protein
 B7UTW8	NPLHCJEM_01125	hypothetical protein
 D6CHR0	NPLHCJEM_01126	hypothetical protein
@@ -1198,8 +1062,6 @@ B2IQF6	NPLHCJEM_01128	hypothetical protein
 A4H2U2	NPLHCJEM_01129	hypothetical protein
 Q76B96	NPLHCJEM_01130	rRNA adenine N-6-methyltransferase
 A0A916L5G1	NPLHCJEM_01131	Translation elongation factor G
-	NPLHCJEM_01132	sRNA_0030
-	NPLHCJEM_01132	
 E8ZCR9	NPLHCJEM_01133	hypothetical protein
 B2IRZ0	NPLHCJEM_01134	hypothetical protein
 A0A2Z4HX68	NPLHCJEM_01135	hypothetical protein
@@ -1230,8 +1092,6 @@ A0A4J2G7U3	NPLHCJEM_01159	Tn5252 Orf10 protein
 B2IQA9	NPLHCJEM_01160	Tn5252 Orf9 protein
 B2IQA8	NPLHCJEM_01161	hypothetical protein
 A0A5R9AW72	NPLHCJEM_01162	Putative repressor protein%2C phage associated
-	NPLHCJEM_01163	pemK
-	NPLHCJEM_01163	
 E6Y419	NPLHCJEM_01164	hypothetical protein
 E8ZCN0	NPLHCJEM_01165	Tyrosine recombinase XerC
 A0A0E7T841	NPLHCJEM_01166	50S ribosomal subunit maturation GTPase RbgA
@@ -1319,8 +1179,6 @@ Q8DPK1	NPLHCJEM_01247	Hydrolase%2C HAD superfamily
 Q8DPK0	NPLHCJEM_01248	Hydrolase%2C HAD superfamily
 A0A6I3UNM5	NPLHCJEM_01249	Chromosome partition protein SMC
 A0A0E9GUR5	NPLHCJEM_01250	Ribonuclease III
-	NPLHCJEM_01251	tRNA-Arg(ccg)
-	NPLHCJEM_01251	
 Q8DPJ7	NPLHCJEM_01252	GMP reductase
 A0A4N2REV3	NPLHCJEM_01253	Hypothetical protein
 A0A6I3US13	NPLHCJEM_01254	Endonuclease
@@ -1348,19 +1206,13 @@ B8ZJT9	NPLHCJEM_01275	Carbamoyl-phosphate synthase large chain CarB
 A0A064BWJ2	NPLHCJEM_01276	Carbamoyl-phosphate synthase small chain CarA
 C1CR29	NPLHCJEM_01277	Aspartate carbamoyltransferase
 Q04K45	NPLHCJEM_01278	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
-	NPLHCJEM_01279	PyrR
-	NPLHCJEM_01279	
 Q8DPH8	NPLHCJEM_01280	Endonuclease III
 B2IQ72	NPLHCJEM_01281	Protein%2C clustered with ribosomal protein L32p
 B1IC71	NPLHCJEM_01282	BlpT protein
-	NPLHCJEM_01283	SpF43_sRNA
-	NPLHCJEM_01283	
 B2IQ73	NPLHCJEM_01284	ABC transporter ATP-binding protein
 Q8DPH5	NPLHCJEM_01285	Heat shock protein HtpX
 Q8DPH4	NPLHCJEM_01286	LemA
 B2IQ76	NPLHCJEM_01287	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
-	NPLHCJEM_01288	SpF44_sRNA
-	NPLHCJEM_01288	
 A0A0H2ZMV8	NPLHCJEM_01289	Uracil permease
 C1CEP2	NPLHCJEM_01290	Signal recognition particle protein Ffh
 Q8DPH0	NPLHCJEM_01291	Signal recognition particle associated protein
@@ -1372,8 +1224,6 @@ B2IQ84	NPLHCJEM_01296	hypothetical protein
 B2IQ85	NPLHCJEM_01297	hypothetical protein
 A0A0T7TTP9	NPLHCJEM_01298	Positive transcriptional regulator%2C MutR family
 A0A0B4ZN83	NPLHCJEM_01299	hypothetical protein
-	NPLHCJEM_01300	tRNA-Arg(cct)
-	NPLHCJEM_01300	
 Q97QC6	NPLHCJEM_01301	LSU ribosomal protein L19p
 Q97QC5	NPLHCJEM_01302	ClC-type fluoride channel
 Q97QC4	NPLHCJEM_01303	ClC-type fluoride channel
@@ -1413,12 +1263,8 @@ A0A6I3UUA9	NPLHCJEM_01336	Tn5253 hypothetical protein
 A0A0I7T0S0	NPLHCJEM_01337	hypothetical protein
 A0A4N2RGI4	NPLHCJEM_01338	hypothetical protein
 A0A098ANF2	NPLHCJEM_01339	hypothetical protein
-	NPLHCJEM_01340	rli38
-	NPLHCJEM_01340	
 Q04JZ4	NPLHCJEM_01341	LSU ribosomal protein L7/L12 (P1/P2)
 Q04JZ3	NPLHCJEM_01342	LSU ribosomal protein L10p (P0)
-	NPLHCJEM_01343	L10_leader
-	NPLHCJEM_01343	
 A0A0H2UQG0	NPLHCJEM_01344	Methylthioadenosine deaminase
 A0A0H2UQN6	NPLHCJEM_01345	ABC transporter ATP-binding/permease protein
 A0A0U0GVF6	NPLHCJEM_01346	ABC transporter ATP-binding/permease protein
@@ -1504,8 +1350,6 @@ A0A654UCG4	NPLHCJEM_01425	hypothetical protein
 A0A0T8C7E0	NPLHCJEM_01426	hypothetical protein
 Q7WVV7	NPLHCJEM_01427	IS66 family transposase Orf2
 B2IQR0	NPLHCJEM_01428	IS66 family transposase Orf1
-	NPLHCJEM_01429	SpR18_sRNA
-	NPLHCJEM_01429	
 A0A4N2RF23	NPLHCJEM_01430	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
 Q8DP83	NPLHCJEM_01431	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 Q8DP82	NPLHCJEM_01432	Drug/metabolite transporter superfamily protein
@@ -1535,8 +1379,6 @@ C1CLH3	NPLHCJEM_01455	Hypothetical protein
 B2IQU1	NPLHCJEM_01456	Glycyl-tRNA synthetase beta chain
 B2IQU2	NPLHCJEM_01457	Glycyl-tRNA synthetase alpha chain
 A0A4N2RFI2	NPLHCJEM_01458	hypothetical protein
-	NPLHCJEM_01459	SpR19_sRNA
-	NPLHCJEM_01459	
 B2IQU4	NPLHCJEM_01460	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
 B2IQU5	NPLHCJEM_01461	Peptidoglycan N-acetylglucosamine deacetylase
 B2IQU6	NPLHCJEM_01462	hypothetical protein
@@ -1604,17 +1446,11 @@ A0A264SDC2	NPLHCJEM_01523	Hypothetical protein
 B1ICW7	NPLHCJEM_01524	Hypothetical protein
 B2IR66	NPLHCJEM_01525	hypothetical protein
 A0A6I3UV98	NPLHCJEM_01526	Hypothetical protein
-	NPLHCJEM_01527	SpR20_sRNA
-	NPLHCJEM_01527	
 B2IR68	NPLHCJEM_01528	Cell shape-determining protein
 B2IR69	NPLHCJEM_01529	Peptide deformylase
 B2IR70	NPLHCJEM_01530	Glutathione S-transferase
 B2IR71	NPLHCJEM_01531	Calcium-transporting ATPase
-	NPLHCJEM_01532	SSRC10
-	NPLHCJEM_01532	
 A0A0B7LUG7	NPLHCJEM_01533	Cobalt-zinc-cadmium resistance protein
-	NPLHCJEM_01534	Srn266
-	NPLHCJEM_01534	
 C1C995	NPLHCJEM_01535	IS1167 transposase
 A0A0B7LDM8	NPLHCJEM_01536	ATPase component of ABC transporter with duplicated ATPase domains
 B2IR74	NPLHCJEM_01537	CCA tRNA nucleotidyltransferase
@@ -1641,8 +1477,6 @@ Q8DP05	NPLHCJEM_01557	Homoserine O-succinyltransferase
 C1CFG1	NPLHCJEM_01558	Adenine phosphoribosyltransferase
 Q8DP04	NPLHCJEM_01559	SAM-dependent methyltransferase
 A0A0H2UQW6	NPLHCJEM_01560	Multiple sugar ABC transporter%2C ATP-binding protein
-	NPLHCJEM_01561	tRNA-Leu(aag)
-	NPLHCJEM_01561	
 A0A4J1T0J9	NPLHCJEM_01562	ISNCY family transposase IS1202
 Q8DP02	NPLHCJEM_01563	Nicotinamidase
 C1CSK2	NPLHCJEM_01564	GTP-sensing transcriptional pleiotropic repressor CodY
@@ -1702,8 +1536,6 @@ Q8DNX5	NPLHCJEM_01617	Rrf2 family transcriptional regulator%2C group III
 Q8DNX4	NPLHCJEM_01618	Putative diadenosine tetraphosphatase
 B2IRP3	NPLHCJEM_01619	Mn-dependent transcriptional regulator MntR
 A0A4J1VT97	NPLHCJEM_01620	IS1167 transposase
-	NPLHCJEM_01621	Srn266
-	NPLHCJEM_01621	
 B2IRP5	NPLHCJEM_01622	hypothetical protein
 B2IRP6	NPLHCJEM_01623	Hypothetical protein
 A0A0H2ZLZ3	NPLHCJEM_01624	hypothetical protein
@@ -1853,8 +1685,6 @@ Q8DNP2	NPLHCJEM_01767	Addiction module antitoxin HicB
 Q8CYE1	NPLHCJEM_01768	Addiction module toxin HicA
 A0A0H2URJ1	NPLHCJEM_01769	Hypothetical protein
 B1I7Q2	NPLHCJEM_01770	Chromosome segregation helicase
-	NPLHCJEM_01771	tRNA-Lys(ctt)
-	NPLHCJEM_01771	
 A0A4J1YEX9	NPLHCJEM_01772	Sucrose-6-phosphate hydrolase
 Q8DNN9	NPLHCJEM_01773	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 Q8DNN8	NPLHCJEM_01774	Multiple sugar ABC transporter%2C membrane-spanning permease protein
@@ -1887,8 +1717,6 @@ Q97P30	NPLHCJEM_01800	Indole-3-glycerol phosphate synthase
 C1CT54	NPLHCJEM_01801	Anthranilate phosphoribosyltransferase
 A0A0T9HX91	NPLHCJEM_01802	Bifunctional anthranilate synthase%2C amidotransferase component/para-aminobenzoate synthase%2Camidotransferase component
 A0A4N2RIW8	NPLHCJEM_01803	Anthranilate synthase%2C aminase component
-	NPLHCJEM_01804	Srn266
-	NPLHCJEM_01804	
 O54651	NPLHCJEM_01805	IS1167 transposase
 Q8DNM4	NPLHCJEM_01806	Galactose operon repressor%2C GalR-LacI family
 Q8CYD4	NPLHCJEM_01807	Hypothetical protein
@@ -1913,8 +1741,6 @@ A0A0H2URP8	NPLHCJEM_01825	hypothetical protein
 A0A0H2ZMW7	NPLHCJEM_01826	Exodeoxyribonuclease III
 A0A098Z9P2	NPLHCJEM_01827	hypothetical protein
 B2ISU4	NPLHCJEM_01828	hypothetical protein
-	NPLHCJEM_01829	Purine
-	NPLHCJEM_01829	
 Q3I0D6	NPLHCJEM_01830	Xanthine phosphoribosyltransferase
 A0A121BWU1	NPLHCJEM_01831	Xanthine permease
 P0A3T5	NPLHCJEM_01832	Type II restriction-modification system component DpnD
@@ -1962,8 +1788,6 @@ C1CGB6	NPLHCJEM_01873	Peptide ABC transporter ATP-binding protein AmiE
 C1CGB7	NPLHCJEM_01874	Peptide ABC transporter permease AmiD
 A0A4N2RFJ5	NPLHCJEM_01875	Peptide ABC transporter permease AmiC
 A0A654VCV4	NPLHCJEM_01876	Peptide ABC transporter substrate-binding protein AmiA
-	NPLHCJEM_01877	group-II-D1D4-3
-	NPLHCJEM_01877	
 Q8CYC1	NPLHCJEM_01878	Wall teichoic acid biosynthesis protein RafX
 A0A4K6NAB0	NPLHCJEM_01879	Sucrose phosphorylase
 A0A655HDD7	NPLHCJEM_01880	Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG
@@ -1972,61 +1796,11 @@ A0A0H2URJ7	NPLHCJEM_01882	Multiple sugar ABC transporter%2C substrate-binding pr
 A0A4N2RIV3	NPLHCJEM_01883	Alpha-galactosidase
 B1I8A7	NPLHCJEM_01884	Multiple sugar metabolism operon regulatory protein MsmR
 A0A0U0BUX6	NPLHCJEM_01885	Bifunctional biotin operon repressor/Biotin--protein ligase
-	NPLHCJEM_01886	Srn266
-	NPLHCJEM_01886	
 A0A4J1WMQ8	NPLHCJEM_01887	hypothetical protein
-	NPLHCJEM_01888	tRNA-Ser(gct)
-	NPLHCJEM_01888	
-	NPLHCJEM_01889	tRNA-Ile(gat)
-	NPLHCJEM_01889	
-	NPLHCJEM_01890	tRNA-Gly(tcc)
-	NPLHCJEM_01890	
-	NPLHCJEM_01891	tRNA-Phe(gaa)
-	NPLHCJEM_01891	
-	NPLHCJEM_01892	tRNA-Met(cat)
-	NPLHCJEM_01892	
-	NPLHCJEM_01893	tRNA-Ser(tga)
-	NPLHCJEM_01893	
-	NPLHCJEM_01894	tRNA-Met(cat)
-	NPLHCJEM_01894	
-	NPLHCJEM_01895	tRNA-Met(cat)
-	NPLHCJEM_01895	
-	NPLHCJEM_01896	tRNA-Pro(tgg)
-	NPLHCJEM_01896	
-	NPLHCJEM_01897	tRNA-Arg(acg)
-	NPLHCJEM_01897	
-	NPLHCJEM_01898	tRNA-Leu(taa)
-	NPLHCJEM_01898	
-	NPLHCJEM_01899	tRNA-Gly(gcc)
-	NPLHCJEM_01899	
-	NPLHCJEM_01900	tRNA-Thr(tgt)
-	NPLHCJEM_01900	
-	NPLHCJEM_01901	tRNA-Leu(tag)
-	NPLHCJEM_01901	
-	NPLHCJEM_01902	tRNA-Lys(ttt)
-	NPLHCJEM_01902	
-	NPLHCJEM_01903	tRNA-Asp(gtc)
-	NPLHCJEM_01903	
-	NPLHCJEM_01904	tRNA-Val(tac)
-	NPLHCJEM_01904	
-	NPLHCJEM_01905	5S ribosomal RNA
-	NPLHCJEM_01905	
-	NPLHCJEM_01906	23S ribosomal RNA
-	NPLHCJEM_01906	
-	NPLHCJEM_01907	tRNA-Ala(tgc)
-	NPLHCJEM_01907	
-	NPLHCJEM_01908	16S ribosomal RNA
-	NPLHCJEM_01908	
-	NPLHCJEM_01909	tRNA-Glu(ttc)
-	NPLHCJEM_01909	
 C1CGD1	NPLHCJEM_01910	RNA methyltransferase%2C TrmA family
 A0A111CNV8	NPLHCJEM_01911	Regulatory protein RecX
 Q8DNH5	NPLHCJEM_01912	Cysteinyl-tRNA synthetase related protein
-	NPLHCJEM_01913	Spy392987
-	NPLHCJEM_01913	
 Q8CYC0	NPLHCJEM_01914	Hypothetical protein
-	NPLHCJEM_01915	Srn266
-	NPLHCJEM_01915	
 A0A4J2SXW8	NPLHCJEM_01916	IS1167 transposase
 A0A4J1Y3A2	NPLHCJEM_01917	IS1167 transposase
 Q04IQ3	NPLHCJEM_01918	Heat shock protein 60 family chaperone GroEL
@@ -2074,10 +1848,6 @@ A0A0B7LDE7	NPLHCJEM_01959	hypothetical protein
 A0A0B7LBQ0	NPLHCJEM_01960	Nucleoside diphosphate kinase
 Q97NQ8	NPLHCJEM_01961	DNA-directed RNA polymerase beta' subunit
 A0A0B7L1K2	NPLHCJEM_01962	DNA-directed RNA polymerase beta subunit
-	NPLHCJEM_01963	Lacto-rpoB
-	NPLHCJEM_01963	
-	NPLHCJEM_01964	tRNA-Cys(gca)
-	NPLHCJEM_01964	
 A0A4N2RVN9	NPLHCJEM_01965	Putative hemolysin
 A0A0B7LDF1	NPLHCJEM_01966	DNA-entry nuclease
 A0A0B7L886	NPLHCJEM_01967	Competence-associated EpuA protein
@@ -2103,8 +1873,6 @@ B5E2H6	NPLHCJEM_01986	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyl
 Q8CY94	NPLHCJEM_01987	Hypothetical protein
 Q8DND2	NPLHCJEM_01988	ABC transporter%2C ATP-binding protein
 A0A6I3UPH6	NPLHCJEM_01989	Putative immunity protein
-	NPLHCJEM_01990	SpR08_sRNA
-	NPLHCJEM_01990	
 A0A0Y2CSF3	NPLHCJEM_01991	Transcriptional regulator
 A0A0B7LWF0	NPLHCJEM_01992	Ribonuclease M5
 A0A4N2RYR7	NPLHCJEM_01993	Putative deoxyribonuclease TatD
@@ -2123,42 +1891,12 @@ C1CA48	NPLHCJEM_02005	ABC transporter%2C permease protein
 C1CA49	NPLHCJEM_02006	ABC transporter%2C ATP-binding protein
 C1CA50	NPLHCJEM_02007	Hypothetical protein
 A0A0B7MA59	NPLHCJEM_02008	Hypothetical protein
-	NPLHCJEM_02009	tRNA-Pro(tgg)
-	NPLHCJEM_02009	
-	NPLHCJEM_02010	tRNA-Arg(acg)
-	NPLHCJEM_02010	
-	NPLHCJEM_02011	tRNA-Leu(taa)
-	NPLHCJEM_02011	
-	NPLHCJEM_02012	tRNA-Gly(gcc)
-	NPLHCJEM_02012	
-	NPLHCJEM_02013	tRNA-Thr(tgt)
-	NPLHCJEM_02013	
-	NPLHCJEM_02014	tRNA-Leu(tag)
-	NPLHCJEM_02014	
-	NPLHCJEM_02015	tRNA-Lys(ttt)
-	NPLHCJEM_02015	
-	NPLHCJEM_02016	tRNA-Asp(gtc)
-	NPLHCJEM_02016	
-	NPLHCJEM_02017	tRNA-Val(tac)
-	NPLHCJEM_02017	
-	NPLHCJEM_02018	5S ribosomal RNA
-	NPLHCJEM_02018	
-	NPLHCJEM_02019	23S ribosomal RNA
-	NPLHCJEM_02019	
-	NPLHCJEM_02020	tRNA-Ala(tgc)
-	NPLHCJEM_02020	
-	NPLHCJEM_02021	16S ribosomal RNA
-	NPLHCJEM_02021	
-	NPLHCJEM_02022	tRNA-Glu(ttc)
-	NPLHCJEM_02022	
 B2IMI0	NPLHCJEM_02023	Competence-specific sigma factor ComX
 C1CGT9	NPLHCJEM_02024	Transcription antitermination protein NusG
 Q8DNB7	NPLHCJEM_02025	Protein translocase subunit SecE
 A0A6I3UTA2	NPLHCJEM_02026	hypothetical protein
 Q75YF6	NPLHCJEM_02027	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
 B2IMI5	NPLHCJEM_02028	RluD-like protein
-	NPLHCJEM_02029	Srn266
-	NPLHCJEM_02029	
 A0A4J1WXQ4	NPLHCJEM_02030	IS1167 transposase
 A0AAE4K1F0	NPLHCJEM_02031	IS1167 transposase Orf2
 B2IMI7	NPLHCJEM_02032	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
@@ -2216,38 +1954,6 @@ A0A4G5DUW3	NPLHCJEM_02083	Hydrolase%2C haloacid dehalogenase-like family
 A0A0B7L696	NPLHCJEM_02084	Multi antimicrobial extrusion family transporter
 A0AA95DD32	NPLHCJEM_02085	Threonine synthase
 A0A0B7M8U7	NPLHCJEM_02086	Hypothetical protein
-	NPLHCJEM_02087	tRNA-Leu(caa)
-	NPLHCJEM_02087	
-	NPLHCJEM_02088	tRNA-Gln(ttg)
-	NPLHCJEM_02088	
-	NPLHCJEM_02089	tRNA-His(gtg)
-	NPLHCJEM_02089	
-	NPLHCJEM_02090	tRNA-Trp(cca)
-	NPLHCJEM_02090	
-	NPLHCJEM_02091	tRNA-Tyr(gta)
-	NPLHCJEM_02091	
-	NPLHCJEM_02092	tRNA-Phe(gaa)
-	NPLHCJEM_02092	
-	NPLHCJEM_02093	tRNA-Met(cat)
-	NPLHCJEM_02093	
-	NPLHCJEM_02094	tRNA-Ser(tga)
-	NPLHCJEM_02094	
-	NPLHCJEM_02095	tRNA-Ile(gat)
-	NPLHCJEM_02095	
-	NPLHCJEM_02096	tRNA-Gly(tcc)
-	NPLHCJEM_02096	
-	NPLHCJEM_02097	tRNA-Val(tac)
-	NPLHCJEM_02097	
-	NPLHCJEM_02098	5S ribosomal RNA
-	NPLHCJEM_02098	
-	NPLHCJEM_02099	23S ribosomal RNA
-	NPLHCJEM_02099	
-	NPLHCJEM_02100	tRNA-Ala(tgc)
-	NPLHCJEM_02100	
-	NPLHCJEM_02101	16S ribosomal RNA
-	NPLHCJEM_02101	
-	NPLHCJEM_02102	tRNA-Glu(ttc)
-	NPLHCJEM_02102	
 Q8DN75	NPLHCJEM_02103	Cytidine/deoxycytidylate deaminase family protein
 Q8CWN5	NPLHCJEM_02104	Glutamyl-tRNA synthetase
 Q8DN74	NPLHCJEM_02105	Glucose-6-phosphate isomerase
@@ -2255,11 +1961,7 @@ C1CH02	NPLHCJEM_02106	Glutamine amidotransferase%2C class I
 A0A0B7LZN5	NPLHCJEM_02107	Multidrug resistance ABC transporter ATP-binding and permease protein
 A0A4N2RX25	NPLHCJEM_02108	hypothetical protein
 A0A0B7M9Z8	NPLHCJEM_02109	Multidrug resistance ABC transporter ATP-binding and permease protein
-	NPLHCJEM_02110	patAB
-	NPLHCJEM_02110	
 A0A0B7LU78	NPLHCJEM_02111	DNA mismatch repair protein HexA
-	NPLHCJEM_02112	SpR10_sRNA
-	NPLHCJEM_02112	
 B2IMZ7	NPLHCJEM_02113	Arginine pathway regulatory protein ArgR1
 C1CN25	NPLHCJEM_02114	Arginyl-tRNA synthetase
 A0A4J1TFQ0	NPLHCJEM_02115	IS1381 transposase OrfB
@@ -2354,10 +2056,6 @@ C1CB09	NPLHCJEM_02203	Multiple sugar ABC transporter%2C membrane-spanning permea
 C1CB10	NPLHCJEM_02204	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
 A0A4J1V9C1	NPLHCJEM_02205	L-fuculokinase
 B2INI7	NPLHCJEM_02206	L-fucose operon activator
-	NPLHCJEM_02207	SpF66_sRNA
-	NPLHCJEM_02207	
-	NPLHCJEM_02208	SpF66_sRNA
-	NPLHCJEM_02208	
 A0A0E8T5V2	NPLHCJEM_02209	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
 O33704	NPLHCJEM_02210	Zinc ABC transporter%2C permease protein AdcB
 B2INJ0	NPLHCJEM_02211	Zinc ABC transporter%2C ATP-binding protein AdcC
@@ -2367,14 +2065,8 @@ Q04HZ9	NPLHCJEM_02214	D-alanine--poly(phosphoribitol) ligase subunit 2
 Q8DN12	NPLHCJEM_02215	D-alanyl transfer protein DltB
 Q04HZ7	NPLHCJEM_02216	D-alanine--poly(phosphoribitol) ligase subunit 1
 A0AA36LHR5	NPLHCJEM_02217	Macrolide-efflux protein
-	NPLHCJEM_02218	Intron_gpII
-	NPLHCJEM_02218	
 A0A822QAK2	NPLHCJEM_02219	hypothetical protein
 Q8DN09	NPLHCJEM_02220	hypothetical protein
-	NPLHCJEM_02221	group-II-D1D4-1
-	NPLHCJEM_02221	
-	NPLHCJEM_02222	group-II-D1D4-3
-	NPLHCJEM_02222	
 A0A4J1NJ06	NPLHCJEM_02223	hypothetical protein
 B1I9Z2	NPLHCJEM_02224	Hypothetical protein
 Q8CY60	NPLHCJEM_02225	hypothetical protein
@@ -2385,8 +2077,6 @@ C1CHI7	NPLHCJEM_02229	Trans-acting positive regulator
 Q04HY8	NPLHCJEM_02230	Chaperonin%2C heat shock protein 33
 A0A0H2USJ2	NPLHCJEM_02231	tRNA dihydrouridine synthase B
 A0AA87CG79	NPLHCJEM_02232	hypothetical protein
-	NPLHCJEM_02233	Srn266
-	NPLHCJEM_02233	
 A0A4J1VP92	NPLHCJEM_02234	IS1167 transposase
 A0A0Y0BQM2	NPLHCJEM_02235	IS1167 transposase Orf2
 Q9RQT6	NPLHCJEM_02236	Choline-binding protein A
@@ -2399,8 +2089,6 @@ Q8DMZ8	NPLHCJEM_02242	Thiamin ABC transporter ThiZ%2C ATPase component
 Q8DMZ7	NPLHCJEM_02243	Thiamin ABC transporter ThiY%2C substrate-binding component
 B1IA11	NPLHCJEM_02244	Thiamin ABC transporter ThiX%2C transmembrane component
 A0A4G6X742	NPLHCJEM_02245	Cytoplasmic thiamin-binding component of thiamin ABC transporter
-	NPLHCJEM_02246	TPP
-	NPLHCJEM_02246	
 A0A0B7LHG5	NPLHCJEM_02247	Choline-binding protein D
 Q8DMZ3	NPLHCJEM_02248	Hypothetical protein
 Q8DMZ2	NPLHCJEM_02249	Replicative DNA helicase DnaC
@@ -2411,8 +2099,6 @@ C1CBI4	NPLHCJEM_02253	Phosphoribosyltransferase domain protein%2C ComF operon pr
 A0A4N2RDK9	NPLHCJEM_02254	DNA transporter ATPase%2C ComF operon protein A
 Q8DMY9	NPLHCJEM_02255	Protein co-occurring with transport systems
 B1IAC6	NPLHCJEM_02256	Cysteine synthase
-	NPLHCJEM_02257	SpF51_sRNA
-	NPLHCJEM_02257	
 Q04HW4	NPLHCJEM_02258	Translation elongation factor Ts
 C1CUD2	NPLHCJEM_02259	SSU ribosomal protein S2p (SAe)
 C1CHL5	NPLHCJEM_02260	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
@@ -2434,15 +2120,9 @@ A0A0B7M2L2	NPLHCJEM_02275	ABC transporter%2C permease protein
 A0AA36PZ21	NPLHCJEM_02276	hypothetical protein
 A0AA36PYW3	NPLHCJEM_02277	hypothetical protein
 A0A0I7YWH0	NPLHCJEM_02278	Transcriptional regulator%2C AcrR family
-	NPLHCJEM_02279	tRNA-Asn(gtt)
-	NPLHCJEM_02279	
-	NPLHCJEM_02280	tRNA-Glu(ttc)
-	NPLHCJEM_02280	
 Q8DMW5	NPLHCJEM_02281	Two-component system response regulator ComE
 A0A0I8DU55	NPLHCJEM_02282	Two-component system sensor histidine kinase ComD
 Q7BTE1	NPLHCJEM_02283	Competence-stimulating peptide precursor ComC
-	NPLHCJEM_02284	tRNA-Arg(tct)
-	NPLHCJEM_02284	
 Q04HU2	NPLHCJEM_02285	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
 B2IP00	NPLHCJEM_02286	Serine protease%2C DegP/HtrA
 A0A6I3UV41	NPLHCJEM_02287	Chromosome partitioning protein ParB
@@ -2461,26 +2141,10 @@ Q97TC4	NPLHCJEM_02299	Hypoxanthine-guanine phosphoribosyltransferase
 P59652	NPLHCJEM_02300	Cell division protein FtsH
 B2IP46	NPLHCJEM_02301	IS1167 transposase Orf2
 A0A4J1QHF4	NPLHCJEM_02302	IS1167 transposase
-	NPLHCJEM_02303	Srn266
-	NPLHCJEM_02303	
 A0A6C7J1A1	NPLHCJEM_02304	Competence-specific sigma factor ComX
-	NPLHCJEM_02305	tRNA-Glu(ttc)
-	NPLHCJEM_02305	
-	NPLHCJEM_02306	16S ribosomal RNA
-	NPLHCJEM_02306	
-	NPLHCJEM_02307	tRNA-Ala(tgc)
-	NPLHCJEM_02307	
-	NPLHCJEM_02308	23S ribosomal RNA
-	NPLHCJEM_02308	
-	NPLHCJEM_02309	5S ribosomal RNA
-	NPLHCJEM_02309	
-	NPLHCJEM_02310	tRNA-Asn(gtt)
-	NPLHCJEM_02310	
 C1C999	NPLHCJEM_02311	IS1167 transposase Orf1
 Q8CZD0	NPLHCJEM_02312	Competence positive regulator ComW
 C1CHA1	NPLHCJEM_02313	Adenylosuccinate synthetase
-	NPLHCJEM_02314	csRNA
-	NPLHCJEM_02314	
 A0A0E8ZV55	NPLHCJEM_02315	Tyrosine recombinase XerC
 A0A0I6XF23	NPLHCJEM_02316	3'-5' exonuclease DinG
 A0A0I6XKC5	NPLHCJEM_02317	hypothetical protein
@@ -2539,8 +2203,6 @@ A0A4H9EG42	NPLHCJEM_02369	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
 C1CHB7	NPLHCJEM_02370	hypothetical protein
 A0A0B7M596	NPLHCJEM_02371	hypothetical protein
 C1CHA2	NPLHCJEM_02372	tRNA-specific adenosine-34 deaminase
-	NPLHCJEM_02373	Bacteria_small_SRP
-	NPLHCJEM_02373	
 A0A0B7M495	NPLHCJEM_02374	Tyrosine recombinase XerC
 A0A4N2RS47	NPLHCJEM_02375	hypothetical protein
 C1CHA6	NPLHCJEM_02376	hypothetical protein
@@ -2561,8 +2223,6 @@ C1CHC1	NPLHCJEM_02390	Carbonic anhydrase
 Q8CZC9	NPLHCJEM_02391	hypothetical protein
 B2IR17	NPLHCJEM_02392	Ribose-phosphate pyrophosphokinase
 A0A0U0IDH7	NPLHCJEM_02393	IS1167 transposase Orf1
-	NPLHCJEM_02394	Srn266
-	NPLHCJEM_02394	
 A0A0T8B049	NPLHCJEM_02395	hypothetical protein
 A0A0U0CRX4	NPLHCJEM_02396	hypothetical protein
 A0A0B7MA53	NPLHCJEM_02397	DNA polymerase I

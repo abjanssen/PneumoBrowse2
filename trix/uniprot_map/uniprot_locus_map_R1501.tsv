@@ -1,7 +1,5 @@
 uniprot	locus_tag	product
 Q8DPW5	JMFOCFNE_00001	Phosphoenolpyruvate carboxylase
-	JMFOCFNE_00002	T-box
-	JMFOCFNE_00002	
 Q8DPW4	JMFOCFNE_00003	ABC transporter substrate-binding protein
 Q8DPW3	JMFOCFNE_00004	Putative tryptophan-specific ABC transporter permease protein TrpY
 Q8DPW2	JMFOCFNE_00005	ABC transporter ATP-binding protein
@@ -17,10 +15,6 @@ Q8CYS2	JMFOCFNE_00014	Hypothetical protein
 Q8DPV7	JMFOCFNE_00015	IS1167 transposase Orf2
 Q8DPV6	JMFOCFNE_00016	hypothetical protein
 Q8DPV5	JMFOCFNE_00017	IS1167 transposase Orf1
-	JMFOCFNE_00018	Srn266
-	JMFOCFNE_00018	
-	JMFOCFNE_00019	group-II-D1D4-3
-	JMFOCFNE_00019	
 Q8DPV4	JMFOCFNE_00020	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 Q8DPV3	JMFOCFNE_00021	Ribosomal-protein-S5p-alanine acetyltransferase
 Q8DPV2	JMFOCFNE_00022	Cytosolic protein containing multiple CBS domains
@@ -40,17 +34,11 @@ Q8DPU2	JMFOCFNE_00035	GTP pyrophosphokinase
 P65780	JMFOCFNE_00036	NAD kinase
 Q8DPU1	JMFOCFNE_00037	RluD-like protein
 Q8DPU0	JMFOCFNE_00038	Phosphate acetyltransferase
-	JMFOCFNE_00039	SpR14_sRNA
-	JMFOCFNE_00039	
 Q8CM31	JMFOCFNE_00040	IS1167 transposase Orf2
 Q8DNI4	JMFOCFNE_00041	hypothetical protein
 Q8DPT9	JMFOCFNE_00042	IS1167 transposase Orf1
-	JMFOCFNE_00043	Srn266
-	JMFOCFNE_00043	
 P67267	JMFOCFNE_00044	Hypothetical protein co-occurring with RecR
 Q8DPT8	JMFOCFNE_00045	Hypothetical protein
-	JMFOCFNE_00046	L21_leader
-	JMFOCFNE_00046	
 Q8CWR5	JMFOCFNE_00047	LSU ribosomal protein L21p
 Q8DPT7	JMFOCFNE_00048	Putative ribosomal protein
 P66136	JMFOCFNE_00049	LSU ribosomal protein L27p
@@ -164,8 +152,6 @@ Q8DPK1	JMFOCFNE_00156	Hydrolase%2C HAD superfamily
 Q8DPK0	JMFOCFNE_00157	Hydrolase%2C HAD superfamily
 Q8DPJ9	JMFOCFNE_00158	Chromosome partition protein SMC
 Q8DPJ8	JMFOCFNE_00159	Ribonuclease III
-	JMFOCFNE_00160	tRNA-Arg(ccg)
-	JMFOCFNE_00160	
 Q8DPJ7	JMFOCFNE_00161	GMP reductase
 Q8CYQ4	JMFOCFNE_00162	Hypothetical protein
 Q8CYQ3	JMFOCFNE_00163	Endonuclease
@@ -193,27 +179,19 @@ Q8CWR0	JMFOCFNE_00184	Carbamoyl-phosphate synthase large chain CarB
 P63734	JMFOCFNE_00185	Carbamoyl-phosphate synthase small chain CarA
 Q8DPH9	JMFOCFNE_00186	Aspartate carbamoyltransferase
 P65947	JMFOCFNE_00187	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
-	JMFOCFNE_00188	PyrR
-	JMFOCFNE_00188	
 Q8DPH8	JMFOCFNE_00189	Endonuclease III
 Q8DPH7	JMFOCFNE_00190	Protein%2C clustered with ribosomal protein L32p
 Q8CYP8	JMFOCFNE_00191	BlpT protein
-	JMFOCFNE_00192	SpF43_sRNA
-	JMFOCFNE_00192	
 Q8DPH6	JMFOCFNE_00193	ABC transporter ATP-binding protein
 Q8DPH5	JMFOCFNE_00194	Heat shock protein HtpX
 Q8DPH4	JMFOCFNE_00195	LemA
 Q8DPH3	JMFOCFNE_00196	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
-	JMFOCFNE_00197	SpF44_sRNA
-	JMFOCFNE_00197	
 Q8DPH2	JMFOCFNE_00198	Uracil permease
 Q8DPH1	JMFOCFNE_00199	Signal recognition particle protein Ffh
 Q8DPH0	JMFOCFNE_00200	Signal recognition particle associated protein
 Q8CYP6	JMFOCFNE_00201	Hypothetical protein
 Q8DPG9	JMFOCFNE_00202	dNTP triphosphohydrolase
 Q8DPG8	JMFOCFNE_00203	Sugar phosphatase YidA
-	JMFOCFNE_00204	tRNA-Arg(cct)
-	JMFOCFNE_00204	
 Q8CWQ9	JMFOCFNE_00205	LSU ribosomal protein L19p
 Q8DPG7	JMFOCFNE_00206	ClC-type fluoride channel
 Q8DPG6	JMFOCFNE_00207	ClC-type fluoride channel
@@ -227,8 +205,6 @@ Q8DPG1	JMFOCFNE_00214	IS630 family transposase ISSpn2
 Q8DPG0	JMFOCFNE_00215	NADP-specific glutamate dehydrogenase
 Q8CYP4	JMFOCFNE_00216	Hypothetical protein
 Q8DPF9	JMFOCFNE_00217	ABC transporter ATP-binding protein
-	JMFOCFNE_00218	SpF25_sRNA
-	JMFOCFNE_00218	
 Q8CYP3	JMFOCFNE_00219	hypothetical protein
 Q8CYP2	JMFOCFNE_00220	N-acetylmannosamine kinase
 Q8DPF8	JMFOCFNE_00221	4-hydroxy-tetrahydrodipicolinate synthase
@@ -257,12 +233,8 @@ Q8CYN6	JMFOCFNE_00243	Tn5253 hypothetical protein
 Q8CYN5	JMFOCFNE_00244	hypothetical protein
 Q8CYN4	JMFOCFNE_00245	hypothetical protein
 Q8CYN3	JMFOCFNE_00246	Tn5253 hypothetical protein
-	JMFOCFNE_00247	rli38
-	JMFOCFNE_00247	
 P0A472	JMFOCFNE_00248	LSU ribosomal protein L7/L12 (P1/P2)
 P66051	JMFOCFNE_00249	LSU ribosomal protein L10p (P0)
-	JMFOCFNE_00250	L10_leader
-	JMFOCFNE_00250	
 Q8DPE4	JMFOCFNE_00251	Methylthioadenosine deaminase
 Q8DPE3	JMFOCFNE_00252	ABC transporter ATP-binding/permease protein
 Q8DPE2	JMFOCFNE_00253	ABC transporter ATP-binding/permease protein
@@ -346,8 +318,6 @@ Q8DP87	JMFOCFNE_00330	Duplicated ATPase component of energizing module of putati
 Q8CYL7	JMFOCFNE_00331	hypothetical protein
 Q8DP85	JMFOCFNE_00332	IS66 family transposase Orf2
 Q8DP84	JMFOCFNE_00333	IS66 family transposase Orf1
-	JMFOCFNE_00334	SpR18_sRNA
-	JMFOCFNE_00334	
 P64298	JMFOCFNE_00335	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
 Q8DP83	JMFOCFNE_00336	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 Q8DP82	JMFOCFNE_00337	Drug/metabolite transporter superfamily protein
@@ -379,8 +349,6 @@ Q8DP66	JMFOCFNE_00362	Glycyl-tRNA synthetase beta chain
 Q8DP65	JMFOCFNE_00363	Glycyl-tRNA synthetase alpha chain
 Q8CYK6	JMFOCFNE_00364	hypothetical protein
 Q8CYK5	JMFOCFNE_00365	hypothetical protein
-	JMFOCFNE_00366	SpR19_sRNA
-	JMFOCFNE_00366	
 Q8DP64	JMFOCFNE_00367	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
 Q8DP63	JMFOCFNE_00368	Peptidoglycan N-acetylglucosamine deacetylase
 Q8DP62	JMFOCFNE_00369	Oxidoreductase%2C Gfo/Idh/MocA family
@@ -452,14 +420,10 @@ Q8CYI8	JMFOCFNE_00434	Pneumococcal collagen-like protein PclA
 Q8DP24	JMFOCFNE_00435	M protein trans-acting positive regulator Mga1
 Q8DP23	JMFOCFNE_00436	hypothetical protein
 Q8CYI7	JMFOCFNE_00437	Hypothetical protein
-	JMFOCFNE_00438	SpR20_sRNA
-	JMFOCFNE_00438	
 Q8CYI6	JMFOCFNE_00439	Cell shape-determining protein
 Q8DP22	JMFOCFNE_00440	Peptide deformylase
 Q8DP21	JMFOCFNE_00441	Glutathione S-transferase
 Q8DP20	JMFOCFNE_00442	Calcium-transporting ATPase
-	JMFOCFNE_00443	SSRC10
-	JMFOCFNE_00443	
 Q8DP19	JMFOCFNE_00444	Cobalt-zinc-cadmium resistance protein
 Q8DP18	JMFOCFNE_00445	ATPase component of ABC transporter with duplicated ATPase domains
 Q8CWQ3	JMFOCFNE_00446	CCA tRNA nucleotidyltransferase
@@ -487,8 +451,6 @@ Q8DP05	JMFOCFNE_00467	Homoserine O-succinyltransferase
 P63545	JMFOCFNE_00468	Adenine phosphoribosyltransferase
 Q8DP04	JMFOCFNE_00469	SAM-dependent methyltransferase
 Q8DP03	JMFOCFNE_00470	Multiple sugar ABC transporter%2C ATP-binding protein
-	JMFOCFNE_00471	tRNA-Leu(aag)
-	JMFOCFNE_00471	
 Q8DP02	JMFOCFNE_00472	Nicotinamidase
 Q8DP01	JMFOCFNE_00473	GTP-sensing transcriptional pleiotropic repressor CodY
 P0A4D8	JMFOCFNE_00474	DEAD-box ATP-dependent RNA helicase CshA
@@ -659,8 +621,6 @@ Q8DNP2	JMFOCFNE_00638	Addiction module antitoxin HicB
 Q8CYE1	JMFOCFNE_00639	Addiction module toxin HicA
 Q8CYD9	JMFOCFNE_00640	Hypothetical protein
 Q8DNP1	JMFOCFNE_00641	Chromosome segregation helicase
-	JMFOCFNE_00642	tRNA-Lys(ctt)
-	JMFOCFNE_00642	
 Q8DNP0	JMFOCFNE_00643	Sucrose-6-phosphate hydrolase
 Q8DNN9	JMFOCFNE_00644	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 Q8DNN8	JMFOCFNE_00645	Multiple sugar ABC transporter%2C membrane-spanning permease protein
@@ -705,8 +665,6 @@ Q8CYC7	JMFOCFNE_00683	hypothetical protein
 Q8CYE3	JMFOCFNE_00684	hypothetical protein
 P0A2X4	JMFOCFNE_00685	Exodeoxyribonuclease III
 Q8CYC6	JMFOCFNE_00686	hypothetical protein
-	JMFOCFNE_00687	Purine
-	JMFOCFNE_00687	
 Q8DNL1	JMFOCFNE_00688	Xanthine phosphoribosyltransferase
 Q8DNL0	JMFOCFNE_00689	Xanthine permease
 P0A3T5	JMFOCFNE_00690	Type II restriction-modification system component DpnD
@@ -720,8 +678,6 @@ Q8DNK4	JMFOCFNE_00697	Transcriptional regulator%2C MerR family
 Q8DNK3	JMFOCFNE_00698	Cobalt-zinc-cadmium resistance protein CzcD
 Q8DNK2	JMFOCFNE_00699	Transcriptional regulator SczA%2C TetR family
 Q8DNK1	JMFOCFNE_00700	Ribosyl nicotinamide transporter PnuC
-	JMFOCFNE_00701	Srn266
-	JMFOCFNE_00701	
 Q8DRM8	JMFOCFNE_00702	IS1167 transposase Orf1
 Q8DNI4	JMFOCFNE_00703	hypothetical protein
 Q8CM31	JMFOCFNE_00704	IS1167 transposase Orf2
@@ -748,8 +704,6 @@ P67294	JMFOCFNE_00724	Hypothetical protein
 Q8DNI7	JMFOCFNE_00725	Trehalose-6-phosphate hydrolase
 Q8DNI6	JMFOCFNE_00726	Trehalose-specific PTS IIBCA components
 Q8DNI5	JMFOCFNE_00727	Trehalose operon transcriptional repressor
-	JMFOCFNE_00728	Srn266
-	JMFOCFNE_00728	
 Q8DNI4	JMFOCFNE_00729	IS1167 transposase
 Q8DNI3	JMFOCFNE_00730	IS1167 transposase Orf2
 Q8DNI2	JMFOCFNE_00731	Peptide ABC transporter ATP-binding protein AmiF
@@ -765,61 +719,11 @@ Q8DNH8	JMFOCFNE_00740	Multiple sugar ABC transporter%2C substrate-binding protei
 Q8CWP3	JMFOCFNE_00741	Alpha-galactosidase
 Q8CWP2	JMFOCFNE_00742	Multiple sugar metabolism operon regulatory protein MsmR
 Q8DNH7	JMFOCFNE_00743	Bifunctional biotin operon repressor/Biotin--protein ligase
-	JMFOCFNE_00744	Srn266
-	JMFOCFNE_00744	
 Q8CWP1	JMFOCFNE_00745	hypothetical protein
-	JMFOCFNE_00746	tRNA-Ser(gct)
-	JMFOCFNE_00746	
-	JMFOCFNE_00747	tRNA-Ile(gat)
-	JMFOCFNE_00747	
-	JMFOCFNE_00748	tRNA-Gly(tcc)
-	JMFOCFNE_00748	
-	JMFOCFNE_00749	tRNA-Phe(gaa)
-	JMFOCFNE_00749	
-	JMFOCFNE_00750	tRNA-Met(cat)
-	JMFOCFNE_00750	
-	JMFOCFNE_00751	tRNA-Ser(tga)
-	JMFOCFNE_00751	
-	JMFOCFNE_00752	tRNA-Met(cat)
-	JMFOCFNE_00752	
-	JMFOCFNE_00753	tRNA-Met(cat)
-	JMFOCFNE_00753	
-	JMFOCFNE_00754	tRNA-Pro(tgg)
-	JMFOCFNE_00754	
-	JMFOCFNE_00755	tRNA-Arg(acg)
-	JMFOCFNE_00755	
-	JMFOCFNE_00756	tRNA-Leu(taa)
-	JMFOCFNE_00756	
-	JMFOCFNE_00757	tRNA-Gly(gcc)
-	JMFOCFNE_00757	
-	JMFOCFNE_00758	tRNA-Thr(tgt)
-	JMFOCFNE_00758	
-	JMFOCFNE_00759	tRNA-Leu(tag)
-	JMFOCFNE_00759	
-	JMFOCFNE_00760	tRNA-Lys(ttt)
-	JMFOCFNE_00760	
-	JMFOCFNE_00761	tRNA-Asp(gtc)
-	JMFOCFNE_00761	
-	JMFOCFNE_00762	tRNA-Val(tac)
-	JMFOCFNE_00762	
-	JMFOCFNE_00763	5S ribosomal RNA
-	JMFOCFNE_00763	
-	JMFOCFNE_00764	23S ribosomal RNA
-	JMFOCFNE_00764	
-	JMFOCFNE_00765	tRNA-Ala(tgc)
-	JMFOCFNE_00765	
-	JMFOCFNE_00766	16S ribosomal RNA
-	JMFOCFNE_00766	
-	JMFOCFNE_00767	tRNA-Glu(ttc)
-	JMFOCFNE_00767	
 Q8DNH6	JMFOCFNE_00768	RNA methyltransferase%2C TrmA family
 P59212	JMFOCFNE_00769	Regulatory protein RecX
 Q8DNH5	JMFOCFNE_00770	Cysteinyl-tRNA synthetase related protein
-	JMFOCFNE_00771	Spy392987
-	JMFOCFNE_00771	
 Q8CYC0	JMFOCFNE_00772	Hypothetical protein
-	JMFOCFNE_00773	Srn266
-	JMFOCFNE_00773	
 Q8CWP0	JMFOCFNE_00774	IS1167 transposase
 P0A336	JMFOCFNE_00775	Heat shock protein 60 family chaperone GroEL
 Q8CWN9	JMFOCFNE_00776	Heat shock protein 60 family co-chaperone GroES
@@ -874,10 +778,6 @@ Q8CY96	JMFOCFNE_00824	hypothetical protein
 P65537	JMFOCFNE_00825	Nucleoside diphosphate kinase
 Q8DNF1	JMFOCFNE_00826	DNA-directed RNA polymerase beta' subunit
 Q8DNF0	JMFOCFNE_00827	DNA-directed RNA polymerase beta subunit
-	JMFOCFNE_00828	Lacto-rpoB
-	JMFOCFNE_00828	
-	JMFOCFNE_00829	tRNA-Cys(gca)
-	JMFOCFNE_00829	
 Q8DNE9	JMFOCFNE_00830	Putative hemolysin
 P0A3S4	JMFOCFNE_00831	DNA-entry nuclease
 Q7ZAK2	JMFOCFNE_00832	Competence-associated EpuA protein
@@ -903,8 +803,6 @@ Q8DND3	JMFOCFNE_00851	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyl
 Q8CY94	JMFOCFNE_00852	Hypothetical protein
 Q8DND2	JMFOCFNE_00853	ABC transporter%2C ATP-binding protein
 Q8DND1	JMFOCFNE_00854	Putative immunity protein
-	JMFOCFNE_00855	SpR08_sRNA
-	JMFOCFNE_00855	
 Q8DND0	JMFOCFNE_00856	Transcriptional regulator
 Q8DNC9	JMFOCFNE_00857	Ribonuclease M5
 Q8DNC8	JMFOCFNE_00858	Putative deoxyribonuclease TatD
@@ -922,34 +820,6 @@ Q8DNC0	JMFOCFNE_00869	ABC transporter%2C permease protein
 Q8DNB9	JMFOCFNE_00870	ABC transporter%2C ATP-binding protein
 Q8CY71	JMFOCFNE_00871	Hypothetical protein
 Q8CY91	JMFOCFNE_00872	Hypothetical protein
-	JMFOCFNE_00873	tRNA-Pro(tgg)
-	JMFOCFNE_00873	
-	JMFOCFNE_00874	tRNA-Arg(acg)
-	JMFOCFNE_00874	
-	JMFOCFNE_00875	tRNA-Leu(taa)
-	JMFOCFNE_00875	
-	JMFOCFNE_00876	tRNA-Gly(gcc)
-	JMFOCFNE_00876	
-	JMFOCFNE_00877	tRNA-Thr(tgt)
-	JMFOCFNE_00877	
-	JMFOCFNE_00878	tRNA-Leu(tag)
-	JMFOCFNE_00878	
-	JMFOCFNE_00879	tRNA-Lys(ttt)
-	JMFOCFNE_00879	
-	JMFOCFNE_00880	tRNA-Asp(gtc)
-	JMFOCFNE_00880	
-	JMFOCFNE_00881	tRNA-Val(tac)
-	JMFOCFNE_00881	
-	JMFOCFNE_00882	5S ribosomal RNA
-	JMFOCFNE_00882	
-	JMFOCFNE_00883	23S ribosomal RNA
-	JMFOCFNE_00883	
-	JMFOCFNE_00884	tRNA-Ala(tgc)
-	JMFOCFNE_00884	
-	JMFOCFNE_00885	16S ribosomal RNA
-	JMFOCFNE_00885	
-	JMFOCFNE_00886	tRNA-Glu(ttc)
-	JMFOCFNE_00886	
 Q8CM18	JMFOCFNE_00887	Competence-specific sigma factor ComX
 Q8DNB8	JMFOCFNE_00888	Transcription antitermination protein NusG
 Q8DNB7	JMFOCFNE_00889	Protein translocase subunit SecE
@@ -1011,38 +881,6 @@ Q8CY81	JMFOCFNE_00944	Hydrolase%2C haloacid dehalogenase-like family
 V9H0I2	JMFOCFNE_00945	Multi antimicrobial extrusion family transporter
 Q8DN76	JMFOCFNE_00946	Threonine synthase
 Q8CY80	JMFOCFNE_00947	Hypothetical protein
-	JMFOCFNE_00948	tRNA-Leu(caa)
-	JMFOCFNE_00948	
-	JMFOCFNE_00949	tRNA-Gln(ttg)
-	JMFOCFNE_00949	
-	JMFOCFNE_00950	tRNA-His(gtg)
-	JMFOCFNE_00950	
-	JMFOCFNE_00951	tRNA-Trp(cca)
-	JMFOCFNE_00951	
-	JMFOCFNE_00952	tRNA-Tyr(gta)
-	JMFOCFNE_00952	
-	JMFOCFNE_00953	tRNA-Phe(gaa)
-	JMFOCFNE_00953	
-	JMFOCFNE_00954	tRNA-Met(cat)
-	JMFOCFNE_00954	
-	JMFOCFNE_00955	tRNA-Ser(tga)
-	JMFOCFNE_00955	
-	JMFOCFNE_00956	tRNA-Ile(gat)
-	JMFOCFNE_00956	
-	JMFOCFNE_00957	tRNA-Gly(tcc)
-	JMFOCFNE_00957	
-	JMFOCFNE_00958	tRNA-Val(tac)
-	JMFOCFNE_00958	
-	JMFOCFNE_00959	5S ribosomal RNA
-	JMFOCFNE_00959	
-	JMFOCFNE_00960	23S ribosomal RNA
-	JMFOCFNE_00960	
-	JMFOCFNE_00961	tRNA-Ala(tgc)
-	JMFOCFNE_00961	
-	JMFOCFNE_00962	16S ribosomal RNA
-	JMFOCFNE_00962	
-	JMFOCFNE_00963	tRNA-Glu(ttc)
-	JMFOCFNE_00963	
 Q8DN75	JMFOCFNE_00964	Cytidine/deoxycytidylate deaminase family protein
 Q8CWN5	JMFOCFNE_00965	Glutamyl-tRNA synthetase
 Q8DN74	JMFOCFNE_00966	Glucose-6-phosphate isomerase
@@ -1050,11 +888,7 @@ Q8DN73	JMFOCFNE_00967	Glutamine amidotransferase%2C class I
 Q8DN72	JMFOCFNE_00968	Multidrug resistance ABC transporter ATP-binding and permease protein
 Q8DN71	JMFOCFNE_00969	hypothetical protein
 Q8DN70	JMFOCFNE_00970	Multidrug resistance ABC transporter ATP-binding and permease protein
-	JMFOCFNE_00971	patAB
-	JMFOCFNE_00971	
 P0A3R4	JMFOCFNE_00972	DNA mismatch repair protein HexA
-	JMFOCFNE_00973	SpR10_sRNA
-	JMFOCFNE_00973	
 P0A2Y3	JMFOCFNE_00974	Arginine pathway regulatory protein ArgR1
 Q8DN69	JMFOCFNE_00975	Arginyl-tRNA synthetase
 Q8DN68	JMFOCFNE_00976	IS1381 transposase OrfB
@@ -1144,10 +978,6 @@ Q8DN18	JMFOCFNE_01059	L-fucose mutarotase
 Q8DN17	JMFOCFNE_01060	L-fuculose phosphate aldolase
 Q8DN16	JMFOCFNE_01061	L-fuculokinase
 Q8DN15	JMFOCFNE_01062	L-fucose operon activator
-	JMFOCFNE_01063	SpF66_sRNA
-	JMFOCFNE_01063	
-	JMFOCFNE_01064	SpF66_sRNA
-	JMFOCFNE_01064	
 Q8CWN2	JMFOCFNE_01065	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
 Q8CWN1	JMFOCFNE_01066	Zinc ABC transporter%2C permease protein AdcB
 P0A2U7	JMFOCFNE_01067	Zinc ABC transporter%2C ATP-binding protein AdcC
@@ -1157,14 +987,8 @@ P63958	JMFOCFNE_01070	D-alanine--poly(phosphoribitol) ligase subunit 2
 Q8DN12	JMFOCFNE_01071	D-alanyl transfer protein DltB
 P0A399	JMFOCFNE_01072	D-alanine--poly(phosphoribitol) ligase subunit 1
 Q8DN11	JMFOCFNE_01073	Macrolide-efflux protein
-	JMFOCFNE_01074	Intron_gpII
-	JMFOCFNE_01074	
 Q8DN10	JMFOCFNE_01075	hypothetical protein
 Q8DN09	JMFOCFNE_01076	hypothetical protein
-	JMFOCFNE_01077	group-II-D1D4-1
-	JMFOCFNE_01077	
-	JMFOCFNE_01078	group-II-D1D4-3
-	JMFOCFNE_01078	
 Q8CY61	JMFOCFNE_01079	Hypothetical protein
 P0A3Q8	JMFOCFNE_01080	Glycerol uptake facilitator protein
 Q8DN08	JMFOCFNE_01081	Alpha-glycerophosphate oxidase
@@ -1185,8 +1009,6 @@ Q8DMZ8	JMFOCFNE_01095	Thiamin ABC transporter ThiZ%2C ATPase component
 Q8DMZ7	JMFOCFNE_01096	Thiamin ABC transporter ThiY%2C substrate-binding component
 Q8DMZ6	JMFOCFNE_01097	Thiamin ABC transporter ThiX%2C transmembrane component
 Q8DMZ5	JMFOCFNE_01098	Cytoplasmic thiamin-binding component of thiamin ABC transporter
-	JMFOCFNE_01099	TPP
-	JMFOCFNE_01099	
 Q8DMZ4	JMFOCFNE_01100	Choline-binding protein D
 Q8DMZ3	JMFOCFNE_01101	Hypothetical protein
 Q8DMZ2	JMFOCFNE_01102	Replicative DNA helicase DnaC
@@ -1199,8 +1021,6 @@ Q8DMY9	JMFOCFNE_01108	Protein co-occurring with transport systems
 Q8DMY8	JMFOCFNE_01109	Cysteine synthase
 Q8DMY7	JMFOCFNE_01110	hypothetical protein
 Q8DMY5	JMFOCFNE_01111	IS66 family transposase Orf2
-	JMFOCFNE_01112	SpF51_sRNA
-	JMFOCFNE_01112	
 P0A3B8	JMFOCFNE_01113	Translation elongation factor Ts
 Q8CWM8	JMFOCFNE_01114	SSU ribosomal protein S2p (SAe)
 Q8DMY4	JMFOCFNE_01115	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
@@ -1223,14 +1043,8 @@ Q8DMX0	JMFOCFNE_01131	ABC transporter%2C permease protein
 Q8DMW8	JMFOCFNE_01132	hypothetical protein
 Q8DMW7	JMFOCFNE_01133	hypothetical protein
 Q8DMW6	JMFOCFNE_01134	Transcriptional regulator%2C AcrR family
-	JMFOCFNE_01135	tRNA-Asn(gtt)
-	JMFOCFNE_01135	
-	JMFOCFNE_01136	tRNA-Glu(ttc)
-	JMFOCFNE_01136	
 Q8DMW5	JMFOCFNE_01137	Two-component system response regulator ComE
 Q8DMW4	JMFOCFNE_01138	Two-component system sensor histidine kinase ComD
-	JMFOCFNE_01139	tRNA-Arg(tct)
-	JMFOCFNE_01139	
 P0A4S4	JMFOCFNE_01140	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
 Q8DMW2	JMFOCFNE_01141	Serine protease%2C DegP/HtrA
 Q8DMW1	JMFOCFNE_01142	Chromosome partitioning protein ParB
@@ -1248,28 +1062,12 @@ Q8DRP9	JMFOCFNE_01153	tRNA(Ile)-lysidine synthetase TilS
 Q8DRP8	JMFOCFNE_01154	Hypoxanthine-guanine phosphoribosyltransferase
 P59652	JMFOCFNE_01155	Cell division protein FtsH
 Q8CM18	JMFOCFNE_01156	Competence-specific sigma factor ComX
-	JMFOCFNE_01157	tRNA-Glu(ttc)
-	JMFOCFNE_01157	
-	JMFOCFNE_01158	16S ribosomal RNA
-	JMFOCFNE_01158	
-	JMFOCFNE_01159	tRNA-Ala(tgc)
-	JMFOCFNE_01159	
-	JMFOCFNE_01160	23S ribosomal RNA
-	JMFOCFNE_01160	
-	JMFOCFNE_01161	5S ribosomal RNA
-	JMFOCFNE_01161	
-	JMFOCFNE_01162	tRNA-Asn(gtt)
-	JMFOCFNE_01162	
 Q8CM37	JMFOCFNE_01163	IS630 family transposase IS630-Spn1
 Q8DRP7	JMFOCFNE_01164	IS630 family transposase IS630-Spn1
 Q8DRP4	JMFOCFNE_01165	IS1167 transposase Orf1
 Q8CZD0	JMFOCFNE_01166	Competence positive regulator ComW
 P65888	JMFOCFNE_01167	Adenylosuccinate synthetase
-	JMFOCFNE_01168	csRNA
-	JMFOCFNE_01168	
 Q8DRP3	JMFOCFNE_01169	tRNA-specific adenosine-34 deaminase
-	JMFOCFNE_01170	Bacteria_small_SRP
-	JMFOCFNE_01170	
 Q8DRP2	JMFOCFNE_01171	Deoxyuridine 5'-triphosphate nucleotidohydrolase
 Q8DRP1	JMFOCFNE_01172	Hypothetical protein
 Q8DRP0	JMFOCFNE_01173	DNA repair protein RadA
@@ -1277,8 +1075,6 @@ Q8DRN9	JMFOCFNE_01174	Carbonic anhydrase
 Q8CZC9	JMFOCFNE_01175	hypothetical protein
 P65240	JMFOCFNE_01176	Ribose-phosphate pyrophosphokinase
 Q8DRN8	JMFOCFNE_01177	hypothetical protein
-	JMFOCFNE_01178	Srn266
-	JMFOCFNE_01178	
 Q8CZC8	JMFOCFNE_01179	hypothetical protein
 Q8CZC7	JMFOCFNE_01180	hypothetical protein
 P59200	JMFOCFNE_01181	DNA polymerase I
@@ -1293,8 +1089,6 @@ Q8DRN0	JMFOCFNE_01189	Bacteriocin BlpU
 Q8DQ96	JMFOCFNE_01190	Hypothetical protein
 Q8DRM9	JMFOCFNE_01191	IS1167 transposase Orf2
 Q8DRM8	JMFOCFNE_01192	IS1167 transposase Orf1
-	JMFOCFNE_01193	Srn266
-	JMFOCFNE_01193	
 P59653	JMFOCFNE_01194	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
 P59654	JMFOCFNE_01195	Competence-stimulating peptide ABC transporter permease protein ComB
 Q8DRM7	JMFOCFNE_01196	Phosphoribosylaminoimidazole-succinocarboxamide synthase
@@ -1330,8 +1124,6 @@ Q8DRK2	JMFOCFNE_01225	hypothetical protein
 Q8DRK1	JMFOCFNE_01226	Two-component system response regulator
 Q8DRK0	JMFOCFNE_01227	Two-component system sensor histidine kinase
 P66566	JMFOCFNE_01228	SSU ribosomal protein S4p (S9e)
-	JMFOCFNE_01229	SpF01_sRNA
-	JMFOCFNE_01229	
 Q8CZC2	JMFOCFNE_01230	Hypothetical protein
 Q8CYU8	JMFOCFNE_01231	Hypothetical protein
 Q8DRJ8	JMFOCFNE_01232	Multiple sugar ABC transporter%2C membrane-spanning permease protein
@@ -1357,19 +1149,12 @@ Q8DRI7	JMFOCFNE_01251	ABC transporter ATP-binding protein
 Q8DRI6	JMFOCFNE_01252	Amino acid ABC transporter substrate-binding/permease protein
 Q8DRI5	JMFOCFNE_01253	Argininosuccinate synthase
 Q8DRI4	JMFOCFNE_01254	Argininosuccinate lyase
-	JMFOCFNE_01255	Bacilli-1
-	JMFOCFNE_01255	
 Q8CZB4	JMFOCFNE_01256	Hypothetical protein
 Q8DRI3	JMFOCFNE_01257	hypothetical protein
 Q8DRI2	JMFOCFNE_01258	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
 Q8CZB3	JMFOCFNE_01259	Hypothetical protein
 Q8DRI1	JMFOCFNE_01260	HlyD family secretion protein
 Q8CZB2	JMFOCFNE_01261	Hypothetical protein
-	JMFOCFNE_01262	SpF03_sRNA
-	JMFOCFNE_01262	
-	JMFOCFNE_01263	Bacilli-1
-	JMFOCFNE_01263	
-	JMFOCFNE_01264	Hypothetical protein
 Q8CZB0	JMFOCFNE_01265	Hypothetical protein
 Q8CZB2	JMFOCFNE_01266	Hypothetical protein
 Q8CZA8	JMFOCFNE_01267	Hypothetical protein
@@ -1379,15 +1164,9 @@ Q8CZA4	JMFOCFNE_01270	Hypothetical protein
 Q8CZA3	JMFOCFNE_01271	Hypothetical protein
 Q8CZA2	JMFOCFNE_01272	Hypothetical protein
 Q8CZC0	JMFOCFNE_01273	Pyridoxamine 5'-phosphate oxidase
-	JMFOCFNE_01274	SpF03_sRNA
-	JMFOCFNE_01274	
-	JMFOCFNE_01275	Bacilli-1
-	JMFOCFNE_01275	
 Q8CWW0	JMFOCFNE_01276	hypothetical protein
 Q8DRI0	JMFOCFNE_01277	Surface protein PspA precursor
 Q8CWW0	JMFOCFNE_01278	tRNA-specific 2-thiouridylase MnmA
-	JMFOCFNE_01279	Spd-sr37
-	JMFOCFNE_01279	
 Q8DRH9	JMFOCFNE_01280	MutT/Nudix family protein
 Q8DRH8	JMFOCFNE_01281	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 Q8DRH7	JMFOCFNE_01282	Ribonuclease J1 (endonuclease and 5' exonuclease)
@@ -1401,8 +1180,6 @@ Q8DRH2	JMFOCFNE_01289	N(6)-L-threonylcarbamoyladenine synthase TsaD
 Q8DRH1	JMFOCFNE_01290	IS1167 transposase Orf2
 Q8DRH0	JMFOCFNE_01291	hypothetical protein
 Q8DPV5	JMFOCFNE_01292	IS1167 transposase Orf1
-	JMFOCFNE_01293	Srn266
-	JMFOCFNE_01293	
 Q8DRG8	JMFOCFNE_01294	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 Q8DRG7	JMFOCFNE_01295	Family 2 glycosyltransferase
 Q8DRG6	JMFOCFNE_01296	ABC transporter ATP-binding protein
@@ -1435,8 +1212,6 @@ P66041	JMFOCFNE_01322	6%2C7-dimethyl-8-ribityllumazine synthase RibH
 Q8DRF1	JMFOCFNE_01323	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
 Q8DRF0	JMFOCFNE_01324	Riboflavin synthase RibE
 Q8DRE9	JMFOCFNE_01325	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
-	JMFOCFNE_01326	FMN
-	JMFOCFNE_01326	
 Q8DRE8	JMFOCFNE_01327	Holliday junction DNA helicase RuvA
 Q8CWV9	JMFOCFNE_01328	DNA-3-methyladenine glycosylase
 Q8DRE7	JMFOCFNE_01329	CAAX amino terminal protease family protein
@@ -1488,12 +1263,8 @@ P66393	JMFOCFNE_01374	SSU ribosomal protein S13p (S18e)
 P66360	JMFOCFNE_01375	SSU ribosomal protein S11p (S14e)
 P66709	JMFOCFNE_01376	DNA-directed RNA polymerase alpha subunit
 Q8CWU8	JMFOCFNE_01377	LSU ribosomal protein L17p
-	JMFOCFNE_01378	L17DE
-	JMFOCFNE_01378	
 P67383	JMFOCFNE_01379	ACT domain-containing transcriptional regulator
 Q8DRD2	JMFOCFNE_01380	hypothetical protein
-	JMFOCFNE_01381	csRNA
-	JMFOCFNE_01381	
 Q8DRD1	JMFOCFNE_01382	Phosphoglycerate mutase family protein
 Q8DRD0	JMFOCFNE_01383	Iron(III)-transport system permease protein SfuB
 Q8DRC9	JMFOCFNE_01384	Iron(III)-transport system permease protein SfuB
@@ -1513,14 +1284,8 @@ Q8DRB7	JMFOCFNE_01397	Glycerol dehydrogenase
 Q8DRB6	JMFOCFNE_01398	Leucyl-tRNA synthetase
 Q8DRB5	JMFOCFNE_01399	Acetyltransferase%2C GNAT family
 Q8DRB4	JMFOCFNE_01400	Acetyltransferase%2C GNAT family
-	JMFOCFNE_01401	csRNA
-	JMFOCFNE_01401	
-	JMFOCFNE_01402	csRNA
-	JMFOCFNE_01402	
 Q8CWU7	JMFOCFNE_01403	Holliday junction DNA helicase RuvB
 Q8CZ82	JMFOCFNE_01404	Hypothetical protein
-	JMFOCFNE_01405	csRNA
-	JMFOCFNE_01405	
 Q8DRB3	JMFOCFNE_01406	Undecaprenyl diphosphate synthase
 Q8DRB2	JMFOCFNE_01407	Phosphatidate cytidylyltransferase
 Q8DRB1	JMFOCFNE_01408	Intramembrane protease Eep
@@ -1552,8 +1317,6 @@ Q8DR92	JMFOCFNE_01433	Bifunctional dihydrofolate synthase/folylpolyglutamate syn
 P59656	JMFOCFNE_01434	GTP cyclohydrolase I type 1
 P59657	JMFOCFNE_01435	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 Q8CZ79	JMFOCFNE_01436	Hypothetical protein
-	JMFOCFNE_01437	L13_leader
-	JMFOCFNE_01437	
 Q8CWU5	JMFOCFNE_01438	LSU ribosomal protein L13p (L13Ae)
 Q8CWU4	JMFOCFNE_01439	SSU ribosomal protein S9p (S16e)
 Q8CZ78	JMFOCFNE_01440	Hypothetical protein
@@ -1566,11 +1329,7 @@ Q8CZ77	JMFOCFNE_01446	hypothetical protein
 Q8DR84	JMFOCFNE_01447	Cellobiose-specific PTS IIC component
 Q8CZ76	JMFOCFNE_01448	Hypothetical protein
 Q8DR43	JMFOCFNE_01449	hypothetical protein
-	JMFOCFNE_01450	SpF10_sRNA
-	JMFOCFNE_01450	
 Q8DR83	JMFOCFNE_01451	Maltodextrin glucosidase
-	JMFOCFNE_01452	SpF11_sRNA
-	JMFOCFNE_01452	
 Q8DR82	JMFOCFNE_01453	Glutathione peroxidase family protein
 Q8CWU3	JMFOCFNE_01454	Hyaluronate lyase precursor SpnHL
 Q8DRH0	JMFOCFNE_01455	IS200/IS605 family transposase ISStin10
@@ -1618,8 +1377,6 @@ Q8DR59	JMFOCFNE_01496	Multimodular transpeptidase-transglycosylase%2C penicillin
 P0A456	JMFOCFNE_01497	RecU Holliday junction resolvase
 Q8DR58	JMFOCFNE_01498	Hypothetical protein
 Q8DR57	JMFOCFNE_01499	Cell division protein GpsB
-	JMFOCFNE_01500	RNaseP_bact_b
-	JMFOCFNE_01500	
 Q8DR56	JMFOCFNE_01501	23S rRNA (guanine(2445)-N(2))-methyltransferase
 Q8DR55	JMFOCFNE_01502	Mid-cell-anchored protein Z
 Q8DR54	JMFOCFNE_01503	6-phosphogluconate dehydrogenase%2C decarboxylating
@@ -1651,8 +1408,6 @@ P59660	JMFOCFNE_01528	Ribonuclease HIII
 Q8CZ65	JMFOCFNE_01529	Z-ring positive regulator ZapA
 Q8DR27	JMFOCFNE_01530	Z-ring positive regulator ZapB
 Q8DR26	JMFOCFNE_01531	Recombination inhibitory protein MutS2
-	JMFOCFNE_01532	Glycine
-	JMFOCFNE_01532	
 Q8DR25	JMFOCFNE_01533	Sodium/glycine symporter GlyP
 Q8DR24	JMFOCFNE_01534	Macrophage infectivity potentiator protein
 Q8DR23	JMFOCFNE_01535	Exfoliative toxin A
@@ -1717,11 +1472,7 @@ Q8DPE4	JMFOCFNE_01593	Hypothetical protein
 Q8DQY5	JMFOCFNE_01594	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 Q8DQY5	JMFOCFNE_01595	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 Q8DQY4	JMFOCFNE_01596	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
-	JMFOCFNE_01597	23S-methyl
-	JMFOCFNE_01597	
 Q8DQY3	JMFOCFNE_01598	tRNA (cytidine(34)-2'-O)-methyltransferase
-	JMFOCFNE_01599	FMN
-	JMFOCFNE_01599	
 Q8DQY2	JMFOCFNE_01600	Substrate-specific component RibU of riboflavin ECF transporter
 Q8DQY1	JMFOCFNE_01601	Membrane-associated phospholipid phosphatase
 Q8CZ54	JMFOCFNE_01602	Hypothetical protein
@@ -1748,8 +1499,6 @@ Q8DQW9	JMFOCFNE_01622	Heat-inducible transcription repressor HrcA
 Q8CWT4	JMFOCFNE_01623	Heat shock protein GrpE
 Q8CWT3	JMFOCFNE_01624	Chaperone protein DnaK
 Q8DPF5	JMFOCFNE_01625	Hypothetical protein
-	JMFOCFNE_01626	SpF14_sRNA
-	JMFOCFNE_01626	
 Q8CWT2	JMFOCFNE_01627	Chaperone protein DnaJ
 Q8CZ48	JMFOCFNE_01628	Hypothetical protein
 Q8DQW8	JMFOCFNE_01629	Histidine triad nucleotide-binding protein
@@ -1796,8 +1545,6 @@ Q8CZ36	JMFOCFNE_01669	hypothetical protein
 Q8CZ34	JMFOCFNE_01670	hypothetical protein
 Q8CZ33	JMFOCFNE_01671	hypothetical protein
 Q8CZ32	JMFOCFNE_01672	hypothetical protein
-	JMFOCFNE_01673	SpF19_sRNA
-	JMFOCFNE_01673	
 Q8DQU1	JMFOCFNE_01674	Beta-glucoside bgl operon antiterminator BglG
 Q8DQU0	JMFOCFNE_01675	Beta-glucoside-specific PTS IIBCA components
 Q8DQT9	JMFOCFNE_01676	6-phospho-beta-glucosidase
@@ -1818,8 +1565,6 @@ Q8DQS7	JMFOCFNE_01690	Mini-ribonuclease III
 Q8DQS6	JMFOCFNE_01691	Leucine rich protein
 Q8CZ29	JMFOCFNE_01692	hypothetical protein
 Q8DR61	JMFOCFNE_01693	hypothetical protein
-	JMFOCFNE_01694	Intron_gpII
-	JMFOCFNE_01694	
 Q8DQS4	JMFOCFNE_01695	Peptide ABC transporter membrane-spanning permease Vex1
 Q8DQS3	JMFOCFNE_01696	ABC transporter ATP-binding protein Vex2
 Q8DQS2	JMFOCFNE_01697	Peptide ABC transporter membrane-spanning permease Vex3
@@ -1845,16 +1590,12 @@ Q8DQQ7	JMFOCFNE_01716	Bifunctional oxygen-insensitive NAD(P)H nitroreductase/dih
 Q8DQQ6	JMFOCFNE_01717	Dipeptidase PepV
 Q8DQQ5	JMFOCFNE_01718	Uracil-DNA glycosylase
 Q8CZ26	JMFOCFNE_01719	hypothetical protein
-	JMFOCFNE_01720	SpF22_sRNA
-	JMFOCFNE_01720	
 Q8DQQ3	JMFOCFNE_01721	Branched-chain amino acid transport system carrier protein
 Q8DQQ2	JMFOCFNE_01722	Deblocking aminopeptidase
 Q8CZ25	JMFOCFNE_01723	Histidine triad family protein
 Q8DQQ1	JMFOCFNE_01724	L%2CD-carboxypeptidase
 Q8CWS9	JMFOCFNE_01725	LSU ribosomal protein L11p (L12e)
 P66096	JMFOCFNE_01726	LSU ribosomal protein L1p (L10Ae)
-	JMFOCFNE_01727	Intron_gpII
-	JMFOCFNE_01727	
 Q8DPE4	JMFOCFNE_01728	Hypothetical protein
 Q8DP20	JMFOCFNE_01729	Hypothetical protein
 Q8DPK2	JMFOCFNE_01730	Hypothetical protein
@@ -1870,8 +1611,6 @@ Q8DQP5	JMFOCFNE_01739	Galactose-specific PTS IIC component
 Q8DQP4	JMFOCFNE_01740	Beta-galactosidase BgaA
 Q8CZ22	JMFOCFNE_01741	hypothetical protein
 Q8CZ21	JMFOCFNE_01742	hypothetical protein
-	JMFOCFNE_01743	SpF25_sRNA
-	JMFOCFNE_01743	
 Q8CZ20	JMFOCFNE_01744	Hypothetical protein
 Q8CZ19	JMFOCFNE_01745	hypothetical protein
 Q8CZ18	JMFOCFNE_01746	hypothetical protein
@@ -1920,8 +1659,6 @@ Q8DPY2	JMFOCFNE_01788	Hypothetical protein
 Q8DQL9	JMFOCFNE_01789	hypothetical protein
 Q8DQL8	JMFOCFNE_01790	Fluoroquinolones export ATP-binding protein
 Q8CZ07	JMFOCFNE_01791	Putative membrane spanning protein
-	JMFOCFNE_01792	PyrR
-	JMFOCFNE_01792	
 Q8DQL6	JMFOCFNE_01793	Orotidine 5'-phosphate decarboxylase
 Q8DQL5	JMFOCFNE_01794	Orotate phosphoribosyltransferase
 Q8CZ06	JMFOCFNE_01795	Hypothetical protein
@@ -1937,13 +1674,9 @@ Q8DQK9	JMFOCFNE_01804	Glutamine ABC transporter permease GlnP3a
 Q8DQK7	JMFOCFNE_01805	L-Lactate 2-monooxygenase
 Q8CWS5	JMFOCFNE_01806	Class II lysyl-tRNA synthetase
 Q8DQK7	JMFOCFNE_01807	L-Lactate 2-monooxygenase
-	JMFOCFNE_01808	TPP
-	JMFOCFNE_01808	
 Q8DQK6	JMFOCFNE_01809	Thiaminase II
 Q8DQK5	JMFOCFNE_01810	Hydroxyethylthiazole kinase
 Q8DQK4	JMFOCFNE_01811	Thiamin-phosphate pyrophosphorylase
-	JMFOCFNE_01812	TPP
-	JMFOCFNE_01812	
 Q8DQK3	JMFOCFNE_01813	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 Q8DQK2	JMFOCFNE_01814	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 Q8DQK1	JMFOCFNE_01815	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
@@ -1952,8 +1685,6 @@ Q8CZ02	JMFOCFNE_01817	Substrate-specific component ThiW of putative thiazole ECF
 Q8DQJ9	JMFOCFNE_01818	Hydroxyethylthiazole kinase
 P66921	JMFOCFNE_01819	Thiamin-phosphate pyrophosphorylase
 Q8DQJ8	JMFOCFNE_01820	Hydroxymethylpyrimidine phosphate kinase ThiD
-	JMFOCFNE_01821	TPP
-	JMFOCFNE_01821	
 Q8DQJ7	JMFOCFNE_01822	Negative transcriptional regulator of copper transport operon
 Q8DQJ6	JMFOCFNE_01823	Copper-exporting ATPase
 Q8DQJ5	JMFOCFNE_01824	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
@@ -2075,16 +1806,10 @@ Q8DQB1	JMFOCFNE_01939	Hypothetical protein
 Q8DQB0	JMFOCFNE_01940	Putative membrane protein
 P65679	JMFOCFNE_01941	Pyrrolidone-carboxylate peptidase
 Q8CYY0	JMFOCFNE_01942	Hypothetical protein
-	JMFOCFNE_01943	tRNA-Tyr(gta)
-	JMFOCFNE_01943	
-	JMFOCFNE_01944	tRNA-Gln(ttg)
-	JMFOCFNE_01944	
 Q8CWR9	JMFOCFNE_01945	SSU ribosomal protein S1p
 Q8DQA8	JMFOCFNE_01946	IS1167 transposase Orf2
 Q8DNI4	JMFOCFNE_01947	hypothetical protein
 Q8DQA7	JMFOCFNE_01948	IS1167 transposase Orf1
-	JMFOCFNE_01949	Srn266
-	JMFOCFNE_01949	
 Q8DQA6	JMFOCFNE_01950	GAF domain-containing protein
 Q8DQA5	JMFOCFNE_01951	DNA polymerase III subunits gamma and tau
 Q8CYX9	JMFOCFNE_01952	Hypothetical protein
@@ -2095,10 +1820,6 @@ Q8DQA1	JMFOCFNE_01956	Putative iron-sulfur cluster assembly scaffold protein for
 Q8DQA0	JMFOCFNE_01957	Iron-sulfur cluster assembly protein SufB
 Q8DQ99	JMFOCFNE_01958	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 Q8DQ98	JMFOCFNE_01959	Coordinator of zonal cell elongation
-	JMFOCFNE_01960	transfer-messenger RNA%2C SsrA
-	JMFOCFNE_01960	
-	JMFOCFNE_01961	tRNA-Ser(gga)
-	JMFOCFNE_01961	
 Q8DQ97	JMFOCFNE_01962	Transcriptional repressor of the fructose operon%2C DeoR family
 Q8DQ96	JMFOCFNE_01963	1-phosphofructokinase
 Q8DQ95	JMFOCFNE_01964	Fructose-specific PTS IIABC components
@@ -2133,8 +1854,6 @@ Q8DQ80	JMFOCFNE_01992	hypothetical protein
 Q8DQ79	JMFOCFNE_01993	Transcription accessory protein
 Q8DQ78	JMFOCFNE_01994	Putative SprT family zinc-dependent metallopeptidase
 Q8CYW6	JMFOCFNE_01995	Putative phage shock protein C
-	JMFOCFNE_01996	Spd-sr07
-	JMFOCFNE_01996	
 Q8CYW5	JMFOCFNE_01997	Hypothetical protein
 Q8DNF5	JMFOCFNE_01998	Hypothetical protein
 Q8DQ77	JMFOCFNE_01999	ABC transporter ATP-binding protein
@@ -2181,8 +1900,6 @@ Q8DQ41	JMFOCFNE_02039	Late competence DNA receptor ComEA
 Q8DQ40	JMFOCFNE_02040	Late competence DNA transporter ComEC
 Q8CYV6	JMFOCFNE_02041	ABC transporter%2C ATP-binding protein
 Q8CYV5	JMFOCFNE_02042	Hypothetical protein
-	JMFOCFNE_02043	L20_leader
-	JMFOCFNE_02043	
 P65145	JMFOCFNE_02044	Translation initiation factor 3
 P66279	JMFOCFNE_02045	LSU ribosomal protein L35p
 P66113	JMFOCFNE_02046	LSU ribosomal protein L20p
@@ -2223,8 +1940,6 @@ Q8DQ13	JMFOCFNE_02080	IS630 family transposase IS630-Spn1
 Q8CYU8	JMFOCFNE_02081	Hypothetical protein
 Q8DQ11	JMFOCFNE_02082	Cytochrome c-type biogenesis protein CcdA-2
 Q8DQ10	JMFOCFNE_02083	Thiol:disulfide oxidoreductase
-	JMFOCFNE_02084	SpF36_sRNA
-	JMFOCFNE_02084	
 Q8CWR7	JMFOCFNE_02085	Cationic amino acid transporter%2C APC Superfamily
 Q8DQ09	JMFOCFNE_02086	Laminin-binding surface protein
 Q8DQ08	JMFOCFNE_02087	Pneumococcal histidine triad protein B
@@ -2237,13 +1952,7 @@ Q8DQ05	JMFOCFNE_02093	Tripeptide aminopeptidase PepT
 Q8DQ04	JMFOCFNE_02094	Ferrochelatase%2C protoheme ferro-lyase
 Q8DQ03	JMFOCFNE_02095	Large-conductance mechanosensitive channel MscL
 Q8DQ02	JMFOCFNE_02096	GtrA family protein
-	JMFOCFNE_02097	preQ1-II
-	JMFOCFNE_02097	
 Q8DQ01	JMFOCFNE_02098	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	JMFOCFNE_02099	tRNA-Thr(ggt)
-	JMFOCFNE_02099	
-	JMFOCFNE_02100	asd
-	JMFOCFNE_02100	
 Q8DQ00	JMFOCFNE_02101	Aspartate-semialdehyde dehydrogenase
 Q8DPZ9	JMFOCFNE_02102	4-hydroxy-tetrahydrodipicolinate synthase
 Q8DPZ8	JMFOCFNE_02103	GTPase and tRNA-U34 5-formylation enzyme MnmE
@@ -2259,18 +1968,12 @@ Q8CYU4	JMFOCFNE_02112	Pseudouridylate synthase%2C 23S RNA-specific
 Q8DPY9	JMFOCFNE_02113	Pneumococcal vaccine antigen A
 Q8DPY8	JMFOCFNE_02114	Extracellular protein
 Q8DPY7	JMFOCFNE_02115	23S rRNA (uracil(1939)-C(5))-methyltransferase
-	JMFOCFNE_02116	SpF61_sRNA
-	JMFOCFNE_02116	
-	JMFOCFNE_02117	SpF39_sRNA
-	JMFOCFNE_02117	
 Q8CYU3	JMFOCFNE_02118	Hypothetical protein
 Q8DPY6	JMFOCFNE_02119	Iron compound ABC uptake transporter substrate-binding protein PiaA
 Q8DPY5	JMFOCFNE_02120	Iron compound ABC uptake transporter permease protein PiaB
 Q8DPY4	JMFOCFNE_02121	Iron compound ABC uptake transporter permease protein PiaC
 Q8DPY3	JMFOCFNE_02122	Iron compound ABC uptake transporter ATP-binding protein PiaD
 Q8CYU1	JMFOCFNE_02123	Putative type II restriction endonuclease
-	JMFOCFNE_02124	pemK
-	JMFOCFNE_02124	
 Q8CYT9	JMFOCFNE_02125	Hypothetical protein
 Q8DPY2	JMFOCFNE_02126	Phage integrase
 Q8CYT8	JMFOCFNE_02127	Hypothetical protein
@@ -2285,8 +1988,6 @@ Q8CYT3	JMFOCFNE_02135	Antitoxin PezA
 Q8DPX8	JMFOCFNE_02136	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
 Q8CYT2	JMFOCFNE_02137	putative protein
 Q8CYT1	JMFOCFNE_02138	putative protein
-	JMFOCFNE_02139	group-II-D1D4-3
-	JMFOCFNE_02139	
 Q8CYT0	JMFOCFNE_02140	Tn5252 Orf10 protein
 Q8CYS9	JMFOCFNE_02141	Tn5252 Orf9 protein
 Q8DPX7	JMFOCFNE_02142	hypothetical protein
@@ -2305,7 +2006,5 @@ Q8DPX0	JMFOCFNE_02154	Nikkomycin biosynthesis protein%2C carboxylase
 Q8DPW9	JMFOCFNE_02155	N-acetylneuraminate synthase
 Q8DPW8	JMFOCFNE_02156	Macrolide ABC transporter membrane-spanning permease
 Q8DPW7	JMFOCFNE_02157	Putative repressor protein%2C phage associated
-	JMFOCFNE_02158	pemK
-	JMFOCFNE_02158	
 Q8DPW6	JMFOCFNE_02159	Cell division protein FtsW
 Q8DPW5	JMFOCFNE_02160	Phosphoenolpyruvate carboxylase

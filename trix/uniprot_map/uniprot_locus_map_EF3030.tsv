@@ -4,12 +4,9 @@ Q8DRQ4	KANOAJAN_00002	Chromosomal replication initiator protein DnaA
 A0A0Y4CTS2	KANOAJAN_00003	Chromosome partitioning protein ParB
 B2IP00	KANOAJAN_00004	Serine protease%2C DegP/HtrA
 Q04HU2	KANOAJAN_00005	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
-	KANOAJAN_00006	tRNA-Arg(tct)
 Q5QIA8	KANOAJAN_00007	Competence-stimulating peptide precursor ComC
 Q8DMW4	KANOAJAN_00008	Two-component system sensor histidine kinase ComD
 Q8DMW5	KANOAJAN_00009	Two-component system response regulator ComE
-	KANOAJAN_00010	tRNA-Glu(ttc)
-	KANOAJAN_00011	tRNA-Asn(gtt)
 Q8DMW6	KANOAJAN_00012	Transcriptional regulator%2C AcrR family
 B2INQ0	KANOAJAN_00013	hypothetical protein
 B2INP9	KANOAJAN_00014	hypothetical protein
@@ -31,7 +28,6 @@ C1CHL6	KANOAJAN_00029	Cell shape-determining protein MreD
 C1CHL5	KANOAJAN_00030	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
 A0AA95IKA0	KANOAJAN_00031	SSU ribosomal protein S2p (SAe)
 Q04HW4	KANOAJAN_00032	Translation elongation factor Ts
-	KANOAJAN_00033	SpF51_sRNA
 B2INN0	KANOAJAN_00034	IS66 family transposase Orf2
 A0AA87C5P0	KANOAJAN_00035	IS630 family transposase ISSpn2
 B2INM9	KANOAJAN_00036	hypothetical protein
@@ -45,7 +41,6 @@ Q04HX2	KANOAJAN_00043	LSU ribosomal protein L9p
 Q8DMZ2	KANOAJAN_00044	Replicative DNA helicase DnaC
 Q8DMZ3	KANOAJAN_00045	Hypothetical protein
 B2INL9	KANOAJAN_00046	Choline-binding protein D
-	KANOAJAN_00047	TPP
 Q8DMZ5	KANOAJAN_00048	Cytoplasmic thiamin-binding component of thiamin ABC transporter
 A0A237KAV3	KANOAJAN_00049	Thiamin ABC transporter ThiX%2C transmembrane component
 Q8DMZ7	KANOAJAN_00050	Thiamin ABC transporter ThiY%2C substrate-binding component
@@ -57,7 +52,6 @@ C1CBG8	KANOAJAN_00055	Two-component system sensor histidine kinase
 Q8DN04	KANOAJAN_00056	Rhomboid family integral membrane protein
 Q9RQT6	KANOAJAN_00057	Choline-binding protein A
 A0A4J2GV79	KANOAJAN_00058	IS1167 transposase
-	KANOAJAN_00059	Srn266
 A0A4J2H157	KANOAJAN_00060	hypothetical protein
 B1I9Z9	KANOAJAN_00061	tRNA dihydrouridine synthase B
 A0A0T8BBP7	KANOAJAN_00062	Chaperonin%2C heat shock protein 33
@@ -67,10 +61,7 @@ A0A0U0JAN3	KANOAJAN_00065	Alpha-glycerophosphate oxidase
 A0A4J1RCZ0	KANOAJAN_00066	Glycerol uptake facilitator protein
 B2INK0	KANOAJAN_00067	Hypothetical protein
 A0A4J1NJ06	KANOAJAN_00068	hypothetical protein
-	KANOAJAN_00069	group-II-D1D4-3
-	KANOAJAN_00070	group-II-D1D4-1
 C1CBF7	KANOAJAN_00071	hypothetical protein
-	KANOAJAN_00072	Intron_gpII
 B2INJ7	KANOAJAN_00073	Macrolide-efflux protein
 A0AAE9QTY8	KANOAJAN_00074	D-alanine--poly(phosphoribitol) ligase subunit 1
 A0A6G2D8X0	KANOAJAN_00075	D-alanyl transfer protein DltB
@@ -81,8 +72,6 @@ Q8DN14	KANOAJAN_00079	Transcriptional repressor AdcR for Zn(2+)-responsive expre
 B2INJ0	KANOAJAN_00080	Zinc ABC transporter%2C ATP-binding protein AdcC
 O33704	KANOAJAN_00081	Zinc ABC transporter%2C permease protein AdcB
 A0A4J1S0Y1	KANOAJAN_00082	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
-	KANOAJAN_00083	SpF66_sRNA
-	KANOAJAN_00084	SpF66_sRNA
 C1CHG7	KANOAJAN_00085	L-fucose operon activator
 A0A4J2ERH6	KANOAJAN_00086	L-fuculokinase
 A0A4K7HJ73	KANOAJAN_00087	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
@@ -172,11 +161,7 @@ B2IN00	KANOAJAN_00170	Putative cupin superfamily protein
 B2IMZ9	KANOAJAN_00171	IS1381 transposase OrfB
 C1CN25	KANOAJAN_00172	Arginyl-tRNA synthetase
 P0A2Y3	KANOAJAN_00173	Arginine pathway regulatory protein ArgR1
-	KANOAJAN_00174	SpR10_sRNA
-	KANOAJAN_00174	
 A0A0B7LU78	KANOAJAN_00175	DNA mismatch repair protein HexA
-	KANOAJAN_00176	patAB
-	KANOAJAN_00176	
 A0A0B7LCV4	KANOAJAN_00177	Multidrug resistance ABC transporter ATP-binding and permease protein
 A0A0B7LCX1	KANOAJAN_00178	hypothetical protein
 C1CH03	KANOAJAN_00179	Multidrug resistance ABC transporter ATP-binding and permease protein
@@ -184,22 +169,6 @@ C1CH02	KANOAJAN_00180	Glutamine amidotransferase%2C class I
 B2IMZ0	KANOAJAN_00181	Glucose-6-phosphate isomerase
 A0A0B7LJP7	KANOAJAN_00182	Glutamyl-tRNA synthetase
 B2IMY8	KANOAJAN_00183	Cytidine/deoxycytidylate deaminase family protein
-	KANOAJAN_00184	tRNA-Glu(ttc)
-	KANOAJAN_00185	16S ribosomal RNA
-	KANOAJAN_00186	tRNA-Ala(tgc)
-	KANOAJAN_00187	23S ribosomal RNA
-	KANOAJAN_00188	5S ribosomal RNA
-	KANOAJAN_00189	tRNA-Val(tac)
-	KANOAJAN_00190	tRNA-Gly(tcc)
-	KANOAJAN_00191	tRNA-Ile(gat)
-	KANOAJAN_00192	tRNA-Ser(tga)
-	KANOAJAN_00193	tRNA-Met(cat)
-	KANOAJAN_00194	tRNA-Phe(gaa)
-	KANOAJAN_00195	tRNA-Tyr(gta)
-	KANOAJAN_00196	tRNA-Trp(cca)
-	KANOAJAN_00197	tRNA-His(gtg)
-	KANOAJAN_00198	tRNA-Gln(ttg)
-	KANOAJAN_00199	tRNA-Leu(caa)
 B2IMN9	KANOAJAN_00200	Hypothetical protein
 Q8DN76	KANOAJAN_00201	Threonine synthase
 V9H0I2	KANOAJAN_00202	Multi antimicrobial extrusion family transporter
@@ -256,28 +225,12 @@ B2IMI9	KANOAJAN_00252	IS630 family transposase IS630-Spn1
 B2IMI8	KANOAJAN_00253	ABC transporter%2C permease protein
 B2IMI7	KANOAJAN_00254	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
 B2IMI6	KANOAJAN_00255	IS1167 transposase
-	KANOAJAN_00256	Srn266
 B2IMI5	KANOAJAN_00257	RluD-like protein
 Q75YF6	KANOAJAN_00258	Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A
 A0A4J1RIX1	KANOAJAN_00259	ISNCY family transposase IS1202
 Q8DNB7	KANOAJAN_00260	Protein translocase subunit SecE
 C1CGT9	KANOAJAN_00261	Transcription antitermination protein NusG
 B2IMI0	KANOAJAN_00262	Competence-specific sigma factor ComX
-	KANOAJAN_00263	tRNA-Glu(ttc)
-	KANOAJAN_00264	16S ribosomal RNA
-	KANOAJAN_00265	tRNA-Ala(tgc)
-	KANOAJAN_00266	23S ribosomal RNA
-	KANOAJAN_00267	5S ribosomal RNA
-	KANOAJAN_00268	tRNA-Val(tac)
-	KANOAJAN_00269	tRNA-Asp(gtc)
-	KANOAJAN_00270	tRNA-Lys(ttt)
-	KANOAJAN_00270	
-	KANOAJAN_00271	tRNA-Leu(tag)
-	KANOAJAN_00272	tRNA-Thr(tgt)
-	KANOAJAN_00273	tRNA-Gly(gcc)
-	KANOAJAN_00274	tRNA-Leu(taa)
-	KANOAJAN_00275	tRNA-Arg(acg)
-	KANOAJAN_00276	tRNA-Pro(tgg)
 A0A0B7MA59	KANOAJAN_00277	Hypothetical protein
 A0A0H2ZP90	KANOAJAN_00278	Hypothetical protein
 A0A0U0C754	KANOAJAN_00279	ABC transporter%2C ATP-binding protein
@@ -297,8 +250,6 @@ A0A0B7LXH2	KANOAJAN_00292	Putative deoxyribonuclease TatD
 A0A4H0N390	KANOAJAN_00293	Ribonuclease M5
 C1CA34	KANOAJAN_00294	Transcriptional regulator
 C1CGS0	KANOAJAN_00295	Transcriptional regulator
-	KANOAJAN_00296	SpR08_sRNA
-	KANOAJAN_00296	
 B2IM56	KANOAJAN_00297	Putative immunity protein
 Q8DND2	KANOAJAN_00298	ABC transporter%2C ATP-binding protein
 Q8CY94	KANOAJAN_00299	Hypothetical protein
@@ -324,8 +275,6 @@ Q97NQ4	KANOAJAN_00318	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 A0A0B7L886	KANOAJAN_00319	Competence-associated EpuA protein
 B2IM44	KANOAJAN_00320	DNA-entry nuclease
 B2IM43	KANOAJAN_00321	Putative hemolysin
-	KANOAJAN_00322	tRNA-Cys(gca)
-	KANOAJAN_00323	Lacto-rpoB
 A0A0B7L1K2	KANOAJAN_00324	DNA-directed RNA polymerase beta subunit
 Q97NQ8	KANOAJAN_00325	DNA-directed RNA polymerase beta' subunit
 Q04IK8	KANOAJAN_00326	Nucleoside diphosphate kinase
@@ -371,38 +320,11 @@ Q8DNH4	KANOAJAN_00365	Single-stranded DNA-binding protein SsbB
 C1CML8	KANOAJAN_00366	Heat shock protein 60 family co-chaperone GroES
 B2ILZ5	KANOAJAN_00367	Heat shock protein 60 family chaperone GroEL
 B2ILZ4	KANOAJAN_00368	IS1167 transposase
-	KANOAJAN_00369	Srn266
 Q8CYC0	KANOAJAN_00370	Hypothetical protein
-	KANOAJAN_00371	Spy392987
-	KANOAJAN_00371	
 Q8DNH5	KANOAJAN_00372	Cysteinyl-tRNA synthetase related protein
 A0A0B7LIC7	KANOAJAN_00373	Regulatory protein RecX
 B2ILZ0	KANOAJAN_00374	hypothetical protein
 B2ILY9	KANOAJAN_00375	RNA methyltransferase%2C TrmA family
-	KANOAJAN_00376	tRNA-Glu(ttc)
-	KANOAJAN_00377	16S ribosomal RNA
-	KANOAJAN_00378	tRNA-Ala(tgc)
-	KANOAJAN_00379	23S ribosomal RNA
-	KANOAJAN_00380	5S ribosomal RNA
-	KANOAJAN_00381	tRNA-Val(tac)
-	KANOAJAN_00382	tRNA-Asp(gtc)
-	KANOAJAN_00383	tRNA-Lys(ttt)
-	KANOAJAN_00383	
-	KANOAJAN_00384	tRNA-Leu(tag)
-	KANOAJAN_00385	tRNA-Thr(tgt)
-	KANOAJAN_00386	tRNA-Gly(gcc)
-	KANOAJAN_00387	tRNA-Leu(taa)
-	KANOAJAN_00388	tRNA-Arg(acg)
-	KANOAJAN_00389	tRNA-Pro(tgg)
-	KANOAJAN_00390	tRNA-Met(cat)
-	KANOAJAN_00391	tRNA-Met(cat)
-	KANOAJAN_00392	tRNA-Ser(tga)
-	KANOAJAN_00393	tRNA-Met(cat)
-	KANOAJAN_00394	tRNA-Phe(gaa)
-	KANOAJAN_00395	tRNA-Gly(tcc)
-	KANOAJAN_00396	tRNA-Ile(gat)
-	KANOAJAN_00397	tRNA-Ser(gct)
-	KANOAJAN_00397	
 C1C9G9	KANOAJAN_00398	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0A0H2URT9	KANOAJAN_00399	Multiple sugar metabolism operon regulatory protein MsmR
 Q8CWP3	KANOAJAN_00400	Alpha-galactosidase
@@ -419,7 +341,6 @@ B2ISY6	KANOAJAN_00410	Peptide ABC transporter ATP-binding protein AmiF
 B2ISY5	KANOAJAN_00411	IS1167 transposase
 A0A0X9VYW9	KANOAJAN_00412	hypothetical protein
 B2ISY4	KANOAJAN_00413	IS1167 transposase Orf1
-	KANOAJAN_00414	Srn266
 Q8DNI5	KANOAJAN_00415	Trehalose operon transcriptional repressor
 B2ISY2	KANOAJAN_00416	Trehalose-specific PTS IIBCA components
 B2ISY1	KANOAJAN_00417	Trehalose-6-phosphate hydrolase
@@ -457,7 +378,6 @@ C1CG75	KANOAJAN_00448	Type II restriction-modification system endonuclease DpnC
 P0A3T5	KANOAJAN_00449	Type II restriction-modification system component DpnD
 B2ISU7	KANOAJAN_00450	Xanthine permease
 Q3I0D0	KANOAJAN_00451	Xanthine phosphoribosyltransferase
-	KANOAJAN_00452	Purine
 B2ISU4	KANOAJAN_00453	hypothetical protein
 A0A098Z9P2	KANOAJAN_00454	hypothetical protein
 C1CG71	KANOAJAN_00455	Exodeoxyribonuclease III
@@ -511,8 +431,6 @@ B2ISF6	KANOAJAN_00502	ABC transporter permease protein
 B2ISF0	KANOAJAN_00503	hypothetical protein
 A0A4J2AB17	KANOAJAN_00504	Sucrose-6-phosphate hydrolase
 B2IMI6	KANOAJAN_00505	IS1167 transposase
-	KANOAJAN_00506	Srn266
-	KANOAJAN_00507	tRNA-Lys(ctt)
 A0A4F0QPW2	KANOAJAN_00508	Chromosome segregation helicase
 A0A0B7LCT1	KANOAJAN_00509	Hypothetical protein
 Q8CYE1	KANOAJAN_00510	Addiction module toxin HicA
@@ -673,7 +591,6 @@ Q97PH3	KANOAJAN_00664	D-tyrosyl-tRNA(Tyr) deacylase
 B2IRP7	KANOAJAN_00665	hypothetical protein
 B2IRP6	KANOAJAN_00666	Hypothetical protein
 B2IRP5	KANOAJAN_00667	hypothetical protein
-	KANOAJAN_00668	Srn266
 A0A4J1UQ08	KANOAJAN_00669	IS1167 transposase
 B2IRP3	KANOAJAN_00670	Mn-dependent transcriptional regulator MntR
 B2IRP2	KANOAJAN_00671	Putative diadenosine tetraphosphatase
@@ -721,7 +638,6 @@ A0A098Z5G6	KANOAJAN_00712	Major facilitator oxalate:formate antiporter
 C1C8H4	KANOAJAN_00713	DEAD-box ATP-dependent RNA helicase CshA
 C1CSK2	KANOAJAN_00714	GTP-sensing transcriptional pleiotropic repressor CodY
 Q8DP02	KANOAJAN_00715	Nicotinamidase
-	KANOAJAN_00716	tRNA-Leu(aag)
 Q8DP03	KANOAJAN_00717	Multiple sugar ABC transporter%2C ATP-binding protein
 A0A098Z665	KANOAJAN_00718	SAM-dependent methyltransferase
 C1CFG1	KANOAJAN_00719	Adenine phosphoribosyltransferase
@@ -748,13 +664,11 @@ B2IR75	KANOAJAN_00739	4-hydroxy-tetrahydrodipicolinate reductase
 B2IR74	KANOAJAN_00740	CCA tRNA nucleotidyltransferase
 B2IR73	KANOAJAN_00741	ATPase component of ABC transporter with duplicated ATPase domains
 C1CFD7	KANOAJAN_00742	Cobalt-zinc-cadmium resistance protein
-	KANOAJAN_00743	SSRC10
 C1CFD6	KANOAJAN_00744	Calcium-transporting ATPase
 A0A0H2UQV0	KANOAJAN_00745	Glutathione S-transferase
 C1C8E2	KANOAJAN_00746	Peptide deformylase
 A0A0B7M1N9	KANOAJAN_00747	Cell shape-determining protein
 A0A229FM92	KANOAJAN_00748	Hypothetical protein
-	KANOAJAN_00749	SpR20_sRNA
 A0A0E8ZIF4	KANOAJAN_00750	hypothetical protein
 B1ICW7	KANOAJAN_00751	Hypothetical protein
 A0A0U0AX51	KANOAJAN_00752	Hypothetical protein
@@ -805,7 +719,6 @@ C1CF86	KANOAJAN_00796	Glutamine ABC transporter permease GlnP6
 Q8DP49	KANOAJAN_00797	Glutamine ABC transporter ATP-binding protein GlnQ6
 B2IQW3	KANOAJAN_00798	Glutamine ABC transporter substrate-binding protein GlnH6
 B2IQW2	KANOAJAN_00799	Bacterocin transport accessory protein
-	KANOAJAN_00800	Srn266
 A0A4J1U7S1	KANOAJAN_00801	IS1167 transposase Orf1
 A0A0T8X5W3	KANOAJAN_00802	hypothetical protein
 A0A4F2S025	KANOAJAN_00803	IS1167 transposase
@@ -822,7 +735,6 @@ A0A0U0GQD0	KANOAJAN_00813	Oxidoreductase%2C Gfo/Idh/MocA family
 A0A654UCS1	KANOAJAN_00814	hypothetical protein
 B2IQU5	KANOAJAN_00815	Peptidoglycan N-acetylglucosamine deacetylase
 C1C873	KANOAJAN_00816	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
-	KANOAJAN_00817	SpR19_sRNA
 A0A4G4FJM8	KANOAJAN_00818	hypothetical protein
 A0A9P1LV21	KANOAJAN_00819	hypothetical protein
 C1CQP3	KANOAJAN_00820	Glycyl-tRNA synthetase alpha chain
@@ -856,7 +768,6 @@ B2IQR4	KANOAJAN_00847	Beta-lactamase%2C class C
 Q8DP82	KANOAJAN_00848	Drug/metabolite transporter superfamily protein
 Q8DP83	KANOAJAN_00849	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 B2IQR1	KANOAJAN_00850	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
-	KANOAJAN_00851	SpR18_sRNA
 B2IQR0	KANOAJAN_00852	IS66 family transposase Orf1
 Q7WVV7	KANOAJAN_00853	IS66 family transposase Orf2
 A0A0T8C7E0	KANOAJAN_00854	hypothetical protein
@@ -886,7 +797,6 @@ B2IQN5	KANOAJAN_00877	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
 B2IQN4	KANOAJAN_00878	Glucosamine-6-phosphate deaminase
 B2IQN3	KANOAJAN_00879	SSU ribosomal protein S21p
 B2IMI6	KANOAJAN_00880	IS1167 transposase
-	KANOAJAN_00881	Srn266
 A0A229FYZ7	KANOAJAN_00882	HPr kinase/phosphorylase
 B2IQN1	KANOAJAN_00883	Prolipoprotein diacylglyceryl transferase
 Q8DPA4	KANOAJAN_00884	General stress protein
@@ -943,7 +853,6 @@ P0A3Q9	KANOAJAN_00934	Peptide methionine sulfoxide reductase MsrAB1
 B2IQH5	KANOAJAN_00935	ABC transporter ATP-binding/permease protein
 B2IQH4	KANOAJAN_00936	ABC transporter ATP-binding/permease protein
 A0A7U0F9H6	KANOAJAN_00937	Methylthioadenosine deaminase
-	KANOAJAN_00938	L10_leader
 Q04JZ3	KANOAJAN_00939	LSU ribosomal protein L10p (P0)
 A0A098ZBL3	KANOAJAN_00940	LSU ribosomal protein L7/L12 (P1/P2)
 B2IQA5	KANOAJAN_00941	hypothetical protein
@@ -957,7 +866,6 @@ B2IQ95	KANOAJAN_00948	Chorismate mutase I
 Q97QC4	KANOAJAN_00949	ClC-type fluoride channel
 Q97QC5	KANOAJAN_00950	ClC-type fluoride channel
 Q97QC6	KANOAJAN_00951	LSU ribosomal protein L19p
-	KANOAJAN_00952	tRNA-Arg(cct)
 A0A0B4ZN83	KANOAJAN_00953	hypothetical protein
 A0A0T7TTP9	KANOAJAN_00954	Positive transcriptional regulator%2C MutR family
 B2IQ85	KANOAJAN_00955	hypothetical protein
@@ -969,16 +877,13 @@ B2IQ80	KANOAJAN_00960	Hypothetical protein
 Q8DPH0	KANOAJAN_00961	Signal recognition particle associated protein
 C1CEP2	KANOAJAN_00962	Signal recognition particle protein Ffh
 A0A0H2ZMV8	KANOAJAN_00963	Uracil permease
-	KANOAJAN_00964	SpF44_sRNA
 B2IQ76	KANOAJAN_00965	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
 Q8DPH4	KANOAJAN_00966	LemA
 Q8DPH5	KANOAJAN_00967	Heat shock protein HtpX
 B2IQ73	KANOAJAN_00968	ABC transporter ATP-binding protein
-	KANOAJAN_00969	SpF43_sRNA
 B1IC71	KANOAJAN_00970	BlpT protein
 B2IQ72	KANOAJAN_00971	Protein%2C clustered with ribosomal protein L32p
 Q8DPH8	KANOAJAN_00972	Endonuclease III
-	KANOAJAN_00973	PyrR
 Q04K45	KANOAJAN_00974	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
 C1CR29	KANOAJAN_00975	Aspartate carbamoyltransferase
 A0A064BWJ2	KANOAJAN_00976	Carbamoyl-phosphate synthase small chain CarA
@@ -1004,7 +909,6 @@ C1C733	KANOAJAN_00995	Multidrug ABC transporter permease protein
 B2IQ49	KANOAJAN_00996	hypothetical protein
 B2IQ47	KANOAJAN_00997	hypothetical protein
 C1C734	KANOAJAN_00998	Putative repressor protein%2C phage associated
-	KANOAJAN_00999	pemK
 A0A0U0I1A6	KANOAJAN_01000	hypothetical protein
 B2IQ45	KANOAJAN_01001	hypothetical protein
 A0A0T8TE08	KANOAJAN_01002	Peptidase E
@@ -1012,7 +916,6 @@ B2IQ43	KANOAJAN_01003	hypothetical protein
 B2IQ42	KANOAJAN_01004	hypothetical protein
 A0A0H2ZRW0	KANOAJAN_01005	Cell division protein FtsW
 B2IQ40	KANOAJAN_01006	Phosphoenolpyruvate carboxylase
-	KANOAJAN_01007	T-box
 A0A0T8VJT9	KANOAJAN_01008	ABC transporter substrate-binding protein
 Q8DPW3	KANOAJAN_01009	Putative tryptophan-specific ABC transporter permease protein TrpY
 Q8DPW2	KANOAJAN_01010	ABC transporter ATP-binding protein
@@ -1028,8 +931,6 @@ C1CE67	KANOAJAN_01019	Hypothetical protein
 C1CD04	KANOAJAN_01020	IS1167 transposase
 C1CF69	KANOAJAN_01021	hypothetical protein
 B2IQ26	KANOAJAN_01022	IS1167 transposase Orf1
-	KANOAJAN_01023	Srn266
-	KANOAJAN_01024	group-II-D1D4-3
 Q97QW6	KANOAJAN_01025	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 B1IBM4	KANOAJAN_01026	Ribosomal-protein-S5p-alanine acetyltransferase
 Q8DPV2	KANOAJAN_01027	Cytosolic protein containing multiple CBS domains
@@ -1050,11 +951,8 @@ Q8DPU2	KANOAJAN_01041	GTP pyrophosphokinase
 B2IQ09	KANOAJAN_01042	NAD kinase
 Q8DPU1	KANOAJAN_01043	RluD-like protein
 Q8DPU0	KANOAJAN_01044	Phosphate acetyltransferase
-	KANOAJAN_01045	SpR14_sRNA
-	KANOAJAN_01045	
 Q04KI6	KANOAJAN_01046	Hypothetical protein co-occurring with RecR
 A0A0B7M7N6	KANOAJAN_01047	Hypothetical protein
-	KANOAJAN_01048	L21_leader
 Q97QU4	KANOAJAN_01049	LSU ribosomal protein L21p
 Q8DPT7	KANOAJAN_01050	Putative ribosomal protein
 Q04KI2	KANOAJAN_01051	LSU ribosomal protein L27p
@@ -1080,7 +978,6 @@ Q8DPS0	KANOAJAN_01070	Enolase
 A0A132UFZ9	KANOAJAN_01071	IS1167 transposase
 A0A0T8X5W3	KANOAJAN_01072	hypothetical protein
 A0A4J1WFF8	KANOAJAN_01073	IS1167 transposase Orf1
-	KANOAJAN_01074	Srn266
 A0A4K6U0R7	KANOAJAN_01075	IS630 family transposase IS630-Spn1
 A0AAE9QWE4	KANOAJAN_01076	IS630 family transposase IS630-Spn1
 A0A822Q8B3	KANOAJAN_01077	ATP-dependent nuclease subunit RexB
@@ -1116,7 +1013,6 @@ Q8DPP8	KANOAJAN_01106	Ribonucleotide reductase of class Ib%2C beta subunit
 B2IPU6	KANOAJAN_01107	IS1167 transposase Orf2
 A0A4J1STI3	KANOAJAN_01108	hypothetical protein
 B2IPU5	KANOAJAN_01109	IS1167 transposase Orf1
-	KANOAJAN_01110	Srn266
 B2IPU4	KANOAJAN_01111	Lactose phosphotransferase system repressor
 B2IPU3	KANOAJAN_01112	hypothetical protein
 A0A4J1TX37	KANOAJAN_01113	6-phospho-beta-galactosidase
@@ -1176,14 +1072,12 @@ A0A0B7M3X4	KANOAJAN_01166	CAAX amino terminal protease family protein
 A0A4J2G5L2	KANOAJAN_01167	Glutamine ABC transporter GlnHP5%2C containing substrate-binding and permease domains
 A0A0B7LWY7	KANOAJAN_01168	Glutamine transport ATP-binding protein GlnQ
 A0A0T7K543	KANOAJAN_01169	Glucose-6-phosphate 1-dehydrogenase
-	KANOAJAN_01170	Srn266
 A0AA95DCH7	KANOAJAN_01171	IS1167 transposase
 A0A4J1TCJ0	KANOAJAN_01172	Signal recognition particle receptor FtsY
 A0A4J1YEX5	KANOAJAN_01173	Hydrolase%2C HAD superfamily
 A0A4J1RMT5	KANOAJAN_01174	Hydrolase%2C HAD superfamily
 A0A4J1UYQ6	KANOAJAN_01175	Chromosome partition protein SMC
 A0A064C285	KANOAJAN_01176	Ribonuclease III
-	KANOAJAN_01177	tRNA-Arg(ccg)
 B2IPN4	KANOAJAN_01178	GMP reductase
 B2IPN3	KANOAJAN_01179	Hypothetical protein
 B2IPN2	KANOAJAN_01180	Endonuclease
@@ -1206,7 +1100,6 @@ A0A7X2XMN1	KANOAJAN_01196	hypothetical protein
 A0AA44MS06	KANOAJAN_01197	hypothetical protein
 A0A098ANV4	KANOAJAN_01198	Tn5252 Orf9 protein
 A0A098ANV0	KANOAJAN_01199	Tn5252 Orf10 protein
-	KANOAJAN_01200	group-II-D1D4-3
 A0A6G2DL08	KANOAJAN_01201	hypothetical protein
 A0A0T8JWL1	KANOAJAN_01202	putative protein
 A0A098ZIW8	KANOAJAN_01203	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
@@ -1221,7 +1114,6 @@ B2IPK0	KANOAJAN_01211	Hypothetical protein
 B2IPJ6	KANOAJAN_01212	Hypothetical protein
 B2IPJ5	KANOAJAN_01213	Phage integrase
 Q8CYT9	KANOAJAN_01214	Hypothetical protein
-	KANOAJAN_01215	pemK
 B2IPJ3	KANOAJAN_01216	hypothetical protein
 B2IPJ2	KANOAJAN_01217	hypothetical protein
 A0A0B7LIN9	KANOAJAN_01218	hypothetical protein
@@ -1234,9 +1126,6 @@ Q8DPY4	KANOAJAN_01224	Iron compound ABC uptake transporter permease protein PiaC
 B2IPI9	KANOAJAN_01225	Iron compound ABC uptake transporter permease protein PiaB
 Q8DPY6	KANOAJAN_01226	Iron compound ABC uptake transporter substrate-binding protein PiaA
 A0A0B7LP89	KANOAJAN_01227	Hypothetical protein
-	KANOAJAN_01228	SpF39_sRNA
-	KANOAJAN_01229	SpF61_sRNA
-	KANOAJAN_01229	
 B1IBI7	KANOAJAN_01230	23S rRNA (uracil(1939)-C(5))-methyltransferase
 C1CE19	KANOAJAN_01231	Extracellular protein
 C1C701	KANOAJAN_01232	Pneumococcal vaccine antigen A
@@ -1251,10 +1140,7 @@ B2IPH4	KANOAJAN_01240	Bifunctional 4-oxalocrotonate tautomerase/xylose transport
 A0A822RV44	KANOAJAN_01241	GTPase and tRNA-U34 5-formylation enzyme MnmE
 C1CE08	KANOAJAN_01242	4-hydroxy-tetrahydrodipicolinate synthase
 A0A064C4U3	KANOAJAN_01243	Aspartate-semialdehyde dehydrogenase
-	KANOAJAN_01244	asd
-	KANOAJAN_01245	tRNA-Thr(ggt)
 Q8DQ01	KANOAJAN_01246	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	KANOAJAN_01247	preQ1-II
 A0A0T8LFD3	KANOAJAN_01248	GtrA family protein
 A0A0T8LFB4	KANOAJAN_01249	Large-conductance mechanosensitive channel MscL
 B2IPG6	KANOAJAN_01250	IS4 family transposase ISSsu2
@@ -1268,8 +1154,6 @@ A0A6G2DVA1	KANOAJAN_01257	Pneumococcal histidine triad protein E
 A0AAD2I2G5	KANOAJAN_01258	Pneumococcal histidine triad protein B
 Q8DQ09	KANOAJAN_01259	Laminin-binding surface protein
 B2IPF3	KANOAJAN_01260	Cationic amino acid transporter%2C APC Superfamily
-	KANOAJAN_01261	SpF36_sRNA
-	KANOAJAN_01261	
 C1CDZ5	KANOAJAN_01262	Thiol:disulfide oxidoreductase
 C1CDZ4	KANOAJAN_01263	Cytochrome c-type biogenesis protein CcdA-2
 Q8CYU8	KANOAJAN_01264	Hypothetical protein
@@ -1309,7 +1193,6 @@ C1CDV7	KANOAJAN_01297	Lactoylglutathione lyase
 Q04KW7	KANOAJAN_01298	LSU ribosomal protein L20p
 Q04KW8	KANOAJAN_01299	LSU ribosomal protein L35p
 B2IPB3	KANOAJAN_01300	Translation initiation factor 3
-	KANOAJAN_01301	L20_leader
 C1CDV2	KANOAJAN_01302	Hypothetical protein
 C1CDV1	KANOAJAN_01303	ABC transporter%2C ATP-binding protein
 B2IPA9	KANOAJAN_01304	Late competence DNA transporter ComEC
@@ -1359,8 +1242,6 @@ B2IP71	KANOAJAN_01347	ABC transporter permease protein
 C1CDQ8	KANOAJAN_01348	ABC transporter ATP-binding protein
 A0A0B7KXN1	KANOAJAN_01349	Hypothetical protein
 Q8CYW5	KANOAJAN_01350	Hypothetical protein
-	KANOAJAN_01351	Spd-sr07
-	KANOAJAN_01351	
 A0A5C8QW28	KANOAJAN_01352	Putative phage shock protein C
 A0A0T8S1J5	KANOAJAN_01353	Putative SprT family zinc-dependent metallopeptidase
 A0A0B7LIN4	KANOAJAN_01354	Transcription accessory protein
@@ -1395,11 +1276,9 @@ A0A0H2ZQ12	KANOAJAN_01382	DNA translocase FtsK
 B2IP07	KANOAJAN_01383	Fructose-specific PTS IIABC components
 B2IP06	KANOAJAN_01384	1-phosphofructokinase
 Q8DQ97	KANOAJAN_01385	Transcriptional repressor of the fructose operon%2C DeoR family
-	KANOAJAN_01386	tRNA-Ser(gga)
 B2INZ3	KANOAJAN_01387	hypothetical protein
 A0A0B7M8B7	KANOAJAN_01388	hypothetical protein
 B2INZ7	KANOAJAN_01389	hypothetical protein
-	KANOAJAN_01390	transfer-messenger RNA%2C SsrA
 Q8DQ98	KANOAJAN_01391	Coordinator of zonal cell elongation
 Q75Y43	KANOAJAN_01392	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 Q8DQA0	KANOAJAN_01393	Iron-sulfur cluster assembly protein SufB
@@ -1410,13 +1289,10 @@ Q8DQA4	KANOAJAN_01397	Iron-sulfur cluster assembly ATPase protein SufC
 Q8CYX9	KANOAJAN_01398	Hypothetical protein
 A0AA86JH76	KANOAJAN_01399	DNA polymerase III subunits gamma and tau
 Q8DQA6	KANOAJAN_01400	GAF domain-containing protein
-	KANOAJAN_01401	Srn266
 A0A4J2AFN9	KANOAJAN_01402	IS1167 transposase Orf1
 A0A559A0J2	KANOAJAN_01403	hypothetical protein
 A0A132UFZ9	KANOAJAN_01404	IS1167 transposase
 A0A0T7NMD7	KANOAJAN_01405	SSU ribosomal protein S1p
-	KANOAJAN_01406	tRNA-Gln(ttg)
-	KANOAJAN_01407	tRNA-Tyr(gta)
 Q8CYY0	KANOAJAN_01408	Hypothetical protein
 Q04L55	KANOAJAN_01409	Pyrrolidone-carboxylate peptidase
 Q8DQB0	KANOAJAN_01410	Putative membrane protein
@@ -1482,7 +1358,6 @@ B2INR6	KANOAJAN_01469	Hypothetical protein
 Q8DQF4	KANOAJAN_01470	Putative oxidoreductase
 A0A6G2DMB9	KANOAJAN_01471	Hypothetical protein
 A0A0T8EX74	KANOAJAN_01472	Transcriptional regulator%2C PadR family
-	KANOAJAN_01473	Srn266
 B2IMI6	KANOAJAN_01474	IS1167 transposase
 A0AA86YDQ8	KANOAJAN_01475	Methionyl-tRNA synthetase
 A0A4N9R523	KANOAJAN_01476	ABC transporter permease protein
@@ -1534,14 +1409,12 @@ B2INC0	KANOAJAN_01521	Sodium-dependent transporter
 B2INB8	KANOAJAN_01522	Mannose-6-phosphate isomerase
 B2INB7	KANOAJAN_01523	6-phospho-beta-glucosidase
 A0A4J1Y2F2	KANOAJAN_01524	IS630 family transposase ISSpn2
-	KANOAJAN_01525	Srn266
 B2IMI6	KANOAJAN_01526	IS1167 transposase
 B1IAQ3	KANOAJAN_01527	Hypothetical protein
 C1CD82	KANOAJAN_01528	Pyruvate oxidase
 A0A0T8EYZ3	KANOAJAN_01529	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
 C1C677	KANOAJAN_01530	Copper-exporting ATPase
 C1CD79	KANOAJAN_01531	Negative transcriptional regulator of copper transport operon
-	KANOAJAN_01532	TPP
 A0A0B7LGA8	KANOAJAN_01533	Hydroxymethylpyrimidine phosphate kinase ThiD
 C1CD77	KANOAJAN_01534	Thiamin-phosphate pyrophosphorylase
 Q97RR9	KANOAJAN_01535	Hydroxyethylthiazole kinase
@@ -1550,12 +1423,10 @@ Q8DQK0	KANOAJAN_01537	Thiaminase II TenA
 Q8DQK1	KANOAJAN_01538	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A2I5LX48	KANOAJAN_01539	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 C1CD71	KANOAJAN_01540	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
-	KANOAJAN_01541	TPP
 A0A062WTJ4	KANOAJAN_01542	Thiamin-phosphate pyrophosphorylase
 A0A559BUT6	KANOAJAN_01543	Hydroxyethylthiazole kinase
 A0A655HI35	KANOAJAN_01544	Hypothetical protein
 A0A0B7L9L6	KANOAJAN_01545	Thiaminase II
-	KANOAJAN_01546	TPP
 Q8DQK7	KANOAJAN_01547	L-Lactate 2-monooxygenase
 A0A0E8ITM3	KANOAJAN_01548	Class II lysyl-tRNA synthetase
 B2IN94	KANOAJAN_01549	L-Lactate 2-monooxygenase
@@ -1570,7 +1441,6 @@ B1IAM9	KANOAJAN_01557	Hypothetical protein
 A0A822Q133	KANOAJAN_01558	Hypothetical protein
 A0A822Q8E7	KANOAJAN_01559	Orotate phosphoribosyltransferase
 A0A0E8T5G7	KANOAJAN_01560	Orotidine 5'-phosphate decarboxylase
-	KANOAJAN_01561	PyrR
 B2IN84	KANOAJAN_01562	Putative membrane spanning protein
 B2IN83	KANOAJAN_01563	Fluoroquinolones export ATP-binding protein
 A0A0B4ZK12	KANOAJAN_01564	Hypothetical protein
@@ -1616,7 +1486,6 @@ Q8DQP3	KANOAJAN_01603	Putative rRNA methylase YtqB
 A0AA86XIX1	KANOAJAN_01604	hypothetical protein
 A0A4M9XIK4	KANOAJAN_01605	hypothetical protein
 Q8CZ20	KANOAJAN_01606	Hypothetical protein
-	KANOAJAN_01607	SpF25_sRNA
 A0A0B7LSI7	KANOAJAN_01608	hypothetical protein
 A0A4J2DSS5	KANOAJAN_01609	hypothetical protein
 A0A4J1XBT9	KANOAJAN_01610	Beta-galactosidase BgaA
@@ -1631,14 +1500,12 @@ A0A0H2UP10	KANOAJAN_01618	Multidrug ABC transporter permease protein
 C1CD09	KANOAJAN_01619	Antibiotic ABC transporter permease protein
 C1C603	KANOAJAN_01620	ABC transporter ATP-binding protein
 A0A0H2UP07	KANOAJAN_01621	Hypothetical protein
-	KANOAJAN_01622	Intron_gpII
 Q04LP6	KANOAJAN_01623	LSU ribosomal protein L1p (L10Ae)
 Q97RZ6	KANOAJAN_01624	LSU ribosomal protein L11p (L12e)
 B2IMU6	KANOAJAN_01625	L%2CD-carboxypeptidase
 Q8CZ25	KANOAJAN_01626	Histidine triad family protein
 A0A0H2ZNC3	KANOAJAN_01627	Deblocking aminopeptidase
 C1C5Z4	KANOAJAN_01628	Branched-chain amino acid transport system carrier protein
-	KANOAJAN_01629	SpF22_sRNA
 B2IMU2	KANOAJAN_01630	hypothetical protein
 C1CCZ5	KANOAJAN_01631	Uracil-DNA glycosylase
 B2IMU0	KANOAJAN_01632	Dipeptidase PepV
@@ -1663,7 +1530,6 @@ C1CCX7	KANOAJAN_01650	Two-component system response regulator VncR
 B9W4V1	KANOAJAN_01651	Peptide ABC transporter membrane-spanning permease Vex3
 B2IMR7	KANOAJAN_01652	ABC transporter ATP-binding protein Vex2
 C1C5W8	KANOAJAN_01653	Peptide ABC transporter membrane-spanning permease Vex1
-	KANOAJAN_01654	Intron_gpII
 B2IMR5	KANOAJAN_01655	hypothetical protein
 B2IMR4	KANOAJAN_01656	Leucine rich protein
 Q8DQS7	KANOAJAN_01657	Mini-ribonuclease III
@@ -1682,7 +1548,6 @@ Q8DQT8	KANOAJAN_01669	Phenylalanyl-tRNA synthetase alpha chain
 B2IMQ0	KANOAJAN_01670	6-phospho-beta-glucosidase
 B2IMP9	KANOAJAN_01671	Beta-glucoside-specific PTS IIBCA components
 B2IMP8	KANOAJAN_01672	Beta-glucoside bgl operon antiterminator BglG
-	KANOAJAN_01673	SpF19_sRNA
 B2IMP7	KANOAJAN_01674	hypothetical protein
 B2IMP6	KANOAJAN_01675	hypothetical protein
 B2IMP4	KANOAJAN_01676	hypothetical protein
@@ -1762,9 +1627,7 @@ Q8CZ53	KANOAJAN_01749	Hypothetical protein
 B2IM95	KANOAJAN_01750	Hypothetical protein
 B2IM94	KANOAJAN_01751	Membrane-associated phospholipid phosphatase
 A0AA86XGY0	KANOAJAN_01752	Substrate-specific component RibU of riboflavin ECF transporter
-	KANOAJAN_01753	FMN
 A0A0H2UNS5	KANOAJAN_01754	tRNA (cytidine(34)-2'-O)-methyltransferase
-	KANOAJAN_01755	23S-methyl
 C1CCN3	KANOAJAN_01756	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
 B2IM90	KANOAJAN_01757	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 B2IM89	KANOAJAN_01758	Hypothetical protein
@@ -1778,7 +1641,6 @@ A0A0U0DZP2	KANOAJAN_01765	Hypothetical protein
 B2IM82	KANOAJAN_01766	hypothetical protein
 B2IM81	KANOAJAN_01767	Pyruvate formate-lyase
 B2IM80	KANOAJAN_01768	DNA polymerase IV
-	KANOAJAN_01769	Srn266
 A0A822Q9T5	KANOAJAN_01770	IS1167 transposase
 Q04M23	KANOAJAN_01771	Undecaprenyl-diphosphatase
 C1CDR5	KANOAJAN_01772	hypothetical protein
@@ -1826,7 +1688,6 @@ A0A822Q3E5	KANOAJAN_01813	Seryl-tRNA synthetase
 B2ILV6	KANOAJAN_01814	Exfoliative toxin A
 Q8DR24	KANOAJAN_01815	Macrophage infectivity potentiator protein
 B2ILV4	KANOAJAN_01816	Sodium/glycine symporter GlyP
-	KANOAJAN_01817	Glycine
 B2ILV2	KANOAJAN_01818	Recombination inhibitory protein MutS2
 C1C5E3	KANOAJAN_01819	Z-ring positive regulator ZapB
 C1CCH1	KANOAJAN_01820	Z-ring positive regulator ZapA
@@ -1863,7 +1724,6 @@ C1CCE1	KANOAJAN_01850	Orphan response regulator RitR
 Q8DR54	KANOAJAN_01851	6-phosphogluconate dehydrogenase%2C decarboxylating
 C1CCD9	KANOAJAN_01852	Mid-cell-anchored protein Z
 A0A4J1NHK2	KANOAJAN_01853	23S rRNA (guanine(2445)-N(2))-methyltransferase
-	KANOAJAN_01854	RNaseP_bact_b
 Q97SI9	KANOAJAN_01855	Cell division protein GpsB
 Q97SJ0	KANOAJAN_01856	Hypothetical protein
 C1CIN1	KANOAJAN_01857	RecU Holliday junction resolvase
@@ -1916,16 +1776,12 @@ C1CB96	KANOAJAN_01903	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3
 A0A0B7L7X1	KANOAJAN_01904	IS200/IS605 family transposase ISStin10
 A0A4J2AA62	KANOAJAN_01905	Hyaluronate lyase precursor SpnHL
 A0A0B7KT23	KANOAJAN_01906	Glutathione peroxidase family protein
-	KANOAJAN_01907	SpF11_sRNA
 A0AAD2KGC6	KANOAJAN_01908	Maltodextrin glucosidase
-	KANOAJAN_01909	SpF10_sRNA
-	KANOAJAN_01909	
 A0A0B7LX26	KANOAJAN_01910	hypothetical protein
 Q8CZ76	KANOAJAN_01911	Hypothetical protein
 C1CC87	KANOAJAN_01912	Tyrosine recombinase XerC
 Q8CWU4	KANOAJAN_01913	SSU ribosomal protein S9p (S16e)
 Q8CWU5	KANOAJAN_01914	LSU ribosomal protein L13p (L13Ae)
-	KANOAJAN_01915	L13_leader
 Q8CZ79	KANOAJAN_01916	Hypothetical protein
 C1CC82	KANOAJAN_01917	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 C1CIH2	KANOAJAN_01918	GTP cyclohydrolase I type 1
@@ -1958,10 +1814,8 @@ A0A0B7L2A5	KANOAJAN_01944	Prolyl-tRNA synthetase
 Q8DRB1	KANOAJAN_01945	Intramembrane protease Eep
 C1CB37	KANOAJAN_01946	Phosphatidate cytidylyltransferase
 B2ISI6	KANOAJAN_01947	Undecaprenyl diphosphate synthase
-	KANOAJAN_01948	csRNA
 A0A0T8YBI6	KANOAJAN_01949	Hypothetical protein
 B5E6T3	KANOAJAN_01950	Holliday junction DNA helicase RuvB
-	KANOAJAN_01951	csRNA
 A0A380LRV0	KANOAJAN_01952	Acetyltransferase%2C GNAT family
 A0AA86MNV8	KANOAJAN_01953	Acetyltransferase%2C GNAT family
 A0A4J1XBF4	KANOAJAN_01954	Leucyl-tRNA synthetase
@@ -1981,10 +1835,8 @@ B2ISG7	KANOAJAN_01967	Ferric iron ABC transporter ATP-binding protein
 A0AAE9U2Z6	KANOAJAN_01968	Iron(III)-transport system permease protein SfuB
 B2IS61	KANOAJAN_01969	Iron(III)-transport system permease protein SfuB
 A0A0B7M6X8	KANOAJAN_01970	Phosphoglycerate mutase family protein
-	KANOAJAN_01971	csRNA
 C1CIC6	KANOAJAN_01972	hypothetical protein
 C1CC34	KANOAJAN_01973	ACT domain-containing transcriptional regulator
-	KANOAJAN_01974	L17DE
 Q8CWU8	KANOAJAN_01975	LSU ribosomal protein L17p
 Q04ML1	KANOAJAN_01976	DNA-directed RNA polymerase alpha subunit
 Q04ML2	KANOAJAN_01977	SSU ribosomal protein S11p (S14e)
@@ -2036,7 +1888,6 @@ A0A0U0LDX2	KANOAJAN_02022	Muramoyltetrapeptide carboxypeptidase
 A0A4L7JNP3	KANOAJAN_02023	CAAX amino terminal protease family protein
 Q8CWV9	KANOAJAN_02024	DNA-3-methyladenine glycosylase
 C1CI73	KANOAJAN_02025	Holliday junction DNA helicase RuvA
-	KANOAJAN_02026	FMN
 A0A0D6J4V4	KANOAJAN_02027	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
 B2IS13	KANOAJAN_02028	Riboflavin synthase RibE
 A0A654UA13	KANOAJAN_02029	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
@@ -2071,7 +1922,6 @@ B2IRM0	KANOAJAN_02057	hypothetical protein
 C1CBV4	KANOAJAN_02058	ABC transporter ATP-binding protein
 B2IRL8	KANOAJAN_02059	Family 2 glycosyltransferase
 B1I845	KANOAJAN_02060	Exopolysaccharide biosynthesis glycosyltransferase EpsF
-	KANOAJAN_02061	Srn266
 C1CAF8	KANOAJAN_02062	IS1167 transposase
 C1CBV1	KANOAJAN_02063	IS1167 transposase Orf2
 A0A0E8GP02	KANOAJAN_02064	N(6)-L-threonylcarbamoyladenine synthase TsaD
@@ -2084,11 +1934,8 @@ C1CBU5	KANOAJAN_02070	Hypothetical protein
 C1CBU4	KANOAJAN_02071	Ribonuclease J1 (endonuclease and 5' exonuclease)
 C1CBU2	KANOAJAN_02072	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 A0A6G2D3Y2	KANOAJAN_02073	MutT/Nudix family protein
-	KANOAJAN_02074	Spd-sr37
-	KANOAJAN_02074	
 C1CI29	KANOAJAN_02075	tRNA-specific 2-thiouridylase MnmA
 Q9LAZ3	KANOAJAN_02076	Surface protein PspA precursor
-	KANOAJAN_02077	SpF03_sRNA
 A0A0B7LD21	KANOAJAN_02078	Pyridoxamine 5'-phosphate oxidase
 A0A0B7L5C6	KANOAJAN_02079	Hypothetical protein
 B2IRJ9	KANOAJAN_02080	Hypothetical protein
@@ -2102,8 +1949,6 @@ C1CAD5	KANOAJAN_02087	Hypothetical protein
 Q8CZB0	KANOAJAN_02088	Hypothetical protein
 B2IRJ2	KANOAJAN_02089	Lactococcin-G-processing and transport ATP-binding protein LagD
 B2IRJ1	KANOAJAN_02090	Hypothetical protein
-	KANOAJAN_02091	Bacilli-1
-	KANOAJAN_02091	
 B2IRJ0	KANOAJAN_02092	Argininosuccinate synthase
 B2IRI9	KANOAJAN_02093	Amino acid ABC transporter substrate-binding/permease protein
 Q8DRI7	KANOAJAN_02094	ABC transporter ATP-binding protein
@@ -2128,7 +1973,6 @@ B2IRG9	KANOAJAN_02112	ABC transporter permease protein
 Q8DRJ8	KANOAJAN_02113	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 A0AA86XNR3	KANOAJAN_02114	Hypothetical protein
 A0AAD2KAL2	KANOAJAN_02115	Hypothetical protein
-	KANOAJAN_02116	SpF01_sRNA
 Q04MZ3	KANOAJAN_02117	SSU ribosomal protein S4p (S9e)
 Q9S1J1	KANOAJAN_02118	Two-component system sensor histidine kinase
 B2IRG2	KANOAJAN_02119	Two-component system response regulator
@@ -2185,20 +2029,12 @@ C1CHC1	KANOAJAN_02169	Carbonic anhydrase
 B2IR11	KANOAJAN_02170	DNA repair protein RadA
 A0A6G2DNX4	KANOAJAN_02171	Hypothetical protein
 Q8DRP2	KANOAJAN_02172	Deoxyuridine 5'-triphosphate nucleotidohydrolase
-	KANOAJAN_02173	Bacteria_small_SRP
 B2IR08	KANOAJAN_02174	tRNA-specific adenosine-34 deaminase
-	KANOAJAN_02175	csRNA
 B2IR07	KANOAJAN_02176	Adenylosuccinate synthetase
 Q8CZD0	KANOAJAN_02177	Competence positive regulator ComW
 B2IR05	KANOAJAN_02178	IS1167 transposase Orf1
 A0A2U3RX19	KANOAJAN_02179	IS630 family transposase IS630-Spn1
 A0AAE9QWE4	KANOAJAN_02180	IS630 family transposase IS630-Spn1
-	KANOAJAN_02181	tRNA-Asn(gtt)
-	KANOAJAN_02182	5S ribosomal RNA
-	KANOAJAN_02183	23S ribosomal RNA
-	KANOAJAN_02184	tRNA-Ala(tgc)
-	KANOAJAN_02185	16S ribosomal RNA
-	KANOAJAN_02186	tRNA-Glu(ttc)
 B2IMI0	KANOAJAN_02187	Competence-specific sigma factor ComX
 C1C994	KANOAJAN_02188	Cell division protein FtsH
 Q97TC4	KANOAJAN_02189	Hypoxanthine-guanine phosphoribosyltransferase
@@ -2218,29 +2054,5 @@ A0A4M3JR08	KANOAJAN_02202	Alpha-galactosidase
 A0A6G2D7U3	KANOAJAN_02203	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0AA95D6T4	KANOAJAN_02204	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0A4J1XEZ8	KANOAJAN_02205	Bifunctional biotin operon repressor/Biotin--protein ligase
-	KANOAJAN_02206	tRNA-Ser(gct)
-	KANOAJAN_02206	
-	KANOAJAN_02207	tRNA-Ile(gat)
-	KANOAJAN_02208	tRNA-Gly(tcc)
-	KANOAJAN_02209	tRNA-Phe(gaa)
-	KANOAJAN_02210	tRNA-Met(cat)
-	KANOAJAN_02211	tRNA-Ser(tga)
-	KANOAJAN_02212	tRNA-Met(cat)
-	KANOAJAN_02213	tRNA-Met(cat)
-	KANOAJAN_02213	
-	KANOAJAN_02214	tRNA-Pro(tgg)
-	KANOAJAN_02215	tRNA-Arg(acg)
-	KANOAJAN_02216	tRNA-Gly(gcc)
-	KANOAJAN_02217	tRNA-Thr(tgt)
-	KANOAJAN_02218	tRNA-Leu(tag)
-	KANOAJAN_02219	tRNA-Lys(ttt)
-	KANOAJAN_02219	
-	KANOAJAN_02220	tRNA-Asp(gtc)
-	KANOAJAN_02221	tRNA-Val(tac)
-	KANOAJAN_02222	5S ribosomal RNA
-	KANOAJAN_02223	23S ribosomal RNA
-	KANOAJAN_02224	tRNA-Ala(tgc)
-	KANOAJAN_02225	16S ribosomal RNA
-	KANOAJAN_02226	tRNA-Glu(ttc)
 Q9S461	KANOAJAN_02227	hypothetical protein
 A0A916L592	KANOAJAN_02228	ATP-dependent zinc metalloprotease FtsH

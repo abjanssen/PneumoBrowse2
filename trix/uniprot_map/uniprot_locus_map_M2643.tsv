@@ -2,8 +2,6 @@ uniprot	locus_tag	product
 C1C9S1	MBKLHCAH_00001	DNA repair protein RadA
 A0A6G2DNX4	MBKLHCAH_00002	Hypothetical protein
 Q8DRP2	MBKLHCAH_00003	Deoxyuridine 5'-triphosphate nucleotidohydrolase
-	MBKLHCAH_00004	Bacteria_small_SRP
-	MBKLHCAH_00004	
 C1CHA2	MBKLHCAH_00005	tRNA-specific adenosine-34 deaminase
 A0A098AQ29	MBKLHCAH_00006	hypothetical protein
 A0A098ANM9	MBKLHCAH_00007	Autolysin/N-acetylmuramoyl-L-alanine amidase LytA
@@ -54,23 +52,9 @@ A0A062WLZ7	MBKLHCAH_00051	hypothetical protein
 A0A098ANK0	MBKLHCAH_00052	hypothetical protein
 A0A098APY9	MBKLHCAH_00053	3'-5' exonuclease DinG
 A0A098ANJ4	MBKLHCAH_00054	Tyrosine recombinase XerC
-	MBKLHCAH_00055	csRNA
-	MBKLHCAH_00055	
 C1CHA1	MBKLHCAH_00056	Adenylosuccinate synthetase
 C1C9A0	MBKLHCAH_00057	Competence positive regulator ComW
 A0A4J1ZP44	MBKLHCAH_00058	IS1167 transposase Orf1
-	MBKLHCAH_00059	tRNA-Asn(gtt)
-	MBKLHCAH_00059	
-	MBKLHCAH_00060	5S ribosomal RNA
-	MBKLHCAH_00060	
-	MBKLHCAH_00061	23S ribosomal RNA
-	MBKLHCAH_00061	
-	MBKLHCAH_00062	tRNA-Ala(tgc)
-	MBKLHCAH_00062	
-	MBKLHCAH_00063	16S ribosomal RNA
-	MBKLHCAH_00063	
-	MBKLHCAH_00064	tRNA-Glu(ttc)
-	MBKLHCAH_00064	
 A0A6C7J1A1	MBKLHCAH_00065	Competence-specific sigma factor ComX
 A0A4J1YD92	MBKLHCAH_00066	Cell division protein FtsH
 Q97TC4	MBKLHCAH_00067	Hypoxanthine-guanine phosphoribosyltransferase
@@ -88,15 +72,9 @@ Q8DRQ4	MBKLHCAH_00078	Chromosomal replication initiator protein DnaA
 A0A0B7LQV2	MBKLHCAH_00079	Chromosome partitioning protein ParB
 Q8DMW2	MBKLHCAH_00080	Serine protease%2C DegP/HtrA
 Q04HU2	MBKLHCAH_00081	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
-	MBKLHCAH_00082	tRNA-Arg(tct)
-	MBKLHCAH_00082	
 Q5QIA8	MBKLHCAH_00083	Competence-stimulating peptide precursor ComC
 A0A4J1YE25	MBKLHCAH_00084	Two-component system sensor histidine kinase ComD
 Q8DMW5	MBKLHCAH_00085	Two-component system response regulator ComE
-	MBKLHCAH_00086	tRNA-Glu(ttc)
-	MBKLHCAH_00086	
-	MBKLHCAH_00087	tRNA-Asn(gtt)
-	MBKLHCAH_00087	
 A0A4J1YA45	MBKLHCAH_00088	Transcriptional regulator%2C AcrR family
 A0A4J1YAC0	MBKLHCAH_00089	hypothetical protein
 B2INP9	MBKLHCAH_00090	hypothetical protein
@@ -118,8 +96,6 @@ C1CHL6	MBKLHCAH_00105	Cell shape-determining protein MreD
 A0A9P1Q4Y1	MBKLHCAH_00106	Secreted antigen GbpB/SagA/PcsB%2C putative peptidoglycan hydrolase
 C1CUD2	MBKLHCAH_00107	SSU ribosomal protein S2p (SAe)
 Q04HW4	MBKLHCAH_00108	Translation elongation factor Ts
-	MBKLHCAH_00109	SpF51_sRNA
-	MBKLHCAH_00109	
 A0A4J1YBC7	MBKLHCAH_00110	IS66 family transposase Orf2
 A0A4J1YB96	MBKLHCAH_00111	hypothetical protein
 A0A0I5GIP1	MBKLHCAH_00112	Cysteine synthase
@@ -132,8 +108,6 @@ Q04HX2	MBKLHCAH_00118	LSU ribosomal protein L9p
 Q8DMZ2	MBKLHCAH_00119	Replicative DNA helicase DnaC
 Q8DMZ3	MBKLHCAH_00120	Hypothetical protein
 A0A4J1YBP0	MBKLHCAH_00121	Choline-binding protein D
-	MBKLHCAH_00122	TPP
-	MBKLHCAH_00122	
 A0A4G6X742	MBKLHCAH_00123	Cytoplasmic thiamin-binding component of thiamin ABC transporter
 B1IA11	MBKLHCAH_00124	Thiamin ABC transporter ThiX%2C transmembrane component
 Q8DMZ7	MBKLHCAH_00125	Thiamin ABC transporter ThiY%2C substrate-binding component
@@ -153,10 +127,6 @@ A0A0H2ZPJ9	MBKLHCAH_00138	Glycerol uptake facilitator protein
 C1CBF9	MBKLHCAH_00139	hypothetical protein
 A0A4J2GFY9	MBKLHCAH_00140	Hypothetical protein
 A0A4J1NJ06	MBKLHCAH_00141	hypothetical protein
-	MBKLHCAH_00142	group-II-D1D4-3
-	MBKLHCAH_00142	
-	MBKLHCAH_00143	group-II-D1D4-1
-	MBKLHCAH_00143	
 B1I9Z1	MBKLHCAH_00144	hypothetical protein
 A0A4J1XPM9	MBKLHCAH_00145	Macrolide-efflux protein
 A0AAE9QTY8	MBKLHCAH_00146	D-alanine--poly(phosphoribitol) ligase subunit 1
@@ -167,10 +137,6 @@ A0A0B7LWX5	MBKLHCAH_00150	Transcriptional repressor AdcR for Zn(2+)-responsive e
 B2INJ0	MBKLHCAH_00151	Zinc ABC transporter%2C ATP-binding protein AdcC
 O33704	MBKLHCAH_00152	Zinc ABC transporter%2C permease protein AdcB
 A0A0E8T5V2	MBKLHCAH_00153	Zinc ABC transporter%2C substrate-binding lipoprotein AdcA
-	MBKLHCAH_00154	SpF66_sRNA
-	MBKLHCAH_00154	
-	MBKLHCAH_00155	SpF66_sRNA
-	MBKLHCAH_00155	
 B2INI7	MBKLHCAH_00156	L-fucose operon activator
 A0A4J1S799	MBKLHCAH_00157	L-fuculokinase
 C1CB10	MBKLHCAH_00158	Multiple sugar ABC transporter%2C substrate-binding protein MsmE
@@ -255,11 +221,7 @@ A0A4J1UID7	MBKLHCAH_00236	Putative cupin superfamily protein
 A0A4J1R0X8	MBKLHCAH_00237	IS1381 transposase OrfB
 C1CN25	MBKLHCAH_00238	Arginyl-tRNA synthetase
 P0A2Y3	MBKLHCAH_00239	Arginine pathway regulatory protein ArgR1
-	MBKLHCAH_00240	SpR10_sRNA
-	MBKLHCAH_00240	
 A0A4U8XGL1	MBKLHCAH_00241	DNA mismatch repair protein HexA
-	MBKLHCAH_00242	patAB
-	MBKLHCAH_00242	
 A0A0H2USC5	MBKLHCAH_00243	Multidrug resistance ABC transporter ATP-binding and permease protein
 A0A4J1YGX3	MBKLHCAH_00244	hypothetical protein
 A0A0B7M9F3	MBKLHCAH_00245	Multidrug resistance ABC transporter ATP-binding and permease protein
@@ -267,38 +229,6 @@ A0A4J1YH29	MBKLHCAH_00246	Glutamine amidotransferase%2C class I
 A0A4J1YI67	MBKLHCAH_00247	Glucose-6-phosphate isomerase
 A0A0B7LJP7	MBKLHCAH_00248	Glutamyl-tRNA synthetase
 A0AA95DDT3	MBKLHCAH_00249	Cytidine/deoxycytidylate deaminase family protein
-	MBKLHCAH_00250	tRNA-Glu(ttc)
-	MBKLHCAH_00250	
-	MBKLHCAH_00251	16S ribosomal RNA
-	MBKLHCAH_00251	
-	MBKLHCAH_00252	tRNA-Ala(tgc)
-	MBKLHCAH_00252	
-	MBKLHCAH_00253	23S ribosomal RNA
-	MBKLHCAH_00253	
-	MBKLHCAH_00254	5S ribosomal RNA
-	MBKLHCAH_00254	
-	MBKLHCAH_00255	tRNA-Val(tac)
-	MBKLHCAH_00255	
-	MBKLHCAH_00256	tRNA-Gly(tcc)
-	MBKLHCAH_00256	
-	MBKLHCAH_00257	tRNA-Ile(gat)
-	MBKLHCAH_00257	
-	MBKLHCAH_00258	tRNA-Ser(tga)
-	MBKLHCAH_00258	
-	MBKLHCAH_00259	tRNA-Met(cat)
-	MBKLHCAH_00259	
-	MBKLHCAH_00260	tRNA-Phe(gaa)
-	MBKLHCAH_00260	
-	MBKLHCAH_00261	tRNA-Tyr(gta)
-	MBKLHCAH_00261	
-	MBKLHCAH_00262	tRNA-Trp(cca)
-	MBKLHCAH_00262	
-	MBKLHCAH_00263	tRNA-His(gtg)
-	MBKLHCAH_00263	
-	MBKLHCAH_00264	tRNA-Gln(ttg)
-	MBKLHCAH_00264	
-	MBKLHCAH_00265	tRNA-Leu(caa)
-	MBKLHCAH_00265	
 A0AA44S5K4	MBKLHCAH_00266	Hypothetical protein
 A0A0T8TQ84	MBKLHCAH_00267	Threonine synthase
 A0A098Z4I4	MBKLHCAH_00268	Multi antimicrobial extrusion family transporter
@@ -359,34 +289,6 @@ Q75YF5	MBKLHCAH_00322	Multimodular transpeptidase-transglycosylase%2C penicillin
 Q8DNB7	MBKLHCAH_00323	Protein translocase subunit SecE
 C1CGT9	MBKLHCAH_00324	Transcription antitermination protein NusG
 A0A6C7J1A1	MBKLHCAH_00325	Competence-specific sigma factor ComX
-	MBKLHCAH_00326	tRNA-Glu(ttc)
-	MBKLHCAH_00326	
-	MBKLHCAH_00327	16S ribosomal RNA
-	MBKLHCAH_00327	
-	MBKLHCAH_00328	tRNA-Ala(tgc)
-	MBKLHCAH_00328	
-	MBKLHCAH_00329	23S ribosomal RNA
-	MBKLHCAH_00329	
-	MBKLHCAH_00330	5S ribosomal RNA
-	MBKLHCAH_00330	
-	MBKLHCAH_00331	tRNA-Val(tac)
-	MBKLHCAH_00331	
-	MBKLHCAH_00332	tRNA-Asp(gtc)
-	MBKLHCAH_00332	
-	MBKLHCAH_00333	tRNA-Lys(ttt)
-	MBKLHCAH_00333	
-	MBKLHCAH_00334	tRNA-Leu(tag)
-	MBKLHCAH_00334	
-	MBKLHCAH_00335	tRNA-Thr(tgt)
-	MBKLHCAH_00335	
-	MBKLHCAH_00336	tRNA-Gly(gcc)
-	MBKLHCAH_00336	
-	MBKLHCAH_00337	tRNA-Leu(taa)
-	MBKLHCAH_00337	
-	MBKLHCAH_00338	tRNA-Arg(acg)
-	MBKLHCAH_00338	
-	MBKLHCAH_00339	tRNA-Pro(tgg)
-	MBKLHCAH_00339	
 A0A4J1YAQ7	MBKLHCAH_00340	Hypothetical protein
 A0A4J1Y948	MBKLHCAH_00341	Hypothetical protein
 C1CA49	MBKLHCAH_00342	ABC transporter%2C ATP-binding protein
@@ -431,10 +333,6 @@ A0A4J1Y7F7	MBKLHCAH_00380	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
 Q03159	MBKLHCAH_00381	Competence-associated EpuA protein
 A0A0B7LDF1	MBKLHCAH_00382	DNA-entry nuclease
 A0A0H2URP2	MBKLHCAH_00383	Putative hemolysin
-	MBKLHCAH_00384	tRNA-Cys(gca)
-	MBKLHCAH_00384	
-	MBKLHCAH_00385	Lacto-rpoB
-	MBKLHCAH_00385	
 A0A0B7LZ45	MBKLHCAH_00386	DNA-directed RNA polymerase beta subunit
 Q97NQ8	MBKLHCAH_00387	DNA-directed RNA polymerase beta' subunit
 Q04IK8	MBKLHCAH_00388	Nucleoside diphosphate kinase
@@ -483,55 +381,9 @@ A0A0B7L9G8	MBKLHCAH_00430	Epoxyqueuosine reductase QueH
 A0A4J1Y952	MBKLHCAH_00431	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
 A0A0B7LRJ6	MBKLHCAH_00432	Positive transcriptional regulator%2C MutR family
 A0A0B7L322	MBKLHCAH_00433	hypothetical protein
-	MBKLHCAH_00434	Spy392987
-	MBKLHCAH_00434	
 Q8DNH5	MBKLHCAH_00435	Cysteinyl-tRNA synthetase related protein
 A0A111CNV8	MBKLHCAH_00436	Regulatory protein RecX
 C1CGD1	MBKLHCAH_00437	RNA methyltransferase%2C TrmA family
-	MBKLHCAH_00438	tRNA-Glu(ttc)
-	MBKLHCAH_00438	
-	MBKLHCAH_00439	16S ribosomal RNA
-	MBKLHCAH_00439	
-	MBKLHCAH_00440	tRNA-Ala(tgc)
-	MBKLHCAH_00440	
-	MBKLHCAH_00441	23S ribosomal RNA
-	MBKLHCAH_00441	
-	MBKLHCAH_00442	5S ribosomal RNA
-	MBKLHCAH_00442	
-	MBKLHCAH_00443	tRNA-Val(tac)
-	MBKLHCAH_00443	
-	MBKLHCAH_00444	tRNA-Asp(gtc)
-	MBKLHCAH_00444	
-	MBKLHCAH_00445	tRNA-Lys(ttt)
-	MBKLHCAH_00445	
-	MBKLHCAH_00446	tRNA-Leu(tag)
-	MBKLHCAH_00446	
-	MBKLHCAH_00447	tRNA-Thr(tgt)
-	MBKLHCAH_00447	
-	MBKLHCAH_00448	tRNA-Gly(gcc)
-	MBKLHCAH_00448	
-	MBKLHCAH_00449	tRNA-Leu(taa)
-	MBKLHCAH_00449	
-	MBKLHCAH_00450	tRNA-Arg(acg)
-	MBKLHCAH_00450	
-	MBKLHCAH_00451	tRNA-Pro(tgg)
-	MBKLHCAH_00451	
-	MBKLHCAH_00452	tRNA-Met(cat)
-	MBKLHCAH_00452	
-	MBKLHCAH_00453	tRNA-Met(cat)
-	MBKLHCAH_00453	
-	MBKLHCAH_00454	tRNA-Ser(tga)
-	MBKLHCAH_00454	
-	MBKLHCAH_00455	tRNA-Met(cat)
-	MBKLHCAH_00455	
-	MBKLHCAH_00456	tRNA-Phe(gaa)
-	MBKLHCAH_00456	
-	MBKLHCAH_00457	tRNA-Gly(tcc)
-	MBKLHCAH_00457	
-	MBKLHCAH_00458	tRNA-Ile(gat)
-	MBKLHCAH_00458	
-	MBKLHCAH_00459	tRNA-Ser(gct)
-	MBKLHCAH_00459	
 A0A0B7LHF7	MBKLHCAH_00460	Bifunctional biotin operon repressor/Biotin--protein ligase
 A0A4J1SN74	MBKLHCAH_00461	Multiple sugar metabolism operon regulatory protein MsmR
 A0A4J1XPK2	MBKLHCAH_00462	Alpha-galactosidase
@@ -548,8 +400,6 @@ B2ISY6	MBKLHCAH_00472	Peptide ABC transporter ATP-binding protein AmiF
 A0A4J2GK27	MBKLHCAH_00473	IS1167 transposase
 C1CF69	MBKLHCAH_00474	hypothetical protein
 A0A4N9N5R4	MBKLHCAH_00475	IS1167 transposase Orf1
-	MBKLHCAH_00476	Srn266
-	MBKLHCAH_00476	
 Q8DNI5	MBKLHCAH_00477	Trehalose operon transcriptional repressor
 A0A6I3UN70	MBKLHCAH_00478	Trehalose-specific PTS IIBCA components
 A0A0E7DT43	MBKLHCAH_00479	Trehalose-6-phosphate hydrolase
@@ -587,8 +437,6 @@ A0A4J1XNY7	MBKLHCAH_00510	Type II restriction-modification system endonuclease D
 P0A3T5	MBKLHCAH_00511	Type II restriction-modification system component DpnD
 A0A121BWU1	MBKLHCAH_00512	Xanthine permease
 Q3I0D6	MBKLHCAH_00513	Xanthine phosphoribosyltransferase
-	MBKLHCAH_00514	Purine
-	MBKLHCAH_00514	
 A0AAD2IGX4	MBKLHCAH_00515	hypothetical protein
 A0A0B7M891	MBKLHCAH_00516	hypothetical protein
 C1C9B1	MBKLHCAH_00517	Exodeoxyribonuclease III
@@ -649,8 +497,6 @@ A0A4J1QQ59	MBKLHCAH_00571	hypothetical protein
 A0A9P1V5W5	MBKLHCAH_00572	hypothetical protein
 A0A4J1XUN5	MBKLHCAH_00573	hypothetical protein
 A0A4J1XRU1	MBKLHCAH_00574	Transposase from transposon Tn916
-	MBKLHCAH_00575	tRNA-Lys(ctt)
-	MBKLHCAH_00575	
 A0A0E8ZGI8	MBKLHCAH_00576	Chromosome segregation helicase
 Q8CYD9	MBKLHCAH_00577	Hypothetical protein
 A0A064C2E8	MBKLHCAH_00578	hypothetical protein
@@ -831,8 +677,6 @@ A0A4J1XYC1	MBKLHCAH_00752	Major facilitator oxalate:formate antiporter
 A0A0E8AJB6	MBKLHCAH_00753	DEAD-box ATP-dependent RNA helicase CshA
 C1CSK2	MBKLHCAH_00754	GTP-sensing transcriptional pleiotropic repressor CodY
 Q8DP02	MBKLHCAH_00755	Nicotinamidase
-	MBKLHCAH_00756	tRNA-Leu(aag)
-	MBKLHCAH_00756	
 A0A0H2UQW6	MBKLHCAH_00757	Multiple sugar ABC transporter%2C ATP-binding protein
 Q8DP04	MBKLHCAH_00758	SAM-dependent methyltransferase
 C1CFG1	MBKLHCAH_00759	Adenine phosphoribosyltransferase
@@ -860,15 +704,11 @@ A0A4J1XZH2	MBKLHCAH_00780	4-hydroxy-tetrahydrodipicolinate reductase
 A0AAE4K0L1	MBKLHCAH_00781	CCA tRNA nucleotidyltransferase
 A0A4J1Y2Z5	MBKLHCAH_00782	ATPase component of ABC transporter with duplicated ATPase domains
 A0A4J1XZH4	MBKLHCAH_00783	Cobalt-zinc-cadmium resistance protein
-	MBKLHCAH_00784	SSRC10
-	MBKLHCAH_00784	
 A0A4J1Y093	MBKLHCAH_00785	Calcium-transporting ATPase
 A0A0H2UQV0	MBKLHCAH_00786	Glutathione S-transferase
 Q8DP22	MBKLHCAH_00787	Peptide deformylase
 A0A0B7M1N9	MBKLHCAH_00788	Cell shape-determining protein
 A0A229FM92	MBKLHCAH_00789	Hypothetical protein
-	MBKLHCAH_00790	SpR20_sRNA
-	MBKLHCAH_00790	
 Q8DP23	MBKLHCAH_00791	hypothetical protein
 B1ICW7	MBKLHCAH_00792	Hypothetical protein
 A0A2U3S105	MBKLHCAH_00793	Hypothetical protein
@@ -932,8 +772,6 @@ A0A4J1Y5Z1	MBKLHCAH_00850	Oxidoreductase%2C Gfo/Idh/MocA family
 A0A4J1Y2J7	MBKLHCAH_00851	hypothetical protein
 A0A4J1Y2H6	MBKLHCAH_00852	Peptidoglycan N-acetylglucosamine deacetylase
 A0A0H2ZN56	MBKLHCAH_00853	Ooxidoreductase of aldo/keto reductase family%2C subgroup 1
-	MBKLHCAH_00854	SpR19_sRNA
-	MBKLHCAH_00854	
 A0A4J1Y2K5	MBKLHCAH_00855	hypothetical protein
 A0AAD2KGR9	MBKLHCAH_00856	Glycyl-tRNA synthetase alpha chain
 Q8DP66	MBKLHCAH_00857	Glycyl-tRNA synthetase beta chain
@@ -963,8 +801,6 @@ C1CF32	MBKLHCAH_00880	Beta-lactamase%2C class C
 A0A0E8KQG4	MBKLHCAH_00881	Drug/metabolite transporter superfamily protein
 A0A0T8JZR4	MBKLHCAH_00882	Transcriptional regulator in cluster with beta-lactamase%2C GntR family
 Q04JQ8	MBKLHCAH_00883	GMP synthase%2C amidotransferase and ATP pyrophosphatase subunits
-	MBKLHCAH_00884	SpR18_sRNA
-	MBKLHCAH_00884	
 A0A4J1Y5I2	MBKLHCAH_00885	hypothetical protein
 A0A4J1Y7K3	MBKLHCAH_00886	IS66 family transposase Orf2
 A0A4J1Y438	MBKLHCAH_00887	hypothetical protein
@@ -1049,12 +885,8 @@ A0A0B7L4L0	MBKLHCAH_00965	Peptide methionine sulfoxide reductase MsrAB1
 A0AA95D9K5	MBKLHCAH_00966	ABC transporter ATP-binding/permease protein
 A0A4L0Z9H5	MBKLHCAH_00967	ABC transporter ATP-binding/permease protein
 A0A4L0ZB74	MBKLHCAH_00968	Methylthioadenosine deaminase
-	MBKLHCAH_00969	L10_leader
-	MBKLHCAH_00969	
 Q04JZ3	MBKLHCAH_00970	LSU ribosomal protein L10p (P0)
 Q04JZ4	MBKLHCAH_00971	LSU ribosomal protein L7/L12 (P1/P2)
-	MBKLHCAH_00972	rli38
-	MBKLHCAH_00972	
 A0A0I7ARN0	MBKLHCAH_00973	hypothetical protein
 A0A0I8P6T2	MBKLHCAH_00974	hypothetical protein
 A0A0E8P7K6	MBKLHCAH_00975	hypothetical protein
@@ -1085,27 +917,19 @@ Q8DPG5	MBKLHCAH_00999	Chorismate mutase I
 A0A0I7U8M3	MBKLHCAH_01000	ClC-type fluoride channel
 Q97QC5	MBKLHCAH_01001	ClC-type fluoride channel
 Q97QC6	MBKLHCAH_01002	LSU ribosomal protein L19p
-	MBKLHCAH_01003	tRNA-Arg(cct)
-	MBKLHCAH_01003	
 A0A4L7U3V9	MBKLHCAH_01004	Sugar phosphatase YidA
 A0A4J1Z7V3	MBKLHCAH_01005	dNTP triphosphohydrolase
 A0A0B7LX59	MBKLHCAH_01006	Hypothetical protein
 C1C7R8	MBKLHCAH_01007	Signal recognition particle associated protein
 A0A0T8BNR5	MBKLHCAH_01008	Signal recognition particle protein Ffh
 C1CEP1	MBKLHCAH_01009	Uracil permease
-	MBKLHCAH_01010	SpF44_sRNA
-	MBKLHCAH_01010	
 B2IQ76	MBKLHCAH_01011	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
 A0A4J1Z825	MBKLHCAH_01012	LemA
 A0A4J1Z813	MBKLHCAH_01013	Heat shock protein HtpX
 A0A4J1Z7R4	MBKLHCAH_01014	ABC transporter ATP-binding protein
-	MBKLHCAH_01015	SpF43_sRNA
-	MBKLHCAH_01015	
 A0A4J1Z7L6	MBKLHCAH_01016	BlpT protein
 Q8DPH7	MBKLHCAH_01017	Protein%2C clustered with ribosomal protein L32p
 A0A4J1Z7U4	MBKLHCAH_01018	Endonuclease III
-	MBKLHCAH_01019	PyrR
-	MBKLHCAH_01019	
 Q04K45	MBKLHCAH_01020	Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR
 A0A4J1Z7Q9	MBKLHCAH_01021	Aspartate carbamoyltransferase
 A0A064BWJ2	MBKLHCAH_01022	Carbamoyl-phosphate synthase small chain CarA
@@ -1134,8 +958,6 @@ A0A098ZBM5	MBKLHCAH_01044	Hypothetical protein
 A0A4J1Z8Q6	MBKLHCAH_01045	hypothetical protein
 A0A4F9E4P1	MBKLHCAH_01046	Hypothetical protein
 Q8DPJ7	MBKLHCAH_01047	GMP reductase
-	MBKLHCAH_01048	tRNA-Arg(ccg)
-	MBKLHCAH_01048	
 A0A064C285	MBKLHCAH_01049	Ribonuclease III
 A0A4J1Z9Q0	MBKLHCAH_01050	Chromosome partition protein SMC
 A0A0E8SU30	MBKLHCAH_01051	Hydrolase%2C HAD superfamily
@@ -1245,15 +1067,9 @@ Q8DPT6	MBKLHCAH_01154	Bifunctional FMN adenylyltransferase/riboflavin kinase Rib
 Q04KI2	MBKLHCAH_01155	LSU ribosomal protein L27p
 Q8DPT7	MBKLHCAH_01156	Putative ribosomal protein
 C1CKG8	MBKLHCAH_01157	LSU ribosomal protein L21p
-	MBKLHCAH_01158	L21_leader
-	MBKLHCAH_01158	
 A0A0E9GYP1	MBKLHCAH_01159	Hypothetical protein
 Q04KI6	MBKLHCAH_01160	Hypothetical protein co-occurring with RecR
-	MBKLHCAH_01161	Srn266
-	MBKLHCAH_01161	
 A0AA86XSN8	MBKLHCAH_01162	IS1167 transposase Orf1
-	MBKLHCAH_01163	SpR14_sRNA
-	MBKLHCAH_01163	
 Q8DPU0	MBKLHCAH_01164	Phosphate acetyltransferase
 C1C795	MBKLHCAH_01165	RluD-like protein
 B2IQ09	MBKLHCAH_01166	NAD kinase
@@ -1273,8 +1089,6 @@ Q8DPV1	MBKLHCAH_01179	Methionine aminopeptidase
 Q8DPV2	MBKLHCAH_01180	Cytosolic protein containing multiple CBS domains
 B1IBM4	MBKLHCAH_01181	Ribosomal-protein-S5p-alanine acetyltransferase
 Q97QW6	MBKLHCAH_01182	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
-	MBKLHCAH_01183	group-II-D1D4-3
-	MBKLHCAH_01183	
 C1CE67	MBKLHCAH_01184	Hypothetical protein
 A0A0B7LKD4	MBKLHCAH_01185	GTP-binding protein ObgE
 C1CE65	MBKLHCAH_01186	Hypothetical protein
@@ -1288,16 +1102,12 @@ A0A4J1ZDI3	MBKLHCAH_01193	ABC transporter ATP-binding protein
 A0A0H2UPW3	MBKLHCAH_01194	Putative tryptophan-specific ABC transporter permease protein TrpY
 A0A4J1SQK3	MBKLHCAH_01195	ABC transporter substrate-binding protein
 B1IBL0	MBKLHCAH_01196	hypothetical protein
-	MBKLHCAH_01197	T-box
-	MBKLHCAH_01197	
 A0A6G2DA00	MBKLHCAH_01198	Phosphoenolpyruvate carboxylase
 C1C764	MBKLHCAH_01199	Cell division protein FtsW
 A0A4J1ZDA5	MBKLHCAH_01200	hypothetical protein
 A0A4J1ZD67	MBKLHCAH_01201	Peptidase E
 A0A4J1ZD88	MBKLHCAH_01202	hypothetical protein
 A0A4J1ZEA1	MBKLHCAH_01203	Phage integrase
-	MBKLHCAH_01204	pemK
-	MBKLHCAH_01204	
 A0A6G2CY22	MBKLHCAH_01205	Putative repressor protein%2C phage associated
 A0A0I8TT69	MBKLHCAH_01206	6-phospho-beta-galactosidase
 A0A0I8NY77	MBKLHCAH_01207	6-phospho-beta-galactosidase
@@ -1323,8 +1133,6 @@ A0AAE9U0F6	MBKLHCAH_01226	hypothetical protein
 A0A4J1ZDK3	MBKLHCAH_01227	hypothetical protein
 A0A0I8QW27	MBKLHCAH_01228	Tn5252 Orf9 protein
 A0A6G2CZL4	MBKLHCAH_01229	Tn5252 Orf10 protein
-	MBKLHCAH_01230	group-II-D1D4-3
-	MBKLHCAH_01230	
 A0A4J1ZDV6	MBKLHCAH_01231	hypothetical protein
 A0A4J1ZCF4	MBKLHCAH_01232	Bifunctional UDP-N-acetylglucosamine kinase/zeta toxin PezT
 A0A098AQ71	MBKLHCAH_01233	Antitoxin PezA
@@ -1338,19 +1146,13 @@ B2IPJ6	MBKLHCAH_01240	Hypothetical protein
 A0A4J1ZCE0	MBKLHCAH_01241	Phage integrase
 A0A4J1ZC11	MBKLHCAH_01242	Phage integrase
 Q8CYT9	MBKLHCAH_01243	Hypothetical protein
-	MBKLHCAH_01244	pemK
-	MBKLHCAH_01244	
 Q8CYU1	MBKLHCAH_01245	Putative type II restriction endonuclease
 A0A2Z4HWP0	MBKLHCAH_01246	Iron compound ABC uptake transporter ATP-binding protein PiaD
 Q8DPY4	MBKLHCAH_01247	Iron compound ABC uptake transporter permease protein PiaC
 B2IPI9	MBKLHCAH_01248	Iron compound ABC uptake transporter permease protein PiaB
 Q8DPY6	MBKLHCAH_01249	Iron compound ABC uptake transporter substrate-binding protein PiaA
 C1CE21	MBKLHCAH_01250	Hypothetical protein
-	MBKLHCAH_01251	SpF39_sRNA
-	MBKLHCAH_01251	
 A0AAE9QQ66	MBKLHCAH_01252	hypothetical protein
-	MBKLHCAH_01253	SpF61_sRNA
-	MBKLHCAH_01253	
 A0A822QKE6	MBKLHCAH_01254	23S rRNA (uracil(1939)-C(5))-methyltransferase
 C1CE19	MBKLHCAH_01255	Extracellular protein
 C1CE18	MBKLHCAH_01256	Pneumococcal vaccine antigen A
@@ -1365,13 +1167,7 @@ B2IPH4	MBKLHCAH_01264	Bifunctional 4-oxalocrotonate tautomerase/xylose transport
 B2IPH3	MBKLHCAH_01265	GTPase and tRNA-U34 5-formylation enzyme MnmE
 A0A0B7LBY4	MBKLHCAH_01266	4-hydroxy-tetrahydrodipicolinate synthase
 A0A0H2UPS5	MBKLHCAH_01267	Aspartate-semialdehyde dehydrogenase
-	MBKLHCAH_01268	asd
-	MBKLHCAH_01268	
-	MBKLHCAH_01269	tRNA-Thr(ggt)
-	MBKLHCAH_01269	
 Q8DQ01	MBKLHCAH_01270	Substrate-specific component QueT of putative queuosine-regulated ECF transporter
-	MBKLHCAH_01271	preQ1-II
-	MBKLHCAH_01271	
 Q8DQ02	MBKLHCAH_01272	GtrA family protein
 Q8DQ03	MBKLHCAH_01273	Large-conductance mechanosensitive channel MscL
 A0A4M5TYG8	MBKLHCAH_01274	Ferrochelatase%2C protoheme ferro-lyase
@@ -1384,8 +1180,6 @@ A0A4J1ZBT8	MBKLHCAH_01280	Pneumococcal histidine triad protein E
 A0A0E3JDY3	MBKLHCAH_01281	Pneumococcal histidine triad protein B
 A0A0B7LM61	MBKLHCAH_01282	Laminin-binding surface protein
 B2IPF3	MBKLHCAH_01283	Cationic amino acid transporter%2C APC Superfamily
-	MBKLHCAH_01284	SpF36_sRNA
-	MBKLHCAH_01284	
 C1CDZ5	MBKLHCAH_01285	Thiol:disulfide oxidoreductase
 Q8DQ11	MBKLHCAH_01286	Cytochrome c-type biogenesis protein CcdA-2
 A0A0B7MGQ5	MBKLHCAH_01287	Hypothetical protein
@@ -1425,8 +1219,6 @@ A0A0B4ZJI3	MBKLHCAH_01320	Lactoylglutathione lyase
 Q04KW7	MBKLHCAH_01321	LSU ribosomal protein L20p
 Q04KW8	MBKLHCAH_01322	LSU ribosomal protein L35p
 Q04KW9	MBKLHCAH_01323	Translation initiation factor 3
-	MBKLHCAH_01324	L20_leader
-	MBKLHCAH_01324	
 A0A4J1ZRY4	MBKLHCAH_01325	Hypothetical protein
 B1IBB6	MBKLHCAH_01326	ABC transporter%2C ATP-binding protein
 A0A4J1ZQU0	MBKLHCAH_01327	Late competence DNA transporter ComEC
@@ -1474,8 +1266,6 @@ A0A4J1ZK89	MBKLHCAH_01368	ABC transporter permease protein
 C1CDQ8	MBKLHCAH_01369	ABC transporter ATP-binding protein
 A0AA86XKT2	MBKLHCAH_01370	Hypothetical protein
 A0A0B7M8W2	MBKLHCAH_01371	Hypothetical protein
-	MBKLHCAH_01372	Spd-sr07
-	MBKLHCAH_01372	
 A0A5C8QW28	MBKLHCAH_01373	Putative phage shock protein C
 A0A0B7LHD2	MBKLHCAH_01374	Putative SprT family zinc-dependent metallopeptidase
 A0A0B7LIN4	MBKLHCAH_01375	Transcription accessory protein
@@ -1511,10 +1301,6 @@ A0A4J1ZK38	MBKLHCAH_01404	DNA translocase FtsK
 A0A4J1Z435	MBKLHCAH_01405	Fructose-specific PTS IIABC components
 A0A0H2ZPQ7	MBKLHCAH_01406	1-phosphofructokinase
 Q8DQ97	MBKLHCAH_01407	Transcriptional repressor of the fructose operon%2C DeoR family
-	MBKLHCAH_01408	tRNA-Ser(gga)
-	MBKLHCAH_01408	
-	MBKLHCAH_01409	transfer-messenger RNA%2C SsrA
-	MBKLHCAH_01409	
 Q8DQ98	MBKLHCAH_01410	Coordinator of zonal cell elongation
 Q75Y33	MBKLHCAH_01411	D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3
 Q8DQA0	MBKLHCAH_01412	Iron-sulfur cluster assembly protein SufB
@@ -1525,16 +1311,10 @@ B1IB34	MBKLHCAH_01416	Iron-sulfur cluster assembly ATPase protein SufC
 Q8CYX9	MBKLHCAH_01417	Hypothetical protein
 A0A0B7LRD6	MBKLHCAH_01418	DNA polymerase III subunits gamma and tau
 A0A0H2UPG8	MBKLHCAH_01419	GAF domain-containing protein
-	MBKLHCAH_01420	Srn266
-	MBKLHCAH_01420	
 A0A4P0AG60	MBKLHCAH_01421	IS1167 transposase Orf1
 A0A559A0J2	MBKLHCAH_01422	hypothetical protein
 A0A4J1RA77	MBKLHCAH_01423	IS1167 transposase
 C1CDK9	MBKLHCAH_01424	SSU ribosomal protein S1p
-	MBKLHCAH_01425	tRNA-Gln(ttg)
-	MBKLHCAH_01425	
-	MBKLHCAH_01426	tRNA-Tyr(gta)
-	MBKLHCAH_01426	
 Q8CYY0	MBKLHCAH_01427	Hypothetical protein
 Q04L55	MBKLHCAH_01428	Pyrrolidone-carboxylate peptidase
 Q8DQB0	MBKLHCAH_01429	Putative membrane protein
@@ -1546,8 +1326,6 @@ B2INX2	MBKLHCAH_01434	Restriction enzyme BcgI alpha chain-like protein
 Q3HZ74	MBKLHCAH_01435	Topoisomerase IV subunit B
 Q04L63	MBKLHCAH_01436	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
 A0A4J1ZII5	MBKLHCAH_01437	IS1167 transposase
-	MBKLHCAH_01438	Srn266
-	MBKLHCAH_01438	
 A0A4J1ZI71	MBKLHCAH_01439	IS3 family transposase ISSpn4
 A0A0T8E9Z5	MBKLHCAH_01440	IS3 family transposase ISSpn11
 A0A064C567	MBKLHCAH_01441	hypothetical protein
@@ -1656,8 +1434,6 @@ C1CD82	MBKLHCAH_01543	Pyruvate oxidase
 A0A4J1Z0A7	MBKLHCAH_01544	Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase
 B2INB0	MBKLHCAH_01545	Copper-exporting ATPase
 C1CD79	MBKLHCAH_01546	Negative transcriptional regulator of copper transport operon
-	MBKLHCAH_01547	TPP
-	MBKLHCAH_01547	
 C1CD78	MBKLHCAH_01548	Hydroxymethylpyrimidine phosphate kinase ThiD
 C1CD77	MBKLHCAH_01549	Thiamin-phosphate pyrophosphorylase
 B8ZN21	MBKLHCAH_01550	Hydroxyethylthiazole kinase
@@ -1666,13 +1442,9 @@ A0A4J1Z010	MBKLHCAH_01552	Thiaminase II TenA
 A0A4J1Z063	MBKLHCAH_01553	Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A4J1YZZ5	MBKLHCAH_01554	Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
 A0A4J1YZV5	MBKLHCAH_01555	Substrate-specific component YkoE of thiamin-regulated ECF transporter for hydroxymethylpyrimidine
-	MBKLHCAH_01556	TPP
-	MBKLHCAH_01556	
 A0A062WTJ4	MBKLHCAH_01557	Thiamin-phosphate pyrophosphorylase
 A0A4J1YZS0	MBKLHCAH_01558	Hydroxyethylthiazole kinase
 Q8DQK6	MBKLHCAH_01559	Thiaminase II
-	MBKLHCAH_01560	TPP
-	MBKLHCAH_01560	
 Q8DQK7	MBKLHCAH_01561	L-Lactate 2-monooxygenase
 Q8CWS5	MBKLHCAH_01562	Class II lysyl-tRNA synthetase
 B2IN94	MBKLHCAH_01563	L-Lactate 2-monooxygenase
@@ -1687,8 +1459,6 @@ C1CD58	MBKLHCAH_01571	Hypothetical protein
 B1IAM9	MBKLHCAH_01572	Hypothetical protein
 P0CB78	MBKLHCAH_01573	Orotate phosphoribosyltransferase
 A0A4J1YZG3	MBKLHCAH_01574	Orotidine 5'-phosphate decarboxylase
-	MBKLHCAH_01575	PyrR
-	MBKLHCAH_01575	
 A0A4J1YZ46	MBKLHCAH_01576	Cell division protein DivIB
 C1CJF3	MBKLHCAH_01577	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
 A0A4J1YZ77	MBKLHCAH_01578	UDP-N-acetylmuramoylalanine--D-glutamate ligase
@@ -1727,8 +1497,6 @@ Q8DQP3	MBKLHCAH_01610	Putative rRNA methylase YtqB
 A0A0I6C073	MBKLHCAH_01611	hypothetical protein
 A0A4M9XIK4	MBKLHCAH_01612	hypothetical protein
 B1IAJ2	MBKLHCAH_01613	Hypothetical protein
-	MBKLHCAH_01614	SpF25_sRNA
-	MBKLHCAH_01614	
 B1IAJ0	MBKLHCAH_01615	hypothetical protein
 A0A0B7LPN1	MBKLHCAH_01616	hypothetical protein
 A0A4J1YXP1	MBKLHCAH_01617	Beta-galactosidase BgaA
@@ -1742,8 +1510,6 @@ Q8DQP8	MBKLHCAH_01624	Multidrug ABC transporter permease protein
 C1CD09	MBKLHCAH_01625	Antibiotic ABC transporter permease protein
 A0A0E7TI46	MBKLHCAH_01626	ABC transporter ATP-binding protein
 A0AAD2IHS4	MBKLHCAH_01627	hypothetical protein
-	MBKLHCAH_01628	Intron_gpII
-	MBKLHCAH_01628	
 Q04LP6	MBKLHCAH_01629	LSU ribosomal protein L1p (L10Ae)
 Q97RZ6	MBKLHCAH_01630	LSU ribosomal protein L11p (L12e)
 A0A062WT68	MBKLHCAH_01631	L%2CD-carboxypeptidase
@@ -1752,8 +1518,6 @@ A0A4J1XNB0	MBKLHCAH_01633	IS5 family transposase ISSpn7
 A0A4J1YWV1	MBKLHCAH_01634	Histidine triad family protein
 A0A0T8ZU57	MBKLHCAH_01635	Deblocking aminopeptidase
 C1C5Z4	MBKLHCAH_01636	Branched-chain amino acid transport system carrier protein
-	MBKLHCAH_01637	SpF22_sRNA
-	MBKLHCAH_01637	
 Q8CZ26	MBKLHCAH_01638	hypothetical protein
 C1CCZ5	MBKLHCAH_01639	Uracil-DNA glycosylase
 A0A6I3U5H3	MBKLHCAH_01640	Dipeptidase PepV
@@ -1778,8 +1542,6 @@ C1CCX7	MBKLHCAH_01658	Two-component system response regulator VncR
 Q9S4J0	MBKLHCAH_01659	Peptide ABC transporter membrane-spanning permease Vex3
 A0A0D6J9C9	MBKLHCAH_01660	ABC transporter ATP-binding protein Vex2
 A0A0D6J9W6	MBKLHCAH_01661	Peptide ABC transporter membrane-spanning permease Vex1
-	MBKLHCAH_01662	Intron_gpII
-	MBKLHCAH_01662	
 A0A4J1YVI5	MBKLHCAH_01663	hypothetical protein
 Q8DQS6	MBKLHCAH_01664	Leucine rich protein
 Q8DQS7	MBKLHCAH_01665	Mini-ribonuclease III
@@ -1799,8 +1561,6 @@ A0A4J1ZU51	MBKLHCAH_01678	IS1380 family transposase ISSpn5
 A0A4J1XBB7	MBKLHCAH_01679	6-phospho-beta-glucosidase
 A0A4J1ZVK7	MBKLHCAH_01680	Beta-glucoside-specific PTS IIBCA components
 Q8DQU1	MBKLHCAH_01681	Beta-glucoside bgl operon antiterminator BglG
-	MBKLHCAH_01682	SpF19_sRNA
-	MBKLHCAH_01682	
 Q8DNZ4	MBKLHCAH_01683	IS3 family transposase ISSpn11
 A0A4J2FSI9	MBKLHCAH_01684	IS3 family transposase ISSpn11
 A0A380LW28	MBKLHCAH_01685	Putative transposase InsK for insertion sequence element IS150
@@ -1872,11 +1632,7 @@ A0A4J1ZHW3	MBKLHCAH_01750	Hypothetical protein
 Q8CZ54	MBKLHCAH_01751	Hypothetical protein
 A0A4J1ZHQ0	MBKLHCAH_01752	Membrane-associated phospholipid phosphatase
 C1C5L4	MBKLHCAH_01753	Substrate-specific component RibU of riboflavin ECF transporter
-	MBKLHCAH_01754	FMN
-	MBKLHCAH_01754	
 A0A0H2UNS5	MBKLHCAH_01755	tRNA (cytidine(34)-2'-O)-methyltransferase
-	MBKLHCAH_01756	23S-methyl
-	MBKLHCAH_01756	
 C1CCN3	MBKLHCAH_01757	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
 A0A4J1WJZ6	MBKLHCAH_01758	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
 C1C5L0	MBKLHCAH_01759	Hypothetical protein
@@ -1915,8 +1671,6 @@ Q8DR12	MBKLHCAH_01791	Alkaline shock protein
 Q04M45	MBKLHCAH_01792	Transcription termination protein NusB
 A0A4L4YKA0	MBKLHCAH_01793	IS1167 transposase
 A0A4J1ZGD7	MBKLHCAH_01794	IS1167 transposase
-	MBKLHCAH_01795	Srn266
-	MBKLHCAH_01795	
 A0A4J1ZH98	MBKLHCAH_01796	hypothetical protein
 A0A0I8RVJ1	MBKLHCAH_01797	Hypothetical protein
 A0A064BZA7	MBKLHCAH_01798	Acetyl-coenzyme A carboxyl transferase alpha chain
@@ -1938,8 +1692,6 @@ Q8DR22	MBKLHCAH_01813	Seryl-tRNA synthetase
 A0A4J1ZFH5	MBKLHCAH_01814	Exfoliative toxin A
 Q8DR24	MBKLHCAH_01815	Macrophage infectivity potentiator protein
 A0AAE9U1N7	MBKLHCAH_01816	Sodium/glycine symporter GlyP
-	MBKLHCAH_01817	Glycine
-	MBKLHCAH_01817	
 A0A4J1ZFH6	MBKLHCAH_01818	Recombination inhibitory protein MutS2
 C1C5E3	MBKLHCAH_01819	Z-ring positive regulator ZapB
 C1CCH1	MBKLHCAH_01820	Z-ring positive regulator ZapA
@@ -1967,8 +1719,6 @@ B1I9H6	MBKLHCAH_01841	Orphan response regulator RitR
 Q8DR54	MBKLHCAH_01842	6-phosphogluconate dehydrogenase%2C decarboxylating
 A0A4J1ZT75	MBKLHCAH_01843	Mid-cell-anchored protein Z
 A0A0B7MBB7	MBKLHCAH_01844	23S rRNA (guanine(2445)-N(2))-methyltransferase
-	MBKLHCAH_01845	RNaseP_bact_b
-	MBKLHCAH_01845	
 Q97SI9	MBKLHCAH_01846	Cell division protein GpsB
 Q8DR58	MBKLHCAH_01847	Hypothetical protein
 A0A4J1ZSR2	MBKLHCAH_01848	RecU Holliday junction resolvase
@@ -2017,11 +1767,7 @@ A0A4J1YT67	MBKLHCAH_01890	Hyaluronate lyase precursor SpnHL
 A0A4J1YT50	MBKLHCAH_01891	Hyaluronate lyase precursor SpnHL
 A0A4J1YT39	MBKLHCAH_01892	Hyaluronate lyase precursor SpnHL
 A0A0B7LM43	MBKLHCAH_01893	Glutathione peroxidase family protein
-	MBKLHCAH_01894	SpF11_sRNA
-	MBKLHCAH_01894	
 A0A4J2A8J5	MBKLHCAH_01895	Maltodextrin glucosidase
-	MBKLHCAH_01896	SpF10_sRNA
-	MBKLHCAH_01896	
 A0A0B7LX26	MBKLHCAH_01897	hypothetical protein
 Q8CZ76	MBKLHCAH_01898	Hypothetical protein
 C1CB88	MBKLHCAH_01899	Cellobiose-specific PTS IIC component
@@ -2034,8 +1780,6 @@ A0A4J1YSL1	MBKLHCAH_01905	6-phospho-beta-glucosidase
 A0A0E8P0Z6	MBKLHCAH_01906	Hypothetical protein
 Q8CWU4	MBKLHCAH_01907	SSU ribosomal protein S9p (S16e)
 Q8CWU5	MBKLHCAH_01908	LSU ribosomal protein L13p (L13Ae)
-	MBKLHCAH_01909	L13_leader
-	MBKLHCAH_01909	
 Q8CZ79	MBKLHCAH_01910	Hypothetical protein
 A0A4J1WK62	MBKLHCAH_01911	Bifunctional dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
 Q04MF9	MBKLHCAH_01912	GTP cyclohydrolase I type 1
@@ -2067,15 +1811,9 @@ A0A6G2D8G0	MBKLHCAH_01937	Prolyl-tRNA synthetase
 Q8DRB1	MBKLHCAH_01938	Intramembrane protease Eep
 B2ISI7	MBKLHCAH_01939	Phosphatidate cytidylyltransferase
 Q8DRB3	MBKLHCAH_01940	Undecaprenyl diphosphate synthase
-	MBKLHCAH_01941	csRNA
-	MBKLHCAH_01941	
 A0A4J1YPR2	MBKLHCAH_01942	Hypothetical protein
 A0A4J1YRR6	MBKLHCAH_01943	Hypothetical protein
 Q8CWU7	MBKLHCAH_01944	Holliday junction DNA helicase RuvB
-	MBKLHCAH_01945	csRNA
-	MBKLHCAH_01945	
-	MBKLHCAH_01946	csRNA
-	MBKLHCAH_01946	
 A0A4J1YP84	MBKLHCAH_01947	Acetyltransferase%2C GNAT family
 A0A4J1YPK3	MBKLHCAH_01948	Acetyltransferase%2C GNAT family
 A0A4J1YPI7	MBKLHCAH_01949	Acetyltransferase%2C GNAT family
@@ -2097,12 +1835,8 @@ A0A4J1YRU4	MBKLHCAH_01964	Ferric iron ABC transporter ATP-binding protein
 A0AA86XHZ9	MBKLHCAH_01965	hypothetical protein
 A0A6G2DHD5	MBKLHCAH_01966	Iron(III)-transport system permease protein SfuB
 A0A4J1YNH3	MBKLHCAH_01967	Phosphoglycerate mutase family protein
-	MBKLHCAH_01968	csRNA
-	MBKLHCAH_01968	
 A0A4J1YRG4	MBKLHCAH_01969	hypothetical protein
 C1CC34	MBKLHCAH_01970	ACT domain-containing transcriptional regulator
-	MBKLHCAH_01971	L17DE
-	MBKLHCAH_01971	
 Q8CWU8	MBKLHCAH_01972	LSU ribosomal protein L17p
 Q04ML1	MBKLHCAH_01973	DNA-directed RNA polymerase alpha subunit
 Q04ML2	MBKLHCAH_01974	SSU ribosomal protein S11p (S14e)
@@ -2154,8 +1888,6 @@ A0A4J1YLA7	MBKLHCAH_02019	Muramoyltetrapeptide carboxypeptidase
 A0A4J1YQL7	MBKLHCAH_02020	CAAX amino terminal protease family protein
 Q8CWV9	MBKLHCAH_02021	DNA-3-methyladenine glycosylase
 C1CI73	MBKLHCAH_02022	Holliday junction DNA helicase RuvA
-	MBKLHCAH_02023	FMN
-	MBKLHCAH_02023	
 A0A4J1YQH3	MBKLHCAH_02024	Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
 A0AA86XQ21	MBKLHCAH_02025	Riboflavin synthase RibE
 C1CBY0	MBKLHCAH_02026	Bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II RibB
@@ -2192,8 +1924,6 @@ C1CBV4	MBKLHCAH_02056	ABC transporter ATP-binding protein
 A0A4M9WTJ4	MBKLHCAH_02057	Family 2 glycosyltransferase
 A0A4I2KPJ3	MBKLHCAH_02058	Exopolysaccharide biosynthesis glycosyltransferase EpsF
 A0A4J1YMY2	MBKLHCAH_02059	Exopolysaccharide biosynthesis glycosyltransferase EpsF
-	MBKLHCAH_02060	Srn266
-	MBKLHCAH_02060	
 C1CAF8	MBKLHCAH_02061	IS1167 transposase
 C1CBV1	MBKLHCAH_02062	IS1167 transposase Orf2
 A0A822Q954	MBKLHCAH_02063	N(6)-L-threonylcarbamoyladenine synthase TsaD
@@ -2206,13 +1936,9 @@ A0A098Z763	MBKLHCAH_02069	Hypothetical protein
 A0A654UA55	MBKLHCAH_02070	Ribonuclease J1 (endonuclease and 5' exonuclease)
 Q97T36	MBKLHCAH_02071	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
 A0A0D6J407	MBKLHCAH_02072	MutT/Nudix family protein
-	MBKLHCAH_02073	Spd-sr37
-	MBKLHCAH_02073	
 B8ZK04	MBKLHCAH_02074	tRNA-specific 2-thiouridylase MnmA
 A0A4J1YNC2	MBKLHCAH_02075	hypothetical protein
 A0A4M7K3I2	MBKLHCAH_02076	hypothetical protein
-	MBKLHCAH_02077	SpF03_sRNA
-	MBKLHCAH_02077	
 A0A4J1QTX9	MBKLHCAH_02078	Pyridoxamine 5'-phosphate oxidase
 A0A4J1YNB2	MBKLHCAH_02079	Hypothetical protein
 A0A4J1YJ15	MBKLHCAH_02080	Hypothetical protein
@@ -2226,16 +1952,10 @@ A0A4J1YIV6	MBKLHCAH_02087	HlyD family secretion protein
 C1CBT2	MBKLHCAH_02088	Hypothetical protein
 A0A0T7IZ90	MBKLHCAH_02089	Competence-stimulating peptide ABC transporter ATP-binding protein ComA
 A0A4J1YJR8	MBKLHCAH_02090	Hypothetical protein
-	MBKLHCAH_02091	SpF03_sRNA
-	MBKLHCAH_02091	
 C1CAD2	MBKLHCAH_02092	Hypothetical protein
-	MBKLHCAH_02093	Srn266
-	MBKLHCAH_02093	
 A0A4J1ZTY7	MBKLHCAH_02094	IS1167 transposase Orf1
 A0AA95D7A8	MBKLHCAH_02095	hypothetical protein
 A0A4N0C410	MBKLHCAH_02096	IS1167 transposase
-	MBKLHCAH_02097	Bacilli-1
-	MBKLHCAH_02097	
 A0AAE9QN61	MBKLHCAH_02098	Argininosuccinate synthase
 B2IRI9	MBKLHCAH_02099	Amino acid ABC transporter substrate-binding/permease protein
 C1CBS7	MBKLHCAH_02100	ABC transporter ATP-binding protein
@@ -2262,8 +1982,6 @@ B2IRG9	MBKLHCAH_02120	ABC transporter permease protein
 A0A4J1YHY4	MBKLHCAH_02121	Multiple sugar ABC transporter%2C membrane-spanning permease protein
 A0A0B7LF48	MBKLHCAH_02122	Hypothetical protein
 A0A4J1YM51	MBKLHCAH_02123	Hypothetical protein
-	MBKLHCAH_02124	SpF01_sRNA
-	MBKLHCAH_02124	
 Q04MZ3	MBKLHCAH_02125	SSU ribosomal protein S4p (S9e)
 C1C9Y4	MBKLHCAH_02126	Two-component system sensor histidine kinase
 B2IRG2	MBKLHCAH_02127	Two-component system response regulator
