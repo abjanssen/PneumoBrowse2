@@ -9685,6 +9685,435 @@
       ]
     },
     {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "All_JB_RNA_seq",
+      "name": "All datasets",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Transcriptomic profiling",
+        "Ramos-Sevillano et al., mBio, 2024"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/6B_THY_JB_plus.bw"
+            },
+            "source": "WT, THY (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/6B_THY_JB_min.bw"
+            },
+            "source": "WT, THY (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/6B_serum_JB_plus.bw"
+            },
+            "source": "WT, human serum (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/6B_serum_JB_min.bw"
+            },
+            "source": "WT, human serum (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/fhs_THY_JB_plus.bw"
+            },
+            "source": "fhs KO, THY (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/fhs_THY_JB_min.bw"
+            },
+            "source": "fhs KO, THY (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/fhs_serum_JB_plus.bw"
+            },
+            "source": "fhs KO, human serum (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/fhs_serum_JB_min.bw"
+            },
+            "source": "fhs KO, human serum (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/spr832_THY_JB_plus.bw"
+            },
+            "source": "proABC KO, THY (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/spr832_THY_JB_min.bw"
+            },
+            "source": "proABC KO, THY (-)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/spr832_serum_JB_plus.bw"
+            },
+            "source": "proABC KO, human serum (+)"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/spr832_serum_JB_min.bw"
+            },
+            "source": "proABC KO, human serum (-)"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "All_JB_RNA_seq",
+          "height": 300,
+          "defaultRendering": "multiline",
+          "layout": [
+            {
+              "source": "WT, THY (+)",
+              "name": "WT, THY (+)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "WT, THY (-)",
+              "name": "WT, THY (-)",
+              "color": "#1f77b4"
+            },
+            {
+              "source": "WT, human serum (+)",
+              "name": "WT, human serum (+)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "WT, human serum (-)",
+              "name": "WT, human serum (-)",
+              "color": "#ff7f0e"
+            },
+            {
+              "source": "fhs KO, THY (+)",
+              "name": "fhs KO, THY (+)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "fhs KO, THY (-)",
+              "name": "fhs KO, THY (-)",
+              "color": "#2ca02c"
+            },
+            {
+              "source": "fhs KO, human serum (+)",
+              "name": "fhs KO, human serum (+)",
+              "color": "#d62728"
+            },
+            {
+              "source": "fhs KO, human serum (-)",
+              "name": "fhs KO, human serum (-)",
+              "color": "#d62728"
+            },
+            {
+              "source": "proABC KO, THY (+)",
+              "name": "proABC KO, THY (+)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "proABC KO, THY (-)",
+              "name": "proABC KO, THY (-)",
+              "color": "#9467bd"
+            },
+            {
+              "source": "proABC KO, human serum (+)",
+              "name": "proABC KO, human serum (+)",
+              "color": "#8c564b"
+            },
+            {
+              "source": "proABC KO, human serum (-)",
+              "name": "proABC KO, human serum (-)",
+              "color": "#8c564b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "WT_THY_JB_RNA_seq",
+      "name": "WT, THY",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Transcriptomic profiling",
+        "Ramos-Sevillano et al., mBio, 2024"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/6B_THY_JB_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/6B_THY_JB_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "WT_THY_JB",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "WT_serum_JB_RNA_seq",
+      "name": "WT, human serum",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Transcriptomic profiling",
+        "Ramos-Sevillano et al., mBio, 2024"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/6B_serum_JB_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/6B_serum_JB_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "WT_serum_JB",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "fhs_THY_JB_RNA_seq",
+      "name": "fhs KO, THY",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Transcriptomic profiling",
+        "Ramos-Sevillano et al., mBio, 2024"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/fhs_THY_JB_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/fhs_THY_JB_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "fhs_THY_JB",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "fhs_serum_JB_RNA_seq",
+      "name": "fhs KO, human serum",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Transcriptomic profiling",
+        "Ramos-Sevillano et al., mBio, 2024"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/fhs_serum_JB_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/fhs_serum_JB_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "fhs_serum_JB",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "proABC_THY_JB_RNA_seq",
+      "name": "proABC KO, THY",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Transcriptomic profiling",
+        "Ramos-Sevillano et al., mBio, 2024"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/spr832_THY_JB_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/spr832_THY_JB_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "proABC_THY_JB",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
+      "type": "MultiQuantitativeTrack",
+      "trackId": "proABC_serum_JB_RNA_seq",
+      "name": "proABC KO, human serum",
+      "assemblyNames": [
+        "BHN418"
+      ],
+      "category": [
+        "Transcriptomic profiling",
+        "Ramos-Sevillano et al., mBio, 2024"
+      ],
+      "adapter": {
+        "type": "MultiWiggleAdapter",
+        "subadapters": [
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/spr832_serum_JB_plus.bw"
+            },
+            "source": "Plus strand"
+          },
+          {
+            "type": "BigWigAdapter",
+            "bigWigLocation": {
+              "locationType": "UriLocation",
+              "uri": "data/BHN418/spr832_serum_JB_min.bw"
+            },
+            "source": "Minus strand"
+          }
+        ]
+      },
+      "displays": [
+        {
+          "type": "MultiLinearWiggleDisplay",
+          "displayId": "proABC_serum_JB",
+          "height": 100,
+          "defaultRendering": "xyplot"
+        }
+      ]
+    },
+    {
       "type": "FeatureTrack",
       "trackId": "DP1322_sorted.gff",
       "name": "Coding features",
@@ -25904,7 +26333,7 @@
     },
     "minimized": false,
     "id": "z4orR3N9nZ43s_Zoq0nDA",
-    "name": "PneumoBrowse (v2.5.24)",
+    "name": "PneumoBrowse (v2.5.25)",
     "margin": 0,
     "views": [
       {
