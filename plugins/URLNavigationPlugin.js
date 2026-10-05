@@ -396,6 +396,7 @@
             return
           }
 
+
           await when(() => session.assemblyManager.assemblies.length > 0)
 
           // Resolve the (possibly de-punctuated/mis-cased) searchstrain
@@ -528,7 +529,7 @@
           const rawFeatures = await rpcManager.call(sessionId, 'CoreGetFeatures', { sessionId, adapterConfig, regions: [queryRegion] })
           const features = (rawFeatures || []).map(feature => typeof feature?.get === 'function' ? feature : new SimpleFeature(feature))
           const normalizedSearch = normalizeKey(resolvedSearchstring)
-          const targetFeature = features.find(feature => [feature.get('locus_tag'), feature.get('tigr4_locus_tag'), feature.get('Name'), feature.get('name'), ...(String(feature.get('alias') || '').split(',').map(value => value.trim()))].filter(Boolean).some(value => normalizeKey(value) === normalizedSearch))
+          const targetFeature = features.find(feature => [feature.get('locus_tag'), feature.get('tigr4_locus_tag'), feature.get('old_locus_tag'), feature.get('Name'), feature.get('name'), ...(String(feature.get('alias') || '').split(',').map(value => value.trim()))].filter(Boolean).some(value => normalizeKey(value) === normalizedSearch))
           const featureDisplay = liveTrack.displays.find(display => typeof display.selectFeature === 'function')
           await featureDisplay.selectFeature(targetFeature)
           /// BLOCK FOR GENE INFO ENDS HERE ///
